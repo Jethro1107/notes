@@ -1,0 +1,74 @@
+---
+id: 8965cdce-d54d-416c-91a0-dd20b653bce2
+title: Hyperkalaemia
+---
+
+# Hyperkalaemia
+
+- **Definition** - plasma K level \> 5.0 mmol/L
+- **Etiology of hyperK** - either a result of redistribution out of the cell, or intake exceeding excretion capacity: 
+![](../img/davidson_diagnostic_approach_to_hyperK.png)
+    - **Spurious hyperK** (artefactual) - repeat labs if clinically asymptomatic:
+        - In vitro haemolysis
+        - High WBC, High PLT
+    - **Excessive K load** - exogenous vs endogenous sources:
+        - <u>Exogenous</u> (only on a background of impaired K excretion) - diet, inappropriate IV therapy
+        - <u>Endogenous</u> - haemolysis, tumour lysis syndrome, rhabdomylolysis
+    - **Redistribution out of cells** - normal total body K:
+        - Acidosis
+        - Insuilin deficiency
+        - beta-blockers
+        - Severe hyperglycaemia
+        - Hyperkalaemic periodic paralysis
+    - **Renal failure** - impaired ultrafiltration due to low eGFR (SCr \> 500 mmol/L):
+        - <u>Acute kidney injury</u> - especially w/ concomitant acidosis, haemolysis, sepsis, or rhabdomyolysis resulting in increased renal K load
+        - <u>Chronic renal failure</u> - especially w/ oliguria, on a background of increased K load or S/E of medications
+    - **Hypoaldosteronism** - a/w normal RFT low aldosterone:
+        - <u>Adrenal diseases</u> - Addison's disease (adrenocortical failure), Congenital adrenal hyperplasia (adrenal enzyme defects)
+        - <u>Hyporeniaemic hypoaldosteronism</u> (related to Type 4 DKA) - impaired renin synthesis and secretion due to different pathomechanisms of **diabetes mellitus** complicated w/ mild nephropathy and autonomic neuropathy
+        - <u>Blunted response of aldosterone secretion to K levels</u> (RAAS blockade) - ACEi, ARB
+        - <u>Other drugs</u>:
+            - **NSAID** - through 1) AKI, and 2) reduced Na delivery to DCT impairing K secretion
+            - **Beta-blockers** - through 1) redistribution, 2) reduced sympathetic tone stimulating renin secretion
+            - **Cyclosporin** - nephrotoxic agent
+            - **Prolonged heaprin therapy**
+    - **Impaired K secretion by DCT** - a/w normal RFT and normal-high aldosterone:
+        - <u>Tubulointerstitial disease</u> - acute interstitial nephritis, chronic interstitial nephritis, SLE, ATN after renal transplant, obstructive uropathy, renal infections
+        - <u>Tubular transport defects</u> - pseudohypoaldosteronism
+        - <u>Drugs affecting the DCT</u> - K sparing diuretics (e.g. amiloride, spironolactone, eplerenone)
+- **Clinical features of HyperK:**
+    - <u>Asymptomatic</u> - asymptomatic if mild hyperK
+    - <u>Muscle weakness</u> - progressive muscle weakness in relations to severity of hyperK
+    - <u>Arrhythmia</u> - can cause <u>tachyarrhythmias</u> due to increased excitability, ectopic, and re-entry, or <u>bradyarrhythmias</u>, or manifest as arrest (asystole, VF, pVT)
+    - <u>Cardiac arrest</u> - may be the **first manifestation of hyperK** (H's and T's)
+- **ECG changes in hyperK:**
+    - Peak T waves
+    - Widen QRS
+    - Loss of P wave
+
+  
+  ![](../img/ecg_in_hyperK_hypoK.png)
+- **Approach to hyperK:**
+    - <u>Hx</u> - review drug list and PMH
+    - <u>P/E</u> - general examination for renal patient (i.e. complexion, volume status), B/P, cardiovascular examination to assess ECG risk
+    - <u>Ix</u> - 12-lead ECG, RFT +/- morning cortisol
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Assessment of severity</u> - consider severity and rate of development:
+            - Mild hyperK - stable, mildly elevated K (\< 5.5 mmol/L) w/ <u>absence of neuromuscular Sx and ECG changes</u> (treat underlying abnormality)
+            - Severe hyperK - rapidly rising K (\> 6.5 mmol/L) or <u>presence of neuromuscular Sx and ECG changes irrespective of K level</u> (emergency Tx instantiated to stabilise membrane potential)
+        - <u>Dx and treat underlying cause</u> - indicated for all patients irrespective of severity
+        - <u>Tx of severe hyperK</u> - see below
+    - **Tx of severe hyperK:** 
+    ![](../img/tx_of_severe_hyperk.png)
+        - **IV calcium gluconate** - 10 ml of 10% solution:
+            - <u>Indications</u> - for severe hyperK w/ ECG changes (typically \> 7 mmol/L)
+            - <u>MOA</u> - prevents arrhythmia as Ca has opposite effects to K on conduction of action potential (i.e. temporary measure for stabilisation of membrane potential)
+        - **Temporary redistribution of K intracellularly** - raid mechanisms to avert fatal arrhythmia:
+            - Inhaled beta-2 adrenoreceptor agonist (e.g. salbutamol)
+            - IV Dextrose-insulin (50 ml of D50 + 5U Actrapid)
+            - IV sodium bicaronate (if acidosis present)
+        - **Removal of K from body:**
+            - <u>Loop diuretics and normal saline</u> - if adequate renal function where NS prevents hypovolaemia
+            - <u>Ion-exchange resin</u> - if established renal failure, enabling K secretion through GI tract
+            - <u>Dialysis</u> - may be required

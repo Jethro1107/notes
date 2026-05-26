@@ -1,0 +1,286 @@
+---
+id: 675C5F84-28D6-403A-A63F-71A622C4469D
+title: Harrison Ch247 Electrocardiography
+---
+
+# Ch247 Electrocardiography
+
+## Electrophysiologic Background
+
+- **ECG:**
+  - Graphical representation of electrical activity of the heart
+  - Detected by means of metallic electrodes attached to extremities and the chest wall, the so called electrocardiograph device
+  - ECG leads represent instantaneous differences in electrical potentials between specific sets of electrodes
+- **Electrophysiology behind the cardiac cycle** - electrical activity that spread are produced by 1) cardiac pacemaker cells, 2) specialised conduction tissue, 3) heart muscle:
+  - <u>SA node activation and atrial depolarisation</u> - spotaneous automaticity w/ spread of depolarisation wave from **right atria to left atria** and towards the AV node
+  - <u>Stimulation of AV junction</u> - the AV nodal tissue and Bundle of His slows conduction velocity such that V contracts after A
+  - <u>Stimulation of bundle branch</u> - rapid transmission of depolarisation wavefronts in a synchronised manner via the Purkinje fibres:
+    - RBBB - single bundle branch responsible for depolarisation of the RG wall
+    - LBBB - fans out into the left anterior and left posterior fascicular subdivisions
+  - <u>Synchronised depolarisation of the ventricular wall</u> - spread of depolarisation and repolarisation wave fronts **from endocardium to epicardium**
+
+  
+  ![](../img/schematic_of_cardiac_conduction_system.png)
+- **Principles of deflections in the ECG:**
+  - <u>Upward deflection</u> - reflects depolarisation of the myocardium
+  - <u>Downward deflection</u> - reflects repolarisation of the myocardium
+
+## Genesis of the Normal ECG
+
+- **Standard calibration of an ECG** - divided into a gride of small 1x1 mm boxes, and large 5x5 mm boxes:
+  - <u>Horizontal axis</u> - represents time; sweep speed of 25 mm/s, where one small box corresponds to 40ms (0.04s) while one large box corresponds to 200ms (0.2s)
+  - <u>Vertical axis</u> - represents amplitude; 1 mV = 10 mm (2 large boxes)
+- **Standard ECG configuration** - configured in a way that is easy for interpretation:
+  - Positive (upright) deflections - corresponds to wave of depolarisation towards the positive pole of that lead
+  - Negative (downward) deflections - corresponds to wave of depolarisation towards negative pole of that lead
+  - Biphasic deflections (equally +ve and -ve deflections) - correspond to wave of depolarisation perpendicular to the lead axis
+- **12 leads of the 12-lead ECGs** - each lead analogous to a video-camera angle "looking" at the same events at different spatial orientation:
+  - <u>Limb leads</u> (I, II, III, aVL, aVR, aVF) - records potential transmitted on the frontal plane
+  - <u>Precordial leads</u> (V1-6) - records potential transmitted on the horizontal lanes
+
+  ![](../img/frontal_plane_leads.png) 
+  ![](../img/precordial_leads.png)
+- **Basic ECG waveforms and intervals:**
+  - **Waveforms:**
+    - <u>P wave</u> - representation of atrial depolarisation
+    - <u>QRS complex</u> - representation of ventricular depolarisation
+    - <u>ST-T-U complex</u> (ST segment, T wave, and U wave) - representation of ventricular repolarisation (atrial repolarisation waveforms \[ST-Ta\] are too low amplitude to be detected but may be seen in certain pathological conditions)
+  - **Intervals:**
+    - <u>RR interval</u> - for instantaneous heart rate (dividing number of large boxes \[0.2s\] into 300)
+    - <u>PR interval</u> - representaiton of the delay between atria and ventricular depolarisation (usu. 120-200 ms as imposed by the properties of the AV junction)
+    - <u>QT interval</u> - subtends both ventricular depolarisation (QRS complex), and repolarisation, which normally varies w/ HR (QTc = QT / sq. root of RR)
+- **QRS-T waveforms** - correspond to the <u>sequential phases of ventricular action potentials</u>:
+  - Phase 0 (rapid upstroke) - corersponds to onset of QRS, prolonged by factors affecting Na influx (e.g. hyperK, Na channel blockers)
+  - Phase 2 (plateau) - corresponds to the iso-eleectric ST segment
+  - Phase 3 (active repolarisation) - corresponds to the inscription of the T wave index
+- **P wave** - normal depolarisation is oriented downwards and towards the left (as spreads from the right atrium over to the left atrium), <u>sinus P waves</u> are:
+  - +ve on lead II
+  - -ve on aVR
+  - Biphasic in V1 (w/ initial small +ve component reflecting RA depolarisation, followed by a small \[\< 1 mm2\] component reflecting left atrial depolarisation; influenced by atrial enlargements)
+- **QRS complex** - record of "vector rotation over time":
+  - <u>Sequential depolarsisation of the ventricles</u>:
+    - 1\. Interventricular septum (usu. accounts for physiological Q waves)
+    - 2\. Ventricles
+    - 3\. Base of left ventricles
+  - <u>Principles of QRS complex</u> - reflected by a combination of ventricular vectors:
+    - Small ventricle vector (Vs) - depolarisation of interventricular septum from left to right anteriorly
+    - Large main ventricular vector (Vh) - depolarisation of the LV and RV; oriented towards **towards the left and posteriorly** due to bulky LV (RV activation has limited influence on Vh)
+    - Small terminal vector (Vt) - depolarisation of the base of LV (minimal effects)
+
+    ![](../img/ventricular_vectors_ecg_book.png) 
+    ![](../img/ventricular_vectors_simplied_davidson.png)
+  - <u>Manifestation on QRS complexes on precordial eads</u>:
+    - Right precordial leads - usually small +ve deflection (septal r wave), followed by large -ve depolarisation (S wave)
+    - Left precordial leads - usually small -ve deflection (septal q wave), followed by large +ve depolarisation (R wave)
+    - Transitional zone (normally V3/4) - perpendicular to Vh such that R and S wave is of equal amplitude
+  - <u>Manifestation of QRS complexes on limb leads</u> - extremely variable:
+    - Electrical axis of the QRS is the mean orientaiton of the QRS vector w/ reference to the 6 limb leads
+    - Variable in normal individuals (e.g. RAD in adolescents)
+    - Variable in pathological conditions
+- **T wave and U wave:**
+  - <u>Sequential repolarisation of the ventricles</u>:
+    - Normal repolarisation must be in reverse direction from depolarisation (i.e. epicardium to endocardium)
+    - However, as depolarisation and repolarisation are electrically opposite processes, the interpretation of the polarity must be switched
+    - QRS-T wave vector concordnace
+  - <u>U wave</u> - smal rounded deflection folowing T wave w/ same polarity as T wave
+
+## Major ECG Abnormalities
+
+### Cardiac Enlargement and Hypertrophy
+
+- **Atrial chamber enlargements** - best <u>assessed on V1</u> by determining the relative contributions of RA and LA to the normally biphasic P wave:
+  - <u>Right atrial overload</u> (P-pulmonale) - increased P-wave amplitude, i.e. peaked P wave (\>= 2.5mm), dominating over the left-atrial component
+  - <u>Left atrial abnormality</u> (P-mitrale) - not always a/w LAE as can also be caused by intra-atrial block; increased prominence of bi-phasic P wave in V1 with **broad -ve component**, often a/w **broad, notched P waves in limb leads** (esp. lead II)
+
+  
+  ![](../img/changes_in_v1_lead_2_in_p_wave_with_atrial_enlargement.png)
+- **Right ventricular hypertrophy** - prototypical RVH ECG changes may not be applicable to lung pathologies (see below):
+  - <u>Diagnostic findings</u>:
+    - R \> S wave (relatively tall R wave) in V1, usually in context of RAD
+    - qR wave may also be seen in V1 or V3R
+  - <u>Additional findings supportive of RVH</u>:
+    - RV strain pattern - RVH + ST depression and TWI in right-to-mid precordial leads (V1-3)
+    - Prominent S wave in left precordial leads - reflecting RV mass reaching that of LV mass
+    - Counter-clockwise rotation (early transition zone; rightward QRS complex)
+    - RBBB morphology (usually w/ volume overload e.g. ASD)
+- **Acute cor pulmonale** (e.g. PE or ARDS) - sudden RV overload and RV dilatation:
+  - <u>Diagnostic findings</u> - S1Q3T3 pattern, but deoes not always manifest:
+    - S1 - S wave in lead I (i.e. RAD)
+    - Q3 - Q wave in lead III
+    - T3 - T wave in lead III
+  - <u>Additional findings</u>:
+    - RV strain pattern - ST depression and TWI in right-to-mid precordial leads (DDx acute anterior infarction)
+    - RBBB pattern
+    - Clockwise rotation (delayed transitional zone)
+- **Chronic cor pulmonale** - usually in chronic obstructive pulmonary disease, and does not produce the classic ECG pattern of RVH due to effects of hyper-inflation:
+  - **Defining features:**
+    - <u>Right axis deviation</u> - -ve or biphasiv lead I and +ve aVF. but in the absence of dominant right precordial R waves
+    - <u>RBBB</u> - typically related to underlying RVH
+    - <u>Absence of dominant R waves and slow R-wave progression</u> - due to downward displacement of the diaphragm and the heart
+    - <u>Low-voltage</u> - low-voltage complexes are commonly present due to hyperaeration
+  - **Additional findings:**
+    - <u>Rhythm</u> - sinus tachycardia or MAT
+
+  
+  ![](../img/ecg_features_of_copd.png)
+- **Left ventricular hyertrophy:**
+  - <u>Diagnostic findings</u> - various voltage criteria proposed:
+    - **Sokolow-Lyon criterion:**
+      - Based on presence of tall R waves in left precordial leads, and deep S waves in right precordial leads
+      - SV + \[RV5 or RV6\] \> 35 mm (7 big boxes)
+    - **Cornell voltage criterion:**
+      - On the basis that LVH can occur w/ increased limb lead voltage w/ or w/o increased pre-cordial voltage
+      - RaVL + SV3 \> 20 mm in F and 28 mm in M
+  - <u>Additional findings supportive of LVH</u>:
+    - Concurrent left atrial abnormalities (broad p wave in V1 w/ prominent -ve component)
+    - Concurrent LBBB as LVH often progresses to an incomplete or complete LBBBB
+    - LV strain pattern/ repolarisation abnormalities (ST depressions and TWI in left-sided leads, i.e. I, aVL, V5-6)
+  - <u>Limitations</u> - limited Sn and Sp; to be confirmed on echo or cardiac MRI:
+    - FP in slim, athletic or young individuals
+    - FN in obese, smokers (COPD), or older patients, as well as in concurrent RBBB
+
+  
+  ![](../img/lvh_rvh_in_precordial_leads.png)
+
+### Bundle Branch Blocks and Related Patterns
+
+- **Electrophysiology of bundle branch blocks:**
+  - **Depolarisation abnormalities:**
+    - <u>Prolongation of QRS interval</u> - QRS interval may be in the high-normal (110-120 ms as in incomplete bundle branch blocks), or frankly prolonged (\> 120 ms as in complete bundle branch blocks)
+    - <u>Alterations of the ventricular vector</u> - the terminal ventricular vector will be **directed towards the pathological side**, w/ variable involvement of the small septal vector and the large main ventricular vector:
+      - RBBB - terminal ventricular vector is directed towards the right and anteriorly (rSR' in V1 \[tall right bunny ear\], qRS in V6)
+      - LBBB - disrupted early septal vector (now right to left), and main ventricular vector directed to the left and posteriorly (QS complex in V1, R complex \[i.e. entirely +ve\] in V6)
+
+      
+      ![](../img/rbbb_and_lbbb_harrisons.png)
+  - **Repolarisation abnormalities** - disconcordant QRS-T wave vectors due to altered sequence of repolarisation as a consequence of altered sequence of depolarisation:
+    - T waves in bundle branch blocks are usually opposite to the last deflection of the QRS complexes (i.e. RBBB a/w TWI in V1 following rSR'; LBBB a/w TWI in V1 following R complex)
+    - Presence of TWI that does not follow the previous pattern raises suspicion of primary repolarisation abnormalities (e.g. ischaemia, electrolytes, drugs)
+- **Causes of RBBB:**
+  - <u>Congenital heart disease</u> - ASD
+  - <u>Acquired right heart disease</u> - valvular, ischaemic, RVH (e.g. cor pulmonale)
+- **Causes of LBBB** - marker of one of four underlying conditions a/w increased CVS morbidity and mortality rates:
+  - <u>Coronary artery disease</u> - often w/ underlying LV dysfunction
+  - <u>Hypertensive heart disease</u> - often w/ substantial LV hypertrophy
+  - <u>Aortic valve disease</u> - persists after transcatheter aortic valve replacement
+  - <u>Cardiomyopathy</u> - due to LV dysfunction
+- **Hemi-blocks** (partial blocks in the left bundle system):
+  - Generally does not prolong QRS duration substantially
+  - Instead associated w/ shifts in frontal plane QRS complexes (LAD for LAFB; RAD for LPFB)
+
+### Myocardial Ischaemia and Infarction
+
+- **Principles of ST segment changes in myocardial ischaemia and infarction** - areas of ischaemia lowers resting membrane potential and shortens duration of action potential:
+  - <u>ST depression</u> - w/ subendocardial ischaemia, ST vector is directed towards the subendocardial tissue, resulting in ST depression
+  - <u>ST elevation</u> - w/ transmural ischaemia, ST vector is directed outwards, resulting in ST elevation and ocassionally hyperacute T waves
+
+  
+  ![](../img/current_of_injury_during_myocardial_ischaemia.png)
+- **Localisation of myocardial ischaemia** - usually more helpful in STE- compared w/ NSTE-ischaemia:
+  - <u>Anterior wall ischaemia</u> (including apical and lateral) - caused by STE in \>=1 precordial leads (V1-6), lead I, and aVL
+  - <u>Inferior wall ischaemia</u> - caused by STE in leads II, III, and aVL
+  - <u>Posterior wall ischaemia</u> - results in reciprocal ST depressions in V1-3 (invariably w/ lateral or inferior involvement)
+  - <u>Right wall ischaemia</u> - results in STE in V3R-V6R
+- **Serial evolution of STE-ACS:** 
+![](../img/serial_evolution_of_stemi_harrisons.png)
+- **Differential diagnosis of ST-segment elevations:**
+  - **Myocardial ischaemia or infarction** - almost always focal STE +/- reciprocal changes:
+    - <u>Acute myocardial infarction</u> - 1) STE-ACS secondary to atherosclerotic coronary occlusion, or 2) non-atherosclerotic causes (e.g. coronary dissection, takatsubo syndrome)
+    - <u>Non-infarction transmural ischaemia</u> - e.g. Prinzmetal's syndrome
+    - <u>Post-myocardial infarction</u> - e.g. left ventricular motion abnormalities, LV aneurysms
+  - **Acute pericarditis** - widespread up-sloaping STE in all leads except aVR, and upright T waves
+  - **Brugada patterns** - RBBB-like pattern w/ coved STE in right precordial leads
+  - **Other conditions w/ LV strain** (usu. V1-3):
+    - LVH
+    - LBBB
+    - Acute pulmonary embolism
+  - **Electrolytes** - hyperK, hyperCa
+  - **Rare causes of non-ischaemic myocardial injuries** - e.g. myocarditis, DC cardioversion, tumour invading LV, trauma to ventricles
+
+  
+  ![](../img/ddx_of_ste.png)
+
+### Metabolic Factors and Drug Effects
+
+- **Principles** - metabolic abnormalities and pharmacologic agents can result in:
+  - Repolarisation abnormalities (altered ST-T-U complex)
+  - QRS prolongation
+- **Common metabolic and pharmacological factors a/w ECG changes and life-threatening arrhythmias:**
+  - <u>Electrolytes</u> - hyperkalaemia, hypokalaemia, hypocalcaemia, hypercalcaemia, hypomagnesaemia, hyper-magnesaemia
+  - <u>Pharmacological agents</u> - class IA anti-arrhythmic agents, class III anti-arrhythmics, tri-cyclic antidepressants, phenothiazides, digoxin
+  - <u>Other systemic disturbances</u> - systemic hypothermia, sub-arachnoid haemorrhages
+- **Hyperkalaemia and associated ECG changes:**
+  - <u>Classical progression of ECG changes</u>:
+    - Tenting of T waves
+    - Widening of QRS complex
+    - Flattening of P wave and progressive PR prolongation (a/w **bradyarrhythmias**, and **escape rhythms)**
+    - Sine-wave pattern
+    - Asystole
+
+    
+    ![](../img/ecg_changes_in_hyperk_harrisons.png)
+- **Hypokalaemia and associated ECG changes:**
+  - <u>Pathophysiology</u> - prolongation of ventricular repolarisation
+  - <u>Classical ECG findings</u>:
+    - Prominent U waves
+    - QT prolongation
+- **Hypercalcaemia and hypocalcaemia and associated ECG changes:**
+  - <u>Hypocalcaemia</u> - QT prolongation (ST portion)
+  - <u>Hypercalcaemia</u> - short QT intervals
+- **Systemic hypothermia and ECG changes:**
+  - Convex elevation of J point (Osborn wave)
+  - Bradycardia
+
+  
+  ![](../img/osborn_wave_in_hypothermia.png)
+- **Subarachnoid haemorrhages and ECG changes:**
+  - Marked QT prolongation
+  - Cerebral T waves (deep and wide TWI)
+
+  
+  ![](../img/sah_cerebral_t_waves.png)
+
+### Non-specific ST-T Changes and Low QRS Voltage
+
+- **Non-specific ST/T changes** - alterations of ventricular repolarisation as evidence by flattening of T waves, minimal TWI, slight ST-segment depressions
+- **Low-voltage:**
+  - <u>Definition</u>:
+    - Peak-to-trough QRS amplitudes of \<= 5mm in all 6 limb leads
+    - Peak-to-trough QRS amplitudes of \<= 10mm in all precordial leads
+  - <u>DDx</u> - multiple factors may be responsible:
+    - Pericardial effusions
+    - Pleural effusions
+    - Chronic obstructive pulmonary disease
+    - Cardiac amyloid
+    - Restrictive cardiomyopathy
+    - Anasarca
+
+### Electrical Alternans Syndromes
+
+- **Electrical alternans:**
+  - **Defiition** - beat-to-beat alternation in one or more component of the ECG signal
+  - **DDx:**
+    - <u>Pericardial effusion</u> (w/ cardiac tamponade) - combination of sinus tachycardia and electrical alternans is specific for pericardial effusion 
+    ![](../img/electrical_alternans_in_cardiac_tamponade.png)
+    - <u>Repolarisation abnormalities</u> - variability in ST-T-U complexes suggestive of impending VAs
+
+## Clinical Interpretation of the ECG
+
+- **Systematic approach before reading the ECG:**
+  - <u>Patient demographic</u> - age, sex, race
+  - <u>Context of ECG</u> - e.g. clinical status of the patient when ECG is taken
+- **Systematic approach for ECG** - comparison w/ old ECG is invaluable:
+  - 1\. Standardization (calibration) and technical features (lead placement and artifacts)
+  - 2\. Rhythm
+  - 3\. Heart rate
+  - 4\. PR interval/ AV conduction
+  - 5\. QRS interval
+  - 6\. QT/QTc intervals
+  - 7\. Mean QRS electrical axis
+  - 8\. P waves
+  - 9\. QRS voltages
+  - 10\. Pre-cordial R wave progression
+  - 11\. Abnormal Q waves
+  - 12\. ST segments
+  - 13\. T waves
+  - 14\. U Waves

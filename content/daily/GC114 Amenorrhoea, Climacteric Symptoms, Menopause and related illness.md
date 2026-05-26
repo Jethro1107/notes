@@ -1,0 +1,310 @@
+---
+id: d00a6f13-b404-4d81-a690-b94124a1f09c
+title: 2025-06-29
+---
+
+# GC112 Abnormal Vaginal Bleeding, Gynaecological Cancer <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Definition**
+- **Common causes:**
+    - Benign - anovulation, fibroid, endometrial polyps, pregnancy related bleeding, hyperplasia, dysfunctional uterine bleeding, cervical erosion, cervical polyp, atrophic vaginitis, lacerations
+    - Malignant - any part of the genital tract
+- **Salient points of Hx:**
+    - Demograhic:
+        - Age of the patient (stage of reproductive life) - pre-menarche, pregnant, perimenopausal, post-menopausal
+    - Pattern of bleeding/ menstrual Hx:
+        - Amount
+        - Regularity
+        - Intermenstrual bleeding
+        - Postcoital bleeding
+        - Provoking factors - trauma, stress
+        - Associated symptoms - pain, urinary and bowel symptoms
+    - Contraceptive Hx - suspected pregnancies, hormones
+    - Cervical smear Hx
+    - Obstetric history
+    - Drug history:
+        - Anticoagulation
+        - HRT
+    - FHx of CA ovary, breast, colon
+- **P/E:**
+    - General examination
+        - Pallor
+        - Bleeding tendancy
+        - Constitutional signs
+    - Abdominal examination:
+        - Inspection - scars, distension, signs of pregnancy
+        - Palpation - mass/ tenderness
+        - Percussion - ascites
+        - Auscultation - fetal heart
+    - Pelvic examination:
+        - Inspection - lesions of vulva, vagina
+        - Speculum examination - lesions of cervix
+        - Bimanual palpation:
+            - Estimate uterine size
+            - Adnexal mass
+            - Tenderness - ?chandelier sign
+        - Rectal examination - mass palpated in pouch of douglas
+- **Ix:**
+    - Common gynaecological Ix:
+        - Cervix - cervical smear, HPV test, colposcopy, cervical Bx
+        - Uterus - endometrial aspirate (pipelle), hysteroscopy (uterine curettage?)
+        - USG - transvaginal (requires empty bladder) vs transabdominal (requires full bladder to push uterus into abdominal cavity)
+- Common gynae cancer - Ca cervix, Ca endometrium present w/ abnormal vaginal bleeding:
+    - Ca Cervix
+    - Ca endometirum (Ca corpus) - most common in HK (but globally cervix \> endometrial)
+    - Ca ovary
+- CA cervical cancer:
+    - Risk factors:
+        - HPV - most people clear the infection, only persistent infection risks CA cervix
+        - Early sex
+        - Multiple sexual partner
+        - Smoking
+        - Lower SES
+        - OC pills
+        - Immunosuppression - higher chance of persistent HPV infection
+    - Stage distribution of cervical cancer at presentation –\> equally distribution (Stage I-IV around 2x%) despite screening!
+    - Clinical Presentation:
+        - Bleeding pattern - post-coital bleeding (contact bleeding)
+        - Associated Sx:
+            - Early disease - not much
+            - Late disease - back pain and LL oedema (?IVC obstruction)
+        - Contraceptive / Sexual Hx:
+            - Had been sexually active - note that absence of sexual hx does not r/o cervical cancer (some are HPV unrelated)
+        - Cervical smear - typically no regular screening
+        - Obstetric history - parous
+        - FHx - not significant
+    - P/E:
+        - General - look for LN
+        - Pelvic exam - mass lesions/ ulcerations:
+            - Exophytic growth - cauliflower
+            - Endophytic growth - infiltrative, barrel shape
+    - Ix:
+        - CBC, LRFT, Tumour marker (SCC)
+        - Biopsy for diagnosis
+        - Imaging - CXR, CT/MRI/ PET-CT to assess renal tract, staging (MRI is better for loco-regional staging due to better soft-tissue delineation in pelvis)
+    - Spread of cervical cancer:
+        - Direct spread - parametrium, bladder, rectum, distal spread to sacrum
+        - Lymphatic spread - pelvic LN along exeternal iliac, common iliac and aortic LN
+        - Haematogenous spread - Lungs
+    - Staging - FIGO staging (staging clinically)
+        - Old clinical staging (no radiological evidence):
+            - Stage I - cervix only
+            - Stage II - upper vagina or surrounding structures (parametrium)
+            - Stage III - lower vagina or pelvic sidewall or pelvic/ para-aortic LN
+            - Stage IV - Bladder/ rectum or distant metastasis
+        - New clinical and radiological staging: 
+        ![](~/Documents/notes/img/figo_staging_ca_cervix.png)
+    - Read up Mx - know that surgery only applicable in early disease (Stage I)
+        - Know that currently radical hysterectomy is preferred to be performed open instead of laparoscopic:
+            - Evidence - large multicentre RCT demonstrated poorer outcomes in laparoscopic approach (despite similar technical parameters)
+            - Hypothesis - laparscopic approach prone to tumour seeding into peritoneal cavity
+    - Prognostic factors:
+        - Stage
+        - LN metastasis
+        - Histology
+- CA corpus uteri:
+    - Epidemiology - increasing incidence
+    - Stage distribution - most are detected at early stage due to early presentation with AUB
+    - Risk factors:
+        - Age - post-menopausal
+        - Excessive estrogen exposure:
+            - Early menarche
+            - Late menopause
+            - Nulliparity
+            - Obesity
+            - Polycystic ovarian syndrome
+            - Endometrial hyperplasia (?high risk pre-malignant lesion)
+            - Unopposed estrogen therapy
+            - Tamoxifen therapy (i.e. Hx of breast cancer)
+        - Miscellaneous:
+            - FHx of breast, ovarian and colorectal cancer
+            - Lynch syndrome
+            - DM (?metabolic syndrome)
+            - HTN
+    - Clinical presentation:
+        - Abnormal uterine bleeding:
+            - Change in menstrual pattern - prolonged, irregular bleeding
+            - Intermenstrual bleeding
+            - Post-menopausal bleeding
+    - Ix:
+        - Endometrial sampling
+        - Transvaginal USG useful for those with post-menopausal (not subjected to change in thickness)
+        - Hysteroscopy and Bx (gold standard)
+    - Mode of spread (read up)
+    - Staging - surgically stage (FIGO)
+
+# GC114 Amenorrhoea, Climacteric Symptoms, Menopause and related illness <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+## Amenorrhoea
+
+- **Definitions** - absence of menstrual period, classified into primary or secondary amenorrhoea:
+    - <u>Primary amenorrhoea</u> - absence of menstruation by the 16y(workup if no secondary sexual characteristics by 14y)
+    - <u>Secondary amenorrhoea</u> - absence of menstruation for 6mo in a woman who has menstruated before
+- Reason for distinguishing primary and secondary amenorrhoea:
+    - Secondary amenorrhoea implies functioning HPO axis:
+        - Presence of ovaries that respond to pituitary gonadotrophins
+        - Endometrium was responive to ovarian hormone stimulation
+        - Patent lower genital tract
+    - Primary amenorrhoea implies:
+        - No knowledge of prior functioning of HPO axis
+        - Unknown if lower genital tract is patent
+- **DDx of amenorrhoea** - read CFB notes:
+    - **Physiological amenorrhoea:**
+        - Pre-pubertal/ constitutional delay of puberty
+        - Pregnancy and lactation
+        - Certain contraceptives
+        - Postmenopausal
+    - **Disorders of hypothalamus/ CNS:**
+        - <u>Corticol control</u> - weight loss, over-exercise, stress, eating disorders (e.g. anorexia nervosa)
+        - Kallmann's syndrome
+        - Idiopathic hypogonadotrophic hypogonadism
+        - CNS tumours - e.g. craniopharyngioma
+    - **Disorders of pituitary:**
+        - Sheehan's syndrome
+        - Pituitary adenomas - non-functioning adenoma, prolactinoma
+        - Iatrogenic - surgery, RT
+        - Other endocrinopathies - e.g. hyperprolactinaemia, thyroid dysfunction
+    - **Disorders of ovary:**
+        - Premature ovarian insufficiency - e.g. gonadal agenesis/ dysgenesis (chromosomal/ non-chromosomal), inatrogenic (chemo, RT, surgery), autoimmune
+        - Polycystic ovarian syndrome (know Rotterdam consensus vs ESHRE international consensus for diagnosis)
+    - **Disorders of genital tract:**
+        - Outflow tract obstruction (present w/ cyclical abd. pain, AROU, pelvic mass) - cervical/vaginal atresia, transverse vaginal septum, imperforate hymen
+        - Absence of vagina/ uterus
+        - Endometrial destruction - TB endometritis, Asherman syndrome
+    - Androgen insensitivity syndrome (read up)
+    - **Disorders of thyroid**
+    - **Disorders of adrenal glands**
+- **Salient points of Hx:**
+    - HPI - onset, duration, previous menstruation, chance of pregnancy
+    - Associated Sx:
+        - Galactorrhoea, headache, visual disturbance
+        - Menopausal Sx
+        - Thyroid Sx
+        - Hyperandrogenic Sx
+    - Pubertal development
+    - PMH
+    - Drug Hx
+    - FHx
+- P/E:
+    - Body height/ weight
+    - Stigmata chromosomal abnormalities
+    - Hirsutism/ virilisation
+    - Secondary sexual characteristics
+    - Goitre
+    - Visual field
+    - Abdominal mass
+    - Genital tract development
+- Ix - always r/o pregnancy:
+    - hormone - FSH, LH, E2, PRL, TFT, testosterone
+    - USG pelvis
+    - progestogen challenge test
+    - Others:
+        - Hormonal - androgens (SHBG), E+P withdrawal test. dynamic tests
+        - Genetic - laryotype
+        - Radiological - MRI/USG renal tract
+        - Visual field by perimetry
+        - Laparoscopy
+        - Hysteroscopy
+        - Autoimmune panel
+
+  
+  ![](~/Documents/notes/img/diagnostic_approach_to_amenorrhoea.png)
+- **Premature ovarian insufficiency:**
+    - **Definition** - defined arbitrarily as occuring \< 40y of age, with congenital, iatrogenic, or autoimmune etiologies
+    - **Etiology of premature ovarian insufficiency:**
+        - <u>Congenital</u> - gonadal agenesis/ dysgenesis:
+            - Chromosomal - e.g. Turner syndrome
+            - Non-chromosomal - fragile X premutation-associated primary ovarian insufficiency
+        - <u>Acquired gonadal damage</u> - e.g. infections, surgery, chemotherapy/ radiotherapy
+        - <u>Autoimmune</u> - autoimmune gonadal failure
+    - **Ix** - confirm hypergonadotrophic hypogonadism and identify cause:
+        - **FSH** - \> 25 IU/L x2
+        - **Genetic testing:**
+            - <u>Karyotype</u> - for turner syndrome
+            - <u>Fragile X premutation</u>
+        - **Autoimmune Ab** - anti-thyroid and anti-adrenal Ab
+    - **Dx of premature ovarian insufficiency** - based on FSH \> 25 IU/L twice at least 4 weeks apart
+    - **Mx:**
+        - Maintenance HRT for prevention of osteoporosis until age 51
+- WHO classification of anovulation - Class I to III -\> implies Tx
+
+## Climacteric Illness, Menopause and related illness
+
+- **Definitions and terminology:**
+    - <u>Climacteric</u> - the years of waning ovarian function which marks the transition from reproductive to the non-reproductive state
+    - <u>Menopause</u> - a specific event characterised by permanent cessation of ovarian function and fertility, diagnosed retrospectively after cessation of menses for 12mo in a previously cycling women
+    - <u>Perimenopause</u> - the period of first clinical, biological and endocrinological features of the approaching menopause, ending 12 months after the final menstural period
+
+  
+  ![](~/Documents/notes/img/stages_of_menopausal_ageing_in_women.png)
+- **Clinical types of menopause:**
+    - <u>Natural menopause</u> - retrospectively diagnosed following spontaneous amenorrhoea for 12mo without obvious pathological or physiological cause
+    - <u>Artificial menopause</u> - sudden termmination of menstrual life due to surgery, radiotherapy, chemotherapy or hormonal therapy
+    - <u>Premature ovarian insufficiency</u> - loss of ovarian function before 40y
+- **Pathophysiology of menopause:** 
+![](~/Documents/notes/img/endocrine_changes_in_stroma.png)
+- **Climacteric symptoms** - Sx are related to <u>estrogen deficiency</u>: 
+![](~/Documents/notes/img/sx_of_estrogen_deficiency.png)
+    - **Vasomotor Sx:**
+        - <u>Hot flushes</u> - sudden sensation of heat centred on the upper chest andface that rapidly becomes generalised, often occuring at the nadir of estrogen levels in the perimenopausal state
+        - <u>Sweating</u> -
+    - **Vasomotor Sx:**
+        - Hot flushes (sudden sensation of heat from the chest and face that rapidly becomes generalised)
+        - Sweating, chills and rigors
+        - Palpitation
+        - Dizziness
+    - **Psychological Sx** - may mimick anxiety or depression:
+        - Irritability
+        - Loss of energy and drive
+        - Loss of concentration
+        - Sleep disturbances
+    - **Sexual dysfunction:**
+        - Dyspareunia
+        - Decreased libido
+    - **Urogenital atrophy:**
+        - Vaginal dryness, burning, pruritis or prolapse
+        - Urinary Sx (e.g. urgency, frequency, dysuria, incontinence)
+- **Long-term health effects of menopause:**
+    - <u>Increased risk of cardiovascular disease</u> - loss of protective effect of estrogen on vasculature and lipid metabolism
+    - <u>Postmenopausal osteoporosis</u> - caused by uncoupling of osteoblast and osteoclast
+    - <u>Musculoskeletal</u> - loss of laxity of soft tissue and reduced muscular strength contributing to **increased risk of falls**
+    - <u>Neurological</u> - causing cognitive decline and dementia
+- **Dx** - clinical and a retrospective diagnosis:
+    - Amenorrhoea for 12mo in a women \> 45y with no other pathological or physiological causes accounting for the amenorrhoea
+    - High FSH is supportive (hypergonadotrophic hypogonadism)
+- **Mx:**
+    - **Principles of Mx** - bio-psycho-social approach for holistic care of postmenopausal women:
+        - <u>Mx of menopausal Sx</u> - lifestyle modification +/- HRT
+        - <u>Primary prevention of common health concerns</u> - lifestyle modification and Mx of common comorbidities seen in post-menopausal women
+    - **General lifestyle modifications:**
+        - <u>Smoking cessation</u> - reduce risk of cardiovascular disease and accelerated osteoporosis
+        - <u>Limit alcohol use</u> - benefits cardiovascular health, BMD, and relieves vasomotor Sx
+        - <u>Air conditioning and dressing in layers</u> - relief of vasomotor Sx
+    - **Hormone replacement therapy:**
+        - <u>Regimens</u>:
+            - Estrogen alone (Hx of hysterectomy) - e.g. 17-beta estradiol or conjugated equine estrogens in oral,transdermal, gel, implant or vaginal ring preperations
+            - Estrogen and progesterone (no Hx of hysterectomy) - sequential (bleeding) or non-sequential regimens
+            - Tibolone (synthetic compound converted into metabolites w/ estrogen, progestogen and androgen properties)
+        - <u>C/I</u>:
+            - Cerebrovascular disease
+            - Venous thromboembolism
+            - Estrogen dependent tumours (e.g. breast, endometrial)
+            - AUB
+        - <u>S/E</u>: 
+        ![](~/Documents/notes/img/whi_study_effects_of_hrt_on_event_rates.png)
+        - <u>FU</u>:
+            - Annual monitoring for continual need
+            - Well-women check-up as usual
+    - **Additional non-hormonal therapy for climacteric Sx:**
+        - <u>Vasomotor Sx</u> - clonidine, gabapentin
+        - <u>Mood Sx</u> - antidepressants
+        - <u>Vaginal atrophy</u> - lubricants, moisturisers
+        - <u>Osteopenia</u> - consider raloxifene
+    - **Primary and secondary prevention of health complications:**
+        - Cardiovascular risk assessment and Mx
+        - Assess BMD and Tx of osteoporosis
+        - Cancer screening and prevention
+- Mx (see slides):
+    - Holistic bio-psycho-social care
+    - Mx of menopausal Sx
+    - Prevention of chronic health conditions

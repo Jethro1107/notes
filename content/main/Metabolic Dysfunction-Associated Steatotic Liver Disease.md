@@ -1,0 +1,88 @@
+---
+id: d022bbe1-a8f9-41ba-ad27-2f4cd4a36a13
+title: Metabolic Dysfunction-Associated Steatotic Liver Disease
+---
+
+# Metabolic Dysfunction-Associated Steatotic Liver Disease
+
+- **Definition and terminology** - NAFLD (now known as MASLD) is a spectrum of hepatic manifestations encompasing simple fatty infiltration (steatosis), fat and inflammation (non-alcoholic steatohepatitis), and cirrhosis (NASH-cirrhosis) in absence of excessive alcohol consumption:
+    - <u>Steatosis</u> - histological manifestation w/ fat infiltration and minimal inflammation, and has not be related to liver-related morbidity
+    - <u>Non-alcoholic steatohepatitis</u> (NASH) - fatty infiltration in presence of necroinflammation, linked with progressive liver fibrosis, cirrhosis, liver cancer, as well as an increased cardiovascular risk
+- **NAFLD can be considered the hepatic manifestation of metabolic syndrome** - as risk factors and comorbid conditions relating to <u>insulin resistance</u> are extremely common in NAFLD patients:
+    - <u>Risk factors for insulin resistance</u> - obesity (\> 90% of obese patients in the US has variable degrees of NAFLD), physical inactivity
+    - <u>Comorbid conditions</u> - dyslipidaemia, T2DM, IGT
+
+  
+  ![](../img/spectrum_of_nafld.png)
+- **Pathophysiology of NAFLD** - "two-hit" hypothesis:
+    - **Increasing insulin resistance as the first hit** - altered fat metabolism, i.e. imbalance between rate of influx and efflux of fatty acid in the liver results in steatosis (as an adaptive mechanism for storage of toxic lipids as relatively inert TG):
+        - <u>Increased import and synthesis of FA</u> - due to increased FA uptake, and increased de novo fatty acid synthesis
+        - <u>Decreased efflux and utilisation of FA</u> - due to reduced VLDL assembly and FA oxidation
+    - **Second hit caused by various immune factors** - progression to NASH and cirrhosis is caused by several different hits:
+        - Direct lipotoxicity
+        - Increased oxidative stress produced during FA oxidation
+        - Gut-derived endotoxins
+        - Cytokine-release (e.g. TNF-alpha)
+
+  
+  ![](../img/pathophysiology_of_nafld.png)
+- **Clinical features of NAFLD** - clinically variable and is frequently asymptomatic:
+    - <u>Asymptomatic</u> - identified as incidental biochemical abnormality during routine blood tests
+    - <u>Non-specific Sx</u> - fatigue and mild right upper quadrant discomfort possibly due to distending liver capsule
+    - <u>Manifestation of NASH and cirrhosis</u> - manifestation of an icteric illness or complications of cirrhosis (e.g. ascites, varieal bleeding, or HCC)
+- **Ix:**
+    - **Routine bloods** - LFT, ANA, iron profile:
+        - **LFT:**
+            - <u>AST/ALT</u> - modest elevations (\< 2x ULN) and typically AST:ALT ratios \< 1 (but reverse de Retis ratio seen in those w/ cirrhosis)
+            - <u>GGT</u> - non-specific elevations (not attributable to alcoholism)
+        - **ANA** - low titres +ve in 20-30%
+        - **Iron profile** - non-specific elevation in ferritin
+    - **Transabdominal USG** - for qualitative assessment of hepatic fat content:
+        - <u>Test properties</u> - modest Sn (dependent on volume of liver affected by steatosis)
+        - <u>Findings</u>:
+            - Areas of hyperechogenicity (liver appears bright)
+    - **Additional cross-sectional imaging** - CT/ MRI
+    - **Liver Bx** - various histological Dx criteria and scoring systems for objective Dx
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Non-pharmacological therapy</u> - address risk factors (e.g. weight reduction, increased physical activity, abstinence from alcohol)
+        - <u>Pharmacological therapy</u> - certain drugs for weight loss effect and improvement of liver histology
+    - **General measures for all patients:**
+        - <u>Abstainence from alcohol</u> - refrain from alcohol, with high quality evidence that heavy alcohol consumption accelerates disease progression
+        - <u>Immunisation</u> - HAV and HBV immunisation +/- standard immunisation against pneumococcus and influenza for those w/ chronic liver disease
+        - <u>Modification of cardiovascular risk factors</u> - good medical control of HTN, dyslipidaemia, and **DM** (concomitent MASLD may influence drug of choice for glycaemic control)
+    - **Weight loss** - as primary therapy for most overweight/ obese patients w/ MASLD:
+        - <u>Weight loss target</u> - 5-7% body weight over initial 6 mo (additional weight loss if dLFT after target achieved)
+        - <u>Approach</u>:
+            - Lifestyle interventions through dietary therapy and exercise
+            - Added pharmacological therapy (e.g. GLP1-based therapies) if failed to achieve weight loss and normalised LFTs through lifestyle intervention alone
+        - <u>Clinical efficacy</u> - weight loss results in improvement in:
+            - Liver biochemistry
+            - Liver histology
+            - Glycaemic control
+            - QOL
+    - **Pharmacological therapies:**
+        - **Indications** - significant fibrosis (stage \>= 2) w/o adequate weight loss and normalised transaminase w/ lifestyle interventions alone
+        - **Selection:**
+            - <u>First-line therapy</u> - GLP-1 based therapy
+            - <u>Second-line therapy</u> - resmetirom
+        - **GLP-1 based therapy:**
+            - <u>Selection</u> - Semaglutide, liraglutide
+            - <u>Clinical efficacy</u>:
+                - Weight loss
+                - Resolution of steatohepatitis and improvement of liver histology
+        - **Resemetirom:**
+            - <u>Indications</u> - MASH w/ stage 2-3 fibrosis and:
+                - Contraindication to GLP-1 agonists
+                - Intolerable to GLP-1 agonists
+                - GLP-1 agonists unable to sufficiently achieve weight loss and normalize transaminase
+            - <u>MOA</u> - thyroid hormone receptor-beta agonist
+            - <u>Dosing and regimen</u> - dependent on body weight:
+                - \< 100 kg - PO 80 mg od
+                - \>= 100 kg - PO 100 mg od
+            - <u>S/E</u>:
+                - GI discomfort - diarrhoea, N/V
+                - Drug-drug interactions
+            - <u>Clinical efficacy</u>:
+                - Higher rates of MASH resolution compared w/ placebo
+                - Higher rates of improvement of liver histology by \>= 1 stage

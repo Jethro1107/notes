@@ -1,0 +1,32 @@
+---
+id: B36CDE29-71B9-4611-8630-4C4DE2B0CFAF
+roam_parent: 91b0ff05-4cb8-4373-b40b-ec2869759d3e
+title: Atrial Flutter
+---
+
+# Atrial Flutter
+
+- **Definition** - characteristic atiral tachyarrhythmia characterised by a macro-re-entry curcit within RA encircling the tricuspid annulus, w/ atrial rate approximately 300 bpm
+- **ECG findings of atrial flutter:**
+  - Saw-tooth flutter waves at roughly 300/ min
+  - Fixed AV block at 2:1, 3:1 or 4:1 block (corresponding to ventricular rate of 150, 100, or 75 bpm)
+  - Difficult to ascertain flutter waves if 2:1 block as may be buried in flutter waves
+
+  
+  ![](../img/atrial_flutter_with_3_to_1_block.png)
+- **Maneuvers to establish the Dx of AFlu** (increase degree of AV block to reveal flutter waves) - always consider for SVT 150 bpm:
+  - Carotid sinus pressure or Valsalva maneuver
+  - IV adenosine push
+
+  
+  ![](../img/carotid_sinus_massage_in_aflu.png)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>ventricular rate control</u> - digoxin, beta-blockers, verapamil
+    - <u>Restoration of sinus rhythm</u> - DV cadrioversion or IV amiodarone, flecainide avoided
+    - <u>Prevention of recurrent episodes</u> - beta-blocker, amiodarone
+    - <u>Invasive intervention</u> - catheter ablation
+  - **Mechanism of flecainide-induced paradoxical tachycardia:**
+    - Slow-down of flutter rate
+    - Facilitation of 1:1 AV nodal conduction
+    - Must be administered along AV node blocking drugs to avoid paradoxical tachycardia

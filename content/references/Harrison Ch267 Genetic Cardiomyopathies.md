@@ -1,0 +1,121 @@
+---
+id: EED79C26-7C7E-47DB-BB18-1A5CB8E9B1D9
+title: Harrison Ch267 Genetic Cardiomyopathies
+---
+
+# Ch267 Genetic Cardiomyopathies
+
+- **Overview of identified pathogenic genetic variants of CM and their morphological phenotypes:** 
+![](../img/genetic_deficits_associated_with_cardiomyopathies.png)
+- **Genetic defects implicated are related to ceellular metabolism and sarcomere functions:** 
+![](../img/abnormal_gene_deficits_associated_with_cardiomyopathy_schematic.png)
+- **Types of mutations implicated in cardiomyopathy:**
+    - <u>Truncating or frameshift mutation</u> - unstable protein that prematurely dissintegrates resulting in **haploinsufficiency**
+    - <u>Missense variants</u> - may interfere w/ function of normal allele resulting in **dominant negative effect**
+- **Mode of inheritance in genetic cardiomyopathies:**
+    - Most are autosomal dominant
+    - Ocassionally autosomal recessive, mitochondrial, or X-linked recessive
+- **Age-dependent and incomplete penetrance in cardiomyopathies** - phenotypic expression of CMs may never manifest in some individuals:
+    - Cardiomyopathies by definition are never present at birth, and require "expression" before developing into clinical disease
+    - Those w/ same variant may differ in severity, rate of progression of cardiac dysfunction, and associated rhythm disorders
+    - Penetrance and clinical severity appears to be higher in men for most cardiomyopathies by observation
+    - Important role in other genetics, epigenetic, and environmental modifiers in disease expression
+- **Role of genetics in workup for cardiomyopathies:**
+    - Non-diagnostic, as supportive role
+    - May be of prognostic significance (possibly able to risk stratification of patients and determine specific Tx)
+    - Most importantly to inform family evaluations in longitudinal fashion
+
+## Hypertrophic Cardiomyopathy
+
+- **Definition and terminology:**
+    - <u>Hypertrophic cardiomyopathy</u> (HCM) - defined as left ventricular hypertrophy and associated diastolic dysfunction that develops in the absence of 1) causative haemodynamic factors, or 2) systemic infiltrative or storage diseases
+    - <u>Hypertrophic obstructive cardiomyopathy</u> (HOCM) - previously used interchangeably, now refers to subset of HCM that results in dynamic LVOT obstruction
+- **Epidemiology** - most common form of heritable cardiomyopathy:
+    - <u>Prevalence</u> - 1:500 (more common in Asia, Africa, and North America)
+    - <u>Burden</u> - important cause of young heart failure and early SCD
+- **Genetic etiology of HCM:**
+    - <u>Sarcomere gene varient</u> (40-50%) - most commonly a myosin heavy chain mutation (80% accounted by MYH7 or MYBPC3) but \> 1500 pathogenic gene variants implicated, often characterised by **asymmetrical septal hypertrophy**
+- **Age-dependent, Sex-dependent and incomplete penetrance of HCM** - rarely present at birth and usually develops later in life:
+    - <u>Age-dependent penetrance</u> - usually a delayed onset of "phenotypic expression" in genetic HCM, w/ variable age of onset in those w/ different genetic variant, and even within the same genetic variant:
+        - Mean age of onset for those w/ MYBPC3 evariant is ~40y, while that for MYH7 is ~33y
+        - Roughly 30% of those w/ MYBPC3 do not manifest w/ LVH showing variable disease expression within the same variant
+    - <u>Sex-dependent penetrance</u> - **F tend to have lower penetrance** and older age of HCM Dx but subsequently w/ similar increased rates of HF and mortality thereafter
+    - <u>Incomplete penetrance</u> - family members w/ same genetic variant may have variable phenotypic manifestations and clinical outcomes:
+        - Same genetic phenotypes may have different extent of LVH (e.g. asymmetric vs concentric), occurrence of LVOT obstruction, disease severity
+        - However, **familial clustering of SCD and progression to overt HF** is observed
+- **Pathophysiology of HCM:**
+    - **Effects of sarcomere variants** - enhanced calcium sensitivity, maximal force generation, and ATPase activity:
+        - <u>Myocyte hypertrophy</u> (defining pathological features) - due to abnormal energetics, impaired relaxation, and misalignment and disarray of the enlarged myofibrils and myocytes
+        - <u>Additional pathological changes</u> - progressive fibrosis, and microvascular disease often detectable prior to overt hypertrophy, contributing to arrhythmogenic state, and angina respectively
+    - **Non-uniform ventricular thickening** - interventricular septum a/w maximal hypertrophy but other patterns such as apical, concentric, and midventricular, resulting in various myocardial dysfunction:
+        - <u>Dynamic LVOT obstruction</u> - represents focus of diagnosis to differentiate between HOCM and non-obstructive HCM (see details below)
+        - <u>Myocardial fibrosis</u> - serves as substrate for life-threatening arrhythmias but also contribute to diastolic dysfunction resulting in raised cardiac pressures
+        - <u>Myocardial ischaemia</u> - attributed to 1) reduced supply from microvascular disease, 2) increased demand from hypertrophied myocardium, results in cardiac dysfunction and angina
+        - <u>Diastolic dysfunction</u> - impaired ventricular filling due to hypertrophy
+- **Clinical features of HCM:**
+    - **Pre-syncope and syncope** - often suggestive of LVOT obstruction (worsened by reduced preload or low afterload) or arrhythmia:
+        - <u>Exertion-induced syncope</u> - transient hypotension due to inability to increase SV due to LVOT obstruction, and compensate for exercise-induced vaso-dilatation
+        - <u>Cough syncope</u> - mistakened as situational syncope, due to Valsalva effect resulting in reduced pre-load, and increased SAM and LVOT obstruction
+- **Signs:**
+    - **Peripheral signs:**
+        - <u>Pulsus bisferens</u> - jerky dicrotic pulse
+        - <u>Double impulse at apex</u> - i.e. palpable S4
+    - **Auscultation:**
+        - <u>LVOT obstruction murmur</u> - harsh systolic ejection murmur that is often late-peaking (cf crescendo-drescendo murmur of AS):
+            - Best heard at LLSB
+            - Radiates to apex and base of neck
+            - Enhanced by maneuvers that reduce preload as it transiently worsens obstruction (e.g. squatting to standing, valsalva maneuver)
+        - <u>Posteriorly directed MR murmur</u> - pansystolic murmur best heard over the apex and radiates to the axilla
+- **Dx** - diversity of clinical presentations due to substantial variability of HCM:
+    - Dx usually through workup triggered by 1) abnormal physical examination, 2) exertional dyspnoea, 3) angina, or 4) syncope
+    - Occasionally, Dx may follow formal evaluation prompted by detection of disease in a family member
+    - Requires concordance various components of the phenotype expression, compatible 1) clinical S/S, 2) ECG findings, 3) echocardiography findings, and 4) identification of causative pathogenic genetic variant
+- **DDx of hypertrophic cardiomyopathy:**
+    - Hypertensive cardiomyopathy
+    - “Athlete’s heart” (usually w/ supernormal exercise capacity, mild ventricular dilatation, and normal diastolic function)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Sx relief</u> - Mx Sx based on 1) volume status, 2) degree of LVOT obstruction
+        - <u>Rhythm Mx</u> - prevention of sudden death (VA) and stroke (AF or apical ventricular thrombus)
+        - <u>Genetic counselling</u> - family screening and proper evaluation
+
+    
+    ![](../img/tx_algo_for_hcm.png)
+    - **Prevention of SCD:**
+        - Exercise limitation (prohibition of vigorous exercise and competitive sports) used to be advocated but recent studies failed to demonstrate relationship between exertion and VAs
+        - ICD implantation as a shared decision based on presence of risk factors of SCD (from a baseline of 0.5% per year)
+        - ESC risk score of SCD in hypertrophic cardiomyopathy is externally validated but does not emphasise a cut-off score (shared decision making rather than a dichotomous yes-no criteria)
+
+    
+    ![](../img/risk_stratification_for_scd_in_hcm.png)
+    - **Escalation of medical therapy** - medical therapy to 1) reduce LVOT obstruction, 3) enhance diastolic filling, and 3) decrease contractility:
+        - <u>First line therapy</u> - beta-blockers +/- L-type CCBs
+        - <u>Second-line therapy</u> - myosin inhibitors (mavacamten/ aficamten), disopyramide
+        - <u>Third-line therapy</u> - invasive procedures for septal reduction therapy such as surgical myomectomy or alcohol septal ablation
+        - <u>Add-on therapy</u> - diuretics if volume overloaded (caution to avoid hypovolaemia that exacerbates LVOT obstruction)
+    - **Surgical myectomy:**
+        - Principles - surgical excision of the septal myocardium resulting in dynamic obstruction
+        - Efficacy - low peri-operative mortality w/ excellent long-term survival (w/ resolution of eccentric MR w/ myectomy)
+    - **Alcohol septal ablation:**
+        - <u>Principles</u> - controlled infarction of the proximal septum in a patient w/ suitable coronary anatomy
+        - <u>Efficacy</u> - thought to be of similar efficacy (no head-to-head comparison):
+            - Improvement of Sx
+            - Similar periprocedural outcomes
+            - Provides similar gradient reduction as surgical myectomy
+        - <u>Indications</u> - usually reserved for patients who wish to avoid surgery or who have limiting comorbidities
+        - <u>Complications</u>:
+            - Complete heart block (infarct of AV node) requiring permanent pacing
+    - **Mx and AF and cardioembolic risk**:
+        - <u>Rate control</u> - BBs and CCBs may provide rate control and Sx control
+        - <u>Rhythm control</u> - disopyramide and amiodarone for pharmacological cardioversion; RFA for medically refractory cases
+        - <u>Anticoagulation</u> - typically recommended in HCM
+- **Prognosis:**
+    - Mortality - remains higher than in an age-matched population w/o HCM
+    - Risk of SCD - baseline of \< 1% per year but dependent on presence of risk factors
+    - Disease progression - 5% progress to overt systolic dysfunction (HFrEF) w/ or w/o dilated remodelling (i.e. “burned out” or end-stage HCM) a/w increased mortality as a result of HFrEF
+
+## Genetic Dilated and Arrhythmogenic Cardiomyopathy
+
+## Cardiomyopathy due to Inherited Disorders of Metabolism
+
+## Restrictive Cardiomyopathy

@@ -1,0 +1,160 @@
+---
+type: main
+---
+# Approach to Musculoskeletal Problems in Primary Care
+
+- **Clinical presentation of MSK problems:**
+	- Pain
+	- Weakness
+	- Loss of sensation
+	- Stiffness or excessive range of movement
+	- Swelling
+	- Deformity
+	- Loss of function
+- **Approach to assessment:**
+	- History of presenting problem
+	- Significance and impact of the presenting problems
+- **Salient points of Hx:**
+	- **HPI** - onset, precipitation, progression, previous treatment and response:
+		- _Onset_ - acute (e.g. injuries) vs chronic (overuse, degeneration)
+		- _Precipitation_:
+			- Injury (note mechanism of injury)
+			- Overuse
+			- Any precipitating events
+		- _Progressive_ - static vs fluctuating vs worsening
+		- _Previous treatment and responses_ - both pharmacological and non-pharmacological (informs choice of Mx)
+	- **Assessment of significance and impact:**
+		- _Ideas, concerns, and expectations_ - provides a gist for patient-centred care
+		- _Social impact_ - informs functional requirement of the patient, noting effects on:
+			- Activities of daily living
+			- Family and relationships
+			- Work and income
+			- Sexuality
+		- _Psychological impact_:
+			- Mood - anxiety/ stress more common for acute problems, risk of depression if chronic
+			- Sleep - sleep disturbances as a result of pain, but also as a result of impact on mood
+			- Behaviour - e.g. social withdrawal, reduced activity due to functional limitation or impact on mood
+- **Yellow flags in MSK problems** - predictors of poorer outcome especially with late identification and intervention:
+	- _Demographic features_ - older age
+	- _Features related to the MSK pathology_:
+		- More intense pain
+		- Longer duration of pain
+		- Compensable injury
+	- _Features related to patient's response_:
+		- Passive role of recovery (more days of reduced activity)
+		- Patients believe pain is likely to persist
+		- Depressive symptomatology
+- **Common MSK problems in primary care:**
+	- _Acute injury_ - cut/ abraision, ankle or knee sprain, muscle sprain
+	- _Overuse syndromes_:
+		- Chronic muscle/ joint strain due to overuse or postural problems
+		- Shoulder pathologies (e.g. frozen shoulder, rotator cuff syndrome)
+		- Elbow pathologies (e.g. tennis elbow, golfer's elbow)
+		- Pathologies of the hands and wrist (e.g. Dequervain's tenosynovitis, Carpal tunnel syndrome, trigger finger)
+		- Pathologies of the foot (e.g. plantar fasciitis)
+	- _Degenerative pathologies_:
+		- Osteoarthritis (knees > hips > hands)
+		- Cervical and lumbar spondylosis +/- radiculopathy/ myelopathy
+	- _Infective_ - skin and soft tissue infections, septic arthritis, osteomyelitis
+	- _Inflammatory_ - gout, other rheumatological condition
+	- _Neoplastic_ - rarely occurs, typically presents with bone pain or mass
+- **Principles of acute injury for muscles, tendons, and ligaments** - Sx corresponding to the 4 phases of injury:
+	- _Inflammatory phase_ (weeks 0-1) - acute onset of florid inflammatory features (pain, swelling, redness, warmth), with marked loss of function primarily due to pain
+	- _Proliferative phase_ (weeks 1-3) - reducing swelling as inflammation reduces, but persistent pain from the immature scar and hence loss of function
+	- _Maturation phase_ (week 3 onwards) - possibly reducing pain, but loss of function may occur due to stiffness/ contractures, or muscle atrophy
+	
+	![[Pasted image 20260414214024.png]]
+- **Principles of overuse injuries:**
+	- _Clinical presentation_:
+		- Typically presents w/ insiduous onset of pain, w/ limited redness, swelling or warmth
+		- Patient may or may not be aware of overuse
+	- _Pathophysiology_:
+		- **Repetitive microtrauma** - body parts unable to adapt to cumulative stress from repetitively applied forces (esp. shear or compression) possibly due to weakness
+		- **Failure to repair due to poor circulation** - resulting in diminished or absent inflammation and degeneration of fibrocyte and matrix component of scar
+	- _Predisposing, precipitating and perpetuating factors of overuse injuries_:
+		- **Factors causing failure to repair** - aging, DM, arterial insufficiency, post-menopausal state
+		- **Factors causing increased stress and repetitive microtrauma:**
+			- Intrinsic - malalignment, muscle imbalance, poor flexibility
+			- Extrinsic - improper training technique, equipment, unfavourable environments
+- **Principles of degenerative disorders:**
+- **Approach to holistic management of MSK problems:**
+	- _Reassurance_ - address significance or impact of MSK problems (bio-psycho-social concerns) to relieve anxiety/ stress
+	- _Advice_ - activity modification based on the underlying pathology to limit extent of injury, promote healing, and prevent complications
+	- _Prescription_ - drug prescription, exercise prescription, sick leave for rest/ time for other interventions
+	- _Referral_:
+		- Allied health - PT and OT for symptom relief and improve functions
+		- Orthopedic surgeon - for operative interventions or serious pathology (e.g. tumour)
+	- _Investigations_ - to confirm diagnosis and r/o fractures or serious pathology
+	- _Observation_ - always follow up and monitor progress
+	- _Prevention_ - address 4Ps to prevent future episodes/ injuries
+- **Advices and principles of mx based on underlying pathology:**
+	- _Acute injury_ - based on the stages of healing:
+		
+		![[Pasted image 20260414215901.png]]
+	- _Overuse syndrome_ - analgesia +/- addressing the two factors that predisposes and precipitates overuse syndromes as to 1) limit further injury, 2) prevent recurrence:
+		- Reducing microtrauma - activity modification, supports/ braces, therapeutic exercise
+		- Improving circulation and healing - addressing comorbidities (e.g. DM), ?injections
+	- _Degenerative disorders_ - aimed at minimising progression through modification of perpetuating factors, maximising function and QoL, and preventing complications
+- **Rehabilitation goal setting:**
+	- **Goals** - aim to prepare the patient to resume normal pre-injury function as much and as quick as possible, which includes:
+		- No or minimal symptomatology - pain free state
+		- Normal physical functioning - normal ROM, flexibility of muscle around joint, muscle strengthening, power, endurance, balance, coordination, agility, speed
+		- _Normal pre-injury functions_ - e.g. occupation, leisure
+	- **Dependence on the stage of recovery:**
+		
+		![[Pasted image 20260414220641.png]]
+- **Prescription toolbox for MSK problems:**
+	- _For symptomatic control_ - pharmacotherapy, exercise prescription, physical modalities (ice vs heat), orthotics
+	- _For rehabilitation_ - exercise, walking aids, PT/ OT
+	- _For social needs_ - sik leave, reports
+- **Physical modalities for pain relief in MSK problems** - icing vs heating:
+	- **Icing:**
+		- _Indications_ - aimed at reducing inflammatory phase and thus recovery time, although little evidence on clinical outcomes improvement:
+			- Acute phase of soft tissue injury (first 48h)
+			- Acute inflammatory conditions
+		- _Application_ - melting ice water or frozen gel pad applied through a wet towel for repeated periods of 15 min
+		- _Mechanism of action_:
+			- Diminution of cellular metabolic activity and amount of inflammatory agents released locally
+			- Decreased pain and swelling
+	- **Heat:**
+		- _Indications_ - aimed at improving recovery phases:
+			- Later stages of acute injuries
+			- Chronic overuse injuries or biomechanical stress
+			- Chronic inflammation or arthritis
+		- _Application_ - wrap heat pack in a dry towel and applying it over the injured siite for 15-20 minutes
+		- _Mechanism of action_:
+			- Increased blood flowing to area to promote healing
+			- Reduce pain, stiffness, and muscle spasm
+- **Pharmacological Tx** - dependent on acute vs chronic pain:
+	- Chronic pain - WHO analgesic ladder
+	- Acute pain - ?may be more aggressive to prevent developing chronic pain
+- **Exercise prescription:**
+	- **Aims of exercise prescription** - a specific plan of fitness-related activities that are designed for a specific purpose
+	- **Effects of exercise:**
+		- Improve cardiovascular and muscle fitness
+		- Improve carbohydrate metabolism
+		- Prevent future injury/ fall
+		- Improve circulation and promote healing of injured tissues
+		- Reduce pain
+		- Improve or maintain flexibility/ reduce stiffness or contracture
+		- Improve muscle strength, endurance and power
+	- **Provision of an exercise prescription** - must include the following specific recommendations:
+		- _Type_ of exercise
+		- _Intensity_ or specific workloads
+		- _Duration_ of activity or exercise session
+		- _Frequency_ of exercise sessions
+		- _Progression_ of intensity, frequency, duration
+		- _Precautions_ regarding certain orthopedic concerns or related comments
+	- **Types of exercise:**
+		- Range of motion/ flexibility exercises
+		- Resistive exercises
+- **Prosthetics and orthotics:**
+	- _Prosthetics_ - the science and art involved in restoring the form and function of persons with disability by using appropriate substitute (i.e. the prosthesis)
+	- _Orthotics_ - the science and art involved in restoring the function of persons with disability using augmentation devices
+- **Financial compensation:**
+	- _Compensation for Injury on Duty_ (IOD) - operated by labour department
+	- _Traffic accident victims assistance scheme_ (TAVA) - operated by social welfare department
+- **Sick leaves** - no fixed limit of duration, to be issued bsaed on:
+	- Diagnosis, and prognosis
+	- Need for time off to receive treatment
+	- Functional needs

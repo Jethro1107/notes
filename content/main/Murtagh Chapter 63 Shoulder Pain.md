@@ -1,0 +1,242 @@
+---
+type: main
+tags:
+---
+# Chapter 63 Shoulder Pain
+
+- **Sources of shoulder pain:**
+	- Within the shoulder structures (glenohumoral joints, biceps tendon, rotator cuff tendons)
+	- Acromioclavicular joint
+	- Cervical spine
+	- Disease viscera (heart, lungs, subdiaphragmatic structures such as gallbladder)
+- **Key facts and checkpoints:**
+	- ![[Pasted image 20260523152657.png]]
+## Functional Anatomy of the Shoulder
+
+- **Clinically relevant anatomical areas around the shoulder:**
+	- Glenohumoral joint
+	- Subacromial complex
+	- Subacromial bursa and supraspinatus ligaments
+	- Acromioclavicular joints
+	- ![[Pasted image 20260523153421.png]]
+- **Glenohumoral joint** - ball and socket joint between the glenoid lubrum of the scapula and the head of the humerus:
+	- Enveloped by a loose capsule, highly flexible to allow ROM
+	- Prone to injury/ dislocations from traumatic forces
+	- Develops osteoarthritis more often than appreciated
+- **Subacromial bursa and supraspinatus tendon:**
+	- Perihumoral space above the glenohumoral joint but just below the arch formed by the bony acromion, the coracoacromial ligament, and coracoid process
+	- Relatively tight compartment where excessive friction and pinching renders the two structures prone to injury
+## Diagnostic Approach
+
+- **Causes of non-traumatic shoulder pain:**
+	- ![[Pasted image 20260523155248.png]]
+- **Murtagh's safe diagnostic model of non-traumatic shoulder pain:**
+	- ![[Pasted image 20260523153908.png]]
+- **Probability diagnosis:**
+	- _Rotator cuff disorders_ (shoulder impingement syndrome) - supraspinatus tendinopathy most common as subjected to considerable friction of wear and tear
+	- _Adhesive capsulitis_ (frozen shoulder) - acute inflammatory condition affecting the capsule of glenohumoral joint causing it to become fibrotic and contracted
+	- _Cervical spine disorders_ - especially if pain radicular in nature
+- **Serious disorders not to be missed:**
+	- **Infections:**
+		- _Septic arthritis_ - raised suspicion for acute monoarthritis w/ marked systemic complaints
+		- _Osteomyelitis_ - raised suspicion for complaints of bony tenderness and systemic complaints
+	- **Malignancies:**
+		- _Primary malignancies_ - e.g. Pancoust tumour, myeloma, lymphoma involving axillary LN
+		- _Secondary malignancies_ - bony metastasis of various malignancies
+	- **Referred pain:**
+		- _Myocardial ischaemia_ - referred pain via vagus nerve (C3-5), where most commonly referred over the left shoulder, but possibility of referral over the right shoulder (1 in 20 cases)
+		- _Diaphragmatic irritation and intra-abdominal pathologies_:
+			- Right shoulder tip - hepatobiliary disorders
+			- Left shoulder tip - perforated peptic ulcer, splenic rupture
+	- **Other inflammatory joint conditions:**
+		- _Rheumatoid arthritis_ - rarely affects the large joint but possible
+		- _Gout_ - worth considering in patients w/ Hx of gout
+- **Pitfalls:**
+	- _Polymyalgia rheumatica_ - often missed; clinical suspicion in elderly presenting w/ bilateral shoulder pain and stiffness worse in the morning
+- **Seven masquerades checklist:**
+	- _Depression_ - strong association w/ adhesive capsulitis 
+	- _Diabetes_ - higher incidence of adhesive capsulitis than general population
+	- _Drugs_ - consider use of corticosteroids (avascular necrosis) or anabolic steroids (osteolysis of AC joint)
+	- _Spinal dysfunction_ - degree of shoulder pain caused by cervical spondylosis not always appreciated
+## Clinical Approach
+
+- **Salient points of Hx:**
+	- **HPI** - onset, progression, provocation, quality, severity:
+		- _Onset_ - acute vs chronic
+		- _Progression_ - static, relapsing, progressive
+		- _Provocation_ - corresponding to physical activity, posture, time of day etc.
+		- _Quality_ - typically dull
+		- _Severity_ - whether wakes patients up at night
+	- **Functional impact:**
+		- _Combing hair and overhead work_ - suggests 1) painful external rotation, or 2) capsular restriction
+		- _Handling bra/ touching shoulder_ - suggests 1) painful internal rotation, 2) capsular restriction, or 3) disorder of AC joint
+	- **Precipitating events:**
+		- _Trauma_ - note possibility of trauma, however minor prior to onset of pain
+		- _Overhead work_ - consider overuse syndromes such as shoulder inpingement syndrome
+	- **Associated Sx:**
+		- _Chest pain and cardiac Sx_ - consider possibility of myocardial ischaemia
+		- _Abdominal pain_ - consider possibility of intra-abdominal pathologies
+		- _Neck pain_ - consider cervical spondylosis
+		- _Numbness and parasthesia_ - consider cervical spondylosis if a/w focal neurological deficits
+		- _Fever_ - consider infections such as septic arthritis or osteoarthritis
+		- _Weight loss_ - malignancies
+- **P/E:**
+	- **Shoulder examination** - look, feel, move (active ROM, passive ROM, resisted movement), special tests
+	- **Other key examinations:**
+		- Cardiovascular examination
+		- Neurological examination
+		- Palpation of cervical and axillary LN
+- **Inspection of the shoulder** - comparison between both sides:
+	- _Posture_ - note neck posture for possibility of cervical dysfunction
+	- _Scapular position_ - imbalance between scapular positions
+	- _Local deformities_ - bony deformities, swellings, or muscle wasting
+- **Palpation of the shoulder:**
+	- _Acromion and acromioclavicular joints_ - for focal tenderness
+	- _Subacromial bursa_ - possibility to localise tenderness w/ inflammation
+	- _Supraspinatus, infraspinatous and scapular spine_ - for muscle spasms and trigger points
+- **Movement of the shoulder:**
+	- **Principles of movement of the shoulder** - involves:
+		- Scapulothoracic joint
+		- Glenohumoral joint
+	- **Approach to observation of shoulder movement** - tested bilaterally and simultaneously for:
+		- Active and passive ROM
+		- Scapulothoracic rotation
+		- Impingement (fleeting interruption of free movement by catching of the tendon upon a bone)
+		- Painful arc
+	- **Active ROM:**
+		- _Flexion and extension_ - 180/50 degrees
+		- _Abduction and adduction_ - 170/50 degrees
+		- _Internal and external rotation_ (elbows flexed) - 90/90 degrees
+	- **Resisted movements** - isometric contractions of a muscle for testing tendonopathies:
+		- ![[Pasted image 20260523162356.png]]
+		- **Shoulder abduction** (supraspinatus tendonopathy):
+			- _Supraspinatus test_ - arms abducted <= 15 degrees, patient pushes elbow away from the side while examiner's hand resists movement
+			- _Jobe test_ (emptying can) - arms in "emptying the can position" (90 degree abduction, 30 degree flexion, full internal rotation), w/ resisted elevation
+		- **Internal rotation** (subscapularis tendonopathy):
+			- _Subscapularis test_ - arms by side and elbows 90 degree flexed, examiner places hand on palms, w/ resisted internal rotation
+			- _Lift off test_ - patients places hand behind back (internal rotation and elbow flexion), and attempts to lift hand off the back w/ resistance
+			- _Bear hug test_ - patient places palms on opposite shoulder w/ elbow in front, and examiner attempts to pull hand away by applying external rotation force
+			- _Belly press test_ - patient places flat palm against belly and presses inwards
+		- **External rotation** (infraspinatus tendonopathy):
+			- _Infraspinatus test_ - arms by side and elbows 90 degree flexed, examiner places hand on back of hand, w/ resisted external rotation
+- **Special tests:**
+	- **Supraspinatus/ infraspinatus rapid differentiation test** (thumbs up/ down abduction test):
+		- _Testing the supraspinatus_ - abduction w/ thumbs up
+		- _Testing the infraspinatus_ - abduction w/ thumbs down
+	- **Long head of biceps test** - opposed forward elevation of arm w/ elbow at right angles (reproduction of pain in bicepital groove)
+	- **Neer's test:**
+		- _Procedure_:
+			- One hand stabilises the scapulae
+			- The other hand assists patient in passive internal rotation and maximal shoulder flexion (anterior elevation)
+			- ![[Pasted image 20260523175309.png]]
+		- _Interpretation_ - pain reproduced
+	- **Hawkin's test:**
+		- _Procedure_:
+			- Shoulder flexion at 90 degrees rested on examiners arm
+			- Apply passive internal rotation at the shoulder
+			- ![[Pasted image 20260523175239.png]]
+		- _Interpretation_ - pain reproduced
+	- **Other tests:**
+		- Brachial plexus tension test
+- **Ix:**
+	- **Bloods** - ESR, RF, anti-CCP +/- uric acid
+	- **ECG** - if IHD suspected
+	- **Imaging:**
+		- _X-ray_ - of shoulder, or C-spine
+		- _USG_ - POCUS for assessing rotator cuff lesions, especially tears and capsulitis
+		- _MRI_ - typically only required for unstable joints
+- **DDx of shoulder tip pain unchanged by shoulder movement** - referred from irritation of peritonial cavity:
+	- Peptic ulceration
+	- Diaphragmatic irritation (e.g. pneumonia, gallbladder disease)
+	- Ruptured viscus (PPU)
+	- Intraperitoneal bleeding (e.g. ruptured spleen)
+	- Ectopic pregnancy
+	- Post-laparoscopy
+## Shoulder Pain in Children
+## Shoulder Pain in the Elderly
+## Rotator Cuff Tendinopathy
+
+- **Definition** - also referred to as shoulder impingement syndrome, is a cause of shoulder pain caused by inflammation, tear, or impingement under the acromion of one or more rotator cuff tendons (typically the supraspinatus)
+- **Epidemiology** - the most common cause of shoulder pain, usually seen in:
+	- Young people who engage in overhead activities
+	- > 50y (rotator cuff tears are most common)
+- **Associated pathology in rotator cuff tendinopathy:**
+	- Calcification of the tendon (calcific periarthritis)
+	- Subacromial bursitis
+- **Clinical features of supraspinatous tendonopathy:**
+	- ![[Pasted image 20260523172440.png]]
+- **Clinical features of other rotator cuff lesions:**
+	- Pain may be similar to that of supraspinatus tendonopathy
+	- May be a/w dominant signs of subscapularis or infraspinatus
+	- Milder lesions may mimick adhesive tendonitis
+- **Signs of rotator cuff lesions:**
+	- **Painful arc** - characteristic shoulder maximal at 60-120 degrees of shoulder abduction
+	- **Positive impingement test:**
+		- Neer's test
+		- Hawkin's test
+	- **Positive resisted movement tests:**
+		- _Resisted abduction_ - Jobe test
+		- _Resisted external rotation_ - infraspinatus test
+	- 
+- **Mx:**
+	- **Principles of Mx:**
+		- _Rest and education_ - patient education on the nature of disease
+		- _Advise_ - advise on rest during the acute painful phase to avoid aggravation of injury
+		- _Pharmacological therapy_ - analgesics and NSAIDs up to 4 weeks +/- peritendon/ subacromial injection (if no tear on USG)
+		- _USG_ - not typically required but may demonstrate tears (or differentiation w/ )
+		- _Referral for PT_ - active program including scapular stabilsing techniques and rotator cuff strengthening
+	- **Peritendon corticosteroid injection:**
+		- _Site and technique of injection_ - ideally onto the tendon rather than general infiltration into the subacromial space:
+			- Identify and mark the tendon based on insertion into greater tuberosity of the humorus
+			- Place patient arm in the back (in internal rotation position) w/ back of hand touching far waistline
+			- Needle inserted below the acromion along the line of tendon
+		- _Injection_ - recommended injection is w/ 1mL of soluble long-acting corticotsteroid w/ 5mL of 1% lignocaine
+## Rotator Cuff Tears
+
+- **Definition** - degenerative changes of rotator cuff tendon w/ age (misnomer and not a/w injuries)
+- **Epidemiology** - asymptomatic rotator cuff tears are common but a significant number will become symptomatic over time:
+	- _Prevalence_ - asymptomatic rotator cuff tears are common but significant number will become symptomatic over time
+	- _Demographic_ - increasing incidence w/ age:
+		- Up to 4% in people under 40y
+		- > 50% of those over 60y
+- **Clinical features of rotator cuff tears** - presentation w/ shoulder pain typical of rotator cuff tendinopathy w/ associated weakness:
+	- _Pain_ - impingement in external +/- internal rotation
+	- _Weakness_ - on abduction and external rotation
+- **Diagnostic triad of rotator cuff tear** - >= 2/3 +ve signs in >60y has 98% specificity of rotator cuff tear:
+	- Supraspinatus weakness
+	- Weakness in external rotation
+	- Impingement (in external or internal rotation or both)
+## Subacromial Bursitis
+
+- **Definition** - inflammation of the subacromial bursa often in association w/ a severe rotator cuff pathology
+- **Mx:**
+	- Strong analgesics
+	- Injections of local anasthetics into bursa and corticosteroids onto the focus of the lesion
+## Adhesive Capsulitis
+
+- **Definition** - acute inflammation affecting the capsule around the gelnohumeral joint, which becomes fibrotic and contracted
+- **Epidemiology of adhesive capsulitis:**
+	- _Prevalence_ - 2-5% of general population
+	- _Demographic_:
+		- Age - usually affects people in their 40s-60s
+		- Sex - female preponderance
+		- Comorbidities - wose w/ diabetes (affects 10-20% of those w/ DM)
+- **Stages of adhesive capsulitis:**
+	- _Freezing stage_ (2-9 mo) - an initial painful inflammatory phase
+	- _Frozen stage_ (4-12 mo) - a fibrotic contracted phase
+	- _Thawing stage_ (5-26 mo) - a partial or complete resolution
+- **Clinical features of adhesive capsulitis:**
+	- ![[Pasted image 20260523180507.png]]
+- **Mx:**
+	- **Principles of Mx:**
+		- _Reassurance_ - education on nature of disease, and typical natural Hx w/ or w/o interventions
+		- _Advise_ - rest during acute phase, w/ active gentle program in the frozen and thawing stage
+		- _Prescription_ - analgesia +/- oral corticosteroids (e.g P30 x 3/52 followed by tapering dose) maybe necssary
+		- _Orthopedic interventions_:
+			- Hydrodistension
+			- Arthroscopic severing of adhesions
+		- _Physiotherapy_ - active shoulder exercise important to restore function
+## Bicipital Tendonopathy
+## Rupture of the Biceps Tendon
+## Polymyalgia Rheumatica
+## Glenoid Labrum Injuries

@@ -1,0 +1,59 @@
+---
+id: d2958ee8-af9b-4319-81de-3c8cd7c1e434
+title: Status Epilepticus
+---
+
+# Status Epilepticus
+
+- **Definition** - seizure activity that:
+    - Does not resolve spontaneously, or
+    - Recurrent seizure w/ no recovery of consciousness disease
+- **Etiology of status epilepticus** - all etiology of seizures, consider reversible causes:
+    - Hypoglycaemia
+    - Hyponatraemia
+    - Hypocalcaemia
+    - Fall in anti-epileptic drug level in known epilepsy
+- **Clinical features of status epilepticus:**
+    - <u>Prolonged motor manifestation</u> - prolonged rigidity and/or clonic movements, which may become subtle as seizure activity becomes prolonged
+    - <u>Prolonged loss of awareness</u> - defined as convulsions \> 5 min w/o awareness, or inability to regain consciousness after convulsions
+    - <u>Features of increased metabolic rate</u>:
+        - Pyrexia
+        - Sweating
+        - Acidosis
+    - <u>Complications of status epilepticus</u>:
+        - Aspiration
+        - Hypotension
+        - Arrhythmia
+        - Hepatic and reanal failure
+        - Mortality
+- **Dx** - clinical Dx based on description
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Primary assessment</u> - assess and secure airway, breathing, circulation, disability and glucose
+        - <u>Investigation of cause</u> - performed simultaneously when Mx patient
+        - <u>Initiation of anti-epileptic medications</u> - if seizure continue for \> 5 min
+        - <u>Tx of reversible causes</u> - e.g. hypoglycaemia
+    - **Primary assessment:**
+        - <u>Airway</u> - ensure airway patent
+        - <u>Breathing</u> - give O2 to prevent cerebral hypoxia, assess respiratory rate
+        - <u>Circulation</u> - check BP/P, secure IV access
+        - <u>Disability</u> - unconscious on AVPU scale
+        - <u>Glucose</u> - haemstix for hypoglycaemia
+    - **Ix of cause** - send blood:
+        - CBC, clotting, glucose, LRFT, Ca, Mg, +/- anti-epileptic levels
+        - Additional sample for future analysis (e.g. toxicology)
+    - **Initiation of anti-epileptic medications:**
+        - <u>Initial regimen</u> - repeat 1x only after 15 min:
+            - Lorazapam 4 mg IV
+            - Diazepam 10 mg Iv/ rectal
+        - <u>Escalation for IV infusion</u> - w/ cardiac monitoring, blood gases, and neuro monitoring:
+            - Phenytoin 15 mg/kg at 50 mg/min
+            - Fosophenytoin 15 mg/kg at 100 mg/min
+            - Phenobarbital 10 mg/kg at 100 mg/min
+    - **Long-term anti-seizure medications** - indicated even if provoked:
+        - Sodium valpropate 10 mg/kg IV over 3-5 mins, then 800-2000 mg/d
+        - Phenytoin loading dose of 15 mg/kg at \< 50 mg/min (if not used previously), then at 300 mg/d
+        - Carbamazepine 400 mg by NG tube, then 400-1200 mg/d
+
+  
+  ![](../img/mx_of_status_epilepticus.png)

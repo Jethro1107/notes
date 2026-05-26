@@ -1,0 +1,119 @@
+---
+header-includes:
+- <link rel="stylesheet" type="text/css" href="./styles.css">
+id: 21c884cd-6436-4969-a4db-016e5200d9e6
+title: Hepatic Encephalopathy
+---
+
+<link rel="stylesheet" type="text/css" href="./styles.css">
+
+# Hepatic Encephalopathy
+
+- **Definition** - a neuropsychiatric syndrome caused by decompensated liver disease that when progresses, can lead to coma
+- **Pathophysiology of HE:**
+    - **Neurotoxin accumulation resulting in disruption of brain function** - exact neurotoxin is unknown, but postulated substances include:
+        - <u>Ammonia</u> - traditionally an important risk factor (hence measured clinically), thought to arise as nitrogenous substances produced by gut baccterial action
+        - <u>Gamma-aminobutyric acid</u> (GABA) - thought to be a mediator as is a known inhibitory neurotransmitter
+        - <u>Others</u> - octopamine, amino acids, mercaptans, and fatty acids may act as neurotransmitters
+    - **Accumulation of neurotoxins that are normally metabolised by the liver** - most affecting patients will have evidence of liver failure and portosystemic shunting but the balance between the two varies between individuals:
+        - <u>Hepatocellular insufficiency</u> - reduced metabolic functions of the liver reduces the capacity for metabolism of neurotoxins into their non-toxic metabolites, such that they accumulate due to an increase in load
+        - <u>Porto-systemic shunting</u> - direct shunting of neurotoxins into systemic circulation to affect the brain
+    - **Triggers of HE** - HE may be precipitated by other factors, particularly other complications of liver disease (see below)
+- **DDx of HE:** 
+![](../img/ddx_of_hepatic_encaphalopathy.png)
+    - **Head injuries or intracranial bleeds** (common in alcoholics) - e.g. TBI, subdural haematoma, extra-dural haematoma
+    - **Drug or alcohol intoxicication** - includes prescribed drugs such as <u>sedatives</u>, and <u>antidepressants</u>
+    - **Delirium tremens** - i.e. alcohol withdrawal
+    - **Wernicke's encephalopathy**
+    - **Metabolic encephalopathies** - e.g. hyponatraemia, hypoglycaemia
+    - **Primary psychiatric disorders**
+    - **Post-ictal state**
+    - **Neurological Wilson's disease** - if Hx of hepatic involvement of Wilson's disease
+- **Preciptating factors of HE** - usually found if HE occurs acutely: 
+![](../img/factors_predisposing_to_he.png)
+    - **Dehydration** - hypovolaemic state results in increased concentration of nerotoxins, and in a cirrhotic patient the following causes are important:
+        - Variceal bleeding
+        - Over-diuresis
+        - Excessive paracentesis w/ replacement of IV albumin
+    - **Increased portosystemic shunting:**
+        - <u>Iatrogenic</u> - TIPPs procedure, surgery
+        - <u>Vascular occlusion</u> - e.g. portal vein thrombosis, hepatic vein thrombosis
+    - **Metabolic abnormalities** - hypoK, metabolic alkalosis
+    - **Drugs** - esp. sedative and antidepressants as the brain in cirrhosis is excessively sensitive to such drugs
+    - **Increased load of neurotoxins** - increased production or reduced excretion:
+        - GI bleeding
+        - Sepsis
+        - Constipation
+        - Renal failure
+- **Approach to delirium or coma in a patient with a history of liver disease:**
+    - <u>Hx</u> - detailed drug Hx, and exposure to medications, drugs, toxins or alcohol
+    - <u>P/E</u> - assess for 1) hydration status, 2) GI bleeding
+    - <u>Ix</u> - 1) r/o causes other than HE, and 2) Ix for HE and find precipitating cause
+- **Clinical features of HE:**
+    - **Neuropsychiatric manifestation:**
+        - <u>Grade I</u> - slow mentation, change in behavior, disordered sleep
+        - <u>Grade II</u> - lethargy, drosy but arrousable, irritable
+        - <u>Grade III</u> - stupor, sleepy but responsive, incoherent speech, gross disorientation
+        - <u>Grade IV</u> - coma and unresponsive to voice or pain
+
+    
+    ![](../img/assessment_for_he.png)
+    - **Seizures** - ocassionally occur
+- **Signs of HE** - dependent on severity:
+    - **Assessment of general consciousnes** - GCS, AVPU score
+    - **General examination:**
+        - <u>Pallor</u> - may point towards UGIB
+        - <u>Hydration status</u> - dehydration is an important precipitant of HE
+        - <u>Flapping tremor</u> - may be initial manifestation of HE
+        - <u>Fetor hepatis</u> - sign of liver failure and porto-systemic shunting rather than HE
+    - **Psychometric test** - demonstrates poor mentation:
+        - <u>Constructional apraxia</u> - inability to draw objects such as a start
+        - <u>Reiten's test</u> - connection of numbers on a sheet for bedside monitoring of progress
+    - **Neurological examination** - rarely present w/ focal neurological S/S and other causes must be ruled out:
+        - <u>UMN pattern</u> - progressive HE may result in hyper-reflexia and bilateral up-going planterns
+        - <u>Other patterns of chronic HE</u> - hepatocerebral degeneration results in variable patterns of:
+            - Cerebellar dysfunction
+            - Parkinsonian syndromes
+            - Spastic paraplegia
+            - Dementia
+    - **Systems review** - assessment of cause:
+        - <u>Temperature</u> - fever suggestive of underlying sepsis
+        - <u>Ascites</u> - Tx may complicate w/ HE, or reflect underlying SBP
+        - <u>PR bleeding</u> - r/o GI bleeding
+- **Grading system of HE:** 
+![](../img/HE_grading.png)
+- **Ix:**
+    - **Arterial ammonia** - usually raised in patients w/ HE (however raised levels may occur in absence of HE, limiting diagnostic evaluation)
+    - **CT Brain** - r/o other causes of delirium or coma
+    - **Electroencephalogram** (EEG):
+        - Diffuse slowing of normal alpha waves
+        - Eventual development of delta waves
+    - **Additional Ix** - Dx of precipitating causes:
+        - <u>CBC</u> - Hb for GI bleeding, HCT as marker of hydration, WBC for potential infection
+        - <u>LFT and PT</u> - assessment of liver synthetic function
+        - <u>AFP</u> - screen for HCC (HCC may clinically present as HE)
+        - <u>RFT</u> - detect UGIB (U:Cr ratio), renal failure, hypoK, or metabolic alkalosis
+        - <u>Toxicology screen</u> - for drugs (including sedatives) or alcohol
+        - <u>Septic workup</u> - blood and urine cultures +/- paracentesis for SBp
+- **Dx** - clinical, but requires ruling out other causes
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Dx and Tx of precipitating causes</u> - requires additional workup to remove precipitating cause (e.g. coorrect hypokalaemia)
+        - <u>Suppress production of neurotoxins</u> - mainly by targeting bacterial production of nitrogenous compounds in the bowel by lactulose and rifaximin
+        - <u>Liver transplantation</u> - chronic or refractory encephalopathy is one of the main indications for LT
+    - **Lactulose:**
+        - <u>Regimen</u> - 15-30 mL tid (titrated to loose stool 2-3x a day)
+        - <u>MOA</u>:
+            - Osmotic laxative effect - removal of nitrogenous compounds from blood
+            - Reduction of colonic pH - inhibition of growth of urease-producing bacteria, while trapping NH3 as NH4+ within colonic lumen
+            - Prevents constipation
+            - Promotes incorporation of nitrogen into bacteria
+        - <u>S/E</u> - diarrhoea can be troublesome
+    - **Rifaximin** - typically used in additon to lactulose to provide maximal clinical benefit:
+        - <u>Regimen</u> - 400 mg tid
+        - <u>Clinical efficacy</u>:
+            - More effective than lactulose alone
+            - Rifaximin and lactulose reduces breakthrough HE within 6mo
+    - **Role of protein restriction** - no longer recommended:
+        - Often unpalatable
+        - Can lead to worsening nutritional state in already malnourished patients

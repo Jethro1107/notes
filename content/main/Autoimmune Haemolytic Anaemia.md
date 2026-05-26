@@ -1,0 +1,58 @@
+---
+id: db28486e-10dc-47fe-bf09-ef660d7131e3
+title: Autoimmune Haemolytic Anaemia
+---
+
+# Autoimmune Haemolytic Anaemia
+
+- **Definition** - increased RBC destruction due to red cell autoantibodies, which are usually IgG or IgM (and rarely IgE or IgA)
+- **Thermal specificity of RBC autoantibodies:**
+    - <u>Warm Ab</u> (80%) - binds best at 37 degrees, where majority are IgG against Rh Ag, and result in **potent opsonization** (extravascular haemolysis and **spherocytosis**)
+    - <u>Cold Ab</u> (20%) - binds best at 4 degrees, but clinically relevant cold Ab will bind at body temperature, where majority are IgM, and result in **potent complement activation** (intravascular haemolysis and **reduced haptoglobin**)
+- **Epidemiology:**
+    - <u>Warm AIHA</u> - 1/100000/y, more common in middle age and F
+    - <u>Cold AIHA</u> - uncertain as they may occur in chronic, acute or transient settings
+- **Warm AIHA:**
+    - **Pathophysiology** - binding of IgG resulting in opsonization and extravascular haemolysis
+    - **Etiology:**
+        - <u>Primary warm AIHA</u> - idiopathic in up to 50% of cases
+        - <u>Secondary warm AIHA</u>:
+            - Autoimmune disease (e.g. SLA, RA)
+            - Drugs (e.g. L-dopa, methyldopa, NSAIDs, penicillin)
+            - Lymphoproliferative disease (e.g. lymphoma, CLL, myeloma)
+            - Other solid organ tumours
+            - States of immunodeficiency (e.g. HIV)
+    - **Clinical features:**
+        - Haemolytic anaemia
+        - Mild jaundice
+    - **Ix:**
+        - <u>PBS</u> - spherocytosis
+        - <u>Coombs test</u> - agglutination visualised (not 10% of all warm AIHA are Coombs -ve)
+    - **Mx:**
+        - **Principles of Mx:**
+            - <u>General measures</u> - transfusion, folate supplementation
+            - <u>Dx and Tx of underlying cause</u> - e.g. active autoimmune disease
+            - <u>Corticosteroids</u> - for primary AIHA
+            - <u>Splenectomy</u> - for refractory cases of primary warm AIHA
+        - **Corticosteroids:**
+            - <u>Dosing and regimen</u> - high-dose prednisolone PO 1mg/kg until response, and slow taper over 8-12 weeks
+            - <u>MOA</u> - 1) reduce Ab production, 2) reduce macrophage function
+        - **Splenectomy:**
+            - <u>Indications</u> - considered in refractory cases (respond rate at 50-60%)
+            - <u>Disadvantages</u>:
+                - Risk of infection (requires prior vaccination)
+                - Risk of secondary neoplasm especially in young patients
+        - **Rituximab** - off-label use
+- **Cold agglutinin disease:**
+    - **Pathophysiology** - IgM resulting in agglutination +/- complement fixation
+    - **Etiology of cold agglutinin disease:**
+        - <u>Primary</u> - idiopathic
+        - <u>Secondary</u>:
+            - Lymphoproliferative disorders (esp. lymphoma)
+            - Transient cold agglutinin disease in infections (esp. Mycoplasma pneumoniae, EBV)
+    - **Clinical features:**
+        - <u>Acrocyanosis</u> - agglutination in colder exposed areas (e.g. finger tips)
+        - <u>Intravascular haemolysis</u> - only if complement fixation occurs
+    - **Ix:**
+        - <u>MCV</u> - spuriously high as automated blood analysers detect aggregates as single cell
+    - **Mx** - keep extremities warm

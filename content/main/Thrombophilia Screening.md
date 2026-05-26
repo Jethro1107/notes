@@ -1,0 +1,19 @@
+---
+id: 8cbeef82-c93d-4683-ad1e-63c9a7aa4f2a
+title: Thrombophilia Screening
+---
+
+# Thrombophilia Screening
+
+- **D-dimers** - measurable products based on fibrin degradation indicated in some patients w/ suspected venous thrombosis:
+    - <u>Role</u> - typically for **exclusion of Dx** of VTE when PTP is low: 
+    ![](../img/role_of_d_dimers_in_exclusion_of_vte.png)
+- **Thrombophilia testing** - measurement of propensity of venous thrombosis, but only indicated in selected cases of unprovoked venous thrombosis:
+    - <u>Indications</u> - for unprovoked venous thrombosis:
+        - Venous thrombosis \< 45y
+        - Recurrent thrombosis
+        - Combined arterial and venous thrombosis
+        - FHx of unprovoked or recurrent thrombosis
+        - Venous thrombosis of unusual site (e.g. cerebral venous thrombosis, Budd-Chiari syndrome, Portal vein, mesenteric vein)
+    - <u>Ix of possible thrombophilia</u> - CBC, antithrombin, Protein C, protein S, APLS and others: 
+    ![](../img/thrombophilia_screening.png)

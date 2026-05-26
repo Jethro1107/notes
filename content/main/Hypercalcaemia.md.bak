@@ -1,0 +1,143 @@
+---
+id: b34e5ab1-c6f2-4614-b735-fb9849c31366
+title: Hypercalcaemia
+---
+
+# Hypercalcaemia
+
+- Normal serum calcium levels is well maintained between 2-2.5 mmol/L, predominantly under the control of PTH, which has permissive effects on vitamin D effects
+- **Hypercalcaemia is defined as serum calcium level \> 2.5 mmol/L:**
+  - Mild hypercalcaemia (asymptomatic or mildly symptomatic) - 2.5-3 mmol/L
+  - Moderate hypercalcaemia - 3.0-3.5 mmol/L
+  - Severe hypercalcaemia - \> 3.5 mmol/L
+- **Clinical features of hypercalcaemia:**
+  - Currently, commonly presents itself as incidental findings of hypercalcaemia, and the patient is mainly asymptomatic.
+  - If symptomatic:
+    - Non-specific symptoms - weakness, tiredness, anorexia, generalised aches and pains over bones.
+    - Dehydration
+      - Hypercalcaemia initially manifests with rather dehydration as a result of nephrogenic diabetes insipidus (ADH resistance of the principal cells), manifesting as polyuria, dry mouth, and thirst.
+    - Early CNS manifestations - mental confusion, and drowsiness.
+    - Classically, hypercalcaemia (especially if related to primary hyperPTH) classically manifests as the adage "Bones, Stones, Abdominal Groans, and Psychiatric Overtones".
+      - Bones - Generalised bone pain, Osteoporosis, Pathological Fractures
+      - Stones - Kidney Stones (Presents with renal colic)
+      - Abdominal Groans - Nausea and vomiting, precipitate duodenal peptic ulcers, constipation
+      - Psychiatric overtones - Depressed mood, psychosis
+    - Very rarely, hypercalcaemia manifests as complications of hypercalcaemia:
+      - Bone complications - Osteoporosis, Pathological fractures
+      - Renal complications:
+        - Pre-renal - Dehydration (AKI)
+        - Renal - nephrocalcinosis
+        - Post-renal - Nephrolithiasis (Stones)
+      - GI complications - Peptic ulcer disease
+- **Etiology of hypercalcaemia:**
+  - **HyperPTH:**
+    - <u>Primary hyperPTH</u> - Adenoma (85%), hyperplasia (10-15%), double adenoma (1-2%), carcinoma (1%)
+    - <u>Tertiary hyperPTH</u> - Autonomous secretion of PTH after prolonged secondary hyperPTH (chronic Vitamin D deficiency, Chronic Kidney Disease)
+  - **Hypercalcaemia of Malignancy** - bone, metastasis, lung, breast, myeloma, renal, lymphoma, thyroid
+  - Excessive administration of vitamin D and/or calcium (supplement overdose)
+  - Increased sensitivity to Vitamin D (e.g. TB and other granulomatous disorders)
+  - Hypocalciuric hypercalcaemia:
+    - Familial - FFH
+    - Drug-induced - thiazide diuretics, Lithium-induced hyperparathyroidism
+  - Uncommon miscellaneous cause (endocrine):
+    - Adrenal insufficiency
+    - Hyperthyroidism/ Thyrotoxicosis
+
+## Approach to Hypercalcaemia
+
+- **Salient points of Hx:**
+  - CC - may be incidental findings, or symptomatic manifestations/ complications of hypercalcaemia
+  - HPI:
+    - Typical HPI dependent on the presentation - Onset, provacation, quality, region and radiation, severity, timing retc.
+    - Ask about associated symptoms:
+      - Non-specific symptoms - Tiredness, weakness, anorexia
+      - Constitutional symptoms (hinting at hypercalcaemia of malignancy or granulomatous disorders) - weight loss, fever etc.
+      - Dehydration and nephrogenic DI - Polyuria, thirst, dry mouth
+      - Renal complications - renal colic
+      - GI complications - nausea, vomiting, PUD (epigastric pain and associated symptoms), constipation
+      - Bone complications - generalised bone aches (particular cortical bone), osteoporosis, pathological fractures
+  - PMH:
+    - Hypertension (a common manifestation of hypercalcaemia)
+    - Diabetes mellitus
+    - Any previous episodes of hypercalcaemia - ask about fractures, renal stones, etc.
+    - Drug history:
+      - OTC supplements - calcium, vitamin D supplements
+      - Prescribed drugs - Thiazide diuretics, lithium
+  - FH (extremely important):
+    - FHH and MEN - any family history of renal stones, or other known endocrine tumours
+  - SH
+    - Drinking, smoking etc.
+- **P/E** - targeted:
+  - Assessment of hydration status -
+  - Parathyroid adenomas are almost always not palpable.
+- **Ix:**
+  - Confirm true hypercalcaemia - Adjusted Calcium (Alb + Total Ca)/ measure ionised Ca
+    - Adjusted Ca (mmol/L) = total Ca + (0.02 x 40 - \[Alb\])
+      - Add 0.02 mmol/L for every 1 g/L drop of Alb from 40g/L
+  - Initial blood test - Electrolytes (Na, Ca, PO4), LRFT, ECG, (ionized Ca)
+    - Na - Hypovolemic hypernatraemia as a result of nephrogenic DI
+    - Ca and PO4:
+      - High Ca, low PO4 - Suggestive of hyperPTH or PTHrP-mediated malignancy (PTH-mediated hypercalcaemia)
+    - LFT
+      - Albumin - calculate adjusted Ca
+      - ALP (+/- GGP) - isolated elevation of ALP suggestive of bone origin, if patient is not pregnant
+    - RFT
+      - Urea, creatinine and eGFR - reflects baseline evaluation (poor renal funciton c/i for IV bisphosphonate)
+        - Low eGFR may be a manifestation of dehydration status, and can be restored after rehydration.
+    - ECG - short QT intervals and associated arrhythmias
+  - PTH assay (differentiate between PTH-dependent hypercalcaemia or PTH-independent hypercalcaemia)
+    - High or inappropriately normal (mid-to-upper normal) - PTH-dependent hypercalcaemia
+    - Suppressed PTH - PTH-independent hypercalcaemia
+- **Continuous work-up for PTH-dependent hyperCa** (hyperPTH, FHH):
+  - 24 hour urine Ca/Cr - r/o FHH
+- **Continuous work-up for PTH-independent hyperCa** (malignancy, granulomatous disease, vitamin D intoxication):
+  - Occult malignancy screen - CXR, CT thorax/ abdomen, mammogram, serum/ urine IEP
+  - Blood tests:
+    - PTHrP
+    - 1,25 dihydroxyvitamin D
+    - 25-dihydroxyvitamin D
+
+## Management of hypercalcaemia
+
+- **Mx of asymptomatic or mild hyperCa:**
+  - Avoid factors that can aggravate hypercalcaemia - thiazide diuretics, Ca and Vit D supplements
+  - Maintain adequate hydration
+  - Avoid high calcium diet
+- **Mx of symptomatic hyperCa:**
+  - **Principles of Mx:**
+    - 1\. Fluid replacement
+    - 2\. Rapid control of serum Ca
+    - 3\. Dx of underlying etiology
+  - **Fluid replacement** - NS for volume expansion
+    - <u>MOA of volume expansion on Ca excretion</u>:
+      - Inhibition of sodium reabsorption in proximal tubule and loop of Henle, allows for increased Ca excretion.
+    - <u>Monitor</u> - electrolyte and fluid balance
+  - **Control of serum Ca:**
+    - <u>IV bisphosphonate</u> (1st line):
+      - **Indications** - 1st line for all patients with moderate-to-severe hypercalcaemia, unless contraindicated
+      - **Selection** - Zoledronate (Zoneta), Pamidronate
+      - **MOA** - Pyrophosphate analog, binds to bone hydroxyapatite and interferes with osteoclastic bone resorption.
+      - **Delayed onset of action** - Serum Ca falls in 1-2 days, but maximal effect in 2-4 days. Repeated dosing only necessary after a minimum of 7 days.
+      - **Adverse effects:**
+        - Flu-like symptoms - musculoskeletal pain
+        - Renal impairments
+        - Severe side effects unlikely due to brief use - e.g. osteonecrosis of jaw and atypical fractures
+      - **C/I:**
+        - eGFR \< 35
+    - <u>Calcitonin</u>:
+      - **MOA** - Increased renal excretion of Ca2+ and decreased bone resorption
+      - **Regimen** - Subcutaneous salmon calcitonin q12h (4 IU/kg)
+      - Rapid onset of action, but rapid tachyphylaxis
+      - **Adverse effects** - nausea, hypersensitivity reaction (rare)
+    - <u>Glucocorticoids</u>:
+      - **Regimen** - Prednisolone 20-40mg od
+      - **Indications** - Vitamin D excess, or increased sensitivity to Vitamin D (e.g. Granulomatous diseases, lymphoma)
+      - **MOA** - Corticosteroids antagonise effects of vitamin D by decreasing calcitriol production by activated macrophages, reducing absorption of Ca and bone resorption.
+    - **Other management:**
+      - <u>MAb against RANKL</u>:
+        - **Selection** - Denosumab
+        - **Indications** - Refractory hypercalcaemia despite treatment with IV bisphosphate, IV bisphosphonate contra-indicated, and hypercalcaemia of malignancy with persistent hypercalcaemia
+        - **Precautions** - Repletion of vitamin D prior to denosumab to prevent hypocalcaemia
+      - <u>HD with zero/ low Ca diasylate</u>:
+        - Treatment of last resort
+        - **Indications** - 1) Serum Ca \> 4.5 mmol/L, 2) Refractory severe hypercalcaemia complicated by renal failure (other therapy becomes ineffective)

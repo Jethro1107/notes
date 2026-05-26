@@ -1,0 +1,25 @@
+---
+id: 00D9E0CD-F279-4376-A019-13FEE96590D7
+roam_parent: 91b0ff05-4cb8-4373-b40b-ec2869759d3e
+title: Constrictive Pericarditis
+---
+
+# Constrictive Pericarditis
+
+- **Definition** - progressive thickening, fibrosis, and calcification of the pericardium
+- **Etiology** - usually followed by an acute insult but etiology may be insiduous:
+    - Tuberculous pericarditis
+    - Prior haemopericardium
+    - Viral pericarditis
+    - Rheumatoid pericarditis
+    - Purulent pericarditis
+- **Pathophysiology of constrictive pericarditis:**
+    - <u>Diastolic dysfunction</u> - heart encased in a solid shell and cannot be filled
+    - <u>Myocardial seeping of calcification</u> - resulting in mild myocardial dysfunction
+- **Clinical features of constrictive pericarditis** - prominent systemic congestion due to domiinant RHF (lungs seldom congested): 
+![](../img/clinical_features_of_constrictive_pericarditis.png)
+- **Ix:**
+    - <u>Imaging</u> - CXR, and CT thorax shows pericardial calcification w/ no cardiomegaly 
+    ![](../img/pericardial_calcification_cxr.png)
+    - <u>Doppler echo</u> - not for Dx but for differentiation from RCM
+- **Mx** - surgical resection of diseased pericardium (carries high morbidity and not always effective)

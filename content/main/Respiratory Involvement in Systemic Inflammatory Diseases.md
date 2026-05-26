@@ -1,0 +1,62 @@
+---
+id: fceab6d3-04fd-4ac8-8269-4e763d68910f
+title: Respiratory Involvement in Systemic Inflammatory Diseases
+---
+
+# Lung diseases due to systemic inflammatory disease
+
+- **Types of respiratory involvement in systemic inflammatory disease:**
+    - Acute Respiratory Distress Syndrome (ARDS)
+    - Respiratory involvement of connective tissue disease:
+        - Rheumatoid arthritis (RA)
+        - Systemic lupus erythromatosus (SLE)
+        - Systemic sclerosis (SSc)
+        - Dermatomyositis/ polymyositis (Dm, Pm)
+        - Rheumatic fever
+
+  
+  ![](../img/respiratory_complications_of_CTD.png)
+- **Rheumatoid arthritis** - pumonary involvement accounts for 10-20% of RA mortality:
+    - <u>Clinical presentation</u>:
+        - Respiratory Sx after diagnosis - typically 5y after diagnosis
+        - Pulmonary involvement preceeding joint involvement - in 10-20% of patients
+    - <u>Respiratory complications of RA</u>:
+        - **Parenchymal involvement:**
+
+            - <u>Pulmonary fibrosis</u>, typically in <u>NSIP</u> pattern (most common) - may be Tx-related (methotrexate)
+            - <u>Rheumatoid pulmonary nodules</u> (typically asymptomatic) - important DDx includes primary and secondary lung tumours, TB (also cavitating, esp on anti-TNF), can predispose to pneumothorax
+
+      
+      ![](../img/rheumatoid_pulmonary_nodules.png)
+
+            - <u>Infections</u> - may be Tx-related (steroids)
+
+        - **Pleural involvement:**
+
+            - <u>Pleural effusion</u> (typically in M with sero-+ve disease) - exudative effusion with, reduced glucose and marked increase in LDH, typically small and unilateral but can be large and bilateral (may respond to short course PO prednisolone 30-40 mg/d)
+            - <u>Pneumothorax</u> - due to ruptured rheumatoid nodules
+
+        - **Bronchial involvement:**
+
+            - <u>Bronchititis</u>
+            - <u>Obliterative bronchiolitis</u> - fatal complication
+            - <u>Bronchiectasis</u>
+            - <u>Crico-arytenoid arthritis</u>
+- **Systemic lupus erythematosus** - CTD with the most pulmonary involvement:
+    - <u>Clinical presentation</u> - can present prior to or after diagnosis of SLE
+    - <u>Respiratory complications of SLE</u>:
+        - **Parenchymal involvement:**
+            - <u>Infection</u> - due to immunosuppression (r/o immediately in SLE patients w/ SOBOE)
+            - <u>Diffuse alveolitis with diffuse alveolar haemorrhage</u> - fatal complication
+            - <u>Pulmonary fibrosis</u> - extremely rare in SLE, but an important ddx is 'shrinking lung syndrome' (diaphragmatic myopathy)
+        - **Pleural involvements:**
+            - <u>Pleurisy and pleural effusion</u> - 2/3 patients experience repeated episodes of pleurisy +/- effusion (check for synovitis affecting pericardium)
+        - **Vascular involvement:**
+            - <u>DVT and PE</u> - in patients who have APLS
+        - **Chest wall involvement:**
+            - 'Shrinking lungs' syndrome - presents as progressive SOBOE and orthopnoea with no signs of PF, caused by low-grade myositis of the diaphragm
+- **Systemic sclerosis** - typically more pulmonary involvement with DCSS:
+    - <u>Respiratory complications of SLE</u>:
+        - **Parenchymal involvement:**
+            - <u>Diffuse pulmonary fibrosis</u> - almost all patients with diffuse SSc develop diffuse pulmoanry fibrosis along disease course
+            - <u>Aspiration pneumonia</u> - due to esophageal involvement

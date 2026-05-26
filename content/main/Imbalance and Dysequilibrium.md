@@ -1,0 +1,37 @@
+---
+type: main
+tags:
+---
+- **Definition and terminology:**
+	- _Balance_ - ability to maintain equilibrium, a dynamic state where one's center of mass is controlled w/ respect to lower extremities, gravity, and the support surface despite external pertubations
+- **Mechanisms of maintaining balance:**
+	- _Sensory inputs_ - cerebellar, vestibular, and somatosensory systems
+	- _Motor outputs_ - M1, corticospinal and reticulospinal tracts to mediate axial and proximal limb muscles
+- **Etiology of disorders of balance:**
+	- Vestibular disorders
+	- Cerebellar disorders
+	- Somatosensory disorders
+	- Higher-level disorders of equilibrium
+- **Vestibular disorders:**
+	- **Causes of vestibuar disorders** - central vs peripheral
+	- **Clinical manifestations of vestibular disorders:**
+		- _Vertigo_ - subjective inappropriate perception or illusion of movement
+		- _Nystagmus_ - involuntary eye movements
+		- _Impaired standing balance_ - balance impaired on standing and walking
+- **Cerebellar disorders:**
+	- **Causes of cerebellar ataxia** - see section on cerebellar disorders
+	- **Clinical manifestations of cerebellar disorders:**
+		- _Absence of dizziness_ - patients do not generally perceive dizziness despite balance being visibly impaired
+		- _Cerebellar signs_ - most Sn being the tandem gait
+		- _Imbalance_ - haphazard postural compensation
+		- _Fall risk_ - variable progression but falls are inevitable w/ disease progression
+- **Somatosensory disorders:**
+	- **Causes of somatosensory disorders** - vaious peripheral sensory neuropathies
+	- **Clinical manifestations of somatosensory disorders:**
+		- _Subjective imbalance_ - subjective sense of imbalance, but in the absence of dizziness/ vertigo, often results in **marked fear of falling**
+		- _Objective imbalance_ - poor postural control especially when other sensory inputs such as vision is removed (Rhomberg's sign; hence classically described as difficulties in navigating in the dark)
+- **Higher-level disorders of equilibrium:**
+	- **Causes of higher-level disorders of equilibirum** - cortical diseases, sedating drugs
+	- **Clinical manifestations of higher-level disorders of equilibrium:**
+		- _Impaired awareness of balance impairments_ - does not complain of any subjective snensation of balance
+		- _Features of imbalance_ - e.g. falls

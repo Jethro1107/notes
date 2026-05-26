@@ -1,0 +1,152 @@
+---
+type: main
+tags:
+---
+# Hormonal Contraception
+
+- **Methods of hormonal contraception:**
+	- _Combined hormonal contraceptives_ - containing both oestrogen and progestogen:
+		- Combined oral contraceptive pill (COC; "the pill")
+		- Vaginal ring
+	- _Progestogen-only contraceptives_:
+		- Etonogestrol implant
+		- Levonogestrel-releasing IUD (Mirena)
+		- Depot medroxyprogesterone acetate
+		- Progestogen-only pill (POP; "mini-pill")
+	- _Post-coital contraception_ - levonogestrel emergency contraceptive pill (ECP)
+- **Combined hormonal contraception** (COC) - containts both estrogen and progesteron, and mainly act through inhibition of hypothalamic and pituitary function leading to _anovulation_ (similar MOA and hence treated similarly interms of C/I, Cx, S/E, and drug-interactions):
+	- **Combined oral contraception pills** (COC pills):
+		- _Constituents_:
+			- Estrogen-like components - ethinyloestradiol (EE), estrodiol valerate (EV), estrodiol (E2)
+			- Progestogens:
+				- Older generations - levonogestrel, norethisterone
+				- Newer generations - nomogestrol acetate, gestodene, desogestrel, etonogestrel, cyproterone acetate, drospierenone, dienogest 
+		- _Selection of estrogen constituents_ - EE is the most commonly used estrogen:
+			- EE has been well studied w/ documented increased risk of VTE
+			- E2 and EV is structurally similar to endogenous E2 produced by the ovaries and carries a theoretical but unproven benefits of lower rates of VTE
+			- However newer COC pills are in circulation for short periods of time, and hence there is limited evidence on VTE rates
+		- _Selection of progesterone constituents_:
+			- Older generations generally have greater androgenic S/E
+			- Newer generations designed to reduce androgenic S/E and limit effects of EE on lipid profile
+			- Nomogestrol acetate, gestodene, desogestrel, etonogestrel are less androgenic
+			- Cyproterone acetate, drosipierenone, dienogest are anti-androgenic
+			- Drosipierenone mimicks spironolactone and has diuretic effects
+		- _Dosing_ - various formulations:
+			- Pills w/ 50 mcg of EE discontinued due to no known added benefits and unacceptable risks of VTE
+			- 30-35 mcg of EE most commonly used
+			- 20 mcg of EE availbale but known if safer, although a/w higher rates of discontinuation due to breakthrough bleeding
+		- _Selection of COC pills_ - generally a monophasic pill w/ 30-35 mcg EE w/ levonogestrel or noresthisterone used:
+			- 
+			![[Pasted image 20260513212918.png]]
+		- _Initiation of COC pills_:
+			- D1-5 of menstrual cycle - cover starts immediately
+			- Any time other than D1-5 - abstinence/ added contraception required for first 7 days after the start
+		- _C/I for COC pills_:
+			- 
+			![[Pasted image 20260513213331.png]]
+		- _Specific considerations for initiation of COC pills_:
+			- **Adolescence** - no lower age limit if young woman has started menstruating
+			- **Acne and hirsuitism** - theoretically reduced risk by increasing SHBG levels and reducing free testosterones (newer generation progesterones may also have anti-androgenic effects), but beneficits may take up to 6 mo
+			- **F > 35y** - usually safe for healthy non-smoking women until 50y (N.B. MEC 2 for F > 40y), but **unsafe for those w/ multiple tranditional CVD risk factors** (MEC 3/4)
+			- **On liver enzyme-inducing drugs** - including anti-epileptics, protease inhibitors, rifampicin, and St John's worts, consider other hormonal contraceptives not affected such as DMPA, and IUDs
+		- _Non-contraceptive benefits of COC pills_:
+			- Menstrual cycle disorders - reduction in dysmenorhoea, HMB, and symptomatic endometriosis, PMS, or PMDD
+			- Ovarian tumours - reduction in benign ovarian tumours and functional cysts
+			- PCOS - useful for Mx of Sx of PCOS
+			- HRT - assist w/ perimenopausal symptoms
+			- Acne - reduce acne especially for newer pills
+			- Malignancies - reduced risk of ovarian and endometrial cancer (but slight increased risk of breast cancer)
+		- _Major S/E of COC pills_:
+			- **Venous thromboembolism:**
+				- Overall absolute risk is low and much lower than the risk associated w/ pregnancy and post-partum period
+				- Lowest risk a/w pills containing leq 35 mcg EE and either levonogestrol or norethisterone (newer generation progesterones such as cyproterone, desogestrel, drospirenone or gestodone have higher risk than LG)
+				- Risk appears to be **dose-dependent**, where risk documented appears to be a/w use of COC pills w/ high EE content, but have been reduced when using <= 35 mcg of EE
+				- Risk of circulatory disease has not been related to duration of use and there is no increased risk in perpetual users
+			- **Atherosclerotic diseases** - arterial myocardial infarction, ischaemic stroke, retinal/ mesenteric thrombosis:
+				- Due to progestogen effect on lipid metabolism
+				- Hence, often require screening for traditional cardiovascular risk factors +/- haemophilias especially in F > 35y
+			- **Malignancies** - overall lower risk of cancer compared to women who have not, but w/ slight increased risk of:
+				- Cervical cancer (MEC 2 even w/ LSIL or HSIL)
+				- Breast cancer
+		-  _Common S/E of COC pills_:
+			- 
+			![[Pasted image 20260513220003.png]]
+		- _Advice for taking the pill_:
+			- No break from the pill is necessary
+			- Diarrhoea and vomiting may reduce the effectiveness of the pill. If a woman vomits within 2 hours of taking an active pill, she should take an additional active pill
+			- Withdrawal bleeds can be skipped for a woman’s convenience, by going straight from the last active pill in the cycle to the first active pill in the next cycle. Running packs of multiphasic pills together can result in unpredictable bleeding as a result of the fluctuating dose of hormones. A Cochrane Review did not demonstrate any additional safety concerns for women taking CHCs continuously without placebo breaks for up to 12 months
+		- _Advice for missed pills_ (7-day rule) - defined as one that is taken > 24h late (i.e. > 48h since last pill):
+			- Advice on immediately taking missed pill as soon as possible
+			- Abstinence/ contraception practiced for 7d , but does not apply to quadriphasic pills
+			- If pill missed w/ < 7 pills left before next placebo break, skip placebos and continue active pills
+			- If < 7 pills taken beore missed pill, consider emergency contraception if unprotected sex took place in past 5 days
+			- 
+			![[Pasted image 20260513220829.png]]
+		- _Causes of pill failure_:
+			- Errors in administration
+			- Decreased absorption
+			- Missed pills
+			- Use of liver-inducing drugs
+- **NuvaRIng** - flexible polymer ring introduced into the vagina (remains inside during intercourse):
+	- _Dosing_ - roughly 15 mcg EE and 120 mcg etonogestrel being released per 24h for 21d:
+		- Removed after 21d w/ break of 7d
+		- Can be replaced 'back-to-back'
+	- _Efficacy and S/E_:
+		- Virtually same as COC pills
+		- Immediate protection if within D1-5 of menstrual cycle (non-hormonal contraception required x 7d if not)
+		- Possibly reduced incidence of irregular bleeding
+	- _Indications_ - indicated for patients who:
+		- Have poor compliance to COC pills (e.g. frequent missed pills resulting in less than ideal use and contraception)
+		- Poor absorption of COC pills (e.g. IBD, other malabsorption syndrome)
+- **Progestogen-only contraception:**
+	- **Selection of progestogen-only contraception:**
+		- Progestogen-only pill (POP)
+		- Etonogestrel implant (Implanon NXT)
+		- Levonogestrel-releasing IUD (Mierena)
+		- Levonogestrel emergency contraceptive pill (ECP)
+	- **Indications of progestogen-only contraception:**
+		- Breastfeeding women
+		- C/I to taking estrogen
+	- **Contraindications for progestogen-only contraception:**
+		- Active breast cancer in past 5y (MEC 4)
+		- Anti-phospholipid syndrome
+		- Uninvestigated vaginal bleeding
+		- Cardiovascular disease
+		- Severe cirrhosis/ HCC
+- **Etonogestrel implant** (implanon NXT) - subdernal contraceptive implant:
+	- _MOA_ - single rod containing the progesten etonogestrol:
+		- Inhibits ovulation
+		- Added anti-cervical mucus S/E
+	- _Duration_ - 3y system
+	- _S/E_:
+		- Irregular bleeding (20%) - frequent or heavy bleeidng episodes within 1st year of use (may result in requesting implant removed during this period)
+		- _Amenorrhoea_ - 22% become amenorrhoeic within 12 mo
+	- _Advantages and disadvantages_:
+		- Highest efficacy - lowest pregnancy rate amongst all contraceptives at < 1:1000 over 3y of use
+		- Minor surgery - requires minor surgical procedure to insert it and also to remove/ replace it
+- **POP pills** (mini-pill):
+	- **Indications** - typically prescribed for breastfeeding women (safe from 6 weeks post-partum) for whom COC pills would potentially suppress milk supply (on top of lactational amenorrhea method)
+	- **Selection:**
+		- Levonogestrel 30 mcg/d
+		- Norethisterone 35 mcg/d
+	- **MOA:**
+		- Cervical mucus thickening - preventing sperm penetration
+		- Prevention of ovulation - prevents ovulation in up to 60% of cycles
+	- **Clinical efficacy** - 99.7% perfect use; 91% typical use:
+		- More vulnerable efficacy
+		- Strict adherance to taking pill witihn daily 3h timeframe for maximal efficacy
+- **Post-coital contraception:**
+	- **Selection:**
+		- Levonogestrel 1.5 mg as single dose
+		- 25 x levonogestrel POPs (25 x 30 mcg) as initial dose, repeating same dose 12h later
+		- Yuzpe method  (large initial dose of COC w/ at least 100 mcg and 500 mcg of levonogestrel) repeated 12h later
+		- Copper IUD inserted within 5d (99% effective)
+	- **Levonogestrel emergency contraceptive pill** (LNG-ECP):
+		- _MOA_ - high dose progestogen to prevent/ delay ovulation by interferring w/ follicular development
+		- _Effectiveness_ - prevents up to 85% of pregnancies, but time dependent:
+			- Licensed for use within 72h of unprotected intercourse
+			- Effective for up to 120h
+	- **Additional considerations for post-coital contraception:**
+		- Pregnancy test in 3-4 weeks depending on risks
+		- STI screening
+		- Assess need for ongoing contraception

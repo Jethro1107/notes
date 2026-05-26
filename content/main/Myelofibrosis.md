@@ -1,0 +1,35 @@
+---
+id: 2aa89a66-3fc7-4cf8-b773-da03cfb698b6
+title: Myelofibrosis
+---
+
+# Myelofibrosis
+
+- **Definition** - progressive fibrosis of the bone marrow caused by accumulation of excess abnormal megakaryocytes releasing growth factors (e.g. VEGF), resulting in reactive proliferation of fibroblasts
+- **Epidemiology** - onset \> 50y
+- **Clinical features of MF:**
+    - <u>Constitutional Sx</u> - most present w/ lassitude, weight loss and **night sweats**
+    - <u>Abdominal mass</u> - **massive splenomegaly** caused by 'extramedullary haematopoiesis', which can subsequently become **painful** if splenic infarct occurs
+- **Signs of MF:**
+    - <u>Massive splenomegaly</u> - due to extramedullary haematopoiesis (+/- splenic rub if infarct occurs)
+- **Ix:**
+    - **CBC** - leucoerythroblastic picture:
+        - <u>Hb and MCV</u> - slight macrocytic anaemia due to circulating reticulocytes and nucleated RBC
+        - <u>WBC</u> - variable, ranging from **mild leukopenia to moderately high leucocytosis**
+        - <u>PLT</u> - extremely variable
+    - **PBS** - leucoerythroblastic picture w/ evidence of ineffective haematopoiesis:
+        - <u>RBC</u> - teardrop poikilocytes, with polychromasia (reticulocytosis) and nucleated RBC
+        - <u>WBC</u> - presence of granulocyte precursors (myelocytes)
+        - <u>PLT</u> - giant platelets may be seen
+    - **Urate, LDH level** - elevated due to <u>high cellular turnover</u>
+    - **Folate level** - folate deficiency is common
+    - **BM examination:**
+        - <u>BM aspirate</u> - often dry aspirate
+        - <u>Trephine Bx</u> - **excessive megakaryocytes**, w/ increased reticulin and fibrous tissue replacement; +ve JAK2 mutation supports Dx
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Symptomatic control</u> - e.g. folic supplementation for folic deficiency, Red cell transfusion
+        - <u>Cytotoxic therapy</u> - hydroxycarbamide to control spleen size, WBC count, and systemic Sx
+        - <u>HSCT</u> - considered for young patients
+        - <u>JAK-2 inhibitor</u> - ruxolitinib licensed for use in MF
+- **Prognosis** - ranges from 1-20y (median OS 4y)

@@ -1,0 +1,231 @@
+---
+type: literature
+tags:
+---
+# Ch28 Gait Disorders, Imbalance, and Falls
+
+- **Epidemiology** - gait and balance problems are common in elderly and contribute to fall risk and injuries:
+	- _Prevalence_ - 15% in all individuals > 65y (and increasing in age)
+	- _Demographic_ - increasing prevalence w/ age:
+		- Gait disorders seen in > 40% of those >= 85y
+		- 25% of those > 80y will require some form of walking aid to assist w/ ambulation
+	- _Morbidity_ - major risk factor for falls ad injuries
+- **Anatomy and physiology of the upright bipedal gait** - requires successful integration of 1) locomotion, 2) postural control:
+	- **Locomotion** - function widely distributed in the central nervous system:
+		- _Spinal/ central pattern generators_ (CPG) - e.g. locomotor centres in the pontine tegmentum, midbrain, and subthalamic region; locomotor synergies involved in generation of rhythmic movement such as stepping and walking w/ higher cortical input
+		- _Higher cerebral control_ - inputs from forebrain, cerebellum, brainstem modify the action of the CPG to provide the **goals and purposes of walking**, involved in avoidance of obstacles and adaptation of locomotor programes to context and terrains
+	- **Postural control** - maintenance of center of mass over the base of support during the gait cycle:
+		- _Sensory information for postural control_ - primarily provided by 1) **visual system**, 2) **vestibular system**, and 3) **proprioceptive receptors from muscles and joints**, which provides a **redundancy of sensory information**, but comprimise of 2/3 pathways is sufficient to comprimise standing balance (N.B. Rhomberg test)
+		- _Central processing for dynamic balance_ - poorly defined, but clinically requires vestibuar nucleus and midline cerebellum
+	- **Cognitive impairment**  - while walking appears to be an unconscious and autonomous task, there is a growing body of literature that complex attention and executive planning is required to manage gait and balance:
+		- Older patients w/ cognitive impairment appear to be particularly prone to falls and injury
+		- Dual task walking (e.g. walking while performing a congnitively demanding task) is comprimised in elderly
+		- Decline in gait speed and memory are increasingly associated w/ risk of dementia in older adults
+
+## Disorders of Gait
+
+- **Classification of gait disorders** - often significant overlap often exists:
+	- _Neurological gait disorders_ - can occur in may neurological disease at every level, reflecting large network of neural systems involved in the task
+	- _Non-neurological gait disorders_ - antalgic gait, gait disorders due to orthopaedic deformities, gait adaptive to impaired vision
+- **Heterogeneity of gait disorders in clinical practice, but may look fundamentally similar:**
+	- Due to a common pattern of adpatation to threatened balance and declining performance
+	- Unique features of the failing gait will be overwhelmed by the adaptive response
+	- The gait disorder clinically must be viewed as _the product of a neurological deficit and functional adaptation_
+- **Assessment of gait:**
+	- Primarily observational in clinical settings
+	- Quantitative gait analysis (e.g. instrumented walkways, motion capture systems, wearables)
+- **Neurological gait disorders classified by etiology:**
+	- ![[Pasted image 20260516125421.png]]
+- **Cautious gait** - rather common in the elderly (> 1/3 of older patients w/ gait impairment):
+	- _Pathophysiology_ - an adaptation to a potential underlying gait disorder: 
+		- A non-specific adaptation to a perceived postural threat (the underlying disorder)
+		- May or may not be a/w a fear of falling
+	- _Features of gait_ - slowed gait as if walking on a slippery surface:
+		- **Stride length** - abbreviated
+		- **Base of support** - lowered centre of mass, wide-based
+		- **Arms** - abducted
+- **Stiff-legged gait** (Spastic gait and dystonic gait):
+	- _Pathophysiology_ - UMN lesion, reflecting a comprimise of corticospinal command and overactive spinal reflexes
+	- _Features of gait_:
+		- **Leg swing** - circumduction, scuffing of the feet +/- scissoring gait
+		- **Arms** - flexed position and ?adducted (if cerebral spasticity)
+	- _Causes of stiff-legged gait_:
+		- Cerebral disorders - e.g. stroke, multiple sclerosis, motor neuron disease, perinatal CNS injury
+		- Spinal cord disorders - compressive myelopathy (e.g. cervical myelopathy), non-compressive myelopathy
+		- Dystonia - rare and often has a genetic basis (ocassionally a/w parkinson's disease if assymetrical)
+- **Parkinsonism, freezing gait, and other movement disorders:**
+- **Frontal gait disorder** (higher level gait disorder):
+	- _Pathophysiology_ - higher level motor control disorder (not apraxia)
+	- _Features of gait_ - extremely resembles parkinsonism (hence termed 'lower-body parkinsonism'):
+		- **Base of support** - wide-based
+		- **Stride length** - short/ shuffling gait
+		- **Velocity** - very slow
+		- **Other features** - gait initiation failure (slipping crutch syndrome), reduced arm swing
+	- _Causes of frontal gait disorder_:
+		- Subcortical vascular disease (> 75% of subcortical vascular dementia have gait abnormalities, along w/ dysarthria, pseudobulbar affect, increased tone, and hyperreflexia of LL)
+		- Normal pressure hydrocephalus (presentation as a similar gait disorder w/ mental changes and incontinence)
+		- Other neurodegenerative disorders
+- **Cerebellar gait ataxia:**
+	- _Pathophysioogy_ - especially midline cerebellum disorders
+	- _Features of gait_:
+		- **Base of support** - wide-based (extreme imbalance if narrow/ tandem stance)
+		- **Stride length and velocity** - variable and appears drunken, w/ erratic foot placement (ocassionally short ocassionally long)
+		- **Other features:**
+			- Difficulties in turning
+			- Considerable variation in fall risk in later life
+	- _Causes of cerebellar gait ataxia_:
+		- Stroke
+		- Trauma
+		- MSA
+		- Alcohol
+- **Sensory ataxia:**
+	- _Pathophysiology_ - limited proprioceptive afferants
+	- _Features of gait_ - e.g. stomping gait
+	- _Causes of sensory ataxia_ - all sensory neuropathy (classically B12 deficiency or tabes dorsalis)
+- **Neuromuscular disease:**
+- **Toxic and metabolic disorders:**
+- **Functional gait disorder:**
+- **Salient points of Hx:**
+	- **HPI** - characterise initial onset and progression of disease, as well as associated sequelae:
+		- _Onset and progression_:
+			- Stepwise evolution or sudden progression suggests vascular disease
+			- Slowly progressive instability may be noted retrospectively, but initial awareness usually occurs after falls
+		- _Sequelae_ - falls and injuries
+	- **Associated Sx:**
+		- _Focal neurological deficits_ - evaluation of weakness, numbness, incoordination etc.
+		- _Urinary Sx_ - urinary urgency or incontinence important w/ C-spine disorders and NPH
+		- _Bowel Sx_ - a/w C-spine disorders, and Parkinson's disease
+	- **Other contributory factors to falls** - esp. detailed drug and alcohol Hx
+- **P/E:**
+	- **Complete neurological examination** - localisation of lesion to help narrow the list of DDx
+	- **Gait observation** - begins when the patient enters the consultation room, and as patient rises from chair:
+		- _Rising from chair_ - good functional assessment of balance
+		- _Gait observation_ (note cadence, velocity, stride length) - characteristic abnormalities are sometimes seen although they may look fundamentally similar
+- **Ix** - MRI:
+	- Evaluation of white matter lesions, vascular, or demyelinating diseases
+	- Good screening test for subdural haematoma
+## Disorders of Balance
+
+- **Definition and terminology:**
+	- _Balance_ - ability to maintain equilibrium, a dynamic state where one's center of mass is controlled w/ respect to lower extremities, gravity, and the support surface despite external pertubations
+- **Mechanisms of maintaining balance:**
+	- _Sensory inputs_ - cerebellar, vestibular, and somatosensory systems
+	- _Motor outputs_ - M1, corticospinal and reticulospinal tracts to mediate axial and proximal limb muscles
+- **Etiology of disorders of balance:**
+	- Vestibular disorders
+	- Cerebellar disorders
+	- Somatosensory disorders
+	- Higher-level disorders of equilibrium
+- **Vestibular disorders:**
+	- **Causes of vestibuar disorders** - central vs peripheral
+	- **Clinical manifestations of vestibular disorders:**
+		- _Vertigo_ - subjective inappropriate perception or illusion of movement
+		- _Nystagmus_ - involuntary eye movements
+		- _Impaired standing balance_ - balance impaired on standing and walking
+- **Cerebellar disorders:**
+	- **Causes of cerebellar ataxia** - see section on cerebellar disorders
+	- **Clinical manifestations of cerebellar disorders:**
+		- _Absence of dizziness_ - patients do not generally perceive dizziness despite balance being visibly impaired
+		- _Cerebellar signs_ - most Sn being the tandem gait
+		- _Imbalance_ - haphazard postural compensation
+		- _Fall risk_ - variable progression but falls are inevitable w/ disease progression
+- **Somatosensory disorders:**
+	- **Causes of somatosensory disorders** - vaious peripheral sensory neuropathies
+	- **Clinical manifestations of somatosensory disorders:**
+		- _Subjective imbalance_ - subjective sense of imbalance, but in the absence of dizziness/ vertigo, often results in **marked fear of falling**
+		- _Objective imbalance_ - poor postural control especially when other sensory inputs such as vision is removed (Rhomberg's sign; hence classically described as difficulties in navigating in the dark)
+- **Higher-level disorders of equilibrium:**
+	- **Causes of higher-level disorders of equilibirum** - cortical diseases, sedating drugs
+	- **Clinical manifestations of higher-level disorders of equilibrium:**
+		- _Impaired awareness of balance impairments_ - does not complain of any subjective snensation of balance
+		- _Features of imbalance_ - e.g. falls
+
+### Falls
+
+- **Epidemiology:**
+	- _Incidence_ - ~ 33% of > 65y in the community falll each year (further increased if elderly homes or hospitals)
+- **Risk factors of falls** - classified into intrinsic and extrinsic factors; some are modifiable:
+	- ![[Pasted image 20260516145527.png]]
+- **Clinical assessment of the patient w/ falls:**
+	- **Screening and primary prevention** - most productive approach is to identify high-risk patients prospectively before there is any serious injury:
+		- _Subjective assessment_ - annual assessment about falls, fear of falling, and whether or not fear of falling limits daily activities
+		- _Objective assessment_ - Timed Up and Go (TUG) test:
+			- Timing a patient as they stand up from a chair, walk 10 feet, turn, and then sit down
+			- > 12s to complete TUG are at high risk of falls
+	- **Initial clinical assessment** - Hx, P/E, Ix:
+		- 1) clarifying the mechanism of the fall through fall patterns 
+		- 2) r/o key neurological or cardiovascular events especially in the setting of sudden drop w/o provocation
+		- 3) Clarifying intrinsic and extrinsic factors of falls
+- **Salient points of Hx:**
+	- **HPI** - clarifying the events, mechanisms, and causes of fall, and associated injuries:
+		- _Patient or informant description_ - often difficult to establish by patients in retrospect, but a report from an attentive observer to the fall can be invaluable
+		- _Events of fall_:
+			- Direction of fall
+			- Landing sites (e.g. arms, hips, heads)
+		- _Mechanisms and causes of fall_:
+			- **Mechanical fall** (extrinsic) - due to tripping or S/F from purely exntrinsic or environmental factors
+			- **Non-mechanical falls** - possibly from intrinsic disturbances, requires clarifying provoking factors such as 1) **standing**, 2) **turning**, and 3) **lighting conditions**:
+				- Gate freezing and festination - raises consideration for parkinsonism
+				- Falling after rising from chair - suggests muscular strength issue
+				- Falling in changing footing situation/ poor lighting - suggests imbalance a/w deficits in somatosensory, visual, or vestibular systems
+				-  Drop attacks and collapsing falls - sudden fall w/o provocation raises suspicion of 1) syncope, 2) seizure, or 3) neurological events
+		- _Injuries_ - clarify all sites of injuries especially 1) head injuries, 2) arms, hips
+	- **Prodromal Sx:**
+		- _Focal neurological symptoms_ - esp. acute onset of focal weakness
+		- _Dizziness and 'funny turns'_ - clarifying between lightheadedness, vertigo, and pre-syncopal symptoms
+		- _Other features suggesting syncope_ - e.g. palpitations, chest pains, shortness of breath
+	- **Events after the fall:**
+		- _Head injuries_ - screen for red flag features (N/V, anterograde amnesia, disorientation as reported by observer) that suggest need for neuroimaging (in essence most require as a result of old age)
+		- _Other injuries_ - esp. hip/ NOF # that predisposes to immobilisation
+		- _Prolonged immobilisation_ - inability to get up from the ground increases risk of **dehydration**, and **rhabdomyolysis**
+	- **Other associated Sx prior to falls:**
+		- _Dizziness and vertigo_ - to be evaluated as a contributory cause of falls especially if chronic, worsening, and uninvestigated
+		- _Subjective disequilibrium/ imbalance_ - subjective disequilibrium prior to falls may suggest intrinsic causes, such as vestibular, visual, or somatosensory deficits, whereas cerebellar or higher-cortical disorders of balance lacks such features
+		- _Vision_ - visual disturbances (decreased VA, visual field impairments) predisposes to falls 
+		- _Hearing_ - should be assessed if patient complains of vertigo
+		- _Urinary Sx_ - urinary urgency or incontinence important w/ C-spine disorders and NPH
+		- _Bowel Sx_ - a/w C-spine disorders, and Parkinson's disease
+	- **PMH** - baseline medical comorbidities taken into accout
+	- **Drug Hx** - polypharmacy (use of > 4 medications) identified as an independent risk factor for falls:
+		- _Medications predisposing to hypotension_ - antihypertensives, anti-arrhythmics, diuretics
+		- _Psychoactive medications__ - anti-epileptics, benzodiazepine, hypnotics, antipsychotics, antidepressants, anticholinergics
+	- **Baseline mobility and function** - clarify baseline mobility and ADLs
+	- **Relevant SHx and FHx**
+- **P/E:**
+	- **General examination:**
+		- _GCS_ - assessed while obtaining the Hx from the patient
+		- _Vitals_ - BP/P, RR, SpO2, Temp
+		- _Posture_ - evaluation for spinal deformities, or stooped posture (e.g. Parkinsonism)
+		- _Other orthopaedic deformities of the LL_ - e.g. knee alignment deformities, overpronation at ankle/ hindfoot
+		- _Examination of injuries_ - evaluation for #
+	- **Cardiovascular examinations:**
+		- _Pulse_ - for bradyrrhythmias or rhythm abnormalities (+/- slow rising pulse for AS)
+		- _Standing/ sitting BP after 3 min_ - for orthostatic change including > 20 mmHg systolic drop, > 10 mmHg diastolic drop, or marked increased HR
+		- _Murmurs_ - evaluation for murmurs (e.sp. ejection systolic murmur of AS)
+	- **Neurological examination:**
+		- _Features of parkinsonism_ - e.g. tremors, masked facies, stooped posture
+		- _Motor system_ - assessment of tone, power, and jerk w/ particular attentio to the lower limbs
+		- _Sensory system_ - best performed by monofilament testing and evaluationof proprioception
+		- _Assessment of gait and balance_:
+			- Gait - normal gait, tandem walking, heel walking etc.
+			- Hell-to-shin test - for cerebellar inputs from the LL
+			- Rhomberg test - high Sn for somatosensory deficits
+	- **Additional examinations:**
+		- _Vision_ - evalulate visual acuity and visual fields if Hx suggestive
+		- _Hearing_ - indicated if Hx of vertigo
+- **Fall patterns** - several description of fall events provides furthre clues to underlying etiology, where common clinical patterns may emerge and provide a clue:
+- **Mx:**
+	- **Principles of Mx** - multidisciplinary approach w/ general and specific Tx to reduce fall risk:
+		- _Exercise_ (physiotherapy) - home- and group-based exercise programs focusing on leg-strength, balance, and use of assistant device to reduce fall risk
+		- _Environmental modification_ (occupational therapy) - home modifications to improve safety such as grab bars, non-slip surfaces, throw rugs, lighting, and walkers
+		- _Medical Tx_ - general measures, e.g. addressing polypharmacy; specific Tx for a Dx
+	- **Exercise:**
+		- _Resistant trainings_ - increasing muscle mass resulting in improvements in posture and gait
+		- _Sensory balance training_ - improve balance stability, extremely important when coping w/ vestibular and somatosensory balance disorders
+## Key References
+
+- Pirker W, Katzenschlager R: Gait disorders in adults and the elderly. Wien Klin Wochenschr 129:81, 2017.
+- Nutt JG: Classification of gait and balance disorders. Adv Neurol 87:135, 2001.
+- [Centers for Disease Control and Prevention: STEADI: Older Adult Fall Prevention](https://www.cdc.gov/steadi/hcp/clinical-resources/index.html)
+- Colón-Emeric CS et al: Risk assessment and prevention of falls in older community-dwelling adults: A review. JAMA 331:1397, 2024.
+- American Geriatrics Society, British Geriatrics Society, American Academy of Orthopedic Surgeons Panel on Falls Prevention: Guideline for the prevention of falls in older persons. J Am Geriatr Soc 49:664, 2001.

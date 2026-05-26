@@ -1,0 +1,308 @@
+---
+id: 91d1394d-1a24-48d2-a148-abc6f2936088
+title: Davidson Ch4 Immunological Factors in Disease
+---
+
+# Ch4 Immunological Factors in Disase
+
+## Functional Anatomy and Physiology of the Immune System
+
+## Immune Deficiency
+
+### Presenting problems in immune deficiency - recurrent infections
+
+### Primary phagocyte deficiencies
+
+- **Clinical manifestations of primary phagocyte deficiencies:**
+  - Recurrent bacterial and fungal infections
+  - Usually affecting unusal sites
+- 
+
+### Complement pathway deficiencies
+
+### Primary deficiencies of the adapative immune system
+
+### Secondary immune deficiencies
+
+- **Causes of secondary immunodeficiency:** 
+![](../img/causes_of_secondary_immunodeficiency_davidson.png)
+- **Ageing and immune senescence:** 
+![](../img/ageing_and_immune_senescence.png)
+
+## The Inflammatory Response
+
+### Physiology and pathology of inflammation
+
+### Investigations in inflammation
+
+- **Laboratory changes a/w inflammation:**
+  - Anaemia of chronic disease (increased hepcidin release requires chronic inflammation)
+  - Leukocytosis (reflects transit of activated neutrophils and monocytes to the site of infections)
+  - Thrombocytosis (acute phase response)
+  - ESR/ CRP
+  - Other +ve acute phase reactants include fibrinogen, ferritin, complement components
+  - Albumin is a -ve acute phase reactant
+- **C-reactive protein** (CRP):
+  - <u>Physiology of CRP</u> - role in **opsonisation of pathogens**:
+    - Acute phase reactant synthesized and release by the liver under IL-6 influence
+    - Up to 1000x rise in CRP after an inflammatory stimulus
+    - **Short half life** (~19h), hence a **good marker of acute inflammation**
+  - <u>Limitations of CRP</u> - some diseases may not result in rise of CRP despite active inflammation (paradoxically this makes CRP a <u>good marker of infection</u> in these conditions):
+    - SLE
+    - Systemic sclerosis
+    - Ulcerative colitis (but not Crohn's disease)
+    - Leukaemia
+- **Erythrocyte sedimentation rate:**
+  - **Principles of measuring ESR** - an indirect measure of inflammation through measurement of how fast erythrocytes fall through anticoagulated blood:
+    - <u>Erythrocytes fall rapidly when they aggregate</u> (i.e. high sedimentation rate):
+      - They are normally negatively charged, thus preventing them from clumping such that they sediment slowly
+      - When they aggregate (rouleaux formation), there is increased mass/surface area ratio resulting in faster sedimentation
+    - <u>Aggregation of erythrocytes is governed by 2 factors</u> - 1) composition of plasma proteins (presence of +ve charged plasma protein promotes clumping through Rouleaux formation), and 2) red cell morphology
+  - **Causes of rise in ESR** - most commonly an <u>acute phase response</u>, hence used as a marker of inflammation:
+    - Acute-phase plasma proteins (concomittent rise in CRP)
+    - Monoclonal or polyclonal rise in Ig (no rise in CRP)
+  - **Cause of inappropriately low ESR** - abnormal red cell morphology, which prevents Rouleoux formation:
+    - Sickle cell anaemia
+    - Spherocytosis irrespective of cause
+- **Conditions a/w changes w/ abnormal CRP and/or ESR:** 
+![](../img/causes_of_abnormal_esr_crp.png)
+- **Plasma viscosity** - not routinely used; same principles as ESR but unaffected by membrane properties of the erythrocyte
+
+### Unexplained raised ESR
+
+### Periodic fever syndromes
+
+- **Definition** - rare disorders characterised by recurrent episodes of fever, systemic inflammation, associated w/ an elevated acute phase response
+- **Familial Mediterranean fever:**
+  - <u>Epidemiology</u>:
+    - Most common familial periodic fever syndrome
+    - Mainly affects Mediterranean people, including Arabs, Turks, Sepharic Jews, and Armenians
+  - <u>Genetics and pathophysiology of FMF</u>:
+    - **Mutation of MEFV gene** - resulting in production of **abnormal pyrin**, an protein that **inhibits production of IL-1 and hence neutrophilic inflammation**
+    - **Attacks of neutrophilic inflammation** - fever a/w painful serositis lasting for hours to days
+  - <u>Clinical manifestations</u> - 1st attack in 20y, recurrent attacks lasting hours to 4d, while completely asymptomatic in between:
+    - Fever
+    - Painful serositis (e.g. peritonitis, pleuritis)
+    - Arthritis
+  - <u>Complications</u> - AA amyloidosis and the nephrotic syndrome
+  - <u>Mx</u> - colcicine (effective to reduce number of febrile episodes)
+- **Mevalonate kinase deficiency** - previously known as hyper-IgD syndrome (HIDS):
+  - <u>Epidemiology</u>:
+    - Mainly affects Western Europeans, particularly the Netherlands and northern France
+    - Inherited in **autosomal recessive pattern**
+  - <u>Pathophysiology</u> - unsure how a mevalonate kinase (lipid metaboism) can result in periodic fevers
+  - <u>Clinical features</u> - recurrent attacks of:
+    - Fever
+    - Abdominal Sx
+    - Lymphadenopathy
+    - Arthralgias
+    - Mucocutaneous lesions
+  - <u>Ix</u>:
+    - Raised IgG and IgA levels persistently (even in between episodes)
+    - CRP raised during acute attacks
+  - <u>Mx</u> - no effective Tx
+- **TNF receptor-associated periodic syndrome** (TRAPS):
+  - <u>Epidemiology</u> - poorly defined, has only been reported in some ethnic groups
+  - <u>Genetics</u> - autosomal recessive inheritence of defective TNFRSF1A gene
+  - <u>Clinical manifestations</u> - prolonged attacks of:
+    - Fever
+    - Myalgia
+    - Serositis
+    - Rash
+  - <u>Ix</u>:
+    - Neutrophilia
+    - Raised CRP
+    - Elevated IgA levels
+    - Low serum levels of soluble TNF receptors
+  - <u>Complications</u> - amyloidosis and the nephrotic syndrome
+  - <u>Mx</u> - systemic corticosteroids, TNF receptor therapy, IL-1 antagonists (anakinra)
+
+### Amyloidosis
+
+- **Definition** - heterogenous group of acquired and hereditary disorders characterised by extracellular deposition of insoluble proteins
+- **Forms of amyloidosis:** 
+![](../img/acquired_and_hereditary_amyloidosis_davidson.png)
+  - **Acquired systemic amyloidosis:**
+    - <u>Reactive amyloidosis</u> (AA) - increased production of serum amyloid A as a part of a prolonged or recurrent acute inflammatory response (e.g. TB, CTD, FMF), primarily affects the kidneys
+    - <u>Light chain amyloidosis</u> (AL) - increased production of monoclonal light chains due to plasma cell dyscrasia and related disorders, known to deposit in the heart, nerves, kidneys, and soft tissue (macroglossia pathognomonic)
+    - <u>Dialysis-associated amyloidosis</u> (A-beta-2M) - increased deposition of beta-2 microglobulin due to failure of renal catabolism in kidney failure, known to cause carpal tunnel syndrome and pone deposition
+    - <u>Senile systemic amyloidosis</u> - deposition of normal transthyretin protein, usually asymptomatic and increases in incidence w/ age (\>90% of 90y)
+  - **Hereditary systemic amyloidosis** - heterogenous group of disorders resulting in abnormal protein production predisposing to amyloid formation, known to affect the nerves and heart, although renal involvement is unusual
+- **Pathophysiology of amyloidosis:**
+  - \_<u>PProduction of specific proteins</u> - nature of protein depends on underlying cause
+  - <u>Extracellular complex deposits</u> - often forming fibrils of the specific protein involved, linked to GAGs, PGs, and serum amyloid P; ultimately resulting in organ dysfunction
+- **End-organ damage in amyloid disorders:**
+  - <u>Cardiac</u> - restrictive or dilated CM
+  - <u>Renal</u> - nephrotic syndrome, tubulointerstitial disease (CIN, RTA)
+  - <u>Peripheral nerves</u> - peripheral neuropathy
+  - <u>Endocrinopathies</u> - thyroid, adrenal
+  - <u>GI</u> - ?xerostomia, motility disorders (gastroparesis, chronic intestinal pseudoobstruction)
+- **Clinical suspicion of amyloidosis** - should be considered in all cases of unexplained:
+  - 1\. Nephrotic syndrome
+  - 2\. Cardiomyopathy
+  - 3\. Peripheral neuropathy
+- **Dx** - histological Dx based on Bx of an affected organ, rectum, or subcutaneous rfat:
+  - Presence of <u>apple-green birefringence</u> of amyloid deposits on <u>Congo red dye</u> under polarised light is pathognomonic
+  - Quantitative scintigraphy w/ <u>radio-labelled serum amyloid P</u> to determine over load and distribution
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Supportive care</u> - best medical Tx to support the function of affected organs
+    - <u>Tx of underlying cause</u> - in acquired disorders, capable of reducing amyloid deposition aand possibly regression of existing amyloid deposits
+    - <u>Tx of hereditary aTTr amyloidosis</u> - LT as the only definitive Tx
+
+## Autoimmune Disease
+
+### Pathophysiology of autoimmunity
+
+### Investigations of autoimmunity
+
+## Allergy
+
+### Pathology of allergy
+
+- **Definition** - allergy is defined as a reaction due to exposure to an otherwise harmless exogenous substance (allergen), <u>mediated by a type 1 hypersensitivity reaction</u>
+- **Pathophysiology of allergic response:**
+  - **Exposure of allergen to activated B cells** - resulting in prodution of IgE specific to the allergen in the initial exposure phase
+  - **Binding of IgE to mast cell** - IgE binds to local mass cells via high-affinity IgE receptors, which is not associated w/ any clinical sequelae
+  - **Re-exposure of the same allergen results in mass cell activation** - allergen binds to membrane-bound IgE resulting in mast cell activation and release of variety of mediators:
+    - <u>Early-phase response</u> - release of eosinophilic granules consisting of histamine, tryptase, vasoactive peptides and chemotaxic factors that forms the basis of Sx of allergic reaction 
+    ![](../img/immediate_hypersensitivity_response.png)
+    - <u>Late-phase response</u> - persistent activation of mast cells and substances subsequently synthesized by mast cell results in a late-stage response a/w ongoing swelling and local inflammation (anti-histamines are no-longer effective) 
+    ![](../img/products_of_mast_cell_degranulation.png)
+- **Susceptibility to allergic disease** - several hypothesis to explain an increase in incidence of allergic disease:
+  - <u>Hygiene theory</u> - infections in early life are critically important in maturation of the immune response and bias the immune system against development of allergies
+  - <u>Genetic factor</u> - wide array of genetic determinant including genes controlling innate and adaptive immune responses, hence FHx is an important determinent of disease susceptibility
+  - <u>Environmental factors</u>:
+    - Bacterial or viral infections
+    - Pollutants
+    - Cigarette smoke
+- **Common allergic conditions:** 
+![](../img/common_allergic_conditions.png)
+
+### Presenting problems in allergy
+
+1.  General approach to the allergic patient
+
+2.  Anaphylaxis
+
+    - **Definition** - a potentially life-threatening, acute, severe, systemic allergic reaction
+    - **Clinical features of anaphylaxis** - acute, immediate onset of Sx from allergen exposure: 
+    ![](../img/clinical_features_of_anaphylaxis.png)
+      - <u>Skin and mucosal manifestations</u> - e.g. urticaria, conjunctival injection, angioedema of the limps or mucous membrane
+      - <u>Respiratory manifestations</u> - respiratory comprimise due to upper airway (e.g. angioedema of the tongue), or laryngeal obstruction (e.g. stridor, wheezing, SOB, hypoxaemia)
+      - <u>Cardiovascular manifestations</u> - hypotension and a/w end-organ dysfunction (e.g. syncope, incontinence)
+      - <u>Gastrointestinal manifestations</u> - crampy abdominal pain, diarrhoea, repetitive vomiting
+    - **Salient points of Hx:**
+      - <u>Possible allergens identified in association w/ onset of Sx</u> - onset of Sx within minutes or hours of intake of food, contact w/ latex, insect venoms or drugs: 
+      ![](../img/common_allergens_causing_anaphylaxis.png)
+      - <u>Potentiating factors</u> - exercise or alcohol can lower the threshold for an anaphylactic event
+      - <u>Detailed allergic Hx</u> - detailed Hx of the past 24h is helpful if allergen not immediately obvious
+    - **Signs of anaphylaxis:**
+      - **Primary assessment** - airway, breathing and circulation, disability and exposure:
+        - <u>Airway</u> - angioedema of the limps, tongue, mucous membrane (airway potentially comrpimised)
+        - <u>Breathing</u> - check SpO2 for hypoxaemia:
+          - Inspiratory stridor suggestive of laryngeal oedema
+          - Generalised wheeze suggestive of bronchospasm
+        - <u>Circulation</u> - generalised oedematous state, distributive shock, reflex
+        - <u>Disability</u> - LOC due to syncope may occur
+        - <u>Exposure</u> - generalised urticaria
+    - **DDx of anaphylaxis** - anaphylactic mimics:
+      - <u>DDx for LOC</u> - cardiac arrhythmias, MI, vasovagal syncope, hypoglycaemia
+      - <u>DDx for respiratory distress</u> - status asthmaticus
+      - <u>DDx for laryngeal obstruction</u> - foreign body, C1 inhibitor deficiency, idiopathic angioedema
+      - <u>DDx of generalised flushing</u> - systemic mastocytosis, carcinoid syndrome
+      - <u>Others</u> - e.g. phaeochromocytoma
+    - **Anaphylactoid reactions** - non-specific degranuation of mast cells by drugs, chemicals or other triggers and does not involve IgE:
+      - <u>Drugs</u> - ASA, NSAID, radiocontrast media, opiates
+      - <u>Physical</u> - exercie, cold
+      - <u>Idiopathic</u> - no cause identified in up to 20% patients
+    - **Ix:**
+      - **Serum mass cell tryptase concentration** - useful for retrospective Dx:
+        - <u>Timing</u> - taken at 0h and \> 6h
+        - <u>Interpretation</u>:
+          - Rise of \> 20% from baseline (i.e. \> 6h) is diagnostic
+      - **Specific IgE test or skin prick test** - to identify the allergen subsequently
+    - **Mx:**
+      - **Principles of Mx** - anaphylaxis is an acute medical emergency:
+        - <u>General measures</u> - prevent further contact w/ allergen, secure airway, breathing and circulation
+        - <u>Prompt intramuscular adrenaline</u> - administer IM adrenaline promptly and repeat if initial response indequate
+        - <u>Additional pharmacological therapy</u> - IM or IV antihistamines +/- IV corticosteroids
+        - <u>Patient education</u> - education patient and family on how to prevent subsequent episodes, and how to react
+
+        
+        ![](../img/emergency_mx_of_anaphylaxis.png)
+      - **General measures** - primary assessment and Mx:
+        - **Airway** - consider <u>endotracheal intubation</u> if LOC and/or evidence of laryngeal oedema
+        - **Breathing:**
+          - <u>Give O2</u> to maintain SpO2
+          - <u>Nebulised beta-agonists</u> to decrease bronchoconstriction
+        - **Circulation** - IV access; IV fluid (20 ml/kg) to restore or maintain BP
+      - **IM adrenaline** - delayed administration a/w increased mortality:
+        - <u>Dosing</u> - 0.5 mL 1:1000 solution for adults
+        - <u>Repeated dosing</u> - repeat at 5-min intervals if initial response inadequate
+      - **Additional pharmacological therapy:**
+        - <u>IM or IV antihistamine</u> - chlorphenamine
+        - <u>IV glucocorticoids</u> - hydrocortisone 200 mg IV
+      - **Patient education:**
+        - Strict allergen avoidance
+        - Anti-histamine for milder reactions
+        - Adrenaline autoinjector (AAI) and emergency medical attention
+
+        
+        ![](../img/prescription_of_adrenaline_autoinjector.png)
+    - **Poor prognostic factors** - increasing risk of death with:
+      - Poorly-controlled pre-existing asthma
+      - Delayed treatment with adrenaline
+
+3.  Angioedema
+
+    - **Definition** - episodic, localised non-pitting swelling of the submucous or subcutanoeous tissue
+    - **Types of angioedema:** 
+    ![](../img/types_of_angioedema.png)
+
+### Specific allergies
+
+### C1 inhibitor deficiency
+
+1.  Hereditary angioedema
+
+    - **Definition** - autosomal dominant disorder caused by decreased production or activity of C1 inhibitor protein
+    - **Physiological role of C1 inhibitor:**
+      - <u>Regulatory protein for the complement cascade</u> - inhibits spontaneous activation of the classical complement cascade
+      - <u>Regulatory protein in the kinin cascade</u> - inhibits bradykinin expression
+    - **Pathophysiology of HAE** - pathogenic process may be spontaneous or triggered by local trauma or infection:
+      - <u>Decreased production or activity of C1 inhibitor</u> - resulting in local bradykinin accumulation
+      - <u>Increased local bradykinin levels</u> - results in:
+        - Stimulation of pain receptors - local pain
+        - Vasodilation and increased vascular permeability - local swelling
+    - **Common sites affected by HAE:**
+      - Face
+      - Extremities
+      - Upper airways (laryngeal oedema is often triggered by minor dental procedures and are often fatal)
+      - GI tract
+    - **Clinical features of HAE** - first episode typically in adolescence, but may go undiagnosed for years:
+      - **Angioedema** - usually self-limiting, not a/w wheals, precipitated by local tissue damage or spontaneously, takes around 48h to resolve
+      - **Additional clinical features** - dependent of site of infection:
+        - <u>Abdominal pain</u> - oedema of the intestinal wall may result in obstruction or severe ischaemia
+        - <u>Facial swelling</u> - angioedema of the faces, particularly the lips and tongue
+    - **Ix:**
+      - **C4** - characteristically low in acute episodes
+      - **C1 inhibitor measurement** - low levels is diagnositic of HAE
+    - **Mx:**
+      - Purified C1 inhibitor or bradykinin receptor antagonist (icatibant) for severe attacks
+      - Danazol (modified androgens) for disease remission
+
+2.  Acquired C1 inhibitor deficiency
+
+    - **Definition** - acquired decreased production or activity of C1 inhibitor protein
+    - **Etiology** - a/w immune dysregulation:
+      - Autoimmune disorders
+      - Lymphoproliferative disorders
+
+## Transplantation Immunology
+
+### Transplant rejection
+
+### Complications of transplant immunosuppression
+
+### Organ donation

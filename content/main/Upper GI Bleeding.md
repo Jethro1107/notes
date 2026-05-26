@@ -1,0 +1,338 @@
+---
+id: c57e32e4-6705-4a08-9d25-914f5be3c66e
+title: Upper GI Bleeding
+---
+
+# Upper GI Bleeding
+
+- **Definition** - GI bleeding arising proximal to the ligament of Trietz (i.e. up to the duodeno-jejunal flexure)
+- **Epidemiology:**
+    - <u>Incidence</u> - most common upper GI emergency (50-170/100000/y)
+    - <u>Mortality</u> - 10% (variable depending on etiology)
+- **Clinical presentation of UGIB** - dependent on extent of bleeding:
+    - **Evidence of UGIB** (seen in acute UGIB):
+        - <u>Haematemisis</u> (or Blood in NG tube) - vomiting of fresh blood (with clot) , indicating profuse, and severe bleeding in the upper GI tract
+        - <u>Coffee ground vomitus</u> - vomiting of black coffe ground material due to formation of methaemoglobin, indicating less severe UGIB
+        - <u>Melena</u> (UGIB to proximal colon) - dark and tarry stool due to the oxidiation of heme into haematin, where stool is often loose due to the cathartic nature of blood
+        - <u>Haematochezia</u> (10% of acute UGIB) - bright red or maroon stool caused by high volume of UGIB with rapid transit time
+    - **Evidence of hypovolaemia** (seen in acute UGIB) - SOB, palpitations, and syncope due to hypotension from intravascular volume depletion
+    - **Evidence of anaemic Sx** - typically only seen in chronic occult UGIB
+- **Etiology of UGIB** - classification into variceal and non-variceal bleeding due to differing Mx:
+    - **Variceal Bleeding** - esophageal and gastric varices, portal hypertensive gastropathy
+    - **Non-variceal bleeding:**
+        - <u>Bleeding peptic ulcers</u> - duodenal, gastric, esophageal
+        - <u>Esophagitis</u> - erosive GERD, infective esophagitis, pill esophagitis, eosinophilic esophagitis
+        - <u>Gastritis</u> - stress gastritis, Cushing ulcer
+        - <u>Mallory-Weiss syndrome</u> - mucosal or submucosa tear near cardia and OGJ (retroflex view) secondary to repeated severe retching and vomiting
+        - <u>Neoplasia</u> (benign vs malignant) - GIST, SCC, AdenoCA
+        - <u>Vascular lesions</u> - GAVE, Angiodysplasia, Dieulafoy lesions, Aortoenteric Fistula
+        - <u>Other inflammatory lesions</u> - Duodenal Crohn's Disease, Irradiation Duodenitis
+        - <u>Hepatobiliary and pancreatic disease</u> - Haemobilia, Haemosuccus Pancreatitis
+
+  
+  ![](../img/etiology_of_ugib.png)
+- **Most common causes of UGIB:**
+    - <u>Bleeding peptic ulcer</u> (25-50%) - typically in the duodenum or stomach
+    - <u>Inflammatory/ erosive diseases</u> (20-30%) - esophagitis (10%), gastritis, duodenal erosions
+    - <u>Gastroesophageal varices</u> (2-9%) - caused by portal HTN
+    - <u>Mallory-Weiss syndrome</u> (5%)
+    - <u>Upper GI malignancies</u> (2%) - CA stomach or esophagus
+- **Most common causes of severe UGIB:**
+    - Bleeding peptic ulcer
+    - Mallory-Weiss Syndrome
+    - Variceal bleeding
+    - Dieulafoy lesion
+    - Aortoenteric fistula
+- **Salient points of Hx:**
+    - **HPI** - onset, bleeding manifestation, duration, previous episodes:
+        - <u>Onset</u> - usually acute when overt bleeding, may be longer if melaena
+        - <u>Bleeding manifestation</u> - determine potential site of bleeding:
+            - **Haematemesis** (fresh blood or coffee-ground vomitus) - reflects bleeding proximal to the ligament of Treitz (traditionally frank haeamtemesis suggest moderate to severe bleeding, while coffee-ground vomitus reflects more limited bleeding)
+            - **Melaena** (black, tarry stool) - usually proximal to the Ligament of Trietz (90%), but can reflect bleeding in small bowel and proximal colon
+            - **Haematochezia** (red or maroon blood in stool) - usually due to lower GI bleeding, but can occur in massive upper GI bleeding, typically associated w/ haemodynamic instability
+        - <u>Previous episodes</u> - asked about prior episodes of upper GI bleeding (only 60% of patients w/ Hx of UGIB are bleeding from same lesion)
+    - **Associated Sx** - may point to specific cause of UGIB:
+        - <u>Epigastric pain</u> - usually indicates a bleeding peptic ulcer, but theoretically can be a result of any upper GI disease
+        - <u>Nausea and vomiting</u> - severe retching and vomiting prior to UGIB may be suggestive of Mallory-Weiss Syndrome
+        - <u>Heartburn and regurgitation</u> - erosive esophagitis if long Hx of heartburn
+        - <u>Dysphagia</u> - suggestive of esophageal carcinoma
+        - <u>Abdominal distension or Hepatic encephalopathy</u> - varcieal bleeding or portal hypertensive gastropathy
+        - <u>Obstructive jaundice</u> - haemobilia or intra-abdominal malignancies
+        - <u>Unintentional weight loss</u> - suggestive of malignancy
+    - **PMH:**
+        - <u>Peptic ulcer disease</u> - 1) documented PUD, 2) documented H. pylori infection (previous scopes), 3) previous recurrent epigastric pain in a/w food, 4) compatible precipitants (e.g. NSAID, current smoking, ASA)
+        - <u>Cirrhosis</u> - 1) chronic liver disease, 2) cirrhosis, 3) chronic HBV carrier
+        - <u>Abdominal aortic aneurysm</u> - risk of aortoenteric fistula
+        - <u>Chronic kidney disease</u> - bleeding GI angiodysplasia
+        - <u>Aortic stenosis</u> - bleeding GI angiodysplasia
+        - <u>Prior abdominal surgery</u> - anastamotic ulcers
+        - <u>Cardiovascular and pulmonary disease</u> - more susceptible to adverse effects of anaemia (e.g. restrictive transfusion strategy does not apply)
+    - **Drug Hx:**
+        - <u>NSAID</u> (ASA, traditional NSAID, COX-2 inhibitors) - predisposes to peptic ulcer formation and bleeding
+        - <u>Anti-platelets and anti-coagulants</u> (e.g. ASA, P2Y12 inhibitor, warfarin) - increases risk of bleeding
+        - <u>Drugs a/w pill esophagitis</u> - e.g. bisphosphonates, KCl tablets, iron supplements
+        - <u>Drugs that result in change in stool colour</u> - e.g. bismuth, iron
+        - <u>Drugs that inhibit the sympathetic response to acute blood loss</u> - e.g. beta blockers
+    - **SHx:**
+        - <u>Smoking</u> - predisposes to peptic ulcer complications, and also a RF of upper GI malignancy
+        - <u>Alcohol</u> - chronic alcohol use may point towards variceal bleeding, Mallory-Weiss Syndrome, and is also a RF of upper GI malignancy
+    - **FHx** - FHx of upper GI malignancy
+- **P/E:**
+    - **General examination:**
+        - <u>Assessment of conscious level</u> - low GCS may be due to shock or hepatic encephalopathy, patient may not be able to protect airway and endotraacheal tube may be required
+        - <u>BP/P</u> - assessment of haemodynamic instability:
+            - Resting tachycardia - 15% blood loss (may be masked by BBs)
+            - Orthostatic hypotension - 15-40% blood loss
+            - Supine hypotension - \> 40% blood loss
+        - <u>Assessment of hydration status</u> - mucous membranes, skin turgor, capillary refill
+        - <u>Pallor</u> - reflects anaemia
+        - <u>Jaundice</u> - reflects decompensated cirrhosis
+        - <u>Skin and mucosa</u> - Hereditary haemorrhagic telangiectasia, Puetz-Jegher's syndrome
+        - <u>Stigmata of chronic liver disease</u> - reflects likely variceal bleeding or portal hypertensive gastropathy
+        - <u>Cervical LN</u> - esp. Virchow's node for upper GI malignancy
+    - **Abdominal examination:**
+        - <u>Inspection</u> - scars, abdominal distension
+        - <u>Palpation</u> - tenderness or peritoneal signs may be suggestive of perforation (must r/o w/ radiographs before endoscopy), splenomegaly (portal HTN)
+        - <u>PR bleeding</u> - fresh vs old melaena
+    - **Cardiovascular and respiratory examination** - fitness for GA in endoscopy (note association w/ AS)
+
+## Overview of Etiology of UGIB
+
+- **Peptic Ulcer Disease** - responsible for 2/3 of UGIBs (10-15% of PUD will bleed during their disease course):
+    - **Etiology of PUD** - H. pylori, NSAIDs
+    - **Pathophysiology of bleeding peptic ulcer** - degree of bleeding depends on depth of ulceration:
+        - <u>Erosion through the mucosa</u> - typically results in chronic occlut blood loss and anaemia
+        - <u>Erosion into submucosa into arterial supply</u> - manifests as massive UGIB most severe if erosion into penetrating branches of left gastric artery or gastroduodenal artery
+    - **Aggravating factors for bleeding peptic ulcers:**
+        - <u>Current smoking</u> - increases risk of PUD complications
+        - <u>Bleeding tendancies</u> - anti-platelet, anti-coagulant, SSRIs
+    - **Principles of Mx:**
+        - <u>Pre-endoscopic medical Mx</u> - high dose IV PPI +/- Prokinetics (erythromycin)
+        - <u>Index endoscopy</u> - diagnosis of PUD and assessment of risk of re-bleeding based on Forrest's classification to guide endoscopic haemostasis
+        - <u>Angiographic Mx or surgery if failed endoscopic therapy</u>
+        - <u>Post-endoscopic medical Mx</u> - continue IV PPI infusion, monitor of re-bleeding, and H. pylori eradication if idencated, reassessment of NSAID use
+- **Esophagitis:**
+    - **Etiology of esophagitis** - GERD, infectious esophagitis (esp. in immunocomprimised host)
+    - **Pathophysiology of bleeding esophagitis** - degree of bleeding depends on etiology:
+        - <u>Errosive GERD</u> - results in chronic blood loss with Fe-deficiency anaemia
+        - <u>Infectious esophagitis</u> - can result in massive GI bleed
+    - **Principles of Mx:**
+        - <u>Control bleeding</u> - e.g. electrocoagulation or heater probes
+        - <u>Mx of GERD</u> - long term acid-suprressoin therapy
+        - <u>Mx of infectious esophagitis</u> - appropriate antimicrobials
+- **Gastritis** - rare now due to prophylactic use of acid suppression therapy:
+    - **Etiology of gastritis:**
+        - <u>Stress gastritis</u> - classically seen in critically ill patients due to decreased defensive factors due to hypoperfusion, NSAIDs, or other iatrogenic causes
+        - <u>Cushing ulcer</u> - due to increased acid secretion from raised ICP
+    - **Principles of Mx:**
+        - <u>Acid suppression therapy</u> - typically successful in controlling haemorrhage
+        - <u>Vaso-constrictors</u> (octreotide, terlipressin) - considerations made if acid-suppression is insufficient
+        - <u>Endoscopic therapy, angiographic embolisation, surgery</u> - rarely necessary
+- **Mallory-Weiss Syndrome:**
+    - **Pathophysiology of Mallory-Weiss Syndrome:**
+        - <u>Repeated Retching and Emesis</u> - forceful contration of abdominal wall against an unrelaxed cardia, resulting in **mucosal and submucosal laceration** near the OGJ resulting in **massive UGIB**
+    - **Principles of Mx:**
+        - <u>Acid suppression therapy</u> - successful in 90% of patients
+        - <u>Endoscopic therapy</u> - injection or electrocoagulation may be required for severe ongoing bleeding
+- **Gastric antral vascular ectasia:**
+    - **Pathophysiology of GAVE** - Watermelon stomach:
+        - <u>Collection of dilated venules at antrum</u> - linear red streaks converging at antrum giving appearance of watermelon
+        - <u>Low pressure leak</u> - low pressure of the venous system precludes any severe UGIB
+    - **Clinical features of GAVE** - typically manifests as chronic occult UGIB with anaemia
+    - **Principles of Mx:**
+        - <u>Endoscopic therapy</u> - argon plasma coagulation (successful in 90% patients)
+        - <u>Antrectomy</u> - considered if failed endoscopic therapy
+- **Dieulafoy lesion:**
+    - **Pathophysiology of Dieulafoy lesion:**
+        - <u>Vascular malformations</u> - sizable arterial malformations in the submucosa typically found on the lesser curve of the stomach within 6cm of OGJ, but theoretically can occur elsewhere in the GI tract
+        - <u>Erosion of overlying mucosa</u> - erosion into Dieulafoy lesions without ulcerations may result in massive GI bleeding
+    - **Clinical features of Dieulafoy lesions** - typically manifest as massive GI bleeding
+    - **Principles of Mx:**
+        - <u>Endoscopic therapy</u> - thermal or sclerosant therapy (effective in 80-100% patients)
+        - <u>Angiographic embolisation</u> - considered if failed endoscopic therapy
+        - <u>Surgery</u> - oversewing of dieulafoy lesions or partial gastrectomy
+- **Malignancy:**
+    - **Clinical features of malignancy** - usually manifest as chronic occult bleeding, but may result in significant UGIB (GIST)
+    - **Principles of Mx** - Dx, staging and appropriate Mx
+- **Inflammatory bowel disease** - Duodenal CD (extremely rare):
+    - **Principles of Mx** - responsive to medical therapy
+- **Aorto-enteric fistulas** - most commonly involve the duodenum:
+    - **Pathophysiology of aorto-enteric fistulas:**
+        - <u>Primary aortoenteric fistulas</u> - due to expanding aortic aneurysm compressed against bowel
+        - <u>Secondary aortoenteric fistula</u> - aortic graft-enteric erosion
+    - **Clinical suspicion** - raised in massive UGIB in all patients w/ known AAA and prior aortic reconstruction
+    - **Clinical features** - almost always fatal massive GI bleeding with prior "sentinal bleeds"
+    - **Principles of Mx:**
+        - <u>CTA</u> - first line of study if suspiciou of aortoenteric fistula is high (demonstrates infection around the graft)
+        - <u>Endoscopy</u> - massive bleeding in distal duodenum (D3/4) is nearly diagnostic of aortoenteric fistula
+        - <u>Surgery</u> - EVAR, extra-anatomical bypass, long-term ABx
+- **Haemobilia:**
+    - **Etiology** - trauma, prior hepatobiliary instrumentation, and hepatic neoplasms
+    - **Clinical suspicion of haemobilia** - clinical features suggestive of obstructive jaundice or RUQ pain
+    - **Principles of Mx:**
+        - <u>Angiographic embolisation</u> - gold standard
+        - <u>Endoscopic therapy</u> - usually diagnostic but not for therapeutic
+
+## Clinical assessment and initial management of acute UGIB
+
+- **Principles of initial Mx:**
+    - Initial clinical assessment - assess active bleeding, define circulatory status, assess etiology (variceal vs non-variceal bleeding), identify comorbidities (e.g. cardiovascular, cerebrovascular and renal diseases)
+    - Basic initial Ix - CBC, LRFT, Clotting, T&S, erect CXR, CT abdommen
+    - Resuscitation - large-bore IV cannula, cardiac monitoring and Foley catheter for initial Mx:
+        - O2 - for all patients in shock
+        - Fluid +/- blood product transfusion
+        - +/- ICU care
+    - Pre-endoscopic Mx - correct coagulopathy and thrombocytopenia, IV PPI, prokinetics, variceal Mx
+    - Diagnostsic and therapeutic upper endoscopy
+
+  
+  ![](../img/emergency_mx_of_non_variceal_ugib.png)
+- **Initial clinical assessment:**
+    - <u>Assess active bleeding</u> - most ulcer bleeds spontaneously resolve in 80% of patients, which do not require urgent workup:
+        - Features suggestive of active bleeding:
+            - Signs of active bleeding - haematemesis, fresh melena, fresh PR bleeding, fresh blood aspirated from NG tube (diagnostic)
+            - Signs of shock - tachycardia
+
+    
+    ![](../img/general_approach_to_acute_ugib.png)
+    - <u>Define circulatory status</u> - vital signs (BP/P, RR), hydration status (mucosa, skin turgor)
+    - <u>Identify evidence of liver disease</u> - Hx and stigmata of chronic disease, as Mx of variceal bleeding differs from Mx of non-variceal bleeding:
+        - Hx - Hx of liver disease, HBV, HCV, alcohol Hx
+        - Stigmata of liver disease - Jaundice, hand stigmata of chronic liver disease, ascites, HE
+    - <u>Identify comorbidities and drug Hx</u>:
+        - Other comorbidities - e.g. CVD, cerebrovascular disease, renal disease
+        - Drug Hx - beta-blockers (mask tachycardia), anti-platelet, anti-coagulants, aspirin and NSAIDs
+- **Basic Ix:**
+    - **CBC:**
+        - <u>Hb and MCV</u>:
+            - McHc anaemia - suggestive of chronic bleeding
+            - NcNc with normal Hb - occurs within 1st 24h of severe acute bleeding until haemodilution occurs (NcNc anaemia of acute blood loss)
+        - <u>PLT</u>:
+            - Thrombocytopenia - suggestive of chronic liver disease w/ hypersplenism
+            - Reactive thrombocytosis - normal response to non-variceal bleeding
+    - **LFT** - for suspected cirrhosis
+    - **RFT** - assessment of volume status and GI bleeding:
+        - <u>Derranged renal functions</u> - seen in hypovolaemia
+        - <u>Increased Urea/Creatinine ratio</u> - suggestive of GI bleed (breakdown of protein to liberate urea)
+    - **Clotting profile and T&S** - preparation of endoscopy:
+        - <u>Prolonged PT</u> - suggestive of cirrhosis, or an anti-coagulated patient
+        - <u>T&S</u> - preparation for transfusion
+    - **Erect CXR** - r/o pneumoperitoneum (C/I for endoscopy)
+    - +/- CT abdomen - in suspected PPU
+- **Resuscitation:**
+    - <u>General measures</u> - large-bore cannula (x2) for IV access, cardiac monitoring, Foley catheter (Urine Output), +/- CVP monitoring (for those with cardiovascular diseases)
+    - <u>O2</u> - for all patients w/ shock
+    - <u>Fluid resuscitation</u> - crystalloids (NS/ lactate ringers) to raise BP
+    - <u>Blood transfusion</u> - typically follows restrictive transfusion strategy (indicated only in \< 7g/dL unless haemodynamically unstable or associated cardiovascular disease)
+    - <u>Correction of coagulopathy and thrombocytopenia</u> - target PLT \> 50 and INR \< 1.5
+- **Pre-endoscopic Tx:**
+    - <u>IV PPIs</u> (esomeprazole 80mg bolus then 8mg/h infusion):
+        - Rationale - reduces bleeding stigmata of peptic ulcers on endoscopy
+        - Evidence - no effects on mortality:
+            - Prior to endoscopy - reduces the need for endoscopy
+            - After endoscopy - reduces rebleeding risk, and need for surgery
+    - <u>Prokinetics</u> - e.g. IV erythromycin, IV metoclopramide:
+        - Rationale - remove blood clots that obscure endoscopic view
+    - <u>Mx specific for variceal bleeding</u>:
+        - **Splanchnic vasoconstrictors** - terlipressin or octreotide
+        - **ABx prophylaxis** - Ceftriazone, or quinolones to avoid SBP or other bacterial infections
+- **Endoscopy** - diagnostic (80% cases) and therapeutic:
+    - <u>Timing</u> - After adequate resuscitation and Mx ideally \< 24h for non-variceal ulcers, and \< 12h for variceal ulcers
+    - <u>Endoscopic Tx</u>:
+        - Combined mechanical and thermal haemostasis - for bleeding ulcers
+        - Band ligation/ sclerotherapy - for variceal bleeding
+- **Surgery:**
+    - <u>Indications</u> - failed endoscopic haemostasis or rebleeding
+    - <u>Surgery for bleeding peptic ulcers</u>:
+        - DU - vagotomy and pyloroplasy
+        - GU - partial gastrectomy
+- **Pre-endoscopic risk scoring systems** - informs prognosis:
+    - Rockall score - Age, comorbidities, BP/P 
+    ![](../img/rockall_score.png)
+    - Glasgow-Blatchford score (predicts need for endoscopic haemostasis) - Clinical presentation, comorbidities, SBP, Hb, urea 
+    ![](../img/blatch_ford_score.png)
+
+## Endoscopic approach to upper GI bleeding
+
+- **Role of upper endoscopy** - diagnostic and therapeutic:
+    - <u>Diagnostic</u> - verify bleeding source and pathology, and stratify re-bleeding risk
+    - <u>Therapeutic</u> - definitive or temporary endoscopic haemostasis
+- **Timing:**
+    - Immediate - if in shock, massive active bleeding, or suspected variceal bleeding
+    - Early (within 24h) - if haemodynamically stable
+- **C/I:**
+    - Suspected perforation
+    - Poor cardiopulmonary reserve
+- **Complications:**
+    - GA complications - respiratory depression, MI, stroke
+    - Procedure related complications - aspiration, bleeding, perforation, failed endoscopic haemostasis
+- **Endoscopic haemostasis** - typically dual approach (adrenaline + thermal/ mechanical):
+    - <u>Injection therapy</u> (used in conjunction with other forms of therapy) - adrenaline:
+        - **MOA** - 1) local tamponade, 2) vasoconstriction
+    - <u>Thermal coagulation</u> - heater probes, laser coagulation, argon plasma coagulation (APC)
+    - <u>Haemoclips</u> - clipping of large bleeding vessels
+    - <u>Haemospray</u> - typically Tx of large resport
+- **Forrest's classification** - stigmata of recent haemorrhage are a/w increased risk of recurrent bleeding:
+    - **Forrest's classification** - different re-bleeding risks:
+        - Class Ia (55%) - arterial jet
+        - Class Ib - oozing artery
+        - Class IIa (43%) - non-bleeding visible artery
+        - Class IIb (22%) - adherent clot
+        - Class IIc (10%) - flat pigmented spot
+        - Class III (5%) - clean ulcer base
+
+    
+    ![](../img/endoscopic_stigamata_of_recent_haemorrhage.png)
+    - **Indications of endoscopic Tx** - Class IIa or above
+- **Post-endoscopic Mx** - prevention and identification of re-bleeding:
+    - <u>High dose IV PPIs</u> (72h) - for clot stabilisation in Forrest IIa and above
+    - <u>Monitoring for rebleeding</u> - at least 3d (longer if comorbid):
+        - **Signs of bleeding:**
+            - Haemodynamic instability - increased HR
+            - Visible bleeding - new haematemesis, blood in NG tube, fresh melaena
+            - Hb - sudden fall of Hb by \> 2g/dL
+        - **Risks of rebleeding:**
+            - Presentation - Hb \< 8 g/dL on presentation, Shock on presentation, transfusion
+            - Demographic - Age \> 60y, comorbid, coagulopathic, already hospitalised (stress ulcers)
+            - Ulcer - large ulcers, ulcers on posterior D1, ulcers on higher posterior lesser curve
+    - <u>H. pylori eradication</u> - if H. pylori +ve
+    - <u>Avoidance of NSAID use</u> - life-long PPI if require aspirin
+
+## Management of Variceal Bleeding
+
+- **Resuscitation** - O2 if shock, fluids (colloids), restriction transfusion strategy
+- **IV antibiotics:**
+    - <u>Selection</u> - IV cephalosporin or quinolones (e.g. ciprofloxacin)
+    - <u>Rationale</u> - SBP and sepsis is common in variceal bleeding (demonstrated to improve outcomes)
+- **IV terlipressin** - pharmacological reduction of portal venous pressure:
+    - <u>RoA</u> - intermittent injection rather than continuous infusion
+    - <u>Dosing</u> - IV 2mg q.i.d until bleeding stops, followed by 1mg q.i.d. for up to 24h
+    - <u>MOA</u> - Splanchnic vasoconstriction reducing portal blood flow and hence reduces portal pressure
+    - <u>S/E</u> - beware in IHD or PAD due to vasoconstrictive properties
+- **Prophylactic IV PPI** - same rationale as above
+- **Endoscopic Tx** - diagnostic of variceal bleeding and therapeutic maneuvers:
+    - **Band ligation** - preferred over injection sclerotherapy:
+        - <u>Principles</u> - rubber band cap to occlude varices, which subsequently sloughs w/ variceal obliteration
+        - <u>Technical details</u> - banding repeated q4-6w until varices are obliterated (w/ follow up endoscopy for recurrence)
+        - <u>Complications</u> - banding-induced ulceration and bleeding (prevented by acid suppression)
+    - **Injection sclerotherapy:**
+        - <u>Principles and technical details</u> - injection of sclerosing agent in varices
+        - <u>Complications</u>:
+            - Perforation of esophagus
+            - Benign esophageal strictures
+    - **Balloon tamponade:**
+        - <u>Principles</u> - balloon at pressure \> Portal venous pressure to stop bleeding as a **bridge to definitive therapy**
+        - <u>Technical details</u>:
+            - Endotracheal intubation prior to tube insertion - reduce risk of aspiration
+            - Insertion of **Sengstaken-Blackmore tube** - tip placed into stomach confirmed by radiology (or via endoscopic vision)
+            - Inflation of the gastric balloon (200-250 mL) - gental traction to maintain pressure on the varices to control bleeding
+            - Inflation of esophageal baloon to no less than 40 mmHg - requires deflation for 10 minutes every 3h to avoid mucosal damage
+- **Transjugular intrahepatic portosystemic shunt** (TIPSS):
+    - <u>Principles</u> - reduction of portal pressure by placing stent between portal vein and hepatic vein
+    - <u>Clinical outcomes</u> - 1) Reduces variceal bleeding, 2) Increased HE, 3) Does not improve survival 
+    ![](../img/evidence_for_tipss_in_cirrhosis.png)
+    - <u>Complications</u>:
+        - Hepatic encephalopathy - managed by reducing shunt diameter
+- **Surgery** - Tx of last resort:
+    - <u>Portosystemic shunt surgery</u> - often leads to HE and reserved for patients w/ good liver function
+    - <u>Oesophageal transection</u> - Tx of last resort, but operative mortality is high

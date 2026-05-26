@@ -1,0 +1,44 @@
+---
+id: c646d791-912e-4122-8d3e-6c1711760301
+title: Ductal Carcinoma in Situ
+---
+
+# Ductal Carcinoma in Situ
+
+- **Definition** - ductal carcinoma in-situ (DCIS) or intraducal carcinoma refer to presence of malignancy that is confined by basal layer of normal myoepithelial cells
+- **Clinical presentations of DCIS:**
+  - <u>Asymptomatic</u> - present as an area of clustered microcalcification (75% isolated without an associated density) on screening mammography **w/o an associated palpable mass**
+  - <u>Symptomatic</u> (rare) - palpable mass +/- unilateral single-duct nipple dischrge
+- **Pathology** - considered a precursor to invasive ductal carcinoma:
+  - <u>Histological subtypes</u> - invasive carcinoma developed are concordant to the histological subtype of DCIS:
+    - Papillary
+    - Cribriform
+    - Solid
+    - Comedo
+- **Mammographic findings of DCIS:**
+  - Cluster microcalcifications often pleomorphic, and may be linear or branching (ductal origin):
+    - No associated density (75%)
+    - Associated density (15%)
+  - Density alone w/o clustered calcifications (10%)
+- **Mx of DCIS:**
+  - **Principles of Mx:**
+    - <u>Options for Mx</u>:
+      - Surgical Tx - Mastectomy, BCT, isolated lumpectomy
+      - +/- Hormonal therapy - e.g. tamoxifen and aromatase inhibitor
+    - <u>Considerations for surgical approach</u>:
+      - Tumour factor - disease extent within breast, histological grading, ER status, presence of miroinvasion
+      - Patient factor - compliance to surveillance, C/I for irradiation
+      - Breast factor - factors affecting the suitability for BCT
+  - **Comparisons between mastectomy and BCT:**
+    - <u>Survival</u> - equivalent survival for mastectomy and BCT (98-9%)
+    - <u>Local recurrence</u> - 1-2%/y for BCT, 1-2% lifetime risk for mastectomy: 
+    ![](img/trials_showing_efficacy_of_post_operative_irradiation_in_dcis.png)
+      - Note - for lumpectomy, post-operative irradiation is also recommended as it reduces local recurrence rates (some evidence for identifying subset of DCIS that do not require irradiation using Van Nuys scores, ressection margin criteria, and histological grades N.B. Silverstein and ECOG investigators)
+  - **Sentinel node surgery** - recommended in patients undergoing mastectomy for DCIS, but is considered for those undergoing BCT:
+    - <u>Rationale</u> - theoretically no need for SLNB because DCIS by definition has an intact basement membrane w/o access of lymphovascular channels, however there is <u>risk of missing microinvasions</u>:
+      - **Mastectomy specimen for DCIS** - 20-30% found to have components of invasive cancer elsewhere
+      - **Node +ve disease revealed in DCIS** - a review of National Cancer Data Base reveals 3.6% of DCIS patients undergone ALND had node +ve disease
+    - <u>Indications</u> - dependent on type of surgery performed:
+      - **BCT** - considered for large areas of DCIS, high grade histology, or evidence of microinvasions (ALND can be delayed on nodal recurrence)
+      - **Mastectomy** - recommended for all undergoing SLNB because sentinel LN mapping not possible after mastectomy due to altered lymphatics
+  - **Hormonal therapy** (e.g. tamoxifen) - reduced rates of ipsilateral recurrence and contralateral cancers in patients with ER-positive DCIS (NSABP B-24 trials)

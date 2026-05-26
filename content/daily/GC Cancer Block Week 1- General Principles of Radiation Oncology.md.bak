@@ -1,0 +1,179 @@
+---
+id: 452fd973-ed83-4ff2-946f-4fef333f4d0f
+title: 2025-08-03
+---
+
+# GC Cancer Block Week 1: General Principles of Radiation Oncology <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Principles:**
+  - Ionising radiation - EM radiation from beta- gamma photons and charged particles
+  - Tumour control not achieved by direct cell kill, but by producing secondary electrons causing double-strand DNA beraks in nuclei leading to cell death
+  - Radiation falls off following inverse-square law but never drops to zero
+  - Gray - unit of RT
+  - Duplicating chromosomes more vulnerable to radiation as during DNA replication, unwinding of DNA from dsDNA to ssDNA - hence more susceptible and accounts for differential response (eradicates tumour cells while minimising damage to surrounding normal tissue)
+  - 
+- **Goals of RT** - eradicates tumour cells (neoplastic vs non neoplastic \[most commonly GO\], benign \[vestibular schwannoma\] vs malignant tumours) while minimising damage to surrounding normal tissue
+- **Therapeutic ratio** - consider a radiation dose-response curve:
+  - Differential response to effect of radiation by tumour cells and normal cells (diff between effect on tumour and normal cells is termed <u>therapeutic ratio</u>)
+  - We aim to maximise therapeutic ratio - graphical representation of the goal of RT:
+    - Fully make use of the difference of cell killing and regeneration capacities of tumour cells and normal cells to achieve the maximum therapeutic ratio
+  - Description of the differential dose-response curve between tumour and normal cells:
+    - 0 point - no effect on tumour
+- **Differential response to RT:**
+- **How is RT provided:**
+  - Linear accelerator - electron gun connected to high -ve voltage will produce fast shooting electrons? with magnet to accelerate electrons
+  - Tungsten converts electron to x-ray and bent 90 degrees to release via Gantry –\> directed at patient on treatment couch
+  - Tomotherapy (see section on IMRT)
+  - Volumetric modulated RT therapy machine (contains cone-beam CT scanner)
+- **Pretreatment workup:**
+  - Dx, clinical evaluation and staging
+  - Approach to Mx for tumour - surgical, chemo, RT, targeted/ immunotherapy, vs multimodal approach
+  - Role of RT (Tx intent) - radical vs palliative
+  - RT planning - if RT considered:
+    - Patient immobilisation (prevent irradiation of important structures e.g. brainstem, optic nerve)
+    - Image acquisition of tumour
+    - Choice of technique and beam modification
+    - Calculation of dose distribution
+- **Immobilisation:**
+  - Thermoplastic cast - when subjected to hot temperature, becomes soft, and placed and molded to the Tx site
+- **Image acquisition of tumour** - draw what to irradiate and what structures to preserve:
+  - X-ray traditionally, but limited
+  - 2D radiation technique is no longer used due to unnecessary irradiation of vital structures, especially in context of H&N tumours
+  - MRI and PET-CT co-registration in contouring and detection of subtle synchronous tumour (precision RT see below)
+- Achieve better therapuetic ratio by advanced RT techniques (i.e. allows for even lower doses)
+- New modalities:
+  - Intensity-modulated radiation therapy (IMRT)
+  - Image-guided radiation therapy (IGRT)
+  - Cyberknife
+  - Stereotatic radiosurgery
+  - Charged-particle therapy
+  - Brachytherapy
+- **IMRT:**
+  - <u>Principles</u> - multiple beams directed to the tumour at different angles, with modulation of intensity of radiation dose of each bene
+    - Multiple radiation beam coming from different angles but all aiming at the tumour - individually each beam provides a small radiation dose, but aggregate at the tumour such that the tumour is subjected to higher dose
+    - Since each beam uses low radation dose - this minimises radiatio to normal structures
+    - Creates dose gradient to the tumour and surrounding normal structures (i.e. high dose to tumour, low dose to normal tissue)
+  - <u>Tumour delineation</u> - by contrast CT, MRI/ PET, rather than conventional radiograph, require **giving a margin** to account for 1) occult microscopic spread, 2) physiological motion, 3) machine setup error
+  - <u>Device</u> - tomotherapy:
+    - Helical RT delivery system that integrates linear accelerator and CT scan technology
+- VMAT?
+- Comarison between 2D RT and 3D RT: 
+![](~/Documents/notes/img/comparison_between_2drt_and_3d_rt.png)
+- **IGRT:**
+  - <u>Principles</u> - real-time imaging before each Tx to detect and correct set-up error (esp. patient and tumour can still move 1-2mm in all directions despite casting):
+    - Calculates overlap with pre-treatment imaging –\> good overlap indicates good positioning
+    - Monitoring body contour - weight loss as a measure of S/E (i.e. RT-induced mucositis can result in loss of appetite and weight loss), enabling motion during immobisation (comprimises effects of RT)
+  - <u>Devices</u>:
+    - MV linear accelerator and detector
+    - kv cone-beam CT and kv detector
+  - <u>Indications</u>:
+    - tumours with undetectable organ motions during Tx or site with dramatic change in body and contour
+    - Prostate CA (e.g. position varies depending on bladder and rectum)
+    - H&N tumours (esp LN +ve tumours) as it shrinks rap0idly with RT or chemoirradiation, and also weight loss as S/E requiring imaging to assess overlap
+- **Cyberknife** - linear accelerator w/ robotic arm and a small gantry:
+  - Long RT delivery time because of small gantry size and thus small area of irradiation
+  - Indications:
+    - small tumours close to normal critical structures
+    - Cord compression
+    - Brain metastasis
+    - tumours close to neurostructures (e.g. brainstem, optic nerve)
+- **Sterotactic radiosurgery** (SRS) - improved IMRT but more dangerous?
+  - Other names:
+    - X-knife
+    - Gamma-knife
+  - <u>Principles</u> - multiple x-ray or gamma rays from different angles, delivering high doses in one fraction (18-20 Gy) or few fractions (SRT)
+  - <u>Limitations</u>:
+    - Very complication set up for immobilisation
+    - Long RT delivery time
+  - <u>Indications</u>:
+    - Brain metastasis (max 3, \<3cm each)
+    - Meningioma
+    - Acoustic neuroma
+    - Carvenous haemangioma
+    - Glomus jugulare
+    - AVM
+- **Charge-particle therapy:**
+  - Makes use of other type of ionising radiation (charged particle), cf x-ray, gamma-ray in IMRT, tomotherapy, SRS etc.
+  - Types:
+    - Proton
+    - Carbon
+    - Neon
+  - Device - cyclotron (extremely large device, half a football pitch), gantry is so huge takes up the whole room
+  - Concept of Bragg Peak:
+    - Does not follow inverse-square law depicting relationship between intensity and tissue depth
+    - Characteristic Bragg peak, remains low radiation therapy outside a certain depth known as Bragg Peak 
+    ![](~/Documents/notes/img/bragg_peak_of_charged_particle_therapy.png)
+  - Extra high dose of radiation to centre of tumour
+  - Clinical indications:
+    - Small tumours extremely close to vital structures where rapid dose fall-off is essential to avoid permanent damage
+    - Brain stem
+    - Orbit, optic nerve, chiasm, pituitary
+    - Spinal cord
+    - Brainstem
+- **Brachytherapy:**
+  - Short distance
+  - Types:
+    - Interstitial brachytherapy (H&N, breast recurrence after BCT)
+    - Intracavitary brachytherapy (cervical, breast, persistent NPC)
+    - Endoluminal brachytherapy (lung, rectal)
+
+  
+  ![](~/Documents/notes/img/external_vs_brachy.png)
+- **Selective internal radiation therapy:**
+  - Radioactive endovascular therapy that uses microspheres to ionizing radiation to hepatic tumours (HCC or liver mets)
+  - Principles of microspheres:
+    - Extremely small (30-35 micrometers), size of diameter of feeding artery
+    - Radiolabelled w/ yttrium 90 - high dose of beta-rays (2.3 MeV), short half life (64h) minimal penetration (11mm)
+    - Good therapeutic ratio:
+      - Therapeutic doses to tumour but tolerable by normal liver parenchyma
+  - Used in combination w/ other local therapy:
+    - Ablative therapy - percutaneous ethanol injection, RFA
+    - TACE
+  - S/E:
+    - N/V - if microspheres lodged in gastroduodenal artery
+    - Gastritis/ duodenitis
+    - Radiation-induced liver injury
+    - Radiation pancreatitis
+    - Radiation-fibrosis of the lungs due to lung shunting (left lower lobe)
+- Read up NET treated w/ radioligand therapy w/ lutetium 177 somatostatic analogue (see slides)
+- **Combination w/ other theraies:**
+  - w/ targeted therapy - radiation increases experssion of EGFR, and blockade of EGFR signalling sensitize to effects of radiation (Cetuximab increases therapeutic ratio of RT)
+  - w/ immunotherapy (radioimmunotherapy) - Mab conjugated w/ radiolabelled substance (e.g. ibritumomab, Anti-CD20 conjugated to yttrium 90 \[for non-Hodgkin lymphoma\], tositumomab, Anti-CD20 conjugated to iodine-131)
+  - w/ chemotherapy (chemoradiation) - chemotherapy acts as radiosensitisers to potentiate effect of RT:
+    - a/w more acute and long-term but manageable S/E (e.g. mucositis and pain)
+    - Only few chemo agents used concurrently:
+      - Cisplatin, carboplatin, oxaliplatin
+      - 5-FU, capecitabine (antimetabolites)
+      - Paclitaxel
+      - Temozolomide
+      - Etoposide
+      - Mitomycin
+      - Vincristine
+    - Never use anthracycline as they cause severe radiosensitizing S/E (e.g. skin necrosis)
+- **Abscopal effect of radiotherapy** (see slides for case report) - effects of RT not limited to prescribed radiation field:
+  - Increased presentation of Ag by myeloid cells within the tumour stroma and therapy enhancing T-cell killing of tumor cell (esp melanoma, RCC, lymphoma)
+- **S/E** - acute vs long term, must localise to site of RT:
+  - **Acute:**
+  - **Chronic** (last for \> 6mo)
+- Factors:
+  - Total dose
+  - Dose in each fraction
+  - Number of fractions
+  - Technique (modern less S/E than conventional 2D)
+  - Other treatments given concurrently with radiotherapy
+  - Susceptibility and sensitivity of normal organ to radiation S/E
+
+# GC Cancer Block Week 1: Cancer Imaging <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Role of imaging:**
+  - Screening (e.g. mammogram)
+  - Dx
+  - Staging
+  - For Tx - e.g. surgical planning, RT therapy
+  - Surveillance:
+    - Assessment of Tx response
+    - For recurrence
+- **Imaging modalities:**
+  - Radiation hazard - radiograph, CT, PET/CT, nuclear medicine
+  - Non-ionizing radiation - MRI, USG
+- 

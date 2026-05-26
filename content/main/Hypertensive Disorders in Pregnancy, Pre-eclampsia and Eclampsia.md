@@ -1,0 +1,134 @@
+---
+id: 95fe6f42-8247-4949-8485-83b9c5cec775
+title: Hypertensive Disorders in Pregnancy, Pre-eclampsia and Eclampsia
+---
+
+# Hypertensive Disorders in Pregnancy, Pre-eclampsia and Eclampsia
+
+- **Definitions and terminology:**
+    - <u>Gestational HTN</u> - new-onset HTN after 20 weeks w/ or w/o presence of proteinuria
+    - <u>Pre-eclampsia</u> - A condition in the second half of pregnancy (\> 20 weeks) related to the placenta, a potential dangerous complication (2.5-3% of pregnancies) characterised by HTN, proteinuria, and other systemic complications
+    - <u>Eclampsia</u> - end stage of the disease difined characteristically by generalised seizures
+- **Epidemiology:**
+    - Incidence - 3-7%
+    - Leading cause of maternal mortality - eclampsia, CVA
+    - Cause of perinatal mortality - e.g. preterm, intrauterine growth restriction (IUGR), placental abruption
+- **Classification of hypertensive disorders in pregnancy** - based on baseline BP (\< 20 weeks) and after BP:
+    - <u>Gestational</u> - gestational non-proteinuric HTN (new onset \> 20 weeks), gestational proteinuria, pre-eclampsia
+    - <u>Chronic</u> - chronic HTN (primary or secondary), chronic renal disease, chronic HTN with superimposed pre-eclampsia
+    - <u>Unclassified</u> - patient presents at \> 20 weeks
+- **Pathophysiology of pre-eclampsia** - inciting event may be 1) plancenteal, 2) maternal, or 3) mixed:
+    - **Placental pre-eclampsia** - placenta as culprit of pre-eclampsia:
+        - <u>Normal pregnancy with normal placenteation</u> - spiral artery from myometrium, which enters decidua and <u>dilates</u> to increase SA for material exchange
+        - <u>Poor placentation in pre-eclampsia</u> - failure of spiral artery to dilate within pre-eclampsia with ?toxins and oxidative stress, histologically characterised by lack of cytotrophoblastic invasions
+        - <u>Effects of poor placenteation</u> - poor remodeling of the uteroplacenteal circulation, resulting in placenteal hypoxia with local oxidative stress and release of trophoblast debris, **leakage of local inflammatory cytokines** results in a **systemic inflammatory response with endothelial dysfunction as a prominent component**:
+            - **Reduced systemic perfusion** - results in reduced systemic perfusion to essentially all organs, such as liver (AKI), liver (acute liver failure), stroke
+            - **Pro-thrombotic state and microthrombi formation** - results from increased thromboxane production, ocassionally resulting in bleeding diathesis in DIC or HELLP syndrome
+    - **Maternal pre-eclampsia** - abnormal maternal response to placenteation with local microvascular damage
+- **Predisposing factors of pre-eclampsia:**
+    - Primigravida
+    - Past obstetric Hx of pre-eclampsia
+    - Age - increased risk with age
+    - Pre-existing maternal disease - DM, LTN, renal disease, APLS
+    - Obstetric conditions - multiple pregnancy, hydatiform mole, hydrops
+- **Maternal complications of pre-eclampsia** - end organ damage resulting in death:
+    - <u>Renal</u> - acute kidney injury (1-5%)
+    - <u>Cardiopulmonary</u> - pulmonary oedema, long-term cardiovascular morbidity
+    - <u>Hepatic</u> - Acute liver failure (1%), haemorrhage, or HELLP syndrome
+    - <u>Neurological</u> - CVA, Eclampsia (\< 1%)
+    - <u>Haematological</u> - thrombocytopenia, disseminated intravascular coagulopathy
+- **Fetal complications of pre-eclampsia:**
+    - Preterm delivery (15-67%)
+    - Intrauterine growth restriction (10-25%)
+    - Placenteal abruption (1-4%)
+    - Perinatal death (1-2%)
+    - Hypoxia-induced neurological injury (\< 1%)
+    - Long term cardiovascular morbidity associated with low birth weight
+- **Clinical features of pre-eclampsia** - can be otherwise asymptomatic except for classical clinical triad of 1) new-onset HTN, 2) proteinuria, and 3) oedema:
+    - **Hypertension** - defined as new-onset HTN (\>= 140/90 mmHg on two separate occassionas 4h apart) after 20 weeks of gestation (non-hypertensive eclampsia is extremely rare)
+    - **Proteinuria** - as defined as dipstick 1+, where quantification reveals \>= 300 mg/d and rarely as severe as nephrotic range
+    - **Oedema** - fluid retention exacerbated by proteinuria, although <u>no longer part of diagnostic criteria</u>, remains of clinical importance especially **widespread severe oedema of sudden onset**
+    - **Other Sx of pre-eclampsia** - most are asymptomatic but <u>presence suggests severe hypertensive disorder</u>:
+        - <u>Headache</u> - frontal headache may be a manifestation of cerebral oedema w/ or w/o raised ICP
+        - <u>Visual disturbance</u> - ischaemic injury of the retina
+        - <u>RUQ or epigastric pain</u> - due to periportal fibrin deposition, resulting in hepatic sinusoidal obstruction, with distension of liver capsule and haemorrhage
+
+    
+    ![](~/Documents/notes/img/mild_vs_severe_hypertensive_disorder_of_pregnancy.png)
+- **Dx of pre-eclampsia** (NICE guideline 2019) - pre-eclampsia diagnosed if:
+    - New onset hypertension after 20 weeks
+    - Accompanied with \>=1 of the following new onset conditions:
+        - 1\. Proteinuria (\>= 300 mg/d)
+        - 2\. Maternal organ dysfunction:
+            - <u>Renal</u> - SCr \>= 90 mmol/L
+            - <u>Hepatic</u> - RUQ/ epigastric pain or raised serum transaminase
+            - <u>Neurological</u> - AMS, focal neurological S/S (vision, clonus, hemiparegia), eclampsia or severe headache
+            - <u>Haematological</u> - PLT \< 150 x 10<sup>9</sup>/L, DIC, microangiopathic haemolytic anaemia
+        - 3\. Evidence of uteroplacenteal dysfunction (e.g. stillbirth, IUGR)
+    - Atypical presentation:
+        - Eclampsia with normal BP (16%, and no proteinuria)
+        - Late post-partum eclampsia (as endotoxins persist within maternal circulation)
+- **Mx:**
+    - **Principles of Mx:**
+        - **Differentiation of hypertensive disorder** - compare BP readings before and after 20 weeks and perform dipstick to differentiate:
+            - <u>Chronic HTN</u> - reassess antihypertensive safety for pregnancy and r/o superimposed pre-eclampsia
+            - <u>Mild non-proteinuric gestational HTN</u> - continue monitoring maternal and fetal condition +/- addition of antihypertensive therapy (induction of labour before 40 weeks)
+            - <u>Pre-eclampsia</u> - admission w/ maintenance of fluid balance, prevention of eclampsia, and Mx of associated complications, and supportive care until delivery
+        - **Considerations for Mx of pre-eclampsia** - assess severity:
+            - <u>BP control</u> - maintain fluid balance, and BP control by medical therapy
+            - <u>Prevention of eclampsia</u> - MgSO4 only if symptomatic or if severe PET
+            - <u>Monitoring</u> - screening and Mx concomitent complications
+            - <u>Delivery</u> - delivery as definitive Tx but timing is a balance between severity of pre-eclampsia and risk of prematurity
+        - **Mx of eclampsia** - prevention and Mx of eclampsia pharmacologically
+    - **Mx of chronic HTN or mild non-proteinuric gestational HTN** - keep in mind BP falls slightly in second trimester:
+        - **Monitor for superimposed PET** - clinical and biochemical assessment to r/o superimposed PET:
+            - <u>Hx</u> - r/o Sx of pre-eclampsia (e.g. headache, epigastric pain, visual disturbance)
+            - <u>P/E</u> - raise suspicion if <u>sudden rise in BP</u>, <u>increased or development of proteinuria</u>, or evidence of <u>IUGR on sonography</u>
+            - <u>Ix</u> - routine bloods (CBC, LRFT, urate, clotting) to reveal multisystemic disorder
+        - **Anti-hypertensive therapy** - reassess weather current antihypertensive therapy appropriate for pregnancy (e.g. ACEi C/I in pregnancy):
+            - **Indications** - considered if \>= 150/100 mmHg
+            - **Clinical efficacy:**
+                - Reduced risk of severe HTN during pregnancy
+                - Does not affect risk of superimposed PET
+            - **Selection:**
+                - <u>Beta-blockers</u> - labetalol (beta and alpha blockade)
+                - <u>Vascular selective CCBs</u> - nifedipine MR
+                - <u>Alpha2-agonist</u> - methyldopa
+                - <u>Venodilators</u> - hydralazine
+            - **Antihypertensives contraindicated in pregnancy:**
+                - Propanolol (neonatal depression and IUGR)
+                - ACEi (fetal death and neonatal renal failure)
+        - **Prevention of pre-eclampsia** - ASA:
+            - <u>Indications</u> - those at risk of developing PET (see above)
+            - <u>Dosing and timing</u> - low dose ASA 75mg/d started before 16 weeks
+            - <u>Clinical efficacy</u> - Cochrane review 2007 reveals:
+                - Moderate reductions in relative risk of pre-eclampsia of birth before 34 weeks
+                - Reductions of risk of having pregnancy withs erious adverse outcomes
+    - **Mx of pre-eclampsia:**
+        - **Risk stratification:**
+            - <u>Mild pre-eclampsia</u> - conservative Mx with BP control, monitoring and Mx of associated complications, and avoid early delivery
+            - <u>Severe pre-eclampsia</u> - IV antihypertensives, steroid prophylaxis, and early delivery at 34 week
+
+      
+      ![](~/Documents/notes/img/principles_of_mx_of_pet.png)
+        - **Maternal and fetal assessment for all** - monitoring for maternal-fetal well being:
+            - <u>Maternal Mx</u>:
+                - Assess Sx
+                - Repeat BP
+                - Routine bloods (CBC, LRFT, urate, coagulopathy)
+                - Quantification of proteinuria (UPCR or 24h urine)
+                - Mx of any complications
+            - <u>Fetal Mx</u> - USG for growth, liquor volume, doppler studies, assess fetal movement, and cardiotocogram
+        - **BP lowering in severe pre-eclampsia** - IV antihypertensives:
+            - <u>Selection</u> - IV labetalol or hydralazine
+            - <u>BP target</u> - DBP 90-100 mmHg:
+                - Reduced risk of spontaneous ICH (raised risk \> 160/110 mmHg)
+                - Avoid sudden drop in BP resulting in uteroplacenteal and cerebral hypoperfusion
+        - **Steroid prophylaxis** - if severe eclampsia \< 34 weeks
+        - **Prevention of eclampsia** - Prophylactic MgSO4:
+            - <u>Indications</u> - clinically severe pre-eclampsia or imminent eclampsia
+            - <u>MOA</u> - anticonvulsants
+            - <u>S/E</u> - note extremely low therapeutic index:
+                - Respiratory depression
+                - Cardiac arrest
+    - **Mx of eclampsia** - rapid stabilisation (ABC) and MgSO4 as preferred anticonvulsant

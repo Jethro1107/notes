@@ -1,0 +1,262 @@
+---
+id: eb246375-8d54-4b30-815e-623bd690b1a2
+title: 2025-03-12
+---
+
+# GC194: Intestinal obstruction, colorectal cancer
+
+- **Classical clinical presentation** - variable presentation between different levels of obstruction:
+    - Abdominal pain
+    - Abdominal distension
+    - N/V
+    - Constipation
+- **Clinical approach:**
+    - Dynamic or adynamic obstruction - mechanical obstruction vs ileus? (use bowel sounds)
+    - Site of obstruction - SB vs LB
+    - Nature of obstruction (?complicated) - simple or strangulated
+    - Ix - based on suspected nature
+    - Mx - conservative vs surgical Tx
+- **IO:**
+    - Definitions:
+        - Mechanical obstruction - physical barrier to the aboral progress of intestinal contents
+        - Ileus - failure of peristalsis to propel the intestinal contents with no mechanical barrier
+
+## Paralytic Ileus
+
+- **Definition** - inadequate or absent peristalsis to propel intestinal contents secondary to neuromuscular failure in the <u>absence of mechanical obstruction</u>
+- **Etiology of paralytic ileus** - intra-abdominal vs extra-abdominal conditions:
+    - **Intra-abdominal conditions** - intra-peritoneal vs retro-peritoneal:
+        - <u>Intra-pertoneal</u>:
+            - Post-operative ileus
+            - Inflammatory or infective conditions - generalised peritonitis, intra-abdominal abscess, complication of IBD
+            - Intestinal ischaemia
+        - <u>Retroperitoneal</u>:
+            - Acute pancreatitis (rare complication)
+            - Retroperitoneal haematoma or infection
+            - Aortic, spinal, or urological operations
+    - **Extra-abdominal conditions** - metabolic, drug-induced or spinal injury:
+        - <u>Metabolic disturbances</u>:
+            - Electrolyte disturbances - e.g. hypoK, hyperCa
+            - Other metabolic disturbances - hypothyroidism, uraemia, lead poisoning, porphyria, sepsis
+        - <u>Drug-induced ileus</u> - opiates, anti-histamines, anticholinergics, catacholamines
+        - <u>Spinal cord injury</u> - traumatic, iatrogenic or others
+- **Clinical features of paralytic ileus:**
+    - **Clinical features a/w cause** - may dominate the clinical picture
+    - **Cardinal S/S of intestinal obstruction** - abdominal pain (<u>diffuse, constant, less severe</u>), abdominal distension, constipation, vomiting
+- **Signs of paralytic ileus:**
+    - <u>Bowel sounds</u> - sluggish or absent due to ileus
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>General measures</u> - NPO, IV fluid resuscitation, NG decompression
+        - <u>Daily monitoring</u> - daily assessment by P/E and abdominal X-Rays
+        - <u>Dx and Tx of underlying cause</u> - identify and treat the predisposing cause
+
+## Mechanical bowel obstruction
+
+- **Definition** - physical barrier to the aboral progress of intestinal contents
+- **Classification of mechanical bowel obstruction:**
+    - <u>By site</u> - small bowel obstruction vs large bowel obstruction
+    - <u>By completeness</u> - partial obstruction vs complete obstruction
+    - <u>By nature</u> - simple obstruction vs closed-loop obstruction
+    - <u>By presence of ischaemia</u> - strangulating obstruction vs non-strangulating obstruction
+- **Pathophysiology of mechanical bowel obstruction:**
+    - **Proximal bowel distension and distal collapse** - same pathophysiological mechanism irrespective of etiology and acuteness:
+        - <u>Proximal bowel distension</u> - due to accumulation of fluids (from hypersecretion and sequestration) and gas (from swallowed air and bacterial overgrowth)
+        - <u>Distal collapse</u> - as distal bowel exhibits normal peristalsis causing passage of bowel gas as flatus
+    - **Certain pathophysiological factors attributing to clinical presentation** - hypersecretion and sequestration, bacterial overgrowth, strangulation:
+        - <u>Hypersecretion of digestive glands and sequestration</u> - physiological response to obstruction that attributes to dehydration and electrolyte imbalance
+        - <u>Bacterial overgrowth</u> - considerable gas production attributing to rapid proximal distension
+        - <u>Strangulation</u> - signs of comprimised bowel supply that is life-threatening as it results in **ischaemia, necrosis and perforation**
+- **Clinical features of mechanical intestinal obstruction** - dependent on completeness, site, duration, and presence of strangulation:
+    - **Classical quartet of IO** - abdominal pain, abdominal distension, nasuea and vomiting, absolute constipation:
+        - **Abdominal pain** - sudden onset and severe colicky abdominal pain localised to periumbilical region (SB), or lower abdomen (LB) co-inciding with peristaltic activity and completely painless between attacks:
+            - <u>Site</u> - periumbilical, or lower umbilical, with progression to diffuses
+            - <u>Onset</u> - sudden
+            - <u>Progression</u> - initially colicky type pain that reduces if resolves, but can progress to constant pain if complicated
+            - <u>Severity</u> - typically extremely severe, writhing w/ pain
+        - **Nausea and vomiting** - severe vomiting that arises earlier with more proximal obstruction (e.g. high SBO)
+            - <u>Onset</u> - increasing interval between initial Sx (abdominal pain) and vomiting suggests more distal lesions
+            - <u>Nature of vomitus</u> - visible food progressing to faeculent material (enteric baterial overgrowth)
+        - **Abdominal distension** - dependent on site and nature of distension, increasing with more distal obstruction due to greater proximal bowel reservoir (closed-loop distensions may be minimally distended)
+        - **Absolute constipation** (obstipation) - neither passage of faeces nor flatus, which is a cardinal feature of complete IO, but does not apply in:
+            - Partial obstruction
+            - Gallstone ileus
+            - Richter's hernia
+            - Pseudo-obstruction
+            - Mesenteric vascular occlusion
+    - **Other manifestations** - dehydration, metabolic complications, pyrexia, and other complications:
+        - <u>Dehydration</u> - most commonly seen in protracted vomiting and fluid sequestration (esp. in high SBO)
+        - <u>Hypokalaemia</u> - not a common feature of simple mechanical obstruction, but typically arises from protracted vomiting resulting in dehydration and renal loss
+        - <u>Pyrexia</u> - indicate strangulation, intestinal perforation, or inflammation a/w obstructing disease
+        - <u>Abdominal tenderness</u> - indicates impending or established ischaemia
+        - <u>Bowel sounds</u> - typically hyperactive bowel initially, but may becomes absent in long-standing obstruction
+- **Salient points of Hx:**
+    - <u>HPI</u> - clinically suspected from sudden severe abdominal pain (the acute abdomen), vomiting, and constipation
+    - <u>PMH</u> - seek predisposing factors for bowel obstruction:
+        - Previous episodes of bowel obstruction
+        - Previous abdominal or pelvic surgery
+        - Previous abdominal or pelvic radiation
+        - Hx of abdominal inflammatory condition
+        - Hx of colorectal or abdominal malignancies
+- **P/E:**
+    - <u>General</u> - vital signs and hydration status
+    - <u>Abdominal examiantion</u>:
+        - Inspection - **surgical scars**, external hernias, **abdominal distension** (+/- visible peristalsis)
+        - Palpation - abdominal tenderness and **peritoneal signs** (esp. over RIF), abdominal masses
+        - Auscultation - **bowel sounds** hyperactive or absent
+- **Ix** - workup from presentation of the acute abdomen:
+    - **Routine bloods** - CBC, RFT (electrolytes), ABG, amylase, lactate:
+        - <u>CBC</u> - leukocytosis
+        - <u>RFT</u> - hydration status (Urea, Cr, eGFR, Na), and electrolyte abnormalities (hypoK, alkalosis vs acidosis)
+        - <u>ABG</u> - assessment of acid-base disturbance
+        - <u>Amylase</u> - bowel ischaemia
+        - <u>Lactate</u> - assessment of bowel ischaemia
+    - **Radiographs:**
+        - **Erect CXR** - r/o pneumoperitoneum w/ perforation
+        - **Supine and erect AXR** - diagnosis, assessment of site of obstruction, and complications (see details below)
+    - **Contrast CT scan** - for diagnosis, localisation, and detection of complications:
+        - Proximal dilatation and distal collapse - level of obstruction at transition point
+        - Lesions - tumour, FB
+        - Viability of bowel - IV contrast
+    - **Water soluble contrast studies** - diagnostic and potentially therapeutic:
+        - Indications - in selected adhesive SBO
+        - Diagnostic - distinguish between complete and incomplete IO
+        - Therapeutic - hypertonic solution reduces need for surgery (OR 0.62, p = 0.007) and shortens hospital stay
+- **Role of erect and supine AXR** - Dx and assessment of complications:
+    - **Findings compatible with SIO:**
+        - <u>Proximal dilatation and distal collapse</u> - dilation of proximal bowel segments (SB calibre \> 3cm) with paucity of gas in distal bowel (colonic gas presence excludes SBO)
+        - <u>Dilated bowel loops w/ air fluid levels</u> (erect fiew) - multiple air-fluid level and distended bowel loops are features of SBO
+        - <u>Gasless abdomen</u> - may mask severity of SBO due to presence of sequestered fluid
+    - **Findings compatible with LBO:**
+        - <u>Proximal dilatation and distal collapse</u> - dilatation of proximal colonic segments (Caecum \> 9cm, Colon \> 6cm) which is peripherally located and w/ haustras
+        - <u>Volvulus</u> - coffee bean sign
+    - **Findings related to strangulation:**
+        - <u>Thumbprinting sign</u> - non-specific sign of bowel wall thickening (oedema) at regular intervals (haustra) and appear is thumbprints projecting into the aerated lumen
+        - <u>Pneumonitis cystoides intestinalis</u> - gas in bowel wall suggestive of bowel necrosis
+        - <u>Pneumoperitoneum</u> - double wall sign, falciform ligant sign, football sign etc.
+
+    
+    ![](~/Documents/notes/img/thumbprinting_sign.png)
+- **Features suggestive of strangulation** - clinical, labs and radiological evidence:
+    - <u>Clinical factors</u> - increased abdominal pain and tenderness, blood in vomitus, fever
+    - <u>Laboratory factors</u> (features of inflammation) - leukocytosis, rising CRP
+    - <u>Radiological evidence</u> - thumbprinting, loss of mucosal pattern, gas within bowel wall or within intra-hepatic branches of portal veins
+- **Mx** - dependent on level of obstruction, etiology, and complications:
+    - **Principles of Mx** - not all IO requires surgical intervention:
+        - <u>Conservative Mx</u> - reserved for certain partial obstructions such as adhesive SBO, Crohn's disease, Radiation stricture, or disseminated malignant disease
+        - <u>Surgical Mx</u> - timing and approach dependent on underlying etiology
+    - **Indications for urgent surgery** - dependent on etiology and clinical features:
+        - <u>Features of complications</u> - suspected or proven strangulation, peritonitis, pneumoperitoneum, pneumatosis cystoides intestinalis
+        - <u>Etiology</u> - incarcerated, strangulating hernia, volvulus w/ peritoneal signs, closed loop obstruction
+- **Features of resolution** - consider surgical Tx if clinically unresolved:
+    - <u>Clinical</u> - subsiding distension, reduction of NG output, passage of flatus and BM
+    - <u>Radiological</u> - resolution in abdominal X Rays
+
+### Small bowel obstruction
+
+- **Definition** - mechanical bowel obstruction at the level of the small bowel
+- **Etiology of SBO** - most commonly caused by adhesions (74%):
+    - **Intraluminal** - foreign body, gallstone ileus, bezoars, worms
+    - **Intramural** - tumour (primary or secondary), strictures (Crohn's, radiation, anastamosis, drug-induced strictures), intussusception
+    - **Extramural** - adhesions, hernia, volvulus, intraperitoneal malignancy
+- **Clinical features of SBO** - varying clinical presentation between high SBO and low SBO
+- **Mx** - dependent on etiology (e.g. adhesive SBO vs others):
+    - **Principles of Mx:**
+        - <u>Conservative Mx</u> - indicated if adhesive SBO suspected
+        - <u>Water soluble contrast follow-through</u> - demonstrated efficacy for adhesive SBO in QMH
+        - <u>Surgical Mx</u>:
+            - Adhesive SBO - surgical Tx only if showing signs of strangulation (see above), or non-responsive to conservative Mx
+            - Other causes of SBO - surgical Tx indicated
+    - **Conservative Mx** - trial of conservative Mx for 3-5d if not C/I (duration is controversial):
+        - <u>Diet</u> - keep NPO to rest the bowel +/- parenteral nutritionl when prolonged fasting anticipated
+        - <u>Drip and suck approach</u>:
+            - **Drip** - fluid resuscitation via crystalloids (NS or lactate ringers) if clinically dehydrated (+/- correction of electrolyte abnormalities)
+            - **Suck** - insertion of Ryle's tube for decompression to reduce vomiting and limit proximal decompression (and monitoring of drain output)
+        - <u>Monitoring</u> - monitoring of vital signs, abdominal exam, abdominal X-ray for resolution or complication
+    - **Water-soluble contrast follow-through** - indicated for selected <u>adhesive SBO</u> (studies not performed for other etiology):
+        - <u>Selection of water-soluble contrast</u> - Gastrografin
+        - <u>Indications</u> - adhesive SBO with no features of strangulation
+        - <u>MOA</u> - Hyperosmolarity of gastrografin reduces bowel edema and stimulates peristalsis, encouraging resolution of obstruction
+        - <u>Diagnostic role</u> - differentiation between partial and complete obstruction
+        - <u>Clinical efficacy</u> - reduced operating rates, shorten hospital stay
+    - **Surgical Mx** - dependent on etiology:
+        - <u>Adhesive SBO</u> - enterolysis
+        - <u>Hernia</u> - hernia repair
+        - <u>Intraluminal SBO</u> (FB, Bezoars, gallstone ileus) - enterotomy and removal
+        - <u>Bowel strangulation</u> - bowel resection if gangrenous bowel
+- **Prognosis of SBO:**
+    - <u>Non-strangulating obstruction</u> - 2% mortality
+    - <u>Strangulation obstruction</u> - 30% mortality
+
+### Large Bowel Obstruction
+
+- **Definition** - intestinal obstruction distal to the IC valve
+- **Epidemiology** - accounts for 15% of IOs
+- **Clinical features of LBO** - dependent on competence of IC valve:
+- **Etiology of LBO:**
+    - **Mechanical obstruction:**
+        - <u>Intraluminal</u> - faecal impaction
+        - <u>Mural</u> - **obstructing colorectal carcinoma**, volvulus, strictures (diverticulitis, radiation, anastamotic, endometriotic)
+        - <u>Extramural</u> - metastasis, pelvic/ extraperitoneal tumours
+    - **Functional** - ileus, pseudo-obstruction
+- **Clinical features of LBO:**
+- **Ix and Dx evaluation:**
+    - **Routine bloods** - same rationale as above
+    - **Abdominal X-Ray** - diagnosis and localisation of obstruction, assessment of competency of IC valve:
+        - <u>Findings suggestive of LBO</u>:
+    - <u>Water soluble and IV Contrast CT abdomen</u> - precise localisation of obstruction, assess etiology of obstruction, and provide clues regarding bowel status (ischaemia, impending perforation)
+    - <u>Flexible colonoscopy</u> - enables Bx of lesion and potential therapeutic procedures
+- **Mx:**
+    - **Principles of Mx** - dependent on on etiology, site of obstruction, suspicion of strangulation, and patient factors:
+        - **Mx dependent on etiology:**
+            - <u>Malignant obstruction</u> - surgical (+/- prior endoscopic) Tx dependent on site of obstruction (see below)
+            - <u>Sigmoid volvulus</u> - endoscopic decompression with placement of rectal tube to point of torsion (Hartmann procedure if unsuccessful)
+        - **Timing of surgery** - urgent surgery if peritonitis, signs of perforation or strangulation
+    - **Role of endoscopy Tx in LBO:**
+        - <u>Sigmoid volvolus</u> - endoscopic decompression (50% recurrence rate)
+        - <u>Malignancy</u> - endoscopic stenting (see below)
+    - **Endoscopic Mx of obstructive CRC:**
+        - <u>MOA</u> - insertion of metallic stent w/ self expanding mechanism deployed under endoscopic guidance
+        - <u>Role</u>:
+            - **As bridge to surgery** - avoids emergency surgery:
+                - More time to stage the disease
+                - Elective operation w/ bowel preparation
+                - Lower operative mortality and morbidity (including reduced stoma rate)
+            - **As definitive palliation for unresectable disease** - avoids operation and stoma creation
+    - **Surgical Mx of obstructive CRC:**
+        - **Choice of operations for obstructive CRC:**
+            - <u>Resection with margins</u> - resection w/ primary anastamosis or w/o anastamosis
+            - <u>Non-resection</u> - proximal stoma or bypass surgery
+        - **Considerations for selection of procedure:**
+            - <u>Patient factors</u> (risk of anastamotic leaks) - general condition and co-morbidities, haemodynamic status, conditions of remaining bowel
+            - <u>Tumour factors</u> - site of lesion (see below), local extent (e.g. invasion to adjacent structures), perforation
+            - <u>Surgeon factor</u> - esperience in emergency bowel resection and anastamosis
+        - **Selection of operations based on site of lesion:**
+            - **Sigmoid or left-sided CRC:**
+                - <u>N.B.</u> - left-sided CRC can be treated initially with endoscopic stenting if uncomplicated (e.g. no suspected peritonitis, strangulation or perforation) or initial surgery
+                - <u>Factors to consider</u> - competency of IC valve, bacterial and faecal load in proximal colon, viability of proximal bowel, patient factors (comorbidities and haemodynamic status)
+                - <u>Surgical options</u>:
+                    - **Single-stage operation** - segmental resection or subtotal colostomy (dependent on bowel viability) and primary anastamosis +/- temporary diverting stoma
+                    - **Two-stage operation** (<u>Hartmann's proceure</u>) - segmental resection with end-colostomy and closure of the rectal stump
+                    - **Three-stage operation** (rare) - transverse colostomy, resection and anastamosis, closure of colostomy
+            - **Right-sided CRC:**
+                - <u>Considerations</u> - risk for anastamotic risk
+                - <u>Surgical options</u>:
+                    - Right hemicolectomy or extended right hemicolectomy with primary anastamosis or diverting stoma
+                    - Bypass surgery
+            - **Rectal cancer** - diverting stoma before staging assessment, neoadjuvant treatment, and definitive surgery
+- **Prognosis of colonic obstruction** - higher mortality than SBO:
+    - <u>Mortality</u> - \> 10% (dependeing on comorbidity)
+
+## Ogilvie's syndrome
+
+- **Definition** - massive colonic dilatation in the absence of mechanical obstruction
+- **Demographic** - a/w bed-ridden patients w/ severe extracolonic disease or trauma
+- **Clinical features** - painless distended abdomen
+- **Ix and Dx evaluation** - Dx by exclusion (i.e. exclusion of mechanical LBO):
+    - **Abdominal X Ray** - severe gaseous dilatation of colon with no distal collapse (absence of paucity of gas in the rectum)
+- **Mx:**
+    - <u>General measures</u> - NG feeding and enemas
+    - <u>Pharmacological therapy</u> - neostigmine
+    - <u>Endoscopic therapy</u> - colonoscopic or rectal tube decompression
+    - <u>Surgical Tx</u> - caecostomy

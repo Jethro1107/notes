@@ -1,0 +1,258 @@
+---
+id: a5e61e74-03c5-4cef-a19f-14b87847e839
+title: Graves' Disease
+---
+
+# Graves' Disease
+
+- **Definition** - autoimmune thyroid disease characterised by clinical triad of thyrotoxicosis (irrespective of presence of goitre), Graves' opthalmopathy, and pretibial myxoedema
+- **Epidemiology** - most common cause of thyrotoxicosis:
+    - <u>Demographic</u>:
+        - Age - can occur at any age, but most common in F affecting 30-50y (occurence before puberty is unusual)
+        - Sex - Female preponderence (F:M 4.8:1)
+- **Often associated with certain autoimmune disorders:**
+    - Myasthesia gravis
+    - T1DM
+- **Pathophysiology of Graves' disease:**
+    - **Autoimmune disorder w/ genetic predisposition** - hypothetical model of disease onset as a result of <u>environmental trigger</u> in a <u>genetically predisposed individual</u>:
+        - <u>Genetic factor</u> - 50% concordance rate in monozygotic twins but only 5% concordance rate in dizygotic twins; GWAS identifies polymorphism in T-cell related genes (e.g. MHC, CTLA4, PTPN22, FCRL3), and the TSH receptor gene (TSHR1)
+        - <u>Environmental trigger</u>:
+            - Viral or bacterial infection - particular some gut organisms express TSH receptors and immune responses against such Ag may **cross react w/ TSH receptor in follicular cells**
+            - Iodine supplementation - may precipitate thyrotoxicosis such that **subclinical Graves' disease** will manifest as frank thyrotoxicosis
+            - Smoking - strong associations w/ **developement of GO**
+    - **IgG Ab against TSH receptors on thyroid follicular cells** - termed TSH receptor Ab (TRAb), and are usually stimulatory in nature (blocking in 5-20%):
+        - <u>Proliferative signal on folicular cels</u> - binding of TRAb onto TSH receptors results in proliferation of follicular cells, leading to **goitre**
+        - <u>Stimulation of T3/4 synthesis and secretion</u> - hence level of circulating TRAb corresponds to the degree of **thyrotoxicosis**
+    - **Development of thyrotoxicosis** - increased synthesis and secretion of T3/4 correlating to level of circulating stimulatory TRAb: 
+    ![](../img/natural_hx_of_graves_disease.png)
+    - **Development of Graves' opthalmopathy** - likely immunologically mediated but autoAg is not identified:
+        - <u>Peri-orbital inflammation</u> - accumulation of interstitial fluid, chronic inflammatory infiltrates in the peri-orbital region, and affecting the extra-occular muscles
+        - <u>Cytokine-mediated fibroblast activation</u> - increased proliferation of fibroblast which mediate inflammation and the fibrosing process
+        - <u>Extra-occular muscle involvement</u> - marked swelling and subsequent fibrosis of EOM affecting their movement, manifesting as **opthalmoplegia and diplopia**
+        - <u>Retro-bulbar involvement</u> - build up in retrobulbar pressurea ccounts for **extraopthalmos**, and in severe cases, **compresive optic neuropathy**
+    - **Development of pretibial myxoedema** - similar pathophysiology as in the orbit resulting in raised pink-cloured purplish plaques on the anterior aspect of the leg
+- **Clinical manifestations of Graves' disease:**
+    - **Features of hyperthyroidism and thyrotoxicosis** - variable cliinical presentation depending on 1) severity, 2) duration, 3) susceptibility to thyrotoxicosis, and 4) age:
+        - **Weight loss despite increased appetite** - decrease in weight despite subjective sensation of increased in appetite due to an increased metabolic rate:
+            - <u>Apathetic thyrotoxicosis</u> (common in elderly) - non-specific presentation w/ fatigue and weight loss +/- other features of fatiguability such as insomnia and impaired concentrations, while other S/S of thyrotoxicosis is masked (often indistinguishible from **depression** or **underlying malignancy**)
+            - <u>Weight gain</u> (5%) - as a result of increased food intake out-pacing the increased metabolic rate
+        - **Neurological manifestations:**
+            - <u>Irritability</u> - often prominant **hyperactivity**, **nervousness**, **uneasiness**, **dysphoria**, where the heightened state of alertness ultimately leads to a **sense of fatiguability** (insomnia and impaired concentration follows, N.B. apathetic thyrotoxicosis)
+            - <u>Tremors</u> - fine postural tremors increasing w/ motion (kinetic tremor) best elicit by having patients stretch out fingers while feeling the finger tips w/ palms
+            - <u>Proximal myopathy</u> - associated w/ muscle wasting but absence of fasciculations (and paradoxical hyperrefleixia \[i.e. non-LMN pattern\])
+            - <u>Chorea</u> - rare manifestation resulting in involuntary movements of the limbs
+            - <u>Hypokalaemic periodic paralysis</u> - particularly in oriental men w/ thyrotoxicosis (see below)
+        - **Cardiovascular manifestations:**
+            - <u>Palpitations</u> - as a result of 1) **sinus tachycardia**, 2) **supraventricular tachycardia**, 3) **atrial fibrillation** (see below)
+            - <u>Atrial fibrillation</u> - common in those \> 50y, but usually sinus rhythm restored in 75% patients w/o underlying heart disease
+            - <u>Other cardiovascular manifestations</u> - dependent on underlying cardiac disease:
+                - Worsening angina - due to increased myocardial demand in a patient w/ underlying CCS
+                - Worsening heart failure - due to high output state
+        - **Cutaneous manifestations:**
+            - <u>Heat intolerance</u> - intolerant to heart particularly during warm weather
+            - <u>Sweating</u> - often a prominent complaint a/w heat intolerance, particularly over the arms
+            - <u>Alopecia</u> - hair thinning and diffuse alopecia can occur in 40% of patients w/ long-standing hyperthyroidism, and may not completely resolve after restoration of euthyroidism
+        - **Gastrointestinal manifestations** - due to decreased transit time, resulting in:
+            - Increased stool frequency
+            - Diarrhoea
+            - Mild stearrhoea
+        - **Other endocrine manifestations:**
+            - <u>Bone resorption and osteopenia</u> - osteopenia only ensues w/ long-standing thyrotoxicosis and is a/w increased fracture risk, while hypercalciuria and mild hypercalcaemia (20%) is more common
+            - <u>Amenorrhoea and decreased libo</u> - likely caused by alterations of SHBG
+    - **Clinical features of Graves' opthalmopathy** - usual <u>onset 1y before or after thyrotoxicosis</u>, can occur in the absence of thyrotoxicosis in 10%, i.e. Thyroid eye disease (TED):
+        - <u>Features due to prolonged corneal exposure</u> - sensation of grittiness, excess tearing, periorbital edema, scleral injection, chemosis
+        - <u>Diplopia</u> - due to muscle swelling, typically worse when looking upward and laterally (superior and lateral rectus)
+        - <u>Compressive optic neuropathy</u> - due to retro-orbital swelling, leading to papilledema, peripheral field defects and permanent visual loss
+    - **Clinical features of thyroid dermopathy** (\< 5%) - almost always occurs in the presence of moderate-to-severe GO:
+        - <u>Pretibial myxoedema</u> - non-inflamed indurated plaque w/ deep pink or purple colour and orange skin appearance over the anterior shin (but can occur in other sites of trauma)
+        - <u>Thyroid acropachy</u> (\< 1%) - clubbing in the presence of Graves' disease, but so strongly associated w/ thyroid dermopathy that absence of skin or orbital involvement should raise suspicion of other cause of clubbing
+
+    
+    ![](../img/thyroid_dermopathy.png)
+- **Signs of Graves' disease** - reflects thyrotoxicosis and GO
+    - <u>Examination of the thyroid gland</u> - diffuse goitre with thyroid bruits
+    - <u>Examination of the eyes</u> - exophthalmos, diplopia, corneal/ conjunctival involvement, optic atrophy on fundoscopy, thyroid eye signs
+    - <u>Systems review</u> - CVS, and neurological signs of hyperthyroidism
+- **Natural Hx and clinical course of Graves' disease:** 
+![](../img/clinical_course_of_graves_disease.png)
+    - **Clinical course of Graves' hyperthyroidism:**
+        - <u>Spontaneous relapse and remission</u> - for those w/ mild Graves' disease, spontaneous relapse and remission may occur
+        - <u>Progressive disease</u> (most common) - generally worsening of thyroid status w/o Tx (10-30% mortality)
+        - <u>Alternating thyroid status</u> - rarely fluctuations of hypothyroidism and hyperthyroidism due to changes in functional activity of TSH-R Ab
+        - <u>Spontaneous hypothyroidism after remission</u> (15%) - hypothyroidism 10-15y after remisison due to onset of new destructive autoimmune process
+    - **Clinical course of Graves' opthalmopathy** (<u>Rundle's curve</u>) - does not follow that of thyroid disease although thyroid dysfunction can worsen eye signs:
+        - <u>Initial worsening of opthalmopathy</u> (initial 3-6 mo) - usually worsening eye Sx w/o Tx, and can be a rapid fulminant course (5%) if there is optic nerve compression and corneal ulcerations
+        - <u>Plateau phase</u> (susbequent 12-18 mo) - phase of disease in-activity or mild disease activity, but diplopia may occur late w/ fibrosis
+        - <u>Spontaneous improvement</u> - some subjective improvement attributable to soft tissue changes
+
+    
+    ![](../img/rundles_curve_illustration.png)
+    - **Clinical course of thyroid dermopathy** - appears 1-2y afater development ofo Graves' hyperthyroidism, often concurrently w/ moderate-to-severe GO
+- **Ix:**
+    - **TFT** - most will have suppressed TSH, and increased total and free T4/3:
+        - <u>TSH</u> - invariably suppressed (u.d. \< 0.01 mIU/L)
+        - <u>T4/T3</u> - normally total and free T4/3 elevated:
+            - T3 toxicosis (2-5%) - T4 normal but fT3 elevated (common in regions of borderline iodine intake)
+            - T4 toxicosis - fT4 elevated but T3 normal (due to iodine excess, i.e. Jod Basedow effect)
+    - **TRAb** - +ve; supportive of Dx
+    - **Other thyroid Ab** (Anti-TPO, Anti-TG) - positivity only supports autoimmune thyroid disease
+    - **Other Ix:**
+        - <u>Radioactive iodine scan</u> - used to exclude other causes of thyrotoxicosis (see below)
+        - <u>Doppler USG</u> - able to differentiate between causes of thyrotoxicosis w/o radioactivity (see below
+    - **Other laboratory features:**
+        - <u>CBC</u> - microcytic anaemia and thrombocytopenia
+        - <u>LFT</u> - elevated bilirubin, liver enzymes
+        - <u>Iron profile</u> - raised ferritin
+- **Doppler USG thyroid** - differentiating between hyperthyroidism, and thyrotoxicosis w/o hypothyroidism (e.g. destructive thyroiditis):
+    - <u>Hyperthyroidism</u> - e.g. Graves' disease, TMG, a/w **increased blood flow**
+    - <u>Thyrotoxicosis w/o hyperthyroidism</u> - e.g. destructive thyroiditis, factitious thyrotoxicosis, a/w **decrease in blood flow**
+- **Radioactive iodine scan:**
+    - <u>Reduced uptake</u> - suggestive of thyrotoxicosis w/o hyperthyroidism, i.e. destructive thyroditis, factitious thyrotoxicosis
+    - <u>Diffuse uptake</u> - suggestive of Graves' disease
+    - <u>Focal uptake w/ reduced uptake</u> - toxic adenoma or toxic MNG
+    - <u>Ectopic uptake</u> - ectopic thyroid tissue
+- **Dx** - clinical on compatible Hx, P/E, and TFT
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Mx by disease components</u> - considerations for the components of the Graves' triad, noting that presence of one component may influence the choice of therapy for another component (N.B. presence of active GO limits use of RAI)
+        - <u>Mx of disturbing Sx and disease complications</u> - e.g. beta-blockade for Sx relief, anticoagulation for those w/ atrial fibrillation
+    - **Approach to selecting Tx modalities in Graves' hyperthyroidism:**
+        - <u>Anti-thyroid medications</u> - empirical Tx for younger patients (\< 40y), or when surgery or RAI is absolutely contraindicated, but a/w **high relapse rate**
+        - <u>Surgery</u> - option if goitre causes compressive effects, or as second line therapy for recurrence after failed antithyroid drugs in young patients
+        - <u>RAI</u> - durable treatment for Graves' disease but w/ known risks of hypothyroidism, exacerbation of GO, and fear of secondary malignancy
+
+    
+    ![](../img/comparison_of_tx_for_thyrotoxicosis_in_graves_disease.png)
+    - **Disease components of Graves' disease and their approach to Mx:**
+        - <u>Graves' hyperthyroidism</u> - 1) antithyroid medications, 2) radioactive iodine, 3) thyroidectomy
+        - <u>Graves' opthalmopathy</u> - 1) general measures, 2) selenium, 3) immunosuppression and other biologics
+        - <u>Thyroid dermopathy</u> - 1) topical steroids, 2) teprotumumab in selected cases
+    - **Approach to selecting Tx modalities in Graves' hyperthyroidism:**
+        - <u>Anti-thyroid medications</u> - empirical Tx for younger patients (\< 40y), or when surgery or RAI is absolutely contraindicated, but a/w **high relapse rate**
+        - <u>Surgery</u> - option if goitre causes compressive effects, or as second line therapy for recurrence after failed antithyroid drugs in young patients
+        - <u>RAI</u> - durable treatment for Graves' disease but w/ known risks of hypothyroidism, exacerbation of GO, and fear of secondary malignancy
+
+    
+    ![](../img/comparison_of_tx_for_thyrotoxicosis_in_graves_disease.png)
+    - **Antithyroid drugs** (thionamides) - generally considered 1st-line therapy in most centres (NA practices RAI as first line):
+        - **Selection:**
+            - Propylthiouracil
+            - Carbimazole (pro-drug) and methimazole (active metabolite)
+        - **MOA:**
+            - <u>Inhibition of TPO</u> - reduces oxidation and organification of iodide
+            - <u>Inhibition of autoimmunity</u> - reflected reduced circulating TRAb levels although mechanism unclear
+            - <u>Inhibition of peripheral conversion of T4 to T3</u> - only **propylthiouracil**, although benefits is limited except in severe thyrotoxicosis and thyroid storm
+        - **Principles of dosing** - tapering regimen:
+            - Higher initial doses with divided dosing in the initial stage of the disease
+            - Progressive tapering of ATD w/ once-daily dosing as thyrotoxicosis improves
+            - Preferred to minimize the dose of ATD and provide an index of Tx response
+        - **Propiouracil:**
+            - <u>Pharmacokinetics</u> - short-half life (90 min)
+            - <u>Indications</u> - FDA limit indications for:
+                - First trimester of pregnancy
+                - Thyroid storm
+                - Minor adverse reactions to methimazole
+            - <u>Dosing</u> - depending on scenario:
+                - Initial and maintenance threapy - 100-200 mg q6-8h titrated down to 50-100 mg/d
+                - Thyroid storm - 500-1000 mg loading dose + 250 mg q4h
+            - <u>Major S/E</u> - hepatotoxicity
+            - <u>Monitoring</u> - routine LFTs
+        - **Carbimazole and methimazole:**
+            - <u>Pharmacokinetics</u> - substantially longer half-life than PTU (6h)
+            - <u>Indications</u> - usually 1st-line
+            - <u>Dosing</u> - initial 10-20 mg q12h followed by 2.5-10 mg o.d maintenance
+            - <u>Majore S/E</u>:
+                - Agranulocytosis
+                - Teratogenicity (hence not used in 1st-trimester of pregnancy)
+            - <u>Caution</u> - written instructions
+        - **Clinical efficacy:**
+            - <u>Remission rates</u> - 30-60% achieved by 12-18 mo for titration regimen
+            - <u>Factors a/w higher rates of relapse</u>:
+                - Geographical variation (unknown)
+                - TRAb persistance
+                - Younger patients
+                - Male
+                - Smokers
+                - Hx of allergy
+                - Severe hyperthyroidism
+                - Large goitre
+        - **Approach to brittle T4 and TSH control** - T4/TSH may fluctuate between thyrotoxicosis and hypothyroidism; consider:
+            - Drug compliance
+            - Block and replace regime - CMZ 30-40 mg/d + levothyroxine 100-150 microgram/d
+        - **S/E:**
+            - **Minor S/E:**
+                - <u>Rash</u> (5%) - urticarial, pruritic rash, responds to anti-histamines
+                - <u>Arthralgia</u> (1-5%) - non-specific rash may resolve w/ substitution of another ATD
+            - **Major S/E** - should stop and not restart ever again:
+                - <u>Hepatotoxicity</u> - hepatitis w/ PTU (avoid in children), cholestasis w/ CMX or MMX
+                - <u>Agranulocytosis</u> (\< 1%) - life-threatening S/E, often idiosyncratic and abrupt w/ no role of routine monitoring:
+                    - Written instruction regarding S/S of possible agranulocytosis (e.g. sore throat, fever, ulcers)
+                    - Immediate presentation and CBC to confirm agranulocytosis
+                - <u>Vasculitis</u> - ANCA-associated vasculitis
+    - **Adjunctive therapies:**
+        - **Propanolol:**
+            - <u>Indications</u>:
+                - Sx relief especially in early stages before ATD takes effect
+                - Thyrotoxic periodic paralysis pending correction of thyrotoxicosis
+            - <u>MOA</u>:
+                - Non-specific inhibition of beta-adrenergic drive
+                - Inhibition of peripheral conversion of T4 to T3 (cf other BBs)
+            - <u>Dosing</u> - PO 20-40 mg q6h
+        - **Anticoagulation** - shared decision w/ patients and cardiologists using risk scores
+    - **Radioiodine therapy** (RAI):
+        - <u>Indications</u>:
+            - As initial Tx in selected cases
+            - Relapse after a trial of ATD
+        - <u>MOA</u>:
+            - Progressive destruction of thyroid follicles
+            - Long-lasting inhibitory effect on proliferation of follicular cells
+        - <u>Procedures</u>:
+            - Pre-treatment of ATD +/- beta-blockers for all paients for \>= 1 mo to render patient symptom free and euthyroid
+            - Cessation of carbimazole or methimazole 2-3d prior to scheduled RAI to ensure optimum iodine uptake (PPU have more prolnged radioprotective effects and should be stopped for longer)
+            - Administration of RAI as a single dose
+            - Consider resarting ATD for those at risk for complications from worsening thyrotoxicosis
+        - <u>Dosing</u> - 10-15 mCi (370-555 MBq):
+            - Theoretical optimal dose aimed at 1) achieving euthyroidism, 2) prevention of relapse, and 3) prevent progression to hypothyroidism, but has not been discovered
+            - Fixed dose based on set of clinical features including:
+                - 1\. Severity of thyrotoxicosis
+                - 2\. Size of goiter (larger goiter requires higher dosage)
+                - 3\. Radioiodine uptake (higher update decreases dosage needed)
+            - Repeat dose if thyrotoxicosis after 6mo
+        - <u>Safety precautions after radiodine Tx</u>:
+            - Early period - avoid close, prolonged contact with children and pregnant women for 5-7d to prevent transmission of residual isotope and exposure to radiation from the gland
+            - Prolonged period - pregnancy and breast-feeding absolutely contraindicated for 6mo
+        - <u>C/I</u>:
+            - Pregnancy or breast-feeding
+            - Active GO
+        - <u>S/E</u>:
+            - **Hypothyroidism** - 40% within 1y and 80% within 15y
+            - **Exacerbation of GO** - hence C/I in active GO, esp. in smokers
+            - **Theoretical increased risk of thyroid or GI malignancies** - inconsistent obesrvational data and experience from Chernobyl incidence suggests that younger patients are more Sn to radiation-induced thyroid cancer (age is a relative C/I)
+        - <u>Adjunctive therapy</u>:
+            - Prednisone 0.2-0.5 mg/kg/d (6 weeks taper course) if mild-active or burnt out GO
+            - ATD and beta-blockers restarted 5-7d after radioiodine if persistent Sx or at risk for cardiac complications
+    - **Thyroidectomy** - total or near-total thyroidectomy preferred over subtotal thyroidectomy:
+        - <u>Soft indications for thyroidectomy</u>:
+            - Large goitre w/ compressive Sx
+            - Young individuals
+        - <u>Pre-operative Mx</u> - render patient euthyroid and reduce vascularity of thyroid pre-operative to minimise risk of thyroid storm:
+            - ATD until euthyroid
+            - SSKI 1-2 drops PO tid for 10d prior to surgery
+        - <u>C/I</u> - dependence on voice
+        - <u>Complications</u>:
+            - **Immediate:**
+                - Neck haematoma (1%) - causes compression below strap muscles, resulting in venous congestion and subsequently laryngeal oedema
+                - Recurrent laryngeal nerve injury (1%) - transient (tractional injury) or permanent (transection):
+                    - Unilateral - results in hoarseness
+                    - Bilateral - results in upper airway obstruction (dyspnoea and stridor requiring immediate tracheostomy)
+                - Other nerve injuries:
+                    - Superior laryngeal nerve - weakness of voice due to weakness of cricothyroid
+                    - Vagus nerve - can also lead to vocal nerve palsy
+                - Thyroid storm - due to release of stored thyroid hormone during manipulation
+            - **Early:**
+                - Transient hypocalcaemia (10%) - due to temporary injury of the parathyroid glands
+                - Infections
+            - **Late:**
+                - Hypothyroidism - 100% in near-total thyroidectomy, 25% in subtotal thyroidectomy
+                - Permanent hypoparathyroidism (1%) - due to destruction/ removal of the parathyroid glands
+                - Recurrence of thyrotoxicosis - in subtotal thyroidectomy

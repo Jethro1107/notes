@@ -1,0 +1,48 @@
+---
+id: 09f1231e-c0b3-4639-9595-8087a24178fb
+title: Sodium Depletion and ECF Contraction
+---
+
+# Sodium Depletion and ECF Contraction
+
+- **Definition** - inadequate total body sodium arising from pathological losses of Na-containing fluid, or inadequate replacement of lost salt
+- **Etiology of Na and water depletion** - other than acute haemorrhage:
+  - <u>Inadequate intake</u> - environmental deprivation, inadequate therapeutic replacement
+  - <u>Gastrointestinal Na loss</u> - vomiting, diarrhoea, NG suction, external fistula
+  - <u>Skin Na loss</u> - excessive sweating, burns
+  - <u>Renal Na loss</u> - diuretic therapy, mineralcorticoid deficiency, salt-losing nephropathy (tubulointerstitial disease)
+  - <u>Internal sequestration</u> - peritonitis, pancreatitis, bowel obstruction, crush injuries
+
+  
+  ![](../img/causes_of_na_and_water_depletion.png)
+- **Clinical features of Na and water depletion:**
+  - Thirst (not appreciable in elderlies)
+  - Dizziness on standing (postural hypotension)
+  - Weakness
+- **Signs of hypovolaemia:**
+  - <u>BP/P</u> - tachycardia, postural hypotension, supine hypotension
+  - <u>Hydration status</u> - dry mouth, reduced skin turgor, reduced urine output, weight loss
+  - <u>JVP</u> - low JVP
+  - <u>Consciousness</u> - confusion, stupor
+- **Laboratory features of Na and water depletion** - normal laboratory features in early stage:
+  - **Routine bloods** - RFT (U/E):
+    - <u>Na</u> - **normonatraemia**, unless in-appropriate neurohormonal compensation
+    - <u>SCr</u> - **normal Cr** during the early stages of hypovolaemia as GFR is maintained and urinary flow rate decreased as a consequence of Na and water retaining mechanisms (elevated as AKI ensues)
+    - <u>Urea</u> - **earlier elevated** (pre-renal azotemia) as urea influenced by GFR and urine flow rates (i.e. increased urea reabsorption at slow urine flow rates)
+    - <u>Uric acid</u> - slightly elevated due to compensatory increased proximal tubular reabsorption
+  - **Urinalysis:**
+    - <u>Urine osmolality</u> - increased with avid retention of Na and water
+    - <u>Urine Na concentration</u> - decreased (Na excretion fall to \< 0.1% of filtered Na load)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Tx underlying cause</u> - stop ongoing salt and water loss
+    - <u>IV fluid replacement</u> - replace salt and water deficits and provide ongoing maintenance requirements
+  - **IV fluid therapy:**
+    - **Maintenance water and electrolyte requirements** - provide maintence quantity if absence of normal oral intake: 
+    ![](../img/davidson_maintenance_water_and_electrolyte_requirements.png)
+    - **Selection of fluid therapy** - principally, administration of fluid w/o Na or protein will cause physiological distribution (see notes on physiological water distribution), and is <u>insufficient in intravascular volume expansion</u>:
+      - <u>NS solution</u> - more effective expansion ECF, but only minority of infused volume (some 1/5) will contribute to plasma volume
+      - <u>Colloids</u> - theoretically most effective in expansion of plasma volume, but clinical studies shown not to improve mortality compared to cheaper alternatives: 
+      ![](../img/evidence_for_albumin_infusion_in_hypovolaemia.png)
+    - **Assessment of fluid and electrolyte balance:** 
+    ![](../img/davidson_assessment_of_fluid_balance.png)

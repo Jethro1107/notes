@@ -1,0 +1,17 @@
+---
+id: 8bf14d5c-bec7-4c03-a7fa-5f80932aeab2
+title: Functional Incontinence
+---
+
+# Functional Incontinence
+
+- **Definition** - involuntary leakage of urine despite normal lower urinary tract simply due to inability of getting to toilet
+- **Epidemiology** - common cause of incontinence in the elderly
+- **Causes** - multifactorial:
+    - Cognitive impairment - Dementia/ delirium
+    - Restricted mobility
+    - Lack of carer
+
+  
+  ![](~/Documents/notes/img/causes_of_transient_urinary_incontinence.png)
+- **Dx** - diagnosis by exclusion (note other types of incontinence may be present in a functionally limited individual)

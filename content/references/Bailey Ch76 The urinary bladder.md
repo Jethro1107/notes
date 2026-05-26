@@ -1,0 +1,188 @@
+---
+id: 636737b5-8804-43f8-84c1-4c622616f2ef
+title: Bailey Ch76 The urinary bladder
+---
+
+# Anatomy of the Bladder
+
+# Function of the bladder
+
+# Congenital defects of the bladder
+
+# Bladder trauma
+
+# Retention of urine
+
+# Definitions and terminology
+
+- Urinary retention - retention of urine within the urinary bladder causing inability to voluntary pass urine
+    - Acute retention of urine (AUOR) - sudden onset and painful
+    - Chronic retention of urine (CUOR) - gradual process and painless
+
+# Acute urinary retention
+
+- **Definition** - sudden inability to voluntarily pass urine
+- **Epidemiology:**
+    - Demographic - M \>\>\> F, incidence increases w/ age
+    - Incidence in M - 7/1000/y, 10% in \> 70y and 30% in \> 80y in a 5y period, 3% lifetime risk
+    - Incidence in F - 3/100,000/y, rarely caused by BOO
+- **Clinical features** - acute in onset:
+    - No urine passed for several hours
+    - Lower abdominal pain/ suprapubic discomfort
+    - Evidence of neurological cause
+- **Signs of acute urinary retention:**
+    - Distended urinary bladder - visible on inspection, palpable, and tender, and dull on percussion
+    - +/- LL weakness for neurlogical causes
+- **Etiology of AROU** - attributable to 1) Bladder Outflow Obstruction, 2) Ineffective detrusor muscles, or 3) Neurological impairments
+    - **Pathophysiological classification:**
+        - **Bladder outlet obstruction** (BOO) - mechanical (intraluminal, mural, extramural), dynamic obstruction, functional obstruction
+            - Intraluminal obstruction - stones, clots
+            - Mural obstruction - urethral strictures, malignancies
+            - Extramural obstruction - BPH, constipation, phimosis, retroverted gravid uterus
+        - **Ineffective detrussor muscles** (DUA):
+            - Drug-induced:
+                - Sympathomimetics - alpha-agonists (cold medications), beta-agonists, MDMA
+                - Anticholinergics - antipsychotics, antispasmodics, antidepressants, disopyramide
+            - **Neurogenic bladder** - stroke, MS, Parkinson's disease, SCI
+            - **Overdistension of the bladder**
+    - **Common Etiology in men:**
+        - Bladder outlet obstruction - BPH (53%), CA prostate, urethral stones, bladder neck stenosis, urethral strictures, phimosis
+    - **Common etiology in women:**
+        - Detrusor underactivity (DUA)
+        - Neurogenic bladder
+        - Fowler's syndrome
+    - **Precipitating factors:**
+        - Anatomical - organ prolapse, mass effect (e.g. constipation), painful peri-anal conditions (e.g. haemorrhoids, perianal abscesses)
+        - Ineffective detrussor muscles:
+            - Drug-induced - anticholinergics, sympathomimetics, spinal anaesthesia
+        - Bladder overdistension - e.g. excessive fluid intake (esp alcohol), immobility
+- **Mx:**
+    - Immediate decompression of bladder - confirmation of AROU
+        - Urethral catheterisation
+        - Suprapubic catheterisation (SPC)
+    - **Urethral catheterisation:**
+        - **Procedures**
+            - General measures - hand wash and donning of sterile gloves
+            - Aseptic technique - clean genitalia w/ soapy antiseptic
+            - Local anaesthesia - lignocain gel inserted into urethra and massage posteriorly in to the sphincteric region
+            - Insert Foley - Foley should insert freely unless there is urethral stricture, and is passed a few centimetres after urine is passed to ensure in the bladder before inflating the balloon
+        - **Reasons for inabilility to pass in Foley:**
+            - Poor technique
+            - Lack of anaesthesia
+            - Transmutation of the urethra
+            - Urethral stricture
+    - **Suprapubic catheterisation (SPC):**
+        - Indications - failed urethral catheterization, Hx of urethral trauma
+        - C/I:
+            - Non-distended bladder (not anatomically positioned in the abdomen for puncture)
+            - Uncorrected bleeding tendancy
+            - Known/ suspected urothelial cancer
+        - Complications:
+            - Bowel perforation
+            - Rectal injury (overshoot)
+            - Gross haematuria
+
+# Acute neuropathic bladder
+
+- **Definition** - acute bladder dysfunction due to detrussor hypoactivity with a neurological origin, typically spinal cord injury (SCI), but also as a result of stroke, PD, MS etc.
+- **Clinical presentation of acute neurogenic bladder** - dependent on level of lesion:
+    - **Lesion above T10** - presents as <u>'upper motor neuron bladder'</u>:
+        - **Reflexive bladder contractions** - bladder volume decreases with trabeculations develop, and storage symptoms (urgencny and frequency)
+        - **Detrusor-sphincter dyssinergia** - detrusor hyperactivity against a closed sphincter, resulting in AROU and elevated bladder pressures, and vesicoureteral reflux (resulting in upper tract dilatation and renal failure)
+        - **Urological clinical features** - Retention of urine (due to dyssinergia), Overflow incontinence and storage Sx (during high-pressure phasic contractions)
+        - **Neurological clinical features** - sensory level (may be hyporeflexic if still in 'spinal shock')
+    - **Lesions affecting sypathetic outflow** - presents as <u>'upper motor neuron bladder'</u>
+    - **Lesion to Sacral Centres, and Cauda Equina** - presents as <u>'lower moter neuron bladder'</u>:
+        - **Acontractile bladder** - CROU resulting in vesicoureteral reflux (abdominal straining can result in reasonable emptying)
+    - **Mx:**
+        - Bladder decompression - by aseptic <u>intermittent catheterisation</u> 2-3x daily until spine stable
+        - High fluid intake - prevent superimposed UTI
+        - Neurological workup - neurological exam +/- assessment of bulbocarvenous and anal reflexes
+        - Urodynamic testing - after patient is stable
+
+# Urinary Incontinence
+
+- **Definition of Urinary incontinence** - International continence sosciety (ICS) defines urinary incontinence as condition where <u>involuntary loss of urine</u> is a social or hygienic problem and is <u>objectively demonstrable</u>
+- **Epidemiology:**
+    - Sex - F (20%) \> M (5%)
+    - Increasing incidence w/ age - up to 40% of F \> 60y, 50% of institutionalised elderly patients experience regular episodes of urinary incontinence
+- **Physiology of continence mechanism** - requires mobility, normal perception of whether socially acceptible to vooid, normal bladder and sphincter function
+- **Types of incontinence:**
+    - **Genuine stress incontinence** - leakage on increased bladder pressure solely due to increased abdominal pressure (cough, sneeze, exertion or effort) but not to increased detrusor pressure (caused by sphincteric weakness)
+    - **Urge incontinence** - leakage accompanied by or immediately by urgency (a sudden strong disire to void), due to detrussor contraction overcoming urethral resistance (due to detrusor overactivity)
+    - **Mixed urinary incontinence** - leakage associated w/ urgency but also with conditions increasing intra-abdominal pressure
+    - **Overflow incontinence** - occurs in chronic retention of urine (large residual volume)
+- **Etiology of incontinence:**
+    - **Problems of social control** - impaired social perception results in uninhibited detrusor hyperreflexia (<u>dementia</u>)
+    - **Storage problem:**
+        - **Small bladder capacity** (fibrotic bladder) - Interstitial cystitis, TB cystitis, ketamine cystitis, radiation cystitis
+        - **Small functional capacity** - severe detrusor instability, neurogenic bladder, infections
+    - **Impaired emptying** - CROU (Overflow incontinence), idiopathic detrusor overactivity (DOA)
+    - **Weak sphincter** - urethral hypermobility, birth injury, iatrogenic (post-prostatectomy)
+    - **Fistulae** - duplex ureter opening into vagina, vesicovaginal fistula (VVF)
+- **Common etiology of female incontinence:**
+    - Genuine stress incontinence - birth injury/ pelvic floor weakness (typically seen in multiparous women w/ Hx of difficult labour), VVF (neglected labour)
+    - Idiopathic detrusor instability - can co-exist w/ genuine stress incontinence
+- **Common etiology of male incontinence:**
+    - Chronic retention of urine - overflow incontinence
+    - Post-prostactetomy - injury to external sphincter mechanism
+
+# Bladder stones
+
+# Bladder diverticuli
+
+# Urinary fistulae
+
+# Lower urinary tract infection and cystitis
+
+- **Definition** - infection of the bladder (cystitis), resulting in characteristic symptoms
+- **Epidemiology:**
+    - Demographic - F \> M, especially \< 50y
+- **Predisposing factors of UTI:**
+    - Incomplete emptying of bladder - secondary to 1) bladder outflow obstruction, neurogenic bladder, detrusor underactivity
+    - Mechanical obstruction - calculus, FB, or neoplasm
+    - Urine stasis in the upper tract - incomplete emptying, vesicoureteric reflux, dilatation of ureters
+    - Immunosuppression - e.g. diabetes mellitus
+    - Estrogen deficiency - results in lowered local resistance to colonisation
+- **Route of infections:**
+    - Ascending infections (most common) - bowel organisms colonise the vulva and ascend through the bladder
+    - Iatrogenic - through instrumentation (especially if there is residual urine)
+    - Other routes (rare) - descending infections (renal TB), haematogenous spread, lymphogenous spread, direct spread from adjacent pelvic organs
+- **Etiological agents of cystitis:**
+    - Organisms a/w ascending infections (pili enables adhesiveness) - E. coli, Proteus mirabilis, Staphylococcus epidermidis, Streptococcus faecalis
+    - Organisms a/w indewelling catheters - Pseudomonas, Klebsiella, S. aureus, streptococcus
+- **Clinical features:**
+    - Features of cystitis - frequency, urgency, suprapubic discomfort, dysuria, and pyuria (cloudy offensive urine)
+    - Features of complicated infections (upper tract infections and septicaemia) - fever, rigors, and loin pain
+- **Signs of cystitis:**
+    - Abdominal examination - suprapubic tenderness
+- **Ix:**
+    - Microbiology:
+        - Specimen - midstream urine collection for cytology, C/ST
+        - Workup for MTB, mycoplasma genitalium and Neisseria gonorrhoea if pus cells present on cytology but -ve culture
+    - Additonal workup for recurrent infections and male UTI:
+        - Uroflowmetry and post-void measurements
+        - Imaging by IVU, US, or CT
+        - Cytoscopy
+        - Urodynamics
+- **Mx:**
+    - General measures - addequate hydration (urged to drink)
+    - ABx - commence empirical ABx (trimethoprim or quinolones) pending C/ST
+- **Frequency-dysuria syndrome** (urethral syndrome):
+    - <u>Definition</u> - symptoms of lower tract infection but frequently with negative urine cultures
+    - <u>Workup</u> - r/o TB, interstitial cystitis, carcinoma in situ
+
+## Interstitial cystitis
+
+- **Definition** - also known as Hunner's ulcer, features of cystitis but with the absence of pyuria and UTI, where etiology remains obscure
+- **Epidemiology** - confined to F
+- **Pathophysiology of interstitial cystitis:**
+    - Chronic pancystitis of unknown origin - marked infiltration with lymphocytes and macrophages on histology
+    - Ulceration of mucosa - a/w haematuria
+    - Fibrosis and avascular atrophy of epithelium - causes reduction of bladder capacity
+- **Clinical features:**
+    - Frequency and pain - exacerbated by jarring and overdistension of bladder, and relieved by micturition
+    - Haematuria - often present due to ulcers
+    - Absence of pyuria or evidence of UTI
+
+# Neoplasms of the bladder

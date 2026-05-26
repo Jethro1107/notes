@@ -1,0 +1,76 @@
+---
+id: 6b2e3190-4c06-4927-b143-c9d90a570110
+title: Hypocalcaemia
+---
+
+# Hypocalcaemia
+
+- **Definition** - serum Ca levels below LLN, and is much less common than hypercalcaemia
+- **Etiology of hypocalcaemia** - most commonly factitious as a result of hypoalbuminaemia: 
+![](../img/ddx_of_hypocalcaemia.png)
+    - **PTH failure** - 1) low/ inappropriately normal PTH, 2) PTH resistance:
+        - **Low or inappropriate normal PTH:**
+            - <u>Hypoparathyroidism</u> - iatrogenic, infiltrative, inherited
+            - <u>Hypomagnesaemia</u> - impaired PTH secretion, especially common if predisposed to Mg depletion (e.g. diuretics, PPI, alcoholics)
+            - <u>Autosomal dominant hypoparathyroidism</u> - defect of Calcium sensing receptors
+        - **High PTH due to PTH resistance** - pseudohypoparathyroidism
+    - **Vitamin D failure** - reduced vitamin D:
+        - <u>Vitamin D deficiency</u> - esp. in elderly with insufficient exposure to sunlight
+        - <u>Chronic kidney disease</u> - insufficient 1-alpha-hydroxylase activity
+        - <u>Decompensated cirrhosis</u> - insufficient conversion at the liver level
+    - **Calcium failure** - 1) insufficient calcium, or 2) altered bound Ca:
+        - **Insufficient Ca** - e.g. malabsorption, sequestration from acute pancreatitis
+        - **Altered bound Ca:**
+            - <u>Hypoalbuminaemia</u> - reduced total serum Ca but ionised serum Ca is normal
+            - <u>Alkalosis</u> (respiratory or metabolic) - reduced H+ enabling Ca binding onto albumin, resulting in a fall in ionised Ca level
+            - <u>Hyperphosphataemia</u> - sequestration effect on Ca
+    - **Drug-induced hypocalcaemia:**
+        - Denosumab
+        - Cinacalcet
+        - Chemotherapy (e.g. Cisplatin)
+        - Foscarnet
+    - **Massive blood transfusion**
+- **Clinical features of hypocalcaemia** - asymptomatic if mild, but children are more liable to present w/ classical triad of 1) carpopedal spasm, 2) stridor, and 3) convulsions:
+    - **Carpopedal spasm** - muscle spasms in the hands and foot due to increased excitability of peripheral nerves:
+        - <u>Carpal spasms</u> - hands adopt characteristic position with flexion o MCP joints of the finger and adduction of the thumbs
+        - <u>Pedal spasms</u> - variable and less frequent than carpal spasms
+    - **Digital and perioral parasthesia** - tingling sensation of the hands, feet, and around the mouth often accompanies carpopedal spasm
+    - **Stridor** - caused by spasm in the glottis, is more common in children but rarer in adults
+    - **Convulsions** - hypoCa can result in seizure in a child, but rare in an adult
+    - **Cardiac arrest** - as a result of QT prolongation manifesting as ventricular arrhythmia
+- **Signs of hypocalcaemia:**
+    - <u>Trousseau's sign</u> (latent tetany) - inflation of sphygmomanometer cuff on upper arm \> SBP is followed by carpal spasm within 3 min
+    - <u>Chvostek's sign</u> - tapping over branches of facial nerves that emerge from parotid gland results in twitching of the facial muscle
+- **ECG changes in hypocalcaemia:**
+    - QT prolongation
+- **Long-term complications of hypocalcaemia and hyperphosphataemia:**
+    - Calcificaation of basal ganglia (i.e. Parkisonism)
+    - Grand mal epilepsy
+    - Psychosis
+    - Cataracts
+- **Principles of workup:**
+    - <u>Rule out fictitious hypoCa</u> - e.g. EDTA contamination, hypoalbuminaemia
+    - <u>Rule out drug-induced hypocalcaemia</u> - drug review
+    - <u>Initial Ix</u> - LRFT, Mg, CaPO4, PTH assay, 25(OH)D
+- **Ix:** 
+![](../img/approach_to_hypoCa.png)
+    - **SCr** - identify renal failure:
+        - <u>High</u> - suggestive of renal failure
+        - <u>Normal/ low</u> - suggestive of extra-renal cause of hypoCa
+    - **Mg** - identify hypomagnesemia (typical electrolyte pattern of HypoMg, HypoK, HypoCa)
+    - **PTH assay** - differentiate between PTH failure or Vitamin D failure:
+        - <u>High</u> - PTH resistance or Vitamin D failure
+        - <u>Low/ inappropriate normal</u> - **Primary hypoPTH** (iatrogenic, familial, idiopathic, autoimmune)
+    - **PO4** - differentiate between PTH resistance or Vitamin D failure:
+        - <u>High PO4</u> (high PTH) - PTH resistance (e.g. pseudo-hypoPTH)
+        - <u>Low PO4</u> (high PTH) - vitamin D failure (e.g. vitamin D deficiency vs defects in vitamin D metabolic pathway)
+    - **25-OH vit D assay:**
+        - <u>Low</u> - vitamin D deficiency
+        - <u>High</u> - defects in vitamin D deficiency pathway
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Immediate replacement of Ca</u> - if severe hypoCa and symptomatic
+        - <u>Dx and Tx of underlying cause</u> - typically involves replacement of vitamin D and calcium salt
+
+    
+    ![](../img/principles_of_mx_of_severe_hypoca.png)

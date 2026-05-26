@@ -1,0 +1,79 @@
+---
+id: 7199b6c2-a530-4148-a50a-a75e163b3669
+title: 2025-09-01
+---
+
+# NCCN Breast Cancer 2025 Guidelines <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+## Systemic therapies (neoadjuvant and adjuvant) for EBC
+
+### Preoperative therapy
+
+- **Role of neoadjuvant therapy in breast cancer** - historical RCTs demonstrated no statistically significant differences when <u>systemic chemotherapy</u> employed in the pre-operative and post-operative stages: 
+![](~/Documents/notes/img/principles_of_preoperative_systemic_therapy_in_operable_breast_cancer_1.png)
+- **Options for preoperative therapy:**
+  - <u>Chemotherapy</u> - chemotherapy regimens applicable to the adjuvant setting can be applied in the pre-operative setting for eradication or control of undiscovered micrometastasis
+  - <u>Endocrine therapy</u> - aromatase inhibitor (w/ OFS in premenopausal women), or tamoxifen for HR+ tumours
+  - <u>HER2-targeted therapy</u> - Pertuzumab, trastuzumab and docetaxel for patients w/ HER+ EBC
+  - <u>Immunotherapy</u> - role of chemoimmunotherapy (w/ pembrolizumab) in the pre-operative setting for operable TNBC
+- **Response assessment during pre-operative chemotherapy** - NCCN recommendations:
+  - <u>Modality</u>:
+    - By regular clinical exam
+    - Routine mammography not performed regularly but may be considered if tumor progression is suspected
+  - <u>Role</u>:
+    - **Detection of disease progression** - Disease progression while undergoing preoperative systemic therapy should be taken promptly to surgery
+    - **Prognostic** - residual cancer burden (RCB) after pre-operative chemotherapy appears to be a poor prognostic marker irrespective of histological subtype (HR 1.55-2.16 for worse EFS across different cancer subtypes)
+- **Indications for pre-operative therapy:**
+  - **Absolute indications for pre-operative systemic therapy:**
+    - <u>Inoperable breast cancer</u> - e.g. inflammatory breast cancer, bulky or matted cN2 disease, cN3 disease, cT4 tumours
+    - <u>Operable breast cancer</u> - by principle reserved for those 1) wishing for breast conservation, 2) a/w poor prognostic disease, or 3) predicted good response to systemic therapy:
+      - Large primary tumours relative to breast size in a patient who wish for breast conservation
+      - HER2+ EBC or TNBC (esp. if \>= cT2, or \>= cN1, but can be considered for cT1N0 disease)
+      - HR w/ high-likelihood of response based on 21 gene assay recurrence score for postmenopausal women
+  - **Absolute contraindications for pre-operative systemic therapy:**
+    - Extensive DCIS when extent of invasive carcinoma not well-defined
+    - Patients with poorly delineated extent of disease
+    - Non-palpable tumours that are not clinically assessable
+- **Approach to pre-operative systemic therapy selection:**
+  - <u>Whether pre-operative systemic therapy benefits the patient</u> - see above for absolute indications and contraindications
+  - <u>Molecular subtyupes of breast cancer</u> - therapy dependent on HR+, HER2+ or TNBC
+
+### Adjuvant systemic therapy
+
+- **Dependent on:**
+
+  - 1\. Utilisation of neoadjuvant therapy
+  - 2\. Histology
+  - 3\. HR status and HER2 expression
+  - 4\. Risk of recurrence
+
+- **Stratification for systemic adjuvant therapy:**
+
+  - <u>Stratification by histology</u> - rare favourable subtypes have additional considerations
+  - <u>Stratification of HR-status and HER2 expression</u>:
+    - HR+ disease - by definition ER+/HR+ and HER2-
+    - HER2+ disease - by definition HER2+ irrespective of HR-status (however response to targeted therapy may be related to HR status)
+    - TNBC - by definition HR- and HER2-
+  - <u>Stratification by hormonal status and risk features</u> - role in HR+ HER2- (luminal) disease to determine the intensity of hormonal therapy and chemotherapy
+
+  
+  ![](~/Documents/notes/img/approach_to_systemic_therapy_for_adjuvant_therapy_after_upfront_surgery.png)
+
+- **Definition of HR positivity:**
+
+  - <u>ER positivitity</u> - 1%-100% tumour cells stianing positive for ER in IHC considered ER+ and are elligible for endocrine therapy (however ER-low+ \[1-10%\] have been reported to be more heterogenous in biology and behave more like ER- disease)
+  - <u>HR positivity</u> - 1%-100 of cells staining positive for PR in IHC
+
+- **Adjuvant systemic therapy for HR+, HER2- tumours** - Endocrine therapy +/- chemotherapy (if high risk of recurrence):
+
+  - **Endocrine therapy:**
+    - **Tamoxifen** (SERMs):
+      - <u>Indications</u> - for both pre- and post-menopausal women
+      - <u>Duration</u> - 5y of tamoxifen or extended therapy (10y) for selected patients
+      - <u>Evidence</u>:
+        - ATLAS trial demonstrated significant reduction in recurrence and death from breast cancer with 10y versus 5y of tamoxifen
+      - <u>S/E</u> - most important S/E include:
+        - Increased risk of **endometrial carcinoma**
+        - Increased risk of DVT and P/E
+    - **Aromatase inhibitors** - AIs are only active in those w/o functional ovaries:
+      - 

@@ -1,0 +1,102 @@
+---
+type: literature
+---
+# FMCC Clerkship Introductory Seminar - Depression Non-Drug Interventions
+
+- **Communication techniques employed in the comforting of patient in distress:**
+	- Affirmation
+	- Normalisation
+	- Reframing the problem
+	- Acceptance
+- **Low-intensity non-drug interventions** - to be applied in mild-to-moderate depressive episodes if pharmacological therapy is not pursued:
+	- Psychoeducation (sleep hygeine, education of depression as an illness, explaining anxiety and panic attacks)
+	- Behavioural activation (activity planning)
+	- Relaxation techniques
+	- Cognitive Behavioural Therapy
+- **NICE guidelines for management of psychological problems in primary care** - Stepped-Care model (2010):
+	- Treatments should always the _best chance of delivering positive outcomes_, whilst _minimizing the burden_ to the patients
+	- Providing _scheduled reviews_ to detect and act on non-improvements, enabling "stepping-up", "stepping-down" or "stepping out" of the current treatment regimen
+- **Non-drug intervention toolbox for depression in primary care:**
+	- _Communication techniques_ - empathetic listening and response (affirmation, normalisation, reframing, acceptance)
+	- _Psychoeducation_ - sleep hygiene, affective disorders
+	- _Relaxation technique_ - e.g. mindfulness, progressive muscle relaxation, slow breathing exercise
+	- _Behavioural activation_ - e.g. exercise prescription, daily scheduling
+	- _Structured psychotherapy_ - e.g. cognitive behavioural therapy, inter-personal therapy, psychodynamic psychotherapy
+- **Psychoeducation:**
+	- Refers to any educational intervention offered to patient (and their family) to empower them to improve their health
+	- Quality of psychoeducation provided has marked implications on outcomes
+	- The method of delivery appears to make less of a difference in terms of outcomes, i.e. the busy GP can provide psychoeducation by referring patients to leaflets or websites
+	- Aimed at targeting stigma, self-blame, and barriers to treatment
+	- Key goals of psychoeducation are:
+		- 1. Knowledge transfer (etiology, pathophysiology, treatment)
+		- 2. Understanding (natural history, causes of exacerbation)
+		- 3. Support treatment (enhancing compliance)
+		- 4. Promote self-help
+- **Psychoeducation on sleep hygiene** - practices and habits that are necessary to have good night-time sleep quality and full daytime alertness (US National Sleep Foundation):
+	- 1. _Limiting daytime maps to 30 minutes_:
+		- A short nap of 20-30 minutes can help to improve mood, alertness and performance.
+		- Napping does not make up for inadequate nighttime sleep.
+	- 2. _Avoiding stimulants or alcohol close to bedtime_:
+		- Stimulants such as caffeine and nicotine may result in insomnia.
+		- While alcohol is well-known to help you fall asleep faster, too much close to bedtime can disrupt sleep in the second half of the night as the body begins to process the alcohol.
+	- 3. _Exercise to promote good quality sleep_:
+		- As little as 10 minutes of aerobic exercise, such as walking or cycling, can drastically improve night-time sleep quality.
+		- For the best night’s sleep, most people should avoid strenuous workouts close to bedtime (< 3h). However, the effect of intense nighttime exercise on sleep differs from person to person, so find out what works best for you. 
+	- 4. _Steering clear of food that can be disruptive right before sleep_:
+		- Avoid foods that cause heartburn or dyspepsia, such as spicy food, carbonated drinks, or fatty/ fried food before bedtime.
+		- Discomfort caused may disrupt with sleep.
+	- 5. _Ensuring adequate exposure to natural light_:
+		- Exposure to sunlight during the day, as well as darkness at night, helps to maintain a healthy sleep-wake cycle.
+		- This is particularly important for individuals who may not venture outside frequently.
+	- 6. _Establishing a regular relaxing bedtime routine_:
+		- A regular nightly routine helps the body to recognize that it is bedtime. 
+		- This could include taking a warm shower or a bath, reading a book, or doing light stretches exercise.
+		- Try to avoid emotionally upsetting conversations and activities before attempting to sleep. 
+	- 7. _Making sure the sleep environment is pleasant_:
+		- Mattress and pillows should be comfortable. 
+		- The bedroom should be of an appropriate temperature. 
+		- Bright light from lamps, cell phones and TV screens can make it difficult to fall asleep. So turn those lights off or adjust them when possible. 
+		- Consider using blackout curtains, eye shades, ear plugs, "white noise" machines, humidifiers, fans and other devices that can make the bedroom more relaxing.
+	- 8. _Cognitive behavioural approaches to treat insomnia_:
+		- Avoid ruminations when lying in bed, which perpetuates the insomnia; set up a journal to write down thoughts or to set strict rules regarding the areas where ruminations are allowed.
+		- Reduced meta-cognition of the sleep disturbances, e.g. removing unrealistic expectations about sleep.
+		- Employing distracting techniques such as mindfulness-based exercises and progressive relaxation techniques.
+- **Forms of relaxation techniques:**
+	- Progressive muscle relaxation
+	- Slow-breathing or diaphragmatic breathing exercise
+	- Guided imagery or guided meditation
+	- Mindfulness-Based Stress Reduction (MBSR)
+- **Progressive muscle relaxation:**
+	- _Techniques_:
+		- Slowly clench muslces folowed by relaxation
+		- Concentration on the sensations in muscles when tense and when relaxed
+		- Move through different muscle groups in the body
+	- _Rationale_:
+		- Systematic tensing and relaxating - feeling the realxation that follows prompted relaxation
+		- Awareness - awareness of body parts where one holds tension
+		- Reducing tension - enables voluntary relaxation of muscles, helping break cycles of stress
+	- _Clinical indications_ - benefits shown in:
+		- Stress and anxiety
+		- Insomnia
+		- Pain management
+- **Slow-breathing exercise** (SBE):
+	- _Rationale_ - targets hyperventilation during anxiety and panic attacks
+	- _Technique_ (Box breathing) - performed for 5 minutes or until symptoms of stress abates
+		- Breath in slowly through nose, then hold breath for 3 seconds
+		- Breath out slowly
+		
+		![[Pasted image 20260418164054.png]]
+- **Behavioral activation** - therapeutic processes where planned activities which help increase behaviour that are likely to produce improvements in thoughts, mood, and overall quality of life:
+	- _Technique_ - structure-in positive distractions and mood-improving activities:
+		- Increasing pleasurable activities
+		- Enhance social interactions
+		- Promoting sleep
+		- Improving self-esteem
+		
+		![[Pasted image 20260418164403.png]]
+- **Exercise prescription for depression:**
+	- _Technique_ - exercise prescription incorporated into activity scheduling during behavioural activation
+	- _Clinical efficacy_:
+		- A Cochrane review demonstrated that exercise is more effective than placebo for reducing symptoms of depression, and is as effective as psychological or pharmacological treatments
+		- Hallgreen 2016 found that exercise is beneficial for depression even when it is light, as opposed to moderate and vigorous
+- **Guided cognitive behavioural therapy:**

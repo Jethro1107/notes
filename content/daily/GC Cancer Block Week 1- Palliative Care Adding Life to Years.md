@@ -1,0 +1,169 @@
+---
+id: f9897195-cfa8-4939-ab0b-91819e09f79c
+title: 2025-07-27
+---
+
+# Fever in an immunocomprimised host, Neutropenic Fever - Literature Search on UpToDate <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+- **Reference:**
+    - [UpToDate: Overview of Neutropenic Fever Syndromes](https://www.uptodate.com.eproxy.lib.hku.hk/contents/overview-of-neutropenic-fever-syndromes?search=neutropenic%20fever&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1)
+    - [UpToDate: Diagnostic Approach to the Adult Cancer Patient with Neutropenic Fever](https://www.uptodate.com.eproxy.lib.hku.hk/contents/diagnostic-approach-to-the-adult-cancer-patient-with-neutropenic-fever?search=neutropenic+fever&topicRef=16708&source=see_link)
+- **Definitions and terminology:**
+    - **Neutropenia** - defined as an absolute neutrophil count \< 1.5 x 10<sup>9</sup>/L, predisposing to clinically important infections, classified by severity:
+        - <u>Neutropenia</u> - ANC \< 1.5 x 10<sup>9</sup>/L
+        - <u>Severe neutropenia</u> - ANC \< 0.5 x 10<sup>9</sup>/L
+        - <u>Profound neutropenia</u> - ANC \< 0.1 x 10<sup>9</sup>/L
+    - **Fever in neutropenic patients** - defined as a single oral temperature \>= 38.3 degrees Celsius, or a temperature of \>= 38 degrees Celsius that persists over 1h period
+    - **Neutropenic fever syndromes** - International Immunocomprimised Host Society recognises the 3 modes of clinical presentation of a pateint w/ neutropenic fever:
+        - <u>Neutropenic fever with microbiologically documented infection</u> - neutropenic fever with a clinical focus and associated pathogen
+        - <u>Neutropenic fever with clinically documented infection</u> - neutropenic fever with a clinical focus, but without the isolation of an associated pathogen
+        - <u>Unexplained neutropenic fever</u> - neutropenic fever with neither a clinical focus of infection nor an associated pathogen, where fever is the only clinical manifestations
+    - **Meyloid reconstitution syndrome** - defined by fever and new inflammatory focus, or progression of pre-existing inflammatory focus in <u>temporal relationship to neutrophil recovery from neutropenia</u>, akin to immune reconstitution inflammatory syndromes following initiation of anti-retroviral therapy in a HIV-+ve patient
+- **Pathophysiology of neutropenic fever:**
+    - **Contributing factors of microbial invasion:**
+        - <u>Chemotherapy-induced mucositis</u> - occurs throughout the alimentary system, enabling seeding of the bloodstream from endogenous flora of the GI tract
+        - <u>Tumour resulting in obstruction of hollow viscus</u> - obstruction of biliary tract, bronchial, GI, urinary systems, or lymphangitis carcinomatosis arising from various malignancies results in seeding of endogenous flora into bloodstream
+    - **Immune defects determine the likely pathogen in infection:**
+        - **Defects in innate immunity** (e.g. neutropenia):
+            - <u>Bacteria</u> - 1) G- rods from gut (e.g. E. coli, K. pneumoniae, P. aeruginosa), 2) G+ cocci in skin (e.g. S. eppidermidis, S. aureus, Viridans streptococci, enterococcus Spp.)
+            - <u>Yeasts</u> - Candida spp, Trichosporon spp.
+            - <u>Mounds</u> - Aspergillus, Mucoraceae, Fusarium spp.
+        - **Defects in adaptive cell-mediated immunity** (e.g. T cell defects a/w lymphoma) - increased risk of infection by <u>intracellular organisms</u>:
+            - <u>Bacteria</u> - Listeria monocytogenes, Salmonella spp.
+            - <u>Mycobacterial</u> - MTB, NTM
+            - <u>Fungal</u> - Cryptococcus neoformans, Pneumocystis jirovecci
+        - **Deffects in adapative humoral immunity** (e.g. myeloma, CLL, splenectomised patients) - increased risk of infection by <u>capsulated extracellular organissm</u>:
+            - <u>Common</u> - S. pneumoniae, H. influenzae, N. meningitidis
+            - <u>Rare</u> - Capnocytophaga canimorsus, Babesia spp.
+- **Microbiology and Epidemiology** - likely organisms in neutropenic fever: 
+![](~/Documents/notes/img/range_of_pathogens_in_neutropenic_patients.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Initial risk assessment</u> - patients are trained to inform first contact of health care system about recent chemotherapy and risk of neutropenia
+        - <u>Timing of ABx</u> - **empirical broad-spectrum ABx** initiated immediately <u>after blood cultures are obtained</u> and before any other Ix have been completed (\< 60 min of presentation)
+        - <u>Dx evaluation</u> - detailed Hx, P/E, Ix should be performed after empirical ABx therapy has been initiated
+    - **Empirical broad spectrum ABx therapy:**
+
+# GC Cancer Block Week 1: Clinical Epidemiology <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- Hx, P/E, Ix and Mx is guided by clinical epidemiology and EBDM:
+    - Concept of how a disease may clinically present exceeds beyond classical teaching, but can be grounded in statistics (Sn, Sp, PPV, FPV of a S/S)
+    - When a Sx is said to be "pathognomonic", it essentially means that this Sx has a high Sp, or PPV of a disease
+- PPV and NPV:
+    - Dependent on Epidemiology - disease <u>prevalence</u>, and % of patients presenting w/ this feature
+    - Sn or Sp of a test - e.g. clinician capability to pick up a sign
+- Evidence based medicine - conscientious, explicit and judicious use of current best practice in making decisions about the care of individual patients (integrates best research evidence with clinical expertise and patients unique values and circumstances)
+    - Appraisal of research evidence:
+        - Relevance - patient-oriented evidence that matters
+        - Validity - bias by study design, selection bias, or information bias, confounding adequate, statistically robust
+        - Timely - evidence should be uptodate
+    - Epidemiological data on how a disease present can be incorporated into <u>clinical decision support tools</u>:
+        - Abstracts away the confusing statistics
+        - Types - risk prediction tool for identification of disease
+        - Examples - Westley croup severity score –\> determine whether seen in clinic or ED based on list of clinical featues
+    - Data on outcomes of different Mx strategies can be incorporated into flowcharts and algorithms (clinical guidelines)
+- Clinical decision support tools:
+    - Clinical Decision rules (formalises diagnostic and prognostic assessment) - estimate probability of disease (diagnosis) and outcomes (prognosis) according to patient characteristics (S/S, Ix):
+        - Best suited for - high stakes, complex situation, or for cost-saviing measures
+        - Think about limits
+        - Example - CHADS2-VASc score
+    - Risk prediction tools (facilitate initiation of primary or secondary prevention) - stratify future risk of disease based on risk factors present:
+        - Example - 10y ASCVD risk (Framingham Risk Chart)
+        - Limitations:
+            - Risk factor intervention may not reduce risk of disease (e.g. confounding effects)
+            - Not applicable to population level by predicting <u>which individual</u> will develop disease (applied individually)
+            - Not calibrated
+- Clinical guidelines - statement that include recommendations inteded to optimise patient care, informed by systematic review, and assessment of benefits and alternative care options:
+    - Types:
+        - Authority-based (consensus guidelines)
+        - Evidence-based (does not show how evidence gathered)
+        - Evidence-linked (clear systemic method of evaluating evidence)
+    - Creating guideline:
+        - Problem definition
+        - Evidence curation
+        - Human touch
+    - Appraisal - relevance, methodology, quality of evidence, evidence grading systems, authors (e.g. conflict of interest)
+- Internal validity - chance, bias, confounding (know directed acyclic graph)
+- Point of care tools - e.g. UpToDate
+
+# GC Cancer Block Week 1: Palliative Care Adding Life to Years <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Definition** (WHO):
+    - Approach that improves the QOL of patients and their families who are facing problems a/w life-threatening disease
+    - Prevents and relieves suffering through early identification, correct assessment and treatment of pain and other problems, whether physical, psychosocial or spiritual
+- Aims of palliative care (see slides): 
+![](~/Documents/notes/img/aims_of_palliative_care.png)
+- **Palliative care and end-of-life care:**
+    - EOLC part of palliative care
+    - Palliative care initiated at any point of chronic disease, can still seek for curative Tx, to provide comfort and QoL
+    - End-of-life care - part of palliative care at late stages of life (\< 6mo), with Tx aiming comfort with no curative intent
+- Palliative care can be provided at primary (basic Mx), secondary or tertiary (more specialised) palliative care:
+- When provided:
+    - Conventionally - given once Tx of curative intent is deemed futile, however:
+        - Persistent unattended Sx and distress in phase of active curative Tx
+        - Less time for patient and families to prepare for deterioration (may refuse abrupt referral to palliative care)
+    - Current models - integrated seemingly into palliative care:
+        - Adjust balance between curative and palliative Tx
+        - Evidence for early integration (Cochrane 2017 meta analysis):
+            - Less Sx
+            - Maintain or improve QOL
+            - Less depression or anxiety
+            - Reduce invasiveness of EOLC
+            - ? Improve survival - cochrane review says potential benefit but statistically insignificant
+
+      
+      ![](~/Documents/notes/img/palliative_care_accross_care_continuum.png)
+- Aspects of palliative care - important QOL:
+    - Physical
+    - Social
+    - Psychological
+    - Spiritual
+- Method:
+    - Identification
+    - Clinical assessment (choose Ix based on whether it would infuence Mx)
+    - Treatment
+    - Feedback loop established between Tx and clinical assessment
+- Physical Assessment:
+    - Functional assessment - assess performance status:
+        - Palliative performance scale
+        - ECOG (\>= 2 be cautious for initiating chemotherapy or invasive therapy) - correlates w/ OS for patients w/ advanced cancer
+        - Karnofsky performance scale (\<= 60 be cautions as above)
+    - Sx - use OPQRST + Treatment, Understanding and Value:
+        - Pain
+        - Chest Sx - SOB, cough, haemoptysis
+        - GI Sx - vomiting, colic, diarrhea
+        - Pelvic Sx
+        - CNS Sx
+        - MSK Sx
+        - Systemic - insomnia, cachexia, fatigue
+        - Tx associated side effects
+    - Tx - consider pharmacological and non-pharmacological:
+        - Pain - escalate analgesic ladder, and educate ROA, by the clock, for the individual, attention to detail (see slides): ![](~/Documents/notes/img/who_pain_analgesic_ladder.png) 
+        ![](~/Documents/notes/img/analgesic_considerations_for_cancer_pain.png)
+- Psychological assessment:
+    - May present w/ somatic or psychological Sx
+    - Screening tools:
+        - Hospital and Depression Score
+        - Brief Edinburgh Depression Scale
+    - Assessment:
+        - Pre-morbid personality
+        - Preveious psychiatry Hx
+        - SHx - stimulating drugs, alcohol
+        - FHx
+    - Pharmacological:
+        - BZD, antidepressants (SSRI, SNRI)
+    - Non-pharmacological - CBT, relaxation techniques
+- Social assessment - financial support, family dynamics, home care plan, volunteer service:
+- Spiritual care - appropriate support for expressing thoughts and feeling regarding spirutuality (e.g. religion, human rights, deeply held values):
+    - FICA - faith (religion, life meaning, purpose), importance, community, assist
+- Breaking bad news - Kaye 1996 ten steps:
+    - Preparation - know all facts before metting and prepare all notes
+    - What does the patient know - ask patient give a brief narrative of events
+    - Give a warning shot - im afraid it loos rather serious, then give pause
+    - Allow denial
+    - Explain and check understanding
+    - Is more information wanted
+    - Listen to concerns
+    - Encourage ventilation of feeling
+    - Summary and plan - concerns, Tx, and foster hope
+    - Offer availability

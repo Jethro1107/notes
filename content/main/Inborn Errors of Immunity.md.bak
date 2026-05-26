@@ -1,0 +1,71 @@
+---
+id: 24ac8e94-cfde-4f15-8cc9-3da13918b53f
+title: Inborn Errors of Immunity
+---
+
+# Inborn Errors of Immunity
+
+- **International Union of Immunological Societies classification of IEI into 10 categories:** 
+![](~/Documents/notes/img/iuis_inborn_errors_of_immunity.png)
+  - **Group I** - Immunodeficiencies affecting cellular and humoral immunity (i.e. combined immunodeficiency):
+    - <u>Classification</u>:
+      - Severe combined immunodeficiency (SCID) - defined by profound CD3 T cell lymphopenia (CD3+ T cells \< 300/mL)
+      - Combined immunodeficiencies w/o syndromal features - heterogenous group of conditions that are generally less severe than SCID
+    - <u>Pathophysiology</u>:
+      - **T cell deficiency** - results in defective cellular immunity against <u>viral and fungal infections</u>
+      - **B cell deficiency** - due to impaired T cell "help" resulting in defective humoral immunity against <u>bacterial infections</u>
+    - <u>Clinical manifestations</u>:
+      - Repeated viral, fungal and bacterial infections
+      - Adverse effects due to live-attenuated vaccines (e.g. MMR, varicella, and BCG)
+  - **Group II** - Immunodeficiencies affecting cellular and humoral immunity a/w syndromal features (including thrombocytopenia)
+  - **Group III** - Predominant antibody deficiencies:\*
+    - <u>Classification</u>:
+      - Agammaglobbulinaemia w/ profoundly decreased or absent B cells (genetic defects a/w complete arrest of B cell development)
+      - Common variable immunodeficiency (CVID) phenotype (severe reduction in at least 2 Ig isotypes or low B cells)
+      - Hyperimmunoglobulin M syndromes
+      - Isotype, light chain, or functional deficiencies with generally normal B cell counts
+    - <u>Pathophysiology</u> - low circulating Ab for opsonization and complement activation
+    - <u>Clinical manifestations</u> - infections by encapsulated bacteria (e.g. S. pneumoniae, H. influenzae):
+      - Bacterial URTIs - e.g. otitis media, sinus infections
+      - Bacterial LRTI - e.g. pneumonia
+      - Others - sepsis, meningitis, osteomyelitis
+- **Severe combined immunodeficiency:**
+  - **Definition** - X-linked disorder w/ combined loss of cellular and B cell defects characterised by a low absolute lymphocyte count
+  - **Susceptible pathogens** - viral, bacterial or fungal
+  - **Pathophysiology:**
+    - <u>T cell deficiency</u> - results in defective cellular immunity against <u>viral and fungal infections</u>
+    - <u>B cell deficiency</u> - due to impaired T cell "help" resulting in defective humoral immunity against <u>bacterial infections</u>
+  - **Clinical manifestations:**
+    - Severe viral, fungal or bacterial infection
+    - Adverse effects on live-attenuated vaccines (e.g. MMR, varicella, BCG)
+    - Vaccine failure
+  - **Ix:**
+    - <u>Newborn screening</u> - TREC
+    - <u>CBC</u> - low absolute lymphocyte count (\< 2500 cells/ mL)
+    - <u>Lymphocyte subsets</u> - T cell lymphopenia (CD3 T cells \< 300 cells/ mL)
+  - **Mx** - HSCT
+- **Hyper-IgE syndrome:**
+  - **Definition** - group II disorders characterised by combined immunodefficiency and increased IgE levels
+  - **Genetics** - AD condition a/w LOF mutation of STAT3 pathway resulting in failure of Th17 differentiation
+  - **Pathophysiology** - central to Th17 differentiation resulting in <u>reduced IL-17 production</u>:
+    - <u>T cell defect</u> - particularly a failure of Th17 differentiation and production of IL-17
+    - <u>Neutrophil chemotactic deficits</u> - normal ANC and neutrophil function, resulting in reduced neutrophil chemotaxis, resulting in recurrent bacterial infections (and characteristically cold abscesses)
+    - <u>B cell IgE class switching</u> - likely an associated abnormality due to underlying STAT signalling and not central to pathogenesis
+  - **Clinical manifestations:**
+    - Coarse facies w/ broad nasal base and nasal bridges with dysmorphia increasing w/ age
+    - Cold skin abscesses
+    - Repeated sinopulmonary bacterial infections despite afebrile and being systemically well
+    - Eczema or other allergic disease
+    - Retained primary teeth and poor dentition
+  - **Ix:**
+    - Elevated IgE and AEC
+    - Molecular testing +ve for pathogenic variant
+  - **Mx** - trimethoprim-sulfamethoxazole and IVIG
+- **X-linked agammaglobulinaemia:**
+  - **Definition** - group III disorder a/w B cell defect
+  - **Genetics** - X-linked disorder a/w LOF of BTK
+  - **Ix:**
+    - <u>New-born screening</u> - low KREC
+    - <u>Ig pattern</u> - low IgGAM
+    - <u>Lymphocyte subset</u> - low/ zero B cell count
+  - **Mx** - IVIG/ SCIG replacement

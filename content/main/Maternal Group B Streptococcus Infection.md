@@ -1,0 +1,45 @@
+---
+id: 569c7912-9e6e-4e70-8d68-231835c35f7e
+title: Maternal Group B Streptococcus Infection
+---
+
+# Maternal Group B Streptococcus Infection
+
+- **Definition** - infection of the lower genital tract by GBS, w/ clinical significance in pregnancy as it is a/w a host of maternal and fetal risks
+- **Etiological agent:** - S. agalactiae:
+    - <u>Bacteriology</u> - G+ cocci
+    - <u>Primary reservoir</u> - GI tract
+- **Epidemiology:**
+    - vaginal colonisation is common in pregnant women (up to 30%): 
+    ![](~/Documents/notes/img/chp_data_on_gbs_colonisation_in_pregnancy.png)
+- **Maternal complications from GBS infection:**
+    - Urinary tract infection
+    - Premature rupture of membrane (PROM/ PPROM)
+    - Preterm labour
+    - Chorioamnionitis
+    - Post-partum endometreitis
+- **Neonatal risk from GBS +ve mother** - risk of neonatal GBS colonisation (asymptomatic/ infection (symptomatic):
+    - <u>Route of transmission</u>:
+        - Vertical (from mother)
+        - Horizontal (from healthcare workers)
+    - <u>Epidemiology</u>:
+        - 1 in 100-200 will show S/S of infection for GBS colonised mothers
+        - Acounts for 1/1000 births in HK
+    - <u>Clinical manifestations of neonatal GBS infection</u>:
+        - **Early onset from vertical transmission** (5-10% mortality rate) - septicaemia, pneumonia resulting in respiratory failure
+        - **Late onset from vertical/ horizontal transmission** - meningitis, pneumonia
+- **GBS screening** - deemed cost-effective (universal screening since 2012):
+    - Low vaginal and rectal swb taken 35-37 weeks
+    - Not required if intrapartum ABx prophylaxis required or in patients for planned C-section
+- **Indications for intrapartum ABx prophylaxis:**
+    - Previous baby with invasive neonatal GBS disease
+    - GBS bacteriuria in current pregnancy
+    - +ve screening
+    - Gestation less than 37 weeks (pre-term labour)
+    - Maternal fever \> 38 degree during delivery
+    - PROM for \> 18h
+    - Screening results not yet available at leaking or onset of labour
+- **Mx** - helps prevent early onset GBS infection (\< 100%); less effective for late-onset GBS infections especially if horizontal transmission:
+    - Penicilin G/ Benzyl penicillin
+    - Cefazolin, clindamycin, erythromycin
+    - Vancomycin

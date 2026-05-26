@@ -1,0 +1,55 @@
+---
+id: 8494fbde-2b99-493b-affb-a45ccff222d0
+title: Hereditary Haemochromatosis
+---
+
+# Hereditary Haemochromatosis
+
+- **Definition** - autosomal recessive disease caused by single-point mutation of HFE disease, associated w/ <u>increased iron absorption</u> and hence haemochromatosis
+- **Pathophysiology of HHC:**
+    - **Autosomal recessive inheritence of HFE protein** - 90% patients are homozygous for single-point LOF mutation (C282Y) in the HFE protein
+    - **Other genetic and environmental factors affecting Sx onset**:
+        - <u>H63D single point mutation</u> - can cause less severe form but ususally as part of compound heterozygote w/ C282Y mutation
+        - <u>Environmental factors</u> - postulated roles of unknown environmental factors as \< 50% of homozygotes for C282Y actually develop clinically significant haemochromatosis
+        - <u>Regular iron loss</u> - iron loss from menstruation and pregnancy can delay onset of HHC in females
+    - **Reduced activity of HFE** - suspected to be due to reduced binding of HFE to transferrin receptor resulting in **defective transferrin-associated iron uptake**, mechanistically resulting in a functional iron deficiency
+    - **Increased absorption of dietary iron** - functional iron deficiency resulting from reduced activity of HFE results in up-regulation of enterocyte divalent metal transporters and hence increased iron absorption
+- **Clinical features of HHC:**
+    - <u>Liver disease</u> - onset of chronic liver disease often a/w hepatomegaly
+    - <u>Cardiac disease</u> - manifests as heart failure and cardiac arrhythmias due to iron deposition in the heart
+    - <u>Diabetes mellitus</u> - due to deposition of iron in pancreatic islets, often irreversible by venesection
+    - <u>Arthritis</u> - due to chondrocalcinosis secondary to CPPD
+    - <u>Endocrine dysfunction</u> - hypogonadotrophic hypogonadism underlying impotence, loss of libido and testicular atrophy
+- **Signs of HHE:**
+    - **General examination** - Leaden-grey skin pigmentation (Bronzed diabetes) occuring in exposed parts, genitalia, axilla and groin
+    - **Abdominal examination:**
+        - Stigmata of chronic liver disease
+        - Hepatomegaly
+    - **Cardiovascular examination** - to assess for cardiac disease a/w haemochromatosis
+- **Ix:**
+    - **Iron profile:**
+        - <u>Iron</u> - increased
+        - <u>Ferritin</u> - increased (those w/ significant liver disease have \> 1000 microgram/L)
+        - <u>Transferrin saturation</u> - raised \> 45% suggestive of iron overload
+    - **MRI** - high Sp for iron overload, but low Sn
+    - **Liver Bx** - diagnostic:
+        - Assessment of degree of fibrosis
+        - Distribution of iron - hepatocyte iron characteristic of haemochromatosis (initially in periportal hepatocytes and extending later to all hepatocytes)
+        - Hepatic iron index (HII) - quantification of liver iron (\> 1.9 suggestive of primary cause)
+    - **Genetic testing** - detection of C282Y and H63D mutations in routine clinical use
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Reduction of total body iron</u> - serial venesection to control ferritin levels
+        - <u>Standard care for established complications</u> - standard care for patients w/ chronic liver disease, cirrhosis, and diabetes mellitus (incl. **regular screening for HCC**)
+        - <u>Genetic screening</u> - by iron profile, LFT +/- liver biopsy
+    - **Serial venesection:**
+        - <u>Intervals</u> - initially weekly venesection of 500 ml (250 mg iron) until serum ferritin \< 50 microgram/L (continued therefater to control ferritin levels)
+        - <u>Clinical efficacy</u>:
+            - Expected improvement of liver and cardiac problems
+            - Joint problems less predictable and can improve or worsen after iron removal
+            - DM does not resolve and require follw up
+    - **Regular screening of HCC** - serial liver USG, and AFP:
+        - <u>Rationale</u> - main cause of death of patients with HHC (venesection reduces but does not abolishes) risk of HCC
+    - **Genetic screening** - all family members by iron profile and LFT, Bx indicated for:
+        - Abnormal LFTs
+        - Serum ferritin \> 1000 microgram/L as predictor of significant liver disease

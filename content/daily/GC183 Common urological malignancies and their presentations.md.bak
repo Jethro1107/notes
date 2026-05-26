@@ -1,0 +1,431 @@
+---
+id: 86ee3e40-a77c-48d9-a239-751bcc80e579
+title: 2025-03-16
+---
+
+# GC183 Common urological malignancies and their presentations
+
+- **Presenting problems:**
+  - Haematuria
+  - Raised PSA
+
+## Haematuria
+
+- **Definition** - Bloody urine in lay terms, but actually defined as presence of abnormal amounts of RBC in urine microscopy (differentiate from haemoglobinuria, myoglobinuria)
+- **Epidemiology** - accounts for 20% adult urology consultations
+- **Classification:**
+  - Gross/ visible (VH) - painless gross haematuria is cancer until proven otherwise, always demands complete workup
+  - Microscopic/ non-visible (NVH) - \>= 3 RBC per high-power field on microscopic examination (2.4-31.1\$ among healthy volunter, but risk of cancer 1-3%, mostly bladder cancer)
+- **Dipstick haematuria** - presence of Hb in urine:
+  - Modality of testing - relies on peroxidase activity of Hb on a chromogen on dipstick:
+    - False +ve - menstrual blood, haemoglobinuria, myoglobinuria, dehydration
+    - False -ve - urinw with high SG, high levels of ascorbic acid, nitrites, pH \< 5, proteinuria
+    - 20-74% dipstick +ve patients have normal urine microscopy
+- **DDx of Haematuria:**
+  - Contamination - menstrual blood contamination
+  - Dehydration - concentrated urine
+  - Obstructive jaundice - bilirubinaemia
+  - Haemoglobinuria - intravascular haemolysis (PNH)
+  - Myoglobinuria - rhabdomyolysis
+  - Pigments in urine - Betanin (Beeturia), Azo (Phenazopyridine, pyridium), Rifampicin
+  - **True haematuria:**
+    - Neoplastic - RCC, urothelial carcinoma, prostate cancer, angiomyolipoma
+    - Infective - UTI, GUTB, schistosomiasis
+    - Stones - Renal, ureteric, bladder stones
+    - Glomerular - ddx of glomerular bleeding
+    - Others - ADPKD, Bleeding BPH, irradiation cystitis, bleeding tendancies
+- **Salient points of Hx:**
+  - HPI - onset, duration, gross vs microscopic, painful vs painful, timing (not reliable), exacerbating factors (exercise)
+  - Associated Sx:
+    - Fever and dysuria
+    - Loin pain
+    - Strangury
+    - ?LUTS?
+  - SHx - smoking Hx, occupational exposure to carcinogens
+  - FHx = ADPKD, urolithiasis
+  - Drug Hx - Anticoagulants
+- P/E - typically unremarkable
+- Ix:
+  - Routine baseline Ix - CBC, RFT
+  - Urine - dipstick?, urine microscopy, Urine C/ST
+  - +/- Early morning urine - for TB
+  - Mandatory Ix for gross haematuria:
+    - Cytoscopic examination of urinary bladder - flexible mainstay now
+    - Upper tract imaging - US, IV urogram, CT urogram (mainstay), MR urogram, Retrograde pyelography
+- Limitations of urine cytology - not sensitive:
+  - Detect abnormal epithelial cells
+  - Only +ve in high grade cancer or CIS, -ve in low grade bladder cancers:
+    - High specificity (96%)
+  - Results - last 2 results require further workup
+    - Unsatisfactory for examination
+    - -ve for maligant cells
+    - Atypical cells
+    - Suspicious for malignancy
+    - Carcinoma cells present
+- IVU - time honored Ix (scount, nephrgram, 5 min, 10 min, PM, ?72h)
+  - Information regarding function - assumes normal function of kidneys for excretion of contrast
+  - Direct evidence of obstruction - upholding of contrast by obstruction
+  - Disadvantages - contrast, small tumours in parenchyma missed
+- Contrast CT/ CTU (gold standard):
+  - Difference between Contrast CT and CTU - added delayed (urogram phases) to outline ureters –\> visualise filling defects
+- MR urography:
+  - Indications - avoid irradiation (e.g. pregnancy, contrast allergy, nephrotoxicity)
+  - Not first line because inferior imaging for organs moving on respiration (i.e. kidneys), and poor images on stones (appears as signal voids)
+- Retrograde pyelogram:
+  - Injection of contrast retrograde via cystoscopy
+  - Indications - renal failure (failed excretion of contrast by kidneys to outline urinary tract)
+  - +/- Intervention - stenting to relieve obstruction
+- Indications for full workup:
+  - All gross haematuria - esp. if painless
+  - FOr microscopic haematuria - AUA 2020 guidelines for risk stratification (based on age, smoking, microscopy, other risk factors):
+    - Low risk - repeat urinalysis in 6mo, or cystoscopy + USG kidneys
+    - Intermediate risk - cystoscopy and USG kidneys
+    - High risk - cystoscopy + CT urogram
+
+## Renal cell carcinoma
+
+- Epidemiology:
+  - Incidence - rising
+- Pathology - most commonly clear cell type (paraneoplastic syndrome, VTE, hereditary cancer syndromes e.g. VHL)
+- Clinical presentation:
+  - Internest tumour - presents to medical due to myriad of (paraneoplastic) Sx
+  - Radiologists tumour - incidental finding
+  - Clinical triad (very very rare nowadays) - loin pain, haematuria, palpable mass
+- Mx of localised RCC:
+  - Surgical extirpation - partial nephrrectomy/ radical nephrectomy
+  - Ablation - RFA, cryotherapy
+- Mx of metastatic RCC:
+  - Immune checkpoint - Pembrolizumab, nivolumab, ipilimumab
+  - TKI - pazopanib, sunitinib, sorafenib, axitinib
+
+## Bladder cancer
+
+- Risk factors - smoking, carcinogen exposure
+- Classification by staging:
+  - Non-muscle invasive - CIS, Ta, T1
+  - Muscle invasive - T2 or beyond
+- Staging by TUR (transurethrial resection) - T staging:
+  - If TURBT staging - muscle invasive –\> proceed to Mx (radical cystectomy)
+  - If TURBT staging non muscle invasive –\> second look TURBT to avoid under-staging
+  - Immediate instillation of MMC after each TURBT to prevent recurrence
+- Prognosis:
+  - High recurrence rates - 20-90% at 1y:
+    - Requires regular surveillance cystoscopy - q3mo at 1y, a6mo at 2y, q1y afterwards
+  - Risk fators of high recurrence and high progression:
+    - T1 high grade disease
+    - CIS disease
+  - May consider early radical systectomy or BCG induction and maintenance
+- Mx of muscle invasive Ca bladder:
+  - Standard of care - radical cystectomy + urinary diversion (radiotherapy is inferior)
+  - Options for urinary diversion:
+    - Continent - neobladder, catheterisable pouch
+    - Incontinent - ileal pouch
+  - 2y mortality 85% if without Tx
+
+## Upper tract urothelial carcinoma (UTUC)
+
+- Epidemiology:
+  - Disease of elderly
+- Risk factors:
+  - Smoking
+  - Exposure - Aristolochia fangchi (chinese herb nephropathy), Aristolochic acid (Balkan endemic nephropathy), Arsenic poisoning (blackfoot disease)
+  - HNPCC
+- Ix:
+  - Retrograde pyelogram - reveals goblet sign (cupping of contrast due to obstruction)
+- Mx:
+  - Standard of care - nephrouretectomy
+  - Note high rates of bladder recurrence –\> surveillance
+  - Alternative - partial uretectomy followed by reconstruction –\> surveillance ureteroscopy
+
+## Elevated PSA
+
+- **Physiology of PSA:**
+  - <u>Synthesis and secretion of PSA</u> - synthesis exclusive by **prostate epithelial cells** in an **androgen-dependent manner**, released into seminal fluids mainly (mg/dL), with minor amounts released into circulation (ng/dL)
+  - <u>Physiological function of PSA</u> - serine protease encoded by hKLK3 gene that liquefies semenogelin and fibronectin after ejaculation to maintain liquid state
+  - PSA expression considered exclusive in prostate epithelial cells –\> prostate-specific (but not antigen specific)
+- **PSA as a biomarker** - elevation arbitrarily defined as <u>\> 4 ng/dL</u>:
+  - <u>Principles of elevation of PSA</u> - caused by disruption of histological architecture of prostate by disease (cancer due to BM disruption) or manipulation (Bx)
+  - <u>Factors of PSA secretion independent of disease</u>:
+    - Age - 0.04 ng/ml/y
+    - Race - black race
+    - Prostate volume
+  - <u>Role of PSA as biomarker</u> - at beast an organ-specific marker, but not cancer-specific
+- **Emerging markers related to PSA:**
+  - Age-specific PSA - offers age-specific cut-off range
+  - PSA density - Serum levels divided by prostate volume (TRUS) to differentiate between prostate cancer and BPH
+  - PSA veolicity - rate of change of PSA over time (alternative to PSA doubling time)
+  - Free/ total PSA ratio \[f/t PSA\] - postulated that prostate cancer has a lower percentage of free PSA compared w/ benign conditions
+  - Prostate health index \[phi\] - risk score taking in acount of \[-2\]proPSA (isoform of proPSA synthesised by cancer cells) and free PSA
+- **DDx of elevated PSA:**
+  - Prostate cancer - typically more marked increase due to interuption of basemement membrane facilitating release into circulation
+  - BPH
+  - Prostatitis
+  - AROU
+  - Prostate trauma - Bx, massage, surgery
+- **Salient points of Hx:**
+  - <u>What is the reason for PSA testing in the first place?</u> - health check, or in the setting of clinical suspicion of prostate cancer
+  - <u>Are there any confounders for PSA testing?</u>
+    - **Urinary tract infections and prostatitis** - dysuria
+    - Acute rentention of urine - inability to pass urine
+    - Benigh prostatic hyperplasia - Lower urinary tract symptoms
+  - <u>Are there alarming features of prostate cancer?</u>
+    - **Gross haematuria** - clinical suspicion of urinary tract malignancy until proven otherwise
+    - **Constitutional Sx** - weight loss
+    - **Features of metastatic disease** - back pain, bone pain, lower limb weakness
+- **P/E:**
+  - <u>General examination</u> - uraemic features, cachexia
+  - <u>Targeted neurological examination</u> - LL weakness
+  - <u>Abdomen examination</u> - distended bladder, ballotable kidneys
+  - <u>DRE</u> - induration, nodules, median sulcus, size and consistency of prostate
+- **Diagnostic evaluation:**
+  - **Elevated PSA in the absence of identifiable confounding factors** - proceed with <u>prostate biopsy</u> after shared decision making w/ patients
+  - **Spurious elevated PSA** - repeat PSA after 4 weeks
+- **Principles of prostate Bx** - currently transrectal ultrasound-guided prostate biopsy (TRUS-Bx) is gold standard, but there are recent advancements with lowered risks:
+  - <u>Indications</u>:
+    - 1\. Elevated PSA w/o confounders
+    - 2\. Suspicious DRE findings
+  - <u>Procedures</u>:
+    - **Transrectal ultrasound-guided biopsy** (TRUS-Bx) - systematic template Bx with variable number of cores (8-12) under transrectal US guidance (under ABx prophylaxis and LA)
+    - **MRI/USG fusion-targeted biopsy** (potentially higher cancer detection rate) - multiparametric MRI and grading of suspicious lesions on PIRADs system with fusion of images into TRUS images for targeted biopsy
+    - **Transperitineal biopsy** - systematic Bx via transperitoneal route w/ close to zero sepsis rate
+  - <u>Complications</u>:
+    - **Mild complications** - PR bleeding, haematuria, dysuria, transient increased LUTS
+    - **Severe complications** - Post-biopsy infection (PBI), acute retention of urine, vasovagal syncope
+  - <u>Post-biopsy infection</u> - occurs in 4.3% of TRUS-Bx (1.8% in MRI/USG fusion-targeted Bx):
+    - **Pathophysiology** - Translocation of rectal bacteria into systemic circulation, which is not fully cleared by ABx prophylaxis, resulting in sepsis
+    - **Onset** - within 1 week (most within 24h)
+
+## Prostate cancer
+
+- Clinical staging:
+  - MSKCC prostate cancer Nomograms - combine PSA, Gleason scores, and clinical staging (DRE), and Bx results
+  - Radiologic imaging:
+    - PSMA-PET scan (PSMA as staging) - for intermidiate to high risk disease to exclude metastatic disease
+    - MRI - size, configuration, extraprostatic extension
+  - Pelvic lymphadenectomy
+- Stratification by staging:
+  - Organ confined
+  - Locally advanced
+  - Metastatic disease
+  - Castration resistant
+- Mx:
+  - Organ confined disease (curative intent) - radical prostatectomy, radiotherapy
+  - Locally advanced - radical prostatectomy + post-op RT/ADT +/- neoadjuvant
+  - Metastic - androgen deprivation therapy + cytotoxic chemotherapy/ AR-targeted therapy
+
+# GC210 Urinary Tract Infection
+
+- UTI - defined as inflammatory response of the urothelium to invasion by bacteria or other pathogens, usually a/w bacteriuria and pyuria
+- Epidemiology - one of most common bacterial infection:
+  - Prevalence - 1/3 F have 1 UTI by 24 (\> 50% lifetime risk in F)
+- Overlap in symptomatology with patients with chronic pelvic pain syndrome, over-active bladder, IC, BPH/LUTS
+- Terminology:
+  - Bacteriuria - presence of bacteria in urine (does not equate infection):
+    - DDx - colonisation or contamination
+    - Symptomatic vs asymptomatic
+  - Pyuria - presence of WBC in urine, indicative of infection/ inflammatory response (does not equate infection)
+    - DDx - Urolithiasis, Malignancy, TB
+- Pathophysiology - interaction between host and uropathogens:
+  - Host factors - inherent susceptibility, defense mechanisms:
+    - Defense mechanisms - normal flora (lactobacilli produces low vaginal pH), cervical IgA, antegrade flow of urine (physical and chemical characteristics, pH, high osmolality, Tamm-Horsfall protein), normal emptying of bladder allows exfoliation of urothelial
+    - Susceptibility:
+      - Vaginal cell susceptibility - to bacterial adherance
+      - Lewis blood group 0 determines ability of cellular fucosylaion, affects adherance (non-secretory status a/w pre-menopausal acute pyelonephritis)
+  - Uropathogen factors - virulence, inoculum size:
+    - Adherence - fimbrae (e.g. mannose-resistance pili more prone to acute pyelonephritis)
+    - Toxins - haemolysin A
+    - Urease - urea into ammonia (stones)
+    - Bacterial adherence –\> colonoization/ ascending infection –\> bacterial invasion and clinical UTI
+  - Routes of infection:
+    - Ascending infection - rectum –\> urethra –\> bladder, facilitated by indwelling catheter, ureteric obstruction, and vesicoureteric reflux
+    - Haematogenous - spread from extra-renal source of bacteremia (GUTB)
+    - Direct extension - from neighboring source
+- Microbiology - most are facultative anaerobes from bowel flora:
+  - Etiology of community acquired UTI - E. coli (85%), Proteus spp, Klebsiella spp, Enterococcus, Staphylococcus saprophyticus
+  - Etiology of nosocomial UTI - E. coli (50%), pseudomonas, citrobacter, Providencia, Serratia etc.
+- Clinical types of UTI:
+  - Anatomical classification:
+    - Cystitis
+    - Pyelonephritis
+    - Pyonephrosis
+    - Renal abscess
+    - Prostatis
+    - Epididymo-orchitis
+    - Urethritis/ STD
+  - By population:
+    - Uncomplicated UTI - in anatomically physiologically normal urinary tracts w/ normal host defense mechanism
+    - Complicated UTI - secondary to urological pathology, e.g. neuropathic bladder, urinary tract obstruction, bladder diverticulum, stones (increased risk of recurrent infection and failing Tx)
+    - Special groups - pregnancy and children
+- Workup for suspected UTI:
+  - Hx:
+    - Associated gross haematuria
+    - Previous antibiotic Tx
+    - Presence of complicated features - e.g. stones, previous surgery to urinary tract, neurogenic bladder
+    - Recurrent UTI - defined as \>=2 in 6mo or \>=3 in 1y
+    - Social Hx and drug Hx –\> screen for ketamine use
+  - Ix:
+    - Urinalysis + Urine C/ST
+      - Urinalysis:
+        - Gross examination - appearance (cloudy)
+        - Biochemical examination - pH, specific gravity, osmolality, leukocyte esterase, nitrates
+        - Microscopic examination - pyuria, RBC (casts, or dysmorphic)
+          - Pyuria - defined as \> 10 WBC/mm3
+          - DDx of sterile bactiuria:
+            - GUTB - save EMU
+            - Bladder cancer
+            - Urinary tract stones
+            - Schistomsomiasis
+            - Partially treated UTI
+            - Other inflammatory bladder conditions - e.g. interstital cystitis, ketamine cystitis
+      - Urine C/ST:
+        - Specimen - Mid-stream urine (MSU):
+          - Prone to contamination (1/3 contaminated in F patients)
+        - Instructions:
+          - F - spread labia and clean periurethral area with moist gauze back to front, catch MSU (10-15ml after initial 100-150ml void)
+          - M - retract forskin (if uncircumcisede), wash glans with soap and water, catch MSU
+        - Cutoff of +ve urine culture - traditionally \>= 10<sup>5</sup> CFU by definition, lower cutoff for symptomatic patients:
+          - Uncomplicated cystititis - \>= 10<sup>3</sup> CFU
+          - Uncomplicated pyelonephritis - \>= 10<sup>4</sup> CFU
+    - +/- RFT, imaging (complicated UTI)
+    - EAU guidelines on UTI imaging:
+      - Uncomplicated cystitis in F - no role of imaging
+      - Uncomplicated pyelonephritis in F - US (demonstrate stones/ hydronephrosis). CT kidneys (if S/S not improving in 72h), KUB for stones
+      - UTI in men (most are complicated)
+    - Mx:
+      - Uncomplicated cystitis - ABx for 3d (except nitrofurantoin which should be given for 7d)
+      - Uncomplicated pyelonephritis - Admission + IV ABx 10-14d
+
+## Asymptomatic bacteriuria
+
+- Definition - Defined \>= 10<sup>5</sup> in F and \>= 10<sup>3</sup> in M in the absence of Sx
+- Does not equate clinical UTI
+- Epidemiology:
+  - Prevalence - 4-7% women
+- Screening and Tx not indicated in:
+  - Pre-penopausal non-pregnant women
+  - Postmenopausal women
+  - Men
+  - Indwelling catheters
+  - Nephrostomy tubes/ JJ stent
+  - Spinal cord injury
+- Screening and Tx of recommended in:
+  - Pregnant F
+  - Patient undergoing genitourinary procedure w/ risk of mucosal bleeding - e.g. TURP, lithotripsy
+- Pregnancy and asymptomatic bacteriuria:
+  - Incidence - similar to non-pregnant F
+  - Pathophysiology - progression from asymptomatic bacteriuria and ascending infection (e.g. hydronephrosis and hydroureters)
+  - Complications:
+    - Upper tract infections - a/w prematurity and low birth rate
+  - Mx - routine screening and Tx of asymptomatic bacteriuria
+- Approach:
+  - Differentiate w/ contaminated specimen (based on dipstick and microscopy results)
+
+## Recurrent UTI
+
+- Definition - documented resolution of previous one occuring at frequency of:
+  - \>= 2 episodes in 6 mo
+  - \>= 3 episodes in 1y
+- Etio-pathophysiology:
+  - Bacterial persistence/ relapse - recurrence of same organism from a foci within urinary tract (e.g. stones, bladder diverticulum)
+  - Bacterial re-infection (\>95%) - recurrent UTI caused by different organisms or same organism but separated by documented period of no growth in urine
+- Risk factors:
+  - Pre-menopausal women:
+    - Sexual intercourse
+    - Use of spermicide and diaphragm
+    - Pelvic anatomy - urethra to anus distance
+    - Age of 1st UTI
+    - +ve FHx of recurrent UTI
+    - Prior anti-microbial use
+  - Post-menopausal women:
+    - Estrogen deficiency
+    - Incontinence
+    - Cystocele
+    - Large post-void residual urine
+    - Hx of UTI before menopause
+    - Genetic factors
+
+## Urinary Tract Infections
+
+- **Definition and terminology:**
+  - <u>Urinary tract infections</u> - clinical syndrome caused by bacterial infection at any level along the urinary tract
+  - <u>Bacteriuria</u> - presence of bacteria in urine, which may reflect colonisation, contamination or actual infection
+  - <u>Pyuria</u> - presence of white blood cell in urine, merely indicative of an inflammatory response within the urinary tract
+- **Epidemiology** - extremely common infection:
+  - <u>Prevalence</u> - \> 50% F will have \>= 1 episode of UTI in their lifetime
+  - <u>Demographic</u>:
+    - Age - 1/3 will have 1 episode by 24y
+    - Sex - common in F, much less common in M
+- **Natural defense of the urinary tract:**
+  - <u>Physical factors</u>:
+    - Normal emptying of bladder and anterograde flow of urine
+    - Normal exfoliation of urothelial cells
+    - Tight cell-cell junctions between urothelial cells
+  - <u>Chemical factors</u> - high osmolality of protein, mucosal IgA, Tamm-Horsfall protein
+  - <u>Microbiological factors</u> - presence of lactobacilli in vagina, introitus and periurethral area results in production of low pH (estrogen-dependent)
+- **Etiological agents of Community acquired UTI:**
+  - <u>Facultatively GNR</u> (bowel flora) - E. coli (85%), Proteus spp, Klebsiella spp
+  - <u>GPC</u> - enterococcus, S. saprophyticus (10% of acute cystitis in sexually-active young women)
+  - <u>Anaerobes</u> (capable of causing nosocomial infections)
+- **Etiological agents of nosocomial UTI** - can be polymicrobial:
+  - <u>GNR</u> - E. coli and other enterobacter spp, Pseudomonas, Citrobacter, Providencia, Serratia
+  - <u>CNS</u> - e.g. S. epidermidis
+- **Routes of infection:**
+  - <u>Ascending route</u> (commonest) - ascends from rectum to urethra to bladder, and ocassionally to the kidneys (facilitated by BOO, vesicoureteral refluxes, or prolonged instrumentation)
+  - <u>Haematogenous spread</u> (rare) - from pre-existing bacteraemia (e.g. S. aureus)
+  - <u>Direct extension</u> - from neighboring suppurative infections
+- **Classification of UTI by the host:**
+  - <u>Uncomplicated UTI</u> - UTI occuring in an anatomically, physiologically urinary tract with normal host defense mechanisms
+  - <u>Complicated UTI</u> - UTI occuring in an anatomically, or physiologically abnormal urinary tract that is a/w increased risk of acquiring infections or failing Tx
+  - <u>Special groups</u> - UTI in pregnancy, UTI in children
+- **Approach to uncomplicated v.s. complicated UTI:**
+  - <u>Uncomplicated UTI</u> (a/w usual uropathogens) - Tx in out-patient setting with short-duration of ABx therapy
+  - <u>Complicated UTI</u> - Tx in in-patient setting, likely with longer duration of ABx therapy, where cure w/o recurrence is only achieved if the complicating features is erradicated
+- **Ix:**
+  - **Urine** - dipstick, microscopy, biochemistries, and C/ST:
+    - **Urine dipstick** - leukocyte esterase, nitrites:
+      - <u>Leukocyte esterase</u> - +ve (LE produced by neutrophils)
+      - <u>Nitrites</u> - +ve (most GNR convert nitrates into nitrites)
+      - <u>Urinary pH</u> - elevated pH suggestive of infection by <u>urease-producing bacteria</u> that often complicates w/ struvite stone formation (e.g. proteus, Klebsiella, Pseudomonas)
+    - **Urine microscopy** - for pyuria (\> 10 cells/ mm3) +/- microhaematuria (absence of squammous epithelial cells suggests absence of contamination)
+    - **Urine culture and sensitivity testing** - from MSU (see technical details below)
+  - **Urological imaging** - KUB +/- CT urogogram for evaluation of urinary tract in selected patients:
+    - **Indications for urological evaluation:**
+      - <u>UTI in women</u> - USG indicated in suspected pyelonephritis to r/o stones/ obstruction
+      - <u>UTI in men</u> - full urological workup indicated for all men
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Determine clinical type of UTI</u> - cystitis vs acute pyelonephritis
+    - <u>Determining cause of UTI</u> - identify complicated vs uncomplicated UTI
+    - <u>Initiate ABx therapy</u> - empirical therapy dependent on the most likely organisms
+  - **ABx therapy:**
+    - <u>Uncomplicated cystitis</u> - short-course augmentin (3d) or prolonged course nitrofurantoin (7d)
+    - <u>Acute pyelonephritis</u> - prolonged course augmentin/ tasozin/ ceftriazone (consider meropenem if no clinical improvement \[due to ESBL\])
+- **Urine dipstick:**
+  - **Leukocyte esterase** - enzyme expressed in neutrophils:
+    - <u>Interpretation</u> - +ve results indicative of pyuria, i.e. active inflammation along the urinary tract
+    - <u>Test properties</u> - high Sn for UTI (70-95%)
+    - <u>Causes of false +ve</u>:
+      - Presence of formalin
+      - Contamination by vaginal discharge
+    - <u>Causes of false -ve</u>:
+      - High specific gravity
+      - Dehydration
+      - Glycosuria
+      - Presence of urobilinogen
+      - Test read too late (due to WBC lysis)
+  - **Nitrites** - G- bacteria convert nitrates in urine into nitrites:
+    - <u>Interpretation</u> - +ve results suggestive of bacteriuria (N.B. not clinical infection if asymptomatic)
+    - <u>Test properties</u> - variable Sn (35-85%), high Sp (92-100%)
+    - <u>Causes of false +ve</u>:
+      - Contamination by vaginal flora
+    - <u>Causes of false -ve</u>:
+      - UTI by non-fermenters (e.g. Pseudomonas)
+      - UTI by GPC (e.g. S. saprophyticus, enterococcus)
+- **DDx for sterile pyuria:**
+  - Urinary tract stones
+  - Genitourinary TB
+  - Urothelial carcinoma
+  - Schistosomiasis
+  - Partially treated UTI
+  - Other inflammatory bladder conditions (e.g. interstitial cystitis)
+  - Tubulointerstitial nephritis

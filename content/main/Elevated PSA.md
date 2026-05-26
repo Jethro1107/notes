@@ -1,0 +1,62 @@
+---
+id: 3a491c9e-4a57-4f05-a35f-bf92ab2a190a
+title: Elevated PSA
+---
+
+# Elevated PSA
+
+- **Physiology of PSA:**
+    - <u>Synthesis and secretion of PSA</u> - synthesis exclusive by **prostate epithelial cells** in an **androgen-dependent manner**, released into seminal fluids mainly (mg/dL), with minor amounts released into circulation (ng/dL)
+    - <u>Physiological function of PSA</u> - serine protease encoded by hKLK3 gene that liquefies semenogelin and fibronectin after ejaculation to maintain liquid state
+    - PSA expression considered exclusive in prostate epithelial cells –\> prostate-specific (but not antigen specific)
+- **PSA as a biomarker** - elevation arbitrarily defined as <u>\> 4 ng/dL</u>:
+    - <u>Principles of elevation of PSA</u> - caused by disruption of histological architecture of prostate by disease (cancer due to BM disruption) or manipulation (Bx)
+    - <u>Factors of PSA secretion independent of disease</u>:
+        - Age - 0.04 ng/ml/y
+        - Race - black race
+        - Prostate volume
+    - <u>Role of PSA as biomarker</u> - at beast an organ-specific marker, but not cancer-specific
+- **Emerging markers related to PSA:**
+    - Age-specific PSA - offers age-specific cut-off range
+    - PSA density - Serum levels divided by prostate volume (TRUS) to differentiate between prostate cancer and BPH
+    - PSA veolicity - rate of change of PSA over time (alternative to PSA doubling time)
+    - Free/ total PSA ratio \[f/t PSA\] - postulated that prostate cancer has a lower percentage of free PSA compared w/ benign conditions
+    - Prostate health index \[phi\] - risk score taking in acount of \[-2\]proPSA (isoform of proPSA synthesised by cancer cells) and free PSA
+- **DDx of elevated PSA:**
+    - Prostate cancer - typically more marked increase due to interuption of basemement membrane facilitating release into circulation
+    - BPH
+    - Prostatitis
+    - AROU
+    - Prostate trauma - Bx, massage, surgery
+- **Salient points of Hx:**
+    - <u>What is the reason for PSA testing in the first place?</u> - health check, or in the setting of clinical suspicion of prostate cancer
+    - <u>Are there any confounders for PSA testing?</u>
+        - **Urinary tract infections and prostatitis** - dysuria
+        - Acute rentention of urine - inability to pass urine
+        - Benigh prostatic hyperplasia - Lower urinary tract symptoms
+    - <u>Are there alarming features of prostate cancer?</u>
+        - **Gross haematuria** - clinical suspicion of urinary tract malignancy until proven otherwise
+        - **Constitutional Sx** - weight loss
+        - **Features of metastatic disease** - back pain, bone pain, lower limb weakness
+- **P/E:**
+    - <u>General examination</u> - uraemic features, cachexia
+    - <u>Targeted neurological examination</u> - LL weakness
+    - <u>Abdomen examination</u> - distended bladder, ballotable kidneys
+    - <u>DRE</u> - induration, nodules, median sulcus, size and consistency of prostate
+- **Diagnostic evaluation:**
+    - **Elevated PSA in the absence of identifiable confounding factors** - proceed with <u>prostate biopsy</u> after shared decision making w/ patients
+    - **Spurious elevated PSA** - repeat PSA after 4 weeks
+- **Principles of prostate Bx** - currently transrectal ultrasound-guided prostate biopsy (TRUS-Bx) is gold standard, but there are recent advancements with lowered risks:
+    - <u>Indications</u>:
+        - 1\. Elevated PSA w/o confounders
+        - 2\. Suspicious DRE findings
+    - <u>Procedures</u>:
+        - **Transrectal ultrasound-guided biopsy** (TRUS-Bx) - systematic template Bx with variable number of cores (8-12) under transrectal US guidance (under ABx prophylaxis and LA)
+        - **MRI/USG fusion-targeted biopsy** (potentially higher cancer detection rate) - multiparametric MRI and grading of suspicious lesions on PIRADs system with fusion of images into TRUS images for targeted biopsy
+        - **Transperitineal biopsy** - systematic Bx via transperitoneal route w/ close to zero sepsis rate
+    - <u>Complications</u>:
+        - **Mild complications** - PR bleeding, haematuria, dysuria, transient increased LUTS
+        - **Severe complications** - Post-biopsy infection (PBI), acute retention of urine, vasovagal syncope
+    - <u>Post-biopsy infection</u> - occurs in 4.3% of TRUS-Bx (1.8% in MRI/USG fusion-targeted Bx):
+        - **Pathophysiology** - Translocation of rectal bacteria into systemic circulation, which is not fully cleared by ABx prophylaxis, resulting in sepsis
+        - **Onset** - within 1 week (most within 24h)

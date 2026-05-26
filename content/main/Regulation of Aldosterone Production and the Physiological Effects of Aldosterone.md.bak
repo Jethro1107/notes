@@ -1,0 +1,16 @@
+---
+id: 3BEB885E-2630-447B-ADB6-6BB92E30B262
+roam_parent: c7026d4b-2cb0-4fb0-a526-a6d017e49259
+title: Regulation of Aldosterone Production and the Physiological Effects of Aldosterone
+---
+
+# Regulation of Aldosterone Production and the Physiological Effects of Aldosterone
+
+- **Negative feedback control of minerocorticoid production by the RAAS:** 
+![](../img/regulation_of_renin_angiotensin_aldosterone_system.png)
+- **Effects of aldosterone on minerocorticoid target cell:**
+  - <u>Binding to minerocorticoid receptors</u> - results in dissociation of HSP-recetpro resulting in homodimerisation of MR and translocation of the dimer to nucleus
+  - <u>Translocation of dimer</u> - enhanced transcription mediating MR effects (**increased ENaC expression and traslocation to membrane surfaces**):
+    - Increased expression of eptihelial Na channels (ENaC) but does not translocation of surface due to Nedd4
+    - Increased expression of serum glucocorticoid-inducible kinase 1, which reduces effects on Nedd4 resulting in increased ENaC translocation
+  - <u>Physiological effects</u> - Na and water retention at the expense of K extrusion

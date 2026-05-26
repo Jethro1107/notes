@@ -1,0 +1,83 @@
+---
+id: 645837b5-6570-4fde-8ea9-4008d47d156b
+title: Diabetic Retinopathy
+---
+
+# Diabetic Retinopathy
+
+- **Definition** - diabetic microangiopathy involving the eyes mediated by chronic retinal ischaemia and angiogenesis
+- **Epidemiology:**
+    - <u>Incidence</u> - increases w/ duration of diabetes (almost invariable after 20y of DM)
+    - <u>Burden</u> - one of the most common cause of <u>preventable blindness</u> in adults between 30 and 50y
+- **Pathophysiology of diabetic retinopathy:**
+    - <u>Effects of hyperglycaemia on retinal cells</u> - disrupts vascular autoregulation, stimulates production of vasoactive substances and enodothelial injury, culminating into **endothelial hypoperfusion**
+    - <u>Increased expression of VEGF</u>:
+        - **Increased endothelial cell proliferation** - results in new vessel formation and subsequently retinal haemorrhages
+        - **Increased vascular permeablity** - causing retinal leakages and exudation
+- **Risk factors for diabetic retinopathy:**
+    - **Non-modifiable risk factors** - duration of DM, pregnancy
+    - **Modifiable risk factors:**
+        - Poor glycaemic control
+        - Hypertension
+        - Hyperlipidaemia
+        - Nephropathy/ renal disease
+        - Smoking
+        - Obesity
+- **Natural Hx of diabetic retinopathy** - progressive condition classified into non-proliferative DR, and proliferative DR:
+    - **Non-proliferative DR:**
+        - <u>Microaneurysms</u> - mainly arise from the venous end of capillaries and appear as discrete darker red spots
+        - <u>'Dot' and 'blot' haemorrhages</u> - occur at deeper layers of the retina
+
+    
+    ![](../img/nonproliferative_dr.png)
+    - **Pre-proliferative DR:**
+        - <u>Cotton wool spots</u> - indicate capillary infarction within nerve fibre areas
+        - <u>Venous beading</u> - saccular bulges in veins, appearing as a string of 'sausages'
+        - <u>Intra-retinal microvascular anomalies</u> (IRMA) - spidery vessels, often w/ sharp corners that indicate dilatation of pre-existing vessels
+
+    ![](../img/cotton_wool_spots.png) 
+    ![](../img/venous_beading_and_intraretinal_vascular_anomalies_in_dr.png)
+    - **Proliferative DR:**
+        - <u>Neovascularisation</u> - new vessel formation either on the optic disc or the retina, initially arcades of vessels on the surface of the retina, but may extend forward to involve the vitreous
+        - <u>Vitreous haemorrhage</u> - pre-retinal haemorrhage, accounting for sudden visual loss, and results in subsequent fibrosis, scarring and trational retinal detachment
+
+    
+    ![](../img/proliferative_dr.png)
+    - **Clinical significant macular oedema** (CSMO):
+        - Can occur at any stage of DR
+        - Characterised by hard exudates in the central retina
+- **Rubeosis iridis:**
+    - New vessel formation on the anterior surface of the iris
+    - Obstruction of the drainage angle of the eye and the outflow of aqueous fluid, resulting in secondary glaucoma
+- **Clinical features of diabetic retinopathy:**
+    - <u>Asymptomatic</u> - microaneurysms, vascular anomalies and small exudates and haemorrhaes situated in the periphery will not interfere w/ vision
+    - <u>Progressive vision loss</u> - if there is clinically significant macular oedema, where vascular changes are often present in the macular region, and CSMO confirmed on SL
+    - <u>Sudden visual loss</u>- often as a result of vitreous haemorrhage or retinal detachment
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Primary prevention</u> - good glycaemic control, BP control and lipid control
+        - <u>Secondary prevention</u> - through annual screening
+        - <u>Retinal photocoagulation</u> - indicated in severe proliferative or very severe non-proliferative retinopathy, or CSMO
+    - **Primary Prevention:**
+        - <u>Glycaemic control</u> - large epidemiological studies demonstrate that good glycaemic control reduces incidence and progression of DR in both type 1 and type 2 DM
+        - <u>BP control</u> - more aggressive BP control of targeting \< 130/80 mmHg is a/w slower progression of DR
+        - <u>Lipid control</u> - some studies suggest the association, although to a lesser extent to BP and glycaemic control (although still treated to avoid MACE)
+    - **Screening** - annual screening recommended to detect disease in early stages when Tx most effective
+    - **Retinal photocoagulation** (laser treatment):
+        - <u>Indications</u>:
+            - Severe proliferative DR
+            - Very severe non-proliferative DR
+            - Neovascularisation elsewhere w/ vitreous haemorrhage
+            - Neovascularisation w/o vitreous haemorrhage
+            - CSMO
+        - <u>MOA</u>:
+            - Reduce macular oedema by treating leaking microaneurysms and areas of retinal thicking
+            - Destroy areas of retinal ischaemia to reduce intra-occular VEGF levels
+            - Reduce risk of recurrent haemorrhage by inducing gliosis and fibrosis of new vessels
+- **Other causes of visual loss in people of diabetes:**
+    - Cateract
+    - Glaucoma (primary or secondary)
+    - Age-related macular degeneration
+    - Retinal vein occlusion
+    - Retinal artery occlusion
+    - NAION

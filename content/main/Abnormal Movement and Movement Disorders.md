@@ -1,0 +1,34 @@
+---
+id: da5585b4-e174-4bed-829a-990c0bff7312
+title: Abnormal Movement and Movement Disorders
+---
+
+# Abnormal Movement and Movement Disorders
+
+- **Classification** - classified into hyperkinetic disorders (excess, unwanted movements). or hypokinetic disorders 
+![](../img/movement_disorders.png)
+- **Pathophysiology of movement disorders:**
+    - <u>Lesion localised to the basal ganglia</u> - due to disturbances in function of BG to inhibit excess unwanted movement, and promote wanted movements
+    - <u>Tremors may be a/w other pathologies</u> - e.g. cerebellar or brainstem dysfunction, metabolic causes
+- **Tremors** - rhythmic osscilation of a body part caused by involuntary alternating contraction and relaxation of an antagonistic pair:
+    - **Types of tremors:**
+        - **Rest tremors** - tremors maximal at rest or occurs only at rest (by definition the body part must be completely supported against gravity and not performing any voluntary movements)
+        - **Postural tremors** - Occurs when body part maintains a certain posture
+        - **Kinetic tremors** - tremors occuring during voluntary movement
+            - **Simple kinetic tremors** - tremors roughly the same in frequency and amplitude during the course of voluntary movements
+            - **Intention tremors** - tremors increase as body part approaches its target
+    - **Etiology of tremors:**
+        - **Rest tremors** - parkinsonism and parkinson's disease
+        - **Postural tremor** - Physiological tremors, essential tremors, drugs, substances, hyperthyroidism, HE, hypoglycaemia
+        - **Intention tremors** - cerebellar disorders
+
+    
+    ![](../img/davidson_causes_and_characteristics_of_tremors.png)
+- **Other hyperkinetic syndromes:**
+    - <u>Chorea</u> - jerky, brief purposeless involuntary movements that appear as fidgity movements, suggestive of pathology affecting the Caudate
+    - <u>Athetosis</u> - slower, writhing movements of the limb, can occur w/ chorea (choreoathestosis) and has the same etiologies
+    - <u>Ballism</u> - dramatic form of chorea with violent flinging movements of one limb (monoballism), or one side of the body (hemiballism) and localises to the contraleteral Subthalamic nucleus (mostly caused by strokes)
+    - <u>Dystonia</u> - sustained muscle contraction causing abnormal posturing and movements
+    - <u>Myoclonus</u> - brief, isolated random jerks, may be physiological (e.g. hypnic jerks), or localises to part of the cortex (e.g. epilepsy)
+    - <u>Tics</u> - stereotyped repetitive movements which may be consciousless suppressed for a brief period of time (childhood disorders)
+- **Hypokinetic disorders** - parkinsonism (see notes on parkinsonism and PD), catatonia

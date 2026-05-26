@@ -1,0 +1,100 @@
+---
+id: 8841bc4b-b675-4ec9-8628-83df86764f31
+title: Goitre
+---
+
+# Goitre
+
+- **Definition** - focal or diffuse swelling of the thyroid gland, which can be a source of considerable anxiety for patients
+- **Epidemiology** - 30% of adult female population
+- **Etiology of thyroid swelling** - principally arises as 1) diffuse goitre, 2) multinodular goitre, and 3) simple thyroid nodule:
+    - **Diffuse goitre** - Autoimmune thyroid disease (Graves', Hasthimoto's), Simple Goitre, Iodine-related thyroid disease, transient thyroiditis, suppurative bacterial thyroiditis, Riedel's thyroiditis
+    - **Simple thyroid nodule** - colloid cyst, hyperplastic nodule, benign thyroid neoplasia (follicular adenoma), malignant thyroid neoplasia (Follicular carcinoma, papillary carcinoma, medullary carcinoma, anaplastic carcinoma), lymphoma, metastasis
+    - **Multinodular goitre**
+
+  
+  ![](../img/causes_of_goitre.png)
+- **Clinical presentation of goitre:**
+    - <u>Incidental finding</u> - impalpable thyroid nodule that is found incidentally on imaging for another reason (e.g. Doppler US for carotid stenosis, CTPA, CT, MRI, PET)
+    - <u>Noticible neck swelling</u> - classically presents when the individual (or friend/ relative) notices a neck swelling
+    - <u>Painful neck swelling</u> - can occur in painful thyroiditis, or due to haemorrhage into multinodular goitre or solitary nodules
+- **DDx of anterior neck swelling:**
+    - Thyroid swelling - diffuse goitre, simple thyroid nodule, multinodular goitre, thyroglossal cyst
+    - Lymphadenopathy - e.g. metastasis, lymphoma, reactive lymphadenopathy
+    - Branchial cysts
+    - Dermoid cysts
+- **Salient points of Hx:**
+    - <u>HPI</u> - onset, duration, progression, pain, compressive Sx:
+        - **Onset** - rapidly growing mass is suspicious of malignancy
+        - **Pain** - tenderness over thyroid mass is a/w painful thyroiditis or haemorrhage into nodules
+        - **Compressive Sx** - dysphagia, stridor and dyspnoea, hoarseness (recurrent laryngeal nerve and superior laryngeal nerve involvement) prompts urgent evaluation
+    - <u>Associated Sx</u> - thyrotoxic Sx and constitutional B symptoms:
+        - **Thyrotoxic Sx** - unintentional weight loss, heat intolerance, palm sweat, palpitations
+        - **Constitutional B Sx** - fever, night sweats, weight loss
+    - <u>PMH and FHx</u> - risk factor assessment:
+        - **Prior H&N irradiation**
+        - **FHx of thyroid cancer**
+        - **FHx of thyroid cancer Sx** (e.g. MEN2)
+- **P/E:**
+    - <u>Features suspicious of malignancy</u> - cervical LN, vocal cord paralysis
+- **Ix:**
+    - **TSH** - detection of biochemical thyrotoxicosis or hypothyroidism, or normal TSH:
+        - <u>Low TSH</u> (thyrotoxicosis) - work up as thyrotoxicosis, and may require <u>thyroid scintiography</u> for confirmation of hot nodule
+        - <u>Normal TSH</u> - typically a 'cold' nodule (with higher chance of malignancy) and subsequently worked up with <u>thyroid US +/- FNAC</u>
+        - <u>High TSH</u> (hypothyroidism) - workup as hypothyrodism
+    - **Thyroid ultrasound**:
+        - <u>Indications</u> - TSH normal (cold nodule)
+        - <u>Characterisation of thyroid nodules</u>:
+            - **Size and number** - guides whether FNAC is indicated
+            - **Sonographic features suggestive of malignancy** (incorporated into TIRADs, see below) - taller than wide, microcalcification, hypervascularity, irregular infiltrative margins, large size, solid, hypoechoic
+            - **Sonographic features suggestive of benign etiology** - pure cystic nodule, spongiform appearance
+    - **Fine needle aspiration cytology** (FNAC):
+        - <u>Indications</u> - guided by size and TIRADS classification:
+            - **Size** - typically \>= 1cm nodules are considered for FNAC, but can be performed later based on <u>suspicion of malignancy based on clinical or radiological grounds</u>
+            - **TIRADS** - very low suspicion pattern can be observed up to 2cm (e.g. spongiform), while high suspicion patterns require earlier FNAC
+        - <u>Role</u> - differentiation between benign (80%) from definitely malignant or indeterminate (20%) nodules based on Bethesda classification (see below) +/- molecular testing
+        - <u>Limitations</u>:
+            - **Non-diagnostic FNAC** - inadequate specimen obtained in 10-20% cases requiring repeat FNA
+            - **No histological information** - cannot differentiate between follicular adenoma and carcinoma
+- **Thyroid Imaging, Reporting, and Data System** (TIRADS) - sonographic features on thyroid USG for selecting nodules for FNAC:
+    - <u>Principles</u> - each suspicious features are assigned points, and nodules are categorized as TR1-5 based on total points with increasing suspicion of malignancy
+    - <u>Sonographic features of malignancy</u>:
+        - Solid
+        - Hypoechogenicity
+        - Taller than wide
+        - Irregular/ infiltrative margins
+        - Microcalcifications (punctate echogenic foci)
+        - Coarse calcifications
+        - Interrupted eggshell calcification w/ soft tissue extrusion
+        - Associated lymphadenopathy
+    - <u>Sonographic features a/w benign causes</u>:
+        - Simple cysts
+        - Hyperechoic or isoechoic
+        - Spongiform appearance
+        - Comet tail artifact within a cystic component of a nodule
+    - <u>Indications of biopsy</u> - based on TIRADS class and size:
+        - TIRADS 1-2 - No FNAC, but routine thyroid US
+        - TIRADS 3 - FNAC if \>= 25mm
+        - TIRADS 4 - FNAC if \>= 15mm
+        - TIRADS 5 - FNAC if \>= 10mm
+
+    
+    ![](~/Documents/notes/img/TIRADS_indications_for_FNAC.png)
+- **FNAC cytology** - 6 diagnostic categories based on Bethesda classification: 
+![](~/Documents/notes/img/bethesda-classification.png)
+    - <u>Bethesda I</u> (non-diagnostic FNAC) - requires repeat FNA at 4-6 week
+    - <u>Bethesda II</u> (benign nodule) - continuous follow-up if there is a false-negative rate of benign interpretation
+    - <u>Bethesda III</u> (AUS or FLUS) - requires repeat FNA +/- role of molecular markers
+    - <u>Bethesda IV</u> (follicular neoplasms) - role of molecular markers or direct hemithyroidectomy
+    - <u>Bethesda V</u> (suspicious for malignancy) - direct referral for hemithyroidectomy
+    - <u>Bethesda VI</u> (malignant) - direct referral for total thyroidectomy
+
+  
+  ![](~/Documents/notes/img/bethesda_classifcation_uptodate.png)
+- **Mx** - guided by FNAC findings:
+    - **Thyroid surgery** - indicated for:
+        - 1\. **Inconclusive or malignant FNAC** - Solitary nodules with <u>solid component</u> in which cytology is either inconclusive or suggestive of malignancy on Bethesda classification
+        - 2\. **Compressive Sx** - for benign goitres resulting in stridor, dysphagia, or retrosternal extension
+        - 3\. **Cosmetics** - based on patient's preference
+    - **Repeat FNAC** - considered if non-diagnostic or indeterminant Bx
+    - **Conservative Mx** (interval US) - indicated for patients with benign cytology and benign sonographic features

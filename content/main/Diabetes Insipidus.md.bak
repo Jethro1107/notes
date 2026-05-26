@@ -1,0 +1,76 @@
+---
+id: 9e764ec4-35a0-44d4-bf33-f44958000186
+title: Diabetes Insipidus
+---
+
+# Diabetes Insipidus
+
+- **Definition and terminology** - persistent disorder characterised by persistent free quantities of diluted urine and by thirst, reflecting pathology of the ADH axis:
+  - <u>Cranial DI</u> - DI caused by deficient production of ADH in the hypothalamus
+  - <u>Nephrogenic DI</u> - caused by renal tubules being unrresposive to ADH
+- **Etiology of DI:**
+  - **Cranial DI:**
+    - <u>Structural hypothalamic or high stalk lesion</u> - e.g. primary pituitary tumour, carniopharyngioma, meningioma
+    - <u>Traumatic</u> - TBI, transphenoidal surgery
+    - <u>Genetic defect</u>:
+      - AVP gene mutation (autosomal dominant)
+      - DIDMOAD syndrome (autosomal recessive)
+  - **Nephrogenic DI:**
+    - <u>Metabolic abnormality</u> - Hypokalaemia, Hypercalcaemia
+    - <u>Drug therapy</u> - lithium, demeoclocycline
+    - <u>Poisoning</u> - heavy metals
+    - <u>Tubular deficit from chronic kidney disease</u> - polycystic kidney disease, sickle-cell anaemia, infiltrative disease
+    - <u>Genetic deficit</u> - AQP2 mutation, V2 receptor mutation
+
+  
+  ![](../img/causes_of_di.png)
+- **Clinical features of DI:**
+  - <u>Polyuria</u> - patient may pass up to 5-20L or more of diluted urine in 24h, that is characteristically of **low specific gravity and osmolality**
+  - <u>Polydipsia</u> - increased sensation of thirst, enabling maintenance of adequate fluid intake to match increased urinary loss during normovolaemic status, requires 1) **intact thirst mechanism**, 2) **access to oral fluids**, and 3) **is conscious**
+  - <u>Dehydration</u> - occurs when fluid intake cannot match fluid loss
+- **DDx of DI:**
+  - <u>Primary polydpispia</u> - drinking excessive amounts of fluid in absence of defect in ADH or thirst control
+- **Ix** - Dx can be confirmed if urine not maximally concentrated (\< 600 mOsm/kg) during hyperosmolar state (\> 300 mOsm/kg) or hyperNa (\> 145 mmol/L):
+  - **Routine bloods** - K, Ca (hypoK and hyperCa are causes of nephrogenic DI)
+  - **Blood and urine Osm** - Na, Serum Osm, Urine Osm:
+    - Diagnosis can be made if Urine Osm \< 600 mOsm/kg despite hyperosmolar state, defined as either 1) Serum Osm \> 300 mOsm/kg or 2) hyperNa (\> 145 mmol/L)
+    - Diagnosis cannot be made if the aforementioned criteria is not met, and dynamic testing is usually indicated
+  - **Water deprivation test** - dynamic testing necessary if Dx cannot be confirmed on spot urine and serum Osm: 
+  ![](../img/water_deprivation_test.png)
+    - **Procedure:**
+      - Water restriction from the morning for 8h
+      - Record 1) body weight, 2) urine volume, 3) plasma and urine Osm, and 4) thirst on visual analogue scale every 2h
+      - Stop test if either 1) excessive weight loss (\> 3%), 2) end-point met
+    - **Interpretation:**
+      - <u>+ve findings</u> - demonstrate inability to maximally concentrate urine (urine Osm \< 600 mOsm/kg) despite hyperosmolar state (serum Osm \> 300 mOsm/kg)
+      - <u>-ve findings</u> - ability to maximally concentrate urine that is defined by Urine Osm/ Plasma Osm ratio \>= 2 (suggestive of primary polydipsia)
+  - **Therapeutic trial of DDAVP** - if DI confirmed and to differentiate between central and nephrogenic DI:
+    - <u>Indications</u> - DI confirmed (i.e. failure of maximally concentration of urine despite hyperosmolar state)
+    - <u>Procedure</u>:
+      - Administration of DDAVP 2 microgram intranasally or IM
+      - Monitor urine output, urine osmolality, and serum osmolality
+    - <u>Interpretation</u> - cranial DI is DDAVP-responsive while nephrogenic DI is DDAVP-unresponsive:
+      - Central DI - urine Osm \> 50% increase
+      - Nephrogenic DI - no increase in urine Osm
+  - **Additional Ix for central DI** - assessment of anterior pituitary function and MRI/ CT pituitary for Dx of etiology
+  - **Addition Ix for unexplained nephrogenic DI** - imaging of the upper urinary tract
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Dependent on central or nephrogenic DI</u> - central DI can be Tx w/ DDAVP, while nephrogenic DI can be improved by other drugs stimulating fluid retention
+    - <u>Dx and Tx of underlying causes</u> - correct electrolytes, w/h inciting drugs, Tx of pituitary disorder etc.
+  - **DDAVP administration** - des-amino-des-aspartate-arginine vasopressin, analogue of ADH w/ longer half-life:
+    - <u>Indications</u> - cranial DI
+    - <u>Route of administration</u>:
+      - Intranasal spray
+      - IM injection for sick patients
+      - Oral formulation not preferred as bioavailability is low and often unpredictable
+    - <u>Dosing and regimen</u>:
+      - Adjusted based on Na, serum Osm to avoid excessive water intoxication
+      - Ideal dose is to prevent nocturia but allow degree of polyuria from time-to-time before next dose (e.g. intranasal dose 5 microgram in morning, and 10 microgram at night)
+    - <u>S/E</u>:
+      - Continued polyuria and polydipsia - due to inadequate Tx
+      - Water intoxication and dilutional hyponatraemia - due to excessive Tx
+  - **Mx of nephrogenic DI** - polyuria and thirst can be relieved by:
+    - <u>Thiazide diuretics</u> - bendroflumethiazide 5-10 mg/d
+    - <u>ENaC inhibitor</u> - amiloride 5-10 mg/d
+    - <u>NSAID</u> - indometacin 15 mg tid (risk of inducing AKI)

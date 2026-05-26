@@ -1,0 +1,106 @@
+---
+id: 57d4e5f5-273d-4431-b53d-6f343b843e4c
+title: Benign Prostatic Hyperplasia
+---
+
+# Benign Prostatic Hyperplasia
+
+- **Terminology:**
+  - <u>Benign prostatic hyperplasia</u> (BPH) - histological term describing the increase in cell number, instead of cell size (there is no such thing as benign prostatic hypertrophy)
+  - <u>Benign prostatic enlargement</u> (BPE) - increase in anatomical size of the prostate in <u>some, but not all men with BPH</u>, which in turn leads to bladder outlet obstruction (BOO) in some
+- **Epidemiology** - BPH is extremely common but not all are symptomatic:
+  - **Prevelance:**
+    - <u>Increases w/ age</u> - 70% in 60-69y, 80% in 70y
+    - <u>Age of incidence</u> - occurs in M \> 50y, by 60y, 50% will have histological evidence of BPH
+  - **Most common cause of LUTS and BOO** - in M \> 70y
+- **Pathophysiology of BPH** - often attributed to aging:
+  - <u>Increased oestrogen-testosterone ratio</u> - Rate of decline of estrogen level does not match testosterone, resulting in increased secretion of intermediate peptide growth factor
+  - <u>Glandular and stromal hyperplasia and transitional zones of the prostate</u> - results in yearly enlargement from 40y, which maybe hormonally driven (BPH not observed in patients with hypogonadism)
+  - <u>Bladder outlet obstruction and LUTS</u> - based on static and dynamic factors, but symptomatology **may be attributed to non-prostatic factors** as well:
+    - Static factors - due to benign prostatic enlargement
+    - Dynamic factors - increased SM tone due to alpha-adrenergic activity
+  - <u>Other factors altering symptomatology</u> - e.g. detrusor instability DOA, other comorbidities (e.g. on diuretics, DM, neurological factors)
+- **Clinical features of BPH** - progressive clinical course in old age (spontaneous improvement seen in minority of patients):
+  - **Asymptomatic** - correlation between Sx and degree of prostatic enlargement (on DRE and transrectal US) is poor
+  - **Symptomatic BPH** - manifests as <u>lower urinary tract symptoms</u> (LUTS) with predomiinant voiding Sx:
+    - <u>Storage symptoms</u> - urgency, frequency, nocturia, incontinence
+    - <u>Voiding Sx</u> - weak streams, hesitency, intermittency, splitting of voiding streams, terminal dribbling, straining to void
+  - **Complications:**
+    - <u>Acute retention of urine</u> - sudden inability to urinate a/w suprapubic discomfort
+    - <u>Chronic retention of urine and associated complications</u> - recurrent UTIs, bladder stones, obstructive uropathy, bladder diverticuli
+    - <u>Hernia</u> - due to straining to void
+    - <u>Bleeding BPH</u> - presentation w/ haematuria
+- **Signs of BPH:**
+  - DRE - non-tender, enlarged prostate
+- **Assessment of symptom severity** - International prostate symptom score (IPSS):
+  - <u>Stratification</u> - into mild, moderate and severe Sx
+
+  
+  ![](img/IPSS_score.png)
+- **DDx of BPH** - consider other causes of LUTS:
+  - Urological causes of BOO - urethral strictures, bladder neck stenosis, prostate cancer, bladder cancer
+  - Other urological conditions - urinary tract infections
+  - Neurological diseases - stroke or PD
+  - Causes of polyuria:
+    - DM - due to autonomic neuropathy and obligitory polyuria
+    - Primary polydipsia
+- **Dx** - a clinical diagnosis through compatible Hx without suggestive features of non-BPH causes of LUTS (DRE is unecessary but important to r/o prostate cancer)
+
+## Management of benign prostatic hyperplasia
+
+- **Principles of Mx:**
+  - <u>Lifestyle modifications for all patients</u> - behavorial interventions to minimise impact of LUTS from complications
+  - <u>Medical therapy</u> - indicated if LUTS persistent despite lifestyle modification
+  - <u>Surgical therapy</u> - definite indications if complicated BPH, otherwise based on paient preference
+- **Lifestyle modifications** - lessen LUTS:
+  - <u>Mx of storage Sx</u>:
+    - Avoid fluid intake before bedtime or travel
+    - Avoid natural diuretics (e.g. caffeine, alcohol)
+    - Avoid constipation
+    - Increase exercise
+    - Maintain healthy bodyweight
+    - Mx of related comorbidities - e.g. DM
+  - <u>Mx of voiding Sx</u> - maximise bladder emptying:
+    - Timed voiding regimens - schedule urination by the clock regardless of perceived need to urinate
+    - Double void regimens - follow one void with another attempt within 1-2 min
+    - Pelvic floor muscle training - maintain detrusor stability
+- **Medical therapy** - indicated for moderate-to-severe Sx (IPSS) despite lifestyle modifications +/- enlarged prostate size (for 5-ARI):
+  - <u>Approach to medical Tx</u>:
+    - Moderate-to-severe Sx w/o evidence of BPE - alpha-blocker monotherapy (or PDE-5i, beta-3 adrenergic agonist in patients w/ compelling indications)
+    - Moderate-to-severe Sx w/ evidence of BPE - combination therapy w/ alpha-blocker and 5-ARI
+  - <u>Alpha-blockers</u>:
+    - **Selection** - alfuzosin, silodosin, tamusulosin, doxazosin, terazosin (selective), phenoxybenzamine, phentolamine (non-selective)
+    - **MOA** - blockade of alpha-1 stimulation on prostatic smooth muscles (reduce dynamic factors)
+    - **Efficacy** - mild improvement in urinary symptom score (30%), and mild improvement in peak urinary flow (25%)
+    - **S/E:**
+      - Hypotension - titration of dose w/ respect to risk of hypotension
+      - Adverse cardiovascular events - demonstrated increased cardiovascular risk in <u>landmark ALLHAT trial</u> (no longer recommended as 1st-line anti-hypertensive agent)
+  - <u>5-alpha-reductase inhibitor</u> (5-ARI):
+    - **Indications** - evident prostsatic enlargement on DRE, TRUS, CT or MRI (rarely)
+    - **Selection** - finasteride, dutasteride
+    - **MOA** - inhibition of 5-alpha reductase
+- **Surgical treatment** - trans-urethral resection of prostate (TURP):
+  - <u>Indications for surgical Tx of BPH</u>:
+    - **Definite indications** - complications of BPH:
+      - 1\. Acute urinary retention (refractory)
+      - 2\. Recurrent UTI
+      - 3\. Recurrent bladder stones
+      - 4\. Obstructive uropathy - renal impairments with bilateral hydronephrosis
+      - 5\. Bleeding BPH - recurrent gross haematuria when other causes are ruled out
+    - **Relative indications** - moderate-to-severe Sx refractory to medical Tx
+  - <u>Complications of TURP</u>:
+    - **Early complications:**
+      - Anaesthetic risk - cardio-respiratory complications
+      - Haemorrhage - surgical bleeding
+      - Infection and urosepsis - due to catheterisation
+      - Local complications:
+        - Perforation - of bladder or prosthatic capsule
+        - Incontinence - due to damage of external sphincter mechanism
+      - TUR syndrome - absorption of water due to irrigation during TURP, leading to haemolysis, hyponNa, and CHF
+    - **Late complications:**
+      - Bladder neck stenosis and urethral strictures
+      - Incontinence
+      - Treatment failure - i.e. reoperation (repeat prostatectomy in 15-18% after 8y)
+      - Sexual dysfunction:
+        - Retrograde ejaculation (\> 50%) - leads to impotence
+        - Erectile dysfunction - rare complication

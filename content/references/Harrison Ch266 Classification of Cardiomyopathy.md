@@ -1,0 +1,37 @@
+---
+id: C8A55D98-AF41-4381-A1EE-9B801C21DEB3
+title: Harrison Ch266 Classification of Cardiomyopathy
+---
+
+# Ch266 Classification of Cardiomyopathy
+
+- **Definition** - primary disease of the myocardium, excluding myocardial dysfunction resulting from other diseases (e.g. congenital, ischaemic, valvular, hypertensive), classified based on disease phenotypes
+- **Approach to classification of cardiomyopathy:**
+    - <u>Phenotypical classification</u> - traditional way of classification of deminished role based on 1) morphological, 2) haemodynamic, and 3) electrophysiological abnormalities (see below)
+    - <u>Pathogenic classification</u> - classified based on evolving understanding of the underlying causes of CM:
+        - Better understanding of pathogenic genetic variants to identify **heritable cardiomyopathies**
+        - Better understanding of inflammatory or immune mechanisms leading to myocarditis and subsequent cardiomyopathy
+        - Complicated by "two-hit model", where "phenotypical expression" of genetical predisposition to CM may be triggered by acquired conditions, such as 1) infections, 2) toxic exposures, 3) pregnancy, or 4) tachycardia
+- **Traditional morphological phenotypes of cardiomyopathy** - phenotypical classification based on 1) wall thickness, and 2) systolic/ diastolic dysfunction:
+    - <u>Hypertrophic cardiomyopathy</u> (HCM) - increased LV wall thickness (\>= 13-15 mm depending on context), w/ normal or high LVEF
+    - <u>Dilated cardiomyopathy</u> (DCM) - increased LV mass w/ normal or reduced LV wall thickness, defined when LVEF \<= 50% (although clinical presentation w/ LVEF \<= 40% predominates)
+    - <u>Restrictive cardiomyopathy</u> (RCM) - variably increased LV wall thickness w/ mildly reduced LVEF, with characteristic abnormal diastolic physiology on echocardiography or invasive haemodynamic measurements
+
+  
+  ![](../img/classification_of_cardiomyopathies_harrisons.png)
+- **Increasing overlap in phenotypes of cardiomyopathy** - often occuring either w/ 1) natural Hx of the disease, or 2) altered disease trajectory by pharmacological Mx:
+    - <u>DCM</u> - responds to recommended therapies with "reverse remodeling" to smaller ventricles and higher LVEF
+    - <u>HCM</u> - 5% of patients evolve to a reduced ejection fraction (HCM-rEF) with predominantly diastolic dysfunction (restrictive physiology)
+- **Arrhythmogenic cardiomyopathy** (4th evolving phenotype of cardiomyoathies) - characterised by life-threatening arrhythmias, initially thought to be of genetic origin, but now thought that similar phenotype can be brought by infiltrative/ infective causes:
+    - <u>Arrhythmogenic cardiomyopathy-right ventricle predominant</u> (ACM-RV) - previously termed arrhythmogenic right ventricular dysplasia (ARVD), characterised by arrhythmias associated w/ abnormal RV structure and function, w/ variable expression of the LV
+    - <u>Arrhythmogenic cardiomyopathy-left ventricle predominant</u> (ACM-LV) - similar to ARVD, but the source of arrhythmia and structural changes resides primarily in the LV
+- **Clinical presentation of cardiomyoatphy:**
+    - <u>Congestive heart failure</u> - syndrome presenting w/ SOBOE and clinical pulmonary and systemic congestion non-specific to diverse cardiac diagnoses, requires r/o of other cardiac disorders
+    - <u>Arrhythmias</u> - presentation w/ palpitations/ syncope due to arrhythmias may be a presenting event of an unrecognized CM
+    - <u>Cardioembolic event</u> - as a result of AF, or apical ventricular thrombi
+- **Approach to evaluation of cardiomyopathy:** 
+![](../img/approach_to_evaluation_of_cardiomyopathy.png)
+- **Echocardiogram** - usually initial modality after CXR to delineate morphology, function and a phenotypical manifestation of the CM
+- **Cardiac MRI** - to detect:
+    - <u>Evidence of fibrosis</u> - as indicated by **late gadolinium enhancement**
+    - <u>Evidence of active inflammation</u> - focal or diffuse, as indicated by **T1 and T2 mapping**

@@ -1,0 +1,19 @@
+---
+id: 2c18dc40-2ec6-4d30-a8c8-ade72b7efdee
+title: Tubulo-interstitial Disease
+---
+
+# Tubulo-interstitial Disease
+
+- **Definition** - disease primarily affecting the renal tubules and interstitial components of renal parenchyma and are characterised by tubular dysfunction
+- **Clinical features of tubulo-interstitial diseases** - related to tubular dysfunction:
+    - <u>Electrolyte disturbances</u> - related to the level of renal tubules affected
+    - <u>Tubular proteinuria</u> - moderate levels of proteinuria
+    - <u>Renal impairment</u> - varying degrees from mild renal impairments to AKI (e.g. in ATN)
+- **Clinical entities of tubulo-interstitial diseases:**
+    - <u>Acute interstitial nephritis</u> - acute inflammation of tubulo-interstitium
+    - <u>Acute tubular necrosis</u> - necrosis of tubular cells
+    - <u>Chronic interstitial nephritis</u> - chronic inflammation of the tubulo-interstitium with fibrosis and inflammatory infiltrates, in association w/ renal dysfunction and tubular damage
+    - <u>Reflux nephropathy</u> - previously known as chronic pyelonephritis, a/w vesico-ureteric reflux (VUR) in early life, progressing into ESRD
+    - <u>Papillary necrosis</u> - infarction of the renal papillae due to limited vascular supply from vasa recta (e.g. DM, sickle-cell nephropathy)
+    - <u>Sickle-cell nephropathy</u> - sickle-cell microvascular occlusion at the vasa recta causing complications in the renal medulla

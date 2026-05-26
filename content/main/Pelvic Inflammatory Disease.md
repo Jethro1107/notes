@@ -1,0 +1,107 @@
+---
+id: 72291f6f-bd2d-4080-a8a3-6d83f61cc942
+title: Pelvic Inflammatory Disease
+---
+
+# Pelvic Inflammatory Disease
+
+- **Definition** - infection of the uterus, fallopian tubes, adjacent parametria, and overlying peritonium
+- **Route of infection:**
+    - Ascending infection (most common) - from the lower genital tract
+    - From adjacent organs - e.g. acute appendicitis
+    - Haematological route
+- **Etiological agents:**
+    - <u>Sexually transmitted infections</u>:
+        - Chlamydia trachomatis
+        - Neisseria gonorrhoea
+    - <u>Non-sexually transmitted infections</u>:
+        - Aerobic organisms - e.g. streptococci, staphylococci, H. influenzae, coliforms spp
+        - Anaerobic organisms - streptopeptococci, peptocicci, becteroides, clostridium
+        - Others - mycoplasma hominis, TB, ureaplasma urealyticum, actinomyces
+- **Risk factors for pelvic inflammatory disease:**
+    - Risky sexual behaviour
+    - Open cervix - e.g. post-abortal, puerperium, IUCD insertion, following surgery
+- **Clinical features of PID** - classical triad of 1) abdominal pain, 2) fever, 3) vaginal discharge/ bleeding:
+    - Abdominal pain
+    - Fever
+    - Vaginal discharge/ bleeding
+    - Urinary Sx and GI Sx
+- **Signs:**
+    - **General examination** - BP/P, fever
+    - **Abdominal examination** - peritonism:
+        - Tender
+        - Rebound tenderness
+        - Rigidity
+    - **Pelvic examination:**
+        - <u>Inspection of introitus</u> - hot and w/ discharge
+        - <u>Bimanual examination</u>:
+            - Cervical excitation tenderness (Chandelier sign)
+            - Uterine and adnexal tenderness
+            - Adnexal mass (tubo-ovarian abscess)
+- **Clinical suspicion of PID:**
+    - Risk factors present
+    - Compatible clinical presentation
+    - Hx of PID
+- **Dx** - presumptive Dx in sexually active women with pelvic or lower abdominal pain, in absence of other cause, w/ either cervical motion or uterine/ adnexal tenderness
+- **DDx of PID:**
+    - Ectopic pregnancy
+    - Ovarian cyst complication
+    - UTI
+    - Acute appendicitis
+- **Ix:**
+    - **Urine** - urine pregnancy test, MSU:
+        - <u>Urine pregnancy test</u> - r/o ectopic pregnancy or miscarriage
+        - <u>MSU</u> - if presenting w/ urinary Sx
+    - **Routine bloods** - CBC, inflammatory markers:
+        - <u>CBC</u> - leukocytosis
+        - <u>Inflammatory markers</u> - non-specifically elevated
+    - **STD screening and microbiology:**
+        - <u>Endocervical swab</u> - for chlamydia, gonococal infections
+        - <u>High vaginal swab</u> - microscopy and bacterial culture +/- detection of trichomonas
+        - <u>Serology</u> - VDRL, HIV-Ab
+    - **Pelvic USG** - if suspecting ovarian cyst complication
+    - +/- **Cervival smear** - opportunistic screening
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Tx setting</u> - inpatient or outpatient setting dependent on indications
+        - <u>Supportive Tx</u> - e.g. fluid resuscitation
+        - <u>Anti-microbial therapy</u> - oral ABx in outpatient setting, or IV if inpatient care required
+        - <u>Removal of IUD</u> - controversial especially as risk pregnancy
+    - **Tx setting** - inpatient setting required if:
+        - Surgical emergency cannot be excluded (e.g. ectopic pregnancy, acute appendicitis, ovarian cyst complications)
+        - Clinically severe disease
+        - Tuboovarian abscess suspected
+        - PID in pregnancy
+        - Lack of response to oral therapy
+        - Intolerance to oral therapy
+    - **ABx therapy** - regimen dependent on whether treated in inpatient or outpatient setting:
+        - **Outpatient regimen:**
+            - <u>1st line</u> - single dose of IM ceftriaxone 1000 mg + oral doxycycline 100 mg bid and oral metronidazole 400 mg bid for 14d
+            - <u>Alternative</u>:
+                - Oral ofloxacin 400 mg bid + oral metronidazole 400 mg bid for 14d (disabling and potentially permanent toxicity due to the CNS, joint, tendon S/E of fluoroquinolones)
+                - Oral moxifloxacin 400 mg daily for 14d
+                - IM ceftriaxone 1000 mg + oral azithromycin 1g/ week for 2 weeks
+        - **In-patient regimen:**
+            - <u>1st line</u>:
+                - IV ceftriaxone 2g daily + oral doxycycline 100 mg Q12H, followed by oral doxycycline100 mg bid and oral metronidazole 400 mg bid for 14d
+                - IV cefoxitin 1-2g q6h
+                - IV augmentin + doxycycline
+            - <u>Alternative</u>:
+                - IV clindamycin 900 mg q8h + IV gentamicin 2mg/kg loading dose followed by 1.5mg/kg q8h, followed by oral clindamycin 450 mg qid/ doxycycline 100 mg bid + oral metronidazole 400 mg bid to complete 14d
+    - **Role of surgery:**
+        - Image guided drainage/ laparoscopy/ laparotomy
+    - **Removal of IUD** - controversial as need to balance the risk of pregnancy w/ otherwise unprotected sex within 7d:
+        - Keep IUD if was sexualy active 7d prior
+        - If no clinical improvement on standard therapy within 48-72h, consider removal of IUD
+- **Complications:**
+    - <u>Early</u> - tubo-ovarian abscess, septic shock
+    - <u>Late</u>:
+        - Recurrent PID (25%)
+        - Fitz-Hugh-Curtis syndrome
+        - Chronic pelvic pain (15-20%) - dysmenorrhoea, dyspareunia
+        - Ectopic pregnancy
+        - Subfertility due to tubal obstruction (20%) - risk related to number of episodes (75% if \>= 3 episodes)
+- **Prevention:**
+    - <u>Patient education</u> - avoid risky sexual behaviour
+    - <u>Contraception</u> - barrier methods
+    - <u>Contact tracing</u> - Tx of STIs in those w/ contact

@@ -1,0 +1,19 @@
+---
+id: 1bf405ff-c8aa-480c-99b1-bbb49f30c781
+roam_refs: "https://www.uptodate.com.eproxy.lib.hku.hk/contents/evaluation-of-the-adult-with-nontraumatic-abdominal-or-flank-pain-in-the-emergency-department?search=loin%20pain&source=search_result&selectedTitle=2%7E150&usage_type=default&display_rank=2#H1169676206"
+title: Flank Pain - Literature Search on UpToDate
+---
+
+# Flank pain and scrotal pain
+
+- **DDx of flank pain:**
+    - **Musculoskeletal disorders** - muscle strains, rib fractures, psoas abscess (less common)
+    - **Urological cause:**
+        - Stones - Renal stone disease
+        - Infection - acute pyelonephritis, perinephric abscess
+        - Malignancy - e.g. RCC, upper urinary tract tumour
+        - Renovascular disease - e.g. renal infarction (from thrombosis, embolism or dissection), renal vein thrombosis
+        - Trauma - renal laceration/ haemorrhage
+        - Tubulointerstitial disease - e.g. renal papillary necrosis
+        - Other causes of obstructive uropathy - e.g. retroperitoneal fibrosis, urothelial tumours, congenital disorders of PUJ
+    - **Testicular pathologies** - e.g. torsion, epididymitis, hydrocele, testicular mass

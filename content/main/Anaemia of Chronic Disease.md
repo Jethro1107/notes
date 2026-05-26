@@ -1,0 +1,41 @@
+---
+id: f68a89cf-b031-4cd4-9d59-128cbdfe5e16
+title: Anaemia of Chronic Disease
+---
+
+# Anaemia of Chronic Disease
+
+- **Etiology of Anaemia of chronic disease** - occurs in setting of chronic infection, chronic inflammation or neoplasia
+    - Infection
+    - Autoimmune disease
+    - Neoplasia
+    - Chronic kidney disease
+    - Chronic rejection after solid organs transplantation
+- **Pathophysiology of ACD:**
+    - \
+    ![\](<https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJethro%2FGKi1n1dKXF.png?alt=media&token=c93a4756-1596-438a-af4a-464d0942bd0b>)
+    - Infection and inflammation –\> Cytokine/ LPS from bacteria –\> Stimulate Liver to produce Hepcidin (APP)
+    - **Increased hepcidin** (stimulated by IL-6, LPS from bacteria, and other pro-inflammatory cytokines):
+        - Inhibition of iron mobilisation - Hepcidin promotes internalisation of feroportin:
+            - Reduction of iron absorption in the gut
+            - **Iron block/ Iron sequestration syndrome** - retention of iron in reticuloendothelial cells, reducing utilisation for erythropoiesis
+    - Serum iron and transferrin are negative acute phase responses, such that they decrease in these chronic diseases.
+    - Serum ferritin is a positive acute phase reactant, such that it increases.
+- **Clinical features of ACD:**
+    - Clinical features dominated by the underlying chronic disease
+    - S/S of anaemia - typically mild, self-limiting anaemia (new physiological set-point)
+- **Ix in ACD:**
+    - CBC:
+        - NcNc anaemia (ocassionally can cause mild microcytosis and hypochromasia if severe, making it difficult to distinguish with iron deficiency anaemia)
+        - Typically mild anaemia - 8-11 g/dL
+    - Iron profiles:
+        - Reduced serum iron, reduced TIBC, normal or reduced %Tf
+        - Normal/ Increased ferritin
+    - Inflammatory markers - Raised ESR/CRP
+- Mx - manage the underlying cause, anaemia is usually mild
+- **Distinguish between iron deficient anaemia and anaemia of chronic disease:**
+    - \
+    ![\](<https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJethro%2FVIuME2dfNb.png?alt=media&token=96426a70-7fc0-43ab-86b9-77bb4fc054c7>)
+    - \
+    ![\](<https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJethro%2FHCTOxwd4Pc.png?alt=media&token=d65e4045-67c6-44a7-b8e7-19d41e0bcf04>)
+    - Some tension on whether ferritin is a good biomarker - because it is an APP - raised ferritin does not necessarily r/o Fe deficiency

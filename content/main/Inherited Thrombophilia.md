@@ -1,0 +1,46 @@
+---
+id: b53edbed-06a4-406c-b6e4-2db149b126e3
+title: Inherited Thrombophilia
+---
+
+# Inherited Thrombophilia
+
+- **Principles of inherited thrombophilia:**
+    - All <u>predispose to VTE</u> but none are strongly a/w arterial thrombosis
+    - All associated w/ <u>slightly increased incidence of adverse outcome of pregnancy</u> (incl. recurrent early fetal loss), but no specific interventions indicated to improve outcomes
+    - Only AT3 deficiency and homozygous factor V leiden can cause precipitate VTE on their own, while other inherited conditions typically require additional temporary risk factors
+    - <u>None of these conditions require life-long anticoagulation</u>, and require temporary anticoagulation in specific high-risk periods (e.g. AT3 deficiency during pregnancy)
+- **Antithrombin deficiency** (AT3 deficiency):
+    - **Epidemiology** - 1 in 2000-5000
+    - **Physiological role of AT3** - serine protease inhibitor (SERPIN):
+        - <u>Inactivation</u> of activated coagulation factors IIa, Ixa, Xa, and XIa
+        - Effects <u>potentiated by heparin, LMWH, fondaparinux</u>
+    - **Inheritence of AT3** - inherited in AD pattern (homozygosity for mutant allele <u>not compatible w/ life</u>)
+    - **Clinical features of AT3 deficiency:**
+        - <u>Unprovoked VTE</u> - 70% of affected individuals will have an episode of VTE \< 60y, especially during pregnancy such that prophylactic LMWH is indicated
+        - <u>Adverse pregnancy outcomes</u> - including recurrent early fetal loss
+    - **Dx** - antithrombin activity \< 50%
+    - **Mx:**
+        - <u>Anticoagulation prophylaxis</u> - during pregnancy (LMWH \>= 100 U/kg/d) or for surgery
+        - <u>AT concentrate</u> - plasma-derived or recombinate, but requires cardiopulmonary bypass for deliver and thus usually not feasible
+- **Protein C and Protein S deficiency:**
+    - **Epidemiology** - 1 in 200-500
+    - **Physiological role of Protein C and Protein S** - vitamin-K dependent natural anticoagulants:
+        - <u>Protein C</u> - de-activation of factor Va, VIIa, and thrombin generation
+        - <u>Protein S</u> - co-factor of protein C
+    - **Clinical features** - predisposes to VTE (5x risk) only during presence of additional risk factors
+    - **Mx** - anticoagulation prophylaxis not necessary
+- **Factor V Leiden:**
+    - **Epidemiology:**
+        - 5% of Northern Europeans
+        - Rare in Chinese and Malay people
+    - **Pathophysiology of factor V Leiden** - GOF single BP mutation of factor V:
+        - Prevents cleavage of factor Va
+        - Prevents inactivation of Va
+    - **Clinical features** - up to 5x risk of VTE in heterozygotes and 50x risk in homozygotes
+- **Prothrombin G20210A:**
+    - **Epidemiology:**
+        - 2% in Northern Europeans
+        - Rare in Korea, China, India, and Africa
+    - **Pathophysiology of Prothrombin G20210A** - increased levels of plasma prothrombin level
+    - **Clinical features** - up to 2-3x risk of VTE

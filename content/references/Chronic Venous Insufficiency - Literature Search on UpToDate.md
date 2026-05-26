@@ -1,0 +1,15 @@
+---
+id: b7b219fe-65d9-4c7f-b619-c4ec32664369
+roam_refs: "https://www.uptodate.com.eproxy.lib.hku.hk/contents/overview-of-lower-extremity-chronic-venous-disease?search=chronic%20venous%20insufficiency&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1"
+title: Chronic Venous Insufficiency - Literature Search on UpToDate
+---
+
+# Overview of lower extremity chronic venous disease
+
+- **Definition** - a wide spectrum of long-standing venous abnormalities that arises from chronic venous hypertension
+- **Epidemiology** - up to 50% individuals affected depending on definition (e.g. reticular veins):
+    - <u>Demographic</u> - mild female preponderance
+- **Risk factors of chronic venous insufficiency:**
+    - <u>Non-modifiable risk factors</u> - advanced age, female sex, FHx of venous disease, ligamentoys laxity
+    - <u>Lifestyle factors</u> - prolonged standing (occupational), smoking, increased BMI
+    - <u>Associated conditions</u> - prior venous thrombosis, rare heriditary conditions (e.g. Klippel-Trenaunay syndrome), hyperestrogenic states and higher parity

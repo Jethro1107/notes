@@ -1,0 +1,246 @@
+---
+id: B6FCA003-45B3-4CC0-BCF8-9677F976FD9B
+title: Harrison Ch398 Disorders of the Adrenal Cortex
+---
+
+# Ch398 Disorders of the Adrenal Cortex
+
+## Anatomy and Physiology of the Adrenal Cortex
+
+- **3 classes of corticosteroids:**
+    - <u>Glucocorticoids</u> - endogenous form is **cortisol**
+    - <u>Minerocorticoids</u> - endogenous form is **aldosterone**
+    - <u>Androgens</u> - pre-cursor produced by the adarenal glands, termed **dehydropiandrosterone** (DHEA)
+- **Principles of disorders of the adrenal cortex** - related to deficiency or excess of \>= 1 of the 3 major corticosteroid classes:
+    - <u>Hormone deficiency</u>:
+        - Inherited - inherited glandular problem or inherited enzymatic disorders
+        - Acquired:
+            - Hormonal suppression (glucocorticoid-induced adrenal insufficiency)
+            - Damage to adrenal glands by 1) autoimmunity, 2) infection, 3) infarction, or 4) iatrogenic events (radiation, surgery)
+    - <u>Hormone excess</u> - often resulting in neoplasia:
+        - Adrenal disorders - adrenal nodules, adrenal hyperplasia
+        - Pituitary or ectopic ACTH production - pituitary adenoma, neuro-endocrine ectopic ACTH-producing cells
+- **Adrenal anatomy:**
+    - <u>Normal site and size</u> - paired adrenal glands above the kidneys (6-11g each)
+    - <u>Arterial supply</u> - superior, middle and inferior **suprarenal arteries** penetrate the subcapsular region and meaders from the zona glomerulosa, through the zona fasciculata into the zona reticularis, subsequently into the medulla
+    - <u>Venous drainage</u>:
+        - Right adrenal glands - right suprarenal vein drains directly into the vena cava
+        - Left adrenal glands - left adrenal vein drains into the left renal vein
+- **Embryonic development of the adrenal glands** - arising from the <u>urogenital ridge</u> and separate from gonads and kidneys at 6th week of gestation:
+    - Formation of the embryonic adrenal glands is in concordance to sex differentiation (7-9th week of gestation), starting to produce cortisol and DHEA
+    - Initiation of steroidogenesis embryonically is drven by key receptors such as SF1, and DAX1
+- **Core regulatory axis of the 3 classes of corticosteroids:**
+    - <u>Glucocorticoids</u> - under control of the hypothalamic-pituitary-adrenal (HPA) axis
+    - <u>Minerocorticoids</u> - under control of the renin-angiotensin-aldosterone system (RAAS)
+    - <u>Adrenal androgen precursors</u> - under control of the hypothalamic-pituitary-adrenal (HPA) axis
+- **Negative feedback control of glucocorticoid synthesis by the HPA axis:** 
+![](../img/hypothalamic_pituitary_axis_harrisons.png)
+    - **Hypothalamus** - release of corticotropin-releasing hormone (CRH):
+        - <u>Stimulus</u> - endogenous or exogenous spress; under control of circadian rhythm of the suprachiasmatic nucleus (SCN):
+            - Additional regluation by complex network of cell-specific clock genes
+            - Ultimately manifests as a distinct circadian rhythm seen in cortisol secretion
+        - <u>Effect</u> - stimulates cleavage of the 241 a.a. polypeptide proopiomelanocortin (POMC) by pituitary-specific prohormone convertase 1 (PC1), **yielding ACTH**
+    - **Anterior pituitary glands** (specifically corticotropes) - release of ACTH:
+        - <u>Stimulus</u> - by circadian stimulation of CRH; AVP exerts a secretagogue role
+        - <u>Effects</u>:
+            - Regulation of adrenal cortisol synthesis
+            - Some short-term effects on mineralcorticoid and adrenal androgen synthesis:
+    - **Adrenal cortex** (zona fasciculata) - release of cortisol:
+        - <u>Stimulus</u> - ACTH
+        - <u>Effects</u>:
+            - Physiological effects of ACTH (see below)
+            - **Negative feedback** on 1) ACTH secretion, and 2) CRH secretion
+- **Dynamic tests for assessment of HPA axis** - spot cortisol often unreliable as a result of tight-control of the negative-feedback mechanism:
+    - **Dexamethasone suppression test** - assessment of <u>hypercortisolism</u>:
+        - <u>Principles</u> - dexamethasone is a potent synthetic glucocorticoid and can bind to hypothalamic-pituitary GRs, suppressing ACTH and CRH production
+        - <u>Interpretation of glucocorticoid suppression test</u>:
+            - Suppression of serum cortisol (at high doses) - driven by endogenous ACTH (i.e. **Cushing's disease**)
+            - Failed suppression of serum cortisol:
+                - ACTH is already suppressed by endogenous cortisol synthesis (**Non-ACTH dependent Cushing's Syndrome**)
+                - Ectopic ACTH production hence not subjected to same -ve feedback (**Ectopic ACTH syndrome**)
+    - **ACTH stimulation test** - assessment of <u>cortisol insufficiency</u>:
+        - <u>Principles</u> - ACTH or (synathen) able to induce physiological cortisol synthesis
+        - <u>Procedures</u>:
+            - Administration of cosyntropin (ACTH 1-24) at 1mcg (250 mcg) IM or IV
+            - Blood taken at 0, 30, and 60 min for corisol
+        - <u>Interpretation</u>:
+            - Normal response - appropriate rise of cortisol level (400-550 nmol/L) 30-60 min after administration
+            - Inappropriate response - insufficient rise in cortisol level (reflects both a primary or secondary cortisol deficiency differentiated by ACTH levels)
+    - **Insulin tolerance test** (ITT) - assessment of <u>cortisol insufficiency</u> (and <u>GH deficiency</u>):
+        - <u>Principles</u> - administration of insulin during a fast produces symptomatic hypoglycaemia which reflects a **physiological stress**, capable of **inducing CRH production** (and GH production)
+        - <u>Procedure</u>:
+            - IV regular insulin at 0.1U/kg (lower doses if hypopituitarism suspected)
+            - Blood collected at 0, 30, 60, and 120 min for glucose, cortisol, and growth hormone
+            - Monitor blood glucose and administer oral or IV glucose once symptomatic hypoglycaemia ocurs
+        - <u>Interpretation</u>:
+            - Normal response - appropriate rise of cortisol (\>20 mcg/dL) and GH \> 5.1 mcg/L
+            - Abnormal response - insufficient rise in cortisol or GH
+        - <u>Precaution and C/I</u>:
+            - Coronary artery disease
+            - Cerebrovascular disease
+            - Seizure disorders
+    - **Overnight metyrapone test** - assessment of <u>cortisol insufficiency</u>:
+        - <u>Principles</u> - metyrapone inhibits adrenal conversion of 11-deoxycortisol to active cortisol (11-beta-hydroxylase) where reduced cortisol **stimulates CRH and ACTH production**
+        - <u>Procedures</u>:
+            - Oral metyrapone at 2500 mg or 30 mg/kg
+            - Blood for early morning 11-deoxycortisol
+        - <u>Interpretation</u> - cortisol should remain low:
+            - Normal response - early morning serum 11-deoxycortisol \> 287 nmol/L
+            - Abnormal response - insufficient 11-deoxycortisol levels
+- **Negative feedback control of minerocorticoid production by the RAAS:** 
+![](../img/regulation_of_renin_angiotensin_aldosterone_system.png)
+- **Molecular mechanisms for ACTH-induced steroidogenesis:**
+    - <u>Receptor</u> - melanocortin 2 receptor (MC2R) in adrenocortical cells:
+        - Form of G-protein coupled receptor (GPCR)
+        - Requires interaction w/ MC2R-accessory protein (MRAP) where **complex is transported to the adenocortical cell membrane to recognise ACTH**
+    - <u>Intracellular signalling</u> - raised cAMP levels resulting in **upregulation of protein kinase A** (PKA) **signalling pathway**:
+        - PKA remains inactive at low cAMP levels
+        - cAMP-mediated cleavage of PKA into 2 regulatory, cAMP-bound subunits and 2 free, active catalytic subunits
+    - <u>Effects of PKA activation on steroidogenesis</u>:
+        - Import of cholesterol esters
+        - Increased activity of hormone-sensitive lipase for cleavage of cholesterol ester to cholesterol for import into mitochondria
+        - Increased availability of cAMP response element binding (CREB), an important transcription factor for enzymes of glucocorticoid synthesis (esp **CYP11A1**)
+
+    
+    ![](../img/acth_effects_on_steroidogenesis.png)
+- **Biochemical pathways for adrenal steroidogenesis:** 
+![](../img/adrenal_steroidogenesis_harrisons.png)
+- **Transport of cortisol in circulation:**
+    - <u>Majority of cortisol is protein bound</u> - bound to cortisol-binding globulin (CBG), and to a lesser extent, to albumin
+    - <u>Minority of cortisol is free and unbound</u> - however these can freely enter cells and not require active transport
+- **Peripheral hormones as a mechanism of pre-receptor regulation of tissue-specific glucocorticoid actions:**
+    - <u>11-beta-hydroxysteroid dehydrogenase type 1</u> (11-beta-HSD1) - generation of cortisol from inactive cortisone within the cell (NADPH-dependent reaction, requires H6PDH as well) 
+    ![](../img/pre_receptor_regulation_of_cortisol_action.png)
+    - <u>11-beta-hydroxysteroid dehydrogenase type 2</u> (11-beta-HSD2) - inactivation of cortisol into cortisone in primarily the kidneys, but also colon, salivary glands and other MR target tissues 
+    ![](../img/pre_receptor_incativation_of_cortisol_action.png)
+- **Effects of cortisol on glucocorticoid target cells** (see illustration above):
+    - **GR transactivation** - mediated by dimerisation of activated GR and binding to GREs:
+        - <u>Binding to glucocorticoid receptors</u> - binds to GR and dissociation from heat shock proteins (HSPs) resulting in activation and dimerisation of complex
+        - <u>Translocation into the nucleus</u> - serving as a transcription factor and bound to glucocortocoid response elements (GREs)
+    - **GR transrepression** - mediated by activated GR complexing w/ other transcription factors such as AP-1 or NF-kappaB (<u>explains much of anti-inflammatory and immunosuppressive effects of glucocorticoids</u>)
+- **Role of peripheral inactivation of cortisol by 11-beta-HSD2:**
+    - <u>Minerocorticoid receptor activation by corticosteroids</u>:
+        - Cortisol binds to MR w/ equal affinity to aldosterone
+        - However, circulating cortisol levels is at 1000-fold higher than that to aldosterol
+    - <u>Prevention of MR activation by cortisol</u> - rapid inactivation of cortisol to cortisone by 11-beta-HSD2 prevents excessive MR activation (specific tissue-specific modulator of the MR pathway
+- **Effects of aldosterone on minerocorticoid target cell:**
+    - <u>Binding to minerocorticoid receptors</u> - results in dissociation of HSP-recetpro resulting in homodimerisation of MR and translocation of the dimer to nucleus
+    - <u>Translocation of dimer</u> - enhanced transcription mediating MR effects (**increased ENaC expression and traslocation to membrane surfaces**):
+        - Increased expression of eptihelial Na channels (ENaC) but does not translocation of surface due to Nedd4
+        - Increased expression of serum glucocorticoid-inducible kinase 1, which reduces effects on Nedd4 resulting in increased ENaC translocation
+    - <u>Physiological effects</u> - Na and water retention at the expense of K extrusion
+
+## Cushing's Syndrome
+
+## Primary Minerocorticoid Excess
+
+- **Definition** - a state of excessive stimulation of the minerocorticoid levels despite normal volume status, as a cause of fluid retention, and a state of hypokalaemic hypertension or drug-resistant hypertension
+- **Epidemiology:**
+    - <u>Prevalence</u> - up to 5-12% in general population seen in certain studies
+    - <u>Subpopulation</u> - more likely to be seen in those w/:
+        - Hypokalaemic hypertension
+        - Drug-resistant hypertension
+- **DDx of primary minerocorticoid excess** - traditional subtypes include 1) unilateral Conn's adenoma, or 2) bilateral micronodular adrenal hyperplasia, but likely a spectrum of disease in between two forms: 
+![](../img/causes_of_primary_minerocorticoid_excess.png)
+- **Glucocorticoid-remediable aldosteronism** (GRA) - type 1 familial primary aldosteronism:
+    - **Genetics and pathophysiology of GRA:**
+        - <u>Crossing over of promotor sequences of CYP11B1 and CYP11B2</u> - chimeric gene in a sence that promotor region for CYP11B1 (ACTH-responsive) controls expression of CYP11B2 (necessary for aldosterone synthesis)
+        - <u>ACTH-controlled aldosterone secretion</u> - rather than normal influence by renin
+        - <u>Glucocorticoid-suppressibility</u> - glucocorticoid mediated suppression of ACTH can subsequently suppress aldosterone
+    - **Inheritence of GRA** - evidence of <u>autosomal dominant</u> transmission pattern of HTN
+    - **Clinical manifestation and significance of GRA** - recognition is important as often manifest as:
+        - Young HTN
+        - Young stroke
+    - **Ix** - hybrid steroids (18-oxycortisol and 18-hydroxycortisol):
+        - High levels due to presence of both CY11B1 and CYP11B2 in the same steroidogenic cells
+        - However may be mimicked by Conn's adenoma harboring somatic KCNJ5 mutations or germline KCNJ5 mutations (Type 3 familial primary hyperaldosteronism)
+    - **Mx** - glucocorticoids
+- **Excessive MR activation due to cortisol:**
+    - <u>Effects of 11-beta-hydroxysteroid dehydrogenase type 2</u> - efficient inactivation to cortisone in the kidney to **prevent MR stimulation by cortisol**
+    - <u>Conditions a/w activation of MR by steroid other than aldosterone</u>:
+        - **Syndrome of apparent mineralcorticoid excess** (SAME) - caused by inactivating mutation of HSD11B2 gene, resulting in **severe hypokalaemic hypertension in childhood**, while milder mutations can cause normokalaemic hypertension in adulthood (type II SAME)
+        - **Locorice ingestion** - results in inhibition of 11-beta-HSD2
+        - **Severe Cushing's syndrome** - cortisol excess overwhelms 11-beta-HSD2 conversion capacity and direcly stimulates MR
+        - **DOC elevation** (11-deoxycortisone) - not inactivated by 11-beta-HSD2 as in ACC, but as a result of CAH due to CYP11B1 or CYP17A1 deficiencies
+        - **Progesterone-induced HTN** - MR mutations that enhance binding and activation by progesterone (normally antiminerocorticoid activity)
+        - **Liddle syndrome** - reduced internalisation and degradation of ENaC due to disrupted interaction w/ Nedd4
+- **Clinical manifestation of excssive activation of MR** - related to 1) Na retention resulting in explansion of extracellular and intravascular volume, and 2) K and H+ depletion:
+    - **Effects of Na and fluid retention:**
+        - <u>Hypertension</u> - as a result of fluid retention and expansion of intravascular volume, but never accelerated due to "aldosterone escape"
+        - <u>Peripheral oedema</u> - ocassionally causes pedal oedema in some cases
+        - <u>Target organ damage</u> - due to myocardial remodelling and impact of renal parenchyma secondary to HTN
+    - **Effects of K and H+ depletion:**
+        - <u>Hypokalaemia</u> - although hypoK HTN only occurs in 10-40% of patients w/ primary hyperaldosteronism, where chronic severe arrhythmias poses a theoretical risk of 1) 1) hypokalaemic nephropathy and nephrogenic DI, 2) IGT, 3) overt proximal myopathy, 4) tachyarrhythmias, 5) rhabdomyolysis, and 6) periodic paralysis
+        - <u>Alkalosis</u> - theoretically can result in **functional hypocalcaemia** resulting to carpopedal spasms +/- laryngeal spasms
+- **Associated conditions** - patients w/ primary hyperaldosteronism show increased rates of:
+    - Osteoporosis
+    - Type 2 diabetes mellitus
+    - Cognitive dysfunction
+    - Mild autonomous cortisol secretion/ MACS ("Connshing syndrome")
+- **Indications for diagnostic screening for mineralcorticoid excess** - only recommended for selected hypertension patients:
+    - Young HTN (onset \< 40y)
+    - Drug-resistant HTN
+    - Hypokalaemic HTN
+    - HTN associated w/ incidental finding of adrenal mass
+    - FHx of primary hyperaldosteronism in 1st-degree relatives (or FHx of young HTN or cerebrovascular events \< 40y)
+- **Approach to evaluation of patient w/ suspected mineralcorticoid excess:** 
+![](../img/mx_of_patient_with_suspected_minerocorticoid_excess.png)
+    - <u>Screening by ARR</u> - requires 1) correction of plasma K, and 2) cessation of all anti-hypertensives (or in severe HTN at least MRA) 4-6 weeks
+    - <u>Diagnostic evaluation of minerocorticoid excess</u> - by salt loading either through saline infusion, oral sodium loading, or fludrocortisone suppression test
+    - <u>Evaluation of cause</u> - CT adrenals +/- adrenal venous sampling
+- **Aldosterone-renin ratio** (ARR) - first-line <u>screening test</u> by measurement of serum aldosterone and plasma renin activity (PRA):
+    - <u>Precautions for measurement of ARR</u>:
+        - Correction of hypoK (K modulates release of aldosterone and may cause false -ve)
+        - Cessation of all antihypertensives for 4-6 weeks prior to ARR measurements (or at least MRA in severe HTN)
+    - <u>Effects of antihypertensives on ARR</u>: 
+    ![](../img/effects_of_medication_and_other_conditions_on_arr.png)
+    - <u>Positive ARR screening</u>:
+        - International guidelines define as \> 750 pmol/L per ng/ml/h w/ an inappropriately normal or high aldosterone level
+        - Lower ARR may be used to increased Sn to detect milder cases of primary hyperaldosteronism
+    - <u>Limitations of ARR</u>:
+        - Setting of extremely low PRA
+        - Interference w/ drugs and other comorbid conditions (see above)
+        - Variable characteristics of tests
+    - <u>Approach to equivocal results</u>:
+        - Consider interferring drugs or conditions
+        - Correct reversible conditons (e.g. cessation of other antihypertensives) and repeat testing at 2-4 weeks
+- **Saline infusion test** - for diagnostic evaluation of primary hyperaldosteronism:
+    - <u>Principle</u>:
+        - Salt and volume overload would normally inhibit renin secretion and thus aldosterone secretion
+        - Failed suppression of Aldosterone suggests autonomous production
+    - <u>Procedure</u>:
+        - IV infusion of 2L physiological saline over 4h
+        - Measure Ald levels at end of the test
+    - <u>+ve results</u>:
+        - Ald \< 170 pmol/L in sesated position
+        - Ald \< 140 pmol/L in recuumbent position
+- **Other diagnostic tests** - not preferred as capable of causing profound hypokalaemia and increased HTN:
+    - Oral sodium loading test - 300 mmol NaCl/d for 3d
+    - Fludrocortisone suppression test - 0.1 mg q6h w/ 30 mmol NaCl q8h for 4d
+- **Approach to evaluation of cause:**
+    - <u>Fine cut CT adrenals</u> - identification of unilateral masses but may miss lesions \< 5mm
+    - <u>Adrenal venous sampling</u> - indicated only for surgical candidates either w/ non-specific CT findings or patients \> 35y w/ unilateral mass to r/o presence of non-functional adrenal adenoma
+    - <u>C-11 metomidate PET-CT</u> - new, non-invasive alternative to AVS
+- **Adrenal venous sampling** - used to compare aldosterone levels in the inferior vena cava and between the right and left adrenal veins:
+    - <u>Procedure</u>:
+        - Catheterisation of IVC, and both adrenal veins
+        - Ensure correct placement of catheters in adrenal veins by **cortisol gradient** of \> 2-3 in baseline conditions between the vena cava and each adrenal gland
+        - Measurement of aldosterone levels in both adrenal veins
+    - <u>+ve results</u> - lateralisation confirmed by:
+        - Ald/cortisol ratio at least two-fold higher on one side than the other
+- **Dx of non-aldosterone-related mineralcorticoid excess:**
+    - Presence of hypokalaemic hypertension
+    - Suppressed renin and suppressed aldosterone in urinary steroid metabolite profiling by gas chromatography/ mass spectrometry (GC/MS)
+    - Elevated serum cortisol: serum cortisone ratio suggestive of SAME
+    - Steroid profiling by GC/MS to detect DOC secretion in DOC-producing ACC or CAH a/w CYP11B1 or CYP17A1 deficiency
+    - Normal GC/MS profile is suspicious for Liddle's syndrome
+
+## Incidentally Discovered Adrenal Mass
+
+## Adrenocortical Carcinoma
+
+## Adrenal Insufficiency
+
+## Glucocorticoid-induced Adrenal Insufficiency
+
+## Congenital Adrenal Hyperplasia

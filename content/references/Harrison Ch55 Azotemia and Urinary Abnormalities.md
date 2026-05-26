@@ -1,0 +1,35 @@
+---
+id: 17941E43-31AE-4E83-8D97-DF71A1216FCB
+title: Harrison Ch55 Azotemia and Urinary Abnormalities
+---
+
+# Ch55 Azotemia and Urinary Abnormalities
+
+- **Principles of manifestatsions of renal disorders:**
+    - Clinical manifestations dependent on underlying pathophysiology down to the numerous cellular processes for maintaining body homeostasis
+    - Syndromes are defined by costellation of Sx, abnormal physical findings, and laboratory changes
+- **Defining renal syndromes** - usually consist of several elements underlying the underlying pathological processes, including \>=1 of the following:
+    - 1\) Reduction of glomerular filtration rate (GFR)
+    - 2\) Abnormalities of urine sidements (RBCs, WBCs, casts, and crystals)
+    - 3\) Abnormal urinary excretion of serum proteins (i.e. proteinuria)
+    - 4\) Disturbances in urine volume (oliguria, anuria, polyuria)
+    - 5\) Presence of hypertension and/or expansion of total body volume
+    - 6\) Electrolyte abnormalities
+    - 7\) Fever/ pain
+- **Renal syndromes** - may be 1) primary renal disorders, or 2) systemic illnesses: 
+![](../img/features_of_major_syndromes_in_nephrology.png)
+
+## Azotemia
+
+- **Definition** - azotemia is defined biochemically as the retention of nitrogenous waste productis such as urea
+- **Approach to the patient w/ azotemia:** 
+![](../img/approach_to_the_patient_with_azotemia.png)
+    - <u>Differentiation between acute and chronic renal failure</u> - based on Hx, urinalysis, renal USG, and additional laboratory data
+    - <u>Identifying the cause of renal failure</u> - classified into:
+        - Prerenal azotemia - due to impaired renal perufsion and glomerular perfusion pressure
+        - Intrinsic renal parenchymal disease - affecting glomeruli, vessels, or tubulo-interstitium
+        - Postrenal obstruction - obstruction of urine flow in the ureters, bladder, or urethra
+
+## Abnormalities of the Urine
+
+## Abnormalities of Urine Volume

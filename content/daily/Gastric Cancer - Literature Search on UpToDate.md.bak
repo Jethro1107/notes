@@ -1,0 +1,139 @@
+---
+id: e27b0e2b-9cd9-4c00-88bc-1123a73d9fd2
+title: 2025-03-25
+---
+
+# Gastric Cancer - Literature Search on UpToDate
+
+- **Clinical presentation of gastric cancer** - most are symptomatic and present as unresectable cancer:
+  - **Clinical features of local tumour** - most commonly presents with <u>epigastric discomfort</u> and <u>weight loss</u> (Wanebo et al. 1993):
+    - <u>Weight loss</u> (62%) - as a result of loss of appetite due to adominal pain, early satiety, N/V, or dysphagia
+    - <u>Abdominal pain</u> (52%) - mild, poorly-localised epigastric discomfort that is **different to ulcer-type pain** but may become more severe and constant as disease progresses
+    - <u>Nausea and vomiting</u> (34%) - post-prandial vomiting containing undigested food suggestive of **gastric outlet obstruction**
+    - <u>Early satiety</u> (18%) - due to tumour mass, or non-distendable stomach in linitis plastica (diffuse type gastric cancer)
+    - <u>UGIB</u> - chronic occult UGIB resulting in Fe-deficiency anaemia is not uncommon, but overt acute UGIB (e.g. coffee ground vomitus, melaena, and haematemesis) only occurs in \< 20% of patients
+    - <u>Dysphagia</u> (26%) - due to tumour mass in the cardia, ocassionally causing pseudoachalaia resulting in involvement of Auerbach plexus
+    - <u>Abdominal mass</u> - from primary tumour, Krukenberg tumour, or metastasis
+  - **Clinical features of metastatic disease:**
+    - <u>Obstructive jaundice</u> - malignant biliary obstruction due to LN metastasis over the porta hepatis, and ocassionally with locally advanced distal tumours
+    - <u>Abdominal distension</u> - due to malignant ascites as a result of peritoneal carcinomatosis, Krukenberg tumour
+    - <u>Dyspnoea</u> - due to pleural effusion as a result of lymphangitis carcinomatosis, or rarely lung metastasis
+  - **Paraneoplastic syndrome** - rarely seen on initial presentation:
+    - <u>Acanthosis nigricans</u> - velvety and darkly pigmented patches on skin folds, particularly in axilla
+    - <u>Microangiopathic haemolytic anaemia</u>
+    - <u>Membranous nephropathy</u> (nephrotic syndrome)
+    - <u>Hypercoagulable states</u> (Trousseau's syndrome)
+- **Signs of gastric cancer:**
+  - General examination - pallor, jaundice, cervical LN (Virchow's node and Irish node)
+  - Abdominal examination:
+    - Inspection - abdominal mass, Sister Mary Joseph Nodule, abdominal distension
+    - Palpation - epigastric tenderness and mass, +/- hepatomegaly
+    - Succession splash - seen in gastric outlet obstruction
+- **Routine Ix:**
+  - <u>Routine bloods</u> - CBC, LRFT, clotting and T&S for those presenting w/ UGIB:
+    - CBC - Fe Deficiency Anaemia
+    - LFT - dLFT in liver metastasis +/- cholestatic pattern in MBO
+    - RFT - suggestive of UGIB
+  - <u>Tumour markers</u> - no role in Dx but role in assessment of Tx responsiveness:
+    - CEA, CA 125, CA 19-9
+    - AFP (AFP-producing gastric cancer) - a/w poorer prognosis
+- **Dx** - upper endoscopy and biopsy for <u>tissue diagnosis</u>:
+  - **Endoscopic appaerance** - difficult to differentiate between malignant and benign ulcers, hence Bx is always necessary:
+    - Intestinal type cancer - friable ulcer mass
+    - Diffuse type cancer - no specific mucosal findings (poor distensibility of stomach may be only endoscopic findings)
+  - **Bx** - Bx all suspicious nodules and ulcers as 5% of malignant ulcers appear benign grossly
+- **Staging systems** - 8th edition TNM staging: 
+![](~/Documents/notes/img/TNM_gastric_cancer.png)
+  - **T staging** - based on depth of tumour invasion on histological examination
+  - **N staging** - regional LN differ for tumors involving different parts of the stomach
+    - <u>Regional LN of stomach</u>:
+      - Left and right paracardial
+      - Perigastric LN along greater and lesser curvature
+      - Supra- and infra-pyloric
+
+      
+      ![](~/Documents/notes/img/regional_LN_gastric_cancer.png)
+    - <u>Involvement of other intra-abdominal LNs</u> - considered M1:
+      - Pancreato-duodenal
+      - Peri-pancreatic
+      - Retropancreatic
+      - SMA
+      - middle colic
+      - Para-aortic
+      - Retroperitoneal
+  - **Prognostication groups** - Stage I-III (potentially resectable), stage IV (metastatic): 
+  ![](~/Documents/notes/img/TNM_prognostic_gastric_cancer.png)
+- **Principles of staging evaluation** - to stratify patients into two groups, implicating Mx:
+  - Locoregional, potentially resectable tumoours
+  - Locally advanced, unresectable or metastatic tumours
+- **Staging Ix:**
+  - <u>CT T+A+P</u> - indicated for all patients with gastric cancer for M staging
+  - <u>PET-CT</u> - 18-FDG-PET for assessing \>= T2N0 disease even if CT for distant metastasis -ve
+  - <u>Endoscopic ultrasound</u> - assessment of loco-regional staging for patients w/o metastatic disease
+  - <u>Staging laparoscopy</u> - patients with EUS stage T3/4 undergo diagnostic staging laparoscopy to detect occult peritoneal dissemination
+
+## Management of gastric cancer
+
+- **Role of surgery in Mx of gastric cancer** - curative treatment of localised disease, pathological staging evaluation, and palliation in advanced disease
+- **Sequence of surgical Tx by stage:**
+  - <u>Early gastric cancer</u> - T1 disease irrespective of N stage that met set criteria may be treated with endoscopic resection
+  - <u>Resectable, non-early gastric cancer</u> - upfront surgery +/- neoadjuvant and adjuvant therapy
+  - <u>Unresectable locoregional disease</u> - neoadjuvant therapy followed by ressection if tumour down-staged
+  - <u>Metastatic disease</u> - palliative chemotherapy +/- resection if symptoms unable to be controlled by non-surgical means
+- **Surgical Tx:**
+  - **Radical resection of gastric cancer** - complete surgical removal of the tumour w/ adequate margins and adjacent LN (R0 resection):
+    - **Approach to radical resection** - open vs minimally invasive (e.g. laparoscopic, robotic)
+    - **Extent of gastrectomy** - dependent on location of the tumor within the stomach:
+      - <u>Distal tumours</u> (distal 2/3 of stomach) - **distal gastrectomy** shows equivalent oncological outcomes with fewer perioperative complications and better QOL
+      - <u>Proximal tumors</u> (proximal 1/3 of stomach) - **total gastrectomy** preferred over proximal gastrectomy despite similar oncological outcomes as proximal gastrectomy and reconstruction by esophagogastrostomy can lead to high incidences of reflux esophagitis
+    - **Extent of LN dissection** - D2 dissection as the standard of care because of better disease-specific survival than D1 with lower peri-operative mortality and morbidity than D3:
+      - **Definition of D1, D2 and D3 dissection** - 16 stations of LN for stomach according to Japanese Gastric Cancer Association:
+        - <u>D1 dissection</u> (limited LN dissection) - limited dissection of perigastric LN (station 1-7)
+        - <u>D2 dissection</u> (extended LN dissection) - dissection of perigastrinal LN and LN along the hepatic, left gastric, coeliac, splenic arteries, and those in splenic hilum (station 1-12a)
+        - <u>D3 dissection</u> (super-extended LN dissection) - dissection of nodes within portal hepatis and peri-aortic regions (station 1-16)
+      - **Evidence in literature** - current literature favours D2 dissection:
+        - <u>D2 \> D1</u> - **better disease-specific survival**, but slightly increased perioperative mortality (explained by liberal splenectomy and distal pancreatectomies in the pasts)
+        - <u>D2 \> D3</u> - **no statistically significant survival benefits**, and no statistically significant change in perioperative mortality (although CI very wide including possibility of RR 6.73)
+    - **Reconstruction for partial gastrectomy:**
+      - Billroth I
+      - Billroth II
+      - Roux-en-Y
+
+      
+      ![](~/Documents/notes/img/partial_gastrectomy_and_reconstruction.png)
+- **Neoadjuvant chemotherapy** - neoadjuvant chemotherapy shows improved OS and avoids unecessary gastric resection:
+  - <u>Indications</u> - indicated for all potentially resectable T2N0 disease or above (good evidence), or initially unresectable locoregional disease (no current evidence)
+  - <u>Rationale and evidence</u> (MAGIC trial):
+    - 1\. **Improved surgical and oncological outcomes** - higher chance of curative (R0) ressection (79% vs 70%), lower risk disease and better overall survival and progression-free survival
+    - 2\. **Avoid unenecessary surgery for those high-risk diseases** (i.e. T3/4 diseases, perigastric node +ve, linitis plastica appearance) - these have high risk of subsequent metastasis after upfront surgery
+  - <u>Regimens</u> - no conclusively established regimens, but dependent on performance status:
+    - **Excellent performance status** - docetaxel, oxaliplatin, leucovorin, and short-term infusional 5-FU (FLOT trial)
+    - **Lesser performance status** - non-epirubicin, non-docetaxel-containing regimens
+
+# Esophageal cancer - Literature Search on UpToDate : <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span> <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+- **Clinical presentation of esophageal cancer:**
+  - **Asymptomatic** - roughly 6-10% asymptomatic at time of diagnosis likely due to screening surveillance of Barrett's Esophagus (less common in the East)
+  - **Symptoms prior to presentation** - abnormal swallowing, heartburn
+  - **Effects of local tumour:**
+    - <u>Dysphagia</u> - progressive esophageal dysphagia preceded by non-specific swallowing discomfort ('sticking of solid foods') that is worse on solid, and progresses to liquid (presence indicates at minimum **locally-advnaced disease**)
+    - <u>Weight loss</u> - attributed to dysphagia, or tumor-related anorexia
+    - <u>Regurgitation</u> - saliva and undigested food w/o gastric secretions after meal (not vomiting)
+    - <u>Chronic UGIB</u> - common and results in Fe deficiency anaemia, but rarely presents with overt UGIB (melena, coffee brown vomitus, frank haematemesis), which can be a complication of aorto-esophageal fistula (fatal)
+  - **Complications of local invasion:**
+    - <u>Overt haematemesis</u> - due to aorto-esophageal fistula or erosion into pulmonary or bronchial arteries
+    - <u>Hoarseness</u> (11-24%) - due to invasion into recurrent laryngeal nerve
+    - <u>Intractable cough and recurrent pneumonia</u> - due to tracheobronchial fistulas, a late complication
+- **Dx** - histological examination necessary:
+  - **Upper endoscopy and biopsy** - necessary for diagnosis of CA esophagus:
+    - <u>Endoscopic findings</u> - superficial plaques, nodules, strictures, or ulcerated masses
+- **Staging System** - 8th edition TNM staging: ![](~/Documents/notes/img/TNM_staging_esophageal_cancer.png) 
+![](~/Documents/notes/img/TNM_prognostication_esophageal_cancer.png)
+  - Prognostic grouping is dependent on location and histology
+- **Principles of staging evaluation:**
+  - Detection of distant metastasis - Contrast CT T+A+P, 18-FDG-PET/CT, EUS (for liver metastasis and ascites) +/- diagnostic laparotomy
+  - Evaluation of loco-regional disease - EUS +/- bronchoscopy for disease at or above carina
+- **Staging Ix:**
+  - <u>Endoscopic ultrasound</u> - for locoregional staging of invasive esophageal cancer (T & N staging) +/- intra-abdominal metastasis and malignant ascites
+  - <u>Bronchoscopy</u> - to r/o airway invasion for potentially resectable thoracic esophageal cancer
+  - \_

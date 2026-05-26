@@ -1,0 +1,171 @@
+---
+id: fcc74fb9-923b-49f2-82e0-6429204f5882
+title: Osteoarthritis
+---
+
+# Osteoarthritis
+
+- **Definition** - Osteoarthritis is a form of arthritis characterised by progressive degenrative loss of articular cartilage, with attempts of repair of cartilage and remodelling
+- **Joint involvement** - Hip, Knees, PIP and DIP joints, neck, lumbar spine
+- **Epidemiology** - most common cause of arthritis, major cause of pain and disability in older people:
+    - Prevalence (increases w/ age) - 45% knee OA and 25% hip OA in all people (11% F and 8% M \> 50y require hip or knee replacement)
+- **Pathophysiology** - caused by repetitive adverse loading of joints (overloading/ underloading):
+    - **Risk factors for osteoarthritis:**
+        - Aging - strong association, single most important risk factor
+        - Constitutional factors - Heredity, sex, obesity, high BMD
+        - Mechanical factors - prior trauma, anatomical factors (joint shape and alighments), usage (occupational, recreational)
+    - **Changes in articular cartilage** - typically at <u>points of maximal-loading</u>:
+        - **Abnormal loading leads to death of condrocytes** - results in net degradation of cartilage matrix causing susceptibility to load-bearing injury
+        - **Focal loss of articular cartilage** - <u>fibrillations</u> (fissuring of surface), <u>cracks</u> (vertical clefts) and eroisions
+    - **Changes in subchondral bone** - caused by abnormal loading directly onto bone:
+        - Subchondral sclerosis - increased bone remodelling and deposition of new bone
+        - Subchondral cysts - microfractures with fluid entering bone
+        - Marginal osteophytes - formation of fibrocartilage, that undergoes endochondral ossification to form osteophytes, a maladaptation in hopes to increase surface area to better distribute stress
+- **Principles of clinical manifestations in OA** - main presenting symptoms are 1) pain, and 2) functional restriction in a patient > 45y, more often > 60y:
+	- **Pain** - mechanism poorly understood, attributed to 1) increased loading on subchondral bone (acounts for night pain), 2) trebecular microfractures, 3) capsular distension, 4) low-grade synovitis, and 5) complicating bursitis/ enthesopathy secondary to abnormal joint mechanics:
+		- _Site_ - typically mono-arthritis, ocassionally oligoarthritis
+		- _Onset_ - insiduous onset over mo or years
+		- _Progression_ - variable or intermittent over time ("good days, bad days")
+		- _Provoking and relieving factors_ - mainly related to movement and weight-bearing, relieved by rests
+		- _Associated Sx_:
+			- Minimal S/S of inflammation including marked swelling, erythema, or hotness except secondary bursitis/ enthesopathy
+			- Morning stiffness may be present but is brief (< 15-30 min), as with gelling after rest (< 5 min)
+	- **Disability** - functional restriction of the hands, knees, or hips is an equal, if not greater, problem than pain
+- **Signs of osteoarthritis:**
+	- _Inspection_:
+		- Deformities usually w/o instability
+		- Muscle wasting may be marked
+	- _Palpation_:
+		- Bony swelling around joint lines
+		- Joint-line or peri-articular tenderness
+		- Palpable (ocassionally audible) coarse crepetus due to rough articular surface
+	- _Movement_ - painful, restricted active and passive ROM due to capsular thickening or blocking of osteophytes
+	- ![[Pasted image 20260525215128.png]]
+- **Correlation between structural/ radiographical changes and symptomatology:**
+	- Degree of correlation varies markedly according to site
+	- Strength of correlation: hip > knee and spine > small joints
+	- Biomechanical factors (e.g. body weight, quadriceps waisting), and adverse psychosocial factors (e.g. work stress, anxiety, depression) may correlate more strongly w/ pain and disabilities than the degree of radiographic changes
+- **Generalised nodal OA:**
+	- **Predisposition to generalised nodal OA** - strong genetic component which predicts OA risks at other sites:
+		- Marked female preponderance
+		- Daughters of affected mothers has 1 in 3 chance of developing OA
+		- People w/ nodal OA go one to develop OA at other sites, especially _knee OA_
+	- **Clinical features of generalised nodal OA** - some remain asymptomatic, most undergo a phase of episodic symptomatology w/ osteoarthritic changes until OA fully develops, where symptoms subsides:
+		- **Pain** - fluctuating, episodic pain w/ movement (some are asymptomatic)
+		- **Deformities** - prominent bony swellings seen on P/E (see below)
+		- **Functional impairment** - overall function preserved (limited to mild pain when opening bottles)
+	- **Signs of generalised nodal OA:**
+		- _Inspection_ - bony enlargement as a result of osteophyte formation, w/ misalignments due to asymmetrical focal finger loss:
+			- **Lateral deviation of digits** - due to asymmetrical digit loss
+			- **Herberden's nodes** - bony swelling of the PIP joints
+			- **Bouchard's nodes** - bony swelling of the DIP joints
+			- **Squaring of the thumb base** - deviation of the first CMC joint
+			- ![[Pasted image 20260525220057.png]]
+			- ![[Pasted image 20260525220116.png]]
+		- _Palpation_ - presence of crepitus on joint movement, bony swelling
+- **Knee OA:**
+	- **Joints involved in KOA** - focal involvement initially but eventually spreads to affect the whole joint:
+		- Patellofemoral joint
+		- Medial tibio-femoral compartment
+		- Lateral tibiofemoral compartment
+	- **Clinical features of KOA:**
+		- _Pain_ - typically over the anterior (patello-femoral) or medial aspects of the knee and upper tibia (posterior knee pain suggests Baker's cyst)
+		- _Disability_ - difficulties in:
+			- Prolonged walking
+			- Rising from chair and getting in or out of a car
+			- Bending to put on socks and shoes
+	- **Signs of KOA:**
+		- **Inspection:**
+			- _Deformities_ - varus deformities (rarely valgus deformities) +/- fixed flexion deformities
+			- _Swelling_ - bony swelling around the joint lines
+			- ![[Pasted image 20260525221004.png]]
+		- **Palpation:**
+			- _Bony swelling_ - around joint line w/ minimal effusion
+			- +/- _Joint-line tenderness_ - likely peri-articular inflammation (e.g. anserine bursitis or MCL enthesopathy)
+		- **Movement** - restrited flexion/ extension w/ coarse crepitus
+		- **Gait** - antalgic gait w/ reduced stance phase on painful side (jerky and asymmetric)
+		- **Power** - weakness of the quadriceps muscles
+	- **Causes of fluctuating knee pain in KOA** - secondary pathologies may develop on top of background of KOA:
+		- Calcium pyrophosphate disease (CPPD) - association w/ OA most common at the knee
+		- Baker's cyst - posterior knee pain and risk of rupture
+		- Peri-articular inflamamtion - increased risk of secondary anserine bursitis and MCL tendinopathy
+- **Hip OA:**
+	- **Area of involvement of hip OA** - asymmetrical joint involvement as in any OA, a/w various patterns:
+		- _Superolateral OA_ (common) - targets superior aspects of the joint and a/w superolateral migration of the femoral head; typically unilateral presentation and poorer prognosis
+		- _Central OA_ - targets medial aspects of the joint and a/w axial migration of the femoral head; typically bilateral onset, largely confined to F and a/w better prognosis
+	- **Clinical features of hip OA:**
+		- _Pain_ - typically felt maximally deep on the anterior aspects of the groin w/ various radiations to the buttocks and knees
+		- _Disability_ - similar as in OA knee, difficulties in:
+			- Prolonged walking
+			- Rising from chair and getting in or out of a car
+			- Bending to put on socks and shoes
+			- Pain in intercourse if restricted hip abduction in F
+	- **Signs:**
+		- **Inspection:**
+			- _Deformities_ - fixed flexion deformity/ external rotation deformity +/- ipsilateral leg shortening w/ severe joint attrition and superior femoral migration
+			- _Wasting_ - wasting of the quadriceps and gluteal muscles
+		- **Palpation** - anterior groin tenderness maximal just lateral to the femoral pulse
+		- **Movement** - painful, restricted active and passive ROM seen earliest w/ internal rotation (most Sn)
+- **Spondylosis** (Spine OA):
+	- **Areas of involvement in spondylosis:**
+		- Cervical spine (cervical spondylosis)
+		- Lumbar spine (lumbar spondylosis)
+	- **Clinical features of spondylosis:**
+		- _Pain_ - localised to the neck/ lower back +/- radiating pain w/ radiculopathy
+		- _Focal neurological deficits_ - w/ radiculopathy or myelopathy
+	- **Signs of spondylosis:**
+		- _Inspection_ - loss of lordosis
+		- _Palpation_ - bony tenderness
+		- _Movement_ - painful, restricted active and passive ROM
+		- _Neurological examination and SLR test_ - reflection of myelopathy or radiculopathy
+- **Causes of early-onset OA** (< 45y):
+	- ![[Pasted image 20260525223104.png]]
+- **Kashin-Beck disease:**
+	- Rare form of OA occuring in children
+	- Typically between the ages 7 and 13
+	- Common in some regions of China, postulated to be related to Selenium deficiency or contamination of cereal w/ mycotoxin-producing fungi
+- **Ix:**
+    - Plain X Ray - reveals joint-space narrowing (JSN), subchondral sclerosis, subchondral cyst, and marginal osteophytes formation:
+        - Knee OA - weight-bearing (standing) AP, lateral (tibiofemoral joint) and skyline (patellofemoral joint) knee radiographs
+        - Hip OA - non-weight-bearing PA pelvis radiographs
+        - Spine OA - ?flexion-extension view
+    - Routine bloods (CBC, LRFT, autoantibodies) - all should be within normal limits
+    - Additional workup for early-onset OA - consider secondary causes (identifiable from Hx and XR)
+- **Diagnosis** - typically clinical (EULAR):
+    - 3 symptoms - persistent pain, limited morning stiffness, reduced function
+    - 3 signs - bony enlargement, crepitus, restricted ROm
+- **Mx:**
+	- **Principles of Mx** - OA treatment pyramid:
+	    - First line Mx - education, exercise and weight control
+	    - Second line Mx - First line + Pharmacological pain relief, aids and passive Tx by physio
+	    - Third line Mx - Second line + Surgery
+	    - ![[Pasted image 20260525224325.png]]
+	    - ![[Pasted image 20260525224337.png]]
+	- **Education** - explain the nature of condition, relevant risk factors (age, FHx, obesity, trauma):
+		- Structural changes are permanent but they do not correlate well w/ pain and function, which can improve
+		- Symptoms can be improved by muscle strengthening, analgesiam weight loss w/ joint replacement surgery reserved for refractory cases
+		- Prognosis is as follows: nodal OA > knee OA > hip OA
+	- **Analgesics and anti-inflammatory drugs:**
+		- _Non-pharmacological approaches_ - acupuncture and TENS demonstrate effective for knee OA
+		- _Pharmacological approaches_:
+			- Topical NSAIDs
+			- Oral NSAIDs
+			- Paracetamol/ compound analgesics (e.g. co-codamol)
+			- Antineuropathic drugs (poor evidence base)
+	- **Corticosteroid injections:**
+		- _Clinical efficacy_ - effective for Tx of knee OA and OA at first CMC joint:
+			- Duration of effects usually short lived
+			- Trials of serial corticosteroid injections every 3 mo in knee OA shown efficac for up to 1y
+		- _Main consideration_ - serial injections not recommended due to risk of **septic arthritis** which is joint threatening
+	- **Chondroitin and glucosamine:**
+		- _Clinical efficacy_:
+			- Overall NICE guidellines did not consider these differences to be clinically significant
+			- Some RCT trials suggest that these agents can improve knee pain to a small extent (3-5%) compared to placebo
+	- **Hyaluronan injections:**
+		- Trials demonstrate modest pain relief for several months but evidence for efficacy is heterogenous
+		- Not recommended by NICE due to cost and requirements for serial injections (q3-5 mo)
+	- **Disease modifying therapy** - no licensed drugs:
+		- Glucosamine sulphate is the onl agent shown in one study to reduce rates of radiological progression and progression to joint replacement, but challenged on methodological trial
+		- Strontium ranelate as potential disease modifying agent but not licensed
+	- **Surgery** - indicated for patients w/ OA whose Sx significantly impact QOL and are refractory to conservative mx
+	

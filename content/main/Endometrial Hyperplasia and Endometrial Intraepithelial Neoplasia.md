@@ -1,0 +1,46 @@
+---
+id: 7f711aab-cca9-4e5b-8ea2-af26f2041d85
+title: Endometrial Hyperplasia and Endometrial Intraepithelial Neoplasia
+---
+
+# Endometrial Hyperplasia and Endometrial Intraepithelial Neoplasia
+
+- **Definition and terminology:**
+    - <u>Endometrial hyperplasia</u> (EH) - a proliferation of endometrial glands which may be w/o atypia (non-neoplastic), or w/ atypia (neoplastic)
+    - <u>Endometrial hyperplasia without atypia</u> - hyperplasia with increased gland-to-stromal ratio but absence of atypical nuclear features, which harbours low malignant potential
+    - <u>Endometrial hyperplasia with atypia</u> (EIN) - also known as endometrial intraepithelial neoplasia, a/w more marked hyperplasia with disorganisation of architecture, and prominent nuclear atypia, which harbours high malignant potential
+- **Epidemiology:**
+    - <u>Incidence</u> - not an uncommon pathology (generally EH w/o atypia more common than EIN)
+    - <u>Demographic</u> - most commonly presents in **perimenopausal and early post-menopausal women**
+- **Risk factors of EH** - similar to those for endometrial carcinoma:
+    - **Non-modifiable risk factors:**
+        - <u>Age</u> - increasing age a/w increased risk of endometrial hyperplasia and endometrial carcinoma
+        - <u>FHx</u> - higher risk if Lynch Syndrome or Cowden syndrome
+    - **Modifiable risk factors:**
+        - <u>Unopposed estrogene exposure</u>:
+            - Endogenous exposure - e.g. obesity, ovulatory dysfunction (i.e. PCOS), early menarche, late menopause, nulliparity
+            - Exogenous exposure - unopposed estrogen therapy, tamoxifen
+        - <u>DM</u> - increased risk w/ poor glycaemic control
+- **Clinical features of EH and EIN:**
+    - <u>Asymptomatic</u> - incidental findings w/ atypical glandular cells on cervical cancer screening, incidental discovery of thickened endometrium on TVUSS for another indications
+    - <u>Abnormal uterine bleeding</u> - nature of persentation dependent on menopausal status:
+        - **Post-menopausal women** - any uterine bleeding regardless of volume is suspicious of endometrial hyperlasia/ malignancy and should be evaluated by TVUSS and subsequentl endometrial sampling
+        - **Perimenopausal women** - frequent menstrual bleeding (\< 21d), heavy or prolonged menstrual bleeding or intermenstrual bleeding
+        - **Pre-menopausal women** - raised suspicion if menstrual Hx and PMH is a/w increased risk factors of endometrial malignancies
+- **Natural Hx of EH and EIN:**
+    - <u>Risk of malignant transformation</u>:
+        - EIN - 15-40% in 20y
+        - EH w/o hyperplasia - \< 10% in 20y
+    - <u>Risk of synchronous endometrial carcinoma</u>:
+        - EIN - up to 40%
+        - EH w/o hyperplasia - \< 1%
+- **Ix and Dx** - suspicion on TVUSS, histoligcal Dx based on endometrial sampling, D&C, hysteroscopy
+- **Mx:**
+    - **Principles of Mx:**
+        - **Approach to Mx:**
+            - <u>Expectant Mx</u> - consider watchful waiting if unable to tolerate progestin
+            - <u>Progestin therapy</u> - Merina or oral progestin
+            - <u>Surgical therapy</u> - hysterectomy
+        - **Selection of Mx dependent on histology and menopausal status:**
+            - <u>EH w/o atypia</u> - consider progestin therapy irrespective of menopausal status
+            - <u>EIN</u> - hysterectomy 1L for those who have completed family (or post-menopausal), progestin 1L for those who have plans for pregnancy

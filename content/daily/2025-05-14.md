@@ -1,0 +1,80 @@
+---
+id: 3b799022-0e0d-4084-9c09-40b439fb49ce
+title: 2025-05-14
+---
+
+# Nausea and Vomiting - Literature Search on UpToDate <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span> <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+- **Remarks:**
+    - UpToDate in line w/ American Gastroenterological Association Guidelines
+- **Definition of nausea** - unpleasant sensation of being about to vomit, often accompanied by diaphoresis, increased RR/HR, and disengagement from one's surroundings
+- **Definition of vomiting** - <u>forceful</u> expulsion of gastric contents
+- **Physiology of gastric motor functions:**
+- **DDx of nausea and vomiting:**
+    - **Gastrointestinal causes:**
+        - <u>Mechanical obstruction</u> - gastric outlet obstruction, intestinal obstruction
+        - <u>Motility disorder</u> - Fuctional gastrointestinal disorders, achalasia, gastroparesis, chronic intestinal pseudo-obstruction, irritable bowel syndrome, functional GI disorders
+        - <u>Hepato-biliary pancreatic causes</u> - hepatitis, acute cholecystitis, acute pancreatitis
+        - <u>Bowel inflammation</u> - acute appendicitis, infective gastroenteritis, Crohn's disease, mesenteric ischaemia
+        - <u>Pharyngeal irritation</u> - eating disorders
+    - **Non-gastrointestinal causes:**
+        - <u>CNS disorders</u> - migraines, **raised ICP** (SOL, cerebral oedema, hydrocephalus etc.), CNS infections, epilepsy disorders, demyelinating disorders, emotional response
+        - <u>Labyrinthine disorders</u> - Meniere disease, Labyrinthitis, motion sickness etc.
+        - <u>Cardiac disorders</u> - Inferior MI, heart failure, RFA of the liver
+        - <u>Hyperestrogenic state</u> - pregnancy, OC pills, alcoholism
+        - <u>Metabolic causes</u> - DKA, uraemia, hyperPTH, thyrotoxicosis, Addisonian crisis, Acute intermittent porphyria
+        - <u>Drug-induced</u> - narcotics, digoxin, ABx, colcicine, anticonvulsants, levodopa, metformin
+- **Clinical approach to vomiting:**
+    - <u>Address consequence and complications of N/V</u> - fluid resuscitation, correct electrolyte abnormalities (e.g. hypoK, metabolic alkalosis), NG decompression
+    - <u>Diagnosis</u> - etiology should be sought after based on Hx, P/E and Ix
+    - <u>Targeted Tx</u> - Tx based on symptoms, and Tx of underlying cause
+- **Salient points of Hx:**
+    - **HPI** - confirm vomiting, characterise 1) onset and severity, 2) quality, 3) timing, 4) progression:
+        - **Confirmation of vomiting** - differentiation between vomiting, retching, and regurgitation
+        - **Onset and severity** - duration (acute vs chronic), and number of times
+        - **Quality of vomitus:**
+            - <u>Colour</u> - billous (pathology distal to Ampulla), faeculent (late stage of SBO due to bacterial stasis), bloody (workup as UGIB), yellowish undigested food
+            - <u>Presence of old food</u> - suggestive of **delayed gastric emptying**, which may be mechanical (GOO) or functional (gastroparesis)
+        - **Timing** - associations w/ food or fasting:
+            - <u>Delayed \> 1h after meals</u> - GOO or gastroparesis
+            - <u>\< 1h after meals</u> - typically a feature of acute abdomen
+            - <u>Persistent retching after NPO</u> - HBP causes, ureteric colic
+            - <u>Early morning</u> - morning sickness, alcoholism, **raised ICP**
+            - <u>Sudden projectile vomiting w/ no prior nausea</u> - central cause of vomiting (e.g. SOL in medulla, NMO, raised ICP)
+        - **Progression** - progressive vs variable
+    - **Associated Sx:**
+        - **Abdominal pain** - consider DDx of acute abdomen (cholecystitis, pancreatitis, cholangitis, IO) or gastroenteritis
+        - **Constipation** - complete constipation (obstipation) is IO unless proven otherwise
+        - **Abdominal distension** - suggestive of IO, while an epigastric bulge may be seen w/ GOO
+        - **Upper GI Bleeding** (coffee-ground vomitus, melaena) - PUD, esophagitis, gastritis, mallory-weiss syndrome, upper GI malignancies
+        - **Dysphagia** - caused by mechanical obstruction (benign or malignant) or functional disorders of the esophagus
+        - **Heartburn** - may be mistakened as vomitus, but long-standing severe heartburn Sx raises suspicion of esophageal adenoCA
+        - **Weight loss** - significant weight loss (\> 10% TBW within 6 mo) is invariable in upper GI malignancies
+        - **Vertigo** - presence of vertigo suggestive of labyrinth cause
+        - **Headaches** - migraine-like headaches points towards Dx of migraines
+        - **Delirium** - CNS cause
+        - **Fever** - suggestive of infective cause (e.g. GE, cholangitis, CNS infections etc.)
+    - **PMH:**
+        - **Past surgical Hx:**
+            - <u>Abdominal and pelvic surgery</u> - adhesions predispose to **adhesive SBO**
+            - <u>Prior gastrectomy</u> - theoretically a risk factor of CA stomach, but greater implications on Mx (e.g. ERCP contraindicated)
+        - **Gastrointestinal disorders** - Crohn's disease
+        - **Other medical conditions** - DM, CKD, coronary artery disease
+        - **Detailed drug Hx**
+    - **Relevant SHx and FHx**
+- **P/E:**
+- **Ix** - highly dependent on the nature of clinical presentation:
+    - **Routine bloods** - CBC, LRFT, random blood glucose, amylase, blood gases, troponin:
+        - <u>CBC</u> - leukocytosis suggestive of infection, reactive thrombocytopenia and McHc anaemia suggestive of UGIB
+        - <u>RFT</u>:
+            - Urea/Cr, Na - reflective of hydration status
+            - K, HCO3 - metabolic complications from vomiting
+            - Urea:Cr ratio - post-resuscitation persistent increased urea points towards UGIB
+        - <u>LFT</u> - hepatocellular vs cholestatic pattern
+        - <u>RBG</u> - DKA
+        - <u>Amylase</u> - r/o pancreatitis
+        - <u>Troponin</u> - r/o inferior MI
+    - **Urinalysis** - pregnancy test, glucose, ketones
+    - **Imaging** - erect CXR, AXR, USG
+    - **Microbiology** - if suspected infectious cause:
+    - **Endoscopy** - indicated only if persistent N/V unexplained in routine evaluation

@@ -1,0 +1,59 @@
+---
+id: 4D4A300A-172E-4288-8FE8-711CA51F54F0
+roam_parent: 9E5DD728-15CC-4435-8165-1D59C1CC67DC
+title: Hypervolaemia and Impaired Fluid Clearance in a PD Patient
+---
+
+# Hypervolaemia and Impaired Fluid Clearance in a PD Patient
+
+- **Epidemiology** - common complication in patients on PD (\> 70% PD patients)
+- **General principles:**
+    - <u>Mechanism of fluid removal</u> - ultra-filtration, the passage of fluid across a semipermeable membrane in response to a driving pressure, either hydrostatic, oncotic or osmotic pressure, and is altered by **changing PDF dextrose concentration to alter osmotic pressures**
+    - <u>Minimize high-dextrose dialysate</u> - only used intermittently if showing hypervolaemia (e.g. edema, HTN, or weight gain), but generally avoided to prevent **hyperglycaemia**, and paradoxically low ultrafiltration due to development of **rapid transport**
+- **Approach to causes of hypervolaemia in a dialysis patient:**
+    - <u>Causes unrelated to dialysis</u> - loss of residual kidney function, excessive water and salt intake, worsening heart disease
+    - <u>Causes related to dialysis</u> - 1) Patient factor, 2) Factor related to peritoneum, 3) Factor related to catheter, 4) Factor related to PD prescription
+- **Causes unrelated to dialysis:**
+    - <u>Loss of residual kidney function</u> - loss of renal contribution to fluid removal, and dialysis prescription should be altered to maximise UF
+    - <u>Excessive dietary sodium and water intake</u> - isolated sodium restriction w/ or w/o fluid restriction to avoid hypovolaemia
+    - <u>Worsening cardiac function</u> - may lead to signs of hypervolaemia such as pedal or pulmonary oedema
+- **Causes related to dialysis:**
+    - **Patient factors:**
+        - <u>Lack of adherance</u> - e.g. skipping exchanges, shorten daytime dwells or lengthen nighttime dwells
+        - <u>Hyperglycaemia</u> - especially in DM patients that often show worsened glycemic control,reduce the osmotic pressure gradient between blood and dialysate that drives ultrafiltration, leading to fluid retention and hypervolaemia
+        - <u>Hypoalbuminaemia</u> - redistribution of fluid into the interstitial compartment instead of blood, such that fluid cannot be removed into the dialysate
+    - **Factors related to the prescription** - failed to individualise prescription to account for specific peritoneal membrane characteristics leading to impaired UF
+    - **Factors related to the peritoneum** - low ultra-filtration capacity classified into 4 types:
+        - <u>Type 1 ultrafiltration insufficiency</u> (rapid transport) - most common, also termed type 1 membrane dysfunction; very rapid dextrose transport resulting in rapid equilibrium and dissipation of osmotic gradient, which may be transient (e.g. acute peritonitis), or sustained (repeated episodes of peritonitis)
+        - <u>Type 2 ultrafiltration insufficiency</u> (decreased water transfer) - unclear causes with potential genetic role (rare), due to decreased function of aquaporins resulting in isolated decrease in water transfer via the transcellular route
+        - <u>Type 3 ultrafiltration insufficiency</u> (decrease surface area) - also termed type 2 membrane dysfunction, due to 1) sclerosis, or 2) adhesions resulting in reduced UF and reduced solute clearance
+        - <u>Type 4 ultrafiltration insufficiency</u> (increased PDF absorption) - absorption of PDF into lymphatics and local tissue, maybe due to excessive IP pressures (e.g. large instilled volume in small patients)
+    - **Factors related to catheter:**
+        - <u>Incomplete draining</u> - from mechanical problems of catheter, leaks, or drain pain, results in 1) formation of fluid collection that is absorbed over time, and 2) dilution of dextrose concentration of the next dweel resulting in obliterated osmotic gradient and reduced UF
+- **Prevention of hypervolaemia in a patient on PD:**
+    - **Establish target weight** - weight at which the patient does not have HTN or other any evidence of fluid overload or volume depletion, as established by trial and error during PD training:
+        - <u>Assessment of euvolemia determined by patient</u> - extent of fluid removal assessed by patient based on BP, weight and Sx, w/ **self-adjustment of dextrose concentration if target weight not met**
+        - <u>Variability of target weight over time</u> - due to gains or loss in actual body mass, as it is observed that most patients experience increased body mass w/ reduced ruaemic associated anorexia
+    - **Monitoring** - frequent re-assessment of patient on PD:
+        - <u>Re-evaluation of target weight</u> - by clinical exam, dietary Hx, and Hx on UF volumes, frequency of exchange and dextrose concentration used, and changes in cardiovascular status, where evidence of oedema at prescribed target weight may reflect a decrease in actual body mass resulting in hypervolaemia
+        - <u>Re-evaluation of residual kidney function</u> - 24-hour urine collection to detect increases or decreases in urine output to identify any need to increase ultrafiltration
+        - <u>Review of medications</u> - identify nephrotoxic agents, other agents associated w/ S/S of volume overload (e.g. CCBs and pedal oedema)
+        - <u>Repeat PET</u> - if unclear causes as evident by KDIGO guidelines, if unexplained solute clearance or decreased ultrafiltration
+    - **Additional preventative measures:**
+        - <u>Loop diuretics</u> - use of, or increase dose of diuretics in patients w/ residual function such that less reliant on UF for fluid removal
+        - <u>Optimise glycaemic control</u> - review of HbA1c levels to allow for osmotic gradient to drive ultrafiltration
+        - <u>Establish best reno-protective medical Mx</u> - RAAS blockade, SGLT2i, avoidance of nephrotoxic agents and volume depletion
+        - <u>Salt +/- fluid restriction</u>:
+            - Salt restriction \< 2g Na per day for all patients (limit thirst response)
+            - Fluid restriction if evidence of no residual renal function
+- **Approach to evaluation of the persistently volume overloaded patient on PD:**
+    - <u>Hx</u> - HPI (Compliance, drain output and PD fluid concentration, Sx of heart disease), dietary Hx, Recent hospitalisation, drug Hx
+    - <u>P/E</u> - evidence of oedema, evidence of fluid leakage
+    - <u>Ix</u>:
+        - RFT, 24h urine collection w/ quantification of urine volume
+        - Review of dialysis data (for CAPD)
+        - Fill and drain test
+        - PET if unclear cause
+
+  
+  ![](../img/approach_to_identification_of_causes_of_hypervolaemia_in_pd.png)

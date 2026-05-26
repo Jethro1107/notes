@@ -1,0 +1,187 @@
+---
+id: 10a0c7ae-9fe3-4f58-8b0f-3b6d55046923
+title: Renal Stone Disease
+---
+
+# Renal Stone Disease
+
+- **Definition of nephrolithiasis** - stone formation in the kidney and urinary tract
+- **Epidemiology:**
+    - <u>Prevalence</u> - extremely common (19% M, 7% F by 70y)
+    - <u>Demographic</u>:
+        - **Age** - peak incidence in 40-60y M, or \< 40y F, but theoretically can be diagnosed at any age
+        - **Sex** - male preponderance (M:F = 2:1)
+- **Classification of kidney stones:**
+    - <u>Classification by radio-opacity</u> - radio-opaque stones (i.e. calciums tones) vs radio-lucent stones
+    - <u>Classification by composition</u>:
+        - **Calcium stones** - calcium oxalate (70-60%), calcium phosphate (15%)
+        - **Organic acid stones** - uric acid stones (8%), cystine stones (1-2%), xanthine stones
+        - **Struvite stones** - magnesium ammonium phosphate stones (1%)
+    - <u>Classification by morphology</u> - e.g. staghorn stones
+    - <u>Classification by site</u> - renal, ureter, bladder stones
+- **Risk factors of kidney stones:**
+    - **Non-modifiable risk factors:**
+        - <u>Demographic</u> - age and sex
+        - <u>FHx</u> - some evidence suggesting predispositon or environmental exposure
+    - **Modifiable risk factors:**
+        - <u>Urinary factors</u>:
+            - Urine biochemical abnormalities - high urine Ca, high urine oxalate, low urine citrate, high urine uric acid
+            - Urine pH - low urine pH predisposes to uric acid precipitation, high urine pH predisposes to CaPO4 stones (calcium oxalate stones are urine independent)
+        - <u>Dietary factors</u>:
+            - Dehydration - promotes stone formation by altering urine biochemistries
+            - Medications - e.g. protease inhibitor drugs
+        - <u>Medical conditions</u>:
+            - **Primary hyperPTH** - causes hyperCa, predisposing to Ca stones
+            - **Distal RTA** - persistent alkaline urine pH and low urine citrate levels predisposes to CaPO4 stones
+            - **Gout** - hyperuricaemia predisposes to uric acid stones
+            - **Malabsorption syndromes** (IBD, short gut syndrome, bowel resection) - predisposes to Calcium oxalate stones
+            - **Urinary tract infections** - chronic upper urinary tract infections by urease-producing organisms (e.g. Proteus spp. or Klebsiella) predisposes to struvite stones
+            - **Medullary sponge kidney disease** - anatomical and metabolic disturbances causing nephrocalcinosis
+            - **HTN** - increased urinary Ca levels, uric acid levels and lowered citrate levels predisposes to Ca and uric acid stones
+            - **DM** - lower urinary pH predisposes to acid secretion
+            - **Cystinuria** - autosomal recessive disorder characterised by excessive cystine excretion
+- **Clinical features of kidney stones:**
+    - **Asymptomatic stones** - incidental finding on imaging exam of the abdomen or in surveillance imaging in prior Hx of stones (some may have asymptomatic haematuria)
+    - **Symptomatic stones** - classically present with renal colic and haematuria:
+        - **Pain:**
+            - **Renal colic** - paroxysmal occurance of colicky type pain thought to occur primarily from urinary obstruction with distension of kidney capsule:
+                - <u>Site</u> - location of pain dependent on site of obstruction (site changes on stone migration):
+                    - **Renal pelvis or upper ureteric obstruction** - results in <u>flank pain</u>
+                    - **Lower ureteric obstruction** - flank pain radiating to suprapubic area and to the <u>ipsilateral testes or labium</u>
+                - <u>Onset</u> - gradual onset a/w paroxysms of pain
+                - <u>Progression</u> - gradual increase in severity, with change in site of pain reflecting stone migrations (resolution after passage of stones)
+                - <u>Quality</u> - colicky pain characterised by paroxysms of severe pain lasting for 20-60 min
+                - <u>Radiation</u> - radiation to the ipsilateral testes and labium
+                - <u>Exacerbating and relieving factor</u> - constant pain, unable to be relieved by postural changes
+                - <u>Severity</u> - varies from mild and barely noticeable ache to extreme pain
+            - **Ureteric colic and impaction** - paroxysms of colicky pain caused by ureteric obstruction:
+                - <u>Ureteric colic</u> - colicky nature, intermittent attacks of agonising loin pain, typically referred to groin, external genitalia, and anterior aspect of the thigh (ocassionally to tip of penis of descends into bladder)
+                - <u>Impaction</u> - arrest of the stone at 5 regions, causing a more **constant dull pain** over the **iliac fossa**, which is exacerbated on movement and relieved on rest:
+                    - Normal anatomical narrowings of ureters (proximal to distal):
+                        1.  Ureto-pelvic junction
+                        2.  Crossing of the iliac artery
+                        3.  Juxtaposition of vas or broad ligament
+                        4.  Entering the bladder wall
+                        5.  Ureteric oriface
+
+            
+            ![](img/ureteric_narrowing.png)
+        - **Haematuria** (70-90%) - gross or microscopic haematuria is a strong predictor of renal stones (i.e. painful haematuria is likely stone disease)
+        - **Other symptoms:**
+            - <u>Diaphoresis and N/V</u> - caused by severe pain
+            - <u>Dysuria and urinary urgency</u> - only presents if stone in distal ureters or bladder
+    - **Complicated urinary stones:**
+        - <u>Pyonephrosis</u> - urological emergency causing sepsis arising in infected urine proximal to the obstructing stone
+        - <u>Progression into CKD</u> - persistent kidney obstruction could cause permanent kidney damage (esp. bilateral staghorn calculi)
+- **DDx of renal stone disease** - many urological conditions can manifest as renal colic and haematuria:
+    - <u>Primary renal tumour or upper tract tumour</u> - manifests as **gross haematuria** (+/- clots) and can mimic flank pain through causing **clot colic**
+    - <u>Acute pyelonephritis</u> - manifests as **flank pain with acompanying fever and pyuria** (smilar manifestation as complicated renal stones)
+    - <u>Gynaecological conditions</u> - e.g. ectopic pregnancy, rupture or torsion of ovarian cysts, dysmenorrhoea
+    - <u>HBP and GI conditions</u> - various causes of acute abdomen (e.g. IO, gallstones, acute mesenteric ischaemia)
+    - <u>Other miscellaneous conditions</u> - ruptured aortic aneurysm, Herpes zoster reactivation etc.
+- **Ix and diagnostic evaluation** - workup for stone if presenting with loin pain w/ or w/o haematuria, esp. if +ve Hx of renal stone disease:
+    - **Routine bloods:**
+        - <u>CBC</u> - leukocytosis for suspected infection
+        - <u>Clotting profile + T&S</u> - if surgical intervention complicated
+        - <u>RFT</u> - Urea, Cr, and eGFR for assessment of renal function
+        - <u>Baseline metabolic profile</u> - CaPO4, Uric acid, bicarbonate +/- PTH
+    - **Urinalysis:**
+        - <u>Urine dipstick</u> - for protein, blood, glucose, and r/o UTI (leukocyte esterase and nitrites)
+        - <u>Urine C/ST</u> - detection of bacteriuria and UTI (-ve results does not r/o UTI)
+    - **Diagnostic imaging:**
+        - **X Ray of Kidney, Ureters and Bladder** (KUB) - visualises all radio-opaque stones (90%), but is less accurate for size estimation and stone localisation
+        - **Non-contrast CTKUB** (gold standard) - gold standard for Dx and assessment for nephrolithiasis:
+            - <u>Test properties</u> (excellent) - Sn 94%, Sp 97%
+            - <u>Radiological findings:</u> - assessment of <u>size and location</u>:
+                - **Hyperdense lesions in the urinary tract** - most stones are radio-opaque, with the exception of drug stones (e.g. indinavir stones) and pure matrix stones, which are radiolucent
+                - **Secondary findings of urinary tract obstruction** - e.g. ureteric dilatation
+            - <u>Determination of stone composition</u>:
+                - **Calcium stones** - dense and a/w nephrocalcinosis
+                - **Uric stones** - less dense than calcium stones
+                - **Struvite stones** - occurence in renal pelvix
+        - **Ultrasound of the kidneys and bladder** - preferred in pregnancy and children as it is <u>non-ionising</u>:
+            - <u>Test properties</u> - variable, roughly Sn 70%, Sp 75%
+            - <u>Sonographic findings</u> - detection of hydronphrosis but less accurate in detecting stone size, number and location
+        - **Other imaging modalities** - e.g. IVU, MRI
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>General measures</u> - triage of symptomatic patients, pain control, measures for stone passage, medical expulsion therapy (MET), medical Tx of concurrent UTI
+        - <u>Urological consultation and Mx</u> - surgical Mx of stones based on 1) clinical presentation, 2) size, and 3) location of stones
+    - **Triage of patents:**
+        - <u>Outpatient Mx</u> - most patients can be managed conservatively if able to undergo oral hydration and take oral medications
+        - <u>Inpatient Mx</u> - if uncontrollable pain, cannot tolerate oral intake, or have features of complications (e.g. fever, oliguria/anuria)
+    - **Symptomatic relief** - pain control +/- N/V:
+        - **Pain control** - requires powerful analgesics (NSAID or opioids):
+            - <u>NSAID</u> - e.g. diclofenac (100 mg suppository), ketorolac, ibuprofen
+            - <u>Opioides</u> - IM morphine (10-20mg), IM pethidine (100 mg)
+        - **Control of N/V** - antiemetics
+    - **Stone passage** - spontaneous stone passage dependent on stone size and location:
+        - <u>Factors affecting liklihood of stone passage</u>:
+            - **Stone size** - <u>\< 5mm stones</u> are likely to pass spontaneously (\> 90% stones \< 4mm passed spontaneously), and progressive decrease in spontaneous passage rate (\> 6mm may consider surgical intervention)
+            - **Stone location** - distasl stones are more likely to pass spontaneously than proximal stones (79% vs 48%)
+        - <u>Supportive measures for stone passage</u>:
+            - **Strain urine** - strain urine for several days and bring in any stones passed for chemical analysis (plan preventive therapy)
+            - **Adequate hydration** - IV not necessary, prefer oral intake
+        - <u>Medical expulsive therapy</u> (MET) - medical therapies increasing the passage rate of ureteric stones:
+            - **Alpha-blockers** - e.g. tamsulosin (0.4mg od for up to 4 weeks)
+            - **CCB** - e.g. Nifedipine (lower stone passage rates, longer expusion times, and more complications)
+    - **Treatment of UTI** - ABx for all patients with evidence of concurrent urinary tract infection
+    - **Surgical Mx** - roughly 10-20% of renal stones require surgical removal:
+        - **Goals of surgical therapy:**
+            - 1\. Maximise treatment success - as defined by stone-free rate (SFR)
+            - 2\. Reduction of risk of complications - certain options (e.g. URS, and PNL) have higher complication rates
+            - 3\. QoL - certain surgical options (e.g. ureteral stenting) can cause patient discomfort
+        - **Indications of surgical Tx:**
+            - <u>Indications for emergency surgery</u> - evidence of complicated renal stones disease (infection and AKI):
+                - 1\. Urinary tract obstruction with suspicion or evidence of UTI (e.g. pyelonephrosis)
+                - 2\. Unilateral obstruction by stone in patient with solitary kidney with AKI
+                - 3\. Bilateral obstruction by stones with AKI
+            - <u>Indications for elective surgery</u>:
+                - Massive ureteric stones - \> 10 mm
+                - Persistence of uncomplicated stones \< 10mm that have failed conservative Tx for 4-6 weeks
+        - **C/I** - relative C/I for SWL in patients who are 1) obese, 2) pregnant, or 3) have uncontrolled bleeding tendancy
+        - **Surgical options** - see details below:
+            - **Emergency surgery** - urgent decompression of collecting system by <u>percutaneous nephrolithotomy</u> (PCNL) or <u>ureteroscopy with ureteral stenting</u> (URS with stenting)
+            - **Elective surgery** - dependent on size and location of stones:
+                - **Kidney or renal pelvis stones:**
+                    - <u>Percutaneous nephrolithotomy</u> - for large stones (\> 15 mm) or stones in the lower pole of the kidney
+                    - <u>Ureteroscopy</u> - for smaller stones (\< 15 mm) located in lower pole of the kidney, or any site if ESWL avoided
+                    - <u>Extracorporeal Shock wave lithotripsy</u> - for smaller stones (\< 15 mm) in upper pole, middle calyx or pelvis of kidney
+                - **Ureteric stones:**
+                    - <u>Ureteroscopy</u> - for distal stones or larger stones (\> 10 mm)
+                    - <u>Extracorporeal shock wave lithotripsy</u> - for proximal-to-mid-ureterial small stones (\< 10 mm)
+            - **Other considerations:**
+                - <u>Obesity</u> - URS is preferred
+                - <u>Pregnancy</u> - URS preferred as PCNL and ESWL contraindicated
+                - <u>Bleeding diathesis</u> - URS is preffered
+                - <u>Abnormal kidney/ ureteral anatomy</u> - URS is preferred
+                - <u>Struvite stones</u> - PCNL preferred
+                - <u>Harder stone composition</u> - PCNL and URS preferred as they are more likely to achieve SFR than ESWL
+        - **Pre-operative Ix:**
+            - <u>Routine bloods</u> - CBC and RFT baseline
+            - <u>Preoperative imaging</u> (NCCTKUB) - if not performed at diagnosis for some reason
+        - **Pre-operative Tx** - Tx of concurrent UTI until urine sterile (not feasible for struvite stone)
+        - **Extracorpeal shock wave lithotripsy** (ESWL):
+            - <u>Procedure</u> - high-energy shock waves produced by electrical discharge transmitted through water and focused onto the stone, causing fragmentation of the stone
+            - <u>Complications</u> - generally low complication rate:
+                - Transient ureteral obstruction by stone fragments (5%)
+                - Urinary tract infection (2%)
+                - Transient haematuria (common)
+                - Major complications - sepsis and haemorrhage (\< 1%)
+        - **Ureteroscopy** (URS):
+            - <u>Procedure</u> - endoscope passed through the urethra proximally towards the stone with manipulation of stone (e.g. collection by stone basket, or laser fragmentation, i.e. intracorpeal lithotripsy) +/- ureteric stenting (JJ stent)
+            - <u>Complications</u>:
+                - Ureteral stend discomfort (\> 25%)
+                - Ureteral wall injury (5%)
+                - Ureteral stricture (up to 3%)
+                - Major omplications - sepsis and ureteral avulsion (\< 1%)
+        - **Percutaneous nephrolithotomy** (PCNL):
+            - <u>Procedure</u>:
+                - 1\. Small skin incision with guidance of working sheath through incision to kidneys
+                - 2\. Passage of endoscope through working sheath for stone extraction or laser lithotripsy
+                - 3\. Nephrostomy tube - facilitate drainage of the kidneys and allow for re-entry for repeat PNL if there are residual stone fragments
+            - <u>Complications</u> - 15%:
+                - Significant bleeding (8%)
+                - Renal pelvis perforation (3%)
+                - Hydrothorax (2%)
+                - Sepsis

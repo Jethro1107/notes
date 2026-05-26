@@ -1,0 +1,57 @@
+---
+id: ccdf12a1-c925-443c-af48-2f3ce72c82bf
+title: Physiology of Micturation and Continence
+---
+
+# Physiology of Micturation and Continence
+
+- **Normal baseline for frequency, nocturia, void volume, and residual urine:**
+    - <u>Frequency</u> - urinary frequency as defined by \> 8 voids during daytime (IPSS defines as Q2H)
+    - <u>Nocturia</u> - \>= 2 voids during sleep time, where each void is preceded and followed by sleep
+    - <u>Void volume</u> - 200-400 mL per void
+    - <u>Residual urine</u> - \< 150 ml defined as normal (complete emptying, i.e. 0 mL for most people)
+- **Compliance of bladder** - normally compliant bladder enables accumulation of urine without significant change in detrussor/vesicle pressure
+- **Physiology of micturation:**
+    - **Storage phase** - progressive increase in intravesicle volume without changes in vesicle pressure (accomodation of urine at low pressure due to perfectly compliant system):
+        - <u>Detrusor relaxation</u> - absence of involuntary bladder contractions resulting in bouts of increased detrusor pressure (cf OAB)
+        - <u>Sphincter contraction</u> - sphincter tone gradually increases to prevent leakage of urine, at rest, as in increases in intra-abdominal pressure
+        - <u>Compliance of urinary bladder</u> - bladder distends as urine fills, resulting in **non-significant changes in vesicle pressure, detrusor pressure, or intra-abdominal pressure**
+    - **Voiding phase** - synchronous increase in intravesicle pressure w/ sphincter relaxation to enable continuous flow of urine from bladder until empty:
+        - <u>Detrusor contraction</u> - contraction of detrussor muscles results in **increased detrusor pressure**, and hence **increased vesicle pressure**
+        - <u>Abdominal straining</u> - patient's with bladder outlet obstruction (BOO) may requires abdominal straining to **increase intra-abdominal pressure**, to enable sufficient rise in vessicle pressure
+        - <u>Sphincter relaxation</u> - coordinated decrease in sphincter tone is necessary for urine to empty from the bladder
+        - <u>Absence of anatomic obstruction</u> - absence of anatomical obstruction such that there is **minimal resistance across the pressure gradient**
+- **Neurological control of micturation** - normal neurological functions required for <u>urinary continece</u>:
+    - **Pontine micturation centre** - initiation of voiding, where integrates:
+        - Cortical inhibition from frontal lobe
+        - Afferent stretch input from detrusor muscles (full bladder stimulates pontine micturation centre)
+        - Cerebellar input for coordinated voiding
+    - **Sympathetic outflow** - hypogastric nerve from T10-L2, forming pelvic plexus with parasympathetics, responsible for <u>detrusor muscle relaxation and internal sphincter contraction</u>
+    - **Parasympathetic outflow** - pelvic plexus from S2-S4, ersponsible for <u>detrusor muscle contraction and internal sphincter relaxation</u>
+    - **Somatic control** - pudendal nerve (onuf's nucleus at S2-S4) enables conscious control of external sphincter
+- **Micturation reflex** - spinal cord reflex that is modulated by pontine micturation centre:
+    - <u>Mechanism</u> - as bladder fills, and detrussor muscle stretches:
+        - **Reduced sympathetic outflow** - reduced detrussor muscle relaxation and decreased internal sphincter control
+        - **Increased parasympathetic outflow** - active detrussor muscle contraction and relaxation of itnernal sphincter
+        - **Overall effect** - complete relaxation of sphincter muscles and immediately followed by detrussor contraction
+    - <u>Higher control</u> - modulation by pontine micturation centre (capable of inhibition of the reflex), which is under cortical control
+- **Physiology of continence and control of voiding** - requires normal CNS (including spinal cord), and normal anatomy:
+    - **As bladder fills:**
+        - Increasing stimulation of the pontine micturation centre due to increased intravesicle volume and stretch
+        - Cortical inhibition of the pontine micturation centre as it is not socially acceptable to void at the moment
+        - Hence, micturation reflex is suppressed, resulting in overall detrussor muscle relaxation and internal sphincter contraction
+        - Conscious contraction of the external sphincter muscle via pudendal stimulation to increased resistance to urinary flow
+    - **Voluntary voiding:**
+        - Cortical disinhibition of the pontine micturation centre as one reaches the toilet
+        - Micturation reflex initiated, resulting in coordinated detrussor muscle contraction and internal sphincter relaxation
+        - Concomitent relaxation of the external sphincter muscle to enable emptying of the bladder
+    - **Involuntary voiding** - caused by defects of neurological control, or anatomical deficits of the lower urinary tract:
+        - <u>Abnormal anatomy</u> - e.g. low bladder compliance, continuous incontinence due to fistula, congenital abnormalities
+        - <u>Abnormal neurological control</u> - e.g. dementia, spinal cord injury
+- **Principles of urinary incontinence** - considered an interaction between bladder and sphincter:
+    - **Bladder abnormality** - either 1) detrusor overactivity, or 2) low bladder compliance:
+        - <u>Detrusor overactivity</u> - idiopathic OAB, UMN neurogenic bladder
+        - <u>Reduced compliance</u> - e.g. radiation cystitis, interstitial cystitis, ketamine cystitis, hysterectomy/ SCI
+    - **Sphincter abnormality** - either 1) intrinsic sphincter, or 2) extrinsic sphincter problem:
+        - <u>Intrinsic sphincter</u> - intrinsic sphincter deficiency (due to damage to blood flow/ innervation)
+        - <u>Extrinsic sphincter</u> - urethral hypermobility due to insufficient pelvic floor support (often complicating childbirth)

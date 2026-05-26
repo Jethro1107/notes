@@ -1,0 +1,145 @@
+---
+id: 074dcebf-469c-4051-a3ca-95b366cdd216
+title: 2025-04-13
+---
+
+- [[Renal Stones - Literature Search on UpToDate]]
+- [[Flank Pain - Literature Search on UpToDate]]
+
+# GC33 Chronic diarrhoea, irritable bowel syndrome, inflammatory bowel disease <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+## Diarrhoea
+
+- **Definition** - increase in daily stool volume (stool weight \> 250g/d), frequency (\> 2-3times/d or increase from baseline) and fluidity:
+    - **Variability in normal bowel habits** - diarrhoea is suspected by comparing normal bowel patterns and nature of Sx
+    - **Clinical classification of diarrhoea** - based on chronicity:
+        - <u>Acute diarrhoea</u> - diarrhoea \< 4 weeks, with inflammatory or non-inflammatory etiology
+        - <u>Chronic diarrhoea</u> - diarrhoea \> 4 weeks (\>= 3 loose stools/d), with osmotic, malabsorptive, secretory, motility, inflammatory or infective etiology
+
+    
+    ![](../img/classification_of_diarrhoea.png)
+- **Etiology of acute diarrhoea:**
+    - <u>Infective diarrhoea</u> - e.g. viral, bacterial, toxins
+    - <u>Drug-induced diarrhoea</u> - e.g. ABx, PPIs, NSAIDs, cytotxic agents
+- **Etiology of chronic relapsing diarrhoea:**
+    - **Osmotic diarrhoea** - e.g. lactase deficiency, laxative abuse, malabsorption
+    - **Malabsorption:**
+        - <u>Pancreatic disease</u> - e.g. chronic pancreatitis, pancreatic carcinoma, cystic fibrosis
+        - <u>Small bowel disease</u> (enteropathy) - e.g. SB resection, coeliac disease, tropical sprue, lymphoma, bacterial overgrowth, radiation enteropathy
+    - **Secretory diarrhoea:**
+        - <u>Endocrine tumours</u> - e.g. VIPoma
+        - <u>Laxative abuse</u>
+        - <u>Bile salt malabsorption</u>
+    - **Motility disorders** - Irritable bowel syndrome (<u>most common cause</u>)
+    - **Infammatory diarrhoea** - Inflammatory bowel disease (Crohn's, UC, microscopic colitis), microscopic colitis, ischaemia
+    - **Chronic infections** (particularly in immunocomprimised patients) - e.g. chronic bacterial, mycobacterial, parasitic infections
+- **Salient points of Hx:**
+- **P/E:**
+    - <u>General examination</u> - hydration status, vital signs, signs of toxicity
+    - <u>Abdominal examination</u> - look for abdominal distension, and peritoneal signs (signs of toxicity)
+- **Ix:**
+    - **Routine bloods:**
+        - <u>CBC</u> - for Fe Deficiency anaemia, leukocytosis, or eosinophilia
+        - <u>LRFT and electrolytes</u> - volume status (urea, creatinine), electrolyte disturbances (e.g. HypoNa, HypoK, CaPO4, Mg), inflammation (Albumin as -ve APP)
+        - <u>Inflammatory markers</u> - ESR, CRP
+        - <u>RBG</u> - for DM
+        - <u>Autoimmune markers</u> - serum Ig levels, ANF, p-ANCA
+        - +/- TSH, HIV serology
+    - **Stool analysis:**
+        - <u>Stool examination</u> - Stool C/ST, stool for leukocytes (inflammation), FOBT
+        - <u>Faecal calprotectin</u> - indicative of inflammatory process:
+            - **Principles** - 24kDa dimer of Ca binding protein indicative of migration of neutrophils to intestinal mucosa
+            - **Interpretation** - elevated in infectious diarrhoea, inflammatory bowel diseases, neoplasms
+        - <u>Additional stool studies</u>:
+            - Fat - for malabsorption or maldigestion
+            - Na - differentiation between osmotic and secretory diarrhoea
+            - pH - differentiation between malabsorption or osmotic diarrhoea
+    - **Radiological assessment** - plain AXR, barium studies (follow-through, enema), CT enteroscopy, MR enteroscopy, USG
+    - **Endoscopy** - OGD, lower endoscopy, SB enteroscopy (balloon enteroscopy or spiral enteroscopy), VTE
+
+## Malabsorption
+
+## Irritable bowel syndrome
+
+- **Definition** - recurrent abdominal pain in association with abnormal defaecation in the absence of structural abnormality of the gut
+- **Epidemiology** - estimated 10-15% affected at some time in their life (most do not seek medical attention):
+    - <u>Geographical variation</u> - rather common in SE Asia
+    - <u>Demographic</u> - female proponderance (F:M = 2-3:1)
+    - <u>Associations</u>:
+        - Medical conditions - functional dyspepsia, dysmenorrhoea, fibromyalgia, chronic fatigue syndrome
+        - Physical or sexual abuse - present in 5-10% of patients
+- **Clinical subtypes of IBS** - based on stool consistency at times of Sx:
+    - <u>IBS with diarrhoea</u> \[IBS-D\] - loose, watery stools accounting for \>= 25% of BM, and hard, lumpy stools accounting for \< 25% of BM
+    - <u>IBS with constipation</u> \[IBS-C\] - hard, lumpy stools accounting for \>= 25% of BM, and loose, watery stools accounting for \< 25% of BM
+    - <u>Mixed IBS</u> \[IBS-M\] - loose, watery stools, and hard, lumpy stools both accounting for \>= 25% of BM
+    - <u>Unsubtyped IBS</u> \[IBS-U\] - unable to meet criteria of IBS-C, -D, or -M
+
+  
+  ![](../img/IBS_subtypes.png)
+- **Dx of IBD** - clinical diagnosis based on <u>Rome IV criteria</u> in <u>absence of alarm features</u>:
+    - **Roam IV criteria** - recurrent abdominal pain on average at least 1 day per week for last 3 mo, with Sx persistent for \>6 mo, in association with \>= 2 of the following:
+        - <u>Relations to defaecation</u> - relieved by defaecation
+        - <u>Associated with change in stool frequency</u> - increased or decreased stool frequency
+        - <u>Associated with change in stool consistency</u> - diarrhoea or constipation
+    - **Absence of alarm features** - based on Hx and Ix:
+        - <u>Hx</u> - e.g. LGIB, weight loss, onset in older patients, FHx of CA colon or IBD
+        - <u>Ix</u> - +ve FOBT, Abnormal CBC, Abnormal ESR, Abnormal biochemistry
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Patient education and reassurance</u> - reassure patient that colonic symptoms is not likely caused by sinister disease, but instead is result of psychosocial, behavioural, physiological and luminal factors
+        - <u>Dietary modification</u> - modify diet based on predominant Sx
+        - <u>Pharmacological therapy</u> - initate therapy based on predominant Sx, if refractory to reassurance or dietary modification
+        - <u>Psychological treatments</u>
+    - **Dietary modification** - low FODMAP diet or gluten free diet for diarrhoeal Sx, high-roughphage diet for constipation Sx
+    - **Medical Tx for diarrhoeal symptoms:**
+        - <u>Opioid agonists</u> - loperamide, codeine
+        - <u>Bile salt sequestrants</u> - e.g. cholestyramine
+        - <u>ABx</u> - rifaximin
+    - **Medical Tx for constipation symptoms:**
+        - <u>Psyllium</u>
+    - **Medical Tx for pain and bloating:**
+        - <u>Anti-spasmodics</u> - otilonium, meberverine
+        - <u>TCA</u> - amitriptyline, desipramine
+        - <u>SSRI</u> - sertraline, arpoxetine, citalopram
+        - <u>Chloride channel activator</u> - lubiprostone
+        - <u>Guanylate cyclase C agonist</u> - linaclotide
+
+## Inflammatory bowel disease
+
+- **Definition** - chronic inflammatory bowel diseases which pursue a protracted relapsing and remitting course over years, with two similar clinical entities:
+    - <u>Ulcerative colitis</u> - inflammatory bowel disease resulting in continuous superficial (mucosal and submucosal) lesions extending from the rectum to the ileo-caecal valve
+    - <u>Crohn's disease</u> - inflammatory bowel disease resulting in skipped transmural lesions that can involve any part of the GI tract from mouth to anus
+- **Differences between ulcerative colitis and Crohn's disease:** 
+![](../img/radiological_endoscopic_histological_differences_between_UC_and_CD_lecture.png)
+- **Epidemiology of IBD:**
+    - **Incidence** - increasing incidence of disease in the Western World (after 1950), and subsequently in countries that adopt Westernised lifestyle:
+        - <u>Ulcerative colitis</u> (more common) - 10-20/100000/y in the West
+        - <u>Crohn's disease</u> - 5-10/100000/y in the West
+    - **Demographic** - Peak incidence in 2nd-3rd decade of life, Slight female preponderance in Crohn's disease
+- **Pathophysiology of IBD** - generally unknown:
+    - **Genetic factor** - family aggregation in both UC, CD, suggesting a genetic basis in both disease and partially sharing genetic basis
+        - <u>MHC genes</u> (HLA genotypes) - increased risk for UC and CD
+        - <u>NOD2 genes</u> (SNP8, 12, 13) - increased risk for CD
+    - **Environmental factors** - dietary, infections, and smoking:
+        - <u>Smoking</u> - **reduced risk for UC**, but **increased risk of CD**
+- **Disease phenotype of UC:**
+    - <u>Proctitis</u> - disease limited to the ano-rectum
+    - <u>Left-sided colitis</u> - disease extended to the splenic flexure
+    - <u>Extensive colitis</u> - disease affecting the entire colon
+- **Anatomical location of Crohn's disease** - Vienna (1998) and Montreal classification (2005) of CD: 
+![](../img/vienna_and_montreal_classification_of_CD.png)
+- **Extraintestinal manifestations of IBD:**
+    - <u>Joint complications</u> - arthritis, peripheral arthropathy, ankylosing spondylitis (sero-negative arthropathies)
+    - <u>Biliary tract complications</u> - gallstones, primary sclerosing cholangitis
+    - <u>Renal complications</u> - kidney stones
+    - <u>Occular complications</u> - scleritis and episcleritis, anterior uveitis, iritis
+    - <u>Skin complications</u> - pyoderma gangrenosum, erythema nodosum, apthous ulcers of the mouth
+- **GI complicaations of CD:**
+    - <u>Malnutrition</u> - caloric, protein, and vitamin deficiencies as a result of poor intake, protein-losing enteropathy, and malabsorption
+    - <u>Abscess formation</u>
+    - <u>Fistulation</u>
+    - <u>Strictures and obstruction</u>
+    - <u>Perianal disease</u>
+- **GI complications of UC:**
+    - <u>Toxic megacolon</u> (thumb printing sign)
+    - <u>Colorectal carcinoma</u>

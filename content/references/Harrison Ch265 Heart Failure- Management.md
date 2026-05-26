@@ -1,0 +1,137 @@
+---
+id: 742d0415-bf24-4ff2-bfd6-eb764aa72296
+title: "Harrison Ch265 Heart Failure: Management"
+---
+
+# Ch280 Heart Failure: Management
+
+- **Outcomes:**
+    - Overall mortality/ cardiovascular mortality
+    - HF hospitalisations
+- **Principles of Mx of HF:**
+    - <u>AHA stage B</u> - asymptomatic ventricular dysfunction amenable to Tx w/ neurohormonal antagonists (ACEi, BB)
+    - <u>AHA stage C</u> - dependent on LVEF and current best evidence:
+        - HFrEF (\< 40%) - abundance of data supporting use of RAAS antagonist (ACEi, ARB, MRA), neprilysin inhibitors, BB, and SGLT2i
+        - HFmrEF (40-49%) - less data available but new evidence pointing towards efficacy of SGLT2i, GLP-1 antagonists, ARNI etc.
+    - <u>AHA stage D</u> - disease refractory to best medial Tx associated w/ higher risk of mortality from sudden death and hence salvage therapies including cardiac transplant or MCS may be appropriate prior to palliative measures
+
+## Heart Failure with Mildly Reduced or Preserved Ejection Fraction
+
+- **General principles from prevailing evidence:**
+    - RAAS blockade, digoxin, BB, and neprilysin inhibitors have failed to demonstrate reduction in mortality
+    - Some evidence (Candesartan in Heart Failure - Morbidity and Mortality \[CHARM\] Preserved) seen w/ RAAS blockade in reducing HF hospitalisations, but generally limited to LVEF \< 60% (hence HFmrEF may be treated as HFrEF)
+    - Lack of evidence for HFpEF has led to symptom-drived Mx, particularly in control of congestion, stabilisation of rhythm, BP control, and Mx of comorbidities affecting disease course (e.g. obesity, COPD, OSA, CKD, DM, anaemia, iron deficiency)
+    - New evidence supports use of SGLT2i in HFmrEF and HFpEF patients particularly in reducing cardiovascular mortality and HF hospitalisations
+    - ARNI and GLP1 antagonists have variable benefits for selected HFpEF patients
+- **Lack of evidence for RAAS:**
+    - <u>CHARM preserved</u> - candesartan statistically significant reduction of HF mortality but insignificant benefit in all-cause mortality
+    - <u>I-PRESERVE</u> - Irbesartan no differences in composite of cardiovascular death or HF
+    - <u>PEP-CHF</u> - perindopril initial benefits on HF hospitalisation and functional capacity were attenuated over longer-duration
+    - <u>TOPCAT</u> - spironolactone shows no benefits in terms of cardiovascular death but show reduction in HF hospitalisation (although significant regional bias in post-hoc analysis)
+    - <u>SPIRRIT HFpEF and FINARTS-HF</u> - new trials providing insight to role of MRA
+- **Lack of role of Digoxin:**
+    - Digitalis investigation group ancillary trial found no impact of digoxin in all-cause mortality, or on all-cause or cardiovascular hospitalisation in those w/ LVEF \> 45% and sinus rhythm
+    - Modest reduction in HF hospitalisations noted
+- **Evidence for SGLT2i** - newly embraced role of SGLT2i although cost-effectiveness analysis showed low-to-intermediate economic value:
+    - <u>DELIVER</u> - dapagliflozin a/w in reductions in composite cardiovascular death and HF hospitalisation
+    - <u>EMPORER-PRESERVED</u> - empagliflozin a/w in reductions in composite cardiovascular death and HF hospitalisation
+- **Evidence for GLP1 antagonists** - documented improved haemodynamics and QoL from various trials irrespective of DM status:
+    - <u>STEP-HFpEF</u> - semaglutide obese HFpEF patients w/o DM
+    - <u>STEP-HFpEF DM</u> - semaglutide obese HFpEF patients w/ DM
+    - <u>SUMMIT trial</u> - dual GLP-1/glucose-dependent insulinotropic polypeptide agonist tirzepatide
+- **Limited role on improving NO signalling** - despite biological models suggesting role of microvascular endothelial inflammation and NO signalling in pathophysiology of HFpEF, there are no role in clinical setting:
+    - <u>RELAX</u> - slidenafil showed no improvement in Sx, QoL, and other clinical parameters
+    - <u>NEAT-HFpEF</u> - nitrates showed no improvement
+    - <u>INDIE-HFpEF</u> - inorganic nitrates showed no improvement
+- **Role of ARNI:**
+    - Barely statistically insignificant (p=0.06) benefits of 13% reduction of primary endpoints of cardiovascular death and HF hospitalisation
+    - Subgroup analysis suggests modest benefit in those w/ lower EF (i.e. HFmrEF) and women
+- **Principles of Mx:**
+    - <u>BP control</u> - guideline-recommended targets
+    - <u>Reduce congestive states</u> - symptomatic relief but caution to not reduce preload excessively as at risk of azotemia, hypotension and syncope
+    - <u>Correction of myocardial ischaemia</u> - deliberate evaluation and consideration for revascularisation for those at risk of CAD
+    - <u>Rhythm stabilisation</u> - maintain atrial contraction and prevent tachycardia w/ aggressive rate control, anticoagulation and early consideration of rhythm restoration
+    - <u>Mx of comorbidities</u> - obesity (lifestyle and potentially pharmacological), COPD, OSA, CKD, anaemia
+
+## Acute Decompensated Heart Failure
+
+- **Principles of ADHF:**
+    - Heterogenous clinical syndrome requiring individualised Mx
+    - Dx is a/w excessive morbidity and mortality - 50% readmission for HF within 6mo, high in-hospital mortality (5%) and 1y mortality (20%)
+    - Long term prognosis poor as a/w increased combined incidence of cardiovascular deaths, HF hospitalisations, myocardial infarction, stroke or SCD (50% at 12 mo)
+- **Pathophysiology of ADHF** - heterogenous clinical syndrome requiring individualised Mx due to confluence of interrelated abnormalities including:
+    - Decreased cardiac performance
+    - Renal dysfunction
+    - Alterations in vascular compliance
+- **Clinical phenotypes of ADHF:** 
+![](img/distinct_phenotypes_of_adhf.png)
+- **Poor prognostic factors of ADHF:**
+    - <u>SBP</u> - \< 115 mmHg
+    - <u>SCr</u> - \> 243.1 mmol/L (2.75 mg/dL)
+    - <u>BUN</u> - \> 15.3 mmol/L (43 mg/dL)
+    - <u>Cardiac biomarkers</u> - elevated NT-proBNP, troponin
+- **Goals of Mx** - maintain end-organ perfusion by:
+    - Volume control
+    - Haemodynamic optimisation
+- **Predictive factors of HF readmission:**
+    - Volume status or residual congestion at discharge
+    - Pre-discharge measurements of NT-proBNP
+- **Principles of Mx:**
+    - <u>Identification and address triggers</u> - including patient factors, anatomical factors, rhythm factors
+    - <u>Pharmacological therapy</u> - aimed at relief of congestion, reduction in afterload and maximization of vital organ perfusion w/ diuretic therapy, vasodilators, or inotropes
+    - <u>Invasive monitoring</u> - central venous catheterisation not recommended and restricted to those w/ evidence of low-output HF, cardiogenic shock or those refractory to diuretic therapy etc.
+    - <u>Pre-discharge initiation of longitudinal HF Mx</u> - a/w better Tx adherance and lower rates of composite death and HF readmissions (PIONEER-HF, EMPULSE trial)
+
+  
+  ![](img/pharmacological_therapy_adhf.png)
+- **IV diuretics** - loop diuretics rapidly and effectively relief congestion and are given intravenously as oral drug absorption is impaired:
+    - <u>Dosing regimens</u> - bolus vs infusions (RCTs have not demonstrated clear justification of best diuretic strategy):
+        - Bolus - variable dosing to acquire rapid clinical effect and is typically preferred
+        - Infusion - typically only considered if bolus dosing sub-optimal even at high doses to reduce toxicity and maintain serum drug levels
+    - <u>Drug selection</u>:
+        - Loop diuretic agents (e.g. Furosemide \[Lasix\], toresemide) - generally first-line for decongestion
+        - Thiazide diuretics (e.g. chlorothiazide, metolazone) - for those refractory to loop diuretics alone (risk of significant hypoK)
+        - Acetazolamide - ADVOR trial demonstrated greater decongestion but was not a/w reduction in HF readmission or mortality
+    - <u>Titration of therapy</u> - aimed at euvolemia as volume overload at discharge is a predictor of recurrent ADHF and HF rehospitalisation:
+        - Improvement of clinical symptoms
+        - Weight loss (does not correlate well with outcomes as not fully attributable to water weight)
+        - Clinical signs such as JVP, pulmonary rales, cardiac gallops, peripheral oedema, hepatomegaly, ascites etc.
+    - <u>S/E</u>:
+        - Hypovolaemia
+        - Hypokalamemia
+        - Cardiorenal syndrome
+- **Ultrafiltration** (aquapheresis) - invasive fluid removal with electrolyte-sparing effects:
+    - <u>Evidence for UF</u> - Cardiorenal Rescue Study in Acute Decompensated Heart Failure (CARRESS-HF) compares stepped pharmacological therapy and UF:
+        - No differences in death and HF hospitalisations between two groups
+        - Similar weight loss between two groups
+        - Higher serum Cr at 96h for UF group (renal failure)
+        - Higher complication rates in UF group mainly due to kidney failure, bleeding complications, and intravenous catheter-related complications
+    - <u>Indications</u> - controversial but selected diuretic unresponsive patients w/ advanced renal disease may benefit
+- **Cardiorenal syndrome** - complications of ADHF due to interplay between cardiac and renal functions:
+    - <u>Definition</u> - deteriorationg function of one organ while therapy is administered to preserve the other
+    - <u>Pathophysiology of cardiorenal syndrome</u> - mechanistic studies unable to correlate renal function w/ cardiac output:
+        - Abdominal venous congestion - backword failure impairs return of renal venous bood flow
+        - Diuretic therapy - a/w a reduction of GFR and worsening of cardiorenal syndrome when right-sided filling pressures remain elevated (however overall benefits renal function through decongestion)
+- **IV Vasoactive therapy:**
+    - <u>MOA</u> - reduction of preload and afterload
+    - <u>Selection</u>:
+        - Nitroglycerin - mainly acts through reduction of venous tone and hence ventricular preload often as adjunct to furosemide
+        - Sodium nitroprusside - potent arterial and venous vasodilators with more comprehensive effects on both preload and afterload (for those w/ adquate MAP or invasive BP monitoring)
+        - Nesiritide - recombinant BNP with effects intermediary between TNG and nitroprusside, head-to-head comparisons w/ TNG shows more rapid reduction of pulmonary capillary wedge pressure and pulmonary vascular resistance but higher risk of renal insufficiency and mortality (ASCEND-HF, ROSE-AHF)
+        - Serlaxin (RELAX-AHF, RELAX-AHF2) - no effect on cardiovascular death or worsening HF and thus not approved for clinical use
+    - <u>Acute injury hypothesis</u> - rationale for the failure of vasodilator therapies to improve clinical outcomes in ADHF despite favourable haemodynamic effect:
+        - ADHF is not a mere haemodynamic crisis but is a/w cardiomyocyte injury which drives long-term prognosis
+        - This is evident by elevated cardiac biomarkers in response to ventricular wall stress related to acute plasma volume expansion
+        - Time-sensitive treatment to reduce myocardial injury during ADHF in a similar paradigm as STEMI would logically follow but the hypothesis was rejected by the TRUE-AHF trial
+
+## Heart Failure with Reduced Ejection Fraction
+
+## Cardiac Resynchronization Therapy
+
+## Sudden Cardiac Death Prevention in Heart Failure
+
+## Surgical Therapy in Heart Failure
+
+## Disease Management and Supportive Care
+
+## Global Considerations

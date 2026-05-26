@@ -1,0 +1,116 @@
+---
+id: e8fb948e-467b-45be-b1cc-048a51cb6c0b
+title: Raised Intracranial Pressure
+---
+
+# Raised Intracranial Pressure
+
+- **Definition of ICP** - Pressure measured at the <u>external acoustic meatus</u> (roughly at level of <u>foramina of Monro</u>) relative to atmospheric pressures:
+  - <u>Normal ICP</u> - 10-15 mmHg in adults, 1-6 mmHg in infants, subatmospheric in infants
+  - <u>Raised ICP</u> - \>= 20 mmHg definitely abnormal in adults
+- **Etiology of raised ICP:**
+  - **Space-occupying lesion:**
+    - <u>Intracranial haemorrhage</u> - extradural haematoma, subdural haematoma, intracerebral haemorrhage
+    - <u>Cerebral tumours</u> - particularly posterior fossa lesions or high-grade gliomas
+    - <u>Infective causes</u> - brain abscesses, tuberculoma, cysticercosis, hydatid cyst
+  - **Hydrocephalus** - communicating vs non-communicating hydrocephalus
+  - **Cerebral oedema:**
+    - <u>Local oedema</u> - post-cerebral infarction (cytotoxic oedema), local tumour (vasogenic oedema)
+    - <u>Diffuse oedema</u> - meningoencephalitis, trauma, SAH, metabolic (e.g. hypoNa, HE)
+  - **Hyperaemia** - e.g. idiopathic intracranial HTN
+  - **Venous congestion** - cerebral venous thrombosis, trauma (e.g. depressed fractures overlying sinuses)
+- **Pathophysiology of raised ICP** - clinical manifestation is dependent on rate of development:
+  - **Monro-Kellie-Burrows Doctrine** - the skull is a rigid structure with fixed internal volume (1400-1700 mL) encompassing brain parenchyma (80%), CSF (10%), blood (10%):
+    - <u>Principles</u> - Increase in volume of one component necessitates displacement of other structures (out of the skull), or an increase in ICP
+    - <u>Intracranial compliance</u> - compliance of the intracranial compartment (dV/dP) decreases w/ increasing volume 
+    ![](../img/relationship_between_ICP_and_intracranial_volume.png)
+    - <u>Changes in volume of each component</u>:
+      - **Brain parenchyma** - tumour, cerebral oedema
+      - **Blood** - haematoma, hyperaemia, venous congestion
+      - **CSF** - hydrocephalus
+    - <u>Venous blood and CSF as buffering system</u> - venous blood and CSF can rapidly decrease to compensate for a mass effect to a limited extent, <u>maintaining normal ICP</u>
+
+    
+    ![](../img/intracranial_compensation_for_a_mass.png)
+  - **Cerebral ischaemia** - cerebral ischaemia ensues when cerebral blood flow (CBF) decreases below a threshold, resulting in global hypoperfusion:
+    - <u>Determinants of CBF</u> (N ~ 40-65 ml/min/100g of normal tissue) - CBF = CPP / CVR, i.e. Ohm's law:
+      - **Cerebral perfusion pressure** (CPP) - dependent on MAP - ICP (N ~ 60-80 mmHg)
+      - **Cerebrovascular resistance** (CVR) - vascular resistance of the cerebral vasculature
+    - <u>Physiological autoregulation of CBF</u> - maintained at steady state for a wide range of CPP (50-140 mmHg), but this mechanism is lost in pathological states (e.g. stroke, trauma)
+    - <u>Neuronal response to ischaemia</u> (**threshold at \< 18 ml/min/100g**) - neurons are extremely sensitive to ischaemia as they are obligate aerobes (unable to recycle lactate), which cause cellular responses:
+      - **Glutamate release** - Na/K pump failure leads to automatic depolarisation (Ca influx) and release of glutamate, resulting in **excitotoxicity** by further increasing cerebral metabolic demand
+      - **Cytotoxic oedema** - pump failure results in loss of ionic gradient, resulting in **astrocytic swelling**
+      - **Other cellular responses** - e.g. calcium influx, energy failure, DNA damage, all resulting in **rapid cell death**
+
+      
+      ![](../img/effects_of_cerebral_ischaemia.png)
+  - **Coning** - herniation of brain parenchyma due to pressure gradients developing between two cranial vaults:
+    - <u>Temporal coning</u> (midline shift)
+    - <u>Central transtentorial herniation</u>
+    - <u>Uncal herniation</u>
+    - <u>Tonsillar coning</u>
+- **Clinical features of raised ICP** - rapidly progressive due to Monro-Kellie-Burrows Doctrine:
+  - **Headaches** - mediated by pain fibres of CN V in dura and blood vessels:
+    - <u>Exacerbating factors</u> - supine (reduced venous drainage), straining, e.g. cough, sneezing (transient increased ICP)
+    - <u>Relieving factors</u> - vomiting (post-emetic hyperventilation), hyperventilation
+  - **Nausea and vomiting** - direct stimulation of emetic centre, and transiently causes relieve of headaches due to transient hyperventilation
+  - **Diplopia and visual impairment** (late feature) - arising most commonly from CN VI palsy, CN III palsy
+  - **Decreasing states of consciousness** (documented by GCS) - late feature typically reflecting herniation syndromes
+  - **Papilloedema** - late clinical sign on fundoscopy which can be documented by decrease in VA in both eyes
+  - **Cushing's triad** (Bradycardia, HTN, respiratory depression) - late feature caused by brainstem compression
+  - **Clinical features related to cause:**
+    - <u>Focal neurological S/S</u>
+    - <u>False localising signs</u> - e.g. unilateral/ bilateral 6th nerve palsies, contralateral 3rd nerve palsy
+    - <u>Seizures</u> - focal onset +/- generalised spread
+- **Initial Ix of suspected raised ICP** - demonstrated from compatible Hx and imaging findings:
+  - **CT Brain:**
+    - **CT findings** - demonstration of raised ICP (non-sensitive) and etiology:
+      - <u>Midline shift</u> - shift of midline to contralateral side suggestive of pressure gradient between two sides
+      - <u>Effacement of basilar cisterns</u> (Loss of neurosurgical smile) - caused by central transtentorial herniation resulting in obliteration of basal cistern
+
+      
+      ![](../img/ct_brain_suggestive_of_raised_icp.png)
+  - **Invasive ICP monitoring** - non-inferioriority of serial clinical and radiological assessment compared to continuous ICP monitoring demonstrated in BEST TRIP trial, indicated in certain conditions (see below)
+- **ICP monitoring:**
+  - <u>Indications</u> - use when necessary due to risk of severe CNS complications:
+    - 1\. Clinical assessment no feasible - unreliable GCS due to sedation or intubation
+    - 2\. Comatose - GCS \<=8
+    - 3\. Evolving disease condition
+  - <u>Relative C/I</u>:
+    - Bleeding tendancy
+    - Awake patient
+  - <u>Types of monitors</u>:
+    - **External venricular drain** (intraventricular) - surgically placed monitoring catheters into ventricles which is both diagnostic and therapeutic through drainage of CSF (risk of infection ~ 20%)
+    - **Intraparenchymal devices** - thin cable with transducers at tip placed of brain parenchyma
+    - **Subarachnoid bolts**
+    - **Epidural monitors**
+- **Mx:**
+  - **Principles of Mx** - Mx of raised ICP requires maintenance of CPP and CBF to prevent cerebral ischaemia:
+    - <u>Resuscitation always</u> - Secure airway, breathing, an circulation to maintain DO especially to the brain
+    - <u>Initial measures for raised ICP</u> - Head elevation fluid Mx, BP control, hyperventilation, osmotherapy
+    - <u>Additional medical Mx</u>:
+      - Sedation
+      - Glucose control
+      - Mx electrolytes
+      - Prevention of seizures
+      - Prevention of pyrexia
+      - Glucocorticoids for vasogenic oedema
+    - <u>Consult neurosurgery</u> - External ventricular drain, surgical removal of SOL, craniotomy, decompressive craniectomy
+  - **Head elevation** - optimal of 30 degrees:
+    - <u>Optimal positioning</u> - 30 degrees (above heart), and avoid excessive flexion, rotation, and neck collars (if C-spine cleared)
+    - <u>MOA</u> - optimise venous outflow without comprimise of CBF
+  - **Fluid management** - especially in setting of SIADH after TBI:
+    - <u>Regimens</u> - need not to be severely fluid restricted, kept euvolemic and normo-to-hyperosmolar (295-305 mOsm/L) by **avoiding hypotonic saline**
+    - <u>Monitoring</u> - Avoid hypoNa, and maintaine serum osmolality
+  - **BP control** - maintain CPP at 60-70 mmHg (note absence of autoregulation)
+  - **Hyperventilation** (not used liberally):
+    - <u>Target</u> - titrate PaCO2 to 3-3.5 kPa
+    - <u>MOA</u>:
+      - Hypocapnia induces vasoconstriction, reducing ICP
+      - Vasoconstriction can reduce CBP
+  - **Osmotherapy:**
+    - **Mannitol** - e.g. 100 ml 20% i.v.:
+      - <u>MOA</u> - Osmotic effect, removing fluid from brain (requires intact BBB) +/- other effects
+      - <u>C/I</u> - shock, hyperNa
+    - **FUrosemide**
+    - **Hypertonic saline**

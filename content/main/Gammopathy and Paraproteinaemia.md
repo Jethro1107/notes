@@ -1,0 +1,22 @@
+---
+id: 45fea93a-a44e-4be9-9d7b-63f53fc8a76c
+title: Gammopathy and Paraproteinaemia
+---
+
+# Gammopathy and Paraproteinaemia
+
+- **Definition and terminology:**
+    - <u>Gammopathy</u> - over-production of one or more class of immunoglobulin, which may be polyclonal a/w chronic inflammation, or monoclonal most a/w lymphoproliferative disease, CTD
+    - <u>Monoclonal gammopathy or paraproteinaemia</u> - over-production of one-class of immunoglobulin by a clone of plasma cells, often resulting in suppressed levels of other immunoglobulin
+- **Etiology of paraproteinaemia** - a/w immune dysregulation:
+    - <u>Lymphoproliferative disease</u> - e.g. lymphomas (e.g. Waldenstrom macroglobulinaemia)
+    - <u>Plasma cell dyscrasia</u> - MGUS, multiple myeloma, amyloidosis
+    - <u>Connective tissue disease</u> - rheumatoid arthritis, polymyalgia rheumatica
+    - <u>HIV infections</u>
+- **Ix** - see full workup in section on Multiple Myeloma:
+    - **Ig Pattern** - manifests as immunoparesis (suppressed level of other classes of Ab)
+    - **Serum protein electrophoresis** (SPE) +/- **immunofixation:**
+        - **SPE** - differentiation between monoclonal and polyclonal gammopathies:
+            - <u>Polyclonal gammopathy</u> - broad band peak at gamma-globulin area
+            - <u>Monoclonal gammopathy</u> - narrow peak at gamma-globulin area
+        - **Immunofixation** - detection of the predominant class of Ab in gammopathy

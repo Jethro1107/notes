@@ -1,0 +1,24 @@
+---
+id: e1d188e5-9880-470d-a5db-5838e7b55869
+title: Vancomycin and other Glycopeptides
+---
+
+# Vancomycin and other Glycopeptides
+
+- **Definition** - class of ABx that act by inhibition of cell wall synthesis
+- **Selection:**
+    - Vancomycin
+    - Teicoplanin
+- **MOA** - binding to D-ala-D-ala terminus of pentapeptide precursor
+- **Spectrum of glycopeptides** - effective against G+ cocci:
+    - MRSA
+    - Ampicillin-resistant enterococci
+    - C diff colitis (oral)
+- **Pharmacokinetics:**
+    - <u>Infusion</u> - slow IV infusion to avoid infusion syndrome
+    - <u>Distribtuion</u>:
+        - Good distribution; CSF penetrance only w/ active inflammation
+        - Vancomycin short half-life; Teicoplanin long-half life
+- **S/E:**
+    - Red man syndrome due to rapid vancomycin infusion (histamine release)
+    - Nephrotoxicity

@@ -1,0 +1,171 @@
+---
+id: 9FE434EB-ACF3-4FC9-950D-F9FF81A5B02F
+roam_parent: D4936387-15D8-4074-88C5-937F3DA55145
+title: Antipsychotic Drugs
+---
+# Antipsychotic Drugs
+
+- **Definition** - class of drugs that control symptoms of psychosis, including hallucinations, delusions, agitations, and psychomotor excitement, mainly through D2 receptor antagonism
+- **Other terms describing antipsychotics:**
+    - <u>Neuroleptics</u> - mainly refers to the S/E rather than the therapeutic effects of the drugs
+    - <u>Major tranquilizers</u> - mainly focuses its effects on reducing psychomotor excitement, but does not refer to the most important clinical action
+- **Subtypes of dopamine receptors:**
+    - Various subtypes ranging from D1 to D5
+    - D2 receptor antagonism is critical for antipsychotic action, where all licensed antipsychotics exert antagonism towards this receptor at varying affinities
+- **MOA of antipsychotics** - D2-receptor antagonism:
+    - Targets the "dopamine hypothesis" which suggests excessive striatal dopamine release
+    - Close relationship between potency in blocking dopaminergic receptors in vitro, w/ clinically observed therapeutic strengths
+    - PET studies suggest antipsychotic effect obtained when D2-receptor occupancy lies in range of 60-70%
+    - Higher levels result in other dopamine-related S/E including EPSE, and hyperprolactinaemia, and may not be a/w increased efficacy (Kapur et al 1999)
+- **Distinction between typical and atypical antipsychotics** - FGA vs SGA:
+    - Definition of "atypical" is the ability to produce antipsychotic effect w/o causing EPSE
+    - Definition is problematic, because most likely reflects a spectrum of drugs, and antipsychotics generally do not fall clearly into two classes in this effect:
+        - Certain low-potency FGAs such as <u>chlorpromazine</u> rarely causes EPSE at lower doses
+        - Certain SGAs such as <u>risperidone</u>, or <u>lusaridone</u> are more prone to EPSE
+    - Another property is that atypical antipsychotic generally exert greater effect on positive symptomatology than FGA, which is most demonstrable in olanzapine, amisulpride, and respiridone (Leucht et al 2013)
+- **Pharmacology of typical antipsychotics** - generally effective D2 receptor antagonists bust may pocess <u>additional pharmacological properties influence adverse-S/E</u>:
+    - **Phenothiazines** (additional alpha-1 adrenoreceptor, histamine H1-receptor, and muscarinic cholinergic receptor antagonism) - e.g. chlorpromazine (prototypical):
+        - <u>Alpha-1 adrenoreceptor antagonism</u> - results in <u>postural hypotension</u>, and sedaation
+        - <u>Histamine H1-receptor antagonism</u> - accounts for sedation
+        - <u>Anticholinergic activity</u> - results in dry mouth, blury vision, urinary difficulties or AROU, and **constipation**, while on the other hand **offsets EPSE**
+    - **Piperazine** - e.g. trifluoperazine, fluphenazine:
+        - Similar effects as chlopromazine, but less effect on other receptors hence less sedating
+        - More selective to D2 receptors, hence more prone to EPSE
+    - **Thioxanthenes and butyrophenones** - e.g. flupenthixol, clopenthixol, haloperidol:
+        - Similar to piperazine
+        - Differentiates from chlopromazine as non-sedating
+        - Extremely prone to EPSE
+- **Pharmacology of atypical antipsychotics:** 
+![](../img/atypical_antipsychotics_oxford.png)
+    - **Selective D2-receptor antagonists** - e.g. amisulpride (Solian), sulpride:
+        - Highly selective to D2 receptors, but <u>remarkably little EPSE</u>
+        - However extremely prone to <u>hyper-prolactinaemia</u>
+    - **5-HT2-D2 receptor antagonists** - various drugs w/ 1) 5-HT2 antagonist properties, 2) variable potency of D2 receptor blockade, and 3) varying effects on other receptors:
+        - <u>Respiradone</u> - potent antagonism of D2 receptors, 5-HT2 receptors, accounting for **strong EPSE and prolactin elevation**, as well as alpha-1 receptor blcoade, accounting for **sedation**, and **hypotension**
+        - <u>Paliperidone</u> (Invega) - active metabolite of risperidone and has very similar pharmacological properties when given orally
+        - <u>Olanzapine</u> - slightly weaker antagonism of D2 receptors than respiradone, hence **rare EPSE and prolactin elevation**, and rather strong anticholinergic and H1 receptor antagonism, making it **extremely sedation** (?hence IM olanzapine for agitated psychosis)
+        - <u>Quetiapine</u> - weaker antagonism of D2 receptors, hence **rare EPSE and prolactin elevation**, but rather strong H1 receptor antagonism, resulting in **sedation**, and **weight gain**
+        - <u>Lurasidone</u> - potent 5-HT2 and D2 receptor antagonism, but only weaker H1 antagonism
+        - <u>Asenapine</u> (only for mania) - significant D2 receptor antagonism, and wide range of effects on 5-HT2 and alpha-2 receptors
+        - <u>Sertindole</u> (currently use is suspended due to QTc prolongation) - potent 5-HT2 reeptor antagonism but weaker D2-receptor antagonism
+        - <u>Aripiprazole</u> (Abilify) - partial dopamine agonists w/ 5-HT2 receptor blocking and 5-HT1A agonist properties, generally causing activating profile and hence **insomnia**, **N/V**
+        - <u>Clozapine</u> - weak D2 receptor antagonism but high affinity to 5-HT2 receptors, but w/ significant H1, alpha-1, and muscarinic receptor activities, but is known for effects in treatment-resistant schizophrenia (?because less dopamine dependent)
+        
+        ![[Pasted image 20260407164435.png]]
+- **Depot antipsychotic drugs** - main role in relapse prevention but cannot be relief upon to take it regularly:
+    - Esters of conventional antipsychotic agents, e.g. fluphenazine decanoate, flupenthixol decanoate, zuclopenthixol decanoate, haloperidole decanoate
+    - Other depot atypical antipsychotics now exist for risperidone, paliperidone, aripiprazole, and olanzapine
+- **Pharmacokinetics** (of oral drugs):
+    - <u>Absorption</u> - mainly well absorbed from the jejunum
+    - <u>Transport and distribution</u>:k
+        - When taken orally, subjected to first-pass metabolism
+        - Generally highly **protein-bound**
+    - <u>Excretion</u> - most have T1/2 of ~ 20h allowing od; quetiapine has T1/2 of ~ 3h requiring bid:
+        - Extensive metabolism in the liver producing a range of active and inactive metabolites, hence difficult to interpret the clinical significance of the plasma concentration
+        - With the exception of amisulpride and sulpride which are excreted in the liver unchanged
+- **Pharmacokinetics of depot antipsychotics:** 
+![](../img/pharmacokinetics_of_depot_antipsychotics.png)
+- **S/E** - unwanted effects related to the antidopaminergic, antiadrenergic, antihistaminic, and anticholinergic properties: 
+	
+	![](../img/unwanted_se_of_antipsychotics.png)
+	
+	![[Pasted image 20260407164622.png]]
+    - **Extrapyramidal S/E** - due to antidopaminergic S/E on the basal ganglia:
+        - **Acute dystonia** - sudden uncontrollable muscle contractions:
+            - <u>Timing</u> - usually at onset of Tx, esp. in young man
+            - <u>Common agents</u> - FGAs:
+                - Butyrophenones, e.g. haloperidone
+                - Piperazines, e.g. trifluoperazine, fluphenazine
+            - <u>Manifestations</u> - easily mistakened for histrionic behaviour:
+                - Torticollis
+                - Tongue protrusions
+                - Grimacing
+                - Opisthotonos
+            - <u>Mx</u> - IM anticolinergics:
+        - **Akatisia** - unpleasant feeling of physical restlessness and need to move, leading to inability to keep still:
+            - <u>Timing</u> - usually occurs during first 2 weeks, but can be delayed onset
+            - <u>Common agents</u> - e.g. Invega, abilify
+            - <u>Core manifestations</u>:
+                - Difficult to described, but usually as inner restlessness
+                - Can result in marked agitations which can be mistakened by worsening psychosis
+                - Known to precipitate suicide ideations
+            - <u>Mx</u>:
+                - Benzodiazepine prn
+                - Beta-blockers
+                - Dose reduction if possible
+        - **Parkinsonian syndrome** - coarse tremor, rigidity, akinesia etc:
+            - <u>Timing</u> - usually few months after drug has been used
+            - <u>Mx</u> - antiparkisonian drugs, but not given prophylactically as can precipitate acute organic syndrome and may worsen tardive dyskinesia
+        - **Tardive dyskinesia** - characterised by various dystonic-like features such as chewing and sucking movements, grimacing, choreoathetoid movements, and possibly akathessia:
+            - <u>Epidemiology</u>:
+                - Demographic - women, elderly, and those w/ diffuse brain pathology
+                - Comorbidities - diagnosis of a concomittent mood disorder
+                - Drugs - usually a/w long-term Tx of FGAs, although SGAs are still a/w TD albeit at a lower rate
+            - <u>Pathophysiology</u> - supersensitivity to dopamine due to prolonged blockade, as:
+                - May be aggravated by stopping antipsychotic drugs
+                - May be aggravated byadministration of anticholinergic antiparkinsonian drugs
+            - <u>Tx</u>:
+                - Stopping antipsychotic if mental state allows, or switch to agents w/ weaker dopamine antagonism (e.g. quetiapine, olanzapine, aripiprazole, clozapine)
+                - Vitamin E but evidence conflicting
+                - Tetrabenazine (dopamine depleting agent) but poorly tolerated
+    - **Antiadrenergic effects:**
+        - Sedation
+        - Postural hypotension w/ reflex tachycardia
+        - Nasal congestion
+        - Inhibition of ejaculation
+    - **Anticholinergic effects:**
+        - Dry mouth
+        - Blurred vision or precipitation of glaucoma
+        - Urinary hesitancy and retention
+        - Constipation
+    - **Antihistaminergic effects:**
+        - Sedation
+        - Weight gain due to increased appetite (and hence development of metabolic syndrome and T2DM)
+    - **Other effects:**
+        - <u>Cardiac conduction defects</u> - QTc prolongation
+        - <u>Depression</u> - postulated due to excessive dopamine-receptor blockade in mesolimbic forebrain, but r/o concomittent depression or -ve Sx
+        - <u>Diabetes and metabolic syndrome</u> - esp. w/ olanzapine, quetiapine, and clozapine
+        - <u>Endocrine changes</u> - hyperprolactinaemia hence galactorrhoea and amenorrhoea, as well as increased risk of osteoporosis
+        - <u>Others</u> - hypothremia, sensitivity reactions
+    - **Adverse side effects of clozapine** - leukopenia (2-3%), agranulocytosis (usually in initial months)
+    - **Neuroleptic malignant syndrome:**
+        - <u>Epidemiology</u> - rare, occuring in small minority of patients, usually on high-potency antipsychotics (0.2%)
+        - <u>Onset of neuroleptic malignant syndrome</u>:
+            - Usually within first 10d of Tx onset but invariable
+            - Rapid onset ocurring over 24-72h
+        - <u>Clinical features of neuroleptic malignant syndrome</u> - hyperpyrexia w/ 1) motor, 2) mental, and 3) autonomic dysfunction:
+            - **Hyperpyrexia** - often the core feature
+            - **Motor symptoms** - generalised muscular hypertonicity, where contraction of muscles in the throat and chest may result in dysphagia and dyspnoea
+            - **Mental symptoms** - usually impaired consciousness and reactivity to the external world:
+                - Stupor
+                - Akinetic mutism
+            - **Autonomic disturbances:**
+                - Unstable BP and tachycardia
+                - Excessive sweating
+                - Excessive salivation
+                - Urinary incontinence
+        - <u>DDx</u>:
+            - Encephalitis
+            - Heat stroke
+            - Acute lethal catatonia
+        - <u>Ix</u>:
+            - **WCC** - raised
+            - **CK** - raised
+        - <u>Secondary complications</u> - up to 10% mortality rate:
+            - Cardiovascular collapse
+            - Renal failure
+            - Thromboembolism
+            - Pneumonia
+        - <u>Mx</u>:
+            - Stop the antipsychotic
+            - ICU care usually requiring intubation and sedation
+            - Cool the patient, maintain fluid balances, and treat intercurrent infections
+            - Diazepam (Valium) for muscle stiffness
+            - Dantrolene for malignant hyperthermia
+            - Bromocriptine (dopamine agonist)
+        - <u>Re-challenge w/ antipsychotics</u>:
+            - Possible for the same drug to be given after the acute episode has resolved
+            - Usually at least 2 weeks should elapse before antipsychotic drug treatment is reinstated
+            - Antipsychotics w/ weaker dopamine-receptor blocking properties should be used
+- **Dosing** - titrated for the individual patients, theoretically aiming at D2 receptor occupancy of 70-80% while minimising S/E: 
+![](../img/dopamine_receptor_blockade_of_antipsychotics.png)

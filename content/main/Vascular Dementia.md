@@ -1,0 +1,47 @@
+---
+id: 5604A0E2-7C8D-4877-BD32-E1A830C9DA49
+roam_parent: 3d5f16dd-9de3-4e88-b06c-61fe0914d440
+title: Vascular Dementia
+---
+
+# Vascular Dementia
+
+- **Definition** - previously termed "atherosclerotic psychosis", refers to dementia caused by cerebrovascular diseases, most commonly caused by small-vessel disease of the subcortical regions
+- **Epidemiology** - often said to be the 2nd commonest cause after Alzheimer's disease, and of comparable prevalence w/ dementia with lewy bodies:
+    - Prevalence thought to be common although high heterogeneity in literature due to absence of an accepted neuropathological criteria
+    - Often co-existence with Alzheimer-type pathology, hence relative contributions to cognitive impairment not truely known (O' Brien and Thomas 2015 suggests that pure CVD is rare)
+- **Subtypes of vascular dementia:** 
+![](../img/subtypes_of_vascular_dementia.png)
+- **Neuropathological findings of vascular dementia** - variable:
+    - Small vessel atherosclerotic disease of the subcortical region (most common)
+    - Embolus
+    - Vasculitis
+    - Angiopathy
+    - Haemorrhage
+    - Infarcts
+- **Clinical features of vascular dementia** - emotional and personality changes appear first, followed by impairments of memory and intellect that characteristicall occurs in stages:
+    - **Emotional and personality changes** - usually occur first:
+        - <u>Depression</u> - often frequent, may be confounded by post-stroke depression
+        - <u>Emotional lability</u> - often episodic, characteristically occurs at night
+        - <u>Apathy</u> - restricted affect more common than in Alzheimer's disease
+        - <u>Anxiety</u> - more common than in Alzheimer's disease
+        - <u>Behavioural retardation</u> - more common than in Alzheimer's disease
+    - **Cognitive impairment** - variable:
+        - Attention, information processing speed, and executive function are more likely affected (subcortical dementia)
+        - Memory impairments is much more variable
+    - **Insight** - usually preserved until late stage
+- **Clinical course of vascular dementia** - classically "<u>step-wise progression</u>":
+    - Onset usually in late 60s or 70s, and may follow an acute stroke (post-stroke dementia)
+    - Periods of deterioration (?possibly a/w TIAs or mild strokes) that are sometimes followed by periods of partial recovery for a few months
+    - Mortality higher than Alzheimer's disease due to underlying atherosclerotic risk: 50% die from ischaemic heart disease or other strokes
+- **Signs:**
+    - <u>Vital signs</u> - high BP
+    - <u>Signs of target organ damage</u> - e.g. hypertensive retinopathy
+    - <u>Neurological examiantion</u> - focal neurological signs (e.g. UMN signs, pseudobulbar palsy)
+- **Ix** - CT/ MRI for infarcts
+- **Etiology** - vascular causes of neuronal dysfunction and cell death:
+    - <u>Risk factors for vascular dementia</u> - in fact general atherosclerotic risk factors a/w both CVD and AD, explaining co-occurence of disorders and the concept of "mixed-dementia": 
+    ![](../img/risk_factors_for_vascular_dementia.png)
+    - <u>Genetic risk factors</u>:
+        - CADASIL (Notch gene)
+        - ApoE and MTHFR (homocysteine metabolism) implicated

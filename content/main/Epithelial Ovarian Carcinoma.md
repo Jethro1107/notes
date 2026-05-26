@@ -1,0 +1,187 @@
+---
+id: 76364539-2135-4543-8c1e-74290ba6c791
+title: Epithelial Ovarian Carcinoma
+---
+
+# Epithelial Ovarian Carcinoma
+
+- **Definition** - malignancy arising from the ovary, the majority of which are epithelial (95%), while the remainder aises from other ovarian cell types (e.g. germ cell tumors, sex cord-stromal tumours)
+- **Epidemiology** - 2nd most common gynaecological malignancy following corpus locally and worldwide:
+    - <u>Lifetime risk</u> - 1.3%
+    - <u>Average age of Dx</u> - 63y in US (younger in those w/ hereditary ovarian cancer syndrome)
+- **Risk factors for EOC** - increased risk of EOC a/w:
+    - Increasing age
+    - Infertility
+    - Endometriosis
+    - Polycystic ovarian syndrome
+    - Cigarette smoking
+- **Factors decreasing risk for EOC:**
+    - Previous pregnancy
+    - History of breastfeeding
+    - Oral contraceptives
+    - Use of IUD
+    - Tubal ligation
+- **Histopathological classification of ovarian cancer** - 95% are epithelial:
+    - <u>Epithelial ovarian carcinoma</u> - further classified into histological subtypes, including high grade serous, low-grade serous, mucinous, endometrioid, and clear cell
+    - <u>Germ cell tumours</u> - teratoma, dysgerminoma, yolk sac tumour, embryonal carcinoma, choriocarcinoma
+    - <u>Sex cord-stromal tumours</u> - granulosa cell, thecoma, fibroma, sertoli cell, sertli-leydig, steroid
+
+  
+  ![](img/origins_of_ovarian_tumour.png)
+- **Histological subtypes of epithelial ovarian carcinoma:**
+    - <u>Serous carcinoma</u> (75%) - arises from from the fallopian tube epithelium, further classified by histological grade:
+        - High-grade serous carcinoma (most common ovarian cancer)
+        - Low-grade serous carcinoma
+    - <u>Endometrioid ovarian carcinoma</u> - arises from endometriosis and endosalpingiosis
+    - <u>Clear cell ovarian carcinoma</u> - arises from mullerian inclusion cysts
+    - <u>Mucinous ovarian carcinoma</u> - origin unknown
+- **Clinical presentation of EOC** - classification based on onset, but most have stage II+ disease at presentation:
+    - **Asymptomatic w/ adnexal findings:**
+        - <u>Adnexal mass</u> - detection of adnexal mass during routine pelvic examination or imaging study performed for another indications (presentation as pelvic mass in advanced disease will likely be beyond the adnexa)
+        - <u>Atypical glandular cells on cervical cytology</u> - AGC on cervical cytology are typically worked up for endometrial carcinoma and cervical carcinoma, but if evaluations are -ve, further evaluation of eoc should be performed
+        - <u>Incidental findings duringsurgery for another indication</u> - e.g. risk reducing salpingo-oophorectomy and referral to gynaecological oncologist immediately is required
+    - **Acute presentation** - typically those w/ advanced disease and a/w a condition that requires urgent evaluation and Mx:
+        - <u>Ascites</u> - malignant ascites resulting in **abdominal distension**, caused by 1) tumour cells producing fluid in the peritoneal cavity, or 2) metastatic disease on the diaphragm preventing fluid from flowing out the peritoneal cavity
+        - <u>Pleural effusion</u> - malignant pleural effusion w/ or w/o ascites (Meig syndrome)
+        - <u>Bowel obstruction</u> - presentation w/ acute abdomen, abdominal distension, N/V, and absolute constipation in association w/ an abdominal mass identified on imaging
+        - <u>Venous thromboembolism</u> - notorious for its presentation as malignancy-associated VTE
+    - **Subacute presentation** - often presence of subacute Sx warranting presentation occurs only in advanced disease and hence ovarian cancer is attributed as a 'silent killer':
+        - <u>Pain</u> - non specific pelvic or abdominal pain likely due to bowel metastasis, omental metastasis or ascites
+        - <u>Abdominal distension</u> - likely due to bowel obstruction or ascites
+        - <u>Compressive Sx</u>:
+            - Urinary Sx - e.g. urinary urgency or frequency
+            - GI Sx - e.g. altered bowel habits
+            - Upper GI Sx - e.g. early satiety, nausea, anorexia or difficulty eating
+        - <u>Vaginal bleeding</u> - especially w/ postmenopausal bleeding but typically only occurs in a fallopian tube carcinoma (classical triad of blood-tinged vaginal discharge \[hydrops tubae profluens\], pelvic pain, and a pelvic mass)
+    - **Rare presentations:**
+        - Lymphadenopathy
+        - Rectal bleeding
+        - Paraneoplastic syndromes
+
+  
+  ![](img/frequency_of_sx_in_women_with_ovarian_cancer.png)
+- **Ix** - initial Ix are often dependent on the nature of presentation (e.g. CXR for SOB), but for a <u>subacute presentation</u>:
+    - **Routine bloods** - CBC, LRFT:
+        - <u>CBC</u> - isolated thrombocytosis is non-specific but increases suspicion of malignancy
+    - **Pelvic USG** - preferred initial imaging study for a subacute presentation:
+        - <u>Findings suspicious of malignancy</u>:
+            - Mass w/ solid component that is not hypoechoic
+            - Nodular
+            - Presence of papillary projections
+            - Irregularly thick septations
+            - Flow within solid component on doppler
+            - Presence of ascites
+    - **Tumour markers** - CA 125 +/- HE4, CEA, CA19-9 AFP if indicated:
+        - <u>CA 125</u> - non-diagnostic:
+            - Up to 85% patients w/ EOC will have elevated CA 125
+            - Main role is for assessment of treatment response and recurrence
+- **Risk of malignancy index** (RMI): 
+![](img/rmi_for_ovarian_tumour.png)
+- **Dx** - histological Dx, which can be acquired through:
+    - Fluid cytology
+    - Image guided Bx of the omentum or pleura
+    - Surgical removal of an ovary or fallopian tube
+- **Principles of staging of epithelial CA of ovary, fallopian tube and peritoneum:**
+    - Surgical staging and cytoreduction enables accurate staging of the disease locoregionally
+    - Optimal cytoreductive surgery (total extrafascial hysterectomy with bilateral salpingo-oophorectomy with pelvic and para-aortic LN dissection) increases likelyhood that chemotherapy will result in long-term DFS (perhaps via selection of optimal Tx)
+- **Staging system for EOC** - AJCC 8e TNM classification system and joint 2017 FIGO TNM classification system: ![](img/8e_ajcc_figo_tnm_for_ca_ovary_t_staging.png) ![](img/8e_ajcc_figo_tnm_for_ca_ovary_nm_staging.png) 
+![](img/prognostic_group_ca_ovary.png)
+    - **Nuances of 8e AJCC staging system:**
+        - **Defining surface involvement of the ovary or fallopian tube:**
+            - Usually caused by an exophytic papillary tube on the surface of the ovary or fallopian tube or on the outer surface of a cystic neoplasm replacing the organ
+            - Absence of surface involvement of the ovary or fallopian tube defines IA and IB disease
+            - Presence of surface involvement is typically indicates capsule rupture and presents as a risk of spillage of tumour cells into the peritoneum
+        - **Capsule rupture defines 1C disease** - this is clinically important because this is typically the <u>threshold for Tx with chemotherapy</u> for certain histologies:
+            - Pre-operative rupture appears to be a/w worse prognosis
+            - Meta-analysis shows worse prognosis for those w/ intraoperative capsue rupture (1C1) versus no capsule rupture (IA and IB)
+        - **Peritoneum involvement** - detailed surgical staging below and above the pelvic brim is important:
+            - Stage II EOC refers to EOC with direct extension to the peritoneum below the pelvic brim
+            - Stage III EOC refers to EOC including extrapelvic peritoneal involvement
+        - **Distinguish between stage III and IV disease:**
+            - Presence of transmural bowel infiltration
+            - Extra-pelvic LN involvement (e.g. inguinal LN metastasis)
+            - Umbilical deposit
+            - Parenchymal metastasis in the liver or spleen
+            - +ve Pleural cytology
+- **Staging Ix:**
+    - **Contrast CT T+A+P** - detection of buly metastatic disease to identify patients who are <u>poor surgical candidates</u> for cytoreductive surgery, and may benefit from <u>neoadjuvant chemotherapy</u>
+    - **Other imaging studies:**
+        - PET-CT - may be more Sn for detection of metastatic EOC pre-operatively
+        - MRI (if not elligble for contrast CT)
+        - CXR (for pleural effusions)
+        - Bone scan - indicated only if symptomatic or rising ALP
+        - Neuroimaging - indicated only if symptomatic
+    - **Additional Ix** - depending on clinical presentation:
+        - <u>Fluid cytology</u> - e.g. cytology from diagnostic thoracocentesis and paracentesis if presenting w/ pleural effusion or ascites
+        - <u>Omental/ pleural Bx</u> - USG-guided Bx provides site-specific Dx in most patients, and contains sufficient tissue for immunostaining to help characterize the malignancy
+        - <u>Endometrial sampling</u> - as CA corpus is the most likely gynaecological malignancy to present w/ an adnexal mass, hence must be ruled out before undergoing surgical staging of presumed EOC
+        - <u>Surveillance of other cancers</u> - only indicated in those w/ prior Hx of these cancers
+    - **Diagnostic laparotomy** - surgical staging and assessment of cytoreductive feasibility
+- **Staging procedure:**
+    - <u>Standard staging procedure for clinically early stage EOC</u>:
+        - Peritoneal cytology (washings or ascites)
+        - Visual assessment of the upper abdomen, peritoneal surfaces, and large and small bowel mesentery and other abdominal organs (w/ Bx of abnormal findngs)
+        - Hysterectomy with bilateral salpingo-oophorectomy
+        - Pelvic and paraaortic LN disection
+        - Infracolic or infragastric omentectomy
+    - <u>Staging procedure in hopes of fertility preservation</u> - only considered in ovarian w/ low malignant potentials, non-epithelial ovarian cancers, or stage IA EOC
+- **Prognosis** - stage dependent: 
+![](img/stage_dependent_survival_of_ca_ovary.png)
+- **Testing for hereditary cancer syndromes** - indicated for all patients irrespective of FHx as it may impact post-treatment care:
+    - BRCA1, BRCA2
+    - Testing for lynch syndrome
+    - DNA mismatch repair deficiency
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Cytoreductive surgery</u> - cornerstone for improving oncological outcomes of Stage II-IV disease
+        - <u>Adjuvant therapy</u> - considered for selected early-stage (stage I-II) disease
+        - <u>Systemic chemotherapy</u> - considered for advanced (stage III-IV) disease
+    - **Cytoreductive therapy:**
+        - **Role of cytoreductive surgery** - cytoreductive surgery and chemotherapy are cornerstone for most stage II, III or IV EOC, as benefits are particularly marked for those w/ advanced disease:
+            - Optimal response to post-operative systemic chemotherapy is achieved in the setting of minimal disease burden
+            - Disease-related Sx are related to tumor burden; removal of bulky disease rapidly improves symptoms and quality of life
+            - Ovarian neoplasms produce multiple cytokines, at least some of which are immunosuppressive. Removal of tumor bulk may improve or restore host immunocompetence
+            - Primary surgery esnsures accurate diagnosis and ensures tumour tissue for additional testing
+        - **Terminology** - regarding the intent and extent of cytoreduction:
+            - <u>Primary cytoreduction</u> - cytoreduction performed before chemotherapy
+            - <u>Interval cytoreduction</u> - cytoreduction performed after neoadjuvant chemotherapy
+            - <u>Secondary cytoreduction</u> - cytoreduction performed after disease recurrence
+            - <u>Complete cytoreduction</u> - cytoreduction to no grossly visible disease
+            - <u>Optimal cytoreduction</u> - residual disease \<= 1cm in maximum tumour diameter as defined by Gynaecologic Oncology Group
+            - <u>Suboptimal cytoreduction</u> - residual disease \> 1cm in maximal tumour diameter
+        - **Predicting feasibility of cytoreduction** - predicting whether patients will have at least an optimal cytoreductive effort:
+            - **Patient factors** - including age, performance, medical comorbidities and pre-operative nutritional status (to assess whether able to tolerate major abdominal surgery)
+            - **Contrast CT C+A+P** - initial imaging study to identify disease features not amenable to complete/ or optimal cytoreduction:
+                - Stage IV disease
+                - Large volume ascites (\> 1L)
+                - Bulky (\> 1-2cm) disease in the upper abdomen
+                - Omental extension to the spleen
+                - Suprarenal adenopathy
+                - Parenchymal liver disease
+                - Diaphragmatic disease
+                - Peritoneal carcinomatosis
+            - **Diagnostic laparotomy** - may be performed if CT shows no obvious disease-related contraindications to primar cytoreduction
+            - **Fagotti score** - quantitative, laparoscopy based model for predicting chance of optimal cytoreduction, includes seven parameters (each \> 2 points; \>= 8 points has 100% PPV for futile suboptimal cytoreduction):
+                - Omental caking
+                - Peritoneal carcinomatosis
+                - Diaphragmatic carcinomatosis
+                - Mesenteric retraction
+                - Bowel infiltration
+                - Stomach infiltration
+                - Liver parenchymal metastasis
+        - **Principles of cytoreductive surgery:**
+            - **General principles** - the aim is for optimal cytoreduction:
+                - <u>Common sites of debulking</u> - pelvis, omentum, right diaphragm, upper abdomen
+                - <u>Approach to surgery</u>:
+                    - Resection of bulky disease by retroperitoneal approach to minimise damage to bowel and bladder
+                    - The most difficult areas should be approached first to spare morbidity if cytoreduction appears to be not feasible
+                    - More aggressive approach to remove all visible metastatic disease is warranted when resection of bulk of disease is feasible, as there is no evidence of added morbidity w/ complete versus optimal cytoreduction
+                - <u>Intra-operative assessment of cytoreduction</u> - pafolacianine (fluorescent drug) provides an adjunct to visual inspection and palpation to identify metastatic lesions
+            - **Common procedures involved:**
+                - Splenectomy
+                - Partial hepatic resection
+                - Diaphragmatic dissection
+                - Bowel resection
+                - Bladder or ureteric resection
+                - Lymph node dissection (if not performed as part of survical staging)
+                - +/- placement of intraperitoneal port for intraperitoneal chemotherapy

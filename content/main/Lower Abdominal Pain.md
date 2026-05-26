@@ -1,0 +1,59 @@
+---
+id: a5b0dd33-2637-46a9-b269-c4ee70369794
+title: Lower Abdominal Pain
+---
+
+# Lower Abdominal Pain
+
+- **Definition** - abdominal pain felt on both or either lower quadrants
+- **DDx of lower abdominal pain** - consider distal LB pathologies, appendix, urological pathologies, testicular pathologies, or other obstetric or gynaecological pathologies
+    - <u>Distal LB pathologies</u> - Infectious colitis, mesenteric adenitis, **LBO** (colorectal CA, sigmoid volvolus), **ischaemic bowel disease**
+    - <u>Appendix pathologies</u> - **Appendicitis**, mesenteric adenitis, (Meckel's diverticulitis)
+    - <u>Urological pathologies</u> - Nephrolithiasis, Pyelonephritis, AROU, Cystitis
+    - <u>Testicular pathologies</u> - **Testicular torsion**, epidydymo-orchitis, testicular tumour
+    - <u>O/G pathologies</u> - **ectopic pregnancy**, pelvic inflammatory disease, torsion or ruptured ovarian cyst
+    - <u>Others</u> - Ileitis (parietal pain), incarcerated hernias
+- **Salient points of Hx:**
+    - **HPI** - site, onset, progression, quality, radiation, severity, timing:
+        - <u>Site</u> - is it central or lateralised to one side?
+            - **Centralised** - LBO, ischaemic bowel, cystitis, AROU, gynacological pathologies
+            - **Lateralised** - Appendicitis (RLQ), Diverticulitis (RLQ or LLQ), nephrolithiasis, acute pyelonephritis
+        - <u>Quality</u> - is it a dull, constant pain, sharp, well-localised pain or colicky pain?
+            - **Dull constant, poorly localised pain** - signifies visceral inflammation from the distal LB (infectious colitis, testicular torsion, AROU, cystitis)
+            - **Sharp, well localised pain** - signfies parietal peritoneal inflammation, often occuring after a shift in site and character of pain (Appendicitis, Diverticulitis)
+            - **Colicky pain** - as a result of LBO, with complete cessation of pain in between attacks, but persistence of dull pain between attacks signifies inflammation and potentially strangulation
+        - <u>Progression</u> - is there a change in site and quality of the pain?
+            - **Appendicitis** - dull periumbilical pain that suddenly becomes sharp RLQ pain once parietal peritoneum is involved
+            - **Testicular torsion** - dull lower abdominal pain subsequently localised to ipsilateral testicular pain
+        - <u>Radiation</u> - is there radiation of pain to the back or the groin?
+    - **Associated Sx**:
+        - **Fever** - a/w systemic inflammation seen in 1) appendicitis, 2) diverticulitis, 3) acute pyelonephritis, pelvic inflammatory disease
+        - **Lower GI Sx:**
+            - <u>Nausea and vomiting</u> - many precipitating cause (gastroenteritis), but most important in identifying LBO (although not always present)
+            - <u>Abdominal distension</u> - LBO typically causes late, but marked abdominal distension due to abundant proximal bowel reserve
+            - <u>Constipation/ Obstipation</u> - raises suspicion for LBO
+            - <u>Diarrhoea</u> - typically self-limiting disease (but subacute RLQ pain and diarrhoea can signify ileal Crohn's disease)
+            - <u>Prior altered bowel habits</u> - change in stool frequency, narrowing in stool calibre raises suspicion of CA
+            - <u>Tenesmus</u> - suspicious feature of rectal CA
+            - <u>Prior PR bleeding</u>
+            - <u>Mucus in stool</u>
+            - <u>Weight loss</u>
+        - **Urological Sx:**
+            - <u>Dysuria and frequency</u>
+            - <u>Haematuria</u>
+        - **Gynaecological Sx** - vaginal discharge
+    - **PMH** - prior inflammatory bowel disease
+    - **SHx** - smoking, alcohol, diet
+    - **FHx** - FHx of CRC and related cancers of HNPCC (endometrium, ovaries, stomach, SB, pancreas)
+- **P/E:**
+    - <u>General examination</u> - fever, vital signs, hydration status
+    - <u>Abdominal examination</u>:
+        - **Inspection** - distension, cough impulse
+        - **Palpation** - tenderness, peritoneal signs, palpable mass
+        - **Auscultation** - bowel sounds
+    - <u>PR examination</u>
+    - <u>Scrotal examination</u> (for testicular torsion or undescended testes)
+- **Ix** - similar Ix as in acute abdomen:
+    - **Routine bloods** - CBC, LRFT, Amylase, ABG, Clotting profile, T&S
+    - **Imaging** - Erect CXR, erect and supine AXR, USG, CT contrast studies if stable
+    - +/- **Endoscopy** - colonoscopy

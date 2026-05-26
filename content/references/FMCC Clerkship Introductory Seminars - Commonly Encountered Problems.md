@@ -1,0 +1,64 @@
+---
+type: literature
+---
+# FMCC Clerkship Introductory Seminar - Commonly Encountered Problems 
+- **Ear canal impaction:**
+- **Syringes:** - warm water
+- **S/E:**
+	- Perf TM
+	- caloric reflex and vertigo
+	- Iatrogenic OE
+- **Contraindications:**
+	- Narrow ear canal
+	- Unilateral hearing
+	- Immunocomprimised states (iatrogenic otitis externa)
+- **OE:**
+	- Acute bacterial most common (P. aeruginosa), consider fungal and anaerobes
+	- Pain on moving pin upwards
+	- Treatment
+		- Clean
+		- Treat inflammation and infection
+		- Control pain
+		- Avoid promoting factors
+		- Follow up and culture if not improving / recurrent cases
+		- Topical agents see cochrane review
+		- ABx trial - aminoglycoside (but risk ototoxicity if TM perforated), consider fluoroquinolone (safer)
+- **Allergic rhinitis:**
+	- BMJ best practice 2016
+	- Prescription:
+		- Many reasons to choose different drugs, need for immediate symptomatic relief, sedation, S/E, other Sx (e.g. concurrent conjunctivitis) etc.
+		- Antihistamines (sedating chlorphename, diphenydramine vs non-sedating)
+		- Intranasal steroids (2 weeks for onset) beclomethasone has only one with study that shows growth retardation in children... but likely class effect
+		- Xylometazoline (vasoconstrictors) - symathomimetic S/E, rebound rhinosinusitis medicantosa, nose-bleeds
+	- How to use a nose spray:
+		- Blow nose
+		- Opposite hand for nostril - away from septum to avoid nosebleeds
+		- Inhalation but not too deep into the lungs
+		- Prime first few presses don't work
+	- Advice on allergen avoidance:
+		- House dust mice different interventions overall little evidence
+- Atopic dermatitis
+	- Avoid exacerbating factors:
+		- Humidity vs too dry, water, wool, stress, astringent, detergent solvents
+	- Restore/ hydrate with emoilment:
+		- Ointments or cream > lotions:
+			- Lotions considered for larger areas as easily spreadible
+			- Ointment or cream good for smaller areas
+		- Short cool showers vs long hot baths (will pull water out)
+	- Pharmacotherapy
+		- Topical steroids (consider long term skin effects, skin thinning, telengiectasia, pulse dosing to reduce tachyphylaxis), hydration under occlusion potentiate the effects by increasing absorption
+		- ral H1 antihistamine
+		- Topical immunosuppressants
+- Know your topic steroids, know strength based on 1) potency, 2) concentration, 3) base
+	- Potency - low medium high
+	- Concentration - 
+	- Base - ointment vs cream, due to occlusive properties
+	- Site - skin on skin contact will provide natural occlusion, thin skin (e.g. face, eyelids)
+- Topical immunosuppressants:
+	- Tacrolimus, pimecrolimus
+	- Steroid limiting but black box warning of increased cardiac risk and cancers
+- Gonococcal as ddx of allergic rhinitis rasther acute onset, can be a/w secretions
+- Subconjunctival haemorrhage:
+	- Screen for bleeding disorders
+	- Increased intrabdominal vessels
+- Blepheritis as ddx for conjunctivitis

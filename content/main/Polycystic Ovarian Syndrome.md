@@ -1,0 +1,48 @@
+---
+id: 7f2df111-b3e0-41c0-8822-118e7923952d
+title: Polycystic Ovarian Syndrome
+---
+
+# Polycystic Ovarian Syndrome
+
+- **Definition** - heterogenous disorder often a/w obesity, insulin resistance, androgen excess, and anovulatory menstrual cycles
+- **Pathophysiology of PCOS** - genetic predisposition, but underlying mechanisms is poorly understood: 
+![](../img/features_of_pcos.png)
+- **Clinical features of PCOS** - typically found upon workup for 1) oligo- or a-menorrhoea, 2) hirsutism, or 3) infertility:
+    - <u>Menstrual irregularity</u> - often present w/ oligomenorrhoea with **irregular, heavy menstrual perioids**, or subsequently become amenorrhoeic
+    - <u>Infertility</u> - as a result of anovulatory menstrual cycles
+    - <u>Hirsutism</u> - excessive growth of thick terminal hair in androgen dependent manner, as well as acne
+- **Diagnostic criteria for for PCOS** - requires presence of 2 of the 3 following features:
+    - Oligomenorrhoea (menstrual irregularity) or amenorrhoea
+    - Clinical or biochemical androgen excess
+    - Polycystic ovaries on transvaginal USG
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>General measures</u> - **weight reduction** if overweight as it can improve Sx and reduce risk of T2DM
+        - <u>Tx dependent on presenting complaint</u> - e.g. menstrual irregularity, fertility, or hirsutism
+    - **Mx of menstrual irregularity and infertility** - added benefit of <u>reducing risk of endometrial carcinoma</u>:
+        - **Hormone replacement therapy** - cyclical oral progestogens/ mirena to induce regular shedding or withdrawal bleeding
+        - **Other medical therapy:**
+            - Metformin - reducing insulin resistance (may restore regularity but ineffective for restoring fertility)
+            - Clomifene - more effective for increasing fertility
+    - **Mx of infertility:**
+        - **Letrozole:**
+            - <u>Clinical efficacy</u> - Legro et al 2014 (NEJM) demonstrates letrozole being a/w higher ovulation and birth rates than clomifene and is thus now first-line Tx for infertility in PCOS: 
+            ![](../img/letrozole_vs_clomifene.png)
+            - <u>MOA</u> - Aromatase inhibitor (AI):
+                - Inhibits peripheral synthesis of estrogen by adipocytes
+                - Removes inhibitory effect of estrogen on FSH and LH secretion by pituitary
+                - Increased gonadotrophin secretion and thus ovulation
+            - <u>S/E</u> - osteoporosis
+        - **Clomifene:**
+            - <u>MOA</u> - selective estrogen receptor modulator (SERM):
+                - Removes inhibitory effect of estrogen on FSH and LH secretion by pituitary
+                - Increased gonadotrophin secretion and thus ovulation
+            - <u>Monitoring</u> - TVUSS monitoring during at least 1st cycle
+            - <u>S/E</u> - '**Ovarian hyperstimulation syndrome**':
+                - Grossly enlarged ovaries
+                - Capillary leak with circulatory shock, pleural effusion, and ascites
+    - **Mx of hirsutism:**
+        - <u>Cosmetic measures</u> - e.g. shaving, waxing, laser Tx, eflornithine cream
+        - <u>Anti-androgen therapy</u> - may be considered if conservative measures failed: 
+        ![](../img/antiandrogen_therapy.png)

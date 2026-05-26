@@ -1,0 +1,99 @@
+---
+id: 4a4490d5-0f64-4dfd-9b4f-2477c305d695
+title: Cervical Radiculopathy
+---
+
+# Cervical Radiculopathy
+
+- **Definition** - clinical syndrome where pathological process results in inpairments of one ore more cervical nerve roots, often suspected when patient presents w/ neck pain and ipsilateral radicular Sx
+- **Epidemiology:**
+    - <u>Prevalence</u> - 1.2-5.8/1000
+    - <u>Demographic</u>:
+        - Common in middle aged adults
+        - Higher rates among male
+- **Pathophysiology of cervical radiculopathy:**
+    - <u>Nerve root or spinal nerve involvement</u> - various pathological process resulting in nerve ischaemia, inflammation, axonal loss and/ or demyelination
+    - <u>Effects of abberant nerve transmission</u> - results in sensory dysfunction and weakness of muscles innervated by the affected nerve
+- **Sites of radiculopathy:**
+    - <u>Lateral recess</u> - compresses on traversing root rather than exiting root, such that it will affect one spinal level below
+    - <u>Neuroforamina</u> - compresses on the exiting root
+- **Etio-pathoanatomy:**
+    - **Degenerative cervical spondylosis** - osteophyte formation at the zygopophyseal, uncovertebral or intervertebral joints:
+        - <u>Spondylosis at uncovertebral and zygopophyseal joints</u> - results in narrowing of the neuroforamina and radiculopathy
+        - <u>Spondylosis of the intervertebral joints</u> - rarely causes radiculopathy
+    - **Disc herniation** - typically caused by herniation into lateral recess or far lateral herniation
+- **Other causes mimicking cervical radiculopathy:**
+    - <u>Ischaemia</u> - due to vasculitis or DM
+    - <u>Nerve root trauma</u> - e.g. root avulsion
+    - <u>Infectious cause</u> - herpes zoster, Lyme disease
+    - <u>Extrinsic compression</u> - e.g. tumours, vascular lesions, granulomatous tissue
+    - <u>Neurological disorders</u> - e.g. inflammatory neuropathies, neurodegenerative disorders (e.g. ALS)
+- **Clinical features of cervical radiculopathy** - dependent on level of lesion:
+    - **Temporal patterns:**
+        - <u>Antecedent events</u> - e.g. physical exertion or C-spine trauma
+        - <u>Onset</u>:
+            - Causes related to spondylosis have more indolent onset
+            - Causes related to disc herniation have a more acute onset
+    - **Neck pain** - a common feature in all radiculopathies
+    - **Radicular presentation of Sx:** 
+    ![](img/symptoms_and_signs_of_cervical_radiculopathy.png)
+        - **Sensory manifestations** - pain and parasthesia experienced in a dermatomal pattern:
+            - <u>C5</u> - lateral upper arm
+            - <u>C6</u> - lateral forearm, and extends to the hand particularly radial 2 digits
+            - <u>C7</u> - in the distal hand around the middle finger
+            - <u>C8</u> - medial aspects of forearm and hand, particularly the ulnar 2 digits
+            - <u>T1</u> - medial aspects of arm and forearm
+        - **Motor manifestations:**
+            - <u>C5</u>:
+                - Shoulder abduction, external rotation
+                - Elbow flexion
+                - Forearm supination
+            - <u>C6</u>:
+                - Shoulder abduction, external rotation
+                - Elbow flexion
+                - Forearm supination and pronation
+            - <u>C7</u>:
+                - Elbow extension
+                - Wrist extension (principally radially)
+                - Forearm pronation
+                - Wrist flexion
+            - <u>C8</u>:
+                - Wrist extension (ulnar)
+                - MCP extension
+                - Distal finger flexion, extension, abduction, adduction
+            - <u>T1</u>:
+                - Distal finger abduction and adduction
+- **P/E:**
+    - **Neurological examination:**
+        - <u>Muscle power</u> - by mMRC power scale as above
+        - <u>Sensation</u> - assessment of sensation in dermatomal pattern
+        - <u>Reflexes</u> - deminished jerks if level affected
+            - Bicep (C5-6)
+            - Brachioradialis (C6)
+            - Triceps (C7)
+    - **Provacation tests:**
+        - **Spuuring maneuver** (Neck compression test):
+            - <u>Principles and technique</u> - extension, rotation and lateral flexion to side of pain, followed by applying downward pressure:
+                - Extension exacerbates disc herniation
+                - Rotation and lateral flexion narrows neuroforamina
+            - <u>+ve results</u> - reproduction of neurological Sx (pain, weakness, and parasthesia) in radicular pattern
+            - <u>-ve results</u>:
+                - No pain or parasthesia produced
+                - Neck pain reproduced only (non-specific Sx)
+            - <u>Caution</u> - do not perform if suspect C-spine instability
+        - **Shoulder abduction relief test:**
+            - <u>Technique</u> - abduction of shoulder, and rest extended hand on top of the head
+            - <u>+ve results</u> - results in relief of radicular Sx
+- **Ix:**
+    - **Cervical X-Rays:**
+        - <u>Standard orthogonal views</u> - evaluation of bone and disc spaces
+        - <u>Oblique views</u> - for assessment of foraminal narrowing
+    - **MRI spine** - ton confirm nerve compression
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Conservative Mx</u> - indicated for most patients for physiotherapy and medications
+        - <u>Surgical Mx</u> - indicated for patients w/ persistent Sx on conservative Mx, or progressive neurological deficits
+    - **Surgical Mx:**
+        - **Approaches:**
+            - <u>Anterior approach</u> - anterior cervical discectomy w/ fusion or artificial disck replacement
+            - <u>Posterior approach</u> - posterior cervical foraminotomy

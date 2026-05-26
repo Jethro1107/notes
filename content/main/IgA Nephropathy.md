@@ -1,0 +1,101 @@
+---
+id: 215e1cb6-ede4-47c9-a622-63e8abb61edf
+title: IgA Nephropathy
+---
+
+# IgA Nephropathy
+
+- **Definition** - most common cause of primary GN throughout most resource-abundant settings
+- **Epidemiology** - most common cause of primary glomerulonephritis especially in Asian population:
+    - <u>Prevalence</u> - geographically variable (up to 45% of renal Bx in China)
+    - <u>Demographic</u>:
+        - Age - peak incidence in the 2nd-3rd decade of life
+        - Sex - no sex preponderance (M:F)
+- **Pathogenesis of IgA nephropathy** - "four-hit hypothesis":
+    - **Hit 1 - production of poorly glycosylated IgA1** (IgA1) - pool of IgA1 molecules with reduced glycosilation in the hinge region, termed galactose-deficient IgA1 (Gd-IgA1), which has <u>increased affinity to type IV collagen</u>, resulting in <u>mesangial deposition</u>
+    - **Hit 2 - production of anti-Gd-IgA1 production** - these specific autoAb may be of IgG (predominant) or IgA isotype, where trigger for production is unclear, but is likely caused by environmental trigger in a genetically predisposed individual
+    - **Hit 3 - formation og Gd-IgA-containing circulating immune complexes** - IgG/ IgA autoantibodies bind to Gd-IgA forming circulating immune complexes, where levels are shown to <u>correlate with clinical and histological activity</u>
+    - **Hit 4 - deposition of circulating immune complexes** - deposition of the Gd-IgA1 containing immune complexes into the mesangium, which mediates glumerular injury (early RAAS activation has been heavily implicated)
+- **Clinical presentation of IgA nephropathy** - rather variable:
+    - **Microscopic haematuria** (30-40%) - incidentally picked up on routine examination, where urine microscopy confirms a glomerular origin as there is dysmorphic RBCs (20-25% will develop gross haematuria eventually)
+    - **Gross haematuria** (40-50%) - presentation w/ one or recurrent episodes of gross haematuria often in association w/ URTI:
+        - <u>Synpharyngitic haematuria</u> - often provoked by viral URTI or tonsilitis which occur concurrently w/ the haematuria (cf PSGN)
+        - <u>Associated Sx</u>:
+            - URTI and fever
+            - Loin pain (possibly due to distension of kidney capsule, and thus episode may be mistakened as UTI or stones)
+        - <u>Age considerations</u>:
+            - Although possible at any age, peak incidence is between 20-40y
+            - First episode around 40y is rare for IgAN and more important DDx must be r/o (i.e. urological malignancies)
+    - **RPGN** (\< 10%) - presentation w/ HTN (rarely malignant HTN), oedema, haematuria and sudden deterioration of renal functions
+    - **Nephrotic syndrome** (\< 5%) - presentation w/ the full nephrotic syndrome is rare and likely represents background IgAN w/ <u>superimposed MCD</u>
+    - **Chronic glomerulonephritis** - presentation as CKD in association w/ proteinuria, haematuria and HTN in elderly
+- **Associated conditions** - glomerular IgA deposits may be observed but whether clinically significant disease occurs may be dependent on other factors:
+    - <u>Chronic liver disease</u> - esp. alcoholic cirrhosis, being the most common cause of secondary IgAN, likely due to impaired removal of IgA-containing complex by the Kupffer cells
+    - <u>Celiac disease</u> - IgA deposition seen in 1/3 of patients
+    - <u>HIV infection</u> - subclinical disease more common than overt disease
+    - <u>Monoclonal gammopathies of renal significance</u> - IgA-associated proliferative glomerulonephritis w/ monoclonal IG deposition
+    - <u>Other glomerular disease</u> - e.g. MCD
+- **Clinical assessment and Dx of patients w/ suspected IgAN:** 
+![](../img/clinical_assessment_and_evaluation_of_suspected_igan_and_evaluation_of_iga_dominant_gn_on_bx.png)
+- **DDx of IgA-dominant glomerulonephritis on renal Bx** - all histologically indistinguishable from IgAN and are differentiated clinically:
+    - <u>IgA vasculitis</u> - typically presents w/ a vasculitic rash (palpable purpura) on the buttocks, and lower limbs, arthralgia, or arthritis over the knees and ankles, and abdominal pain +/- PR bleeding
+    - <u>IgA-dominant infection-related GN</u> - typically in patients who develop S. aurueus soft tissue infections (e.g. DM patients)
+    - <u>Secondary forms of IgAN</u> - GI disorders, autoimmune diseases, infectious diseases and dermatologic disorders w/ an autoimmune basis
+- **Secondary IgAN** - poorly defined clinical entity based on associations w/ no consensus definition, and conclusions on causality, natural Hx, and Tx effectiveness:
+    - <u>Gastrointestinal disorders</u> - cirrhosis, inflammatory bowel disease
+    - <u>Rheumatological disorders</u> - rheumatoid arthritis, SpA
+    - <u>Infectious disorders</u> - viral hepatitis, HIV
+    - <u>Dermatological disorders</u> - psoriasis, dermatitis herpetiformis
+- **Evaluation of patient w/ confirmed IgA-dominant GN** - primary IgAN is a Dx by exclusion and repeat clinical assessment of:
+    - 1\) S/S of IgA vasculitis
+    - 2\) Active infection (esp. skin and soft tissue infection)
+    - 3\) Diseases a/w secondary IgAN
+- **Risk factors for progression of IgAN:**
+    - **Non-modifiable risk factors:**
+        - <u>Demographic</u> - age, sex, race and ethnicity
+        - <u>Clinical factors</u> - presentation w/ persistent haematuira, reduced eGFR at presentation (sustained annual eGFR decrease of ~ 3 ml/min/1.73m2 prognostic of eventual ESRD)
+        - <u>Histological factors</u> - based on oxford NEST-C classification predicting disease progression; additional histological features in International IgAN prediction tool
+    - **Modifiable risk factors:**
+        - <u>Smoking</u> - tobacco smoking a/w progression of glomerular disease; greater proteinuria at presentation is generally associated w/ higher risk of disease progression, as in other kidney disease
+        - <u>Obesity</u> - high BMI predicts disease progression
+        - <u>Degree of proteinuria</u> - driver of nephron loss in all glomerular disease
+        - <u>MAP</u> - driver of nephron loss in all kidney disease
+
+  
+  ![](../img/risk_factors_for_disease_progression_igan.png)
+- **Oxford MEST-C classification** - KDIGO 2015 mandates comprehensive MEST-C reporting in all kidney Bx showing IgAN as prognostic: 
+![](../img/mest-c_score_oxford_classification_of_igan.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - **Aims of Mx** - <u>Prevent disease progression</u> defined as annual eGFR decline of \< 1 ml/min/1.73m2 by controlling risk factors of disease progression (i.e. proteinuria, BP control as in CKD)
+        - **Approach to Tx of IgAN:**
+            - <u>General measures</u> - behavioural modification (smoking cessation, weight loss, dietary Na restriction), BP control, lipid control as extrapolated from general CKD populations
+
+            - <u>Target drivers of nephron loss</u>:
+
+                - IgAN-specific drivers of nephron loss (target "4-hit hypothesis")
+                - Response to IgAN-induced nephron loss (reduce glomerular hyperfiltration and tubulointerstitial injury by proteinuria and BP control)
+
+        
+        ![](../img/approach_to_mx_of_patient_with_igan.png)
+
+                - <u>General measures</u> - proteinuria control (by RAAS blockade), BP control (aggressive BP target of \< 130/80 mmHg)
+                - <u>Immunosuppressive therapy</u> - systemic corticosteroids as initial therapy for those with **high risk of prgressive disease**, or evident of disease progression on FU
+    - **Mx of abnormal IgA production and immune-complex mediated glomerular injury** - steroids and anti-complement medications: 
+    ![](../img/tx_for_reducing_immune_complex_formation_and_immune_complex_mediated_injury_igan.png)
+    - **Systemic steroids:**
+        - <u>Indications</u> - for those w/ persistent disease progression after 3-6mo, or presenting w/ very-high risk disease (at least 3 or more of the following features):
+            - Persistent proteinuria (\> 1g/d)
+            - Persistent moderate haematuria (1+ on urine dipstick)
+            - Persistent decline in kidney function (i.e. \< 60 ml/min at presentation or annual decline of \> 3 ml/L)
+            - Evidence of active lesion by oxford classification (M1, E1, C1-2 scores)
+        - <u>Dosing and regimen</u> - various regimens proposed: 
+        ![](../img/dosing_regimen_for_igan.png)
+    - **Alternative immunosuppressive therapy** - only if steroids contraindicated:
+        - TRF-budesonide
+        - MMF w/ low-dose glucocorticoids
+    - **Mx of consequences of IgAN-induced nephron loss** - reduced glomerular hyperfiltration through proteinuria and BP control: 
+    ![](../img/tx_for_iga_nephropathy_for_targetting_consequences_of_nephron_loss.png)
+- **Prognosis** - significant risk of progression to ESRD:
+    - <u>10y risk of progression to ESRD</u> - 15-25%
+    - <u>20y risk of progression to ESRD</u> - 20-30%

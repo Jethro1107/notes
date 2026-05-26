@@ -1,0 +1,126 @@
+---
+id: 3a086511-88ab-4ed3-886c-0a84afa493bb
+title: ESMO Clinical Practice Guidelines Early and Locally Advanced NSCLC
+---
+
+# Early and locally advanced non-small-cell lung cancer (NSCLC): ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up
+
+## Incidence, Epidemiology, and Role of Screening
+
+## Diagnosis and pathology/ molecular biology, staging and risk assessment
+
+- **Commonly employed Ix for Dx and staging of suspected lung cancer:** 
+![](img/commonly_employed_ix_for_dx_and_staging_of_lung_cancer.png)
+- **Dx** - histological Dx confirmed by Bx through fibreoptic bronchoscopy (often extended w/ regional staging by EBUS or EUS)
+- **Role of pathological Dx** - detailed pre-treatment pathological Dx (i.e. histological confirmation and molecular analysis) may be less relevant in stage I-III disease:
+    - **Influence of histological subtype of AD** - difference in metastatic pattern, recurrence and survival (particularly LN involvement influenced by histological subtype):
+        - <u>Low risk subtypes show no LN involvement</u> - adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA), and lepidic predominant adenocarcinoma (Lep)
+        - <u>High risk subtypes at risk of N1-2 nodal involvement</u> (22.9%) - acinar, papillary, micropapillary or solid growth patterns
+    - **Future implications on Mx** - sublobar resection for less aggressive subtypes may be indicated, but require further studies
+- **Principles of staging:**
+- **Approach to staging:**
+    - <u>Rule out distant metastasis or stage IV disease</u> - contrast CT T+A and PET-CT are indicated to detect stage IV lung cancer based on nodal involvement, and detection of extra-pulmonary, extracranial metastasis
+    - <u>Locoregional staging for patients w/ clinically non-metastatic NSCLC</u>:
+        - **Locoregional staging** - locoregional staging to determine T and initial assessment of N-staging by CT and PET-CT
+        - **Correct mediastinal staging** - appropriate mediastinal staging based on initial clinical findings is necessary to select correct modality of treatment (trimodal therapy vs surgery + adjuvant chemotherapy)
+
+    
+    ![](img/algorithm_for_locoregional_staging_in_clinically_non-metastatic_NSCLC.png)
+    - <u>Rule out brain metastasis</u> - role is controversial and varies between guidelines, but should be contemplated if staging workup trends towards a curative Tx
+- **Staging Ix:**
+    - **Contrast CT T+A** - role in assessing extra-pulmonary, extra-cranial metastasis, and initial locoregional staging:
+        - **M staging** - detection of liver, adrenal metastasis
+        - **Locoregional staging** (multiple pulmonary nodules are assessed independently):
+            - <u>T-staging</u> - staged by size and invasion into vital structures:
+                - Peripheral tumours \<= 3cm in size tend to have low risk of LN involvement if cN0 on imaging
+                - Central tumours, tumours \>= 3cm in size have risk of mediastinal LN involvement requiring further workup
+            - <u>N-staging</u> - detection of potential LN metastasis, particularly in detection of **suspicious mediastinal and hilar LN** (requires further mediastinal workup)
+    - **PET-CT** - role in detecting distant meatastasis and initial locoregional staging:
+        - Low FDG uptake on PET-CT generally predicts low risk of mediastinal LN involvement
+        - High FDG uptake of primary tumour predicts high risk of mediastinal LN involvement
+    - **Endobronchial ultrasound** (EBUS)/ **Endoscopic ultrasound** (EUS) - preferred modality for mediastinal staging:
+        - <u>Indications</u> - only not indicated if cN0 + small peripheral tumour (\<= 3cm):
+            - **Mediastinal LN +ve on imaging** - tissue confirmation on EBUS/EUS-guided FNAC
+            - **Prognostic features suggestive of high risk of mediastinal LN metastasis** - e.g. cN1 disease, central tumours, large tumours (\> 3cm), and high-FDG uptake on PETCT (mediastinal LN staging still considered for cN0 peripheral tumours that are large or show avid FDG uptake)
+        - <u>Procedure</u> - EBUS/EUS guided FNAC
+        - <u>Assessment</u> - differentiates N0-1, N2a, and N2b disease:
+            - N0-1 - mediastinal LN -ve on EBUS/EUS
+            - N2a - single station mediastinal LN +ve
+            - N2b - multiple station mediastinal LN +ve
+    - **Video-assised mediastinoscopy** (VAM) - greatest NPV for mediastinal LN metastasis and employed when EBUS/EUS staging -ve despite high index of suspicion
+    - **Brain MRI or contrast CT brain** - role controversial in early or locally advanced NSCLC in role in detecting brain metastasis:
+        - <u>NCCT guidelines</u> - for all stage I-III disease except for stage IA disease
+        - <u>BTS guidelines</u> - considered for all patients contemplating Tx of curative intent
+        - <u>ACCP guidelines</u> - restricted to stage III-IV disease or those w/ neurological Sx
+- **Pre-operative assessment** - indicated for patients contemplating surgical assessment by assessing pre-operative status, and predicting post-operative status:
+    - **Cardiac risk assessment** - screening by recalibrated thoracic revised cardiac risk index (RCRI):
+        - **Revised cardiac risk index** - recalibrated for subpopulation w/ lung malignancies: 
+        ![](img/recalibrated_rcri.png)
+        - **Indications for cardiology consultation and formal cardiac risk assessment per AHA guidelines:**
+            - RCRI \>= 3 weighted risk factors
+            - Documented cardiovascular disease on medications, or suspected new cardiovascular disease
+            - Unable to complete 2 FOS
+
+      
+      ![](img/preoperative_cardiac_evaluation.png)
+    - **Pre-operative respiratory evaluation** - FEV1, DLCO, +/- CPET to <u>determine post-operative morbidity and mortality</u>:
+        - **FEV1, DLCO** - resection up to pneumonectomy if both \> 80%
+        - **Predicted post-operative lung functions** - ppo calculated as pre-operative multipled by percentage of segments remaining after surgery:
+            - <u>Low-risk ppo FEV1, DLCO</u> - lobectomy safe if both \> 40%, while resection up to calculated extent safe if both \> 30%
+            - <u>High risk ppo FEV1, DLCO</u> - recommend additional cardiopulmonary exercise testing (CPET)
+        - **CPET** - further risk stratify patients based on VO2max
+
+    
+    ![](img/preoperative_respiratory_assessment_for_lung_resection.png)
+
+## Treatment of early lung cancer (Stage I and II)
+
+- **Surgery** - lobectomy favoured over limited resection in most cases:
+    - **Indications** - offered to all patients w/ stage I-II disease who are deemed physical fit on assessment
+    - **Approach** - less important from oncological perspective as both open thoracotomy and VATS approach show comparative margin clearance and nodal dissection:
+        - Open thoracotomy
+        - Video-assisted thoracic surgery (VATS)
+    - **Lobectomy vs Limited resection:**
+        - Note LCGS published in 1995 and must infer with context that staging and surgical techniques have progressed
+        - Newer studies on role of sublobar resection have emerged after release of current guidelines (2017)
+    - **LN dissection** - systematic LN resection (at least 6 nodal basins, including 3 mediastinal including the subcarinal station) recommended for stage II and IIIA disease but highly influenced by preoperative LN mapping (particularly -ve VAM)
+- **Systemic therapy:**
+    - **Adjuvant chemotherapy** - cisplatin based doublets:
+        - <u>Indications</u> - no role in stage IA disease:
+            - N1 disease (stage II disease)
+            - N2 disease (stage III disease)
+            - Stage IB disease if tumour \> 4cm
+        - <u>Timing</u> - traditionally limited to 6w post-op, but studies demonstrate comparable outcomes in patients treated after a longer interval post-resection
+        - <u>Regimen</u> - cisplatin-based doublets:
+            - Cisplati-vilnorelbine most studied
+            - Other newer doublet partners e.g. docetaxel, gemcitabine, pemetrexed is acceptable although less studied
+            - Bevacizumab demonstrated to be not beneficial on subset analysis
+    - **Neoadjuvant chemotherapy** - less studied, and no major difference in OS compared to adjuvant chemotherapy (potential role in down-staging to less extensive resection if innitially not operable)
+    - **Targeted therapy and immunotherapy:**
+        - TKI in adjuvant setting has no role in current state of knowledge
+        - Role of immunotherapy in adjuvant setting is currently being evaluated
+- **Primary RT** - SBRT preferred over conventional RT:
+    - **Stereotactic body radiotherapy** (SBRT or SABR):
+        - <u>Indications</u> - considered for inoperable stage I NSCLC (role in surgical candidates currently unsure)
+        - <u>Efficacy</u> - 5y local control rate up to 90% in peripheral stage I disease
+        - <u>S/E profile</u> - generally tolerable, acute S/E rare, while long-term S/E include:
+            - Dyspnoea
+            - Rib fractures
+            - Ventricular tachycardia
+        - <u>Caution</u>:
+            - Require reassessing patients w/ pre-existing interstitial lung fibrosis who have high risk of fotal toxicity
+            - Central tumours, i.e. tumours within 2cm of critical mediastinal structures (e.g. bronchial tree, oesophagus, heart, brachial plexus, major vessels, spinal cord, phrenic nerve, and RLN) requires additional considerations
+            - Ultracentral tumours (i.e. PTV overlapping trachea and bronchus) are C/I for SBRT
+- **Radiofrequency ablation** - indicated if patients have C/I to both SABR and surgery
+- **Post-operative RT** - only considered if R1 ressection (role of adjuvant RT in N2 disease still under investigation), and detrimental effect to N0-1 disease
+
+## Treatment of locally advanced lung cancer (Stage III)
+
+- **Principles of Mx** - multimodal approach but dependent on resectability:
+    - **Principle of resectability** - determined by MDT:
+        - T4N0 disease where nodal disease have been excluded by invasive methods (e.g. EBUS/ mediastinoscopy) when R0 resection is deemed feasible
+        - N2 disease w/ involvement of single mediastinal station (N2a), where other nodal stations have been assessed by invasive methods and proven to be benign (adjuvant ChT recommended)
+        - Nodal downstaging after induction therapy
+    - **Stage-dependent Mx:**
+        - <u>Resectable disease</u> - induction CRT (+/- consolidation immunotherapy) followed by potential ressection
+        - <u>Unresectable disease</u> - concurrent CRT (or sequential)

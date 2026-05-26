@@ -1,0 +1,45 @@
+---
+id: 13ea7148-a868-4deb-ba76-a209ca13730e
+title: NCCN Guidelines for Advanced or or Metastatic Non-small-cell Lung Cancer
+---
+
+# 2024 Non-Small Cell Lung Cancer - NCCN Clinical Practice Guidelines in Oncology
+
+- **Pre-treatment evaluation of advanced or metastatic NSCLC:**
+    - <u>Histological subtyping</u> - differentiation between squamous and non-squamous histology
+    - <u>Molecular testing</u>:
+        - **EGFR and ALK status** - mandatory (category 1 consensus) prior to initial therapy for all advanced or metastatic <u>non-squamous disease</u>
+        - **PD-L1 expression testing** - mandatory prior to initial therapy for all advanced or metastatic NSCLC <u>irrespective of histology</u>
+        - **Additional molecular testing for other drugable mutations** (e.g. KRAS, ROS1, BRAF, NTRK, METex14 skipping, RET, HER2) - considered in both non-squamous, and squamous histology (present in 2-10%)
+
+  
+  ![](img/pre_treatment_evaluation_for_advanced_or_metastatic_nsclc.png)
+- **NSCLC with EGFR alterations** - EGFR are found in around 50% of Asian patients, particularly in the prototypical female never-smokers who develop AD:
+    - **Common EGFR mutations and response to TKIs:**
+        - <u>Exon 19 deletion or Point Exon 20 point mutation (L858R)</u> \[85-90%\] - a/w **high Sn** to TKIs
+        - <u>Exon 20 insertion mutation</u> \[third most common group\] - a/w low response rate w/ early generation TKIs, but **reported variable response to newer TKIs depending on variant**
+        - <u>Other less common mutations</u> (e.g. exon 20 S768I, exon 21 L861Q, exon 18G719x) \[~10%\] - **varying response** to first, second and third-generation TKIs
+        - <u>Exon 20 T790M mutation</u> - often an **acquired resistance after duration of TKI therapy** and are reported in 60% of patients on TKI present w/ disease progression (primary resistance may prompt germline genetic testing)
+    - **NSCLC with exon 19 deletion or L858R exon 20 mutations** - isolated TKI or TKI w/ chemotherapy doublet recommended:
+        - <u>1st line therapy for mutation discovered prior to initiation of systemic therapy</u>:
+            - NCCN recommends **single agent osimertinib** (FLAURA trial)
+            - Other acceptable therapy includes **osimertinib w/ chemotherapy doublet** with pemetrexed and carboplatin or cisplatin (FLAURA2 trial)
+            - Other acceptable alterantives include single agent erlotinib, gefitinib, afatinib etc.
+        - <u>1st line therapy for mutation discovered during initiation of systemic therapy</u>:
+            - NCCN recommends completion of cycle of systemic therapy and switch to osimertinib alone
+            - Erlotinib w/ bevacizumab or ramucirumab are other acceptable alternatives
+        - <u>Approach to disease progression for patients on first-line targeted therapy</u>:
+            - Consider definitive local therapy (e.g. RT) w/ continuation of osimertinib
+            - Rebiopsy lesion to r/o transformation to small cell histology (5% in EGFR TKI-resistant tumours)
+    - **NSCLC with exon 20 insertion mutation** - generally not sensitive to conventional TKIs:
+        - <u>1st line therapy if exon 20 insertion mutation present</u>:
+            - Single-agent amivantamab-vmjw (CHRYSALIS trial)
+            - Amivantamab in compbination w/ carboplatin and pemetrexed (PAPILLON trial)
+- **NSCLC with ALK rearrangements** - second most common mutation after EGFR in Asian population:
+    - **Common ALK inhibitors:**
+        - <u>Crizotinib</u> - prototypical ALK inhibitors first to demonstrate improved outcomes compared w/ chemotherapy in metastatic NSCLC
+        - <u>Alectinib</u> - ALK inhibitor demonstrated w/ improved OS, and non-significant PFS, but fewer AEs compared w/ crizotinib in metastatic NSCLC (ALEX trial)
+        - <u>Brigatinib</u> - ALK inhibitor demonstrated w/ improved OS, intracranial response, and PFS compared w/ crizotinib
+        - <u>Lorlatinib</u> - ALK inhibitor with exceptional intracranial response and reduced CNS progression compared w/ crizotinib (CROWN trial)
+    - **NCCN guidelines:** ![](img/nccn_guidelines_for_alk_pos_nsclc.png) 
+    ![](img/nccn_guidelines_for_subsequent_therapy_of_nsclc_progression_on_alectinib.png)

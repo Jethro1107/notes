@@ -1,0 +1,81 @@
+---
+id: 35f34b7c-b201-473b-8099-fc757099496b
+title: Fever in an Immunocomprimised Host
+---
+
+# Fever in an Immunocomprimised Host
+
+- **Definition and terminology:**
+    - <u>Immunocomprimised host</u> - a host with alterations in innate and adaptive immunity as a result of underlying disease and their therapy, which predisposes the host to infections or neoplasia
+- **Classification of immunocomprimised hosts:** 
+![](~/Documents/notes/img/classification_of_immunocomprimised_hosts.png)
+- **Common mechanisms for alterations in host-defense mechanisms in an immunocomprimised patients:**
+    - **Defects in innate immunity:**
+        - **Lost of barriers:**
+            - <u>Physical barriers</u> - damage to skin/ mucosa, chemotherapy-related mucositis, indwelling devices, Hickman's catheter, medical/ surgical procedures
+            - <u>Chemical barriers</u> - gastric hypo-/ a-hydrochlorhydria due to long standing PPI use
+            - <u>Microbiological barriers</u> - judacious antimicrobial therapy
+        - **Lost of innate cellular immunity** - granulocytopenia (neutropenia)
+        - **Lost of innate humoral immunity** - complement deficiency, thrombocytopenia
+    - **Defects in adaptive immunity:**
+        - <u>Cellular immune dysfunction</u> (T cell dysfunction) - e.g. HIV/ AIDs
+        - <u>Humoral immune dysfunction</u> (B cell dysfunction) - e.g. multiple myeloma, chronic leukaemia, splenectomy
+    - **Mechanical effects in tumour** - tumour obstruction of conducting system (e.g. MBO, bronchial obstruction, urinary tract obstruction, intestinal obstruction, lymphatics) resulting in increased intraluminal pressure resulting in <u>translocation of pathogens into blood</u>
+    - **Major organ dysfunction:**
+        - <u>Cirrhosis</u> - liver failure predisposes to infections
+        - <u>Chronic kidney disease</u> (uraemia) - various mechanisms influencing adaptive immunity
+        - <u>Heaert failure</u> - pulmonary congestion predisposes chest infections
+        - <u>Neurological dysfunction</u> (e.g. bulbar palsies) - predisposes to aspiration pneumonia
+    - **Miscellaneous:**
+        - **Defects in signalling between immune cells** - use of biologic or small molecules, AutoAb against cytokines
+        - **Others** - chronic hyperglycaemia (<u>DM</u>), malnutrition, iron overload etc.
+
+  
+  ![](~/Documents/notes/img/common_mechanisms_predisposing_to_infection_in_immunocomprimised_host.png)
+- **DDx of fever in the immunocomprimised host:**
+    - **Infectious cause** - likely precipitating pathogen depends on the nature of immune defect
+    - **Non-infectious cause:**
+        - <u>Autoimmunity</u> - e.g. vasculitis, organising pneumonitis
+        - <u>Transplant-related complications</u> - graft-versus-host disease, transplant rejection
+        - <u>Neoplastic</u> - iatrogenic neoplasms, lymphoproliferative disease
+        - <u>Miscellaneous</u> - drug fever, Sweet Syndrome (seen in haematological malignancies)
+- **Microbiology** - spectrum of pathogens can be <sub>predicted</sub> by the specific defect of the host:
+    - **Neutropenia** - see notes on neutropneic fever
+    - **Cellular immune dysfunction** - defects in killing intracellular organisms:
+        - <u>Bacterial</u> (usually intracellular pathogens of RES) - Listeria monocytogenes, Salmonella spp, Legionella spp, Mycobacteria (TB, NTB), Nocardia
+        - <u>Fungal</u> - Cryptococcus neoformans, Dimorphic fungi, Pneumocystis jirovecii, Microsporidia
+        - <u>Viral</u> - Herpes viridae (CMV, HSV, VZV, EBV, HHV-6), HPV, Respiratory viruses
+        - <u>Protozoal</u> - toxoplasmosis, cryptosporidium
+        - <u>Helminths</u> - strongyloides sterocoralis
+
+    
+    ![](~/Documents/notes/img/predisposing_pathogens_in_cellular_immune_dysfunction.png)
+    - **Humoral immune dysfunction and post-splenectomy** (evident by Howell-Jolly bodies): 
+    ![](img/howell_jolly_bodies.png)
+        - <u>Encapsulated bacteria</u> - Streptococcus pneumoniae, Haemophilus influenzae, Neisseria Meningitidis, Capnocytophaga canimorsus, Salmodella, Plasmodium
+        - <u>Protozoa</u> - Babesia microti
+- **Approach to assessment of fever in the immunocomprimised host:**
+    - <u>Hx</u>:
+        - Nature of immunosuppression
+        - Prophylactic measures (e.g. prophylactic ABx and vaccinations)
+        - Past infections and their Tx (recurrence and acquisition of ABx resistance)
+        - Exposure to infections
+    - <u>P/E</u> - as in fever, but focus on:
+        - **Sites of physical barrier** - skin, mucosal survaces, ENT for any mucositis
+        - **Skin** - rashes as a sign of disseminated infections
+- **Ix** - septic workup as above, with additional considerations:
+    - **Imaging** - CT thorax, CT abdomen:
+        - <u>CT thorax</u> - if Hx yields respiratory Sx or CXR +ve
+        - <u>CT abdomen</u> - if abdominal Sx present (e.g. RLQ pain, diarrhoea)
+    - **Microbiology** - blood, urine, stool, NPA as per septic workup, but better to detect microbiological component rather than host response (e.g. Ab) due to severe immunocomprimisation:
+        - <u>Nucleic acid detection</u> - PCR for CMV or aspergillus DNA
+        - <u>Ag detection</u> - assay for Cryptococcal Ag (CrAg), galactomannan, or legionella
+- **Mx** - initiate broad spectrum ABx
+- **Prevention of infection in immunocomprimised host:**
+    - <u>Tackle iatrogenic risk factors</u> - avoid unnecessary instrumentation or invasive procedures, or antimicrobial therapy
+    - <u>Detection and Tx of chronic infections before initiation of immunosuppressive therapy</u> - e.g. carious teeth, chronic sinusitis, old TB
+    - <u>Specific immune measures</u>:
+        - Immunisation - active (vaccination) vs passive (IVIG)
+        - Prophylactic ABx - given prophylactically for splenectomised patients, or at first sign of Ix
+        - Prophylactiv antivirals or antivungals
+        - Immune-modulatory Tx - e.g. G-CSF, adoptive transfer virus-specific ex-vivo expanded T lymphocytes

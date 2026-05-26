@@ -1,0 +1,165 @@
+---
+id: cdd42691-b547-4430-89dd-355a9ae78c71
+title: Parkinson's Disease
+---
+
+# Parkinson's Disease
+
+- **Definition and terminology:**
+    - <u>Parkinsonism</u> - defined as a clinical syndrome characterised by 1) rest tremors, 2) rigidity, 3) a-/ brady-kinesia and 4) loss of postural reflexes
+    - <u>Idopathic Parkinson's disease</u> - most common cause of parkinsonism
+- **Epidemiology:**
+    - <u>Incidence</u> - 18/100000/y in the UK (but extremely age-dependent)
+    - <u>Demographic</u>:
+        - Age - increasing incidence w/ age with mean age of onset around 60y (up to 300-500/100000/y after 80y)
+        - Sex - male preponderance (M:F = 3:2)
+- **Etiology of parkinsonism:**
+    - **Idiopathic Parkinson's disease** - PD accounts for 80% of parkisonisum
+    - **Vascular PD** - caused by subclinical stroke involving the BG circuit
+    - **Drug-induced parkisonism:**
+        - Atypical antipsychotic drugs
+        - Metoclopramide, prochlorperazine
+        - Sodium valproate
+        - Mood stabilisers (e.g. Lithium)
+    - **Parkisonian plus syndromes** - Lewy Body Dementia, Multiple system atrophy, Progressive supranuclear palsy, Corticobasal degeneration, Spinocerebellar ataxia
+
+  
+  ![](../img/causes_of_parkisonism.png)
+- **Pathophysiology of parkinsonism:**
+    - <u>Accumulation of pathological protein inclusions in dopaminergic cells</u> (Synucleinopathy) - particularly alpha-synuclein protein, resulting i Lewy body formation initially in BG, and subsequently the brainstem and cortex
+    - <u>Depletion of pigmented dopaminergic neurons in the substantia niagra</u> - loss of dopaminergic tone accounts for much of the clinical features
+- **Clinical features of PD:**
+    - **Pro-dromal Sx** - including hyposmia, constipation and REM motor behavioural disturbance (RBD) may precede development of typical motor features for many years but patient rarely present at this stage
+    - **Motor Sx** - characteristically <u>assymetrical</u> even when it progresses:
+        - <u>Tremors</u> (80%) - unilateral rest tremor affecting limbs, jaw, chin but not he head
+        - <u>Bradykinesia</u> - hallmark difficulty in initiating movement, and an overall reduction in velocity and amplitude of movement
+        - <u>Rigidity</u> - constant increase in tone that is irrespective to velocity (cf spasticity), resulting in stopped posture and stiffness
+        - <u>Loss of postural reflexes</u> - pathologically manifests early but falls tend not to occur until later
+    - **Non-motor symptoms:**
+        - <u>Cognitive impairment and dementia</u> (30-80% in disease course) - cognition generally spared in early disease but becomes invariably common and disabiling (early decline in cognition to raise alternative Dx \[e.g. LBD\])
+        - <u>Neuropsychiatric manifestations</u>:
+            - Mood disorders - e.g. anxiety, depression, apathy
+            - Disorders of perception - e.g. hallucinations, psychosis
+        - <u>Sleep disturbances</u> - fatigue, insomnia, hypersomnolence
+        - <u>Sexual dysfunction</u> - erectile failure, loss of libido, or hypersexuality
+- **Signs in PD:**
+    - **General appearance:**
+        - <u>Masked facies and Reptillian eyes</u> - expressionless face (hypomimia), with unblinking eyes attributed to bradykinesia
+        - <u>Soft, rapid, indistinct speech</u> (dysphonia) - monotomous speech attributed to bradykinesia
+        - <u>Stopped posture</u> - flexed posture as a result of rigidity
+    - **Gait** - shuffling/ festination gait with difficulty in initiation and turning:
+        - <u>Failure of gait ignition</u> - difficulty to initiate gait, especially when getting up from chair due to akinesia
+        - <u>Shuffling gait/ festination</u> - rapid, short stride length with tendancy to shorten due to **postural instability**
+        - <u>Reduced arm swing</u> - as a result of rigidity and bradykinesia
+        - <u>Difficulty in turning</u> - due to loss of postural mechanisms upon turning
+    - **Tremor:**
+        - <u>Resting tremor</u> (3-4 Hz) - asymetrical, usually in the hand (pill rolling), that by definition is maximal at rest and suppressed by **voluntary movement and posture maintenance**
+        - <u>Postural tremor</u> (6-8 Hz) - tremor on out-stretched hands
+        - <u>Re-emergent tremor</u> (3-4 Hz) - rest tremor re-emerges after few seconds of stretching arms out
+    - **Rigidity** - on testing tone of the upper limb:
+        - <u>Cogwheel rigidity</u> - jerky resistance to passive movements as muscle tenses and relaxes, caused by tremors superimposed on rigidity
+        - <u>Lead-pipe rigidity</u> - passive movement of an extremity met w/ a constant dead-feeling resistance
+    - **Akinesia** (fundamental feature of PD) - slowness of movement w/ fatiguing and decreasing in size of repetitive movement:
+        - <u>Finger tapping</u> - slowness and reduced amplitude on finger tapping
+        - <u>Hand-opening and closing</u> - slowness and reduced amplitude on hand opening and closing
+        - <u>Pronation and supination of forearms</u> - slowness when assessing for Dysdiadokinesia
+    - **Postural reflexes** - pull test
+    - **Normal findings** - if abnormal, consider other causes:
+        - Power, deep tendon reflexes, plantar responses
+        - Eye movements
+        - Sensation
+        - Cerebellar examination
+- **Ix:**
+    - **Neuroimaging** (CT/ MRI) - not useful as most are normal (may enable identification of <u>vascular PD</u>)
+    - **Functional dopaminergic imaging** (SPECT):
+        - Abnormal in early stages
+        - Does not differentiate between different degenerative causes
+
+    
+    ![](../img/functional_imaging_on_pd_patient.png)
+    - **Blood tests:**
+        - <u>Serum ceruloplasmin</u> - to exclude Wilson's Disease in young patient
+        - <u>Genetic tests</u> - e.g. exclusion of Huntington's or those w/ supciious FHx
+- **Hoehn and Yahr Staging** - systematically describes progression of PD:
+    - <u>Stage 0</u> - no signs of disease
+    - <u>Stage 1</u> - mild symptoms w/ unilateral involvement
+    - <u>Stage 1.5</u> - unilateral and axial involvement
+    - <u>Stage 2</u> - bilateral involvement w/o impairment of balance
+    - <u>Stage 2.5</u> - mild bilateral disease w/ recovery on pull test
+    - <u>Stage 3</u> - mild to moderate bilateral disease; some postural insatbility, but still physically independent
+    - <u>Stage 4</u> - severe bilateral disease and postural instability, but still able to walk or stand unassisted
+    - <u>Stage 5</u> - Wheelchai bound
+- **Dx** - clinical Dx w/ aid of diagnostic criterias:
+    - **UK Parkinson's Disease Society Brain Bank Criteria:** 
+    ![](../img/ukpds_brain_bank_criteria.png)
+    - **MDS Clinical Diagnostic Criteria for Parkinson's Disease:** 
+    ![](../img/mds_diagnostic_criteria_for_pd.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>General measures</u> - multidisciplinary approach from PT, OT, and Speech to overcome functional limitations
+        - <u>Symptomatic Mx of PD</u> - pharmacological therapy (e.g. L-dopa) or neurosurgery (e.g. DBS)
+        - <u>Mx of progression of PD</u> - includes Mx of motor fluctuations and other non-motor manifestations (e.g. MCI-dementia)
+    - **Drug therapy** - remains syptomatic where no drug is "neuroprotective":
+        - **Selection of regimes:**
+            - Levodopa
+            - Dopamine agonists
+            - Anti-cholinergics
+            - MAOI-B
+            - COMT
+            - Amantadines
+        - **Initiation of Tx** - no consensus, but initiate Tx when Sx are impacting everyday life: 
+        ![](../img/principles_of_pharmacological_therapy_in_pd.png)
+        - **Levodopa** (LD) - typically first-line Tx in combination w/ **dopa decarboxylase inhibitor** (DDI):
+            - <u>Selection</u>:
+                - Sinemet - LD + carbidopa
+                - Maldopar - LD + benserazide
+            - <u>Dosing</u> - up to 1000 mg/d
+            - <u>MOA</u> - precursor to dopamine:
+                - 90% undergo peripheral conversion to dopamine if taken alone (prevented by DDI)
+                - 10% reaches the brain
+            - <u>Clinical efficacy</u> - only effective for certain motor Sx:
+                - Most effective for **akinesia** and **rigidity**
+                - Less effective for tremors
+                - Almost no effect on postural instability (e.g. festination, freezing), and non-motor Sx
+            - <u>S/E</u>:
+                - **S/E related to peripheral conversion** - orthostatic hypotension, N/V (offset by domperidone)
+                - **S/E related to increased central dopaminergic tone:**
+                    - Confusions and hallucinations
+                    - Impulse control disorders
+                    - Dopamine dysregulation syndrome
+                    - Motor fluctuations
+            - <u>Motor flucuations</u> - caused by progressive loss of dopamine storage capacity in SnG (and may be improved by addition of dopamine agonists)
+        - **Dopamine receptor agonist:**
+            - <u>Indications</u> - thought to delay LD initiation in young PD to delay motor fluctuations (evidence is accruing to suggest usefulness is short-lasting)
+            - <u>Selection</u> - only apomorphine is as effective as LD:
+                - **Ergot-derived** (no longer recomended due to cardiotoxicity) - bromocriptine, carbegoline
+                - **Non-ergot-derived** - apomorphine, rotigotine
+            - <u>S/E</u> - similar to LD but much more severe (esp. N/V, hallucination, and impulse control disorders)
+        - **Monoamine oxidase type B inhibitors** (MAOI-B):
+            - <u>Selection</u>:
+                - Selegiline
+                - Rasagiline
+            - <u>MOA</u> - inhibition of MAOI-B, which results in breakdown of synaptic dopamine (hence increasing dopamine levels)
+            - <u>Clinical efficacy</u> - at most modest, but can be used to control motor fluctuations
+            - <u>S/E</u> - very well tolerated
+        - **Catechol-O-methyl-transferase inhibitors** (COMT inhibitors) - as adjunct to LD for early wean off:
+            - <u>MOA</u> - inhibition of COMT, which is responsible for peripheral conversion of LD to dopamine
+            - <u>Selection</u> - available as single tablet w/ each LD dose, or as combined tablets:
+                - Entacapone (peripheral conversion; better safety profile)
+                - Tolcapone (peripheral and central conversion; risk of severe hepatotoxicity)
+            - <u>S/E</u> - hepatotoxicity
+        - **Amantadine** (Anti-influenza)
+            - <u>MOA</u> - NMDA blockade
+            - <u>Clinical efficacy</u> - mainly for those w/ LD-induced dyskinesia
+        - **Anticholinergics** (historical interest):
+            - <u>Selection</u> - trihexyphenidyl, orphenadrine
+            - <u>Clinical efficacy</u> - doubtful (only for tremors)
+            - <u>S/E</u> - anticholinergic S/E
+    - **Motor fluctuations in PD:**
+        - <u>Pathophysiology</u> - caused by progressive loss of dopamine storage capacity by dwindling number of striatoniagral neurons:
+            - **Off-phase** - increasing Sx of parkisonism (i.e. end-of-dose deterioration), due to effects wearing off (which can be combated by increasing LD dosing and frequency or COMT inhibitors)
+            - **On-phase** - improved mobility but with dyskinesia likely as a S/E of LD
+        - <u>Mx</u>:
+            - Consider increasing dose frequency or addition of COMT if prolonging off-phase
+            - On times may be result of excessive LD dosing
+    - **Deep brain stimulation** (DBS) - for refractory tremors or motor fluctuations

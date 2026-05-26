@@ -1,0 +1,226 @@
+---
+id: 0eea0907-c04a-431a-953f-993d685bd6b3
+title: Fish's Ch3 Disorders of Thought and Speech
+---
+
+# Ch3 Disorders of Thought and Speech
+
+- **Overview:**
+    - Disorders of intelligence
+    - Stream of thought and possession of thought
+    - Obsessions and compulsions
+    - Disorders of the content and form of thinking
+
+## Disorders of intelligence
+
+## Disorders of thinking
+
+- **Forms of thinking:**
+    - <u>Unidirected fantasy thinking</u> (autistic or rdereistic thinking) - thinking that follows totally subjective, idiosyncratic systems of logic and fails to take facts and experience into consideration (can be as common as daydreaming or formal thought disorder)
+    - <u>Imaginative thinking</u> - thinking that does not go beyond the rational and the possible
+    - <u>Rational or conceptual thinking</u> - thinking that aims to solve the problem using logic
+- **Classification of disorders of thinking** - any classification system is arbitrary, but Fish classifies them into 1) disorder of stream of thought, 2) possession of thought, 3) content of thought, and 4) form of thought
+    - **Dichotomy of form and content** - arbitrary at best as belief and reasoning cannot be sharply separated (i.e. I believe because it is reasonable to me)
+        - <u>Disorder of content</u> - i.e. disorder of beliefs
+        - <u>Disorder of form</u> - i.e. disorder of reasoning
+    - **Other thought disorders outside the dichotomy:**
+        - Disorders of stream and progress of thought
+        - Disorders of the control of thinking (may be considered a disorder of volition or ego-consciousness)
+
+### Disorder of the stream of thought
+
+- **Definition** - rather arbitrary concept but stream of thought comprises of the rate of progression of ideas, and the continuiity of ideas, hence can be classified into 1) disorders of thought tempo, and 2) disorders of continuiity
+- **Disorders of thought tempo:**
+    - **Flight of ideas** - thoughts follow one another rapidly, w/ no general direction of thinking, and connections appear to be due to chance, but are **usually understandable**:
+        - <u>Manifestation</u> - often pressured speach, and speech is easily diverted to external stimuli or internal superficial associations
+        - <u>Associations of the chain of thought</u> - classically one can reverse the sequence of ideas and progression of thought may be understood just as well:
+            - Chance relationship
+            - Verbal associations (e.g. assonance, alliteration)
+            - Clang associations
+            - Proverbs
+            - Maxims and cliches
+        - <u>Associations w/ syndromes</u>:
+            - Manic episode or rarely hypomanic episode (clang and verbal associations not so marked)
+            - Schizophrenia during states of excitement or other organic states
+    - **Inhibition or slowing of thinking** - train of thought slowed and number of ideas and mental images that present as speech decreases:
+        - <u>Manifestation</u> - difficulty in executive decision, lack of concentration, loss of clarity of thinking:
+            - **Reduced cognitive function** - cognitive deficits may become apparent and may lead to mistaken Dx of dementia
+            - **Loss of memory** - due to decreased active attention such that activity is poorly registered
+            - **Delusional ideas** - that thoughts are 'going out of their mind'
+        - <u>Associations</u>:
+            - Depression (owing to anxious preoccupations and increased distractibility due to anxiety)
+            - Manic stupor (train of thought so fast it becomes distressing to individual)
+    - **Circumstantiality** - thinking proceeds slowly with any <u>unnecessary and trivial details</u>, but the point is reached (goal of thinking never lost):
+        - <u>Manifestation</u> - thinking takes an intricate and convoluted path
+        - <u>Associations</u>:
+            - Obsessional personality traits
+            - Learning disabilities
+- **Disorders of the continuity:**
+    - **Preservation** - when mental operations persist beyond the point which they are relevant and thus prevent progress of thinking:
+        - <u>Manifestation</u> - verbal or ideational difficulty that is more prominent when the mental task is more difficult
+        - <u>Associations</u> - generalised or local organic brain disease
+    - **Thought blocking** - sudden arrest in the train of thought leaving a blank:
+        - <u>Manifestation</u> - in the absence of exhaustion or anxiety
+            - **Blanking** - sudden arrest of the train of thought and complete silence
+            - **New train of thought** - new train of thought may begin especially when insight is poor
+        - <u>Associations</u>:
+            - Extremely suggestive of schizophrenia
+            - Exhaustion and anxious patients may appear as having thought blocking, but simply had just lost the thread of the conservation
+
+### Obsessions, compulsions and disorders of possesion of thought
+
+- **Normal experience of thought:**
+    - One experiences one's thinking as being one's own, although this sense of possession is never conscious
+    - One experiences one is in control of thinking, loss of such control may be frightening
+- **Obsessions and compulsions** (ruminations) - compelled to think about things against the will but recognises the thought to be originating from the self:
+    - **Definition and terminology:**
+        - <u>Obsessions</u> - a thought that persists and dominates an individual's thinking despite the individual's awareness that the thought is entirely without purpose or else had persistent and dominated their thinking beyond the point of relevance and usefulness
+        - <u>Compulsions</u> - obsessive motor acts, may stem from an obsessional impulse that directly leads to the act, or mediated by an obsessional thought
+    - **Features of obsession:**
+        - <u>Nature of thought</u> - often causes sufferer great anxiety and even guilt as the thought may be considered repungent
+        - <u>Loss of control</u> - obsession appears against the patient's will but can be under normal control of the patient and resisted (cf hallucinations and moods)
+        - <u>Form of obsessions</u>:
+            - Mental images - often vivid and may be mistaken as pseudohallucinations
+            - Ideas - can range from thinking of all kinds of topics
+            - Impulses - e.g. impulses to touch, count or arrange object, or impulses to commit antisocial act
+            - Fears and phobias - groundless fears that patient realises is dominating without a cause (and must be distinguisehed from the hysterical and learned phobias)
+    - **Timing of obsessions** - can occur in all states:
+        - Obsessive state
+        - Depression
+        - Schizophrenia
+        - Organic states (e.g. post-encephalitic parkisonism)
+- **Thought alienation** - experience that the thoughts are under the control of an outside agency, or that others are participating in their thinking:
+    - **Forms of thought alienation:**
+        - <u>Thought insertion</u> - patient knows that thoughts are being inserted into their minds and recognises them as being foreign and coming without
+        - <u>Thought deprivation</u> - thoughts suddenly disappearing and are withdrawn from their mind by a foreign influence, and is hypothesized to be a subjective experience of thought blocking or omission
+        - <u>Thought broadcasting</u> - patient knows that as they are thinking, everyone else is thinking in unison with them
+    - **Associations:**
+        - Schizophrenia
+        - Other thought disorders
+
+### Disorders of the content of thinking
+
+- **Forms of disordered thought content:**
+    - <u>Delusions</u> - defined as a a false, unshakeable belief that is out of keeping with the patient's social or cultural background
+    - <u>Overvalued idea</u> - a false belief which is less defined by its fixed nature (cf delusions) but defined as the feeling tone that enables it to take precedence over all other ideas
+- **Delusion, schizophrenia and psychotic disorders:**
+    - Historically, primary delusions are thought to be diagnostic of schizophrenia
+    - Subsequently, Sneider narrowed delusions of thought alienation, delusions of control or delusional percept were pathognomonomic for schizophrenia
+    - The current view is that similar experiences are described in other conditions, in delusional disorders, psychotic disorders, or even certain organic states
+- **Primary vs secondary delusions:**
+    - <u>Primary delusion</u> (apophany) - the process in which new meaning or pattern is derived in connection w/ or driven by **some psychological event**
+    - <u>Secondary delusion</u> - new meaning, pattern, or thought that arises from **some other morbid experience**, and some view it as a sort of excessive projection
+- **Primary delusions:**
+    - **Schneider attributes 3 psychological events that results in primary delusions:**
+        - <u>Delusional mood</u> - the patient has the knowledge or senses that something going on around him that concerns him, but he does not know what it is, and the meaning derived is usually 'pieced together' by a sudden delusional idea or delusional percepts
+        - <u>Delusional perception</u> - the attribution of a new meaning, usually in the sense of self-reference, to a normally perceived object, which cannot be understood as arising from the patients affective state or previous attitudes (cf delusional misinterpretation)
+        - <u>The sudden delusional idea</u> - sudden new ideas that have no origin and are delusional in itself
+    - **Primary delusion and schizophrenia:**
+        - More prominent in acute schizophrenia
+        - Less common in chronic schizophrenia, where they may be buried under a mass of secondary delusions arising from primary delusional experiences, hallucinations, formal thought disorder or secondary thought disorder
+- **Secondary delusions and systematisation:**
+    - <u>Delusions attributable to some morbid phenomonon</u>:
+        - Primary delusion
+        - Depressive moods
+        - Hallucinations
+        - Stress reactions
+        - Sensitive personality traits
+    - <u>Systematisation of delusion in schizophrenia</u> - systematised delusion if all delusions are logically built on one basic dillusion:
+        - Phenomenon in which primary delusional experiences commonly integrated into some sort of delusional system
+        - This elaborations of delusion has often been called 'delusional work'
+        - Degree of systematisation differs, and level of systematisation varies over time; where elaborate systematisations are seen in older schizophrenic as the single delusional idea persists
+- **Contents of delusions** - dependent on the social and cultural background of the patient, but there are general themes observed:
+    - <u>Delusion of persecution</u> - delusional thoughts that someone related or unrelated to them is going to cause harm to them:
+        - Often arises in the context of 1) primary delusional experiences or psychotic disorders, or secondary to 2) hallucinations (esp. auditory or other bodily hallucinations), 3) experiences of passivity, 4) other delusions
+        - May arise from delusion of reference, attributing salience of otherwise normal signals but thought to be slandering him
+        - May arise from delusion of guilt, where delusion of persecution may be in the context of being put to death or imprisoned for life
+        - May arise from other bodily hallucinations, where often delusions of being poisoning is explanatory of the gustatory/ olfactory hallucination
+    - <u>Delusion of infidelity</u> - also termed delusion of jealousy, where delusional thought where one is convinced of their spouse's infidelity:
+        - Occurs in the context of 1) primary delusional disorders or schizophrenia, or 2) affective psychosis, and 3) organic brain disorders (esp. alcohol dependence syndrome)
+        - Often patients have a premorbid mild jealous attitude which reaches morbid expressions when it reaches delusional intensity
+        - Onset is typically gradual, initially with mild suspicion but becomes unshakable convictions
+    - <u>Delusions of love</u>
+    - <u>Grandiose delusions</u>:
+        - Often occurs in the context of 1) **manic episodes of bipolar affective disorders**, 2) organic brain disorders (e.g. fantastic hallucinosis in midbrain/thalamic lesions, neurosyphilis)
+        - Extent of grandiosity may vary, from very expansive themes (e.g. being God) or less expansive scenarios (e.g. skilled sports person)
+        - Certain themes include power by association, e.g. coronation by the king, hearig the voice of God
+        - Re-inforcement of grandiose delusions occurs especially when 1) **supported by AH**, or 2) **confabulations**
+    - <u>Delusions of ill health</u> - delusional thought of ill health in one-self or others:
+        - Occurs most commonly in the context of 1) **depressive illness**, but also 2) **schizophrenia**, and 3) **somatic hallucinations/ primary hypochondriasis**
+        - Usually occurs on a background of concerns about health
+        - Commonly manifests as belief that one or family members have a serious, incurable medical condition (**hypochondriacal delusions**)
+        - Delusions of ill-health may have somewhat of an **obsessive quality**
+        - Ocassionally may take form of primary or secondary delusions of incurable insanity, which becomes barrier to access to healthcare as they firmly belief they will be institutionalised forever
+    - <u>Delusions of guilt</u>
+    - <u>Nihlistic delusions</u> - delusion thought which denies existence of body, mind, loved ones and the world around them:
+        - Occurs in context of 1) **severe, agitated depression**, 2) **schizophrenia**, and 3) **states of delirium**
+        - Unexplainable assertion of the absence of mind, body, or that the world had ceased to exist
+        - Also a/w delusions of enormity, where belief they can produce catastrophy by some action, e.g. refusal to urinate as may flood the world
+    - <u>Delusions of proverty</u>
+- **The reality of delusions** - the individual to some extent still has a choice to act on their delusional beliefs:
+    - <u>Concordance between belief and action</u> - e.g. suicide, homicide in delusion of guilt, infidelity etc.
+    - <u>Discrepency between belief and action</u> - e.g. grandiose patients may still be happy to be treated in psychiatric hospital
+- **Pathology of delusions** - understanding can be achieved through:
+    - Conceptual cognitive model of developing and maintaining beliefs and delusions (Bentall, 2003; Gillen & David 2005)
+    - Functional imaging to identify key brain areas or processes (Blackwood et al 2004; Prasad et al 2004)
+
+## Disorderes of the form of thinking
+
+- **Definition and background** - formal thought disorders are disorders of conceptual or abstract thinking, w/ or w/o other co-existing congnitive deficits:
+    - <u>Bleuler's description</u> (1911) - disorder of association of thought, characterised by process of condensation, displacement and misuse of 'symbols'
+    - <u>Cameron's description</u> (1944) - describes as 'asyndesis', i.e. lack of adequate connections between successive thoughts
+    - <u>Goldstein's description</u> (1944) - emphasises the loss of abstract attitude, which leads to a 'concrete' style of thinking
+- **Schneider's three feature of healthy thinking:**
+    - <u>Constancy</u> - a completed thought does not change in content unless and until it is superseded by another consciously-derived thought
+    - <u>Organisation</u> - contents of thought are related to each other in consciousness and do not blend with each other, but are separated in organised ways
+    - <u>Continuity</u> - continuity of the sense continuum so that even the most heterogenous subsidiary thoughts, sudden ideas, or observations that emerge are arranged in order in the whole content of consciousness
+- **Schneider's five features of formal thought disorder:**
+    - <u>Derailment</u> - the main thought slides onto a subsidiary thought that is loosely connected at best
+    - <u>Substitution</u> the main thought is replaced by the subsidary one w/ abandonment of the main thought
+    - <u>Omission</u> - a thought, or part of the thought is senselessly omitted, leaving gaps in the thought process
+    - <u>Fusion</u> - heterogenous, and often unrelated thoughts are interwoven together resulting in a single incoherent thought
+    - <u>Drivelling</u> - components of a complex thought is mixed up, such that the internal structure of a single thought becomes chaotic and disorganised
+- **Schneider's three specific disorders of form of thinking** - corresponds to the 3 featuers of healthy thinking:
+    - <u>Transitory thinking</u> (disruption of constancy) - characterised by derailments, substitutions and omissions, and the grammatical and syntactical structures are often disrupted
+    - <u>Drivelling thinking</u> (disruption of organisation) - patient has a preliminary outline of complicated thought with all its necessary particulars, but loses preliminary organisation
+    - <u>Desultory thinking</u> (disruption of continuity) - appearance forcing ideas from time to time, differing from transitory thinking by the completion of a thought and preserved grammatical structure
+
+## Speech disorders
+
+- **Definition** - heterogenous groups of psychiatric and neurological disorders
+- **Stammering and stuttering:**
+    - <u>Definition and terminology</u>:
+        - Stammering - normal flow of speech interrupted by pauses or the repetition of fragmented words, often a/w grimmacing and tic-like behaviours
+        - Stuterring - the same concept, but stuttering reflects a normal condition that begins at 4y, but improves w/ time, often only becoming noticeable when anxious
+    - <u>Late onset of stamerring and stuttering</u> - onset in adolescence reflects:
+        - Severe Adolescent crisis (on a background of childhood stammer that had been overcome)
+        - Onset of acute schizophrenia
+- **Mutism:**
+    - <u>Definition</u> - complete loss of speech
+    - <u>Causes of mutism</u> - more variable causes in children, but in adults, mainly caused by:
+        - Hysteria
+        - Depression
+        - Schizophrenia
+        - Organic brain disorders
+    - <u>Mutism in children</u>:
+        - May be elective mutism out of "shyness", where children refuses to speak to certain people
+        - Maybe mal-adaptive and recognised technique for dealing w/ family quarrels
+    - <u>Mutism in psychiatric illnesses</u>:
+        - Depression - can be thought as an extreme of psychomotor retardation and poverty of speech (patient usually replies to questions but in a slow, drawn-out fashion)
+        - Catatonia - almost invariable in catatonic stupor, but may also occur in non-stuperose catatonic individuals w/ mannerisms or stereotypy
+- **Talking past the point** (Vorbeireden):
+    - <u>Definition</u> - replies by the patient where content of response is related to an associated topic, but association is strong enough that it is implied that the patient understands the question (e.g. answering the colour white to what colour is grass)
+    - <u>Etiology of talking past the point</u>:
+        - Hysterical pseudodementia (dissociative/ conversion disorder)
+        - Acute hebephrenic schizophrenia
+        - Catatonic states
+- **Neologisms:**
+    - <u>Definition</u> - new words constructed by the patients or ordinary words used in a new way, usually applied to new world formulations produced by individuals w/ schizophrenia
+    - <u>Differentiation w/ other conditions</u>:
+        - Motor aphasia where the wrong word is used, invents new words, or distortion of phonetic structures
+        - Malpropism which is the conspicuously misused words have no psychiatric significance
+    - <u>Causes of neologisms</u>:
+        - Severe positive FTD (schizophrenia; may be secondary to derailment of thought)
+        - AH (source of new terminology; or used to placating the voices to protect one self)
+- **Speech confusions and schizophasia** (also known as word salad in its extremes):
+- **Aphasia:**

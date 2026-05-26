@@ -1,0 +1,45 @@
+---
+id: 120DA2E3-A133-4E65-89FE-8379FF4AE1A3
+roam_parent: D5288C77-085F-4E5F-A010-1EFA707CA81C
+title: Metabolic Factors and Drug Effects on the ECG
+---
+
+# Metabolic Factors and Drug Effects on the ECG
+
+- **Principles** - metabolic abnormalities and pharmacologic agents can result in:
+  - Repolarisation abnormalities (altered ST-T-U complex)
+  - QRS prolongation
+- **Common metabolic and pharmacological factors a/w ECG changes and life-threatening arrhythmias:**
+  - <u>Electrolytes</u> - hyperkalaemia, hypokalaemia, hypocalcaemia, hypercalcaemia, hypomagnesaemia, hyper-magnesaemia
+  - <u>Pharmacological agents</u> - class IA anti-arrhythmic agents, class III anti-arrhythmics, tri-cyclic antidepressants, phenothiazides, digoxin
+  - <u>Other systemic disturbances</u> - systemic hypothermia, sub-arachnoid haemorrhages
+- **Hyperkalaemia and associated ECG changes:**
+  - <u>Classical progression of ECG changes</u>:
+    - Tenting of T waves
+    - Widening of QRS complex
+    - Flattening of P wave and progressive PR prolongation (a/w **bradyarrhythmias**, and **escape rhythms)**
+    - Sine-wave pattern
+    - Asystole
+
+    
+    ![](../img/ecg_changes_in_hyperk_harrisons.png)
+- **Hypokalaemia and associated ECG changes:**
+  - <u>Pathophysiology</u> - prolongation of ventricular repolarisation
+  - <u>Classical ECG findings</u>:
+    - Prominent U waves
+    - QT prolongation
+- **Hypercalcaemia and hypocalcaemia and associated ECG changes:**
+  - <u>Hypocalcaemia</u> - QT prolongation (ST portion)
+  - <u>Hypercalcaemia</u> - short QT intervals
+- **Systemic hypothermia and ECG changes:**
+  - Convex elevation of J point (Osborn wave)
+  - Bradycardia
+
+  
+  ![](../img/osborn_wave_in_hypothermia.png)
+- **Subarachnoid haemorrhages and ECG changes:**
+  - Marked QT prolongation
+  - Cerebral T waves (deep and wide TWI)
+
+  
+  ![](../img/sah_cerebral_t_waves.png)

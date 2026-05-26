@@ -1,0 +1,23 @@
+---
+id: 9cbe9c7f-95f4-422c-afc8-4280773fe51d
+title: Microscopic Colitis
+---
+
+# Microscopic Colitis
+
+- **Definition** - chronic inflammatory disease of the colon of unknown cause, comprises of two related conditions, 1) lymphocytic colitis, and 2) collagenous colitis
+- **Epidemiology** - more common women esp. in those w/ associated comorbidities:
+- **Associated conditions:**
+    - Rheumatoid arthritis
+    - Diabetes mellitus
+    - Coeliac disease
+    - NSAIDs or PPI use
+- **Pathophysiology** - unknown
+- **Clinical features of microscopic colitis** - may mimic presentation of IBD:
+    - Typically presents w/ chronic watery diarrhoea (bloody diarrhoea is unusual)
+    - Gross endoscopic appearance is normal in most patients (hence microscopic)
+    - Diagnosis is usually suspected on histological examination
+- **Ix and Dx** - confirmed on normal endoscopy for chronic diarrhoea and <u>Bx of the left, right colon and terminal ileum</u>:
+    - <u>Collagenous colitis</u> - characterised by submucosal band of collagen often w/ chronic inflammatory infiltrates
+    - <u>Lymphocytic colitis</u> - cardinal features of colonic intraepithelial lymphocytosis
+- **Mx** - budesonide (local immunosuppressive effects w/ minimal systemic S/E due to first-pass metabolism)

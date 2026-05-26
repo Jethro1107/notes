@@ -1,0 +1,119 @@
+---
+id: 0b736d60-abec-483b-83f1-3b60dce9652b
+title: Neonatal Jaundice
+---
+
+# Neonatal Jaundice
+
+- **Definition** - clinically visible jaundice, or on detection by bilirubinometer, within the first 28 days of life, which may be as a result of 1) unconjugated hyperbilirubinaemia, and 2) conjugated hyperbilirubinaemia
+- **Bilirubin metabolism in the newborn** - neonates often are predisposed to unconjucated hyperbilirubinaemia which may be physiological:
+    - <u>Increased Hb load and subsequent haemolysis</u>:
+        - Higher haemoglobin concentration in neonates (17-19 g/dL)
+        - Short RBC life-span of fetal haemoglobin which will subsequently be broken down soon after birth
+    - <u>Poor bilirubin clearance</u>:
+        - Reduced uptake of unconjugated bilirubin due to low expression of ligadin
+        - Reduced conjugation of bilirubin due to low expression of UDGPT
+    - <u>Increased enterohepatic circulation</u> - limited bacterial conversion of conjugated bilirubin to urobilin, allowing increased deeconjugation
+- **Neurological sequelae of neonatal jaundice:**
+    - **Bilirubin-induced neurological disorder** - spectrum of neurotoxic injuries collectively referred as BIND:
+        - <u>Pathogenesis</u> - unconjugated bilirubin crosses BBB and caues cytological injuries, particularly affecting the **basal ganglia** and **brainstem nuclei for occulomotor and auditory functions**
+        - <u>Classical threshold for increased risk of BIND</u> - 428 mmol/L (25 mg/dL)
+        - <u>Clinical spectrum</u> - ranges from acute bilirubin encephalitis (ABE) to chronic bilirubin encephalitis (kernicterus):
+            - Disorders of the visuocortical pathway
+            - Sensorineural hearing loss
+            - Movement disorders
+            - Abnormal proprioception
+            - Speech and language disabilities
+            - Cognitive delays
+    - **Acute bilirubin encephalopathy** - acute S/S accounting for bilirubin neurotoxicity in a newborn with severe persistent hyperbilirubinaemia:
+        - **Clinical features:**
+            - <u>Early features</u> - drowsiness, mild hyppotonia and high-pitched cry
+            - <u>Intermediate features</u> - febrile and lethargy, poor feeding, hypertonia w/ retrocollis and opisthotonos
+            - <u>Advanced features</u> - seizure, respiratory arrest, coma
+        - **BIND score:** 
+        ![](img/bind_score.png)
+        - **Mx** - emergency exchange transfusion
+    - **Chronic bilirubin encephalopathy** (Kernicterus) - permanent post-ecteric brain injury charaacterised by choreoathetoid cerebral palsy and other chronic neurological impairments:
+        - **Risk related to severity of hyperbilirubinaemia** - classical threshold of 428 mmol/L (a/w 5% risk)
+        - **Clinical features:**
+            - Choreathetoid cerebral palsy (chorea, ballismus, tremor, dystonia)
+            - Sensorineural hearing loss
+            - Upward gaze palsies
+- **Benign neonatal hyperbilirubinaemia** (physiological NNJ):
+    - **Pathophysiology** - a transitional phenomenon where bilirubin load outpaces hepatic bilirubin clearance:
+        - **Increased bilirubin load:**
+            - <u>Increased Hb load</u> - newborns have more RBC (HCT 50-60%) and fetal RBCs have a shorter half-life, where turnover of fetal RBCs results in **increased production of bilirubin**
+            - <u>Increased enterohepatic circulation</u> - limited bacterial conversion of conjugated bilirubin to urobilin, enabling de-conjugation and reabsorption
+        - **Immature bilirubin clerance** - lack of expression of UGTA1 for conjugation of bilirubin, which only reaches adult level by 14 weeks of age
+    - **Natural Hx of physiological NNH** - impacted by 1) gestational age, 2) feeding (breastfeed jaundice), and 3) ethnicity due to differences in bilirubin metabolism:
+        - <u>Progression of TSB</u>:
+            - No jaundice within first 24h
+            - Clinically apparent in 2-3d
+            - Peaks at around 3-5d
+            - Resolves at around 10-14d
+        - <u>Peak TSB</u> - typically ranges from 120-240 mmol/L (8-14 mg/dL)
+- **DDx of clinically significant unconjugated neonatal hyperbilirubinaemia** - pathological conditions caused by exaggerations of mechanisms of physiological NNJ:
+    - **Increased bilirubin production:**
+        - <u>Isoimmune-mediated haemolysis</u> - e.g. RhD incompatibility, ABO incompatibility
+        - <u>Inherited haemolytic anaemia</u> - enzymopathies (e.g. G6PD, PK), membranopathies (hereditary spherocytosis)
+        - <u>Neonatal sepsis</u> - increased oxidative stress resulting in intravascular haemolysis
+        - <u>Birth complications</u>:
+            - e.g. Birth asphyxiation resulting in transient polycythaemia
+            - Birth trauma resulting in extravastation of blood (cephalohaematoma or intraventricular haemorrhage)
+        - <u>Macrosomia of diabetic mothers</u> - increased bilirubin production due to polycythaemia or ineffective haematopoesis
+    - **Decreased bilirubin clearance** - various genetic defects resulting in impaired uptake or conjugation:
+        - <u>Crigler-Najjar syndrome</u>:
+            - Crigler-Najjar syndrome type I (CN-I) - a/w complete absence of UGTA1 enzyme activity resulting in severe hyperbilirubinaemia and neccessity of life-long phototherapy to avoid BIND
+            - Crigler-Najjar syndrome type II (CN-II) - a/w reduced UGT1A1 activity and hyperbilirubinaemia response to phenobarbital
+        - <u>Gilbert syndrome</u> - reduced expression of UGTA1 activity, but often postulated that it alone cannot result in neonatal jaundice
+    - **Increased enterohepatic circulation of bilirubin:**
+        - <u>Breastmilk jaundice</u> - mild, but prolonged hyperbilirubinaemia as a result of bresatfeeding (but not in formula-fed infants) attributed to high-concentrations of beta-glucuronidase in breast milke
+        - <u>Intestinal obstruction</u> - ileus or mechanical IO results in increased enterohepatic circulation
+    - **Breastfeed jaundice** (inadequate milk intake) - as a result of hypovolaemia, slower bilirubmin elimination and increased interohepatic circulation
+- **Salient points of Hx:**
+    - Gestation
+    - Prenatal complication (e.g. in utero hypoxia)
+    - Birth weight - compare with current weight to access whether excessive weight loss due to inadequate feeding
+    - Age of life - phototherapy threshold
+    - Feeding details - mode of feeding, amount, frequency
+    - Blood group of mother / G6PD status baby
+    - Other postnatal complications
+- **P/E:**
+    - Severity of jaundice - using transcutaneous bilirubinometer
+    - Hydration (feeding status)
+    - Pallor (haemolysis) / plethora (polycythaemia)
+    - Cephalhematoma/ bruises
+    - Neurological state
+    - Hepatomegaly and splenomegaly
+- **Ix** - CBC, retic, Rh status, DAT, direct- and indirect-bilirubin
+- **Mx:**
+    - **Principles of Mx:**
+        - **Prevention of neurological sequelae while avoiding over-Tx:**
+            - <u>Prevention of severe hyperbilirubinaemia</u> - avoiding severe hyperbilirubinaemia is a/w reduced risk of BIND
+            - <u>Avoid interference to initiation of breast feeding and carer bonding</u> - as newborn will have to spend time away from mother if phototherapy is necessary
+        - **Modalities of Tx:**
+            - <u>Phototherapy</u> - safe, efficacious method of Tx of unconjugated hyperbilirubinaemia
+            - <u>Exchange transfusion</u> - considered if symptomatic
+            - <u>IVIG</u> - may be considered for those w/ alloimmune haemolytic disease
+    - **Indications for Tx:**
+        - <u>Symptomatic patients</u> - all w/ ABE should immediately excalate care and undergo exchange transfusions
+        - <u>Asymptomatic patients</u> - indication for phototherapy dependent on 1) gestational agem and 2) other risk factors for neurotoxicity
+    - **Phototherapy** - note can be in incubator form or bilirubin blanket (for mild cases to promote mother-baby contact):
+        - <u>Modalities</u>:
+            - Incubator (for higher risk of BIND)
+            - Bilirubin blanket (for mild cases to promote mother-baby contact)
+        - <u>Indications</u> - dependent on phototherapy chart (based on gestational age and presence of risk factors)
+        - Wave length - 460 nm (blue light spectrum)
+        - <u>MOA</u>:
+            - Wave length at 460 nm, i.e. blue light spectrum
+            - photo-isomerisation of bilirubin to less toxic (hydrophilic) and readily excretable forms (in bile and urine)
+        - <u>S/E</u>:
+            - Corneal and retinal damage (use eye shield)
+            - Descication and dehydration
+            - Skin rash
+            - Loose stool
+    - **Exchange transfusion:**
+        - <u>Indication</u> - when plasma bilirubin reaches dangerous level (e.g. \> 370 micromol/l) or child already showing signs of neurotoxicity
+        - <u>S/E</u>:
+            - Risk of blood transfusion
+            - Haemodynamic comprimise

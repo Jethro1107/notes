@@ -1,0 +1,34 @@
+---
+id: 3ae62333-0f29-4e01-965b-d05cd4498ffa
+title: Pre-operative Management
+---
+
+# Pre-operative Management
+
+- **Principles of pre-operative Mx:**
+    - Reduce risk of common anaesthetic complications
+    - Optimisation for surgery and anaesthesia
+    - Guided by Hx, P/E and Ix
+- **Approach to pre-oprative Mx:**
+    - Optimise medical condition
+    - Fasting
+    - Premedications
+    - Formulate anaesthetic plan, inform patient of plan and obtain informed consent
+    - Determine post-operative pacement
+- **Fasting:**
+    - <u>Rationale</u> - reduce volume of astric contents to reduce risk of pulmonary aspiration, consequence dependent on:
+        - Gastric volume
+        - Gastric content (e.g. solid vs liquid)
+        - Acidity (role of pre-medication)
+    - <u>Approach to fasting</u>:
+        - Clear fluids - 2h
+        - Breast milk - 4h
+        - Light meals - 6h
+- **Pre-medication:**
+    - Pain relief
+    - Sedation/ anxiolytic
+    - DVT prophylaxis
+    - Regurgitation and aspiration prophylaxis (e.g. acid-lowering drugs)
+    - Drugs for pre-existing disease
+    - Pace maker setting
+    - EMLA cream for paediatric patients

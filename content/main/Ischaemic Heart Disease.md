@@ -1,0 +1,33 @@
+---
+id: 279f79b3-651f-4d60-98bb-1648f5f25444
+roam_parent: 91b0ff05-4cb8-4373-b40b-ec2869759d3e
+title: Ischaemic Heart Disease
+---
+
+- **index:** [[Cardiology]]
+
+# Ischaemic Heart Disease
+
+- **Ischaemic heart disease** (IHD) - a broad term encompassing several closely related cardiac syndromes caused by myocardial ischaemia - an imbalance between cardiac blood supply (perfusion) and myocardial demand.
+- **Clinical manifestations of IHD:**
+    - **Stable angina** - chest pains caused by myocardial ischaemia due to fixed stenosis
+    - **Acute coronary syndrome** (ACS) - catastrophic manifestations of IHD, considered to be medical emergencies:
+        - **Unstable angina** - Accelerating chest pains caused by myocardial ischaemia due to acute plaque changes, i.e. errosion and superimposed thrombosis/ dynamic obstruction
+        - **Myocardial Infarction** - Myocardial necrosis due to acute obstruction caused by acute plaque changes (STEMI vs NSTEMI)
+        - **Sudden cardiac death** - due to ventricular arrhythmias, asystole, or massive MI
+    - **Ocassionally manifests as mimics:**
+        - Heart failure - clinical (sign and) symptom complex that reflects pump failure
+        - Arrhythmias
+- **Epidemiology:**
+    - Typical presentation - Classically occurs in **middle-aged or elderly men**.
+    - **Initially incidence in M \> F:**
+        - Average age of incidence in men - 50 years old
+        - Average age of incidence in women - 60 years old
+        - Postulated to be the protective effects of female sex hormones
+    - **Incidence in F catch up to men after menopause.**
+    - **Initial presentation of IHD:**
+        - 50% presents with stable angina (of those 10-20% will have ACS within 12 mo of Dx)
+        - 50% presents with ACS without previously documented angina
+- **Etiology of ischaemic heart disease:**
+    - \
+    ![\](<https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJethro%2F2c3gJB9rIe.png?alt=media&token=e0350e89-5a5d-4a5c-81bc-465ec95014a2>)

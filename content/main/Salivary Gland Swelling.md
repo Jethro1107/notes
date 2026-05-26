@@ -1,0 +1,95 @@
+---
+id: 3a0a0611-f7c7-4d39-91d1-8bd0b6d2e611
+title: Salivary Gland Swelling
+---
+
+# Salivary Gland Swelling
+
+- **Overview of anatomy of salivary glands** - see details in Notes on Anatomy of salivary glands:
+    - **3 major paired salivary glands** (95% of saliva production) - parotid glands, submandibular glands, sublingual glands
+    - **\> 1000 minor salivary glands** (5% of saliva production) - found in submucosa of the oral cavity
+- **Terminology and defintions:**
+    - **Definition of sialadenitis** - inflammation of the a salivary glands, which may be acute or chronic
+    - **Definition of sialadenosis** - mutlifocal, often bilateral, non-inflammatory, non-neoplastic enlargement of the salivary glands a/w a systemic metabolic condition (e.g. alcoholism, cirrhosis, DM, bulimia)
+- **DDx of salivary gland swelling:** 
+![](img/ddx_of_salivary_gland_swelling.png)
+    - **Acute unifocal salivary gland swelling:**
+        - <u>Obstructive causes</u> - sialolithiasis (common), ductal strictures, ductal foreign body, pneumoparotitis, external compression of the duct
+        - <u>Infectious causes</u> - acute bacterial sialadenitis, mycobacterial infections, actinomycosis
+        - <u>Inflammatory causes</u> - post-radiation sialadenitis
+    - **Acute multifocal salivary gland swelling:**
+        - <u>Infective causes</u> - Viral sialadenitis (mumps, EBV, PIV)
+        - <u>Inflammatory causes</u> (rare) - RA-I induced sialadenitis, contrast-induced sialadenitis
+        - <u>Miscillaneous causes</u> - juvenile recurrent parotitis, drug-induced sialadenitis, acute sialadenosis of bulimia nervosa
+    - **Chronic unifocal salivary gland swelling:**
+        - <u>Salivary gland tumour</u> - primary salivary gland tumours (benign vs malignant) vs metastatic intra-parotid LN (incl. lymphoma, melanoma, and SCC)
+        - <u>Polycystic parotid disease</u> - sclerosing polycystic adenosis, polcystic dysgenic disease (cystic changes, fibrosis and pithelial proliferation)
+    - **Chronic multifocal salivary gland swelling:**
+        - <u>Sialodenosis due to metabolic causes</u> - non-fluctuating progressive enlargement a/w certain risk factors (e.g. alcoholism, metabolic syndrome, bulimia, malnutrition and liver disease)
+        - <u>Immune-mediated sialadenitis</u> - Sjogren's syndrome, IgG4 related disease, Kussmaul disease
+        - <u>Granulomatous sialodenitis</u> - sarcoidosis, ANCA-associated vasculitides (Wegner's, MPA)
+        - <u>HIV-related swelling</u> - most commonly from benign lymphoepithelial cysts (BLEC), but ocassionally caused by infective or neoplastic conditions
+        - <u>Synchronous salivary gland tumour</u> - certain primary salivary gland tumours are notorious for bilateral presentation
+        - <u>Infiltrative causes</u> - e.g. amyloidosis
+- **Salient points of Hx:**
+    - **HPI** - gland involved, onset, progression, quality, timing, and associated pain, foul taste in mouth:
+        - <u>Glands involved</u> - unifocal vs multifocal, symmetry
+        - <u>Onset</u> - acute vs chronic salivary gland swelling
+        - <u>Progression</u> - persistent and progressive vs intermittent Sx
+        - <u>Timing</u> - whether exacerbated with meals or salivary stimulants
+        - <u>Associated pain</u> - associated infective or inflammatory process
+        - <u>Foul taste in mouth</u> - purulent drainage fro salivary ducts
+    - **Associated Sx:**
+        - <u>Fever</u> - suggestive of infective process
+        - <u>Viral prodrome</u> (e.g. sore throat, runny nose, fatigue) - suggestive of viral sialadenitis esp. if bilateral
+        - <u>Weight loss</u> - seen only in advanced malignancy (note that extreme low body weight should raise suspicion of Bulimia)
+        - <u>Facial weakness</u> - ipsilateral facial weakness relative to a chronic unifocal swelling is extremely suspicious of malignancy
+        - <u>Sicca symptoms</u> (dry eyes and mouth) - suggestive of **Sjogren's syndrome** (primary or secondary)
+        - <u>Arthralgia or rash</u> - systemic autoimmune disease (e.g. SLE) can give rise to secondary Sjogren's sydnrome
+    - **PMH:**
+        - <u>Prior radiation treatment</u> - external beam radiation therapy to head and neck, I-131 treatment for TMG
+        - <u>Prior CT scan</u> (w/ IV contrast) - rare cause of contrast-induced sialadenitis
+        - <u>Metabolic disease</u> (e.g. cirrhosis, alcoholism, Bulimia, DM) - suggestive of Sialadenosis with metabolic cause
+        - <u>Autoimmune disease</u> - Sjogren's syndrome, SLE
+        - <u>Thyroid disease</u> - prior RAI treatment
+        - <u>Detailed new drug Hx</u> - drug-induced sialadenitis
+    - **SHx** - smoking, alcohol, occupation
+    - **Relavant FHx**
+- **P/E** - 1) Examination of the Parotid, 2) Examination of the Oral Cavity, 3) Facial nerve examination, 4) Examination of the cervical LN:
+    - **Examination of the parotid gland** - examination of a lump and bump:
+        - **Inspection and palpation**:
+            - <u>Comment on swelling</u> - 1) site, 2) number (unifocal vs multifocal), 3) size, 4) consistency (soft, firm, nodular), 5) tenderness, 6) overlying skin changes, 7) mobility (confirm lesion not arising from the skin or invaded into masseter)
+            - <u>Coment associated findings</u> - scars, overyling erythema, discharge
+        - **Palpation of the parotid duct** - from tragus to philtrum on cleanched masseter muscles to feel for stone (inspect Stensen's duct opening for discharge or inflammation)
+        - **Inspection of Stenson's duct opening** (see below)
+    - **Examination of the oral cavity:**
+        - **Examination of the palatine mucosa:**
+            - <u>Technique</u> - depress tongue with tongue depressor, and visualise from oral cavity, to uvula, to hard palate
+            - <u>Findings</u> - look for any visible masses or changes in mucosa
+        - **Examiantion of the buccal mucosa:**
+            - <u>Technique</u> - retract buccal skin laterally
+            - <u>Inspect buccogingival mucosa</u> - look for any masses or abnormal bucosa
+            - <u>Inspection of Stensen's duct</u> (2nd upper molar) - look for any inflammation, stones, discharge
+        - **Examination of the tongue:**
+            - <u>Inspection of tip of tongue</u> - note any mucosal changes, ulcers or masses
+            - <u>Inspection of dorsum of tongue</u> - note any mucosal changes, ulcers or masses
+            - <u>Inspection of edges of tongue</u> (ask patient to protrude tongue laterally) - not any mucosal changes, ulcers or masses
+            - <u>Palpation of ulcer/ mass</u> - with glove, palpate the mass to measure the size of induration
+        - **Examination of floor of mouth:**
+            - <u>Inspection of floor of mouth</u> - for any ulcers or masses
+            - <u>Bimanual palpation</u> - mass lesion from floor of mouth or submandibular gland
+    - **Facial nerve examination** - note any resting changes, and test muscle power
+    - **Examination of cervical LN** - palpation of cervical LN systematicaly
+- **Ix:**
+    - **USG** - confirm etiology of mass and assess for ductal obstruction:
+        - <u>Etiology</u> - differentiate salivary gland swelling or neck LN
+        - <u>Demonstration of obstruction</u> - e.g. visualisation of stones or proximal ductal dilatation
+    - **Plain X Ray** - some role for sialolithiasis:
+        - <u>Test properties</u> - size and location dependent (90% of parotid stones are radioluscent, 90% of submandibular stones are radio-opaque)
+    - **Contrast CT sialogram** - delineation of mass or stones
+    - **MRI** - indicated if suspected malignancy, due to superior soft tissue differentiation (although facial nerve involvement cannot be assessed)
+    - +/- **Sialoendoscopy** - if initial CT is suspicious of an obstructing cause
+    - +/- **Bx:**
+        - <u>FNA</u> - limited role as no histological information to differentiate between benign or malignant neoplasm
+        - <u>Excisional Bx</u> (preferred) - to avoid tumour spillage
+        - <u>Incisional Bx</u> - risk of tumour spillage and is hence reserved for minor salivary glands

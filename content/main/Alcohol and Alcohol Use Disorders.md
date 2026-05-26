@@ -1,0 +1,261 @@
+---
+id: DC80FD76-7B4E-4DCE-B347-03BAA8890D1C
+roam_parent: F8B309FA-0A80-485D-885E-192C56980A57
+title: Alcohol and Alcohol Use Disorders
+---
+# Alcohol and Alcohol Use Disorders
+
+- **Terminology:**
+    - **Alcoholism** - often used in everyday world and even in medical writing, but not present in classification systems as:
+        - <u>Ambiguiity</u> - the technical term can have more than one meaning, including 1) habitual consumption deemed excessive in accordance to some arbitrary criterion, 2) consumption leading to damage in a physical, mental or social sense, or 3) a disease that requires medical treatment
+        - <u>Derogatory</u> - often implies a pejorative meaning, suggesting that the behaviour that is morally bad, which then suggests that it might not be a disease
+    - **Better terminology used in the ICD-10:**
+        - <u>Excessive consumption of alcohol</u> (hazardous drinking) - refers to daily or weekly intake of alcohol that exceeds a specified amount (i.e. 2 units per day in F, and 3 units per day in M; no more than 14 units per week in M/F), where level of use is a/w significant risk of health or social problems (based on the prevailing data)
+        - <u>Alcohol misuse</u> - refers to drinking that causes mental, physical, or social harm to an individual in the absence of formal alcohol dependence
+        - <u>Alcohol dependence</u> - terminology used when the criteria of a dependence syndrome is met
+        - <u>Problem drinking</u> - applied to those in whom drinking has caused an alcohol-related disorder or disability, essentially alcohol misuse, but also includes those who are dependent on alcohol
+- **A unit of alcohol** - roughly based on the total amount (g) of alcohol, which varies based on alcohol strength and amount:
+    - 10 ml or 8g of pure alcohol, which is the amount the average adult liver processes in one hour
+    - Roughly correlates to a half pint of beer, a glass of beer, one conventional sherry or port, and one bar measure of spirits
+    - Note that it is possible that glass standards may change in the future, but the concept of the alcohol unit remains static
+
+  
+  ![](../img/alcohol_contents_in_some_beverages.png)
+- **Arbitrary definition of excessive alcohol consumption:**
+    - \< 14 units a week, and those drinking towards higher end of this range should spread it over \>= 3 days
+    - Previous recommended 3-4 units for M, and 2-3 units for F, hence current recommendations are lower
+- **Epidemiological aspects of excessive drinking and alcohol misuse:**
+    - **Consumption of alcohol in different countries at different times:**
+        - Doubling of annual alcohol consumed per adult doubled between 1960 and 2000, rising from 4L to 8L
+        - Annual consumption of alcohol per adult is generally higher in Western Europe, especially in France, and Luxembourg, and Eastern Europe
+        - Mediterranian and Muslin countries consume much less alcohol
+
+    
+    ![](../img/annual_alcohol_consumption_in_the_uk.png)
+    - **Drinking habits in different groups:**
+        - On studies based on self-report data, highest reported consumption is generally among young men who are unmarried, separated or divorce
+        - Drinking by women steadily increased over the past 15y
+        - A population study in the UK in 2013 showed that 15% had not drank alcohol in the past year, 60% drank at levels which are a/w low risk, while the rest drank at levels that may represent harmful use
+    - **Alcohol misuse:**
+        - <u>Gneral prevalence of misuse</u> - survey in the US demonstrates 1y prevalence of alcohol misuse at 3.1%, while 1y prevalence of alcohol dependence was 1.3%)
+        - <u>Hospital admission rates</u> - 1,000,000 hospital admissions in the UK annually where an alcohol-related disease is diagnosed (accounts for 6000 deaths)
+        - <u>Deaths from alcoholic cirrhosis</u> - only 10-20% of people who drank excessively develop cirrhosis (but accounts for 60% of causes of death of a patient w/ alcohol-related disease)
+    - **Population characteristics of alcohol misuse:**
+        - <u>Gender</u> - higher rates in M than in F, but M:F ratio varies by culture (higher in Asian and Hispanic cultures, but has narrowed due to changes in social attitude)
+        - <u>Age</u> - early alcohol use is the most important determinant of later use:
+            - Those w/ alcohol abuse once in life-time have a median age of onset of 14y
+            - Highest rates of hazardous drinkings in M in late teens or early twenties
+        - <u>Culture, ethnicity, and religion</u>:
+            - Certain religions which proscribe alcohol (e.g. Islam, Hindism, and Baptist Church) are at lower rates of alchol misuse
+            - Non-Caucasians generally drink less excessively and result in lower rates of alcohol-related disorder
+            - Asians drink less and thus have lower rates of alchol-related disorders possibly due to a "biologically determined lack of tolerance", e.g. variantof aldehyde dehydrogenase predisposing to flushing, nausea, and tachycardia
+        - <u>Occupations</u> - highest rates seen in:
+            - Those who have easy access to alcohol (chefs, kitchen porters, bar workers, brewery workers)
+            - Those where alcohol is engrained into the work culture (executives, salesmen, actors, entertainers, seamen, journalists)
+- **Etiology of excessive drinking and alcohol use disorders:**
+    - **Individual factors:**
+        - **Genetic factors** - genetic influence probably higher if a more restricted definition of alcohol misuse is used (e.g. dependence):
+            - Evident in family and twin studies, w/ estimated hereditability of ~ 50% (Bienvenu et al 2011)
+            - Also evident in investigations of adoptees, where risk persists after adopted away from alcohol-dependent biological parents
+            - Two biological types of alcohol dependence, type 1 and type 2 identified in adoptee studies (Cloninger et al 1988):
+                - Type 1 has a later onset, is mildly genetic, and occurs in M and F
+                - Type 2 has a early onset, is strongly genetic and dominants in M, and a/w criminality and sociopathic disorders in sons and their biological fathers
+            - Allelic association studies identify genes that affect alcohol metabolism (e.g. aldehyde dehydrogenase, dopamine receptors, GABA receptors) affects the risk of alcoholic dependence, but GWAS findings have been inconclusive
+        - **Other biological factors:**
+            - Baseline reduced executive function and abnormal P300 visual evoked potential, provides indirect evidence that alcohol-dependent individuals are less susceptible to the intoxication effects of alcohol
+            - Also, heavy drinkers tend to have lesser subjective and neural responses to alcohol which represents a vulnerability factor
+        - **Learning factors:**
+            - <u>Alcohol use in family</u> - children tend to follow parent's drinking pattern, but it is also not uncommon that abstainers have parents who are heavy drinkers
+            - <u>Reward dependence</u> - possibly dopamine mediated, where there is an overemphasis on the pleasurable effects of alcohol leading to behaviour reinforcements
+        - **Personality factors** - little progress made linking personality and alcohol misuse:
+            - Likely comorbid chronic anxiety, pervasive sense of inferiority, self-indulgent tendancies, which reflects possibly a maladaptive coping/ defense
+            - Possibly personality traits regarding risk taking and novelty seeking may apply to those w/ anti-social PD
+        - **Childhood factors:**
+            - Traumatic childhood events especially emotional abuse predisposes to alcohol misuse
+            - Other minor factors include family disruption, poverty and social isolation
+        - **Psychiatric disorders:**
+            - Strong association w/ anxiety disorders and major depressive disorders w/ alcohol misuse
+            - 55% of patients w/ alcoholic-related disorders in US have comorbid life-time psychiatric disorders (Kandel et al 2013), mainly mood disorders (40%), anxiety disorders (32%), and antisocial personality (14%)
+            - Clinically, schizophrenia a/w increased risk of alcohol misuse via a genearl increased risk of substance misuse
+    - **Alcohol consumption in society** - general aggreement that rates of alcohol dependence and alcohol-related disorders are correlated w/ the general levels of alcohol consumption in a society, mediating through:
+        - <u>Economic control</u> - price of alcohol relative to income, as well as taxing
+        - <u>Formal control</u> - licensing laws, but do not seem to influence drinking behaviours between countries consistently
+        - <u>Informal contrl</u> - customs and moral beliefs in society that determine who, when, and how much a person should drink
+- **Physical, psychological, and social impact of excessive drinking:**
+    - **Physical damage:**
+        - **Gastrointestinal disorders:**
+            - <u>Alcoholic cirrhosis</u> (only 10-20% dependent drinkers develop cirrhosis) - also a/w fatty infiltration, bouts of hepatitis, and related complications of cirrhosis such as variceal bleeding, ascites, and HE
+            - <u>Acute and chronic pancreatitis</u> - most common cause of chronic pancreatitits
+            - <u>Gastritis and peptic ulcerations</u> - can cause irritation of gastric mucosa
+        - **Nervous system disorders:**
+            - <u>Peripheral neuropathy</u> - chronic distal neuropathy
+            - <u>Cerebellar degeneration</u> - unsteadiness of stance and gait, w/ less effect on arms and movement of speech
+            - <u>Head injuries</u> - often common in dependent drinkers occuring during the intoxicated state
+            - <u>Wernicke's encephalopathy and Korsokoff syndrome</u> - chronic amnesic state and reduced GC owing to a thiamine deficiency
+            - <u>Other acute neurological manifestations</u> - optic atrophy, central pontine myelinolysis, Marchiafava-Bignami syndrome (degeneration of corpus callosum, optic tracts, and cerebral peduncles)
+        - **Cardiovascular disorders:**
+            - <u>Hypertension</u> - increased risk of stroke primarily, but lower risk of CAD in low-to-moderate drinking
+            - <u>Dilated cardiomyopathy</u> - definite increased risk of DCM
+        - **Other general medical conditions:**
+            - Anaemia
+            - Myopathy
+            - Episodic hypoglycaemia
+            - Haemochromatosis
+            - Generalised increased malignancy risk
+        - **Mortality:**
+            - Accounts for 3.2% of all deaths globally
+            - Mortality rates increased w/ misuse of alcohol, w/ at least twice the expected mortality rate than general populations
+            - To note, alcohol contribute to many more deaths from non-medical causes such as accidents
+    - **Alcohol-related psychiatric disorder** - falls into four groups:
+        - **Alcohol intoification:**
+            - **Pathophysiology** - poorly understood:
+                - Most commonly attributed to interactions w/ neuronal membranes to increase fluidity
+                - Results in release of various neurotransmitters, leading to characteristic pharmacological actions (e.g. pleasure w/ dopamine, anxiolytic effects w/ GABA activity)
+            - **Clinical features of alcohol intoxication** - symptoms correlate to blood alcohol concentration but there is marked individual variations:
+                - Aggresion
+                - Mood lability
+                - Aspiration pneumonia
+                - Respiratory depression
+                - Falls
+                - Hypothermia
+                - Memory blackouts (at first events of the night before are forgotten but consciousness perserved, but can become more prolonged w/ time)
+            - **Idiosyncratic alcohol intoxication** (pathological drunkeness or mania a potu):
+                - Refers to a change in personality or behaviour that cannot be attributed to the effects of alcohol
+                - Occuring within minutes of taking an amount that is insufficient to cause drunkenous
+                - Outbursts or aggression that is not characteristic of the personality, and generalised as marked maladaptive changes
+                - Unsure whether it is really induced by the small amounts of alcohol
+        - **Delirium tremens** - medical emergency a/w high mortality if poorly treated:
+            - **Onset and course:**
+                - Usually occurs in people whose history of alcohol misuse extends over few years
+                - Often an abrupt onset of reduced GC and delirium, characteristically occuring 48h after the last drink
+                - Delirium lasts for 3-4 days
+                - Ends w/ deep prolonged sleep from which the patient awakens asymptomatic w/ no recollection from the period of delirium
+            - **Clinical features of delirium tremens:**
+                - <u>Delirium</u> - disorganised mental activity, clouding of consciousness, impaired memory, and disorientation to time, space and person
+                - <u>Altered perceptual experiences</u> - with misinterpretation of sensory stimuli to brief visual hallucinations (e.g. grasp for imaginary objects)
+                - <u>Agitation</u> - severe agitation, w/ restlessness, shouting and evident fear (cf GABA effects of alcohol)
+                - <u>Ataxia and tremulousness</u> - hands are grously tremulous w/ truncal ataxia
+                - <u>Autonomic disturbances</u> - fever, tachycardia, raised BP, sweating, dilatation of pupils
+                - <u>Othe laboratory features</u> - dehydration, electrolyte disturbances, leukocytosis, impaired LFT
+            - **Mx** - benzodiazepine to stave off withdrawal
+        - **Wernicke's encephalopathy and Korsakoff syndrome** (alcohol-related brain damage) - spectrum of cognitive impairments:
+        - **Associated psychiatric disorders:**
+            - <u>Personality deterioration</u> - increasing pre-ocupation w/ need to obtain alcohol results in deterioration of interpersonal skills and attention to personal interests and responsibilities
+            - <u>Mood and anxiety disorders</u> - association is complex and seems to be bidirectional; howewver to note statistically an individual w/ alcohol misuse is a/w 4x risk of subsequent MDE even w/ abstinence
+            - <u>Suicidal behaviour</u> - a/w risk factors such as impulsivity, hopelessness, and negative affect
+            - <u>Morbid jealousy</u> - strong connection between alcohol consumption and an overvalued idea or delusion of infidelity
+            - <u>Alcoholic hallucinosis</u> (subsumed under substance-induced psychotic disorders) - auditory hallucinations usually of voices uttering insults or threats, which is not due to alcohol withdrawal, etiologically likely organic an unrelated to schizophrenia and hence a/w better prognosis
+    - **Social damage:**
+        - **Family problems:**
+            - Marital and family tensions is virtually inevitable
+            - Divorce rate is high, and partners are also at increased rates of anxiety, depression, and social isolation
+            - Frequent quarrels, and violence to family members including children
+            - Children of heavy drinkers are at risk of developing emotional or behavioural disorders
+        - **Work difficulties:**
+            - Usually progresses insiduously
+            - Progression from declining efficiency, lower-grade jobs, repeated dismissals, to lasting unemployment
+        - **Road traffic accidents:**
+            - Definite association between alcohol consuption and RTA
+            - Strength of association varies depending on countries, likely due to legal differences
+        - **Crime:**
+            - Petty offences such as larceny is most common
+            - More serious crimes include fraud, sexual offences, violence (including murder)
+            - Possible relationship between alcohol misuse and antisocial PD confounding the relationship between alcohol and crime
+- **Under-recognition and under-treatment of alcohol misuse:**
+    - When special efforts to screen for alcohol misuse, screening rates around 10-30% in specialised medical or surgical wards, highest rate appears to be in the A&E
+    - Estimated that only 6% of people w/ alcohol dependence receive treatment
+    - Problem is likely multifactorial, including reduced health-seeking behaviours from patient's ends, and limited availability of specialist alcohol services and lack of suspicion in the healthcare sector
+- **Overview of alcohol dependence:**
+    - When meet the ICD-10 criteria of dependence 
+    ![](../img/harmful_use_and_dependence_in_icd_10.png)
+    - Withdrawal phenomena is not necessary for the diagnosis of dependence, in fact a substantial minority of patients do not experience withdraawal when alcohol intake decreases or stops
+- **Course of alcohol misuse and dependence** (Valliant 2003) - in a 60y follow up of 194 M who had exhibited misuse of alcohol at some point of life:
+    - By age of 70y, \> 50% had died, and about 20% were abstinent, while 10% are drinking in a controlled way, and 10% continued to misuse alcohol
+    - In alcohol-dependent men periods of controlled drinking were invariably followed by a return to a pattern of alcohol dependence
+    - Attendance to Alcoholics Anonymous was the best predictor of good outcome
+    - Overall outcomes are variable but prognosis remains poor, only complete abstinence reliably demonstrated to predict better outcomes
+- **Indications for initiating assessment of alcohol use:**
+    - **General 'at-risk associations** - clinical scenarios where screening for alcohol use is appropriate:
+        - Issues in relationship and family
+        - Issues at work
+        - Issues with finance
+        - Issues with the law
+        - Repeated absentee on Mondays
+        - High risk occupations
+    - **Medical at risk associations** - variable disorders that are a/w increased alcohol use:
+        - GI disorders such as gastritis, peptic lcers and liver diseases
+        - Neurological disorders such as peripheral neuropathy, seizures
+        - Repeated accidents, including road traffic accidents, head injury, unexplained rhabdomyolysis should arouse suspcion
+    - **Psychiatric at-risk associations:**
+        - Anxiety disorders
+        - Mood disorders
+        - Impaired concentration
+        - Memory lapses
+        - Sexual dysfunction
+        - Self-harm
+- **Screening questionnaires:**
+    - Brief screening questionnaires (e.g. CAGE questionaires) are useful (high Sn, but moderate Sp) because they ask the right questions:
+        - 1\. Have you ever felt you ought to cut down on your drinking?
+        - 2\. Have people annoyed you by criticizing your drinking?
+        - 3\. Have you ever felt guilty about your drinking?
+        - 4\. Have you ever had a drink first thing in the morning (an 'Eye-opener') to steady your nerves or get rid of a hangover
+    - AUDIT is a 10-item structured interview developed by the WHO for screening for both currently harmful and potentially hazardous drinking, which shows superior Sn and Sp, and can detect mild dependence
+
+  
+  ![](../img/audit_questionnaire_who.png)
+- **Drinking Hx** - be sensitive w/ an understanding that patients may have difficult in giving a clear Hx: 
+![](../img/comprehensive_drinking_hx_oxford.png)
+    - <u>Description of a typical day's drinking</u>:
+        - Time of first drink (Early-morning drinking is extremely Sp for dependence)
+        - When and where does drinking typically occur
+        - What is the usual choice of liquor
+    - <u>Characterise duration of alcohol problems</u> - other than age of first drink, other questions include:
+        - 1\. When daily drinking starts
+        - 2\. When early morning drinking begins
+        - 3\. How they feel on waking if they go a day or two without drinking/ Any withdrawal symptoms
+    - <u>Characterise periods of abstinence</u> - this leads on to enquiries about past attempts of treatment:
+        - Characterise durations fo abstinence
+        - Ask about factors that helped to maintain this state of affairs
+        - Reason for relapse
+    - <u>Previous treatments and current motivation for treatments</u>:
+        - Ask in detail about previous attempts of treatment
+        - Ask whether motivated to cut back
+    - <u>Characterise patient's own view of their treatment behaviour</u>:
+        - Guides treatment goals
+        - Patient's attitude to their problems decides which approaches are likely more beneficial
+- **Ix** - most suggest alcoholism but are usually unequivocal: 
+![](../img/laboratory_tests_for_alcohol_dependence.png)
+- **DSM-5 criteria of alcohol use disorder:** 
+![](../img/dsm_5_alcohol_use_disorder.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Modalities of Tx</u> - non-pharmacological Mx (e.g. interventions, motivational interviewing, alcohol-focused specialist Tx), and pharmacological Mx
+        - <u>Approach to selection of Tx</u> - dependent on:
+            - Current state (e.g. intoxication and withdrawal)
+            - Severity of alcohol misuse
+            - Rapport
+            - Patient's perference
+    - **Immediate Mx:**
+        - Mx of alcohol-related physical issues
+        - Mx of alcohol intoxication and alcohol withdrawal
+    - **Early recognition and intervention for suspected alcohol misuse:**
+        - **Brief intervention** - most effective if GPs as know patient and family members personally:
+            - Best initial approach for person whose consumption exceeds the safe limit, but not effective for those w/ severe hazardous drinking esp. those who are alcohol dependent
+            - Effective to deliver advice in a <u>frank</u>, <u>matter-of-fact</u> way, but w/ tact and understanding
+            - Simple education and advices about <u>safe level of alcohol consumption</u>, with goals of safe drinking rather than abstinence in these groups
+        - **Motivational interviewing** (Treasure 2004):
+            - For those unsure whether or not to engage in treatment programs, where one must be tactful to avoid losing the patient to attrition
+            - <u>Confrontation avoided</u>, and use of a <u>less directive approach</u>, mainly aimed at guided benefit-risk assessment, and the positive and negative impact of alcohol on their lives
+            - Clinical provides feedback for patients self exploration about the personal risks and impact to loved ones, i.e. patient argues for their own case of changing their pattern of substance use
+
+      
+      ![](../img/motivational_interviewing.png)
+    - **High-intensity psychological Tx for established alcohol use disorders:** 
+    ![](../img/high_intensity_psychological_treatment_for_established_alcohol_misuse.png)
+    - **Pharmacological Mx of established alcohol use disorders:**
+        - Disulfiram
+        - Acamprosate
+        - Maltrexone
+        - Nalmefene
+        - Topiromate
+        - Antidepressants

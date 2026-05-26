@@ -1,0 +1,89 @@
+---
+id: 48cf0d16-ec9a-4d39-b0cc-868faee13c3b
+title: Approach to Management of Diabetes
+---
+
+# Approach to Management of Diabetes
+
+- **Principles of Mx:**
+    - **Goals of Mx:**
+    - <u>Symptomatic relief</u> - free of Sx of hyperglycaemia and able to lead completely normal lives
+    - <u>Prognostic Tx</u> - reduce cardiovascular mortality through <u>glycaemic control</u> and Tx of other risk factors, and escape long-term complications of DM
+    - **Modalities of Mx:**
+    - <u>Lifestyle modifications</u> (adequate control for 50%) - diet, weight management, exercise, alcohol, smoking cessation
+    - <u>Oral hypoglycaemic agents</u> (adequate control for 20-30%) - sulphonylurea and meglitinides, metformin, incretin-based therapies, GLP-1 receptor agonists, SGLT2i
+    - <u>Insulin replacement therapy</u> (adequate control for 20-30%) - if evident insulin deficiency (e.g. marked weight loss)
+    - <u>Pancreas transplantation</u> - limited utility
+    - **Escalation of Tx** - dependent on adequacy of residual beta-cell dysfunction but is not measurable, depends on:
+    - Type of DM - T1DM requires insulin therapy, while T2DM may require both insulin and OHA
+    - Age of patient - early onset suggestive of
+    - Weight of patient at diagnosis - pancreatic beta-cell failure and onset of insulin deficiency if marked weight loss
+    - **Frequent re-assessment and follow-up** - regimen effectively a therapeutic trial and should be reviewed regularly based on glycaemic control and risk of hypoglycaemia
+- **General measures:**
+    - **Diet modification** - requires access to <u>dietitian</u> at Dx, review and Tx changes:
+    - **Aims of diet modification:**
+      - <u>Good glycaemic control</u> - important in preventing microvascular and macrovascular complications
+      - <u>Preventing fluctuations in blood glucose</u> - reduce hyperglycaemic Sx and avoid hypoglycaemia
+      - <u>Aid weight Mx</u> - caloric restriction and reduction of fat intake aid weight maintenance for T1DM and non-obese T2DM, and weight loss for obese T2DM
+      - <u>Adequate nutritional intake</u> - ensure adequate nutritional intake despite restricted diet
+      - <u>Avoid atherogenic diet</u> - dietary modifications to reduce risk of ASCVD and subsequently reduce MACE
+      - <u>Diet specific to comorbidities</u> - e.g. low protein diet for nephropathy
+    - **Dietary constituents and recommended % of energy intake:**
+      - 
+      ![](../img/dietary_mx_of_dm.png)
+    - **Carbohydrates** - amount and source influence post-prandial glucose (?affects beta-cell glucotoxicity) and glycaemic control:
+      - **Source of carbohydrates** - preferably low glycaemic index (produce a small gradual rise in glucose post-prandially):
+        - Basmati rice
+        - Spaghetti
+        - Porridge
+        - Noodles
+        - Granary bread
+        - Beans and lentils
+        - Other starchy food
+      - **Amounts of carbohydrates** - greater influence on <u>weight reduction</u> and <u>glycaemic control</u>:
+        - Evidence shows short-term (6mo) low carbohydrate diet (50g/d at -13% caloric deficit) demonstrated weight reduction and improved diet control
+        - Extremely restrictive and not applicable as demonstrated by high dropout rates and poor adherance
+      - **Fats** - \< 35% of energy intake influence weight Mx and cardiovascular risk
+      - **Salt** - \< 6g/d (same as general population)
+    - **Weight management:**
+    - <u>Rationale for weight Mx</u>:
+      - Central obesity (waist circumference) predicts insulin resistance and hence progression of DM
+      - Obesity is an independent risk factor for atherosclerosis and cardiovascular risk
+      - Many oral hypoglycaemics and insulin encourage weight gain
+    - <u>Mx of obesity</u> - see detailed notes on obesity:
+      - Diet (caloric restriction)
+      - Physical activity (increased energy expenditure)
+      - Pharmacotherapy
+      - Bariatric surgery
+    - **Exercise** - encourage exercise in T2DM, but caution in T1DM as a/w hypoglycaemia:
+    - <u>Rationale</u>:
+      - Increased insulin sensitivity
+      - Weight loss
+      - Reduced cardiovascular risk
+    - <u>Recommendations</u> - per WHO guidelines:
+      - 2.5h of moderate intensity exercise - 30 min for 5d a week
+      - 75 min of vigorous-intensity exercise
+    - **Alcohol** - in moderation (but increased risk of hypoglycaemia due to reduced hypoglycaemia awareness and suppressing gluconeogenesis)
+- **Considerations in the selection of oral antidiabetic drugs** (OAD) in the Mx of T2DM:
+    - Glycaemic goals
+    - Weight goals (achievement of weight goals a/w multifaceted benefits including reduction of A1c, reduction of hepatic steatosis, and improvement of cardiovascular dissease)
+    - Risk for hypoglycaemia
+    - History or risk factors for cardiovascular, kidney, liver, and other comorbidties and complications of diabetes
+    - Tolerability and side effects of medications
+    - Complexity of the medication plan (relative to individual's capacity to implement in the specific situation and context)
+    - Access to, cost of, and availability of medications
+- **Timing of pharmacotherapy:**
+    - At the time of type 2 diabetes mellitus, without delay
+    - Medication plans should have adequate efficacy to achieve an dmaintain individualised treatment goals with respect to glucose lowering, reduction of cardiovascular, and kidney disease risks, weight management, and effects on other health conditions and treatment burden
+- **Approach to choice of OAD in the Mx of T2DM:**
+    - 
+    ![](../img/use_of_oad_in_mx_of_t2dm.png)
+    - In those w/ evidence of ASCVD, high risk of ASCVD, HF, or CKD, the goal is for cardiovascular and kidney risk reduction, and Tx plan should include agents that reduce cardiovascular and kidney disease risk
+    - Additional considerations regarding the mitigation of metabolic dysfunction-associated steatotic liver disease (MASLD) to guide selection of initial therapy
+    - In those w/o additional considerations informing choice of therapy, initiation or intensification of pharmacological therapy usually involves metformin due to its safety and efficacy compared to sulphonyurea and DPP-4 inhibitors
+- **Approach to insulin therapy** - main role is for achieving glycaemic control (and thuse CVOTs, although absence of effect independent of A1c):
+    - 
+    ![](../img/approach_to_insulin_therapy_in_management_of_t2dm.png)
+    - <u>Basal insulin</u> - often initial regimen w/ added to non-insuling glucose-lowering medications, titrated upwards from 0.1-0.2 units/kg/d (however note phenomenon of over-basalisation)
+    - <u>Basal plus regimen or bidaily pre-mixed insulin</u> - indicated if A1c remains high despite acceptable fasting blood glucose level, evidence of significant post-prandial hyperglycaemia, or signs of hyperbasalisation
+    - <u>Basal-bolus insulin</u> - as intensive insulin therapy, requires significant pattern management

@@ -1,0 +1,43 @@
+---
+id: d0c1ffca-6977-4f65-8f41-c89425828ad5
+title: Spontaneous Bacterial Peritonitis
+---
+
+# Spontaneous Bacterial Peritonitis
+
+- **Definition** - spontaneous onset of peritonitis due to translocation of enteric organisms into ascitic fluid
+- **Pathophysiology of SBP:** 
+![](../img/pathogenesis_of_sbp.png)
+- **Clinical features of SBP** - clinical suspicion raised in a <u>cirrhotic patient</u> presenting with 1) Ascites, 2) Fever, and 3) Hepatic Encephalopathy:
+    - <u>Abdominal pain</u> - theoretically acute onset of sharp, diffuse abdominal pain reflecting peritonitis, but often unable to elicit from Hx perhaps due to encephalopathy
+    - <u>Fever</u> - reflects an underlying infective process
+    - <u>Hepatic encephalopathy</u> - precipitated by underlying sepsis and dehydration and often becomes the **predominant clinical feature**
+- **Signs of SBP:**
+    - **Assessment of general consciousness** - reduced GC on GCS/ AVPU with evidence of delirium
+    - **General examination:**
+        - <u>Temperature</u> - febrile
+        - <u>Vitals</u> - septic w/ or w/o shock
+    - **Abdominal examination** - markly distended abdomen, but abdominal signs are mild or absent in 1-3 of patients:
+        - Rebound tenderness
+        - Guarding and rigidity
+        - Absent bowel sounds
+- **Dx** - diagnostic paracentesis:
+    - Cloudy fluid
+    - Ascitic neutrophil count \>= 250 x 10<sup>6</sup> / L is diagnostic of SBP
+    - Culture (Often -ve; E. coli is most commonly isolated, but multimicrobial culture should raise suspicion of perforated viscus)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>General measures</u> - IV albumin to prevent AKI
+        - <u>Empirical IV broad-spectrum ABx</u> - initiated immediately upon suspicion
+        - <u>Monitoring and reassessment</u> - reassess Tx response by repeat diagnostic paracentesis for decreasing PMN count
+        - <u>Recurrence prevention</u> - ABx to prevent recurrence
+    - **Empirical broad spectrum ABx:**
+        - <u>Selection</u>:
+            - IV 3rd generation cephalosporin (e.g. ceftriaxone, cefotaxime)
+            - IV carbepenam
+    - **ABx prophylaxis for recurrence** - fluoroquinolones:
+        - Levofloxacin
+        - Cibrofloxacin
+
+    
+    ![](../img/evidence_for_abx_prophylaxis_for_sbp.png)

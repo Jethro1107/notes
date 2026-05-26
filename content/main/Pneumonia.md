@@ -1,0 +1,21 @@
+---
+id: e8050034-9796-4d5f-bc03-aabcae9e43f0
+title: Pneumonia
+---
+
+# Pneumonia
+
+- **Definition** - Inflammation of lung parenchyma, commonly due to infective agents (bacteria, viruses, or fungi), a syndrome with compatible clinical, radiological, microbiological and pathological picture.
+    - **Clinical diagnosis** - Compatible respiratory and systemic S/S
+    - **Radiological diagnosis** - Consolidation on CXR (Bronchopneumonia) or patchy shadowing (Lobar pneumoniae)
+- **Epidemiology:**
+    - Mortality - 2nd leading cause of death (17% of deaths in 2022)
+    - Burden - 2.34% of total admission in 2021
+- **Classification of pneumonia:**
+    - Anatomical - Lobar, multi-lobar, bronchopneumonia (along bronchopulmonary segments)
+    - Aetiological - bacterial, viral, fungal, TB
+    - Clinical - determines the most likely etiological agents:
+    - Community-acquired pneumonia (CAP)
+    - Hospital-acquired pneumonia (HAP)
+    - Ventilator-associated pneumonia (VAP)
+    - Aspiration pneumonia

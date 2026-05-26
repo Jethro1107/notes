@@ -1,0 +1,106 @@
+---
+id: b7ec4c2f-6855-4b8e-8a0f-4d85ed1ec20e
+title: Aortic Stenosis
+---
+
+# Aortic Stenois
+
+- **Definition** - narrowing of the aortic oriface resulting in left venticular outflow tract (LVOT) obstruction
+- **Etiology of aortic stenosis** - most commonly caused by 1) Congenital abnormal aortic valves, 2) Senile calcific aortic stenosis, and 3) rheumatic heart disease:
+    - <u>Congenital aortic valve disease</u> - e.g. bicuspid/ unicuspid aortic valve, subvalvular or supravalvular disease
+    - <u>Rheumatic heart disease</u> - aortic stenosis due to narrowing of aortic oriface by fusion of mommisures between lefelets, often with accompanying mitral valve disease
+    - <u>Senile degenerative aortic stenosis</u> - progressive atherosclerotic changes, fibrosis and calcification over the aortic valve in older patients
+    - <u>Rarer causes</u>:
+        - Metabolic diseases - e.g. Fabry's disease, alkaptonuria
+        - Autoimmune disease - e.g. SLE
+        - <u>Accelerated senile aortic stenosis in disorders of calcium metabolism</u> - ESRD, Paget's disease of bone
+- **Epidemiology** - relative frequency of cause of AS varies with age and geographical distribution:
+    - <u>Incidence</u> - variable by age (~10% in 80-89y)
+    - <u>Geographical variation</u>:
+        - **Endemic regions** (e.g. Asia, Southern america, Africa) - rheumatic valve disease is leading cause <u>irrespective of age</u>
+        - **Developed regions** (e.g. Western World) - senile degenerative aortic stenosis, and congenital causes are leading causes <u>depending on age</u>
+    - <u>Demographic</u>:
+        - **Age** - incidence increases w/ age, with a change in leading cause:
+            - <u>Infants, children or adolescents</u> - congenital AS, congenital subvalvular or supravalvular disease
+            - <u>Young adults to middle age</u> - calcification of congenitally bicuspid aortic valve, rheumatic heart disease
+            - <u>Elderly</u> - senile degenerative aortic stenosis, calcification of congenitally bicuspid valve, rheumatic heart disease
+- **Pathophysiology, progression and natural Hx of aortic stenosis:**
+    - **Progression of haemodynamics** - haemodynamic progression in asymptomatic patients in a slow manner, until haemodynamically:
+        - <u>Progressively decrease in oriface area</u> - cross-sectional area of aortic valve (i.e. LVOT) is approximately 3-4 cm2 in adults, and progressively decreases as part of disease process
+        - <u>Change in anterograde velocity jets</u> - anterograde velocity jets remain normal until **oriface area is decreased by half** (\< 2 cm2), where an increase in anterograde velocity jet (i.e. increased pressure gradient across valve) reveals a **hypertrophic LV to overcome the LVOT**
+        - <u>LV compensation and decompensation and haemodynamic significance</u> - LV fails to overcome the LVOT obstruction and pulmonary oedema supervenes:
+            - **Initial LV compensation** - hypertrophied LV maintains ejection fraction by generating more pressure, and thus maintaining LVEDV and LVEDP (no haemodynamic comprimise)
+            - **LV decompensation** - LV becomes less compliant (diastolic dysfunction) and LVEDP gradually increases (haemodynamically significant)
+    - **Progression of Sx** - onset of Sx occurs only when the LVOT obstruction is haemodynamically significant, when:
+        - <u>Oriface area</u> - \< 1 cm2
+        - <u>Jet velocity</u> - \> 4m/s
+        - <u>Transvalvular pressure gradient</u> - \> 40 mmHg
+    - **Risk factors of progression:**
+        - <u>Patient factors</u> - older age, male sex
+        - <u>Anatomical factors</u> - congenital unicuspid or bicuspid valves degenerate faster than normal tricuspid valves
+        - <u>Disease factor</u> - 1) Haemodynamics (oriface area, and jet velocity), 2) degree of calcification, 3) cause of AS
+        - <u>General atherosclerotic risk factors</u> - HTN, DM, hypercholesterolaemia, metabolic syndrome, smoking
+        - <u>Other medical conditions</u> - e.g. hypercalcaemia, CKD
+    - **Natural Hx of aortic stenosis** - remains asymptomatic for many years, but prognosis is grave once symptomatic: 
+    ![](img/natural_hx_of_aortic_stenosis.png)
+- **Clinical features of AS** - classical triad of Exertional Dyspnoea, Exertional angina, and exertional syncope or presyncope:
+    - **Exertional dyspnoea and reduced exercise tolerance** - <u>heart failure</u> due to 1) diastolic dysfunction and increased LVEDP during exercise, 2) inability to increase CO during exercise due to LVOT, 3) AF precipitating dyspnoea
+    - **Exertional syncope** - due to inability of LV to elevate cardiac output (fixed) to compensate for exercise-induced vasodilation causing <u>hypotension</u>, and slow rising pulse
+    - **Exertional angina** - due to hypertrophic LV increasing myocardial demand, and inability to meet coronary blood flow (N.B. 50% of patients also have underlying CAD)
+- **Signs of AS:**
+    - <u>Arterial system</u> - slow-rising, small volume pulse (pulsus parvus et tardus)
+    - <u>Palpation</u>:
+        - Apex - displaced, heaving apex
+        - Thrills - systolic thrills over aortic area
+    - <u>Auscultation</u>:
+        - S2 - single heart sound over pulmonary area due to absent or soft A2 (due to calcification)
+        - S4 - may be heard due to contraction of atrium into non-compliant ventricles
+        - Murmur - harsh (saw cutting wood) ejection systolic murmur best over aortic area, and radiates to bilateral neck
+- **Ix:**
+    - **ECG** - LV hypertrophy and LV strain pattern (+/- AF)
+    - **CXR** - may be normal, but may show LV enlargement and dilated ascending aorta on PA view (often obtained to exclude other causes of SOB)
+    - **Diagnostic echocardiography** (TTE) - diagnosis and evaluation of severity:
+        - <u>Findings on echo</u>:
+            - Restricted opening of calcified valves
+            - Hypertrophied LV
+        - <u>Findings on Doppler</u>:
+            - Measurement of arterial jet
+            - Estimatimation of transvalvular gradient
+            - Measurement of oriface area
+            - Detection of concomitent AR
+    - +/- **Cardiac catheterisation** - indicated if suspected CAD, and measurement of transvalvular gradient across LV and aorta
+- **Stages and severity of AS:** 
+![](img/stages_of_as.png)
+- **Mx:**
+    - **Goals of Mx** - monitoring of disease (risk stratification and symptoms) as indication for valvular surgery, prevent progression, and treat cardiovascular comorbidities:
+    - **Principles of Mx:**
+        - <u>Serial evaluation and disease monitoring</u> - serial echo for disease progression and detection of symptomatic disease
+        - <u>Preventive therapy</u> - lipid lowering therapy on theoretical basis (no evidence, but prescribed because concurrent need for primary or secondary prevention of ASCVD)
+        - <u>Physical activity</u> - does not recommend strenous exercise even for asymptomatic AS in athletes
+        - <u>Treatment of cardiovascular comorbidities</u> - e.g. HTN, DM, CAD, AF etc.
+        - <u>Valve replacement surgery</u> - indicated for selected asymptomatic severe AS or symptomatic AS
+    - **Serial evaluation** - serial echocardiography to measure haemodynamic severity and monitoring of disease progression (e.g. Sx):
+        - <u>Stage B disease</u> - haemodynamically mild AS (q3-5y), haemodynamically moderate MS (q1-2y)
+        - <u>Stage C disease</u> - repeat q6-12mo
+    - **Lipid lower therapy:**
+        - <u>Evidence</u> - lipid-lowering has no demonstrable effects on progression of stenosis and clinical outcomes (despite strong association)
+        - <u>Clinical implications</u>:
+            - Statins not indicated for mild-to-moderate AS for prevention of disease progression
+            - Statins often perscribed for other aims (e.g. primary or secondary prevention of ASCVD)
+    - **Physical activity and exercise** - generally avoid strenous physical activity
+    - **Mx of cardiovascular risk factors** - HTN, DM, smoking cessation, exercise as per protocol
+    - **Mx of concomittent symptomatic coronary artery disease** - Angina may not be due to AS but concomittent CAD:
+        - **Evaluation:**
+            - <u>Diagnostic echocardiography</u> - to determine haemodynamic severity (angina may be attributed to AS if severe)
+            - <u>Diagnostic evaluation of CAD</u> - exercise stress test contraindicated in AS (risk of syncope), CCTA or direct cardiac catheterisation preferred
+        - **Mx:**
+            - <u>Mild-to-moderate AS and documented CAD</u> - treat by medical therapy +/- revascularisation
+            - <u>Severe AS in absence of significant CAD</u> - undergo AVR
+            - <u>Severe AS and severe CAD</u> - treat both conditions (PCI and stenting may be considered if patient is high risk for surgery)
+    - **Mx of heart failure:**
+        - <u>Severe AS</u> - surgery indicated
+        - <u>Mild-to-moderate AS</u> (presence of other cardiac disease) - offer BMT
+    - **Valvular replacement surgery:**
+        - <u>Indications</u> - indicated for severe AS, who:
+            - Are asymptomatic but exhibit LV systolic dysfunction (LVEF \< 50%)
+            - Are symptomatic (even if concomittent cardiac disease)

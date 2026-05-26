@@ -1,0 +1,229 @@
+---
+id: 5630e4ec-246a-49ed-bc6a-a3986d29af63
+title: 2025-04-04
+---
+
+# GC 214 Common ear diseaase and hearing loss
+
+- **Hearing loss** - classified into conductive, sensori-neural, and mixed: (based on relations to medial wall of middle ear)
+    - Conductive - eardrum, ossicles
+    - Sensorineural - cochlea, auditory nerve, brainstem
+    - Mixed
+- Etiology of CHL:
+    - External ear canal - congenital meatal stenosis
+    - Middle ear - perforated eardrum, ossicular chain pathology (e.g. infectious, post-operative, otosclerosis, tumour), OME (think NPC in HK)
+- Etiology of SNHL:
+    - Children - congenital/ neonatal (e.g. severe neonatal jaundice)
+    - Adult:
+        - CNS infection - meningitis
+        - Trauma - Head trauma (esp. temporal bone)
+        - Noise-induced deafness
+        - Inner ear dysplasia
+        - Ototoxic drugs
+        - Chronic ear infection - otitis media with inner ear involvement (labyrinthitis)
+        - Cochlear otosclerosis
+        - Radiotherapy
+- Ix:
+    - Pure tone audiogram (PTA):
+        - Measures air conduction and bone conduction
+        - X-axis frequency (i.e. tone), Y-axis DB (i.e. threshold, minimum threshold for sound to be heard)
+        - Air bone gap - air normally \> bone by \< 10 DB:
+            - Anormal AB gap (\> 10 DB) - conductive hearing loss
+        - Severity - based on threshold:
+            - Normal \< 20 DB
+            - Mild - 20-40 DB
+            - Moderate - 40-70 DB
+            - Severe - 70-90 DB
+            - Profund - \> 90DB
+- Social consequences of deafness:
+    - In-born - deaf and dumb (can't speak if deaf from onset), affects education
+    - Adults - social function, occupation, socio-economic status, safety in daily activities
+
+## Common ear disease
+
+### External ear
+
+1.  Pinna
+
+    - **Preauricular sinus** - often asymptomatic, ocassionally discharge and abscess requiring drainage:
+      - Developmental defect - failure of fusion helox? resulting in sinus in pinae
+    - **Accessory auricle** - often asymptomatic
+    - **Bat ear** - protruding ear, no functional deficit
+    - **Microtia** - underdevelopment of the pinnae +/- meatal atresia
+    - **Pinna keloid** - acquired from poor scarring from ear trauma (e.g. piercing), esp. if cartilagenous involvement
+    - **Perichondritis** - inflammation of perichondrium in cartilage –\> death of underlying cartilage –\> deformity
+    - **Ramsey Hunt Syndrome** - Zoster reactivation along 7th nerve:
+      - Clinical features:
+        - Cutaneous - ear vesicles, conductive hearing loss
+        - Neurological - LMN 7th nerve palsy
+    - **Haematoma auris** - cauliflower ear, haematoma formation below cartilage
+
+2.  EAC
+
+    - **Impacted ear wax**
+    - **FB in external ear canal**
+    - **Otitis externa:**
+      - Types:
+        - Diffuse - skin infection of external ear canal
+        - Furunculosis (localised)
+      - Otoscopic findings, - erythema of EAC, sparing of eardrum
+      - Sx:
+        - Pain, Discharge, no hearing loss
+      - Organisms - e.g. S. aureus, fungal (otomycosis, aspergilosis, and candidiasis, risk factor of overuse of ABx ear drops)
+      - Predisposing factors:
+        - Narrow ear cannals
+        - Skin disease - eczema
+        - DM
+        - Humidity (Singapore Ear)
+        - Impacted ear wax
+        - FB
+        - Swimmer/ shower
+        - Scratching –\> abrasions
+      - Mx:
+        - Local clensing - e.g. remove wax and FB
+        - Kept away from moisture
+        - Local ABx ear drops (against. S aureus) - e.g. neomycin
+        - Treat predisposing factors - e.g. small meatus, osteoma
+
+### Middle ear
+
+- Tympanosclerosis - traumatic injury to eardrum spontaneously healed, no CHL
+- Acute otitis media (AOM):
+    - Pathophysiology - ascending infection from NP:
+        - Predisposing factor - children due to horizontal lying eustachian tube
+        - Organisms - initially viral, subsequently bacterial (S. pneumoniae, H. influenzae, M. catarrhalis)
+    - S/S:
+        - Pain
+        - Conductive HL
+        - Constitutional Sx
+            - Otorrhoea - should not be present unless ear drum perforation
+    - Mx:
+        - Oral ABx - e.g. amoxycillin, erythromycin, co-trimoxazole, cefuroxime (7-10d)
+        - Supporitive Tx
+        - Drainage myringotomy if resistant
+- Chronic suppurative otitis media (CSOM) - arbitrarily defined as \> 3mo:
+    - Definition - persistent, non-healing eardrug perforation (reccurent otorrhoea, hearing loss, condutive or mixed)
+    - Causes of perforation in CSOM:
+        - Infection - poorly controlled acute otitis media
+        - Trauma - direct mechanical, barotrauma, blast injury
+- Types of CSOM - different risk of complications:
+    - Central perforation (tubotympanic) - safe
+    - Marginal perforation (atticoantral) - unsafe
+- Active vs passive CSOM:
+    - Active - otorrhoea, caused by S. aureus, pseudomonas aeruginosa, E. coli, Bacteriodes
+    - Passive - dry ear
+- Clinical approach:
+    - Otoscopic diagnosis - is there perforation? Type of perforation?
+    - Active vs inactive - ear swab
+    - Audiological assessment - perform PTA
+    - Mx - local clensing, broad spectrum ABx eardrops
+- Definitive Mx of safe CSOM:
+    - Hearing improvement - tympanoplasty/ hearing aid
+    - Prevent otorrhoea (prevent recurrent infection and effect on inner ear function) - tympanoplasty
+    - Activity/ water sports - tympanoplasty
+- Unsafe CSOM - presence of cholesteatoms (Keratinizing squams in middle ear, i.e. skin in middle ear):
+    - Complications:
+        - Intracranial:
+            - Absecess - extradural/ subdural
+            - Sigmoid sinus thrombophlebitis
+            - Meningitis
+            - Brain abscess - temporal lobe, cerebellum
+            - Otitic hydrocephalus
+        - Extracranial - think relations w/ middle ear anatomy:
+            - Facial nerve paralysis
+            - Ossicular chain erosiion
+            - Lateral SCC fistula
+            - Labyrinthitis
+            - Subcutaneous/ subperiosteal abscess
+        - Mx:
+            - Same as safe
+            - Assess complications
+            - Definitive Tx - mastoidectomy (as cholesteatoma involvement in mastoid)
+- OME:
+    - Etiology:
+        - Mechanical obstruction - e.g. enlarge edenoids, tumours (e.g. NPC)
+        - Pooor mucocilliary clearance in ET tube - e.g. rhinitis, post-irradiation
+        - ET tube dysfunction - e.g. cleft palate, post op
+
+### Inner ear
+
+- temporal bone fracture + ear injury:
+    - Facial nerve function - immediate or delayed palsy
+    - Hearing loss - conductive (middle ear affected). sensorineural
+- Acoustic neuroma - asymetrical sensorineural hearing loss of gradual onset
+
+# Otitis Media - Literature Search on UpToDate
+
+## Acute otitis media
+
+- **Definition** - acute, infectious process in the middle ear characterised by infected middle ear fluid and inflammation
+- **Epidemiology** - disease of the young
+- **Microbiology of acute otitis media** - initially viral, but becomes bacterial:
+    - Miscellaneous viral infections - URTI causing eustachian tube infections
+    - Bacterial infections - 1) Streptococcus pneumoniae, 2) Haemophilus influenzae, 3) Moraxella catarrhalis
+- **Patient risk factors:**
+    - <u>Eustachian tube dysfunction</u> - dysfunction of the eustachian tube in equalising pressure in middle ear (e.g. cleft palate, post-irradiation fibrosis)
+    - <u>Eustachian tube obstruction</u> - external compression or obstruction of the eustachian tube, e.g. tonsilitis, malignancy (e.g. NPC, lymphoma)
+- **Clinical features of AOM** - typically unilateral with prior URTI or exacerbation of rhinitis preceeding onset:
+    - <u>Otalgia</u> - ear pain which may be mild, moderate or severe
+    - <u>Hearing loss</u> - transient conductive hearing loss due to presence of middle lear fluid, resulting in decreased, muffled hearing
+    - <u>Otorrhoea</u> - occurs in setting of perforated eardrums, which is purulent, and a/w a sudden relief of pain
+    - <u>Constitutional Sx</u>
+- **Signs on otoscopy** - diagnostic:
+    - <u>Buldging tympanic membrane</u>
+    - <u>Partial or complete opacification of tympanic membrane</u> (loss of translucency)
+    - <u>Erythema of tympanic membrane</u>
+    - <u>Reduced mobility of tympanic membrane</u> when pneumatic pressure applied 
+    ![](../img/aom_otoscope.png)
+- **DDx of acute otitis media:**
+    - Otitis media with effusion - presence of middle ear dysfunction without signs of bacterial infection or illness
+    - Chronic suppurative otitis media
+    - Bullous myringitis
+    - Otitis externa
+    - Herpes zoster
+    - Deep space head and neck infections
+- **Mx of acute otitis media:**
+    - **Principles of Mx:**
+        - <u>Supportive Mx</u> - pain relief (e.g. NSAID)
+        - <u>Oral ABx</u> - based on local antibiogram (ABx against G+ bacteria)
+        - <u>Lack of initial response</u> - 2nd line ABx therapy or **drainage myringotomy**
+    - **1st line ABx regimen:**
+        - <u>Selection</u> - Amoxicillin-clavulanate, erythromycin, cotrimoxazole, cefuroxime
+        - <u>Duration</u> - 7-10d
+    - **Mx of perforated eardrums in otitis media** - most will heal spontaneously and do not require additional Mx:
+        - <u>Appropriate water precautions</u> - no swimming or diving, avoid getting affected ear wet when showering
+
+## Chronic suppurative otitis media
+
+- **Definition** - recurrent infection of the middle ear in the presence of persistent (\>3 mo), non-healing tympanic membrane perforation:
+    - <u>Inactive CSOM</u> - dry tympanic perforation w/o active infection or otorrhoea
+    - <u>Active CSOM</u> - TM perforation w/ active infection with otorrhoea
+- **Microbiology of active CSOM:**
+    - <u>Aerobes</u> - Staphylococcus aureus, Pseudomonas aeruginosa
+    - <u>Anaerobes</u> - E. coli, Bacterioides
+    - <u>Fungal</u> - Aspergillus, candida
+    - <u>MTB</u>
+- **Pathophysiology and pathogenesis of CSOM:**
+    - <u>History of reccurent AOM</u> - results in tympanic membrane rupture and otorrhoea
+    - <u>Cholesteatoma formation in unsafe CSOM</u> - keratinised squamous epithelium accumulation in the middle ear which are erosive and can cause complications
+- **Clinical features of CSOM:**
+    - <u>Otorrhoea</u> - recurrent, or persistent ear drainage in active CSOM due to tympanic membrane perforation
+    - <u>Hearing loss</u> - variable at presentation, but progressive depending on degree of destruction:
+        - <u>Conductive hearing loss</u> - severity dependent on site and size of perforation, and status of ossicles
+        - <u>Mixed conductive hearing loss</u> - when there is additional inner ear involvement
+- **Mx of safe CSOM:**
+    - **Principles of Mx:**
+        - <u>General measures</u> - indicated for all patients to prevent infection
+        - <u>Topical ABx</u> - for active CSOM with otorrhoea
+        - <u>Definitive surgical Tx</u> - indicated once dry to prevent recurrent infections
+    - **General measures:**
+        - <u>Water precaution</u> avoid swimming, diving or entry of water in middle ear (e.g. petroleum jelly-coated cotton ball in ear canal when showering)
+        - <u>Daily dry mopping</u> - no difference demonstrated in systematic review
+    - **Topical ABx ear drops** - indicated if active CSOM with otorrhoea:
+        - <u>Regimens</u> - broad-spectrum ABx (e.g. ciprofloxacin-dexamethasone or ofloxacin)
+        - <u>Duration</u> - bid for 2w
+    - **Definitive surgical Tx** - primarily to prevent recurrent otorrhoea and restore water contact:
+        - <u>Tympanoplasty with ossicular chain reconstruction</u>:
+            - **Timing** - wait until dry (\> 3mo after active CSOM eradicated)
+            - **Grafting technique** - medial or lateral grafting
+            - **Clinical effect** - 1) prevent recurrent otorrhoea, 2) restore water activity, 3) restore hearing (may not be fully functional if some degree of SNHL)

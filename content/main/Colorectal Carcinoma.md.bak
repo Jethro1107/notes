@@ -1,0 +1,426 @@
+---
+id: 6a2128d4-5259-4fed-9cc8-0380b45bf503
+title: Colorectal Carcinoma
+---
+
+# Colorectal Carcinoma
+
+- **Colorectal carcinoma** - common neoplasm of the large intestine, including the rectum arising from the colonic epithelium
+- **Epidemiology:**
+  - Incidence - 3rd in incidence, 2nd in mortality (HK cancer registry)
+  - Demographic - M=F
+- **Functional anatomy and physiology of intestinal crypts** (Crypts of Lieburkuhn):
+  - **Cell types in intestinal crypts:**
+    - <u>Basel cells</u> - stem cells at base where renewal, proliferation, and differentiation is tightly regulated
+    - <u>Enterocytes</u> - absorptive cells that consist of brush border of microvilli
+    - <u>Goblet cells</u> - mucus-secreting cells
+    - <u>Enteroendocrine cells</u> - found in base of crypts with endocrine functions regulating GI motlity and secretion
+    - <u>Pannetth cells</u> - found in base of cryts w/ innate immune functions through secretion of defensins
+  - **Regulation of stem cell maintenence** - stem cell renewal, progenitor cell proliferation and differentiation are tightly regulated by certain molecular pathways:
+    - **Stem cell renewal** - regulated by <u>Wnt pathway</u> (regulated by APC):
+      - When Wnt pathway is inactive, APC protein keeps downstream signalling inactive by degredation of beta-catenin, <u>suppressing cell proliferation</u>
+      - When Wnt pathway is active, APC protein is inactivated, enabling accumulation of beta-catenin, thust <u>stimulating Wnt-gene responsive genes and stem cell proliferation</u>
+
+      
+      ![](../img/wnt_pathway_iasm.png)
+    - **Proliferative progenitors** - regulated by <u>EGFR pathway</u> (through downstream KRAS and BRAF pathways):
+      - Progenitor cells proliferate in response to <u>presence of epithelial growth factor</u> (EGF), a growth hormone that <u>binds to epithelial growth factor receptor</u> (EGFR)
+      - The EGFR signal is mediated by downstream proteins such as <u>KRAS</u>, and <u>BRAF</u>
+
+      
+      ![](../img/egfr_signalling_pathway.png)
+    - **Differentiation** - regulated by <u>transforming-growth factor beta</u> (TGF-beta) and <u>bone morphogenetic protein</u> (BMP)
+
+    
+    ![](../img/regulation_of_growth_in_intestinal_crypts.png)
+- **Pathophysiology of colorectal carcinoma:**
+  - **Role of environmental factors and genetic factors** - environmental factors account for 70% of sporadic colorectal cancers, while 10% of CRC are attributable to HNPCC, and another 25% is attributable to genetic predispositions
+  - **Three major molecular pathaways of colorectal carcinogenesis** - beyond conventional adenoma-carcinoma sequence, where <u>low MSI</u> and <u>high MSI</u> CRC entail different molecular pathogenesis:
+    - **Low MSI CRC** - follows conventional <u>adenoma-carcinoma sequence</u>, with adenoma formation (**crypt progenitor phenotype**) due to inactivation of APC gene, and <u>slow accumulation of additional mutations</u> (KRAS, SMAD4, p53) for carcinogenesis (<u>10-15y</u>):
+      - <u>Sporadic CRC</u> (80% of sporadic CRC) - two-hit inactivation APC gene to initiate adenoma formation
+      - <u>Familial adenomatous polyposis</u> - inheritence of a germline mutated APC gene, where only inactivation of the normal allele is necessary for adenoma formation
+    - **High MSI CRC** - rapid accumulation of driver mutations due to microsatellite instability somewhere along carcinogenesis, and takes shorter time for carcinogenesis (2-3y):
+      - <u>Sporadic MSI CRC</u> - hyperplastic/ serrated polyp acquiring MSI through loss of MMR gene (usually MLH1)
+      - <u>Lynch syndrome</u> - inheritence of a germline MMR gene mutation, where only inactivation of the normal allele enables adenoma development w/ MSI
+
+    
+    ![](../img/3_major_molecular_pathways_for_crc_carcinogenesis.png)
+  - **Accumulation of somatic mutations attributing to the adenoma-carcinoma sequence** - CIN in low MSI tumours, MSI in high MSI tumours:
+    - <u>Chromosomal instability</u> (CIN) - deletion of portion of chromosomal constitutes loss of heterozygosity (LOH) of tumour suppressor genes, but the gene is inactivated when an unrelated mutation occurs at the remaining allele
+    - <u>Micosatellite instability</u> (MSI) - inheritence of germline mutations in 1 of 6 genes responsible for DNA mismatch repair, resulting in accumulation of multiple somatic mutations that lead to cancer
+
+    
+    ![](../img/pathogenesis_crc.png)
+  - **Dietary risk factors:**
+    - <u>Increased risk</u> - red meat (N-nitroso-compouds), processed meat, saturated animal fats
+    - <u>Decreased risk</u> - dietary fibres, fruits and vegetables, calcium, folic acid, omega-3 fatty acids
+  - **Non-diectary risk factors:**
+    - <u>Medical conditions</u>:
+      - Colonic pathologies - colorectal adenomas (polyps), inflammatory bowel disease (esp if a/w primary biliary sclerosing cholangitis), ureterosigmoidostomy
+      - Other medical conditions - T2DM, acromegaly, pelvic radiation
+    - <u>Lifestyle factors</u>:
+      - Smoking (RR 1.5-3)
+      - Alcohol
+      - Obesity and sedentory lifestyle
+    - <u>Genetic factors</u> (+ve family Hx) - 1 first-degree relatives affected (lifetime risk 1/12), 2 first-degree relatives affected (lifetime risk 1/6)
+- **Microsatellite instability** - tendancy for mutations to occur in microsatellites due to <u>loss of function of DNA-mismatch repair genes</u>:
+  - **Genes involved in DNA mismatch repair** - MLH1, MSH2, MSH6, PMS2
+  - **Assessment of microsatellite instability pathologically:**
+    - <u>IHC staining</u> - for DNA mimatch repair proteins in CRCs 
+    ![](../img/mmr_ihc.png)
+    - <u>MSI analysis</u> - molecular method for stratifying tumours into MSI-L, MSI-I, and MSI-H
+  - **Clinical implications for MSI tumours** - important role on prognosis and Tx:
+    - <u>Prognostic implication</u>:
+      - MSH-H or dMMR CRCs have **better stage-specific survival after surgery**
+    - <u>Implications on Tx</u>:
+      - Predicts **poor response to 5-FU based therapy**
+      - Predicts **good response to immune-checkpoint blockade** (aproved in metastatic setting, with emerging evidence as first line in early rectal cancer), which correlates to propensity of MSI CRC to demonstrate lymphoid infiltration, suggesting some degree of immunity is mounted against tumour already
+      - Implications on genetic counselling and Dx if suspecting lynch syndrome
+- **Molecular characteristics of CRC** - acquisition of specific mutations enabling acquiring <u>hallmarks of cancer</u>, which are **subjects to targeted therapy**:
+  - **Sustained proliferative signal** - mutations along <u>growth pathways</u> (Wnt, EGFR) that enables sustained proliferative signalling in absence of growth factor:
+    - <u>Wnt pathway</u> - inactivation of APC gene enables constituitively active Wnt pathway to drive stem cell proliferation, underlying adenoma formation in most (80%) sporadic CRC, and FAP
+    - <u>EGFR pathway</u> - mutation of EGFR itself, or downstream signalling proteins:
+      - 1\. GOF EGFR mutation - enables increased EGFR stimulation in presence of EGF
+      - 2\. GOF mutation of downstream signalling proteins (KRAS, EGFR) - may render EGFR pathway constituitively active (mutant KRAS mutation is <u>inelligible for cetuximab</u>)
+  - **Increased angiogenesis** - often increased VEGF signalling, which can be targetted by <u>Bevacizumab</u> (Anti-VEGF Ab)
+  - **Evading immune destruction** - high MSI/ dMMR CRC tend show greater lymphoid infiltration, underlying good response to immunotherapy (e.g. pembrolizumab)
+
+  
+  ![](../img/hallmarks_of_cancer_and_relevance_to_crc_systemic_tx.png)
+- **Pathology and prognostic determinants:**
+  - **Principles and prognostic determinants of colorectal cancer:**
+    - <u>Early colorectal cancer</u> (Stage I through III) - determined by pathological staging and other clinical, histological and molecular features
+    - <u>Metastatic colorectal cancer</u> (Stage IV) - determined by location and extent of metastasis (a/w good prognosis if resectable tumour)
+  - **Pathology of CRC** - evolution into different morphology despite similar adenoma-carcinoma sequence:
+    - <u>Annulus lesions</u> (apple-core) - typically involve the left colon resulting in symptoms of bowel dysfunction (e.g. constipation, diarrhoea, or bowel obstruction)
+    - <u>Polypoid lesions</u> (fungating exophytic mass) - typically grows large in the right colon often manifestating as unexplained Fe-deficiency anaemia
+  - **Histopathology of CRC** - \> 90% are adenocarcinomas with different subtypes bearing prognostic significance: 
+  ![](../img/who_classification_of_histopathology_of_crc.png)
+    - **Mucinous AD** (11-17% of CRC) - copious extracellular mucin (\> 50% of tumour mass) have a predilection to right-sided CRC and may have poor responsiveness to upfront neoadjuvant chemoradiation and adjuvant chemotherapy (controversial)
+    - **Signet cell AD** (1-2% of CRC) - characterised by intracellular mucin displacing nuclei, and is an aggressive tumour with propensity of intramural spread and peritoneal carcinomatosis (most present at stage III-IV) +/- a/w <u>microsatellite instability</u>
+  - **Histological grading of CRC** - degree of differentiation based on resemblence to glandular intestinal epithelium:
+    - <u>Principles of histological grading</u> - area of resemblence to normal glandular intestinal epithelium based on cell-cell cooperation, maintenance of polarization, and coordinated secretion of cell products into cellular lumen +/- cytological features (e.g. mitotic rate, N:C ratio, atypia, pleomorphism)
+    - <u>Histological grade</u> - 4 tiered grading system proposed by AJCC collapsed into 2-tiered system proposed by WHO as it retains prognostic power:
+      - **High-grade tumour** - Well-to-moderately differented
+      - **Low-grade tumour** - undifferentiated-to-poorly differentiated
+- **Route of spread of CRC** - partially informs prognostic staging in TNM staging by correlating with histopathology:
+  - <u>Local invasion</u> (T-staging) - longitudinal, radial, and most importantly transverse spread (informs T-staging):
+    - **Tis** - invasion through BM into lamina propria but not submucosa
+    - **T1** - invasion through submucosa
+    - **T2** - invasion into muscularis propria
+    - **T3** - invasion through muscularis propria into subserosa, with <u>access to lympho-vascular channels</u>
+    - **T4** - invasion into visceral peritoneum, or adjacent organs (SB, stomach, ureters, bladder, gynaecological organs, peritoneum, abdominal wall)
+  - <u>Lymphatic spread</u> (N-staging) - spread to high-risk drainage basins, towards mesenteric LN, and eventually to Trosier's node
+  - <u>Haematogenous spread</u>:
+    - **Liver** (most common site of metastasis) - colon and upper rectum drains into inferior mesenteric vein and subsequently into into <u>portal venous system</u>
+    - **Lung** (second most common site of metastasis) - may be first site for distant metastasis in lower rectal carcinoma drains into <u>middle and inferior mesenteric veins</u> into systemic circulation
+    - **Bones, brain, adrenals** - through access into systemic circulation
+  - <u>Perineural spread</u> - poor prognostic marker indicating **high-risk tumour for recurrence**, and thus <u>adjuvant therapy is indicated</u>
+  - <u>Transcoelomic spread</u> - into peritoneal cavity (Stage IV disease)
+- **Clinical features of colorectal cancer:**
+  - **Asymptomatic** - present in individuals who undergo routine screening for CRC or as an incidental finding from an imaging study performed for another purpose
+  - **Constitutional Sx** (typically w/ advanced diseases) - weight loss, anorexia, malaise
+  - **Sx of local tumour** - presenting Sx is often explained by tumour location:
+    - **Abdominal pain** - can occur with tumours arising at all sites, and nature is dependent on pathological process:
+      - <u>Partial obstruction</u> - often results in colicky peri-umbilical or lower abdominal pain (dependent on tumour location)
+      - <u>Peritoneal carcinomatosis</u> - sharp, well-localised parietal pain
+      - <u>Intestinal perforation</u> - sudden onset of severe, sharp well-localised parietal pain proceeding towards generalised peritonitis
+    - **Sx related to left-sided CRC** - narrower lumen and solid faecal contents, such that it is more likely to present w/ obstructive symptoms:
+      - <u>Obstructive symptoms</u>:
+        - Colicky abdominal pain (40%) - caused by partial obstruction, especially with **annulus lesions**
+        - Changes in bowel habits (74%) - alternating diarrhoea and constipation, changes in frequency and consistency of stool (e.g. bacterial liquefaction with stasis resulting in diarrhoea)
+      - <u>PR bleeding</u> (51%) - usually caused by bleeding of a recto-sigmoid tumour
+    - **Sx related to right-sided tumour** - greater calibre and liquid faecal contents, resulting in less obstructive Sx and enable tumour to grow larger:
+      - <u>Unexplained iron-deficiency anaemia</u> (10%) - caused by occult bleeding (right-sided tumours on average have 4x blood loss than left-sided tumours)
+      - <u>Abdominal mass</u> (13%) - tumour grows large into a palpable or visible mass, especially with caecal tumours
+    - **Sx of rectosigmoid tumours:**
+      - <u>Haematochezia</u> - often slight in amount and at end of defaecation
+      - <u>Altered bowel habits</u> - increased stool frequency with passage of small volume bloody mucus w/ little stool, classically in morning
+      - <u>Deminished stool calibre</u> - i.e. pencil thin stools
+      - <u>Tenesmus</u> - painful straining to empty bowel without resultant evacuation
+      - <u>Obstructive Sx</u> - see above
+  - **Presentation w/ complication** - large bowel obstruction, perforation, or acute PR bleeding:
+    - <u>Intestinal obstruction</u> (20%) - urgent presentation with obstipation, abdominal pain and distension, and is a/w **poor prognosis idependent of stage**
+    - <u>Intestinal perforation</u> - a complication of IO
+    - <u>Acute PR bleeding</u> - exceedingly rare clinical manifestation
+  - **Sx of metastatic disease** - dependent on site of metastasis:
+    - **Liver** - RUQ distending pain, early satiety, hepatomegaly
+    - **Lungs** - SOB with pleural effusion, cough, haemoptysis
+    - **Peritoneum** - parietal pain (peritoneal carcinomatosis), abdominal distension (malignant ascites), periumbilical (Sister Mary Joseph) nodules
+  - **Atypical presentations:**
+    - <u>Pyrexia of unknown origin</u> - usually caused by abscess from concealed perforations with underlying colonic malignancies
+    - <u>Incidental finding of liver mass</u> - detected liver metastasis incidentally during USG studies, CT scans or on physical examination
+    - <u>Malignant fistulations</u> - to bladder (pneumaturia) or SB
+    - <u>Adenocarcinoma of unknown sites</u> - CRC accounts for site of origin of 6% of such cases
+- **Signs of colorectal carcinoma:**
+  - <u>General examination</u> - pallor (anaemia)
+  - <u>Abdomen</u> - palpable abdomenal mass (esp. Caecal carcinoma), Hepatomegaly (from metastasis), PR bleeding or rectal mass
+- **Ix and Dx evaluation** - histopathological diagnosis based on Bx obtained during colonoscopy:
+  - **Endoscopy** - Colonoscopy preferred over sigmoidoscopy and allows Bx:
+    - **Colonoscopy** - visualisation up to IC valve and AO for assessment of primary tumour, synchronous polyp or synchronous CRC:
+      - <u>Findings</u> - most are polypoidal lesions, while a minority are non-polypoidal, flat, or even depressed
+    - **Sigmoidoscopy** - no role in assessment of CRC as the primary lesion may be right-sided, or there may be presence of synchronous tumours
+  - **Imaging:**
+    - **CT colonography** (virtual colonoscopy) - non-invasive method of diagnosis of polypoidal lesions after mechanical bowel preparation
+      - <u>Indications</u> - incomplete colonoscopy
+      - <u>Test properties</u> - good Sn for polyps \>= 6mm
+      - <u>Limitations</u>:
+        - May miss smaller lesions
+        - Non-diagnostic - colonoscopy required to obtain Bx for histological diagnosis
+    - **Double-contrast barium enema** (obselete) - visualisation of apple-core lesion (a constant irregular filling defect)
+  - **Tumour markers** (e.g. CEA, CA19-9) - no diagnostic role but has prognostic significance and implications for assessment of Tx responsiveness and recurrence
+- **DDx of CRC** - DDx of colonic mass seen on imaging or endoscopy:
+  - <u>Lymphoma</u> - esp. primary NHL of the large bowel
+  - <u>Other GI tumours</u> - GIST, neuroendocrine tumours
+  - <u>Metastasis from other primary tumour</u> - e.g. ovarian cancer
+  - <u>Kaposi sarcoma</u> - related to AIDS
+- **Staging of CRC** - 8th edition AJCC TNM staging (Duke's classification no longer used):
+  - **Clinical vs pathological staging:**
+    - <u>Clinical staging</u> - depedent on radiographic, endoscopic, and intra-operative findings
+    - <u>Pathological staging</u> - dependent on pathological and histopathological examination of the gross specimen after resection
+  - **Summary of TMN staging:**
+    - **T-staging:**
+      - T1 - into submucosa
+      - T2 - into muscularis propria
+      - T3 - into pericolic fat or sub-serosa not breaching serosa
+      - T4 - breaches serosa or invades adjacent oragns
+    - **N-staging:**
+      - N0 - no nodal involvement
+      - N1 - 1-3 LN involvement
+      - N2 - 4+ LN involvement
+    - **M-staging:**
+      - M0 - no metastasis
+      - M1 - distant metastasis
+  - **TNM stages:** 
+  ![](../img/tnm_staging_of_crc.png)
+  - **Prognostic stage groups:** 
+  ![](../img/prognostic_stage_groups.png)
+    - <u>Stage I disease</u> - T1-2N0M0
+    - <u>Stage II disease</u> - T3-4N0M0 (note additional prognostic factors differentiate stage II disease into high-risk and low-risk for recurrence)
+    - <u>Stage III disease</u> - N1+
+    - <u>Stage IV disease</u> - M1
+- **Prognosis** - overall 5y survival approx. 50%:
+  - **Prognostic factors** - tumour staging (esp. LN status):
+    - T1-3 - typically cured by surgical resection w/ 90% 5y disease-free survival
+    - T4 - 5y survival approx. 60-70%
+    - N+ (Stage III disease) - 5y survival approx. 30%
+    - M1 (Stage IV disease) - 5y survival \< 10%
+
+## Management of early or locally advanced primary colon cancer
+
+- **Principles of Mx:**
+  - **Stage-specific Tx:**
+    - <u>Stage I disease</u> - upfront surgery
+    - <u>Stage II disease</u> - upfront surgery if low-risk of recurrence +/- adjuvant chemotherapy if high risk of recurrence
+    - <u>Stage III disease</u> - surgery and adjuvant chemotherapy
+
+    
+    ![](../img/stage_specific_tx_of_colon_cancer.png)
+  - **Modalities of Tx:**
+    - <u>Surgical Tx</u> - **surgical resection** of the tumour, the major vascular pedicles and lymphatic drainage segments +/- multivisceral resection with primary anastamosis as primary therapy (or diverting colostomy in special conditions)
+    - <u>Neoadjuvant therapy</u> - no consensus for role of neoadjuvant therapy for primary colon cancer, but are contemplated in bulky nodal disease or clinically T4b disease
+    - <u>Adjuvant chemotherapy</u> - indicated for stage III disease and selected high-risk stage II disease
+    - <u>Adjuvant radiotherapy</u> - limited evidence of role of adjuvant RT, but considered for patients with high risk of local recurrence (e.g. T4 disease with penetration to fixed structure, positive resection margins, complicated presentation such as perforation or abscess formation)
+- **Surgical Mx** - surgical resection is the only curative modality for localised colon cancer and selected metastatic disease:
+  - **Cadidates for resection** - C/I for assymptomatic patients with unresectable metastatic disease:
+    - 1\) Localised CRC and selected patients with limited resectable metastatic disease (liver and lungs)
+    - 2\) Palliation for patients with unresectable metastatic disease if symptomatic or complications occur (e.g. obstruction, perforation)
+  - **Goals of surgical resection** - potentially curative resection:
+    - 1\. En bloc removal of tumour with proximal and distal resection margins (5-7cm from tumour)
+    - 2\. Removal of contiguous structures that are attached to or invaded by the tumour (i.e. multivisceral resection)
+    - 3\. Resection of vascular pedicles and LN drainage basins (\> 12 LN resected for prognostic staging and guiding post-operative chemotherapy) of the ressected colonic segment
+  - **Technical details:**
+    - **Approach** - laparoscopic colectomy a/w faster recovery w/ no detrimental impact on oncological outcomes:
+      - <u>Open approach</u> - complicated colon cancers typically require open approach
+      - <u>Laparoscopic colectomy</u> - non-inferior to open colectomy and is performed in most uncomplicated case given expertise is present
+    - **Extent of resection** - dependent on type and site of lesion:
+      - **Malignant polyp** - endoscopic Tx for low-risk malignant polyp, but radical resection for those w/ high risk features (e.g. resection margin involved, submucosal invasion etc.)
+      - **Localised cancers** - multivisceral resection required if locally advanced cancer invades or attaches to contiguous structures:
+        - <u>Caecal or right colon</u> - right hemicolectomy
+        - <u>Transverse colon</u> - extended right or left hemicolectomy depending which side of midline tumour resides in (or transverse colectomy if true midtransverse cancers)
+        - <u>Left colon</u> - left hemicolectomy
+        - <u>Sigmoid colon</u> - sigmoid colectomy with adequate margins
+      - **Synchronous colon cancer** - two separate resections or one extended resection (e.g. subtotal or total colectomy of sporadic tumours on both sides)
+  - **Restoration of bowel continuity** - primary anastamosis or temporary diverting ostomy:
+    - <u>Primary anastamosis</u> - reserved for most patients w/ uncomplicated localised disease
+    - <u>Temporary ostomy</u> - temporary diverting colonostomy or ileostomy performed if disease presents as complications (e.g. obstruction, perforation, acute PR bleeding)
+  - **Resectable metastatic disease** (e.g. limited liver or lung metastasis) - surgical resection at primary site and metastatic site
+- **Neoadjuvant chemotherapy** - less important in locally advanced colon cancer:
+  - <u>Current paradigm</u> - no high-quality evidence supporting use of neoadjuvant therapy over upfront surgery (cf rectal cancer)
+  - <u>Indications</u>:
+    - 1\. Locally advanced colon cancer w/ adjacent organ invasion
+    - 2\. Limited liver/ lung metastasis
+- **Adjuvant chemotherapy** - erradication of micrometastasis remaining after surgical resection to prevent local or distant recurrence:
+  - **Indications for adjuvant chemotherapy** - dependent on <u>risk of recurrence</u>:
+    - <u>Stage III disease</u> (N+) - all indicated for adjuvant chemotherapy as **N status is most important determinant of recurrence**, and Tx a/w **30% reduction in recurrence** and 22-32% reduction in mortality
+    - <u>Selected Stage II disease</u> (T3-4) - high risk disease indicated for adjuvant chemotherapy (no high-level evidence for survival benefits)
+  - **High risk features of stage II cancer** - presence of any one of the following mandates adjuvant chemotherapy:
+    - **Tumour factors** - upon pathological assessment after ressection:
+      - <u>T-staging</u> - pT4 is high risk for local recurrence
+      - <u>Tumour grade</u> - associated w/ high ridk of distant recurrence
+      - <u>Lymphovascular, or perineural invasion</u> - high risk for distant recurrence
+    - **Clinical and surgical factors:**
+      - <u>Presentation as complication</u> - clinical presentation as LBO or perforation
+      - <u>Resection margins</u> - +ve resection margins is the **most important factor for local recurrence**
+      - <u>Insufficient LN resection</u> - \< 12 LN retrieved from resected specimen
+    - Note that MSI-H CRC is a/w better prognosis and tend to not require adjuvant chemotherapy (in fact better stage-specific survival)
+  - **Regmimen** - duration for 3 or 6 mo depending on risk of of recurrence:
+    - <u>Monotherapy</u> - 5-FU or capecitabine
+    - <u>Combination therapy</u> - Oxaliplatin + capecitabine/ 5-FU
+- **Adjuvant RT** - lack of good evidence for role of RT in locally-advanced colon cancer (cf standard of practice for rectal cancers)
+  - <u>Indications</u> - <u>considered</u> for patients w/ T4b diseases, +ve resection margins, or complicated cases w/ perforation and abscess formation
+
+## Management of early or locally advanced primary rectal carcinoma
+
+- **Principles of Mx** - Tx selection dependent on tumour stage, distance between cancer from anal-verge:
+  - **Mx of early rectal cancer** (T1-2N0/ Stage I):
+    - <u>Surgical Tx</u>:
+      - **Local excision** (selected T1 disease) - transanal excision, transanal endoscopc microsurgery (TEM) recommended for selected T1N0 tumours (malignant polyps that do not fit clinco-pathological criterias)
+      - **Total mesocolic excision** (TME) - if criteria for local excision is not met
+  - **Mx of locally-advanced rectal cancers** (T3-4 or N1+/ Stage II-III):
+    - <u>Pre-operative RT and chemotherapy</u> - indicated for cT3-4 or N1+ diseases, or tumours invading circumferential margins
+    - <u>Surgical Tx</u> - total mesocolic excision preferred:
+      - **Spincter-preserving procedures** (e.g. LAR) - for upper and middle rectum disease (\> 5cm from anal verge) provided that -ve margins can be achieved
+      - **Abdominoperineal resection** (APR) - for lower rectum disease (within 5cm from anal verge)
+  - **Mx of metastatic disease** (Stage IV):
+    - <u>Surgical Tx</u>:
+      - **Currative Tx** (selected cases) - resection of primary tumour and metastatic site for those w/ resectable liver or lung disease
+      - **Palliative Tx** - e.g. local or endoluminal Tx for palliation
+    - <u>Palliative Tx</u> - chemo-irradiation
+- **Surgical Tx:**
+  - **Indications or candidates for excision or resection:**
+    - 1\) Localised rectal cancer and selected patients with limited resectable metastatic disease (liver and lungs)
+    - 2\) Palliation for patients with unresectable metastatic disease if symptomatic or complications occur (e.g. obstruction, perforation)
+  - **Local excision** - reserved for selected early rectal cancers:
+    - **Criteria of local excision** - selected T0-1 diseases, and can be theoretically offered to T2 disease:
+      - <u>Local factors</u> - favourable T stage (T0-1, N0), tumour size (\< 3cm and \< 30% of bowel lumen circumference), mobile and non-fixed tumour, clear margins possible
+      - <u>Histological factors</u> - low-grade tumour, absence of perineural or lymphovascular invasion
+    - **Techniques** - transanal endoscopic microsurgery (TEM)
+    - **Outcomes** - consistently poorer oncological outcomes esp. if a/w aforementioned criterias
+  - **Low anterior resection** - sphincter-sparing resection for most local rectal tumours, preferred if <u>adequate distal margins can be achieved</u>:
+    - **Indications and criteria for LAR** - 1) invasive rectal cancer (most cT1, cT2-4, N1+ disease), 2) Adequate distal margins (\>= 2cm)
+    - **Outcomes** - lower recurrence rates (\< 10%) related to adequate margins, performing TME +/- adjuvant chemoradiation
+  - **Abdominoperineal rection** - low-lying rectal cancers where a permanent diverting colstomy is used and anal opening is closed
+- **Neoadjuvant chemoradiation** - indicated for locally advanced (T3-4/N1+) rectal cancer
+
+## Management of metastatic colorectal carcinoma
+
+- **Overview** - by definition advanced CRC refers to Stage IV disease:
+  - <u>Proportion of CRC presentating as mCRC</u>:
+    - \> 50% CRC present in metastatic stage globally, but shows geographical variation
+    - \> North America shows surprisingly low advanced CRC at presentation which is attributable to more aggressive screening programmes
+  - <u>Outcomes of mCRC</u> - improved over the past 2 decades, attributed by:
+    - Improvement of systemic therapy
+    - More aggressive surgery
+    - Application of personalised medicine by molecular stratification of patients (e.g. MSI, BRAF, KRAS, EGFR)
+- **Principles of Mx:**
+  - **Treatment goals** - different according to clinical scenario:
+    - <u>Potentially resectable disease</u> (esp. oligometastasis to the liver) - Tx of curative intent:
+      - Upfront surgery for oligo-metastatic disease to the liver
+      - Conversion chemotherapy for initially unresectable liver metastasis and subsequent surgical resection if adequate response to chemotherapy
+    - <u>Non-resectable disease</u> - Tx of palliative intent by delaying tumour progression to prevent Sx development, prolong OS, and maintain QOL
+  - **Available agents in systemic therapy for mCRC:**
+    - <u>Fluoropyrimidines</u> - including 5-fluorouracil (5-FU), levocovorin (LV), capecitabine
+    - <u>Topoisomerase I inhibitor</u> - irinotecan
+    - <u>Platinum-based chemotherapy</u> - oxaliplatin
+    - <u>Anti-VEGF Ab</u> - Bevacizumab, Aflibercept
+    - <u>EGFR inhibitor</u> - Cetuximab, panitumumab
+    - <u>BRAF inhibitor</u> - encorafenib
+    - <u>Multikinase inhibitor</u> - regorafenib
+    - <u>Immune-checkpoint inhibitors</u> - Pembrolizumab
+  - **Assessment of molecular status** - molecular assessment (e.g. w/ NGS) of tumour tissue should be performed immediately after Dx of mCRC to guide Tx:
+    - **dMMR/ MSI-H** - uniquely demonstrates susceptibility to immune-checkpoint inhibitors, and making <u>ICB a reasonable 1st-line Tx in appropriately selected patients</u>
+    - **RAS** - differentiation of RAS wild-type (RASwt) and RAS mutated to <u>assess whether patient might benefit from EGFR inhibitors</u>:
+      - **Types of RAS status:**
+        - <u>Wild-type</u> - mutations in the KRAS and NRAS gene do not have constituitively active EGFR pathways and thus <u>may benefit from EGFR inhibitor</u>
+        - <u>Mutant type</u> - RAS mutant (i.e. GOF mutation of KRAS/NRAS) have constituitively active EGFR pathways and thus <u>do not benefit from EGFR inhibitors</u>
+      - **RAS testing:**
+        - <u>Sample</u>:
+          - Tissue biopsy from primary tumour or synchronous metastatic sites (gold standard)
+          - Liquid biopsy from blood, CSF etc (currently evolving technique to improve turnaround time on mutation results)
+          - LN (not applied)
+        - <u>Principles of tests</u> - NGS to detect for mutant RAS in:
+          - Exon 2 (codon 12, 13)
+          - Exon 3 (codon 59, 61)
+          - Exon 4 (codon 117, 146)
+        - **Repeated testing** - required in recurrent tumour as <u>disconcordant results in RAS status was estimated at 20%</u>
+      - **Implications on Mx** - RASwt are <u>eligible for EGFR inhibitors</u> (ceftuximab or panitumumab)
+    - **BRAF** - specific BRAF V600E mutation <u>induces resistance against EGFR inhibitor</u> even if RASwt:
+      - **Types of BRAF mutation:**
+        - <u>V600E mutation</u> - this specific mutation in codon 600 of BRAF gene results in resistance against EGFR inhibitors, as documented by multiple meta-analysis and RCTs showing **no statistically significant effect of anti-EGFR on OS, PFS, and overall response rate**
+        - <u>Wild-type V600 mutation</u> - better survival than V600E mutation (see below)
+        - <u>Non-codon 600 mutation</u> - tends to show better median OS than V600E mutation and wt V600 mutation (61% vs 11% vs 43%), but response to EGFR inhibitors unsure
+      - **Implications on Mx** - BRAF V600E mutation is unlikely to respond to EGFR inhibitor weather it is alone or in combination
+  - **Factors influencing selection of initial systemic therapy of mCRC:**
+    - <u>Patient factors</u> - performance status, comorbidities, contraindications to bevacizumab
+    - <u>Tumour factors</u>:
+      - MSI-H - pembrolizumab mono-immunotherapy as first-line for MSI-H tumours irrespective of sidedness
+      - RAS status - RASwt **may** benefit from anti-EGFR dependent on tumour sidedness
+      - Tumour laterality - TKIs are reserved for left-sided CRCs w/ RASwt and BRAFwt, and are not prescribed for right-sided tumours (even if w/ RASwt and BRAFwt) as demonstrated absence of benefits or potential harm
+  - **Approach to selection of initial systemic therapy:**
+    - <u>MSI-H tumours</u> - monoimmunotherapy (e.g. pembrolizumab) or nivolumab + ipilumab as acceptable alternative
+    - <u>MSI-L tumours</u> - principally chemotherapy doublet (XELOX) with bevacizumab if not contraindicated/ anti-EGFR if indicated:
+      - KRASwt and BRAFwt left-sided tumours - chemotherapy doublet + cetuximab/ panitumumab (chemotherapy backbone + bevacizumab also acceptable)
+      - KRASwt and BRAFwt right-sided tumours - chemotherapy doublet plux bevacizumab (FOLFOXIRI +/- bevacizumab also acceptable)
+      - KRAS mutant irespective of sideness - chemotherapy doublet plux bevacizumab (FOLFOXIRI +/- bevacizumab also acceptable)
+      - RASwt and BRAF V600E mutant irrespective of sideness - FOLFOX + cetuximab and encorafenib
+
+    
+    ![](../img/initial_systemic_therapy_for_mcrc.png)
+- **Immunotherapy:**
+  - <u>Indication</u> - as monotherapy in dMMR or MSH-H tumours
+  - <u>Selection</u>:
+    - PD-1 blockade - e.g. pembrolizumab
+    - Anti-CTLA4 blockade - e.g. ipililumab
+  - <u>Clinical efficacy</u>:
+    - DT Le et al 2015 demonstrates objective clinical and radiological response to pembrolizumab in dMMR but not in pMMR
+
+    
+    ![](../img/evidence_for_pembrolizumab_in_dmmr_mcrc.png)
+- **Systemic chemotherapy** - backbone chemotherapy +/- role of anti-VEGF agents and anti-EGFR:
+  - **Indications** - pMMR tumours or dMMR inelligiable for ICI
+  - **Regimens:**
+    - <u>First line backbone chemotherapy</u>:
+      - FOLFOX +/- bevacizumab
+      - XELOX (CAPEOX) +/- bevacizumab
+      - FOLFIRI +/- bevacizumab
+      - FOLFIRINOX +/- bevacizumab
+
+      
+      ![](../img/initial_therapy_for_pmmr_mcrc_nccn_2025.png)
+- **Anti-VEGF** - added bevacizumab demonstrated to be a/w increased OS and PFS:
+  - <u>Selection</u> - Bevacizumab (avastin)
+  - <u>MOA</u> - inhibition of angiogenesis which is an important hallmark of cancer
+  - <u>Evidence for avastin</u>:
+    - Hurwitz et al 2004 demonstrates addition of bevacizumab to standard chemotherapy cocktail a/w increased OS (HR 0.66) and PFS
+
+    
+    ![](../img/evidence_for_bevacizumab_in_mcrc.png)
+- **Anti-EGFR MAb:**
+  - <u>Selection</u> - cetuximab, panitumumab
+  - <u>MOA</u> - binds to EGFR:
+    - Competitive inhibition of growth factor signals
+    - Stimulation of receptor dimerization and internalization
+  - <u>S/E</u>:
+    - Non-specific Sx - e.g. weakness, malaise
+    - Cutaneous S/E - acneiform rash, pruritis
+    - Hypomagnesemia (~20% Tx w/ cetuximab) - may result in secondary hypoK and hypoCa
+    - Infusion reaction (more common w/ cetuximab)
+
+## Follow up of colorectal carcinoma
+
+- **Aims of FU:**
+  - Identify synchronous tumour (3%) - tumour present at time of Dx of 1st tumour, but not picked up due to emergency presentation or incomplete assessment
+  - Identify metachronous tumour (3%) - tumour developed after the initial malignancy
+  - Identify local recurrence
+- **Ix of FU:**
+  - Surveillance colonoscopy (at 6-12 mo, then at 5y) - identify syncrhonous or metachronous tumours
+  - Routine liver imaging (US/ CT) - because 1/2 CC patients will have liver metastasis at any point of life
+  - Serial measurement of carcinoembryonic antigen (CEA)
+
+## Secondary prevention and screening of colorectal carcinoma
+
+- **Role** - detect and remove lesions at early or pre-malignant stages
+- **Methods:**
+  - <u>Population-based FOBT</u> - demonstrated to reduce mortality by increasing proportion of early cancers detected (HK CRC screening proposes usage of IHC-based tests q2y)
+  - <u>Colonoscopy</u> - gold standard, ?suggested to perform q5y?

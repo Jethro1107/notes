@@ -1,0 +1,147 @@
+---
+id: 2a767275-40de-463b-9d92-6dfc3442e754
+title: Asthma
+---
+
+# Asthma
+
+- **Definition** - Asthma is the chronic inflammation of the airway that is defined clinically (<u>GINA 2022</u>) as:
+    - Clinical history of paroxysmal attacks of respiratory symptoms that reflect underlying airflow limitations - e.g. wheezing, breathlessness, chest tightness and coughing
+    - With widespread variable and often reversible airflow limitations that is demonstratable (PEFR, Spirometry)
+- **Epidemiology:**
+    - Prevalence - 300 million individuals worldwide (1-18%), steadily increasing with a predicted additional 100 million affected by 2025
+    - Steady increase in prevalence despite optimal treatment - implies the critical importance of environmental role (e.g. indoor and outdoor allergens)
+
+  
+  ![](../img/world_map_clinical_asthma.png)
+
+- **Pathophysiology of asthma:**
+    - **Airway hyper-reactivity** (AHR) - tendancy for airways to constrict excessively to benign allergens that have little to no effects sin normal individuals, partly explained by chronic airway inflammation
+    - **IgE-mediated pathway** - clear association between asthma and individuals with 'atopy':
+    - <u>Molecular mechanisms</u> - Binding of allergen to IgE bound to FcR of mast cell triggers <u>mast cell degranulation</u>, resulting in release in histamine, leukotrienes, and eosinophil-chemotaxic facotrs
+    - <u>Pathophysiology</u> - early-phase and late-phase bronchostriction due to degranulation and inflammatory cell recruitment respectively with mucus hypersecretion and airway oedema
+    - **Th2-mediated pathway**
+- **Clinical features of asthma:**
+    - **Recurrent episodic attacks of respiratory Sx** - often related with precipitants (see below):
+    - Wheeze - high-pitched whistling nose occuring at expiration
+    - Dyspnoea - the sense
+    - Cough - may dry or productive (may be the sole symptom in 'cough-variant asthma')
+    - Chest tightness - dull, heavy weight, or band-like constriction felt at the chest
+    - **Characteristic variability temporally:**
+    - <u>Mild asthma</u> - recurrent attacks where they are completely asymptomatic between exacerbations
+    - <u>Severe asthma</u> - persistent respiratory Sx, but often evident to be variable over the course of one day, from day to day, or from month to month
+    - **Characteristic diurnal variation** - respiratory Sx and lung functions are worse in early morning:
+    - <u>Nocturnal asthma</u> (30-70% once a month) - respiratory symptoms disturb sleep, especially when asthma is poorly controlled
+    - **Characteristic precipitants** - attempts to be made at identifying incitent agentsL
+    - <u>Exercise</u> - triggered by variable duration (no pre-defined exercise tolerance in exertional dyspnoea), from brief periods of exersion, to prolonged exercise, and resolves over a longer period of time (e.g. 30-60 min)
+    - <u>Cold weather</u> - often worse on exertion
+    - <u>Viral URTI</u> - a common cause of exacerbation as in any other chronic respiratory condition
+    - <u>Allergens</u>:
+      - Indoor allergens - house dust mites, cockroaches, pet dander
+      - Outdoor allergens - alternaria, pollens
+      - Occupational agents (5-15% of adult onset asthma) - typically suspected on characteristic history of asthmatic symptoms temporarily associated with work-related exposures
+    - <u>Smoking</u> - association of asthma with smoke exposure (e.g. parental smoking)
+    - <u>Air pollution</u>
+    - <u>Medications</u> - e.g. beta-blockers, aspirin and NSAIDs (aspirin-sensitive asthma)
+- **Ix and Dx evaluation** - predominantly <u>clinical diagnosis</u> based on characteristic Hx: 
+![](../img/asthma_dx.png)
+    - **Supportive evidence of variability and reversibility** - documentation of variability and reversibility of lung functions:
+    - <u>Lung function test</u> - demonstrate obstructive pattern on spirometry that is reversible (normal does not exclude Dx as it simply means airflow limitation is not currently present): - **Findings** - FEV1/FVC \< 0.7 with increase in ratio by 12% or FEV1 improvement by 200ml - **Flow-volume loop** - concave pattern (rapid drop in peak flow rate on expiration) - **Other roles** - provides a <u>baseline of reversibility</u>
+      
+      ![](../img/bronchodilator_reversibility.png)
+    - <u>Peak expirametry flow</u> (PEFR) - demonstrate variability by serial recordings of peak expiratory flow throughout the day +/- corticosteroid trial (\> 20% diurnal difference considered diagnostic)
+      
+      ![](../img/pefr_asthma.png)
+    - +/- <u>Bronchoprovacative test</u> - methacholline (histamine or mannitol) challenge to demonstrate <u>AHR</u>
+    - +/- <u>Exercise test</u> - detect drop in lung functions on 6MWT
+    - **Measurement of allergic status:**
+    - CBC - may reveal peripheral blood eosinophilia
+    - Skin prick test - demonstrate atopy
+    - Total or allergen-specific IgE
+    - **Imaging** - typically required in acute attacks:
+    - <u>Hyperinflation of lung fields</u> - typically in acute asthmatic exacerbation
+    - <u>Lobar collapse</u> - as a result of complete obstruction by mucus plug
+    - <u>Flitting infiltrates</u> - allergic bronchopulmonary aspergillosis
+
+## Management of asthma
+
+- **Goals of Mx** - complete control of asthma:
+    - <u>Symptomatology and QoL</u> - absence of 1) daytime Sx, 2) noctural Sx, 3) activity limitation and 4) exacerbations
+    - <u>Pharmacological Mx</u> - minimal reliever therapy use and minimal side effects of Tx (e.g. steroids)
+    - <u>Objective measures</u> - normal lung function test
+    
+    ![](../img/levels_asthma_control_davidson.png)
+- **Assessment of severity** (dynamic, not static) - retrospective assessment, based on intensity of treatment necessary to achieve optimal control of disease:
+    - **Mild asthma** - good asthma control at step 1 or 2 treatment
+    - **Moderate asthma** - good asthma control at step 3 treatment
+    - **Severe asthma** - good control at step 4 or 5 treatment, or completely uncontrollable
+- **Principles of Mx:**
+    - **General measures:**
+    - <u>Treatment of modifiable risk factors and comorbidities</u> - e.g. obesity, smoking cessation
+    - <u>Patient education and encouragement</u> - understanding nature of condition, PEF testing, action plans for attacks
+    - <u>Avoidance of aggravating factors</u> - esp. important for occupational asthma or those with identifiable precipitating allergen (e.g. pets, house dust mites)
+    - **Pharmacological Mx** - use of combination of reliever therapy, controller therapy and add on therapy based on <u>GINA guidelines</u>:
+    
+    ![](../img/gina_2024_asthma_mx_tracks.png)
+    - <u>Track 1</u> (preferred track) - based on ICS-formoterol as as-needed rescue therapy (sole use of SABA shown to increase mortality):
+      - Step 1-2 (mild asthma) - as-needed low dose ICS-formoterol (reliever therapy only)
+      - Step 3 - low dose maintenance ICS-formoterol + as needed low dose ICS-formoterol
+      - Step 4 - Moderate dose maintenance ICS formoterol + as needed low dose ICS-formoterol
+      - Step 5 - High dose maintenance ICS formoterol +/- LAMA or add-on therapy +/- specialist referral
+    - <u>Initial regimen</u> - dependent on reporting Sx:
+      - Step 1-2 - Sx \< 3-5/7 with normal lung functions
+      - Step 3 - Sx most days, with nocturnal asthma or low lung functions
+      - Step 4 - daily Sx, with nocturnal asthma, low lung functions, or recent exacerbation
+        
+        ![](../img/gina_flowchart_for_initial_asthma_tx.png)
+    - <u>Step down therapy</u> - after optimal control is achieved, decrease dosage of ICS by around 25-50% every 3 mo
+
+## Acute exacerbations of asthma
+
+- **Definition** - punctuation of the disease course by rapid deterioration of symptoms, lung functions, caused by increased airway inflammation, typically triggered by viral infection
+- **Clinical features of asthma exacerbation:**
+    - Increase in symptomatology - wheeze, SOB, chest tightness and cough
+    - Clinical course - typically gradual deterioration over several hours, but can be sudden in onset (brittle asthma)
+- **Clinical assessment of asthma:**
+    - <u>Assessment of vital signs</u> - BP/P, RR
+    - <u>Assessment of airflow limitations</u>:
+    - Speech - talking in paragraphs, sentences, words, unable to speak
+    - PEF
+    - Features of acute severe asthma:
+    - Vitals - RR \> 25/min, HR \> 110 bpm
+    - Speech - unable to complete 1 sentence in 1 breath
+    - PEF \< 35-50% of predicted (\< 200 ml)
+      
+      ![](../img/clinical_assessment_asthma_severity.png)
+- **Mx of mild and moderate asthma:**
+    - **'Rescue' oral corticosteroids**:
+    - <u>Rigimen</u> - short courses of PO prednisolone (30-60 mg/d)
+    - <u>Indications</u> - when gradual deterioration of Sx that is not relieved by reliever therapy:
+      - Sx and PEF progressively worsen throughout the day, objectively defined as PEF \< 60% of patients best recording
+      - New onset or worsening nocturnal Sx
+      - Persistent morning Sx until midday
+      - Progressively deminishing response to bronchodilators
+      - Sx sufficient to require nebulised or injected bronchodilators
+- **Mx of acute severe asthma:**
+    - **Immediate ABG** - determine whether in T2RF (near-fatal asthma)
+    - **CXR** - not immediately required (unless suspcion of pneumothorax)
+    - **General measures:**
+    - <u>O2</u> - high-flow (60%) humidified O2 - titrate to SpO2 \> 92%
+    - <u>NIV/ Mechanical ventilation</u> - if in respiratory acidosis (normal or elevated PaO2)
+    - <u>High doses of inhaled bronchodilators</u>:
+      - Initial regimen - nebulised 5mg salbutamol (or multiple doses via metered-dose inhaler) +/- ipratropium bromide 500 microgram
+      - Further options - IV MgSO4 1.2-2.0g over 20 min, aminophylin 5mg/kg loading followed by continuous invusion (1mg/kg/h)
+    - <u>Systemic corticosteroids</u> - PO prednisolone 40mg or IV hydrocortisone 200 mg (if vomiting or unable to swallow)
+    - <u>Correct fluids and electrolytes (esp. K)</u>:
+      - IV fluid administration - may be beneficial due to insensible water loss through hyperventilation
+      - K supplements - due to risk of hypoK due to repeated SABA use
+    - **Monitoring:**
+    - <u>Vital signs</u> - BP/P, SpO2 (maintain \> 92%)
+    - <u>Lung functions</u> - PEF q15-30min, then subsequently q4-6h after stabilised
+    - <u>Bloods</u> - serum K
+    - <u>Repeat ABG</u> - if initial ABG shows evident respiratory failure, or deterioration
+    - **Indications for assisted ventilation:** - Signs of hypercapnia - e.g. confusion, drowsiness, coma - Signs of respiratory failure - exhaustion, deterioration of ABG despite optimal Tx, respiratory arrest
+    
+    ![](../img/ventilation_indications_asthma.png)
+    
+    ![](../img/immediate_mx_of_asthma_exacerbations.png)

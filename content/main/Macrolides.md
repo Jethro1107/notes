@@ -1,0 +1,31 @@
+---
+id: 36e0d271-173f-4a8d-a096-00393148f532
+title: Macrolides
+---
+
+# Macrolides
+
+- **Definition** - group of <u>bacteristatic agents</u> that bind to bacterial ribosome to inhibit protein synthesis
+- **Selection of macrolides and lincosamide:**
+    - <u>Macrolides</u> - erythromycin (qid), clarithromycin (bid), azithromycin (single-dose IM or short-course PO)
+    - <u>Lincosamide</u> - linocycin, clindamycin
+- **Spectrum of macrolides and lincosamide:**
+    - Infections my G+ organisms in penicillin-allergic patients
+    - Intracellular infections by mycoplasma or chlamydia (e.g. GU infections)
+    - Legionellosis (Clarithromycin, Azithromycin)
+- **Pharmacokinetics:**
+    - **Macrolides:**
+        - Variable bioavailability
+        - Short half-life (except azithromycin)
+        - High protein binding
+        - Excellent intracellular accumulation
+    - **Lincosamide:**
+        - Good bioavailability
+        - Food has no effect on absorption
+        - Limited CSF penetration
+- **Pharmacodynamics** - time-dependent
+- **S/E:**
+    - <u>Gastrointestinal upset</u> - esp. in young adults (erythromycin 30%)
+    - <u>Cholestatic jaundice</u> - w/ erythromycin estolate
+    - <u>QT prolongation</u> - potential for torsades de pointes
+    - <u>C. difficle colitis</u> - wipe out of endogenous enterococcus especially by clindamycin

@@ -1,0 +1,43 @@
+---
+id: 713d7530-9656-455c-93d6-89e835067e7e
+title: BLS Part 6 BLS for Infants and Children
+---
+
+# Part 6: BLS for Infants and Children
+
+- **Paediatric BLS algorithm** - Single rescuer: 
+![](img/single_paediatric_bls_algorithm.png)
+- **Paediatric BLS algorithm** - 2 or more rescuers: 
+![](img/multiple_paediatric_bls_algorithm.png)
+- **Description of paediatric BLS alogorithm:**
+  - **Step 1** - verify scene safety for you and victim
+  - **Step 2** - check responsiveness, activate emergency response system via mobile device and get AED device if not responsive
+  - **Step 3** - assess pulse and breathing simutaneously (\< 10s):
+    - **Assessing breathing and pulse:**
+      - <u>Pulse</u> - check carotid pulse, brachial pulse, or femoral pulse
+      - <u>Breathing</u> - look for chest movements
+    - **Escalation of BLS algorithm:**
+      - <u>Breathing and pulse present</u> - monitor until emergency responders arrive
+      - <u>Abnormal breathing but pulse present</u> - rescue breaths (every 2-3s) while assessing pulse (start CPR if \< 60bpm)
+      - <u>No breathing and pulse</u> - start CPR and early defibrillation (initiate emergency response if witness collapse)
+  - **Step 4** - initiate high-quality CPR:
+    - **Chest compressions:**
+      - <u>Position</u> - faceup on firm, flat surface, rescuer at victims side
+      - <u>Compression-to-ventilation ratio</u> - 30:2 if single rescuer, 15:2 if 2 rescuers
+      - <u>Compression rate</u> - 100-120 bpm
+      - <u>Compression depth</u> - 1/3 of AP diameter of chest (4cm in infants, 5cm in child)
+      - <u>Chest recoil</u> - allowed to recoil completely after each compression to ensure sufficient ventricular filling
+      - <u>Interruptions</u> - minimised interruptions aiming at \> 60% chest compression fraction (CCF) to improve likelihood of ROSC, shock success and survival to hospital discharge
+      - <u>Technique</u>:
+        - One hand technique for child 
+        ![](img/two_finger_compression_infant.png)
+        - 2 finger or 2 thumb encircling hand technique (preferred) for infant 
+        ![](img/encircling_hand_technique.png)
+    - **Breaths:**
+      - **Opening airway** - use jaw-thrust maneuver if suspect head or neck injury to reduce neck movement:
+        - <u>Head tilt-chin lift</u> - 1) push with palm on forehead to tilt the head, 2) lift the jaw (bony part) to bring the chin forward, 3) ensure mouth not closed
+        - <u>Jaw thrust</u> - hands on each side of victims head and lift the victim's lower jaw
+      - **Barrier devices** - standard to avoid risk of infection from mouth-to-mouth:
+        - <u>Pocket mask</u> - mouth-to-mouth mask with 1 way valve to provide O2 from exhaled air
+        - <u>Bag-Mask device</u> - provide positive pressure ventilation to provide 21% O2 from room air
+  - **Step 5** - AED to check rhythm to see if rhythm shockable (check every 2m), note that adult pads or adult shock doses is better than no defibrillation

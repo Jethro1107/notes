@@ -1,0 +1,53 @@
+---
+id: 50C235CD-FB42-40A7-81FF-DAB53E824E48
+roam_parent: c00ac4ea-6b5b-401c-bf58-8cacd89a72ea
+title: Brief Psychotic Disorder
+---
+
+# Brief Psychotic Disorder
+
+- **DSM-5 diagnostic criteria of brief psychotic disorders:** 
+![](../img/dsm_5_dx_criteria_brief_psychotic_disorders.png)
+- **Diagnostic features of brief psychotic disorders** - a <u>sudden onset</u> of <u>positive psychotic symptoms</u>:
+    - **Florid psychotic symptoms** - at least one positive psychotic symptom should be demonstrable:
+        - <u>Onset</u> - usually sudden onset (change of non-psychotic to clearly psychotic state \< 2 weeks), usually w/o an identifiable prodrome (cf schizophrenia although onset can be abrupt as well)
+        - <u>Duration</u> - episodes last for at least 1 day, but less than 1 month, w/ eventual full return to premorbid level of functioning (B)
+        - <u>Manifestations</u> - presence of 1/4 Sx (cf schizophrenia defines 2/5 including negative Sx):
+            - Delusions
+            - Hallucinations
+            - Disorganized speech (e.g. frequent derailment or incoherence)
+            - Grossly disorganised or catatonic behaviour
+- **Associated features supporting diagnosis:**
+    - <u>Overwhelming confusion</u> - sudden onset puts patients into a trance resulting in very severe cognitive and functional impairment, and supervision may be required to ensure nutritional and hygienic needs met
+    - <u>Emotional turmoil</u> - often very labile affect w/ rapid shifts from one intense affect to another
+    - <u>Suicidality</u> - increased risk of suicide behaviour particularly during the active episode
+- **Epidemiology:**
+    - <u>Prevalence</u> - accounts for 9% of first-episode psychosis
+    - <u>Demographic</u>:
+        - Age - average age of onset around mid 30s (but can occur across lifespan)
+        - Sex - female preponderance (F:M = 2:1)
+- **Development and course:**
+    - <u>Onset</u> - variable age (average age of onset being the mid 30s but may appear in adolescence or early adulthood)
+    - <u>Course of psychosis</u>:
+        - Usually quite brief (e.g. a few days in some individuals)
+        - By definition requires full return of functioning within 1 mo of onset of disturbances)
+- **Risk and prognostic factors:**
+    - <u>Temperamental</u> - pre-existing personality disorders (e.g. schizotypal, BPD) or personality traits in the psychotism domains (e.g. perceptual dysregulation), and negative affectivity domain (e.g. suspiciousness)
+    - <u>Environmental</u> - brief psychotic disorders may be triggered by:
+        - Marked stressor (Brief psychotic disorder w/ marked stressor \[brief reactive psychosis\])
+        - Postpartum (onset during pregnancy or within 4 weeks of postpartum)
+        - Although symptoms may occur in the absence of a trigger
+    - <u>Relapse</u> - high, although w/ inter-episodic full remission
+- **Culture-related diagnostic issues:**
+    - Distinguish pathological symptoms from culturally sactioned response patterns
+    - As general rule of thumb, cultural and religious background must be taken into full consideration when considering whether beliefs are delusional
+- **Functional consequences of brief psychotic disorders:**
+    - High rates of relapse but generally manageable after induction of insight through psychoeducation and detection of relapse signatures
+    - Outcomes excellent in terms of social functioning and symptomatology
+- **Differential diagnosis:**
+    - <u>Other medical conditions</u> - e.delusions or hallucinations as a direct physiological consequences of a specific medical condition (e.g. Cushing's syndrome, brain tumour)
+    - <u>Substance-related disorders</u> - distinguished by the fact that a drug of abuse, medication, or toxin is judged to be etiologically related to psychotic symptoms
+    - <u>Depressive and bipolar disorder</u> - should be considered if psychotic symptoms occurs in association w/ a mood episode (i.e. symptoms occuring exclusively during a full major depressive, manic, or mixed episodes)
+    - <u>Other psychotic disorders</u> - considered if psychotic symptoms persist for \> 1 mo, Dx to consider includes delusional disorders, schizophreniform disorders, depressive disorders w/ psychotic features, bipolar disorders w/ psychotic features, and schizophrenia-spectrum disorders
+    - <u>Malingering and factitious disorders</u> - there is usually evidence that the illness is being feigned for an understandable goal (e.g. run ins with the law)
+    - <u>Personality disorders</u> - psychosocial stressors may precipitate brief perioods of psychotic symptoms and these episodes are usually transient (\< 1d) and do not warrant a separate Dx (additional Dx consideered if \> 1d)

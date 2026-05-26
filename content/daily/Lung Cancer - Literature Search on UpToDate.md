@@ -1,0 +1,96 @@
+---
+id: 79b851f1-99d0-47a3-b7bd-4b754e437d05
+title: 2025-08-10
+---
+
+# Lung Cancer - Literature Search on UpToDate <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+## Tumor, node, metastasis (TNM) staging for NSCLC
+
+- **Changes in AJCC 9th edition TNM staging for lung cancer:**
+    - <u>Changes to T staging</u>:
+        - Invasion of adjacent lobe has been added as T2a category
+        - Azygous vein, thoracic nerve, and stellate ganglion involvement added as T3 category
+        - Thymus, vagus nerve, supra-aortic arteries, brachiocephalic veins, subclavian vessels, vertebral body, lamina, spinal canal, cervical nerve roots, brachial plexus (ie, trunks, divisions, cords, or terminal nerves) involvement are specified as T4 category criteria
+    - <u>Changes in N staging</u> - new subclassification of N2 disease into single station or multiple station mediastinal involvement:
+        - The rationale for this change was a worsened overall survival for those with clinical N2b versus N2a disease (five-year estimate 31 versus 42 percent, respectively, HR 1.27), as well as pathologic N2b versus N2a disease (five-year estimate 40 versus 51 percent, HR 1.46), in analysis of the IASLC database
+    - <u>Changes in M-staging</u> - subdivision of M1c into M1c1 and M1c2
+    - <u>Changes in prognostic staging</u>:
+        - T1 N1 M0 changed to stage IIA (previously stage IIB disease)
+        - T1 N2a M0 assigned to stage IIB (T1 N2 M0 was previously stage IIIA disease)
+        - T2 N2b M0 assigned to stage IIIB (T2 N2 M0 was previously stage IIIA disease)
+        - T3 N2a M0 assigned to stage IIIA (T3 N2 M0 was previously stage IIIB disease)
+- **AJCC 9th edition TNM staging for lung cancer** - typically applicable to NSCLC: ![](~/Documents/notes/img/9e_ajcc_tnm_lung_cancer_t1_staging.png) ![](~/Documents/notes/img/9e_ajcc_tnm_lung_cancer_t2_staging.png) ![](~/Documents/notes/img/9e_ajcc_tnm_lung_cancer_t3-4_staging.png) ![](~/Documents/notes/img/9e_ajcc_tnm_lung_cancer_n_staging.png) 
+![](~/Documents/notes/img/9e_ajcc_tnm_lung_cancer_m_staging.png)
+- **AJCC 9th edition TNM prognostic staging:** ![](~/Documents/notes/img/9e_ajcc_tnm_lung_cancer_prognostic_groups.png) 
+![](~/Documents/notes/img/survival_of_ca_lung_by_stage.png)
+
+## Management of stage I and stage II NSCLC
+
+- **Principles of Mx:**
+    - <u>Surgical resection</u> - Tx of curative intent in all surgical candidates, with choice of lobectomy and limited (sublobar) lobectomy
+    - <u>Systemic therapy</u> - considered in stage IB disease w/ high risk features, and all stage II disease to prevent local and distal recurrence
+    - <u>Radiotherapy</u> - definitive RT for those who are not surgical candidates, while adjuvant RT is only considered only for patients w/ +ve surgical margins
+- **Surgical resection** - standard Tx for medically operable patients w/ clinical stage I and II NSCLC w/ no evidence of mediastinal LN involvement:
+    - **Pre-operative evaluation** - pre-operative physiological pulmonary evaluation to reduce post-operative pulmonary complications
+    - **Lobectomy** - surgical resection of a single node, is the gold standard procedure for most early-stage NSCLC:
+        - <u>Indications</u> - almost all stage I-II NSCLC, w/ exception of some small, peripheral tumours
+        - <u>Approach</u>:
+            - Video-assisted thoracoscopic surgery (VATS) - demonstrable decreased surgical morbidity, perioperative pain in high-volume centers, which may enhance compliance w/ post-operative adjuvant chemotherapy
+            - Robotic-assisted thoracoscopic surgery (RATS)
+            - Open thoracotomy
+    - **Limited sublobar resection** (segmentectomy or wedge resection):
+        - <u>Indications</u>:
+            - Small peripheral tumours - Stage IA (T1N0) disease \<= 2cm in diameter located in the outer one-third of the lung parenchyma
+            - Older or frail patients with limited pulmonary reserve (mixed and limited evidence)
+        - <u>Evidence for limited sublobar resection</u> - historically studies showed no benefit of limited resection, but increased use of LDCT screening increases detection rate of small peripheral NSCLC that has rekindled interests in role of limited resection:
+            - **Lung cancer study group** (Ginsberg and Rubinstein Study) - T1N0 NSCLC demonstrated that there were 1) increased risk of local recurrence (5.4% vs 1.9%), and 2) non-statistically significant increased mortality (however the majority of these lesions are \>= 2cm): 
+            ![](~/Documents/notes/img/lcsg_limited_resection_vs_lobectomy.png)
+            - **JCOG0802** (2022) - Phased 3 RCT non-inferiority trial demonstrated that careful selection of stage IA tumour (\<= 2cm, \> 0.5 consolidation-to-tumour ratio, and peripherally located) demonstrated:
+                - <u>Improved 5y survival w/ segmentectomy</u> - HR 0.66 \[95% CI 0.47-0.93\]
+                - <u>Similar 5y DFS</u> - 88.0% vs 77.9% for segmentectomy vs lobectomy
+                - <u>More locoregional recurrence</u> - 11% vs 5% for segmentectomy vs lobectomy, appears to be incongruous w/ OS
+            - **Altorki N et al** (2023) - similar results favouring sublobar resection in carefully selected groups of patients:
+                - <u>Similar OS</u> - HR 1.01 \[95% CI 0.83-1.24\]
+                - <u>Similar 5y survival</u> - 63.6% vs 64.1%
+                - <u>Similar 5y DFS</u> - HR 0.95 \[95% CI 0.72-1.26\]
+                - <u>Similar locoregional recurrence</u> - no statistically significant difference between two groups
+                - <u>Non-clinically meaningful improvement in lung functions</u> - FEV1 and FVC demonstrable 2% favouring sublobar resection
+- **Definitive radiation therapy** - primary therapy alternative to therapy for patients w/ early NSCLC who are not surgical candidates:
+    - **Stereotactic body radiation therapy** (SBRT) - preferred RT technique that delivers limited number of high-dose fractions using multiple convergent beams:
+        - <u>Principles</u> - employs IGRT, patient fixation and precision targetting enabling **rapid fall-off of dose at edge of target volume**, after accounting for margin and respiratory motion
+        - <u>Evidence</u>:
+            - **SBRT vs conventional RT** - similar OS w/ less S/E of RT (decreased pneumonitis \[19% vs 34%\], and esophagitis \[8% vs 30%\])
+            - **SBRT vs surgery** - no good level evidence demonstrating non-inferiority for patients who are surgical candidates
+    - **Conventional RT** - 45-66 Gy delivered in fractions of 1.8-2 Gy over 6 weeks, but not preferred if SBRT is viable
+
+## Management of stage III NSCLC
+
+## Management of metastatic NSCLC
+
+- **Principles of Mx:**
+    - **Factors influencing initial systemic therapy for advanced NSCLC:**
+        - Level of PD-L1 expression (\> 50% defined as high level)
+        - Oncogenic-driver mutation status (e.g. EGFR, ALK, ROS1, BRAF etc.)
+        - Histology (squamous vs non-squamous)
+    - **Initial molecular testing:**
+        - <u>PD-L1 testing</u> - for all patients w/ newly diagnosed advanced NSCLC to inform the use of immunotherapy in front-line setting
+        - <u>Oncogenic-driver mutation testing</u> - analysis of either primary tumor or of a metastasis for EGFR and ALK is indicated in all patients **whose tumour contains an element of adenocarcinoma**
+    - **Approach to Mx:**
+        - <u>Systemic therapy</u> - chemotherapy, targeted therapy and immunotherapy dependent on multiple factors
+        - <u>Specific Mx for metastatic disease</u> - e.g. specific Tx for oligometastatic disease, bone metastasis and CNS metastasis
+        - <u>Respiratory symptom paliation</u> - use of short course RT for paliation of symptoms caused by the primary tumour
+        - <u>Palliative care</u> - early integration to improve physical, psychosocial and spiritual quality of life
+- **Initial systemic therapy:**
+    - **Initial systemic therapy dependent on presence of driver mutation:**
+        - **Oncogenic driver mutation unknown or absent** - regimen dependent on PD-L1 status, but <u>chemotherapy doublet with immunotherapy</u> remains the mainstay option based on evidence:
+            - <u>High PD-L1 expression</u> (\> 50%) - chemoimmunotherapy or immunotherapy alone as an acceptable alternative
+            - <u>Low PD-L1 expression</u> (\< 50%) - chemotherapy doublet with concurrent immunotherapy (e.g. pembrolizumab, nivolumab plus ipilimumab)
+        - **Oncogenic driver mutation present:**
+            - <u>EGFR mutation positive</u> - EGFR TKI inhibitors (e.g. erlotinib, gefitinib, osimertinib) alone preferred over chemotherapy or immunotherapy based approach
+            - <u>ALK fusion oncogene positive</u> - ALK TKI (e.g. Alectinib first line) preferred over chemotherapy or immunothrapy based approaches
+    - **Chemotherapy** - platnium-based chemotherapy doublet:
+        - **Platnium-based chemotherapy** - carboplatin typically preferred over cisplatin in palliative setting due to lower toxicity
+        - **Doublet partner** - histology provides insight to optimal agents to be combined w/ platnium compound:
+            - <u>Non-squamous histology</u> - pemtrexed preferred, but alternatives include taxanes and gemcitabine
+            - <u>Squamout histology</u> - taxanes (e.g. docetaxel, paclitaxel), gemcitabine, vinorelbine, etoposide, irinotecan pair well w/ platnium

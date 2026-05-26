@@ -1,0 +1,109 @@
+---
+id: 58d2dc85-c86a-4b34-bc9d-57e0b7a09fb5
+title: Acute Kidney Injury
+---
+
+# Acute Kidney Injury
+
+- **Definition** - sudden and often reversibiliy loss of renal function over few days or weeks
+- **Epidemiology:**
+    - <u>Prevalence</u> - 7% of hospitalisations, 20% of critically ill patients
+    - <u>Mortality</u> - low in uncomplicated AKI (e.g. drug-induced or pre-renal AKI), up to 50-70% in complicated AKI (e.g. severe infection or a/w multi organ failure)
+- **Diagnostic criteria for AKI (KDIGO, AKIN, RIFLE):** 
+![](../img/aki_definition.png)
+- **Pathophysiology of AKI** - many causes, classified into three subtypes:
+    - **Pre-renal AKI** - renal damage caused by <u>hypoperfusion of the renal parenchyma</u>, resulting in:
+        - <u>Reduction of renal perfusion pressure</u> - drop in GFR resulting in azotemia
+        - <u>Acute tubular necrosis</u> - inflammatory changes, interstitial oedema, and focal breaks in tubular BM, w/ dead tubular cells shedding into renal tubules, resulting in **tubular obstruction**
+    - **Renal AKI** - renal damage caused by:
+        - <u>Glomerulonephritis</u> - direct inflammatory damage to the glomeruli resulting in drop in GFR
+        - <u>Acute tubular necrosis</u> - necrosis of tubular cells histologically in a similar manner as in pre-renal causes, but caused by drugs or toxins
+        - <u>Acute interstitial nephritis</u> - acute inflammatory changes in the renal tubules often caused by allergic reactions to drugs, toxins, of inflammatory disease
+    - **Post-renal AKI** - renal damage due to back pressure as a result of obstruction of urine flow from any point from tubule to urethra
+- **Etiology of AKI:**
+    - <u>Pre-renal</u> (\> 50%):
+        - Reduction in perfusion - Shock (hypovolemia, distributive), Reduced effective circulatory volume (Heart failure and liver failure)
+        - Renal venous congestion - Cardiorenal syndrome, Abdminal compartment syndrome
+        - Altered glomerular haemodynamics:
+            - Afferent arteriole vasoconstriction - NSAID, iodinated contrast media
+            - Loss of autoregulation of renal blood flow (exacerbates reduced kidney perfusion) - ACEi, SGLT2i
+    - <u>Renal</u> (\< 50%):
+        - Glomerular disease (GN) - RPGN (nephritic picture), severe nephrotic syndrome (rare cause of AKI)
+        - Tubulointerstitial diseases:
+            - Acute tubular necrosis - Ischaemia, nephrotoxic exposure
+            - Acute interstitial nephritis (typically drug induced)
+            - Cast nephropathy
+        - Renal vascular diseases - small vessel vasculitides, MAHA, malignant hypertension, atheroembolism or large vessel pathologies:
+            - Small vessel diseases - Small vessel vasculitides, renal atheroembolism, thrombotic microangiopathy, malignant HTN
+            - Large vessel diseases - Large/ medium vessel vasculitides, renal artery occlusion, aortic dissection
+    - <u>Post-renal</u> (\< 10%) - bilateral obstruction in individuals with healthy kidneys, while unilateral obstruction in those:
+        - Bladder outlet obstruction - prostic diseases (BPH, cancer), Renal calculi, Tumours (Urothelial carcinoma, metastasis)
+        - Papillary necrosis
+        - Retroperitoneal fibrosis
+- **Clinical features of AKI** - dependent on the subtype of AKI: 
+![](../img/differentiating_features_of_aki.png)
+- **Risk factors for AKI:**
+    - **Age** - \> 50y
+    - **Comorbidities** - Heart failure, Liver disease, pre-existing CKD, diabetic kidney, malignancy
+    - **Precipitating factors** - Hypovolemia, Sepsis, Trauma, Post-op (e.g. post-CABG)
+- **Complications of AKI:**
+    - <u>Anaemia</u> - common in AKI and may occur as the result of blood loss, haemolysis (e.g. MAHA) or deminished erythropoiesis (always think myeloma)
+    - <u>Spontaneous GI bleeding</u> - increased risk of bleeding due to uraemia resulting in acquired platelet dysfunction
+    - <u>Hyperkalaemia</u> - risk of cardiac arrhythmias esp. if severe (\> 6.5 mmol/L), and is particularly common in pre-renal AKI, AKI associated w/ sepsis, burns, haemolysis or concurrent metabolic acidosis
+    - <u>Metabolic acidosis</u> - due to impaired H+ excretion
+    - <u>Additional electrolyte disturbances</u> - dilutional hypontraemia (if not continues to drink freely despite oliguria), hypocalcaemia, hyper- or hypo-phosphataemia
+    - <u>Acute pulmonary oedema</u> - often in fluid overloaded patients due to excessive drinking of water despite oliguria, or inappropriate IV fluid replacement
+    - <u>Uraemic pericardial effusion</u> - rare but severe complications resulting in pericarditis
+    - <u>Uraemic encaphalopathy</u> - reduced GC due to uraemia
+- **Ix** - diagnosis of established AKI, w/ additional Ix for underlying cause: 
+![](../img/initial_ix_of_established_aki.png)
+    - **Urine** - Dipstick, Microscopy, urinalysis:
+        - <u>Urine dipstick</u>:
+            - Marked Haematuria and proteinuria in suggestive of glomerulonephritis
+            - Isolated haematuria requires confirmation on urine microscopy to differentiate between glomerular haematuria, tumour of the urinary tract, or urinary obstruction
+            - Leukocyturia may be present in acute interstitial nephritis
+        - <u>Urine microscopy</u>:
+            - RBC casts or dysmorphic red cells suggestive of glomerulonephritis
+            - Presence of leukocytes suggestive of AIN or renal infection
+        - <u>Urinalysis</u> - quantify proteinuria w/ spot ACR or PCR if heavy on dipstick
+    - **Routine bloods** - CBC, LRFT, CaPO4, Clotting, CRP, serology:
+        - **CBC:**
+            - <u>Hb and MCV</u> - NcNc anaemia may reflect anaemia of renal disease, or **myeloma**; macrocytic anaemia may reflect MAHA secondary to thrombotic microangiopathy
+            - <u>WBC</u> - leukocytosis reflects underlying ischaemia
+            - <u>PLT</u> - low platelet suggestive of DIC or thrombotic microangiopathy
+        - **RFT** - assess urine function, electrolytes:
+            - <u>Urea, SCr, eGFR</u> - compare w/ previous result to differentiate between AKI or acute-on-chronic renal failure
+            - <u>K</u> - treat hyperK urgently if \>= 6-6.5 mmol/L
+            - <u>HCO3</u> - typically metabolic acidosis
+        - **LFT** - <u>hypoalbuminaemia</u> reflects 1) APP in sepsis, or 2) nephrotic syndrome
+        - **CaPO4** - extremely important in differentiating course and etiology:
+            - <u>Ca</u> - hypoCa and hyperPO4 at baseline suggests CKD (correlate w/ previous results); hypoCa acutely may be caused by rhabdomyolysis; **hyperCa suggestive of myeloma**
+            - <u>PO4</u> - may be elevated in AKI, or depleted
+        - **Clotting profile** - prolonged PT, aPTT in DIC including sepsis
+        - **CRP** - unreliable in renal failure, elevated in inflammatory disease (e.g. lupus, vasculitis, sepsis)
+        - **Serology** - HIV, HBV and HCV serology if dialysis is urgently needed
+    - **Cardiac workup** - CXR and ECG:
+        - <u>CXR</u> - shows APO, pericardial effusion, evidence of pulmonary haemorrhage etc.
+        - <u>ECG</u> - if hyperK or high risk of cardiac disease
+    - **Microbiology** - blood culture +/- sputum, wounds as appropriate
+    - **Renal USG:**
+        - <u>Small kidneys</u> - suggestive of CKD
+        - <u>Assymetrical kidneys</u> - suggestive of renovascular disease
+        - <u>Hydronephrosis</u> - suggestive of post-renal AKI
+    - **Additional Ix** - dependent on underlying cause:
+        - <u>Suspected renovascular disease</u> - urgent arteriography, doppler USG
+        - <u>Initial Ix suggestive of glomerulonephritis</u> - immunological screen, w/ ANA, ANCA, anti-GBM, C3/4, cryoglobulins, ASO-titres
+        - <u>Suspected AIN</u> - CBC for eosinophilia and urinary eosinophilia
+        - <u>Suspected myeloma</u> - FBC, calcium, BM exaination, SPEP etc, urinary light chains +/- prognostic markeres
+        - <u>Systemic infection w/ unknown foci</u> - echocardiogram
+        - <u>Suspected post-renal AKI</u> - PSA +/- imaging of the urinary tract (e.g. CT urogram)
+
+    
+    ![](../img/ix_for_specific_cause_of_aki.png)
+- **Mx of AKI:**
+    - **Principles of Mx:**
+        - <u>Supportive Mx</u> - monitor for and Tx complications as they arise
+        - <u>Dx and Tx of underlying cause</u> - e.g. high dose steroids for AIN
+
+    
+    ![](../img/mx_of_aki.png)

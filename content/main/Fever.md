@@ -1,0 +1,245 @@
+---
+id: 09ea9024-46ac-4fc3-a92c-b99508ff7803
+title: Fever
+---
+
+# Fever
+
+- **Definition and terminology:**
+	- _Fever_ - elevation of body temperature that exceeds normal daily variation and occurs in conjunction w/ an increase in hypothalamic set point from "normothermic" to febrile levels
+	- _Hyperthermia_ - elevation of body temperature that exceeds normal daily variation towards febrile levels, acharacterised by increase in body temperature that exceeds the body's capacity to lose heat, where the hypothalamic set point remains unchanged
+- **Regulation of body temperature** - the hypothalamus as the control centre:
+	- _Hypothalamic theromoregulatory centre_ - neurons in the preoptic anterior hypothalamus and posterior hypothalamus receives two signals regarding temperature
+	- _Information processed_:
+		- Peripheral signals - signals detected by warmth/ cold temperatures conducted by peripheral nerves to CNS 
+		- Central signals - signals directly detected from the blood bathing the hypothalamic region
+- **At steady state:**
+	- The body metabolic processes produces more heat than is necessary to maintain the core body temperature of 36.5 to 37.5 degree celsius
+	- The excess heat generated is dissipated to the environment from the skin and lungs
+- **Variations in body temperature:**
+	- Influences of ambient temperature (higher ambient temperatures linked to higher baseline body temperatures)
+	- Diurnal variations in body temperature (lower at 8am, and higher in 4pm)
+	- Seasonal variations in body temperature (lower in summer and warmer in the winter)
+	- Decreasing baseline temperature with age (lower by 0.02 degrees celsius with age)
+	- Difference in baseline temperature with sex (and the menstrual cycle)
+	- Difference in baseline temperature with other demographic features
+	- Influence of comorbid conditions
+- **Different areas where body temperature can be taken:**
+	- _Oral temperature_ - a study in routine medical visits showed a mean oral temperature of 36.6 degrees celsius (95% CI 35.7-37.3 degrees celsius), hence fever is defined as > 37.7 degrees celsius (> 99% percentile)
+	- _Rectal temperatures_ - generally 0.4 degree celsius higher than oral temperature, likely attributable to mouth breathing (factor in respiratory infections w/ SOB)
+	- _Tympanic temperature_ - more variable than oral or rectal temperature, measured as radiance from the ear canal and tympanic membrane, may show temperature as is (unadjusted mode), or adjusted values based on nomograms from clinical studies (adjusted mode), usually unadjusted modes are usually lower by 0.8 degree celsius
+	- _Other temperatures used in research studies_ - lower-esophageal temperature likely reflects core temperature
+- **Physiological processes that occur with a rise in hypothalamic set point** - processes that ultimately result in a rise in temperature:
+	- **Heat conservation:**
+		- _Vasoconstriction_ - aimed at shunting of blood away from the periphery to the internal organs to essentially decrease heat loss from the skin:
+			- Extremities becomes cold and clamy
+			- The person feels cold, although body temperature has not changed objectively
+		- _Behavioural adjustments_ - reducing heat loss by putting on more clothing or beddings
+	- **Heat production:**
+		- _Shivering_ - increased metabolic rate of the body to raise body temperature sufficiently, but is not a necessary mechanism
+		- _Non-shivering thermogenesis_ - e.g. increased metabolic rate by the liver
+- **Pathogenesis of fever:**
+	- **Pyrogens** (Greek pyro, "fire") - any substances that causes a fever:
+		- **Exogenous pyrogens** - derived from outside the patients, which are commonly microbial products, microbial toxins, or whole micro-organisms (including viruses):
+			- _Lipopolysaccharides_ (Endotoxins) - most notable exogenous pyrogens produced by all G- bacteria (present as cell-wall component hence endo), IV injection at doses of 2-3 ng/kg produces fever, leukocytosis, acute-phase-proteins, and generalised symptoms of malaise
+			- _Toxins_ (super-antigens) - secretory material usually by G+ organisms, e.g. Staphylococcus toxic shock syndrome toxin-1, staphylococcal enterotoxins, streptotcoccal pyrogenic exotoxins
+		- **Pyrogenic cytokines** (endogenous pyrogens) - small proteins that regulate immune, inflammatory, and haematopoietic processes, where synthesis can be induced by bacterial and fungal products:
+			- Most notable pyrogenic cytokines are IL-1, IL-6, TNF-alpha, and ciliary neurotropic factor (IL-6 family)
+			- Myeloid, endothelial and liver cells are the primary cell types that produce pyrogenic cytokines
+			- IL-1 and TNF-alpha can induce fever production in relatively low doses (e.g. 10-100 ng/kg)
+			- IL-6 induces fever production in a moderate dose (1-10 mg/kg)
+	- **Stimulation of PDE2 production by exogenous and endogenous pyrogens:**
+		- _IL-1 receptors_ - found on the brain side of hypothalamic endothelium, stimulating PDE2 production
+		- _Toll-like receptors_ - group of receptors for distinct pyrogenic microbial products on the hypothalamic endothelium, w/ similar intracellular signalling cascade as IL-1
+	- **Mechanisms of PGE2 in inducing fever:**
+		- _Pyrogenic process mediated by EP-3_ - of the four receptors that respond to PGE2, only EP-3 is essential for fever as evident in mice studies
+		- _Stimulation of glial cells_ - binding to EP-3 on glial cells results in rapid release of cAMP, a neurotransmitters, which activate the hypothalamic thermoregulatory centres (directly or indirectly)
+	- **Elevation of the hypothalamic set point by pyrogenic cytokines** - induction of prostaglandin E2 (PGE2) production by cells then subsequently leak into the systemic circulation:
+		- 
+		![[Pasted image 20260419154524.png]]
+		- _Increase in PGE2 in periphery_ - accounts for the non-specific malaise and arthralgias that often accompany fevers
+		- _Elevation of PGE2 in the brain_ - most marked in circumventricular vascular organs:
+			- Increased synthesis of peripheral PGE2 will escape metabolism in the lungs and reaches the hypothalamus via the internal carotid, however no studies prove that PGE2 able to enter the CNS
+			- Triggering of PGE2 synthesis on brain side of hypothalamic endothelium is likely explanation of raised CNS PGE2 levels
+			- Results in raising of the hypothalamic set point for core temperature
+	- **Production of cytokines in the CNS** - mechanisms of hyper-pyrexia in local CNS pathologies:
+		- Mostly occuring in CNS haemorrhages, trauma or infections
+		- IL-1, IL-6 and TNF are produced by microglial cells and possibly neurons
+		- Concentration of cytokines necessary to produce fever is lower due to bypass of circumventricular organs
+- **Clinical features in association w/ fever:**
+    - **Rigors** - shivering followed by excessive sweating occuring from a rapid rise in body temperature from any cause
+    - **Night sweats** - sweating at night a/w certain infections (e.g. TB, IE), but also from other diseases (e.g. B-cell lymphoma)
+    - **Excessive sweating** - response to a decline to temperature set point in fever, but can occur after alcohol consumption, thyrotoxicosis, DM, acromegaly, lymphoma or excessive environmental heat w/o increase in body temperature
+    - **Recurrent fever** - recurrence of fever suggestive of specific cause (e.g. bacterial abscess, Borrelia recurrentis)
+    - **Other accompanying features** - these may be localising or non-localising:
+        - <u>Headache</u> - headache and photophobia may localise to **meningitis** but can accompany other infections
+        - <u>Delirium</u> - may be related to CNS infection, but can occur w/ any infection in the extremes of age
+        - <u>Myalgia</u> - accompany viral infection (e.g. influenza) or septicaemia (including meningococcal sepsis)
+        - <u>Shock</u> - often indicates sepsis
+- **DDx of fever** - disease categories that present w/ fever as cardinal sign:
+	
+	![[Pasted image 20260419154914.png]]
+- **DDx of fever** - exhaustive list including <u>infective</u> and <u>noninfective</u> causes:
+    - **Non-infectious causes:**
+        - <u>Rheumatological causes</u> - CTD (e.g. SLE, Still's disease) and vasculitis
+        - <u>Malignancies</u> - lymphoma and other haematological malignancies, ocassionally solid organ tumour (likely due to secondary infection or abscess formation)
+        - <u>Drugs</u> - drug fever
+        - <u>Miscellaneous</u> - sarcoidosis, factitious fever etc.
+    - **Infectious causes:** 
+	    - 
+	    ![](img/common_infectious_syndromes_with_localising_features.png)
+- **Salient points of Hx:** 
+    - 
+    ![](img/hx_in_suspected_infectious_disease.png)
+    - **HPI** - onset, duration, pattern, severity, and mode of measurement, associated Sx of fever:
+        - <u>Onset and duration</u> - acute vs chronic
+        - <u>Pattern</u> - historically used to identify cause of PUO (e.g. tertian or quaternian pattern a/w malaria, Pel-EBstein pattern a/w HL)
+        - <u>Severity</u> - degree of fever
+        - <u>Mode of measurement</u> - tympanic, infrared, axilla, oral, rectal etc.
+        - <u>Associated Sx</u>:
+            - Chills and rigors
+            - Night sweats (consider TB, lymphoma)
+            - Headache
+            - Confusion
+            - Muscle pain
+    - **Systems review** - associated Sx:
+        - <u>Respiratory Sx</u> - cough and sputum, SOB, haemoptysis
+        - <u>GI Sx</u> - abdominal pain, vomiting (note a/w raised ICP and CNS infections), diarrhoea, tea-coloured urine, constipation
+        - <u>Genitourinary Sx</u> - dysuria, urinary frequency, haematuria, loin pain
+        - <u>CNS Sx</u> - neck stiffness, headache, photophobia, focal neurological S/S
+        - <u>Rash</u> - note site and type of rash
+    - **PMH** - define the host and likelihood of infections:
+        - Surgical and dental procedures involving prosthetic materials
+        - Valvular heart disease, congenital heart disease or prosthetic valves (IE)
+        - Immunosuppression (incl. diabetes)
+        - Recurrent infections
+    - **Drug Hx** - antimicrobials, immunosuppressive drugs, medicines that interact w/ antimicrobials
+    - **Allergic Hx** - esp to antimicrobials (note drug and nature of reaction)
+    - **TOCC Hx:**
+        - <u>Travel</u> - includes countries visited and where previously resident (affects vaccination Hx, e.g. likelihood of BCG vaccination in childhood)
+        - <u>Occupation</u> - occupational exposure (e.g. Anthrax), sick coworkers
+        - <u>Contact</u> - w/ sick individuals, pets and recretional pursits
+        - <u>Clusters</u> - family and friends w/ similar Sx
+    - **Dietary Hx** - consider undercooked meats, shellfish, unpasturised dairy products or food bourne pathogens
+    - **SHx:**
+        - Smoking and alcohol
+        - Recreational pursuits
+        - IV drug use
+        - Sexual Hx (if suspected)
+    - **Vaccination Hx and use of prophylactic medicines**
+- **The pattern of fever** - certain diseases have characteristic patterns in which febrile episodes are separated by intervals of normal temperature:
+	- _Malaria_ - relapsing fever:
+		- Plasmodium vivax - fever every 3d
+		- Plasmodium malariae - fever every 4d
+	- _Borreliosis_ - relapsing fever that occurs every several days, followed by a several-day afebrile period and then relapsing into addtional days of fever
+	- _Pel-Ebstein pattern_ (Hodgkin lymphoma) - fever lsting 3-10d following afebrile periods of 3-10d
+- **Temperature-pulse dissociation** (relative bradycardia):
+	- Typhoid fever
+	- Brucellosis
+	- Leptospirosis
+	- Drug-induced fever
+	- Factitious fever
+- **P/E:**
+    - **Measurement of temperature** - tympanic temperature
+    - **Primary assessment** - Airway, Breathing, Circulation, Disability and Exposure:
+        - <u>Airway and breathing</u> - patency of airway, respiratory distress, SpO2
+        - <u>Circulation</u> - BP/P (<u>HR disconcordant of temperature is worrying for sepsis</u>), hydration status, capillary refill to assess risk of **septic shock** (+/- IV access)
+        - <u>Disability</u> - reduced consciousness (AVPU or GCS) may be caused by 1) CNS infections, 2) septicaemia, or 3) any infections in the extremes of age
+        - <u>Exposure</u>:
+            - Generalised erythema and warmth suggests of pyrexia
+            - Skin infections (e.g. cellulitis)
+            - Rash - classical rash in different types of infections (see below)
+            - IV injection sites and tattoos
+            - Surgical scars and prosthetic devices as potential site of infection
+    - **General examination** - head to toe examination:
+        - <u>Eyes</u> - Roth spots, and signs of opthalmic infection
+        - <u>ENT and head and neck examination</u>:
+            - ENT for otitis media, tonsillitis or abscess, candidiasis, dental carries
+            - H&N examination for cervical lymphadenopathy, parotidomegaly
+        - <u>Hands</u>:
+            - Hand signs of infective endocarditis (Osler nodes, Janeway lesions, Splinter haemorrhages, finger clubbing)
+            - Stigmata of chronic liver disease (generalised increased risk of infection, consider SBP)
+        - <u>Legs</u> - oedema for cardiovascular comprimise
+    - **Neurological examination** - especially if unable to localise origin:
+        - <u>Signs of meningism</u> - neck stiffness, photophobia, Kernig's sign, Brudzinski sign
+        - <u>Targeted neurological examination</u> - focal neurological S/S suggestive of raised ICP or parenchymal infection
+    - **Respiratory examination** - in detail if suspecting pneumonia (consolidation pattern, crackles, +/- pleural effusion)
+    - **Cardiovascular examination** - evolving murmur for IE
+    - **Abdominal examination:**
+        - Surgical drains
+        - Mass lesions
+        - Local/ generalised tenderness
+        - Hepatosplenomegaly
+        - Ascites
+        - Renal angle tenderness (acute pyelonephritis)
+    - **Muskuloskeletal examination** - examination of joint or back if suspected bone and joints infection
+	
+	![](img/pe_in_fever.png)
+- **Ix** - septic workup:
+    - **Send specimen for microbiology:**
+        - Blood culture
+        - Urine culture
+        - Throat swab (NPA) for PCR
+        - Other specimens - sputum, wound, stool:
+            - Sputum - for culture in suspected chest infections
+            - Wound - for culture in suspected wound and surgical site infections
+            - Stool - for cultures, microscopy, and C diff. toxin assay
+    - **Routine bloods** - CBC w/ differentials, LRFT, RBG, CK, inflammatory markers, Anti-HIV, ANA
+    - **Urine** - urinalysis for suspected UTI
+    - **CXR** - for detection of chest infections
+    - **12-lead ECG** - detection of arrhythmia as a result of infections
+    - **Additional investigations:**
+        - <u>NCCT brain and LP</u> - for suspected meningitis
+        - <u>Abdominal USG or CT abdomen</u> - for suspected intra-abdominal abscess
+- **Approach** - depends on following scenario:
+    - <u>Fever with localising S/S</u> - initiate empirical IV ABx based on likely etiological agent pending microbiological Dx
+    - <u>Pyrexia of unknown origin</u> - requires further investigation
+    - <u>Special circumstances</u> - additional concerns in special circumstances:
+        - Fever in the injection drug-user
+        - Fever in the immunocompromised host
+        - Neutropenic fever
+        - Post-operative fever
+        - Post-transplantation fever
+- **Drugs that result in blunting of the febrile responses:**
+	- Anti-pyretics (aspirin, paracetamol)
+	- Anti-inflammatory agents (e.g. NSAIDs)
+	- Chronic glucocorticoid therapy
+	- Anti-cytokine therapy
+- **Fever in patients receiving anti-cytokine therapy** (biologics):
+	- _Common diseases where anti-cytokine therapy is increasingly used_:
+		- Inflammatory bowel disease (esp. Crohn's disease)
+		- Rheumatoid arthritis
+		- Psoriasis
+	- _Increased risk of infection in those on anticytokine therapy_ - e.g. latent TB reactivation w/ anti-TNF agents, systemic cadidiasis w/ anti-IL-17 agents
+	- _Blunted fever response for patients on anticytokine therapy_ - low-grade fever may result in considerable concern in such cases:
+		- Fever remains the presenting S/S in patients on anticytokine therapy
+		- However, the degree of blunted febrile response is unknown, i.e. a mild fever may be the sole manifestation of a severe infection
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Symptomatic relief</u> - fever and associated systemic Sx (see above) can be treated by paracetamol and tepid sponging to cool the skin
+        - <u>Resuscitation</u> - consider fluid resuscitation due to septic shock, or dehydration due to excessive sweating
+        - <u>Further Mx</u> - dependent on underlying cause
+	- **The decision to treat the fever** - dependent on the nature of underlying infection:
+		- Currently, no significant evidences indicating that antipyretics delay the resolution of common viral and bacterial infections, such that they are not contraindicated esp in Tx of self-limiting diseases (e.g. viral infections)
+		- However, witholding antipyretics may facilitate diagnosis (e.g. relapsing fever, unusual febrile diseases), and assessment of Tx responsiveness (e.g. response to ABx in culture-negative bacterial infections)
+	- **Considerations favouring treatment of fever in certain patients** - fever increases O2 consumption (~ 13% for every 1 degrees above 37 degrees), and hence treatment of fever in those w/:
+		- Coronary artery diseases
+		- Pulmonary diseases
+		- Disorders of the CNS
+	- **Antipyretics:**
+		- _Mechanism of action_ - cyclo-oxygenase inhibition in the hypothalamus:
+			- Reduced coversion between arachidonic acid from cell membrane into PGE2
+			- Reduced PGE2 in hypothalamus restores the thermoregulatory set point
+		- _Selection_:
+			- Paracetamol - poor potency in the peripheral system and lacks anti-inflammatory effects, but oxidised in the CNS and becomes a potent COX inhibitor (additionally inhibits COX-3 which is only expressed in the CNS)
+			- NSAIDs (aspirin, ibuprofen) - strong COX 1/2 inhibitors centrally and peripherally (w/ limited evidence showing reduced pyrogenic cytokine production)
+		- _S/E_ - GI disturbance, bleeding risk
+	- **Glucocorticoids as an antipyretic** - operates at two levels:
+		- _Pre-genomic level_ - inhibition of cyclo-oxygenase through inhibition of activity of PLA2, needed to release arachidonic acid from cell membrane
+		- _Genomic level_ - reduced expression of pyrogenic cytokines
+	- **Anti-cytokine therapy in reducing fever in autoimmune and auto-inflammatory diseases:**
+		- Most fevers in autoinflammatory diseases respond to usual antipyretics
+		- These fevers can be dramatically reduced by IL-1-beta antagonists (e.g. anakinra, canakinumab)
+	- **Other non-pharmacological options** - cooling blankets:
+		- Used in hyper-pyrexia
+		- As adjunct to oral antipyretics rather than sole therapy

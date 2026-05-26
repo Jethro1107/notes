@@ -1,0 +1,84 @@
+---
+id: 32c35e85-5043-4e18-a652-27aa8794379f
+title: Multiple Sclerosis
+---
+
+# Multiple Sclerosis
+
+- **Definition** - a chronic, progressive inflammatory demyelinating disorder of the CNS
+- **Epidemiology** - important cause of long-term disability in adults:
+    - <u>Prevalence</u> - 120/100000, lifetime risk of 1 in 400 (UK Data)
+    - <u>Incidence</u> - 7/100000/y
+    - <u>Demographic</u> - female preponderance (M:F = 1:2), peak presentation at 4th decade (rarely in puberty or \> 60y)
+- **Pathophysiology of MS** - genetic and environmental factors play causative roles:
+    - <u>Genetic predisposition</u> - 15% risk of familial recurrence (highest risk in 1st degree relatives), 30% monozygotic concordance rate:
+        - **Implicated genes** - HLA predisposition, IL receptors, CLEC16A, CD266 genes
+    - <u>Environmental factors</u> - demonstrated by fact that there is geographical variation, and people <u>retain risk of developing disease in zones where they grow up in</u> (impact of environmental exposures during growth and development):
+        - **Implicated environmental exposure** - sunlight, vitamin D, EBV etc.
+    - <u>Paroxysms of CNS inflammation</u> - intiates through entry of activated T cells across BBB, which recognise myelin-derived antigens presented by microglial cells:
+        - <u>Release of inflammatory cytokines</u> - direct effect on transmission of nervous impulse causing clinical effect, prior to demyelination (hypothesis for the acute benefit of high-dose corticosteroids)
+        - <u>Inflammatory demyelination</u> - destruction of the oligodendrocyte-myelin units after macrophage recruitment, which is replaced by scarring through gliosis
+    - <u>Progressive axonal loss after attacks</u> - due to successive damage from acute attacks and subsequent loss of neurotrophic factors from oligodendrocyte, resulting in **progressive and persistent disabilities**
+- **Clinical features of MS:**
+    - **Clinical course** - 80% have a relapsing and remitting clinical course, while 20% have a progressive clinical course:
+        - <u>Relapsing and remitting course</u> (80%) - Gradual onset of S/S over days or weeks, resolving over weeks or months (episodic dysfunction with variable intervening recovery)
+        - <u>Progressive</u> (20%) - slowly progressive focal neurological S/S with no recovery in between
+        - <u>Fulminant</u> - early death
+    - **Frequency of attacks** - extremely variable:
+        - <u>Mild cases</u> - years to decades between attacks, or even no recurrence (especially if optic neuritis is the initial manifestation)
+    - **Common clinical presentation of multiple sclerosis:** 
+    ![](../img/clinical_presentation_of_ms.png)
+- **Ix** - no single diagnostic test for MS (requires correlation w/ clinical picture):
+    - <u>T2-weighteed MRI of brain and spinal cord</u> - 1) demonstration of disseminated demyelinating plaques in space or time and 2) exclude other structure diseases
+    - <u>Electrophysiology</u> - e.g. visual evoked potential (clinically silent lesions in \>70%), and other evoked potentials
+    - <u>Lumbar puncture and CSF analysis</u> - demonstrate inflammatory nature of disease:
+        - Cell counts - lymphocytic pleocytosis in acute phase
+        - Protein electrophoresis - oligoclonal bands in 70-90% patients in between attacks (non-specific for MS and only indicates intrathecal inflammation)
+
+  
+  ![](../img/ix_in_suspected_ms.png)
+- **Dx criteria** (MacDonald's criteria) - demonstration of <u>otherwise unexplained</u> CNS lesions <u>disseminated in space and time</u>: 
+![](../img/dx_criteria_ms.png)
+- **Mx of MS:**
+    - **Principles of Mx:**
+        - <u>Mx of acute episode</u> - high dose steroids to avoid permanent disability
+        - <u>Disease-modifying Tx</u> - Tx in inter-critical stages to reduce relapse rate and improve long term outlook
+        - <u>Mx of complications and disabilities</u>
+    - **Mx of acute episode:**
+        - **High dose steroids** - inhibit inflammatory response at onset of acute episode to prevent demyelination causing permanent disabilities:
+            - <u>RoA</u> - IV or oral
+            - <u>Duration</u> - 3-5d
+            - <u>Osteoporosis prophylaxis</u> - considered in patients requiring multiple courses of corticosteroids
+            - <u>Evidence for corticosteroids</u> - evidence supporting use in acute setting, but no effect of long-term steroids on preventing exacerbations and delaying progression of MS: 
+            ![](../img/corticosteroids_in_ms.png)
+    - **Disease-modifying Tx:** 
+    ![](../img/disease_modifying_tx_of_ms.png)
+        - **Beta-interferons:**
+            - <u>MOA</u> - immune modulation
+            - <u>Clinical efficacy</u> - effective in RRMS, and not effective in PPMS/ SPMS:
+                - RRMS - modest reduction of relapse rates (30%), and reduced long-term disability
+                - PPMS/SPMS - no effects in development of permanent physical disability
+            - <u>S/E</u>:
+                - Flu-like Sx
+                - Depression
+                - ABx against INF-beta (monitored; may preclude further long-term Tx, but does not appear to affect clinical outcomes)
+        - **Mitoxantrone:**
+            - <u>MOA</u> - cytotoxic agent (similar to daunorubicin)
+            - <u>S/E</u>:
+                - Cardiotoxicity
+        - **Natalizumab:**
+            - <u>MOA</u> - MAb against alpha-4 integrin (prevents entry into CNS)
+            - <u>Clinical efficacy</u> - improved clinical and radiological outcomes
+            - <u>S/E</u>:
+                - Progressive multifocal leucoencephalopathy (C/I in those w/ +ve titres of JC virus)
+    - **Tx of symptoms, complications and disabilities:** 
+    ![](../img/tx_complications_of_ms.png)
+- **Prognosis** - difficult to predict w/ confidence:
+    - **Prognosis after 1st attack:**
+        - Fulminant - 5% mortality within 5y of disease onset
+        - Remitting and relapsing - most have 1-2 episodes every 2 years
+        - Single occurance - 15% have single demyelinating episode and do not suffer from any other episodes
+    - **Good prognostic features:**
+        - Optic neuritis
+        - Only sensory relapse
+    - **Prognosis on morbidity** - 1/3 disabled after 10y, 1/2 after 15y

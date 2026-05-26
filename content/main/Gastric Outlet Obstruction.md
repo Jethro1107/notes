@@ -1,0 +1,98 @@
+---
+id: 6b477b85-ec1c-459f-b2b1-fc8d2e53181b
+roam_refs: "https://www-uptodate-com.eproxy.lib.hku.hk/contents/gastric-outlet-obstruction-in-adults?search=gastric%20outlet%20obstruction&source=search_result&selectedTitle=1%7E96&usage_type=default&display_rank=1#H17"
+title: Gastric Outlet Obstruction
+---
+
+# Gastric Outlet Obstruction
+
+- **Definition** - clinical syndrome characterised by epigastric pain and post-prandial vomiting due to mechanical obstruction
+- **Epidemiology** - precise estimates lacking, but rate of surgery declining due to 1) <u>decline in PUD</u>, 2) <u>Mx with endoscopic stenting</u>
+- **Etiology of GOO** - misnomer because many causes are not isolated to gastric pathologies, but rather involve duodenal or extra-luminal disease:
+    - **Neoplastic diseases:**
+        - <u>Malignant conditions</u> - pancreatic ductal adenocarcinoma (PDAC) w/ gastroduodenal invasion, distal gastric adenocarcinoma (up to 30% of all GOO)
+        - <u>Benign neoplastic conditions</u> - large antral pedunculated polyps
+    - **Inflammatory diseases:**
+        - <u>Peptic ulcer disease</u> (PUD) - can complicate in the acute setting due to inflammation-induced edema of the pylorus, or in the chronic setting due to pyloric stenosis, but remains a rare (2%) complication and largely seen in special conditions such as Zollinger-Ellison syndrom
+        - <u>Chronic pancreatitis</u> (or pancreatic pseudocysts) - weeping chronic inflammatory exudates from anterior pancreatic surface leading to fibrosis of adjacent structures, most notably the duodenum
+        - <u>Caustic injury</u> - fibrosis occurs 6-12 weeks after initial caustic injury
+        - <u>Crohn's disease</u> - occurs in the rare cause of gastro-duodenal Crohn's disease with stricture formation (\< 5% of IBD)
+    - **Infiltrative disease** - Gastric TB, eosinophilic gastroenteritis, chronic granulomatous disease, gastroduodenal amyloidosis
+    - **Rare entities:**
+        - <u>Intraluminal obstruction</u> - Bouveret syndrome (gallstone impaction within duodenum), gallstone bezoar
+        - <u>Intramural haematoma</u> - seen in anti-coagulated patients, patient's w/ bleeding disorders, or sen following abdominal trauma
+        - <u>Gastric volvulus</u> - secondary to rolling paraesophageal hernia or diaphragmatic hernia
+        - <u>Annular pancreas</u> - rare congenital condition where D2 is surounded by abnormal ring of pancreatic tissue
+- **Clincal suspicion of GOO** - suspected in all patients w/ epigastric pain or N/V
+- **Clinical features of GOO** - clinical course is usually <u>indolent</u> in neoplastic or inflammatory conditions, but may be <u>abrupt</u> in Bouveret syndrome, prolapsed antral polyp etc:
+    - <u>Epigastric pain</u> (94%) - may become unremitting or completely dissapears
+    - <u>Persistent N/V</u> (92%) - characteristically occurs post-prandially, non-billous and unpleasant, with undigested food (recognised foodstuff taken several days previously)
+    - <u>Weight loss</u> (63%) - suggestive of malignant disease, ocassionally TB, but also seen in benign diseases where chronic obstruction results in poor oral intake
+    - <u>Non-specific dyspeptic Sx</u> - early satiety (53%), epigastric distension, bloating (50%)
+- **Signs of GOO:**
+    - <u>General examination</u>:
+        - Signs of volume depletion (e.g. BP/P, mucous membrane, skin turgor)
+        - Malnutrition (e.g. wasting of intrinsic hand muscles)
+        - Carpopedal spasm - functional hypocalcaemia due to metabolic alkalosis
+        - Cervical LN - palpable Virchow's node, visible umbilical LN
+    - <u>Abdominal examination</u>:
+        - **Inspection:**
+            - Visible epigastric bulge - rather pathognomonic for GOO
+            - Visible abdominal mass - may be suggestive of primary tumour or metastasis (e.g. Krukenberg tumour)
+            - Abdominal distension - malignant ascites
+        - **Palpation** - palpable mass, usually absent of peritoneal signs, +/- hepatomegaly
+        - **Auscultation** - bowel sounds normal
+        - **Succussion splash** - splash reflective of delayed gastric material if noted \> 3h after meal
+- **Metabolic complications of GOO:**
+    - <u>Hypochloraemic alkalosis</u> - typically seen in benign GOO because of normal HCl excretion, but absent/ less pronounced in malignant GOO (most are achlorohydric)
+    - <u>Metabolic derrangements from dehydration</u>:
+        - HypoNa - urinary excretion of HCO3- to correct alkalosis, accompanied with Na
+        - HypoK and further alkalosis - sodium retention in activated RAAS causes excretion of K and H+
+        - Functional hypoCa - alkalosis causes reduced ionised Ca levels (paresthesiae and carpopedal spasm)
+- **Ix and diagnostic evaluation of GOO** - workup along the lines of acute abdomen, or persistent N/V depending on nature of onset:
+    - **Routine bloods** - CBC, LRFT, amylase, tumour markers:
+        - <u>CBC</u> - McHc anaemia secondary to chronic occult UGIB from PUD, upper GI malignancies, or gastric polyps
+        - <u>LFT</u> - Nutritional status (Alb.), cholestatic pattern if caused by CA head of pancreas when there is concurrent MBO
+        - <u>RFT</u>:
+            - Urea/Cr - reflective of hydration status
+            - Na, K, Cl, HCO3 - HypoNa, HypoK, HypoCl metabolic alkalosis (see above)
+            - Post-resuscitation increased Urea/Cr ratio - suggestive of UGIB
+        - <u>Amylase</u> - r/o superimposed acute pancreatitis esp. in the acute setting
+        - <u>Tumour markers</u> (e.g. CEA, CA 19-9) - non-specific, non-diagnostic but serves as baseline
+    - **Imaging** - Erect CXR, Erect and supine AXR, CT A+P:
+        - <u>Radiographs</u> - r/o perforation or IO
+        - <u>CT A+P</u> - diagnostic of GOO, and suggests etiology (although often proceed to direct OGD):
+            - Diagnostic findings - 1) gastric distension, 2) retained material, 3) air-fluid level
+
+      
+      ![](../img/ct_findings_of_goo.png)
+    - **Upper GI endoscopy** - confirming Dx of GOO (esp. if CT not pursued), assessment of etiology, and therapeutic options:
+        - <u>Timing of OGD</u> - after fasting and NG decompression to **reduce risk of aspiration** during endoscopy
+        - <u>Diagnostic evaluation of OGD</u> - demonstration of luminal obstruction and Bx of suspicious lesion
+- **Mx of GOO:**
+    - **Principles of Mx:**
+        - <u>Supportive care</u> - relieve Sx and complications as a result of N/V prior to workup
+        - <u>Assessment of etiology</u> - delineate etiology from initial imaging and endoscopic studies which alter Mx (see above)
+        - <u>Further workup and Mx</u> - dependent on etiology:
+            - **Benign GOO** - may be treated w/ endoscopic therapy, specific medical Mx, or surgery in selected patients
+            - **Malignant GOO** - further staging evaluation (EUS, Triphasic CT T+A+P, cholangiography) and assessment to resectability determines curative or palliative Mx for GOO
+    - **Supportive care** - address consequence and compplications of prolonged N/V:
+        - <u>Diet</u> - keep NPO, +/- NJ tube feeding or parenteral nutrition to optimise nutritional status
+        - <u>Nasogastric decomression</u> - large-bored NG tube placed fo gastric decompression indicated for continuous vomiting, significant abdominal distension
+        - <u>Fluid resuscitation and correct electrolyte imbalance</u> - maintain normovolemia (isotonic saline) and replete electrolytes (e.g. K supplementation)
+        - +/- <u>IV high-dose PPI</u> - administered regardless of cause to decrease volume of gastric secretions and reduce associated inflammation (esp. for PUD)
+    - **Endoscopic therapy for benign GOO** - endoscopic baloon dilatation or self-expanding metal stents (SEMS) for demonstrated benign GOO
+    - **Specific Mx for benign BOO based on etiology:**
+        - <u>PUD</u> - high dose PPI +/- H. pylori eradication if present
+        - <u>Chronic pancreatitis</u> - often refractory to balloon dilatation and require gastric bypass surgery
+        - <u>Acute pancreatic fluid collections</u> - drainage through percutaneous CT-guided, endoscopic drainage or other modalities
+        - <u>Crohn's disease</u> - IBD medical Mx (e.g. biologics, and corticosteroids), but are usually refractory due to fibrotic component, eventually opting for surgical intervention
+        - <u>Bouveret syndrome</u> - cholecystectomy with fistula reconstruction and retrieval of stone
+    - **Palliative options for unresectable malignant GOO:**
+        - **Endoscopic luminal stenting** - insertion of (uncovered) SEMS to bypass the obstruction:
+            - <u>Indications</u> - typically reserved for patients w/ short life expectancy (\< 2-6 mo) based on WHO performance status (3-4)
+            - <u>Stent options</u>:
+                - Uncovered SEMS - preferred due to lower risk of migration at the expense of increased tissue ingrowth
+                - Covered SEMS - higher risk of migration but lowre risk of tissue ingrowth
+        - **Palliative surgical Tx** - palliative resection or bypass surgery
+        - **Palliative RT** - reserved for unresectable locally-advanced CA stomach

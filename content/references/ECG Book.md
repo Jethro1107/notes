@@ -1,0 +1,258 @@
+---
+id: D08CAB6C-A494-4ADF-9CE3-E4DFA67A8D42
+title: ECG Book
+---
+
+# ECG Book
+
+## 01 Basic Anatomy and Electrophysiology of the Heart
+
+## 02 Basic Principles of ECG
+
+## 03 Electrical Axis of the Heart and Transitional Zones
+
+## 04 Basic ECG Waveforms
+
+### Electrical Axis of the Heart
+
+- **link:** <https://www.ecgbook.com/electrical-axis/>
+- **Definition** - refers to the main direction of depolarisation of the heart, determined by the main ventricular vector
+- **Electrical vectors of the heart** - vector rotation w/ time:
+    - <u>Small septal vector</u> - created during activation of the interventricular septum, where depolarisation normally occurs from **left to right**, accounts for the Q wave in the limb leads (and possible R wave in the right precordial leads)
+    - <u>Large main ventricular vector</u> - created during activations of both LV and RV, but is predominantly driven towards the left and inferiorly due to the greater LV mass compared to RV mass, accounts for R wave in the limb leads
+    - <u>Small terminal ventricular septum</u> - created by depolarisation of the base onf the LV, accounts for S wave in the limb leads (negligible)
+
+  
+  ![](../img/ventricular_vectors_ecg_book.png)
+- **Normal cardiac axis** - between -30 to +90 degrees:
+    - Lead aVL is the boundary between normal and LAD
+    - Lead I must be positive in normal axis, but aVF may be +ve (LLQ) or -ve (LUQ)
+    - lead II is used to distinguish between whether noraml axis or LAD
+- **3 step algorithm for determining the electrical axis of the heart** - for actual determination of the cardiac axis to the nearest 10 degrees:
+    - <u>Determinating the quadrant</u> - based on lead I and aVF
+    - <u>Identifying the highest R deflection</u> - gives a rough estimation of the exact vector
+    - <u>Biphasic QRS complex</u> - identification of the lead perpendicular to the vector
+- **Simple approach to axis deviation:**
+    - <u>Determination of quadrant</u> - lead I and aVF
+    - <u>Lead II</u> - used to distinguish between normal axis or LAD
+- **Determination of the quadrant** - screening based on lead I and aVF: 
+![](../img/determination_of_quadrants_of_cardiac_axis.png)
+    - <u>LLQ</u> (normal cardiac axis) - I +ve; aVF +ve
+    - <u>RLQ</u> (RAD) - I -ve; aVF +ve
+    - <u>LUQ</u> (normal or LAD) - I +ve; aVF -ve (distinguished by biphasic QRS in lead II)
+    - <u>RUQ</u> (extreme axis) - I -ve; aVF -ve
+- **Simple rules for r/o of axis deviation:**
+    - <u>-ve lead I</u> - r/o normal axis or LAD
+    - <u>-ve aVF</u> - r/o RAD
+- **Distinguishing between normal axis and LAD** - in the presence of I +ve, aVF -ve:
+    - <u>Biphasic lead II predominantly +ve</u> - normal cardiac axis
+    - <u>Biphasic lead II predominatly -ve</u> - LAD
+    - <u>Equiphasic lead II</u> - exactly -30 degrees
+
+  
+  ![](../img/lead_2_and_axis_deviation.png)
+
+### Right Axis Deviation
+
+- **link:** <https://www.ecgbook.com/right-axis-deviation/>
+- **DDx of -ve Lead I:**
+    - RAD
+    - Transposition of arm leads
+    - Dextrocardia
+- **ECG findings supportive of right axis deviation:**
+    - Lead I -ve, aVF +ve (LLQ)
+    - aVR is -ve
+    - R wave comparison between lead III and aVF gives the vector axis
+
+  
+  ![](../img/ecg_findings_off_right_axis_deviation.png)
+- **Causes of RAD:**
+    - <u>RVH</u> - Dominant R wave in V1, Dominant S wave in V5/6 +/- evidence of right heart strain
+    - <u>Lateral STEMI</u> - a/w ST/T changes in V5/6
+    - <u>Pulmonary embolism</u> (acute RV overload) - accounts for S1 in S1Q3T3 pattern, right heart strain, and clockwise rotation of heart (S in V6)
+    - <u>COPD</u> - due to low diaphragm position, causing apex to shift downward and to the right affecting the main vector (a/w RVH, right heart strain, and MAT in patient w/ COPD)
+    - <u>Hyperkalaemia</u> - a/w peaked T waves (T \> R in most leads)
+    - <u>Others</u> - juvenile ECG pattern, normal variant (verticle heart position in slim and tall individuals), TCA intoxication
+
+### Left Axis Deviation
+
+- **link:** <https://www.ecgbook.com/left-axis-deviation/>
+- **ECG findings supportive of left axis deviation:**
+    - Lead I +ve, aVF +ve (RUQ)
+    - Lead II -ve (recall lead II is perpendicular to aVL, i.e. the border of the normal cardiac axis)
+    - Lead III is also -ve
+
+  
+  ![](../img/left_axis_deviation.png)
+- **Causes of LAD:**
+    - <u>LVH</u> - deep S wave in V1, tall R wave in V5/6 (+ve Sokolow index)
+    - <u>Inferior STEMI</u> - STE in II, III, aVF
+    - <u>Others</u> - left anterior fascicular block, left tawara branch block
+
+### Extreme Axis Deviation
+
+- **link:** <https://www.ecgbook.com/extreme-axis-deviation/>
+- **ECG findings supportive of extreme axis deviation:**
+    - II, III, aVF -ve (definitive)
+    - Lead I usually also -ve (equiphase QRS in lead I if vector axis ~ -90 degrees)
+
+  
+  ![](../img/extreme_axis_deviation.png)
+- **Causes of extreme axis deviation:**
+    - VT
+    - HyperK
+    - Severe RVH
+
+### Transition Zone
+
+- **Definition and terminology:**
+    - <u>Cardiac rotation</u> - assessment of rotation of the heart around the longitudinal axis (similar to rotation of the head)
+    - <u>R wave progression</u> - progression of the R wave on precordial leads
+    - <u>Transition zone</u> - the lead where the main horizontal vector is perpendicular to the lead resulting in production of biphasic QRS complex, i.e. R = S (N = V3/4)
+- **Main cardiac vector:**
+    - Towards V6
+- **Normal R wave progressions:** 
+![](../img/normal_r_wave_progression.png)
+- **Clockwise rotation:**
+    - <u>Mechanism</u>:
+        - Viewed from below, rotation of the heart in the clockwise direction
+        - Results in shift of the main cardiac axis further away from V5/6
+        - Hence results in late transition point
+
+    
+    ![](../img/clockwise_rotation.png)
+    - <u>Causes</u>:
+        - LVH
+        - Emphysema
+        - Pulmonary embolism (RV dilatation)
+- **Counter-clockwise rotation:**
+    - <u>Mechanism</u>:
+        - Viewed from below, rotation of the heart in the counter-clockwise direction
+        - Results in shift of the main cardiac vector towards the anterior chest
+        - Resulting in earlier transition point (e.g. V2)
+
+    
+    ![](../img/counterclockwise_rotation.png)
+    - <u>Causes</u>:
+        - RVH (mimicks but in fact no rotation)
+        - Inferior MI
+        - WPW syndrome
+
+## 05 Basic Cardiac Rhythms
+
+## 06 Extra-systoles
+
+## 07 Sino-atrial and Atrial Blocks
+
+## 08 Atrioventricular Blocks
+
+## 09 Bundle Branch and Fascicular Blocks
+
+## 10 Pre-excitation Syndrome
+
+## 11 Cardiomyopathies
+
+## 12 Enlargement of the Atria and Ventricles
+
+## 13 Minerals and Medication
+
+## 14 Clinical Diagnoses and ECG
+
+## 15 Myocardial Infarction and Acute Coronary Syndrome
+
+## 16 Mechanisms of Cardiac Arrhythmias
+
+## 17 Supraventricular Tachycardias
+
+## 18 Ventricular Tachycardias
+
+## 19 Wide Complex Tachycardia
+
+### Wide Complex Tachycardia
+
+- **Wide QRS complex** - reflects disordered impulse cnduction in the ventricles, reflects:
+    - 1\) Diseased conduction system (e.g. bundle branch and fascicular blocks)
+    - 2\) Depolarisation through the working myocardium
+- **Definition of WCT:**
+    - <u>Tachycardia</u> - HR \> 100 bpm
+    - <u>Wide QRS complexes</u> - \>= 120ms
+- **DDx of wide-complex tachycardia:**
+    - <u>Ventricular tachycardia</u> (80% of WCTs) - depolarisation of ectopic ventricular source somewhere below the bifurcation of the His bundle branches
+    - <u>Supraventricular tachycardia w/ aberrancy</u> - SVT conducted via the AV node, but ventricles are depolarised from one bundle branch (i.e. pre-exisitng bundle branch block)
+    - <u>Supraventricular tachycardia w/ an accessory pathway</u> (antidromic AVRT) - ventricles depolarised through the accessory pathway accross the myocardium
+- **Other causes of WCT:**
+    - Hyperkalaemia
+    - Intoxification w/ class I antiarrhythmics
+    - Pacemaker tachycardia
+- **Approach to differentiating WCTs:**
+    - <u>Application of algorithms</u> - diagnostic algorithms for DDx of the mechanism underlying the wide-complex tachycardia (~ 10% cannot be denitively specified)
+    - <u>By epidemiology</u> - ~80% are VTs, while ~90% in those \> 50y are VTs, and should be Tx as VT if unclear
+- **Factors increasing the likelihood of VT:**
+    - Age \> 35y
+    - Ischaemic cardiomyopathy
+    - Old MI
+    - Chronic heart failure
+    - Cardiomyopathy
+    - Sudden cardiac death in family
+- **Factors incresaing the likelihood of SVT w/ aberrency or accessory pathway:**
+    - Documented wide complex SVT (i.e. resolved w/ adenosine or vagal maneuvers)
+    - Documented bundle branch block on older ECG w/ sinus rhythm
+    - Documented Pre-existing WPWS on older ECG (manifested WPW w/ delta waves)
+    - Otherwise young, healthy individual w/o structural heart disease
+- **ECG features of ventricular tachycardia** - not all must be present; each with their own Sn and Sp:
+    - HR \> 100 bpm
+    - Wide QRS complex (exceptions VT from ventricular septum or fascicular VT)
+    - Absence of typical ECG pattern of bundle branch block
+    - RSr' in V1
+    - Extreme axis deviation ("north-west")
+    - AV-dissociation
+    - Capture beats and fusion beats
+    - Precordial concordance (positive or negative)
+    - Brugada sign (RS interval \> 100ms)
+    - Josephson's sign (notch on descending part of S wave suggesting altered ventricular structure)
+    - R wave duration in lead II \>= 50 ms
+- **Diagnostic algorhithms:**
+    - <u>Brugada Algorithm</u> - differentiation between VT and SVT w/ abberancy
+    - <u>Brugada-Stuerer Algorithm</u> - differentiation between VT and PTX
+    - <u>aVR Algorithm</u> (Vereckei) - noted to be most accurate, and more importantly simplest
+    - <u>Pavas criteria</u> (Analysis of lead II) - based on the R wave peak time
+    - <u>Griffith Algorithm</u>
+
+### Brugada Algorithm
+
+- **Brugada algorithm:**
+    - Most commonly used algorithm for differentiating the mechanism of wide complex tachycardia
+    - Differentiates between VT and SVT w/ aberrancy
+    - The bulk of the work is the presence of WCTs w/ bundle branch morphology
+    - Does not differentiate pre-excitation SVT
+- **Pitfalls of Brugada algorithm:**
+    - Cannot differentiate between idiopathic VT
+    - May incorrectly classify PTX as VT
+    - May incorrectly classify branch re-entry ventricular tachycardia as aberrant SVT
+- **Test properties:**
+    - Sn 98%
+    - Sp 96%
+- **Approach to Brugada algorithm:**
+    - <u>Initial screen</u> - 4 ECG rules to rule in VT
+    - <u>Additional evaluation</u> - evaluation of the WCT w/ and evaluation of V1, V6 and frontal axis plane
+
+  
+  ![](../img/brugada_algorithm.png)
+
+### Brugada-Stuerer Algorithm
+
+### aVR Algorithm (Vereckei)
+
+- **aVR algorithm**
+    - Most accurate and easy to use algoirithm for differentiating the mechanism of wide complex tachycardia
+    - Differentiates between VT and SVT w/ aberrancy
+    - The bulk of the work is the presence of WCTs w/ bundle branch morphology
+    - Does not differentiate pre-excitation SVT
+
+### R Wave Peak Time (RWPT) in Lead II
+
+### Griffith Algorithm
+
+## 20 Pacemaker
+
+## 21 Electrophysiological Phenomena

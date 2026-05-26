@@ -1,0 +1,268 @@
+---
+id: 415AC021-3BA1-42ED-8290-E12F66E102C9
+roam_refs: "\\[cite:@pasquelManagementDiabetesHyperglycaemia2021\\]"
+title: Pasquel et al 2021 Management of Diabetes and Hyperglycaemia in the Hospital
+---
+
+# Pasquel et al 2021 Management of Diabetes and Hyperglycaemia in the Hospital
+
+## **Introduction**
+
+- Diabetes and stress hyperglycaemia are common in hospital and are associated with increased complications, length of stay, and mortality.
+- COVID-19 data show increased vulnerability of people with type 1 and type 2 diabetes to developing complications in hospital compared with people without diabetes.
+- Inpatient hypoglycaemia is also associated with poor inpatient outcomes and increased health-care costs; this might reflect illness severity and comorbidities.
+- Experimental data: insulin-induced hypoglycaemia can lead to acquired long QT syndrome, potentially precipitating fatal cardiac arrhythmias.
+- For ~15 years, **insulin has been considered the cornerstone** of inpatient hyperglycaemia management, but practice varies and **RCTs suggest non-insulin drugs** can have a role for inpatients with type 2 diabetes.
+
+## **Recommendations and international variations in practice**
+
+- Guidelines exist despite limited high-quality evidence; ADA updates inpatient recommendations annually as part of Standards of Medical Care in Diabetes.
+- UK JBDS for Inpatient Care provides guidance for specific inpatient populations, including COVID-19-related recommendations (appendix referenced).
+- Endocrine Society (with other societies) published non-ICU diabetes/hyperglycaemia inpatient management guidelines in 2012.
+- Many recommendations are consensus-based due to inadequate evidence; notable differences between societies include glucose targets and recommendations on non-insulin glucose-lowering drugs.
+- **Practice variation**: insulin therapy common in USA/Canada, but not universal; metformin and sulfonylureas are relatively common in other countries (UK, India, Israel).
+
+## **Diagnostic criteria and glycaemic targets**
+
+- A **random blood glucose concentration \>7·8 mmol/L** (140 mg/dL) is regarded as a threshold to consider inpatient hyperglycaemia.
+- **Targets in critically ill patients:**
+    - ICU targets investigated: Van den Berghe et al reported euglycaemia 4·4–6·1 mmol/L (80–110 mg/dL) in surgical ICU associated with lower mortality vs aiming below glycosuria threshold, but results were not reproduced in broader ICU trials.
+    - NICE-SUGAR (2009): intensive insulin therapy assignment increased mortality risk in critically ill patients; hypoglycaemia risk in RCTs **led societies to recommend against aggressive euglycaemia targets**.
+    - 2009 ADA–AACE task force: **target 7·8–10·0 mmol/L** (140–180 mg/dL) for **most critically ill patients**; lower target 6·1–7·8 mmol/L (110–140 mg/dL) for selected ICU patients (eg, experienced centres, appropriate nursing support, cardiac surgery patients).
+    - ADA–AACE consensus statement **recommended against glucose targets \>10·0 mmol/L or \<6·1 mmol/L**.
+    - Society of Critical Care Medicine: start therapy in ICU at blood glucose ≥8·3 mmol/L (150 mg/dL) and maintain glucose \<10·0 mmol/L with strategies minimising hypoglycaemia.
+- **Targets for non-critically ill patients:**
+    - Non-critically ill: Endocrine Society and ADA–AACE recommended pre-meal \<7·8 mmol/L (140 mg/dL) and random \<10·0 mmol/L (180 mg/dL); ADA later relaxed to **7·8–10·0 mmol/L for most general medicine/surgery patients**.
+    - Acceptable higher ranges (up to 11·1 mmol/L \[200 mg/dL\]) may be used for terminally ill, severe comorbidities, or settings without feasible frequent monitoring/close nursing.
+    - UK JBDS: **target 6·0–10·0 mmol/L** (108–180 mg/dL) with **acceptable 4·0–12·0 mmol/L** (72–216 mg/dL); the 4·0 mmol/L **lower limit has been questioned for hypoglycaemia risk.**
+
+## **Pharmacological management of hyperglycaemia in the hospital**
+
+### Insulin therapy
+
+1.  Critically ill patients and patients with hyperglycaemic crises
+
+    - **Continuous insulin infusion** is preferred for ICU hyperglycaemia (including patients without diabetes) and for most hyperglycaemic crises (referenced as figure 1).
+    - Patients with **severe steroid-induced hyperglycaemia** or those undergoing solid transplant might also benefit from continuous insulin infusion.
+    - **US and UK societies** produced **IV insulin algorithms** for DKA and hyperosmolar hyperglycaemic state (33,34), rule of thumb:
+      - **Moderate-to-severe DKA**: generally treat with continuous insulin infusion
+      - **Mild-to-moderate DKA**: may be treated with frequent subcutaneous insulin injections.
+      - COVID-19 era: several centres modified DKA care to subcutaneous insulin protocols to reduce point-of-care testing frequency; adapted protocols referenced as available online.
+    - **Hypokalaemia** is common (~50%) **during hyperglycaemic crisis treatment**; severe hypokalaemia (\<2·5 mEq/L) is associated with **increased inpatient mortality**, prompting careful **potassium monitoring and need for systematic assessment of practice changes**.
+    - **Special scenarios:**
+      - Ischaemic events (MI or ischaemic stroke): rapid glucose control may be warranted, but intensive lowering has not shown additional benefit and may increase hypoglycaemia risk.
+      - Cardiac surgery: targeting 100–140 mg/dL vs 140–180 mg/dL may improve outcomes when using a computerised algorithm that minimises iatrogenic hypoglycaemia.
+    - **Stablisation of condition:**
+      - Transition from IV to subcutaneous insulin: 1. stable glucose for ≥4–6 h; 2. DKA resolution (normal anion gap and acidosis resolution); 3. haemodynamic stability (not on vasopressors); 4. stable nutrition plan; 5. stable IV infusion rates.
+      - **Estimate subcutaneous needs** (total SC insulin requirement) from **average infused insulin in the 12 h before transition**; example: 1·5 U/h implies 36 U/24 h total.
+      - **Basal vs prandial split** depends on <u>insulin type</u> (isophane/NPH vs longer-acting) and <u>nutritional status</u>.
+
+2.  Insulin regimens in non-critically ill patients
+
+    - Subcutaneous regimens with human and analogue insulins have been tested in non-critically ill patients with type 2 diabetes (table 1 referenced).
+    - **Regimens:**
+      - **Subcutaneous sliding scale** (SSI)/correctional insulin treats hyperglycaemia after it occurs; widely used despite guideline condemnation; associated with clinically significant hyperglycaemia and discouraged.
+      - **Basal–bolus insulin** definition: basal insulin once or twice daily + rapid-acting insulin before meals + corrective rapid-acting insulin doses.
+    - **Considerations when choosing between SSI and basal-bolus regimens:**
+      - Rule of thumb: RCTs show <u>better glycaemic control with basal–bolus than sliding scale</u> alone in <u>type 2 diabetes</u>; basal–bolus was associated with reduced complications in a composite outcome (postoperative wound infection, pneumonia, bacteraemia, acute renal failure, respiratory failure).
+      - SSImight be appropriate for **mild stress hyperglycaemia in patients without diabetes.**
+      - SSI alone should not be used in type 1 diabetes.
+    - **Dosing:**
+      - Starting total daily insulin dose (TDD) for insulin-naive or low-dose insulin users: 0·3–0·5 U/kg; allocate half to basal (1–2 times daily) and half to rapid-acting insulin divided three times daily before meals.
+      - Home insulin ≥0·6 U/kg/day: reduce TDD by 20% while in hospital to prevent hypoglycaemia with poor intake.
+    - **Considerations on dosing:**
+      - Lower starting doses reserved for higher hypoglycaemia risk: older (\>65 years), renal failure, poor oral intake.
+      - Basal–bolus may overtreat mild hyperglycaemia (\<11·1 mmol/L \[200 mg/dL\]); controlled-setting incidence of mild iatrogenic hypoglycaemia with basal–bolus is ~12–30%.
+    - **Basal-plus**: preferred for mild hyperglycaemia, decreased oral intake, and perioperative patients; consists of basal insulin ~0·1–0·25 U/kg/day + correction doses before meals or every 6 h if nil by mouth.
+    - **Premixed insulin** (human 70/30) associated with unacceptably high iatrogenic hypoglycaemia and is not recommended; **suggested for patients on enteral nutrition** in some guidance but data are scarce.
+
+3.  Insulin therapy and hypoglycaemia
+
+    - ICU euglycaemia targets (4·4–6·1 mmol/L \[80–110 mg/dL\]) increase iatrogenic hypoglycaemia risk and are discouraged.
+    - Severe hypoglycaemia is low in controlled settings but may occur more frequently in real-world practice and can be life-threatening.
+    - **Basal–bolus vs sliding scale**: <u>hypoglycaemia risk estimated 4–6 times higher with basal–bolus</u>; risk ratios reported as 5·75 (95% CI 2·79–11·83) for ≤3·9 mmol/L (70 mg/dL) and 4·21 (1·61–11·02) for ≤3·3 mmol/L (60 mg/dL).
+    - **To avoid hypoglycaemia:**
+      - Basal-plus recommended for fasting/procedure-expected patients with diabetes
+      - sliding scale alone recommended for patients without diabetes or those with good metabolic control treated with oral agents at home (with basal insulin added if glucose cannot be kept \<10·0 mmol/L \[180 mg/dL\]).
+
+### Non-insulin drugs
+
+- Older guidelines recommend against non-insulin inpatient medications due to **safety/efficacy concerns** (2,3,11); despite this, oral antidiabetes drug use in type 2 diabetes inpatients is not uncommon.
+- Recent RCTs/observational studies suggest non-insulin drugs (in-hospital \[62-69\] or post-discharge) can improve glycaemic control in general medicine/surgery type 2 diabetes patients with mild/moderate hyperglycaemia and have low hypoglycaemia risk.
+
+1.  Metformin
+
+    - Metformin is frequently used in hospital in type 2 diabetes despite inadequate trial evidence.
+    - **Avoid metformin in patients at risk of lactic acidosis**: anaerobic metabolism (sepsis, hypoxia), impaired clearance (significant renal impairment), impaired lactate clearance (liver failure).
+    - Discontinue metformin in acute kidney injury, hypoxia, shock, or before iodinated contrast imaging in patients with reduced eGFR (\<60 mL/min per 1·73 m²), liver disease history, alcoholism, acute heart failure, or intra-arterial contrast exposure.
+    - **Adjust for renal impairments:** Dose reduction recommended if eGFR 30–45 mL/min per 1·73 m²; discontinue if eGFR \<30 mL/min per 1·73 m².
+    - China study (\>1200 type 2 diabetes + COVID-19): inpatient metformin associated with increased lactic acidosis incidence (adjusted HR 4·46, 95% CI 1·11–18·0); lactic acidosis associated with higher metformin doses, worse kidney function, and higher COVID-19 severity.
+    - **Measure lactate in fragile patients** and withdraw metformin if lactate is increased.
+    - Reassess kidney function before restarting.
+
+2.  Sulfonylureas
+
+    - Up to one in five patients treated with sulfonylureas may have at least one hypoglycaemia episode in hospital.
+    - Hypoglycaemia risk associated with older age, concurrent insulin, and renal impairment.
+    - Professional societies **recommend against sulfonylureas** in hospital due to sustained hypoglycaemia risk.
+    - UK recommendations note sulfonylureas **might be useful for glucocorticoid-induced hyperglycaemia**.
+
+3.  Thiazolidinediones
+
+    - Inpatient use has declined; not often used.
+    - **Concerns:**
+      - fluid retention/heart failure risk
+      - delayed onset of action
+
+4.  SGLT2 inhibitors
+
+    - Presented as glucose-lowering drugs of choice for type 2 diabetes patients with heart failure or diabetic kidney disease.
+    - **Inpatient concerns** \[83\]:
+      - Euglycaemic DKA risk (especially poor intake)
+      - Genitourinary infections (especially mycotic infections)
+    - Pilot RCT \[84\]:
+      - Empagliflozin did not improve dyspnoea, NT-proBNP, diuretic response, or length of stay vs placebo
+      - Associated with reduced combined endpoint of worsening HF, rehospitalisation for HF, or death at 60 days
+    - Two larger trials testing inpatient/at-discharge SGLT2 inhibitor use in HF: NCT04157751 and NCT04249778.
+    - Authors state they **do not recommend routine inpatient SGLT2 inhibitor use**.
+
+5.  DPP-4 inhibitors
+
+    - Multiple RCTs/observational studies \[65-67, 69,75\] show DPP-4 inhibitors are well tolerated and **effective for glycaemic control with low hypoglycaemia risk** in **mild-to-moderate hyperglycaemia** (table 2 referenced).
+    - First pilot trial \[64\]: DPP-4 inhibitor effective alone or with basal insulin in type 2 diabetes with mild hyperglycaemia (\<10 mmol/L \[180 mg/dL\]).
+    - Larger trial (Sita-Hospital referenced in text context): sitagliptin + basal insulin vs basal–bolus; similar glycaemic improvement; sitagliptin group had reduced insulin use and fewer injections; treatment failure similar and independently associated with higher HbA1c; odds of failing therapy increased per 1-unit HbA1c change (OR 1·3, 95% CI 1·2–1·5).
+    - Linagliptin trial (non-cardiac surgery): as effective as basal–bolus when BG \<11·1 mmol/L (200 mg/dL) but less effective with higher BG at randomisation; hypoglycaemia reduced (2/128 \[2%\] vs 14/122 \[11%\], p=0·001; 86% relative risk reduction).
+    - Saxagliptin study: saxagliptin vs basal–bolus in very mild hyperglycaemia (admission BG ~150 mg/dL; mean HbA1c \<7% \[53 mmol/mol\]) reported similar findings.
+
+6.  GLP-1 receptor agonists
+
+    - GLP-1 receptor agonists and native GLP-1 have been tested in hospital; RCTs suggest preoperative liraglutide can improve perioperative glycaemic control in patients with and without diabetes (table 2 referenced).
+    - Non-ICU type 2 diabetes study: exenatide + basal insulin increased proportion of glucose readings in target 3·9–10·0 mmol/L to 78% vs exenatide alone 62% and basal–bolus 63%.
+    - Trials show increased gastrointestinal side-effects with GLP-1 receptor agonists
+    - Authors call for more research to balance glycaemic benefits/hypoglycaemia reduction vs GI side-effects.
+
+7.  Table 2: Randomised clinical trials assessing incretin-based therapies in non-ICU patients in hospital
+
+    - Umpierrez et al (2013): sitagliptin + SSI or sitagliptin + glargine vs basal–bolus (glargine–lispro); 90 medical/surgical type 2 diabetes patients (BG 7·8–10·0 mmol/L \[140–400 mg/dL\], OADs/low-dose insulin ≤0·4 U/kg/day); no glycaemic control difference; lower TDD and fewer injections in sitagliptin groups; sitagliptin alone less effective if baseline BG \>10 mmol/L (\>180 mg/dL).
+    - Pasquel et al (2017): sitagliptin + basal insulin (glargine) vs basal–bolus (glargine + lispro/aspart); 278 medical/surgical type 2 diabetes patients (≤0·6 U/kg/day); no glycaemic control difference; lower TDD and fewer injections with sitagliptin + basal insulin.
+    - Garg et al (2017): saxagliptin vs basal–bolus (glargine–aspart); 66 medical/surgical type 2 diabetes patients with HbA1c criteria (≤7·5% on ≤1 non-insulin agent or ≤7·0% on ≤2 agents); no glycaemic control difference; lower glycaemic variability with saxagliptin.
+    - Vellanki et al (2019): linagliptin + SSI vs basal–bolus (glargine + lispro/aspart); 250 surgical type 2 diabetes patients (≤0·5 U/kg/day); no difference in mild-to-moderate hyperglycaemia (BG \<11·1 mmol/L \[200 mg/dL\]); linagliptin alone not effective if BG \>11·1 mmol/L; hypoglycaemia risk significantly reduced with linagliptin.
+    - Abuannadi et al (2013): exenatide infusion vs historical intensive target (90–119 mg/dL) or moderate target (100–140 mg/dL); 40 coronary ICU patients without diabetes and non-insulin-dependent type 2 diabetes; median steady-state glucose with exenatide 7·3 mmol/L (IQR 6·1–8·7), similar to moderate target, higher than intensive target.
+    - Kohl et al (2014): native GLP-1 vs placebo; 77 elective cardiac surgery patients (with/without diabetes); mean BG 30 min post-bypass 6·3 mmol/L (SD 1·2; 113 mg/dL \[SD 21\]) vs 7·1 mmol/L (SD 1·2; 128 mg/dL \[SD 21\]); p=0·001.
+    - Besch et al (2017): exenatide infusion vs insulin infusion; 104 perioperative CABG patients without diabetes or with non-insulin-dependent type 2 diabetes; ≥50% time-in-target 5·6–7·8 mmol/L (100–139 mg/dL) achieved in 38/53 (72%) exenatide vs 41/51 (80%) insulin; p=0·3; stopped after futility; exenatide delayed start of insulin infusion but insufficiently efficient after CABG.
+    - Polderman et al (2018): liraglutide 0·6 mg SC evening before + 1·2 mg after induction vs glucose–insulin–potassium infusion (30 min before to 4 h after) vs bolus insulin; 150 perioperative non-cardiac surgery type 2 diabetes patients (diet, OADs, or insulin \<1 U/kg); median BG 1 h post-surgery lower with liraglutide 6·6 mmol/L (IQR 5·6–7·7) vs insulin infusion 7·5 (6·4–8·3) vs bolus 7·6 (6·4–8·9); p=0·006; more nausea with liraglutide (p=0·007).
+    - Lipš et al (2017): continuous exenatide infusion add-on vs saline add-on, both with standard insulin therapy; 40 heart failure patients (with/without diabetes) undergoing CABG; no significant cardiac function effect except reduced temporary postoperative pacing need; improved glycaemic control with exenatide (absolute difference −0·83 mmol/L, 95% CI −1·25 to −0·40).
+    - Fayfman et al (2019): exenatide 5 mg twice daily vs exenatide 5 mg twice daily + basal insulin (glargine or levemir) vs basal–bolus (glargine or levemir + aspart or lispro); 150 medical/surgical type 2 diabetes patients (≤0·5 U/kg/day); mean daily BG after day 1: exenatide + basal lower than exenatide alone (8·6 mmol/L \[SD 2·2; 154 mg/dL (SD 39)\] vs 9·8 mmol/L \[SD 2·3; 177 mg/dL (SD 41)\]; p=0·02) and similar to basal–bolus (9·2 mmol/L \[SD 2·2; 166 mg/dL (SD 40)\]; p=0·31); target-range % 78% vs 62% vs 63%; p=0·023.
+    - Kaneko et al (2018): perioperative liraglutide vs insulin therapy; 92 elective surgery type 2 diabetes patients; better glycaemic control with liraglutide; lower proportion requiring correction insulin; lower overall insulin requirements.
+    - Hulst et al (2020): liraglutide 0·6 mg SC evening before + 1·2 mg after induction vs placebo; 278 cardiac surgery patients (84% without diabetes, 16% type 2 diabetes); 18% absolute reduction in patients requiring insulin with liraglutide (p=0·003); insulin dose and number of injections lower with liraglutide; no hypoglycaemia difference.
+
+## **Special situations**
+
+### Medical nutrition therapy
+
+- Hyperglycaemia is common during parenteral and enteral nutrition.
+- For diabetes patients on enteral nutrition: recommend formulas with lower glycaemic index.
+- Parenteral nutrition: study suggests benefit of admixing short-acting insulin into the parenteral bag vs subcutaneous insulin only.
+- **Basal-bolus insulin for enteral nutrition with sustained hyperglycaemia** (with or without diabetes): recommend basal insulin (isophane every 8 h, detemir every 12 h, or glargine every 24 h) + short-acting insulin every 4–6 h.
+- If tube feeding interrupted: start IV 10% dextrose at 50 mL/h.
+- UK guidance for enteral feeding: 70/30 mixed insulin, half at feed start and the rest halfway through.
+- Closed-loop insulin administration trial in medical nutrition therapy reported promising preliminary results.
+- COVID-19 tube-feeding regimens: authors cite a summary recommending balancing contact frequency, glycaemic control, variability, and hypoglycaemia risk; example mitigation includes relaxed targets with less frequent testing (every 2–4 h) during IV insulin infusion.
+
+### Glucocorticoid use
+
+- Glucocorticoid use is common: with higher/repeated steroid doses, **afternoon/evening hyperglycaemia is common**.
+- Observational study: multiple-dose insulin therapy initiated at 1–1·2 U/kg/day (25% basal, 75% prandial) appeared effective for hyperglycaemia in patients receiving high-dose dexamethasone chemotherapy when two BG readings \>13·9 mmol/L (250 mg/dL).
+- Patients without diabetes: a single morning dose of isophane insulin may be appropriate (as referenced to UK guidance context).
+- Diabetes patients already on insulin: control is more challenging.
+- **RCT**: adding isophane insulin 0·1–0·3 U/kg/day (dose determined by steroid dose and oral intake) to the usual insulin regimen significantly improved glycaemic control.
+- Diabetes UK dexamethasone-induced hyperglycaemia guidance (COVID-19 context): initial correction may require a more resistant sliding scale; to maintain glucose, recommend isophane insulin twice daily with total dose 0·3 U/kg/day, giving 2/3 in the morning and the remainder in early evening; insulin needs may decline rapidly after stopping dexamethasone; sulfonylureas not recommended in this scenario.
+
+### Perioperative management
+
+- FDA recommendation: **withhold SGLT2 inhibitors 3–4 days before surgery** due to euglycaemic DKA risk.
+- High perioperative glucose is **associated with increased infective and non-infective complications** in patients with and without diabetes; high HbA1c is less strongly associated but often targeted preoperatively.
+- UK National Confidential Enquiry into Patient Outcome and Death (perioperative diabetes) issued recommendations including multidisciplinary management policies, referral processes for glycaemic optimisation, glucose monitoring recommendations, and recovery-room handover guidance (appendix referenced).
+- Trials in non-critically ill type 2 diabetes surgery patients: <u>basal–bolus approach shows adequate control</u>; <u>GLP-1 receptor agonist trials suggest potential perioperative glycaemic benefits</u>.
+- DPP-4 inhibitor studies did not meaningfully reduce perioperative hyperglycaemia incidence and are not recommended for this purpose.
+
+## **Diabetes technology in the hospital**
+
+### Point-of-care testing and continuous glucose monitoring
+
+- Point-of-care testing has long been standard; networked glucose meters allow electronic health record documentation.
+- FDA-approved hospital continuous glucose systems: GlucoScout and OptiScanner 5000 (frequent/intermittent venous blood extraction via central/peripheral catheter); patient-centred outcomes data are scarce.
+- Wearable CGM in hospital is described as scarce experience; Abbott Freestyle Libre is intermittently scanned (newer version with real-time alarms), Dexcom and Medtronic provide real-time CGM, Senseonics Eversense is implanted (real-time for 5–6 months).
+- Inpatient CGM concerns: accuracy during acute disturbances (hypoxaemia, vasoconstriction, severe dehydration, rapidly changing glucose in DKA) and chemical interference (high-dose paracetamol \>4 g/day, salicylic acid, ascorbic acid).
+- CGM removal required for certain procedures (company-specific lists), including MRI and diathermy.
+- Small trials suggest real-time CGM can improve inpatient glycaemic control; COVID-19 reports describe use for remote management in non-ICU and ICU settings.
+
+### Continuous subcutaneous insulin infusion
+
+1.  Standalone insulin pumps
+
+    - Observational data: inpatient continuous subcutaneous insulin infusion associated with reductions in severe hyperglycaemia (BG \>16·7 mmol/L \[300 mg/dL\]) and hypoglycaemia (\<2·8 mmol/L \[50 mg/dL\]).
+    - Societies advocate pump continuation in appropriate inpatients with hospital policies, inpatient diabetes teams, and signed patient agreement.
+    - If unable to continue pump (eg, lacking policies/resources), switch to basal–bolus; long-acting insulin dose often derived from pump’s 24-h total basal dose.
+    - Contraindications listed: impaired consciousness (except short-term anaesthesia), inability to use pump settings, inability to self-manage, hyperglycaemic crises, lack of supplies, lack of trained staff, or provider decision; pumps must be removed for some radiological procedures such as MRI.
+    - Safety issues noted: software problems, alarm errors, human factors, site infection, broken components, cybersecurity issues; policies should address transitions (eg, IV infusion back to pump) and transfers across hospital areas.
+
+2.  Insulin pumps with continuous glucose monitoring integration
+
+    - Early pump advances: threshold suspend and predictive-low suspend; a consensus statement recommended automatic threshold suspend features be turned off in hospital.
+    - Hybrid closed-loop (automated insulin delivery) systems commercially available for type 1 diabetes: Medtronic 670G, Diabeloop, Tandem Control-IQ; other companies developing systems include Insulet, Bigfoot Biomedical, Beta Bionics, Roche.
+    - Inpatient type 2 diabetes trial: closed-loop group (n=70) achieved higher % glucose readings in target 5·6–10 mmol/L (100–180 mg/dL) than control (n=66): 65·8% vs 41·5%; p\<0·001.
+    - Subgroup end-stage renal disease (n=17) receiving closed-loop: significant increase in time in range reported.
+    - Nutrition-support trial: time in range 68·4% (SD 15·5) with closed loop vs 36·4% (SD 15·5) control.
+    - Authors state the single-system/algorithm findings need reproduction/expansion before routine inpatient use is recommended.
+
+## **Remote inpatient diabetes management during the COVID-19 pandemic**
+
+- Electronic health record evolution enables remote monitoring of point-of-care glucose, risk stratification, e-consults, and insulin dosing software/calculators as decision support systems.
+- Reports describe feasibility of virtual inpatient diabetes care using dashboards identifying out-of-target glucose and e-consults for population-level control.
+- COVID-19 motivation for CGM: reduce bedside capillary testing and health-care worker exposure risk; as of April 2020 FDA did not object to CGM use in hospital during the pandemic.
+- Remote monitoring details: Dexcom G6 and Abbott Freestyle Libre are factory-calibrated; Dexcom sensors can transmit if receiver/phone within ~6 m; pairing via Dexcom G6 app or Freestyle LibreLink; followers via Dexcom Follow or LibreLinkUp; dashboards include LibreView and Dexcom CLARITY.
+- Authors state experience with automated insulin delivery + remote monitoring during COVID-19 is anecdotal and more data are needed on efficacy, safety, barriers, and costs.
+- Efforts to integrate CGM data into EHR are ongoing; ambulatory feasibility described, but inpatient-adapted EHR integration (validation and summary reports) is needed.
+
+## **Resources for diabetes care during the COVID-19 pandemic**
+
+- Examples of adapted protocols include DKA protocol changes, remote consult teams, non-insulin agent use, and CGM in ICU/non-ICU settings; examples referenced as available online.
+- Authors call for systematic evaluation of these process changes; resources mentioned as available from Diabetes UK, ADA, and other sources.
+
+## **Considerations at hospital discharge**
+
+- At discharge, issues include transitions of care, clinical inertia, and hypoglycaemia risk; insulin commonly used inpatient and often appears on discharge regimens.
+- Diabetes self-management education and support is described as essential; “survival skills” include understanding diagnosis/goals/meal planning; home glucose monitoring to recognise/prevent/treat hypo- and hyperglycaemia; medication administration; sick day rules (continue meds, hydration, glucose monitoring every 4 h, temperature checks) and emergency instructions.
+- Discharge pharmacotherapy adjustment should consider pre-admission regimen, cardiorenal risk, inpatient response, and recent HbA1c.
+- Two discharge algorithms: if admission HbA1c \<7% (53 mmol/mol), resume pre-admission regimen; if 7–9% (53–75 mmol/mol), add small basal insulin dose or intensify regimen; if uncontrolled diabetes, use oral antidiabetes drugs + basal insulin or basal–bolus at 80% of inpatient dose.
+- Cost barriers are noted (insulin costs rising; non-insulin drug costs may be prohibitive); in some settings (eg, USA) affordability/coverage should be discussed.
+
+## **Priorities for future research**
+
+- Further research is needed to individualise therapy and define specific inpatient glycaemic goals for diabetes/hyperglycaemia.
+- Authors note rapidly changing medications/technology and call for efforts to simplify management and decrease iatrogenic hypoglycaemia risk; pragmatic trials of oral agents in hospital and studies identifying/preventing stress hyperglycaemia are needed.
+- With broader CGM/automated delivery use, artificial intelligence research to identify inpatient glycaemic phenotypes is proposed; cost-effectiveness analyses and guidance for translation to hospital care are needed.
+- Remote monitoring with alarms is described as promising but requiring more research.
+- COVID-19 context: urgent research to identify best strategies in ICU, DKA, steroid-induced diabetes, including technology; health services research on EHR integration and interoperability could accelerate care transformations.
+- Given benefits of SGLT2 inhibitors in heart failure irrespective of diabetes status, authors call for research on acute non-glycaemic effects and risk profile; ongoing trials NCT04157751 and NCT04249778 are reiterated.
+
+## **Conclusions**
+
+- Hyperglycaemia in hospital is common and associated with poor outcomes; continuous insulin infusion remains therapy of choice for hyperglycaemic crises and critical illness.
+- For non-critically ill patients, insulin remains preferred for severe hyperglycaemia, high home insulin doses, type 1 diabetes, or steroid-induced hyperglycaemia.
+- For mild-to-moderate hyperglycaemia, basal-plus with/without non-insulin agents is presented as a simplifying option (less insulin, fewer injections, less hypoglycaemia) vs more complex regimens; mild hyperglycaemia defined as \<11·1 mmol/L (\<200 mg/dL).
+- DPP-4 inhibitor with/without low basal insulin dose (0·1 U/kg/day) is stated to achieve similar control to more complex insulin regimens in selected mild-hyperglycaemia patients; moderate hyperglycaemia option described as basal insulin ~0·2 U/kg/day with/without oral agents if no contraindications; severe hyperglycaemia \>300 mg/dL (16·6 mmol/L) or home insulin \>0·6 U/kg/day suggests need for basal–bolus.
+- GLP-1 receptor agonists are described as seemingly safe and possibly reducing insulin needs without increasing hypoglycaemia, but further research is needed; inpatient diabetes technology is evolving but not ready for widespread use, and COVID-19 experience is framed as valuable for future policy and EHR integration efforts.
+
+## **Search strategy and selection criteria**
+
+- Databases/registries searched: PubMed, MEDLINE, Google Scholar, and clinical trial registries for English-language items up to Jan 7, 2021.
+- Search terms listed include: “diabetes”, “inpatient”, “hospitalized”, “hyperglycaemia/hyperglycemia”, “hypoglycaemia/hypoglycemia”, “incretin therapy”, “metformin”, “sulfonylurea”, “thiazolidinedione”, “SGLT-2”, “GLP-1”, “DPP-4 inhibitor”, “insulin”, “basal bolus”, “enteral nutrition”, “parenteral nutrition”, “corticosteroids”, “glucocorticoid”, “steroid induced hyperglycemia”, “insulin pump”, “CGM”, “closed-loop”, “clinical trial”, “randomized”, “outcomes”, “COVID-19”, and “complications”.
+- Reference lists of relevant publication types were screened; final reference list selected by relevance with preference for most recent relevant publications
+
+<!-- -->
+
+- Databases/registries searched: PubMed, MEDLINE, Google Scholar, and clinical trial registries for English-language items up to Jan 7, 2021.​
+- Search terms listed include: “diabetes”, “inpatient”, “hospitalized”, “hyperglycaemia/hyperglycemia”, “hypoglycaemia/hypoglycemia”, “incretin therapy”, “metformin”, “sulfonylurea”, “thiazolidinedione”, “SGLT-2”, “GLP-1”, “DPP-4 inhibitor”, “insulin”, “basal bolus”, “enteral nutrition”, “parenteral nutrition”, “corticosteroids”, “glucocorticoid”, “steroid induced hyperglycemia”, “insulin pump”, “CGM”, “closed-loop”, “clinical trial”, “randomized”, “outcomes”, “COVID-19”, and “complications”.​
+- Reference lists of relevant publication types were screened; final reference list selected by relevance with preference for most recent relevant publications

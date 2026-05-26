@@ -1,0 +1,44 @@
+---
+id: F19DBE26-1FFB-4979-A1D9-407E78C332E4
+roam_parent: D5288C77-085F-4E5F-A010-1EFA707CA81C
+title: Cardiac Rotation, Transition Zone, and R Wave Progression on the ECG
+---
+
+# Cardiac Rotation, Transition Zone, and R Wave Progression on the ECG
+
+- **Definition and terminology:**
+    - <u>Cardiac rotation</u> - assessment of rotation of the heart around the longitudinal axis (similar to rotation of the head)
+    - <u>R wave progression</u> - progression of the R wave on precordial leads
+    - <u>Transition zone</u> - the lead where the main horizontal vector is perpendicular to the lead resulting in production of biphasic QRS complex, i.e. R = S (N = V3/4)
+- **Main cardiac vector in the horizontal pane:**
+    - Straightest direction towards V6, however not the greatest amplitude as increased insulation from lung tissue
+    - Normal R wave progression should be characterised by smooth R wave amplitude increases from V1 to V4-5, and slight dip in V6 (insulation effect)
+
+  
+  ![](../img/cardiac_vector_in_the_horizontal_plane.png)
+- **Normal R wave progressions:** 
+![](../img/normal_r_wave_progression.png)
+- **Clockwise rotation:**
+    - <u>Mechanism</u>:
+        - Viewed from below, rotation of the heart in the clockwise direction
+        - Results in shift of the main cardiac axis further away from V5/6
+        - Hence results in late transition point
+
+    
+    ![](../img/clockwise_rotation.png)
+    - <u>Causes</u>:
+        - LVH
+        - Emphysema
+        - Pulmonary embolism (RV dilatation)
+- **Counter-clockwise rotation:**
+    - <u>Mechanism</u>:
+        - Viewed from below, rotation of the heart in the counter-clockwise direction
+        - Results in shift of the main cardiac vector towards the anterior chest
+        - Resulting in earlier transition point (e.g. V2)
+
+    
+    ![](../img/counterclockwise_rotation.png)
+    - <u>Causes</u>:
+        - RVH (mimicks but in fact no rotation)
+        - Inferior MI
+        - WPW syndrome

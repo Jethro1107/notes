@@ -1,0 +1,120 @@
+---
+id: f69a7af3-44a9-431a-b866-1a905f72a6ed
+roam_refs: "https://www.uptodate.com.eproxy.lib.hku.hk/contents/outpatient-evaluation-of-the-adult-with-chest-pain?search=chest%20pain&source=search_result&selectedTitle=3%7E150&usage_type=default&display_rank=3#H3549937692 https://www.uptodate.com.eproxy.lib.hku.hk/contents/approach-to-the-adult-with-nontraumatic-chest-pain-in-the-emergency-department?search=chest%20pain&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1#H2"
+title: Chest Pain, ACS and Aortic Dissection - Literature Search on UpToDate
+---
+
+# Outpatient evaluation of the adult with chest pain
+
+- 
+
+# Approach to the adult with nontraumatic chest pain in the emergency department
+
+- **Epidemiology** - 2nd most common complaint in A&E (USA):
+    - <u>Prevalence</u> - 6-7% of incidence
+    - <u>Distribution of etiology</u> - increasingly likely of life-threatening Dx with advancing age:
+        - **Life-threatening conditions** (6%) - ACS (90%), Aortic dissection, PE
+        - **Non-cardiac chest pains**
+- **DDx of acute chest pain** - consider all life-threatening conditions:
+    - **Life-threatening conditions:**
+        - <u>Acute coronary syndrome</u> (ACS)
+        - <u>Aortic dissection</u>
+        - <u>Pulmonary embolism</u>
+        - <u>Tension pneumothorax</u>
+        - <u>Pericardial tamponade</u>
+        - <u>Esophageal ruptures</u>
+        - <u>Myocarditis</u>
+        - <u>Takatsubo cardiomyopathy</u>
+        - <u>Perforated peptic ulcer</u>
+- **Clinical approach to acute chest pain:**
+    - **Initial clinical assessment** - differentiate between stable and unstable patients and potential etiology
+    - **Rapid stabilisation of patient** - resuscitation (airway, breathing, circulation), treat arrhythmias as per ACLS protocols
+    - **Rapid 12-lead ECG** - for all patients w/ chest pain
+    - **Targeted Hx and P/E** - after stabilisation of patient and initiation of presumptive Mx
+    - **Initial Ix:**
+        - <u>CXR</u>
+        - <u>Routine bloods</u> - CBC, LRFT, Clotting profile, lipid-profile (+/- Lipoprotein (a)), TFT, RBG, A1c, NT-pro-BNP, ABG, ESR, CRP
+        - <u>Cardiac markers</u> - troponin, CK
+        - <u>D-dimer</u>
+
+## Initial assessment and stabilisation
+
+- **Targeted Hx** - best differential based on presentation and risk factors, but must guard against premature diagnostic closure based on Hx due to common atypical presentation:
+    - **HPI** - characterise chest pain to distinguish between cardiac and non-cardiac chest pains:
+        - <u>Site</u>:
+            - **Cardiac chest pain** - central, retrosternal, and poorly localised/ diffuse
+            - **Non-cardiac chest pain** - peripheral, and well localised
+        - <u>Onset</u> - ischaemic chest pain takes time to develop to maximum intensity:
+            - **Sudden (instantaneous) onset** - features of aortic dissection, pulmonary embolism, or pneumothorax
+            - **Gradual onset** - MI takes minutes or longer to develop towards maximum intensity in association w/ exertion (pain after exertion is likely due to musculoskeletal or psychological origins)
+        - <u>Progression</u>
+        - <u>Quality</u>:
+            - **Cardiac chest pain** - dull, constricting, or heavy sensation over the chest (more of a discomfort than pain)
+            - **Pleuritic chest pain** - sharp, stabbing, knife-like pain
+        - <u>Radiation</u>:
+            - **Cardiac chest pain** - radiation to the neck, jaw, or upper arms, ocassionally to the back
+            - **Pleuritic chest pain** - usually non-radiating, or radiating laterally
+        - <u>Provocation</u>:
+            - **Cardiac chest pain** - often provacated during (not after) <u>exertion, emotion, eating, or in cold wind</u>, which may be promptly relieved by rest (\< 5 min), or increasing in intensity in unstable angina
+            - **Pleuritic and pericardial chest pain** - provacated by breathing, coughing or movement
+            - **Musculoskeletal chest pain** - provacated by specific movement (bending, stretching, turning)
+        - <u>Severity</u> - severe chest pain seen in ACS, aortic dissection or massive PE
+    - **Associated Sx:**
+        - **Dyspnoea** - may be a marked accompanying feature of ACS due to pulmonary congestion, but may be present in respiratory diseases (accompanied by other respiratory Sx)
+        - **Autonomic symptoms** (diaphoresis, N/V) - frequently accompany chest discomfort in <u>ACS</u>, <u>aortic dissection</u>, <u>massive PE</u>
+        - **Respiratory Sx** - cough, wheezing, haemoptysis suggestive of respiratory disease (but cough and haemoptysis also occurs in ADHF)
+        - **Complications of aortic dissection:**
+            - <u>Neurological Sx</u> (e.g. paraplegia) - dissecting carotid artery
+            - <u>Back or flank pain</u> - dissecting renal artery
+        - **Features of DVT** - preceeding or concomittent unilateral pain and leg swelling
+    - **PMH and social Hx - risk factor assessment:**
+        - <u>Risk factors for ACS</u> - HTN, DM, hyperlipidaemia, smoking, FHx of early CVD, peripheral artery disease
+        - <u>Risk factors for DVT</u> - recent immobilisation, surgery, pregnancy, COC pills, malignancy
+        - <u>Risk factors for pneumothorax</u> - pre-existing lung disease, scuba-diving, air travel
+    - **Prior testing:**
+        - <u>Prior diagnostic testing</u> - CTTA, stress tests to guage likelihood of CAD
+- **P/E:**
+- **Initial clinical assessment** - differentiate between stable and unstable patients:
+    - **Initial measures** - cardiac monitoring, IV access, O2 if hypoxic
+    - **Features requiring immediate evaluation** - abnormal vital signs, signs of shock (e.g. diaphoresis, cool peripheries), obvious distress, Hx suggestive of aortic dissection
+    - **Stabilisation of unstable patients:**
+        - <u>Resuscitation</u> - airway, breathing, circulation
+        - <u>Adress arrhythmias</u> - as per ACLS protocol
+        - <u>Administeration of aspirin</u> - presumptive Dx of ACS if compatible <u>with no concerns for GI perforation or aortic pathologies</u>
+        - +/- <u>Bedside USG</u> - for suspected pericardial tamponade, global LV dysfunction, RV straining etc.
+- **Subsequent evaluation:**
+    - **Rapid 12-lead ECG** - \< 10 min for all ED patients presenting w/ potenteal cardiac chest pain:
+        - **Role** - stratify patients with ACS and those w/o ACS
+        - **Findings compatible with ACS:**
+            - <u>Diagnostic findings of MI</u> - ST-elevation on 2 adjacent leads or STEMI-equivalents (new LBBB, posterior wall STEMI, de Winters sign) requires **immediate Tx of STEMI**
+            - <u>Ischaemic changes of UA or NSTEMI</u> - ST-depression and T wave changes in anatomical distribution, requires **Mx along the NSTE-ACS route**
+        - **Non-ischaemic ACS findings:**
+            - <u>Non-specific ST/T changes</u> - found in aortic dissection, P/E, and aortic dissection
+            - <u>Diffuse ST-segment elevation</u> - pericarditis or myopericarditis (mimics AMI)
+            - <u>S1Q3T3 pattern or right heart strain</u> - seen in massive PE
+            - <u>Sinus tachycardia</u> - raises suspicion of PE
+            - <u>Other rhythm problems</u> - VT and VF are complications of STEMI
+    - **CXR** - PA and lateral CXR obtained for most patients unless obvious ACS identified:
+        - **Role** - may be normal in ACS, principally for diagnosis of aortic, or respiratory disease:
+        - **Key diagnostic findings:**
+            - <u>Diagnostic findings of aortic dissection</u> - mediastinal widening +/- PE
+            - <u>Diagnostic findings of tension pneumothorax</u> - loss of vascular markings and white visceral pleural line
+            - <u>Diagnostic findings of GI perforation</u> - pneumoperitoneum by free gass under diaphragm
+        - **Other non-specific findings:**
+            - <u>Features of HF</u> - Upper lobe cephalisation, Kerley B lines, Peribronchial cuffing, Batwing opacity
+            - <u>Pleural effusion</u> - non-specific and seen in PE, aortic dissection, HF, and many other processes
+    - **Other initial Ix:**
+        - **Routine bloods** - CBC, LRFT, clotting profile, metabolic profile (lipids, RBG, A1c), ESR, CRP, TFT
+        - **Cardiac biomarkers** - Troponin, NT-pro-BNP
+            - <sub>Troponin</sub>
+        - **D-dimers** - role in r/o PE in haemodynamically stables with low-probaility of PE according to Well's score
+    - **Advanced diagnostic imaging** - indicated for patients if ACS unlikely (workup for other diseases):
+        - <u>CTPA or VQ scan</u> - for patients with suspected PE
+        - <u>CT angiography</u> - for diagnosis of aortic dissection
+        - <u>Echocardiogram</u> - for diagnosis of other cardiac conditions
+
+# Acute Coronary Syndrome
+
+# Chronic Coronary Syndrome
+
+# Aortic Dissection

@@ -1,0 +1,34 @@
+---
+type: main
+---
+# Acute Skin Failure and Erythroderma
+
+- **Definition** - a medical emergency a/w widespread and acute failure of many skin functions, most notably thermoregulation, fluid balance control and barriers to infection
+- **Pathophysiology of acute skin failure:**
+	- **Erythroderma** - erythema affecting > 80% of total body surface area, caused by widespread _vasodilation_ of derma vasculature:
+		- _Hypothermia_ - due to excessive heat loss due to vasodilation
+		- _High output cardiac failure_ - due to underlying vasodilation +/- dehydration, presenting w/ tachycardia, hypotension, peripheral oedema etc.
+	- **Loss of other skin functions in absence of erythroderma** - may be seen in other causes such as psoriasis-like conditions, pityriasis rubra pilaris, and rare types of ichythyosis:
+		- Dehydration
+		- Infection
+- **Common causes of acute skin failure:**
+	- Eczema
+	- Psoriasis
+	- Drug eruptions
+	- Cutaneous T cell lymphoma
+	- SJS-TEN
+	- Autoimmune blistering disease
+- **Clinical features of acute skin failure:**
+	- **General inspection:**
+		- _Erythoderma_ - erythema across > 80% of total body surface area
+		- _Periphral oedema_ - owing to low albumin (protein-losing enteropathy) and high-output cardiac failure
+	- **Loss of thermoregulation:**
+		- _Hypothermia_ - low core body temperature and shivering due to excessive heat loss despite erythroderma
+		- _Hyperthermia_ - occurs in rare case due to comprimised sweat gland function
+	- **Cadiovasular examination** - tachycardia, hypotension (volume depletion), high-output cardiac failure
+	- **Generalised lymphadenopathy** - due to skin inflammation or rarely due to lymphomatous infiltration
+- **Mx:**
+	- _Establish monitoring_ - ICU care w/ foley catheter to monitor urine output +/- CVC (avoided due to high risk of infection)
+	- _Maintain volume status_ - adequate hydration as insensible water loss may be litres above normal
+	- _Maintenance of core body temperature_ - e.g. blankets
+	- _Simple ointment emollients_ - e.g. white soft paraffin or liquid paraffin mix to reduce water los

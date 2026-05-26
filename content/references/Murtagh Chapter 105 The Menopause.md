@@ -1,0 +1,137 @@
+---
+type: literature
+tags:
+---
+# Chapter 105 The Menopause
+
+- **Definition** - permanent cessation of menstruation in non-hysterectomised women, resulting from the loss of ovariain follicular activity
+- **Epidemiology:**
+	- Usually between ages of 45-55y w/ average age of 51.5y in the Western World
+	- Premature menopause defined as menoapuse < 40y
+- **4 phases of the climacteric:**
+	- _Premenopausal_ - up to 5y before the LMP
+	- _Perimenopausal_ - the presence of early menopausal symptoms w/ vaginal bleeding, which is usually irregular
+	- _Menopausal_ - the last menstrual period of the women's reproductive life
+	- _Postmenopausal_ - the phase beginning 12mo after the last menstrual cycle (usually defined retrospectively after 12 mo of spontaneous amenorrhoea)
+- **Physiology of the menopause:**
+	- ![[Pasted image 20260517122954.png]]
+	- **Progressive hypergonadotrophic hypogonadism** - progressive decline in ovarian follicular number as menopause approaches, w/ few if any being identifiable following cessation of menstruation:
+		- Results in a _decline of estrogen_ produced by the ovaries, although the ovaries continue to secret significants amounts of androgens
+		- _Compensatory increase in FSH and LH levels_ in response to estrogen deficiency, w/ FSH and LH rising to 10-15x and 3x that of folliculr phase respectively
+	- **Estrogen deficiency and withdrawal** - uncomfortable manifestations of estrogen deficiency and withdrawal further classified into:
+		- _Vasomotor instabilility_ - e.g. hot flushes, night sweats, lightheadedness
+		- _Urogenital_ - e.g. drying and thinning of the epithelium near the vagina, vulva, urethra, and base of bladder
+		- _Dermatological_ - drying of skin and unopposed androgen activity
+		- _Psychological_ - mood, sleep, and cognitive dysfunctions may be directly related or indirectly mediated by other manifestations
+- **Clinical features of menopause:**
+	- _Vasomotor symptoms_ - hot flushes (80%), night sweats (70%), palpitations (30%), light headedness, migraine
+	- _Psychological symptoms_ - irritability, depression, anxiety, loss of concentration, poor-short-term memory, sleep disturbances, loss of self-confidence
+	- _Urogenital symptoms_:
+		- Atrophic vaginitis - itching/ burning sensation
+		- Bladder dysfunction - frequency, dysuria
+		- Dyspareunia - accounts for loss of libido
+	- _Skin and other tissue changes_ - e.g. dry skin, formication, new facial hair, breast glandular tissue atrophy
+- **Salient points of Hx:**
+	- **HPI** - characterise onset, progression of Sx related to estrogen deficiency:
+		- _Vasomotor symptoms_ - important to clarifying hot flushes as usually the most disturbing
+		- _Psychological symptoms_ - characterise moodiness, anxiety, anger/ irritability
+		- _Urogenital Sx_ - screen for atrophic vaginitis and bladder dysfunction
+	- **Menstrual Hx** - detailed menstrual Hx:
+		- _LMP_ - required for retrospective diagnosis of post-menopausal state
+		- _Cycle length and regularity_ - characterise cycle length and regularity during the pre-menopausal and perimenopausal period
+		- _Menstrual flow_ - characterise prior menstrual flow and screen for HMB/ IMB/ PCB
+	- **Gynaecological and obstetrics Hx:**
+		- _General gynaecological diseases_ - e.g. any workup for any gynaecological problems
+		- _Cervical cancer screening_ - prior screening as all menopausal women are at increased risk of cervical cancer
+		- _Obstetrics Hx_ - if relevant
+	- **PMH** - clarify 1) cardiovascular disease, 2) malignancies, 3) DM, and 4) osteoporosis/ osteopenia
+	- **FHx** - enquire FHx on 1) cardiovascular disease, 2) malignancies, and 3) osteoporosis
+	- **SHx** - smoking, alcohol, sexual Hx, relationships (esp. if prominent psychological complaints)
+- **P/E:**
+	- **General examination:**
+		- _Vital signs_ - BP/ P
+		- _Body measurements_ - weight, height, BMI
+	- **Abdominal examination** - for any abdominal/ pelvic mass\
+	- **Vaginal examination:**
+		- _Inspection_ - vaginal dryness/ atrophic vaginitis
+		- _Speculum examination and pap smear_ - inspection and pap smear offered for screening
+- **Ix** - individualised based on patient demographic and complaint:
+	- _Urinalysis_ - if marked urological complaints such as dysuria/ frequency to r/o UTI
+	- _Bloods_ - CBC, LFT, lipid profile, TFT +/- serum FSH, E2
+	- _Additional Ix_:
+		- Mammography - preferably offered to all women, especially before or after 3 mo of HRT
+		- Post-menopausal bleeding workup - pelvic USG, pipelle, or diagnostic hysteroscopy for any uninvestigated vaginal bleeding
+		- DEXA - screen for osteoporosis if risk factors present
+- **DDx of menopause syndromes:**
+	- Depression
+	- Anaemia
+	- Thyroid dysfunction
+	- Hyperthyroidism
+	- Gynaecological disorders (AUB)
+## Management
+
+- **Principles of Mx:**
+	- _Reassurance and education_ - receiving adequate understanding, support, and explanation w/ enphasis that menopause is a nutural fact of life (most will be relatively short-lived)
+	- _Advices_ - individualised advices and LSM for 1) Mx distressing climacteric Sx, and 2) reducing future risk of medical complications
+	- _Hormone replacement therapy_ - aimed at 1) reducing climacteric Sx, and 2) reducing risk of osteoporosis
+- **Advice for post-menopausal state** - aimed at 1) Mx distressing climacteric Sx, and 2) reducing future risk of medical complications:
+	- _Diet and lifestyle_:
+		- Correct diet, adequate relaxation, exercise, and weight Mx to reduce cardiovascular risk
+		- Avoid alcohol, caffeine, and smoking to reduce hot flashes and reduce cardiovascular risk
+	- _Specific advices for vasomotor Sx_:
+		- Dressing in layers - enable quick adaptation as temperature spikes and subsides
+		- Swap out sleepear - multiple light blankets over single heavy blankets to allow for quick adaptation
+		- Avoid spicy foods - e.g. caffeine, alcohol, and spicy food
+	- _Specific urogenital Sx_ - normal to continue sexual relations, lubricant for atrophic vaginitis/ dyspauperia
+- **Women Health Initiative study** (WHI) - landmark longitudinal study investigating the use of long-term HRT (combined pills) in post-menopausal women w/ an intact uterus for Mx of climacteric Sx:
+	- _Key beneficial outcomes_ - long-term HRT use (> 5y) is a/w:
+		- Reduced risk of osteoporotic fractures
+		- Reduced risk of colorectal cancer
+	- _Key adverse outcomes_ - long-term HRT use (> 5y) is a/w:
+		- Increased risk of breast cancer (RR 1.26)
+		- Increased risk of coronary heart disease (RR 1.29)
+		- Increased risk of stroke (RR 1.41)
+		- Increased risk of pulmoonary embolism (RR 2.13)
+	- _Implications on Mx_ - in those w/o C/I for HRTs:
+		- HRTs are the most effective Tx for vasomotors symptoms a/w menopause
+		- Due to increased cardiovascular and malignancy risk, HRTs are not recommended in asymptomatic menopausal women to prevent osteoporosis (better agents are available)
+		- There is no firm evidence of increased risk of breast cancer w/ HRT < 5y
+		- Prolonged use of HRT is generally not advisable
+		- Women choosing to cease HRT should reduce their dosing gradually over 2-3mo
+- **Indications for HRT** (NHMRC criteria) - indicated for relieving distressing Sx in post-menopausal individuals (not for asymptomatic post-menopausal women):
+	- Vasomotor symptoms (hot flushes, sweating)
+	- Urogenitial symptoms
+	- Sleep disturbances
+	- Joint symptoms
+- **Contraindications to HRT:**
+	- ![[Pasted image 20260517133253.png]]
+- **HRT regimens** - transdermal patch systems are most favourable worldwide but may be intolerated due to mild skin irritation:
+	- ![[Pasted image 20260517135614.png]]
+	- ![[Pasted image 20260517133429.png]]
+- **S/E of HRT** - estrogenic S/E may be experienced but may resolve or stabilise:
+	- **Pre-menstrual syndrome** (15%) - various physical/ mood manifestations; Mx by decreasing progestogen dose
+	- **Breast disorders:**
+		- _Mild breast tenderness_ - due to susceptibility to estrogen, Mx by reducing estrogen dose
+		- _Breast cancer_ - major S/E, but only seen w/ prolonged HRT use (> 5y)
+	- **Abnormal uterine bleeding:**
+		- _Heavy bleeding_ - excess proliferation resulting in heavy bleeding, Mx by reducing estrogen dose
+		- _Breakthrough bleeding_ - bleeding mid-cycle, Mx by increasing progestogen dose
+		- _Irregular bleeding_ - inappropriate regimen, but maybe caused by other endometrial pathologies requiring workup
+	- **Others:**
+		- _Leg cramps_ - due to electrolyte imbalance (**r/o pulmonary embolism**)
+		- _Pulmonary embolism_ - main short-term S/E of HRT
+		- _Increased cardiovascular risk_ - esp. w/ prolonged use of HRT
+- **Duration of Tx** - shared decision making:
+	- _Factors influencing decision-making_:
+		- Severity of Sx and response to therapy
+		- Long-term aims (e.g. reduced osteoporotic risk)
+		- Complication risk based on epidemiological data (e.g. moderate increased risk of breast cancer if > 5-7y)
+	- _Approach to evaluation for discontinuation of HRT_:
+		- Aim for Tx of maximum of 2y and review
+		- Maximum Tx for 5y if appropriate for that person
+- **Mx of vaginal dryness:**
+	- _Non-hormonal therapy_ (first line) - KY jelly, Replens
+	- _Hormonal preperations_ (if non-hormonal therapy ineffective) - Estrodiol 25 mgm or estriol 500 mcg intravaginal pessary nocte for 2 weeks then twice weekly
+- **Non-hormonal regimens for menopausal Sx:**
+	- _Pharmacological therapies_ - gabapentin, antidepressants
+	- _Natural therapies_ - e.g. acupuncture, primrose oil, soy products, phytoestrogens (plant-containing estrogen compounds)

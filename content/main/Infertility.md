@@ -1,0 +1,67 @@
+---
+id: 00f98d43-28fb-45c9-a7b9-700836fb0520
+title: Infertility
+---
+
+# Infertility
+
+- **Definition** - inability to establish clinical pregnancy after 12 mo of regular unprotected sexual intercourse
+- **Epidemiology** - affects 1 in 7 (10-15%) couples of reproductive age
+- **Etiology of infertility** - female factor vs male factor: 
+![](img/causes_of_infertility_davidson.png)
+    - **Female factor** - defects in ovulation, fertilisation, or inplantation:
+        - <u>Ovulatory dysfunction</u> - hypogonadotrophic hypogonadism, hypergonadotrophic hypogonadism, polycystic ovarian syndrome
+        - <u>Tubular dysfunction</u> - endometriosis, pelvic inflammatory disease (e.g. chlamydia, gonorrhoea), previous pelvic or abdominal surgery
+        - <u>Uterine dysfunction</u> - fibroids, Asherman's sydrome, congenital abnormalities, Tx for cervical carcinoma
+    - **Male factors** - defect in sperm quality and quality, defect in ejaculation:
+        - <u>Reduced sperm quality and quantity</u> - Y chromosome microdeletions, varicocele, male hypogonadism
+        - <u>Tubular dysfunction</u> - congenital abnormality of vas deferens/ epididymis, previous STI (e.g. chlamydia, gonorrhoea), varicocele
+- **Salient points of Hx:**
+    - <u>Menstrual Hx</u> - identify anovulatory cycles in women by irregular and/or infrequent menses
+    - <u>Obstetrics Hx</u> - acquire Hx of previous pregnancies and outcomes
+    - <u>Sexual Hx</u> - ask w/ caution (consider that some couples have intercourse infrequently)
+    - <u>PMH</u> - inquire idependently about previous STIs, past surgery etc.
+- **P/E:**
+    - <u>Scrotal examination</u> - presence of bilateral testes and vas
+- **Ix:**
+    - **Semen analysis** - sperm count and quality
+    - **Pelvic USG:**
+        - <u>Structural pathologies</u> - e.g. uterine fibroids, endometriosis
+        - <u>Evaluation of adnexa</u> - for suspected PCOS
+    - **Assessment of ovulatory functions:**
+        - <u>Serum progesterone levels</u> - obtained in mid-luteal phase on D21 (i.e. a week before next expected periods) in women w/ regular periods; rise in serum progesterone levels (\> 10 nmol/L) suggest ovulation
+        - <u>Hormone profile</u> (e.g. FSH, LH, PRL, TFT) - to identify hypogonadism and other endocrinopathies resulting in irregular anovulatory cycles
+    - **Assessment of tubal patency:**
+        - <u>Hysterosalpingography</u> (HSG) - radio-opaque medium injected into the uterus to outline the fallopian tubes
+        - <u>Laparoscopy</u> - surgical examination of tubal patency
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>General measures</u> - regular intercourse throughout menstrual cycle ('spontaneous' pregnancies may occur even w/ identified subfertility)
+        - <u>Mx of underlying cause</u>:
+            - Ovulatory induction if anovulatory cycles (depends on cause of ovulatory dysfunction)
+            - Donor egg, surrogacy, adoption for those w/ primary ovarian failure
+            - Surgery to restore fallopian tube patency
+            - HcG injections for men w/ hypogonadotrophic hypogonadism
+            - Use of IVF if prolonged unexplained infertility
+    - **Ovulatory induction:**
+        - **Selection** - dependent on cause of anovulatory cycles:
+            - <u>Anovulation secondary to PCOS</u> - letrozole preferred over clomifene
+            - <u>Anovulation secondary to gonadotrophin deficiency</u> (or failure to respond to anti-estrogen therapy) - daily injection of FSH to stimulate follicular maturation and single injection of hCG at appropriate time to induce follicular rupture
+            - <u>Anovulation secondary to hypothalamic disease</u> - pulsatile administration of GnRH (through portable infusion pump)
+        - **Letrozole:**
+            - <u>Clinical efficacy</u> - Legro et al 2014 (NEJM) demonstrates letrozole being a/w higher ovulation and birth rates than clomifene and is thus now first-line Tx for infertility in PCOS: 
+            ![](img/letrozole_vs_clomifene.png)
+            - <u>MOA</u> - Aromatase inhibitor (AI):
+                - Inhibits peripheral synthesis of estrogen by adipocytes
+                - Removes inhibitory effect of estrogen on FSH and LH secretion by pituitary
+                - Increased gonadotrophin secretion and thus ovulation
+            - <u>S/E</u> - osteoporosis
+        - **Clomifene:**
+            - <u>MOA</u> - selective estrogen receptor modulator (SERM):
+                - Removes inhibitory effect of estrogen on FSH and LH secretion by pituitary
+                - Increased gonadotrophin secretion and thus ovulation
+            - <u>Monitoring</u> - TVUSS monitoring during at least 1st cycle
+            - <u>S/E</u> - '**Ovarian hyperstimulation syndrome**':
+                - Grossly enlarged ovaries
+                - Capillary leak with circulatory shock, pleural effusion, and ascites
+        - **GnRH therapy** - delivered by portable infusion pulse (N.B. continuous GnRH therapy results in 'medical castration')

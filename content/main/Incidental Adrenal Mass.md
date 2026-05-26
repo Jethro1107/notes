@@ -1,0 +1,51 @@
+---
+id: e42bb37e-db5b-4418-ae48-68fbe445d99e
+title: Incidental Adrenal Mass
+---
+
+# Incidental Adrenal Mass
+
+- **Definition** - mass in the adrenal gland to be identified on CT or MRI scan of the abdomen performed for another indications (also known as <u>incidentaloma</u>)
+- **Epidemiology** - 10% of adults, prevalence increases w/ age
+- **DDx of incidentalomas** - 85% are non-functioning adenomas:
+    - <u>Benign</u>:
+        - Non-functioning tumours
+        - Functioning tumours of the adrenal cortex (secretion of cortisol, aldosterone, or androgens)
+        - Phaeochromocytoma (may be malignant)
+        - Harmatomas
+        - Other infiltrative lesions - e.g. granulomatous infiltration
+    - <u>Malignant tumour</u> - primary carcinoma, secondary metastasis (esp. lung)
+- **Approach to clinical assessment of incidentalomas** - detailed Hx, P/E, and Ix to answer two questions:
+    - Is the lesion functional (i.e. secreting hormones)?
+    - Is the lesion benign or malignant?
+- **Salient points of Hx:**
+    - <u>S/S of hormone excess</u> - e.g. Cushing's syndrome, hypertension, or hursutism
+    - <u>FHx of endocrinopathies</u> - esp. MEN, and other inherited syndromes
+- **P/E:**
+    - Signs of Cushing's syndrome - e.g. central obesity, Moon face, Buffalo hump
+    - Signs of Minerocorticoid excess - e.g. drug-resistant HTn
+    - Signs of hursitism - e.g. excessive hair growth of thick terminal hair in an androgen dependent manner
+- **Ix:**
+    - **CT and MRI abdomen** - assessment of malignant potential of the adrenal mass:
+        - <u>Size</u> - larger lesions have greater malignant potential (90% of malignant tumours are \> 4cm, but this cutoff has poor Sp \[~25%\])
+        - <u>Configuration</u>:
+            - Homogenous and smooth lesions are more likely benign
+            - Presence of metastatic lesions elsewhere is suggestive of secondary tumour (although 67% of incidentalomas are also benign)
+        - <u>Presence of lipids</u>:
+            - Low attenuation (\< 10 HU) on CT
+            - Signal dropout on chemical shift MRI
+        - <u>Enhacncement</u>:
+            - Benign lesions have rapid washout
+            - Malignant lesions tend to retain contrast
+    - **Endocrine workup:**
+        - <u>Serum and urine metanephrines</u> - for suspected phaeochromocytoma
+        - <u>Morning cortisol or dexamethasone suppression test</u> - for suspected Cushing's syndrome
+        - <u>Aldosterone-renin ratio</u> - for all patients w/ HTN for work up of primary hyperaldosteronism
+        - <u>Serum testosterone, DHEA, androstenedione</u> - for all virilised women
+    - **Bx** - rarely indicated:
+        - Occasionally helpful in confirming primary of a suspected metastatic lesion
+        - Avoided in phaeochromocytoma or primary adrenal cancer as by precipitate hypertensive crisis, or seeding of tumour cells respectively
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Expectant Mx</u> - for small (\< 4cm), benign appearing tumours
+        - <u>Adrenal surgery</u> - indicated if large (\> 4cm), suspected primary malignancy, or if functional

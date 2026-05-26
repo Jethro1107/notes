@@ -1,0 +1,83 @@
+---
+id: b454e9a1-ed00-4818-be56-aaad4051d8c3
+title: Primary Parahyperthyroidism
+---
+
+# Primary Hyperparathyroidism
+
+- **Definition** - autonomous secretion of PTH, usually caused by a single parathyroid adenoma
+- **DDx of hyperparathyroidism** - primary, secondary and tertiary hyperparathyroidism:
+  - <u>Primary hyperparathyroidism</u> - autonomous secretion of PTH in the absence of stimuli
+  - <u>Secondary hyperparathyroidism</u> - physiological increase in PTH secretion to compensate for prolonged hypocalcaemia (e.g. vitamin D deficiency)
+  - <u>Teritiary hyperaparathyroidism</u> - adenoma formation and autonomous PTH secretion due to prolonged periods of continuous stimulation of parathyroids (e.g. advanced CKD)
+
+  
+  ![](../img/ddx_of_hyperparathyroidism.png)
+- **Epidemiology:**
+  - <u>Prevalence</u> - commonest cause of hypercalcaemia (1 in 800 lifetime risk)
+  - <u>Demographic</u>:
+    - Increasing incidence w/ age (90% patients are \> 50y)
+    - Female preponderance (F:M = 2-3:1)
+    - Consider familial MEN syndrome in young primary hyperparathyroidism
+- **Pathophyiology of primary hyperparathyroidism:**
+  - **Autonomous secretion of PTH** - autonomous secretion of PTH usually by an single solitary functioning adenoma, and rarely double adenoma or hyperplasia that is <u>not subjected to -ve feedback control by plasma Ca levels</u>
+  - **Onset of parathyroid bone disease** - prolonged hyperparathyroidism results in imbalance of bone resorption and bone formation, resulting in:
+    - <u>Osteitis fibrosa</u> - increased bone resorption by fibroblasts w/ fibrous replacement in lacunae causing bone pain
+    - <u>Osteopenia or osteoporosis</u> - initial changes may include progressive demineralisation of phalanges and the skull, and subsequently as generalised changes
+  - **Periods of prolonged hypercalcaemia** - may result in systemic manifestations:
+    - <u>Nephrolithiasis and nephrocalcinosis</u> - increased risk of calcium containing stone formation
+    - <u>Diabetes insipidus</u> - prolonged hypercalcaemia may result in nephrogenic DI (AVP-R) manifesting as polyuria, polydipsia and and dehydration
+    - <u>Peptic ulceration</u> - hypergastrinaemia due to prolonged hypercalcaemia results in increased acid secretion, dyspepsia and peptic ulcer
+    - <u>Constipation</u> - due to reduced excitability of smooth muscles along the GI tract
+    - <u>Chondrocalcinosis</u> - CPPD results in secondary degenerative arthritis or predisposes to attacks of pseudogout
+- **Clinical features of primary hyperparathyroidism** - bones, stones, abdominal groans, psychogenic groans:
+  - **Asymptomatic** - worked up from asymptomatic detection of hypercalcaemia during routine blood tests **Non-specific Sx of hypercalcaemia** - anorexia, fatigue etc.
+  - **Clinical presentation as a complication of hypercalcaemia:**
+    - <u>Secondary hypertension</u> - common feature of hyperparathyroidism
+    - <u>Diabetes insipidus</u> - acute onset of confusion and dehydration as a result of polyuria, polydipisa
+    - <u>Renal stones</u> - presentation as acute onset of renal colic (5% of first stone formers, and 15% of recurrent stone formers have primary hyperPTH)
+    - <u>Peptic ulcer</u> - presentation as dyspepsia, epigastric pain, or GI bleeding
+    - <u>Paralytic ileus</u> - presentation w/ abdominal pain, constipation, N/V and distension
+    - <u>Acute monoarthritis</u> - due to attack of pseudogout
+  - **Clinical presentation as a complication of parathyroid bone disease** - e.g. bone pain and tenderness, pathological fractures, presentation w/ suspected osteoporosis
+- **Ix** - initial Ix dependent on the nature of clinical presentation, but Dx evaluation requires:
+  - **Routine bloods** - RFT, CaPO4, PTH levels, 25(OH)D:
+    - <u>RFT</u> - assessment of dehydration, and underlying renal impairment to guide surgery
+    - <u>CaPO4 levels</u> - hypercalacemia w/ accompanying hypophosphataemia
+    - <u>PTH levels</u> - either elevated or inappropriately normal (not suppressed) despite hyperCa
+    - <u>25(OH)D</u> - vitamin D deficiency may result in increased disease activity
+  - **24h urine for Ca and Cr** - to r/o FFH
+  - **Skeletal X Rays** - not indicated unless bone manifestations, often normal:
+    - Periosteal erosions
+    - Terminal resorption of phalanges
+    - Pepper-pot appearance in lateral X-ray of the skull
+  - **DEXA** - indicated for all patients w/ primary hyperparathyroidism to detect osteopenia and osteoporosis
+  - **USG** - localisation of the adenoma pre-operatively
+  - **Tc-sestamibi scitigraphy:**
+    - <u>Principles of sestamibi scan</u>:
+      - Concurrent uptake by both thyroid and parathyroid glands
+      - Longer retention of radioisotope by parathyroid than thyroid, enabling detection of the solitary adenoma
+
+    
+    ![](../img/sestamibi_scan.png)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Correction of hypercalcaemia</u> - dependent on severity, but should be Mx by IV fluid replacements and bisphosphonates
+    - <u>Tx of complications</u> - e.g. for peptic ulcer disease, stones, and others
+    - <u>Mx of primary hyperparathyroidism</u> - parathyroid surgery as Tx of choice, while calcimimetics if surgery not indicated
+  - **Parathyroid surgery** - resection of solitary adenoma intra-operatively:
+    - <u>Indications</u>:
+      - Young patients \< 50y (likely fit for and benefit for surgery)
+      - Clear cut Sx or documented complications (e.g. osteoporosis, renal stones, renal impairment, and peptic ulceration)
+      - Significant hypercalcaemia (\> 0.25 mmol/L above ULN)
+
+      
+      ![](../img/surgical_mx_of_phpth.png)
+    - <u>Approach</u> - minimally invasive approach under LA
+    - <u>Role of intra-operative PTH assay</u> - assessment of Tx efficacy based on Miami Criteron:
+      - **Timing** - drop in PTH 5-10 min expected (Ca falls in 24-48h)
+      - **Miami criterion** - Fall of \> 50% from highest of either pre-manipulation or pre-excision sample
+  - **Medical therapy** - indicated for patients who refuse surgery or are medically unfit:
+    - <u>Cinacalcet</u> - reduced PTH hormones by increasing Sn of CaSR
+    - <u>Increased fluid intake</u> - to avoid stone formation
+    - <u>Routine follow-up</u> - annual assessment of RFT, CaPO4, PTH, and DEXA

@@ -1,0 +1,94 @@
+---
+id: 7fd7a717-a408-4864-9436-819d84b84e7e
+title: 2025-08-18
+---
+
+# Approach to Polyuria - Literature Search on UpToDate <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+- **Definition** - increase in urine output generally defined as urine output \>= 3L/d in adults and 2L/m2 in children
+- **DDx of polyuria:**
+    - **Solute diuresis:**
+        - <u>Glycosuria</u> - Hyperglycaecmia (DM, stress hyperglycaemia, HHS/ DKA), SGLT2 inhibitor use
+        - <u>Urea</u> - e.g. resolution from AKI/ azotemia, increased tissue catabolism (e.g. due to glucocorticoids), post-obstructive diuresis (accumulation of urea)
+        - <u>Increased sodium load</u> - due to glucocorticoids
+        - <u>Mannitol</u> - e.g. during raised ICP
+    - **Water diuresis:**
+        - <u>Primary polydipsia</u> - excessive fluid intake resulting in physiological production of large volume of diluted urine
+        - <u>Diabetes insipidus</u> - central or nephrogenic cause of in DI due to failure of concentrating urine despite hyperosmolar state
+- **Salient points of Hx:**
+    - **HPI** - onset, duration, severity, and timing:
+        - <u>Onset</u>:
+            - Hereditary AVP-R may manifest w/ severe polyuria duering the first week of life
+            - Familial AVP-D may manifest in first few years of life, sometimes only in young adulthood due to preservation of functionnal allele
+            - Onset later in life is likely due to some other acquired causes
+        - <u>Duration</u> - rapidity of onset may inform the DDx:
+            - Abrupt onset (over days) points towards AVP-D
+            - Gradual onset (e.g. over weeks or months) is more suggestive of progressive AVP-R, diabetes mellitus (note HHS develops over weeks), or primary polydipsia
+        - <u>Association w/ thirst and drinking water</u>:
+            - Primary polydipsia - excessive drinking water w/o thirst sensation
+            - DI and other forms of diuresis - drinking water as a result of thirst mechanism
+        - <u>Timing</u>:
+            - Presence of nocturia - more likely to be pathological
+            - Absence of nocturia - more likely to be due to primary polydipsia
+    - **Characterisation of urination** - differentiation between polyuria from other urinary Sx:
+        - <u>Lower urinary tract symptoms</u> - urinary frequency and urgency may be perceived as polyuria in the **absence of increased urinary output**
+        - <u>Dysuria</u> - presence of dysuria may be suggestive of UTI, and the perceived polyuria is in fact urinary frequency
+        - <u>Nocturia</u> - nocturia may not be a/w in an overall increase in daily urine output
+    - **PMH:**
+        - <u>Diabetes mellitus</u> - known Hx of DM may underlie polyuria and thirst
+        - <u>Pituitary tumour</u> - tumour and related parasellar surgery may cause to central DI
+        - <u>Renal stones</u> - Hx of recurrent renal stones may be a/w underlying
+    - **Drug Hx** - all relavent drug Hx:
+        - SGLT2i - causes glucosuria
+        - Lithium - causes nephrogenic DI
+    - **FHx:**
+        - FHx of DM
+        - FHx of polyuria and polydpisia
+    - **Relevant Social Hx**
+- **P/E:**
+    - **Primary assessment** - Airway, Breathing, and Circulation:
+        - <u>Airway</u> - typically not comprimised
+        - <u>Breathing</u> - may be tachypnoea
+        - <u>Circulation</u> - BP/P, assess volume status
+    - **Neurological examination** - assessment of visual field
+- **Ix:**
+    - **Urinalysis** - glucose for glucosuria
+    - **Routine bloods** - RBG, RFT, Ca:
+        - <u>RBG</u> - hyperglycaemia as a cause of polyuria
+        - <u>Urea</u> - urea as a potential cause of polyria
+        - <u>Na</u> - low-normal Na indicative of primary polydipsia or pseudohyponatraemia due to osmostic effect; high-normal Na may be suggestive of DI
+        - <u>K</u> - hypoK as a cause of nephrogenic DI
+        - <u>Ca</u> - hyperCa as a cause of nephrogenic DI
+    - **I/O chart** - to confirm polyuria (\> 3L/d)
+    - **Serum Na, Serum Osm, and Urine Osm** - initial serum Na, serum Osm, and urine Osm is indicated to whether further workup is required:
+        - **Serum Na** - different DDx for patients w/ hypo-, normo-, and hyper-Na:
+            - <u>Patients w/ hyponatraemia</u> - either primary polydipsia, or pseudohyponatraemia due to **solute diuresis** (urea, glucose, mannitol), and generally will have low urine osmlality (U:P Osm ratio \< 1)
+            - <u>Patients w/ normonatraemia</u> - can occur in all causes; work up w/ water deprivation test if suspected cause is related to osmotic diuresis
+            - <u>Patient w/ hypernatraemia</u> - typically reflects solute diuresis or diabetes insipidus, where primary polydipsia is not a DDx
+        - **Urine Osm** - used to differentiate between solute diuresis or water diuresis:
+            - <u>Urine Osm \> 600 mOsm/kg</u> - solute diuresis is the likely cause
+            - <u>Urine Osm 300-600 mOsm/kg</u> - indeterminent result, where solute diuresis, primary polydipsia, and diabetes insipidus is likely, and likely require calculation of total daily osmolar output to identify whether water restriction test is necessary
+            - <u>Urine Osm \< 300 mOsm/kg</u> - water diuresis by either primary polydipsia, or diabetes insipidus is the likely cause, and dynamic is likely necessary unless U:P Osm ratio \< 1 (i.e. diagnostic of DI)
+        - **Serum Osm** - calculation of U:P Osm ratio to identify degree of antidiuresis w/ respect to serum osmolality:
+            - <u>Low serum Osm</u> - likely primary polydipsia, confirmed by low urine Osm reflecting appropriate diuresis w/ respect to low serum Osm
+            - <u>Normal serum Osm</u> - indeterminate results
+            - <u>High serum Osm</u> - reflects a hyper-osmolar state either due to solute diuresis or diabetes insipidus
+    - **Water restriction test** (or hypertonic saline infusion test) - if initial Ix reflects possible water diuresis, but unable to differentiate between primary polydipsia and DI:
+        - <u>Indications</u> - if suspected water diuresis, except:
+            - Initial bloods **diagnostic of DI** - i.e. U:P Osm ratio \> 2 when serum Osm \> 300 mOsm/kg and serum Na \> 145 mmol/L
+            - Hx suggestive of AVP-R - e.g. persistent hypercalcaemia, bilateral urinary tract obstruction, long-term lithium use, in children w/ +ve FHx of AVP-R
+        - <u>Procedure</u> - raising plasma Na \> 145 mmol/L and serum Osm \> 295 mOsm/kg such that **theroretical release of ADH is maximal**:
+            - Water restriction for overnight or for a predicted period of time from the following formula
+            - Measure serum Na, urine Osm, and serum Osm serially until endpoint (serum Na \> 145 mmol/L, and serum Osm \> 295 mOsm/L)
+            - Terminate if excessive loss of body weight (\> 3%)
+            - Consider hypertonic saline infusion if insufficient raise in plasma Na and serum Osm
+        - <u>Interpretation of urine Osm after the test</u>:
+            - **Urine Osm \> 700 mOsm/kg** (U:P Osm ratio \> 2) - Dx is primary polydipsia
+            - **Urine Osm \< 700 mOsm/kg** (U:P Osm ratio \< 2) - Dx is DI
+    - **Copeptin test** - may be diagnostic of nephrogenic DI (AVP-R):
+        - <u>Rationale</u> - during AVP-R, AVP secretion is maximal, hence serum copeptin is high
+        - <u>Role</u> - can be diagnostic w/o undergoing water deprivation test and trial of DDAVP
+        - <u>Interpretation</u>:
+            - Level \> 21.4 pmol/L - diagnostic of AVP-R at 100% Sn and Sp prior to water restriction
+            - Level \< 4.9 pmol/L - diagnostic of AVP-D after successful water restriction
+    - +/- **Therapeutic trial of desmopressin** - to differentiate between forms of DI

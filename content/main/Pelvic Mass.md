@@ -1,0 +1,63 @@
+---
+id: f1faf980-cf28-4e9c-a131-ca17e3b69558
+title: Pelvic Mass
+---
+
+# Pelvic Mass
+
+- **DDx of pelvic mass** - Gynaecological vs non-gynaecological:
+    - **Gynaecological:**
+        - <u>Pregnancy</u> - undiagnosed pregnancy, molar pregnancy
+        - <u>Ovaries</u> - ovarian cyst, paraovarian cyst, hydrosalpinx
+        - <u>Uterus</u> - fibroid, adenomyosis
+        - Malignancies - ovarian cancer, uterine sarcoma, metastatic (Krukenberg)
+    - **Non-gynaecological:**
+        - <u>GI</u> - mesenteric cysts, tumor, hernia, diverticulum, dilated bowel
+        - <u>Urological</u> - bladder, diverticulum, pelvic kidney and transplanted kidney
+        - <u>Retroperitoneal</u> - sarcoma (usually not palpable)
+        - Others - e.g. pseudocyst, abcess
+- **Salient points of Hx:**
+    - **Demographic** - age implicates different DDx
+    - **HPI** - site, onset, progression, how the mass was discovered:
+        - <u>Site</u> - central or lateralised
+        - <u>Onset and duration</u> - duration of the mass noticed (+ how was the mass noticed)
+        - <u>Progression</u> - change in size over time
+    - **Associated Sx:**
+        - <u>Abdominal pain</u> - differentiate chronic pain vs sudden acute pain which may reflect surgical emergency
+        - <u>Vaginal bleeding</u> - PV bleeding raises suspicion of early complications of pregnancy if a/w pain, or other gynaecological malignancies
+        - <u>Abdominal distension</u> - common in different gynaecological and non-gynaecological disease
+        - <u>Urinary Sx</u> (e.g. frequency, urgency) - due to pressure effect or invasion but can arise from both gynaecological and non-gynaecological etiology
+        - <u>Bowel Sx</u> (e.g. altered bowel habit) - due to pressure effect or invasion of gynaecological disease, but may reflect a primary GI pathology
+        - <u>Constitutional Sx</u> (e.g. weight loss, unexplained fever) - suggestive of underlying malignancy (gynaecological or non-gynaecological)
+    - **Menstrual Hx** - more related to benign conditions of the uterus, and an estimation of estrogen exposure:
+        - <u>LMP</u> - note that recent date of LMP may in fact be PV bleeding and thus cannot r/o early complications of pregnancy (confirm w/ the period before LMP)
+        - <u>Cycle length and regularity</u> - increased cycle length and irregularity raises suspicion of uterine pathologies
+        - <u>Flow and duration</u> - HMB raises suspicion of fibroids
+        - <u>Dysmenorrhoea</u> - raises suspicion of adenomyosis if a/w secondary dysmenorrhoea
+        - <u>Anaemic Sx</u> - caused by iron-deficiency anaemia caused by AUB
+    - **Other Hx as relevant** - previous gynae Hx, cervical smear, obstetrics Hx, sexual and contraceptive Hx, SHx, FHx
+- **P/E** - general examination, abdominal examination, pelvic examination, PR examination:
+    - <u>General examination</u> - Vital signs, pregnancy test, BMI, performance status, Pallor, LN, LL oedema
+    - <u>Abdominal examination</u>:
+        - Inspection for mass, distension and nodules (Sistery Mary Joseph nodule)
+        - Mass and localised tenderness
+        - Shifting dullness
+    - <u>Pelvic examination</u> - bimanual examination to detect:
+        - Uterus size, orientation and mobility
+        - Adnexal mass
+        - Pouch of Douglas for nodularity, thickening, and tenderness
+    - <u>PR examination</u> - for pouch of Douglas, any palpable mass in Blummer's shelf
+    - <u>Systems review</u> - chest examination
+- **Clinical approach to pelvic mass:**
+    - Identify unstable patients - S/S shock and peritonism requires straight laparotomy
+    - Exclude ovarian cyst complications and preganancy complications
+- **Ix:**
+    - **Pelvic USG** - most important for visualisation of pelvic mass
+    - **Urine pregnancy test** - to r/o early pregnancy complications
+    - **Routine bloods** - CBC, RFT:
+        - <u>CBC</u> - anaemia if a/w menorrhagia
+        - <u>RFT</u> - if mass causes hydronephrosis
+    - **Additional Ix** - depending on underlying cause:
+        - Ca 125 for suspected malignancy
+        - Staging imaging for suspected ovarian cancer (e.g. CT/ MRI/ PET-CT)
+        - Pre-opereative workup individualised if presenting as a surgical case

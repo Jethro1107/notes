@@ -1,0 +1,64 @@
+---
+id: f077559d-e0a3-40a6-8f9b-e95d0fe47860
+title: Principles of Neurological History
+---
+
+# Principles of Neurological History
+
+- **Importance of Hx taking in neurology** - many diseases have no confirmatory tests, and disease have chronic paths
+- **Principles of the neurological Hx** - 2 questions are answered:
+    - 1\. Where is the lesion?
+        - Is it even a neurological disease?
+        - Which part to the nervous system does it localise to anatomically (central vs peripheral), or functionally (sensory, motor, both)?
+    - 2\. What is the lesion?
+        - VINDICATE:
+            - Vascular
+            - Inflammatory/ Infectious
+            - Neoplastic
+            - Degenerative/ Deficiency/ Drugs
+            - Iatrogenic/ Intoxication/ Idiopathic
+            - Congenital
+            - Autoimmune/ Allergic/ Anatomic
+            - Traumatic
+            - Endocrine/ Metabolic
+- **General template of neurological Hx:**
+    - **Demographic** - age, sex, handedness
+    - **Chief complaint and HPI:**
+        - **CC** - clarify what patient means by certain ambiguous words (e.g. weakness, numbness, dizziness)
+        - **HPI** - onset, progression, quality, radiation, severity, time course, associated Sx, effects on daily living:
+            - <u>Onset</u> (what is the lesion?):
+                - Sudden (min to h) - vascular (stroke/ TIA), nerve entrapment syndromes, functional
+                - Gradual over days - demyelination, infection, subdural haematoma
+                - Gradual over weeks to months - neoplastic, paraneoplastic, motor neuron disease
+                - Gradual over months to years - degenerative
+            - <u>Progression</u> - pattern of Sx (intermittent, persistent, nature of progression):
+                - Intermittent (e.g. migraines, epilepsy) - documente the frequency and duration of specific events
+                - Progression - evolution of Sx narrow down DDx (see above)
+            - <u>Associated Sx</u> - include non-neurological Sx
+            - <u>Effects of daily lifing</u>:
+                - Disabilities - e.g. walking, fine hand movements, work
+                - Effects on family life and leisure
+    - **PMH:**
+        - Previous neurological symptoms and whether similar to current symptoms
+        - Previous medical Hx
+        - Medications - current and at time of symptom onset
+    - **SHx:**
+        - Smoking and alcohol
+        - Recreational drug use or other toxin exposure
+        - Domestic situatioon
+        - Driving license status
+    - **FHx**
+    - **Developmental Hx**
+
+  
+  ![](../img/neurological_hx.png)
+- **Localisation of lesion** - answering the question of 'where is the lesion?':
+    - **Cerebral cortex** - painless loss of hempispheric functions
+    - **Widespread cerebral lesions** - visual loss, pyramidal signs, cerebellar signs
+    - **Brainstem** - cranial nerve lesions with limb pyramidal signs or sensory loss +/- sphincteric disturbances
+    - **Spinal cord** - pyramidal weakness in tetraplegic or paraplegic pattern, with sensory loss with spinal level
+    - **Upper and lower motor neurons** (motor neuron disease) - widespread LMN and UMN signs
+    - **Peripheral neuropathy** - distal loss of sensation and/or weakness
+
+  
+  ![](../img/where_is_the_lesion.png)

@@ -1,0 +1,80 @@
+---
+id: eb141f04-6c86-4b27-9065-f20465532d05
+title: Mitral Regurgitation
+---
+
+# Mitral Regurgitation
+
+- **Definition** - a common, chronic valvular disorder caused by abnormalities of the mitral valve apparatus or the left ventricle
+- **Etiology of chronic MR** - classified into primary, and secondary MR:
+    - **Primary MR** (organic MR) - primary abnormality of one or more components of the valvular apparatus:
+        - **Defective valvular leaflet** - e.g. mitral valve prolapse, IE, rheumatic fever, connective tissue disorders (e.g. Marfan syndrome, Ehler-Danlos syndrome)
+        - **Defective chordae** - e.g. MVP, IE, rheumatic fever, trauma, MI
+        - **Defective papillary muscles** - ischaemia or infarction of papillary muscle (MI, trauma)
+        - **Calcified mitral annulus** - idiopathic, rheumatic fever, chronic renal failure, HyperPTH
+    - **Secondary MR** (functional MR) - second heart disease causing dilatation of the LV and hence mitral valve ring:
+        - Coronary artery disease - dilatation of the infarcted LV
+        - Dilated cardiomyopathy (DCM)
+        - Hypertrophic cardiomyopathy (HCM) - systolic anterior motion of the mitral valve
+
+  
+  ![](img/uptodate_causes_of_chronic_mr.png)
+- **Epidemiology of MR** - very common
+- **Clinical features of chronic MR** - correlated to severity of MR, and <u>associated cardiac disease</u> (mild MR symptomatic due to co-existing disease):
+    - <u>Asymptomatic</u> - patients with mild-to-moderate primary MR are often asymptomatic since there is little LV volume overload, such that forward CO and LVEDP are normal
+    - <u>Fatigue</u> - LV decompensation secondary to chronic LV volume overload resulting in <u>reduced CO</u>
+    - <u>Exertional dyspnoea and reduced exercise tolerance</u> - LV decompensation results in increased LVEDP, increased LA filling pressure, and pulmonary congestion
+    - <u>Symptomatic chongestive heart failure</u> - late stage of disease with features of pulmonary congestion (e.g. dyspnoea, orthopnea, PND), and peripheral oedema
+    - <u>Palpitations</u> - due to LA dilatation and onset of paroxysmal or persistent AF
+    - <u>Symptom complex of MS</u> - thromboembolism, cough and haemoptysis, and right-sided heart failure occur in very late stages of disease
+    - <u>Increased risk of IE</u> - higher risk than MS
+- **Signs of chronic MR:**
+    - <u>Pulse</u> - often normal volume unless in late stage becomes bounding due to rapid decrease in ejection time (+/- irregular irregular pulse)
+    - <u>JVP</u> - elevated in severe MR resulting in RHF
+    - <u>Palpation</u>:
+        - Apex beat - displaced, thrusting (brisk and hyperdynamic) apex beat
+        - Thrills - palpable thrills over mitral area
+    - <u>Auscultation</u>:
+        - S1 - deminished, reflecting inadequate apposition of mitral leaflets
+        - S3 - caused by volume overload of LV (prominent if LV failure develops)
+        - Murmur - pansystolic murmur best heard over apex and radiates to the axilla and accentuated in left pateral position
+- **Ix:**
+    - **ECG** - non-diagnostic changes related to LV, LA dilatation, and AF:
+        - <u>LA dilatation</u> - broad (\>120 ms), bifid P wave (II, III, aVF), and prominent terminal negative deflection in V1 (P mitrale)
+        - <u>LV dilatation</u> - prominent S waves in V1, prominent R waves in V5/6, I, aVF
+        - <u>AF</u> - irregularly, irregular rhythm w/ loss of p wave
+    - **CXR** - non-specific changes related to chamber enlargements and HF:
+        - <u>Cardiomegaly</u> - resulting from enlargement of LV and left atrium
+        - <u>Enlarged LA</u> - straightening of left heart border, appearance of double density, and elevation of the left main stem bronchus
+    - **Diagnostic echocardiography** (TTE) - diagnostic, and assessment of severity, etiology and haemodynamic consequence of MR:
+        - <u>Findings on echocardiography</u>:
+            - Chamber enlargements - enlarged LA and LV
+            - LV dynamics - often hyperdynamic in primary MR, but may be dyskinetic in secondary AR
+            - Structural abnormalities over MV (etiology) - e.g. vegetations, MVP, rheumatic changes etc.
+            - Assessment of LV systolic function (haemodynamic consequences) - LVEF as a marker of severity and indication for surgery
+        - <u>Finding on Doppler</u> - quantification of regurgitation (look for severe MR):
+            - Features of severe MR:
+                - Vena cotracta (narrowest segment of jet) \>= 0.7 cm
+                - Effective regurgitant oriface area \>= 0.4 cm2
+                - Regurgitation volume \>= 60 mL
+                - Regurgitation fraction \>= 50%
+                - Regurgitation jet area \> 40% of LA area or holosystolic eccentric jets
+    - +/- **Cardiac MRI** - echo non diagnoistic
+    - +/- **Cardiac catheterisation** - only if non-invasive tests inconclusives or discordant (Sx do not match findings)
+- **Mx of chronic primary MR:**
+    - **Principles of Mx:**
+        - **Serial evaluation** - FU and serial echocardiography for assessment of disease progression based on symptomatology and objective findings
+        - **Medical Tx:**
+            - <u>Mild-to-moderate primary MR</u> - vasodilator therapy (e.g. ACEi) or diuretics
+            - <u>Severe MR with HF awaiting surgery</u> - evidence-based BMT for HFrEF
+            - <u>Mx of AF</u> - rate control w/ digoxin and anticoagulants
+        - **Surgical Mx:**
+            - <u>Procedures</u> - MV repair, MV replacement
+            - <u>Indications</u> - timed at 1) symptomatic severe MR, 2) asymptomatic severe MR with LVEF \< 60%, 3) concurrent cardiac surgery
+    - **Medical Tx:**
+        - **Mx of HTN:**
+            - <u>Rationale</u> - high afterload may worsen the degree or regurgitation and hence symptoms
+            - <u>Selection</u> - diuretics, vasodilators (e.g. ACEi)
+        - **Mx of AF** - extremely common in patients with MR:
+            - <u>Rate control</u> - digoxin if AF present
+            - <u>Mx of thromboembolic risk</u> - anticoagulants

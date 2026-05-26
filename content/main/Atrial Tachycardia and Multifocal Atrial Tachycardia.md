@@ -1,0 +1,22 @@
+---
+id: 86453349-14EC-4996-AC92-8144D5084880
+roam_parent: 91b0ff05-4cb8-4373-b40b-ec2869759d3e
+title: Atrial Tachycardia and Multifocal Atrial Tachycardia
+---
+
+# Atrial Tachycardia and Multifocal Atrial Tachycardia
+
+- **Definition** - supraventricular tachycardia of atrial tissue origin reflecting take-over of the pacemaker role by the atrial tissue over the sino-atrial tissue, resulting in <u>rapid ventricular response</u>
+- **Causes of atrial tachycardia:**
+    - <u>Increased automaticty</u> - often due to increased **adrenergic stimulation**
+    - <u>Decreased SA node activity</u> - sinoatrial nodal disease
+    - <u>Anti-arrhythmics</u> - digoxin toxicity
+- **ECG characteristics of atrial tachycardia:**
+    - Narrow-complex tachycardia
+    - P-wave morphology
+    - AV block if atrial rate is rapid
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Anti-arrhythmic agents</u> - beta-blockers, class I or III anti-arrhythmics
+        - <u>Rate control</u> - by AV node-blocking drugs
+        - <u>Invasive interventions</u> - catheter ablation

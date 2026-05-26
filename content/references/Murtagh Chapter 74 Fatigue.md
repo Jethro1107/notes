@@ -1,0 +1,119 @@
+---
+id: 88458ce3-7332-465e-8805-62ed605068c3
+title: Murtagh Chapter 74 Fatigue
+---
+
+# Chapter 74 Fatigue
+
+- **Key facts and checkpoints:**
+    - Most common cause of tiredness is any form of psychological distress - anxiety, depression, somatisation disorders
+    - Evidence from observational studies regarding prevalence of psychological distress in those presenting with chronic fatigue:
+        - 25% of sampled attendees to GP presented with chronic fatigue, of these 70% had psychological distress, and the others were more likely to have a current MDD episode (Hickie et al)
+        - 62.3% of those with chronic fatigue had no organic cause, the constant factors being sleep disturbance and presence of psychological stress (Jerrett's study)
+    - Sleep disorders are an important differential diagnosis for daytime tiredness (occurs in 2% of general population, but up to 10% of middle-aged men)
+    - Other causes of fatigue should be considered if there are no sleep disturbances:
+        - 1\. Endocrine and metabolic disorders
+        - 2\. Malignancy
+        - 3\. Chronic infection
+        - 4\. Anaemia
+        - 5\. Autoimmune disordera
+        - 6\. Primary psychiatric disorders
+        - 7\. Neuromusclar disorders
+        - 8\. Cardiovascular disorders
+        - 9\. Drugs
+    - Chronic tiredness is defined arbitrarily by tiredness that lasts for \>2 weeks, with:
+        - Disabling tiredness (affects functioning)
+        - Non-restorative sleep
+        - Headache
+        - Musculoskeletal Sx
+        - Neuropsychiatric Sx
+    - Chronic fatigue syndrome is defined as debilitating fatigue, persisting or relapsing over 6mo, associated with a significant reduction in activity level of at least 50%, and for which no other cause can be found
+- **Terminology** - vague term that requires further clarification, and may reflect:
+    - Initial subtle manifestation of a serious physical illness
+    - Inability to deal with the problems of everyday life
+    - Physiological tiredness after excessive physical activity
+- **DDx of chronic fatigue/ tiredness:**
+    - **Non-organic cause** - psychogenic causes pertaining to psychiatric disorders or lifestyle factors:
+        - <u>Primary psychiatric disorders</u> - anxiety disorders, depression, somatisation disorders
+        - <u>Lifestyle factors</u>:
+            - Biological factors - sleep deprivation, obesity, inappropriate diet, sedentary lifestyle, exposure to irritants
+            - Psychological factors - mental stress and emotional demands
+            - Social factors - workaholic tendancies and 'burnout'
+    - **Organic causes:**
+        - <u>Cardiopulmonary conditions</u> - congestive heart failure (of any cause), COPD, OSA, other sleep disorders
+        - <u>Renal conditions</u> - chronic liver disease
+        - <u>Endocrine disorders</u> - hypothyroidism/ thyrotoxicosis, hyperparathyroidism, Cushing's syndrome, Addison disease, **DM**
+        - <u>Haematological conditions</u> - anaemia
+        - <u>Neurological conditions</u> - Parkinson's disease, Multiple sclerosis, myasthenia gravis
+        - <u>Rheumatological conditions</u> - fibromyalgia, polymyalgia rheumatica, systemic lupus erythromatosus, rheumatoid arthritis, Sjogren's disease
+        - <u>Electrolyte disturbances</u> - hypokalaemia, hypomagnesaemia
+        - <u>Infectious disorders</u> - Infective mononucleosis, viral hepatitis, malaria, TB, infective endocarditis, HIV infection, post-infectious fatigue syndrome (e.g. influenza)
+        - <u>Substance and medications</u>: 
+        ![](img/murtaugh_drugs_that_cause_tiredness.png)
+    - **Others** - chronic fatigue syndrome
+- **Murtaugh's diagnostic approach to chronic fatigue:** ![](img/murtaugh_diagnostic_approach_to_tiredness_1.png) 
+![](img/murtaugh_diagnostic_approach_to_tiredness_2.png)
+- **Salient points of Hx:**
+    - **HPI** - onset, duration, progression, quality, functional limitations:
+        - <u>Onset and duration</u> - acute vs chronic
+        - <u>Progression</u> - stable, improving or worsening (why present now)
+        - <u>Quality</u> - characterise nature of fatigue:
+            - Physical tiredness - due to excessive physical activity
+            - Generalised tiredness - may be a subtle sign of serious physical illness (but may be masquerades for psychogenic problems)
+            - Psychological tiredness - tiredness due to inability to cope with everyday living
+        - <u>Functional limitations</u> - energy, performance, ability to cope:
+            - Energy - excessive daytime sleepniness and fatigue
+            - Performance - poor attention and concentration, occupational/educational disturbances
+            - Ability to cope - effects on mood, behaviour (look out for **low mood** and **anhedonia**)
+    - **Ideas, concerns, and expectations:**
+        - <u>Ideas</u> - Do you have any explanation for your tiredness? Has any major event coincided to the onset of your fatigue?
+        - <u>Concerns</u> - excessive fears regarding fatigue and fear of severe physical illness may represent anxiety state or somatisation disorders (e.g. hypochodndriasis)
+        - <u>Expectation</u> - e.g. thorough workup for underlying cause
+    - **Detailed sleep Hx** - start with open ended questions, e.g. "<u>How is your sleep?</u>":
+        - <u>Onset</u> - acute vs chronic insomnia (ask about frequency of insomnia in a week)
+        - <u>Detailed description of sleep problems</u> - may require sleep diary for objective assessment if significant variability:
+            - **Difficulty to initiate sleep** - patients often overestimate amount a time it takes to fall asleep but reported time of \> 30 min raises suspicion of insomnia
+            - **Difficulty maintaining sleep** - characterise **number** and **duration** of awakenings and ask if attributable to somatic Sx (e.g. nocturia, orthopnea, PND, cough, pain etc.)
+            - **Early morning awakening** - ask if patient wakes up before desired wake up time
+        - <u>Comprimised daytime function</u> - if yet to ask, ask about excessive daytime tiredness, fatigue, malaise, difficulty in concentration, functional impairments etc.
+        - <u>Sleep hygiene</u> - any recent changes or variability in bedtime, wakeup time, and naps
+        - <u>Sleep environment</u> - is it atiributable to sleep deprivation where environment is not conducive asleep?
+    - **Associated Sx:**
+        - <u>Weight fluctuations</u> - significant unexplained weight loss is a red flag for tiredness (e.g. occult malignancy)
+        - <u>Fever</u> - persistent fever is a red flag for tiredness as it reflects underlying chronic infection (e.g. IM, subacute IE, TB)
+        - <u>Snoring and apnoeic episodes</u> - sleep apnoea suspected
+        - <u>Dizziness and weakness</u> - reflects anaemia, but requires further clarification as it may be attributed to cardiac conditions
+        - <u>Exertional dyspnoea and reduced ET</u> - reflects cardiopulmonary conditions and anaemia
+        - <u>Diffuse musculoskeletal pain</u> - consider fibromyalgia
+        - <u>Other unexplained medical Sx</u> - consider somatisation disorder
+    - **Menstrual Hx** - especially if it seems to be anaemia-related in a pre-menopausal women
+    - **PMH** - look for prior infections, cardiopulmonary conditions, and old malignancies
+    - **Drug Hx** - including OTC medications
+    - **SHx and psychological Hx:**
+        - <u>Occupation</u> - ask about nature of work, determine occupational stressors, relationship with colleagues and supervisors (think bullying), and determine relationship w/ work (e.g. workaholic)
+        - <u>Leisure</u> - any leisure activities to relieve stress (look for anhedonia)
+        - <u>Interpersonal relationship</u> - relationship with family and friends
+        - <u>Psychological survey</u> - low mood, anxiety and precipitating factors
+        - <u>Substance</u> - any self medication for fatigue (e.g. smoking, alcohol, analgesic, stimulants) especially in drug addiction-prone groups (doctors, nurses, chemists, liquor industry, truck drivers)
+    - **Final questions:**
+        - Is there anything else you feel you should tell me?
+- **P/E:**
+    - <u>General examination</u> - vital signs, pallor, cervical LN
+    - <u>Abdominal examination</u> - hepatosplenomegaly (mononucleosis syndrome), +/- PR bleeding if suspected anaemia
+- **Ix** - selected judiciously:
+    - **Routine bloods** - CBC, LRFT, ESR/CRP, TFT, electrolytes (incl. CaPO4, Mg), glucose
+    - **Additional investigations:**
+        - <u>Iron profile</u> - if suspected iron-deficiency anaemia
+        - <u>Initial Ix for cardiorespiratory function</u> - CXR +/- spirometry
+        - <u>Chronic infection screening</u> - HIV, viral hepatitis (A-E), CMV, EBV, TB, IE etc.
+        - <u>Autoimmune panel</u> - ANA, RF
+        - <u>Endocrine Ix</u> - e.g. early morning cortisol, late night salivary cortisol, 24h urinary cortisol, dexamethasone test
+        - <u>Tumour markers</u> - for malignancy
+
+## Bereavement
+
+## Burnout
+
+## Chronic Fatigue Syndrome
+
+## Fibromyalgia Syndrome

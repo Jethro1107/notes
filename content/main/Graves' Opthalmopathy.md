@@ -1,0 +1,45 @@
+---
+id: 2ddab86f-c5d9-4154-85f1-a0a0bc19f435
+title: Graves' Opthalmopathy
+---
+
+# Graves' Opthalmopathy
+
+- **Definition** - chronic active inflammation in the periorbital space that occurs in association w/ Graves' thyrotoxicosis
+- **Clinical associations** - more common in:
+    - Cigarette smokers
+    - Poor control of thyroid function (esp. hypothyroidism)
+- **Clinical features of GO:**
+    - <u>Corneal ulcerations</u> - gritty sensation in the eye due to increased exposure of the cornea to wind and bright light as a result of exopthalmos and lid retraction
+    - <u>Conjunctivitis</u> - manifestation of pain and red eye to prolonged exposure of the conjunctiva to the external environment
+    - <u>Opthalmoplegia and diplopia</u> - diplopia occurs if EOM are involved and do not act in concert
+    - <u>Blurry vision</u> - may occur if there is corneal oedema, but may reflect optic nerve compression, especially if **reduced colour vision and RAPD present**
+- **Assessment of activity of GO** - clinical activity score where active GO defined as CAS \>= 3: 
+![](../img/clinical_activity_score_of_go.png)
+- **Classification of severity of GO:** 
+![](../img/classification_of_severity_of_go.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>General measures</u> - smoking cessation and reassurance for most patients
+        - <u>Mx of active GO is severity of dependent</u>:
+            - Mild GO - local therapy w/ methylcellulose and standard eye care +/- systemic therapy w/ selenium
+            - Moderate-to-severe GO - consider oral prednisolone or pulsed IV prednisopone +/- immunosuppressive therapy
+            - Sight-threatening GO - immunosuppression or urgent surgical decompression
+        - <u>Mx of burnt out disease</u> - opthalmological surgery to improve cosmesis and diplopia
+    - **Mx of mild GO** - local Tx and systemic Tx: 
+    ![](../img/mx_of_mild_go.png)
+        - **Local therapy:**
+            - <u>Methylcellulose eye drops and gels</u> - symptomatic relief as dry eyes are present
+            - <u>Tinted glasses or side-shields for specticles</u> - reduce excessive stimulation by the sun or wind
+        - **Systemic therapy** - daily oral selinium (100 mcg bid for 6mo):
+            - <u>MOA</u> - anti-oxidant effect
+            - <u>Effects</u> - improve QOL and occular involvement 
+            ![](../img/selenium_therapy_for_mild_go_evidence.png)
+    - **Mx of moderate-to-sever active GO:**
+        - High dose oral prednisolone or Pulse IV methylprednisolone
+        - Immunotherapy - e.g. cyclsoprine, azathioprine, rituximab, tocilizumab etc.
+
+    ![](../img/mx_of_severe_go_firstline.png) 
+    ![](../img/mx_of_severe_go_second_line.png)
+    - **Mx of sight-threatening GO** - surgical decompression of orbit may be indicated if loss of VA: 
+    ![](../img/mx_of_sight_threatening_go.png)

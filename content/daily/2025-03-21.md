@@ -1,0 +1,165 @@
+---
+id: b63bcae9-778f-4fbb-9d84-478b6f188d8e
+title: 2025-03-21
+---
+
+# Dyspepsia and abdominal pain - Literature Search on UpToDate
+
+## Principles of abdominal pain
+
+- **Types of visceral pain:**
+    - <u>Visceral pain</u> - dull, poorly localised pain due to mechanical or chemical stimulation of the that is felt at the midline due to bilateral nerve supply (except for gallbladder, which receives predominantly right sided innervation)
+    - <u>Parietal pain</u> - sharp, well localised pain due to inflammation, infection or neoplasia of the parietal peritoneum due to lateralised somatic innervation
+    - <u>Referred pain</u> - pain perceived to be away from site of pathology in the spinal segment at which the nerves enter the spinal cord (e.g. gallbladder pain referred to right shoulder tip)
+- **Pathophysiology of visceral abdominal pain:**
+    - **Visceral receptors** (stimuli) - visceral mucosal receptors primarily respond to chemical stimulation, while other visceral receptors on the serosal side responds primarily to mechanical factors (e.g. stretch, contraction, distension or torsion)
+    - **Innervation and localisation** - visceral pain is typically felt along the midline due to bilateral symmetric innervation, where level of innervation depends on embryonic origin:
+        - <u>Foregut organs</u> (e.g. esophagus, stomach, duodenum, biliary system) - visceral nerves enter at T7 level, manifesting as <u>epigastric pain</u>
+        - <u>Midgut organs</u> (e.g. SB up to proximal 2/3 of transverse colon) - visceral nerves enter cord at T8-L1 level, manifesting as periumbilical pain
+        - <u>Hindgut organs</u> - visceral nerve enter cord at L2-4 level, manifesting as lower abdominal pain
+
+## Upper abdominal pain syndromes
+
+### Epigastric pain
+
+- **DDx of epigastric pain:**
+    - <u>Esophageal pathologies</u> - GERD, esophagitis, Mallory-Weiss Syndrome, Borhaeve's syndrome, Esophageal motility disorders (e.g. spastic achalasia), CA esophagus
+    - <u>Gastric pathologies</u> - Functional dyspepsia, Gastritis (H. pylori, NSAID, alcoholic), peptic ulcer disease (and related complications), gastroparesis, CA stomach
+    - <u>Duodenal pathologies</u> - Duodenal ulcers
+    - <u>Pancreatic pathologies</u> - acute pancreatitis, chronic pancreatitis, CA pancreas
+    - <u>Biliary pathologies</u> - Biliary colic, Choledolithiasis, acute cholecystitis, acute cholangitis, Sphincter of Oddi dysnfunction, CA gallbladder, Cholangiocarcinoma
+    - <u>Hepatic pathologies</u> (typically RUQ) - hepatitis, distending hepatomegaly, liver abscess, Budd-chiari syndrome, HCC
+    - <u>Cardiac pathologies</u> - Acute coronary syndrome, pericarditis, myocarditis
+    - <u>Thoracic pathologies</u> - pleurisy (pneumothorax, PE)
+    - Others:
+        - rAAA
+        - Haematological - acute leukaemia, haemolytic anaemia
+        - Metabolic - uraemia, DKA, porphyria, Addison's crisis
+        - Infections - Zoster reactivation
+        - Misc - toxins, contusions, narcotic withdrawal, psychiatric disorders, heat strokes etc.
+- **Salient point of Hx:**
+    - **HPI** - onset, progression, quality, radiation, severity, timing:
+        - **Onset** - is this acute abdomen or subacute abdominal pain? Is the abdominal pain sudden or gradual in onset?
+            - <u>Acute abdomen</u> - r/o sinister DDx of acute abdomen requiring urgent surgical admission (see section on acute abdomen)
+                - <u>Sudden onset</u> - typically occurs in pathologies resulting in perforation (e.g. PPU, rAAA, perforated bowel)
+                - <u>Gradual onset</u> - typically reflects inflammatory process
+            - <u>Subacute-to-chronic epigastric pain</u> - DDx for acute abdomen less likely, but Hx is aimed at ruling out malignancy
+        - **Progression** - Is there progression in site, quality and severity of abdominal pain?
+            - <u>Shifting pain</u> - especially classical for PPU
+        - **Quality** - Is it dull constant pain, burning pain, or colicky pain?
+            - <u>Dull constant pain</u> (reflects inflammatory lesions) - e.g. PUD, cholecystitis, cholangitis, pancreatitis, and various malignancies
+            - <u>Burning, gnawing pain</u> - GERD-related diseases
+            - <u>Colicky pain</u> - as in intestinal obstruction but rarely localised to epigastrium
+        - **Radiation** - Does the pain radiate to the back, the right scapulae tip or elsewhere in the abdomen?
+            - <u>Back</u> - cholecystitis, pancreatitis (watch out rAAA)
+            - <u>Right scapular tip or infrascapular region</u> - cholecystitis
+        - **Timing** - Is the pain precipitated or provocated by food, or posture?
+            - <u>Relationship w/ food</u>:
+                - Gallstones and related complications - typically pain onset within an hour of fatty meal
+                - Peptic ulcer disease - temporally related w/ food (exacerbated or relieved)
+            - <u>Relationship w/ posture</u>:
+                - Perforation and peritonitis - exacerbated by motion due to movement of peritoneal contents
+                - Pancreatitis - relieved by sitting up and leaning forward
+    - **Associated Sx** - all upper GI, HBP, constitutional Sx and systems review:
+        - **Fever** - suggests an infectious etiology (potentially septic), or a/w systemic inflammation (e.g. IBD, cholangitis, pancreatitis)
+        - **Chills and rigors** - reflective of septic condition
+        - **Upper GI Sx:**
+            - <u>Heartburn</u> - a/w GERD
+            - <u>UGIB</u> (e.g. coffee-ground vomitus, melena) - raises suspicion of PUD or upper GI malignancies
+            - <u>Vomiting</u> - a/w gastric outlet obstruction or motility disorders, but can also occur in HBP causes
+            - <u>Dysphagia</u> - suggestive of malignant strictures, or motility disorders
+        - **HBP Sx:**
+            - <u>Features of obstructive jaundice</u> (e.g. tea-coloured urine, pale coloured stool) - biliary obstruction arising from choledolithiasis or malignant biliary obstruction
+        - **Unintentional weight loss** - points towards malignancy
+    - **PMH:**
+        - **Is there a history suggestive of PUD?**
+            - <u>Prior OGD</u> - ask about indications and findings (is there known PUD?)
+            - <u>Known H. pylori infection</u> - assess eradication and follow-up for Tx-responsiveness
+            - <u>Episodic occurence of peptic ulcer pain</u> - 1) localisation to epigastrium, 2) relationship w/ food, 3) episodic recurrence
+        - **Is there history suggestive of gallstone disease?**
+            - <u>Prior TAUS</u> - is there any findings of gallstones?
+            - <u>Characteristic biliary colic</u> - is there RUQ or epigastric pain in relations w/ fatty meal?
+        - **Is there history suggestive of ACS?**
+            - <u>Known CCS</u>
+            - <u>Cardiovascular risk factors</u> - HTN, DM, Dyslipidaemia, FHx of CVD
+        - **Is there history of DM?**
+            - <u>Gastroparesis</u> - principally seen in diabetic patients
+        - **Relevant drug Hx** - aspirin, NSAID, antiplatlets, anticoagulants, corticosteroids, drug-induced esophagitis (K supplements, iron tablets, bisphosphonate)
+    - **SHx:**
+        - <u>Smoking</u> - RF for peptic ulcer complications and upper GI malignancy
+        - <u>Alcohol</u> - RF for upper GI malignancy, pancreatitis etc.
+    - **FHx:**
+        - <u>FHx of upper GI malignancy</u>
+- **P/E:**
+    - General - general appearance, vital signs, pallor, jaundice
+    - Abdominal examination - stigmata of liver disease, mass, Murphy's
+    - PR examination
+- **Ix:**
+    - <u>CBC with differentials</u>:
+        - **Anaemia** - Iron-deficiency anaemia from occult UGIB, Anaemia of chronic disease
+        - **Leukocytosis** - suggestive of inflammation
+    - <u>LFT</u>:
+        - **Cholestatic pattern** - suggestive of biliary obstruction (e.g. cholangitis, biliary pancreatitis, choledolithiasis, MBO)
+        - **Hepatocellular pattern** - suggestive of hepatic origin (but watch out for <u>cholangiohepatitis pattern</u>)
+    - <u>RFT</u> - assessment for viability for contrast, dehydration, and electrolytes abnormalities from vomiting
+    - <u>Amylase</u> - r/o acute pancreatitis
+    - +/- <u>Imaging studies based on presentation</u>:
+        - Acute abdomen - routine erect CXR, AXR
+        - Suspected hepatobiliary cause - transabdominal US
+        - CT abdomen - if immediate Tx not required
+    - +/- <u>Endoscopy</u>
+
+## Lower abdominal pain syndrome
+
+- **Definition** - abdominal pain felt on both or either lower quadrants
+- **DDx of lower abdominal pain** - consider distal LB pathologies, appendix, urological pathologies, testicular pathologies, or other obstetric or gynaecological pathologies
+    - <u>Distal LB pathologies</u> - Infectious colitis, mesenteric adenitis, **LBO** (colorectal CA, sigmoid volvolus), **ischaemic bowel disease**
+    - <u>Appendix pathologies</u> - **Appendicitis**, mesenteric adenitis, (Meckel's diverticulitis)
+    - <u>Urological pathologies</u> - Nephrolithiasis, Pyelonephritis, AROU, Cystitis
+    - <u>Testicular pathologies</u> - **Testicular torsion**, epidydymo-orchitis, testicular tumour
+    - <u>O/G pathologies</u> - **ectopic pregnancy**, pelvic inflammatory disease, torsion or ruptured ovarian cyst
+    - <u>Others</u> - Ileitis (parietal pain), incarcerated hernias
+- **Salient points of Hx:**
+    - **HPI** - site, onset, progression, quality, radiation, severity, timing:
+        - <u>Site</u> - is it central or lateralised to one side?
+            - **Centralised** - LBO, ischaemic bowel, cystitis, AROU, gynacological pathologies
+            - **Lateralised** - Appendicitis (RLQ), Diverticulitis (RLQ or LLQ), nephrolithiasis, acute pyelonephritis
+        - <u>Quality</u> - is it a dull, constant pain, sharp, well-localised pain or colicky pain?
+            - **Dull constant, poorly localised pain** - signifies visceral inflammation from the distal LB (infectious colitis, testicular torsion, AROU, cystitis)
+            - **Sharp, well localised pain** - signfies parietal peritoneal inflammation, often occuring after a shift in site and character of pain (Appendicitis, Diverticulitis)
+            - **Colicky pain** - as a result of LBO, with complete cessation of pain in between attacks, but persistence of dull pain between attacks signifies inflammation and potentially strangulation
+        - <u>Progression</u> - is there a change in site and quality of the pain?
+            - **Appendicitis** - dull periumbilical pain that suddenly becomes sharp RLQ pain once parietal peritoneum is involved
+            - **Testicular torsion** - dull lower abdominal pain subsequently localised to ipsilateral testicular pain
+        - <u>Radiation</u> - is there radiation of pain to the back or the groin?
+    - **Associated Sx**:
+        - **Fever** - a/w systemic inflammation seen in 1) appendicitis, 2) diverticulitis, 3) acute pyelonephritis, pelvic inflammatory disease
+        - **Lower GI Sx:**
+            - <u>Nausea and vomiting</u> - many precipitating cause (gastroenteritis), but most important in identifying LBO (although not always present)
+            - <u>Abdominal distension</u> - LBO typically causes late, but marked abdominal distension due to abundant proximal bowel reserve
+            - <u>Constipation/ Obstipation</u> - raises suspicion for LBO
+            - <u>Diarrhoea</u> - typically self-limiting disease (but subacute RLQ pain and diarrhoea can signify ileal Crohn's disease)
+            - <u>Prior altered bowel habits</u> - change in stool frequency, narrowing in stool calibre raises suspicion of CA
+            - <u>Tenesmus</u> - suspicious feature of rectal CA
+            - <u>Prior PR bleeding</u>
+            - <u>Mucus in stool</u>
+            - <u>Weight loss</u>
+        - **Urological Sx:**
+            - <u>Dysuria and frequency</u>
+            - <u>Haematuria</u>
+        - **Gynaecological Sx** - vaginal discharge
+    - **PMH** - prior inflammatory bowel disease
+    - **SHx** - smoking, alcohol, diet
+    - **FHx** - FHx of CRC and related cancers of HNPCC (endometrium, ovaries, stomach, SB, pancreas)
+- **P/E:**
+    - <u>General examination</u> - fever, vital signs, hydration status
+    - <u>Abdominal examination</u>:
+        - **Inspection** - distension, cough impulse
+        - **Palpation** - tenderness, peritoneal signs, palpable mass
+        - **Auscultation** - bowel sounds
+    - <u>PR examination</u>
+    - <u>Scrotal examination</u> (for testicular torsion or undescended testes)
+- **Ix** - similar Ix as in acute abdomen:
+    - **Routine bloods** - CBC, LRFT, Amylase, ABG, Clotting profile, T&S
+    - **Imaging** - Erect CXR, erect and supine AXR, USG, CT contrast studies if stable
+    - +/- **Endoscopy** - colonoscopy

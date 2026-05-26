@@ -1,0 +1,71 @@
+---
+id: 745752ae-741b-4026-83e4-368e683a9bbb
+title: Vitamin D Deficiency
+---
+
+# Vitamin D Deficiency
+
+- **Definition** - most common cause of osteomalacia and rickets, arising from either lack of sunlight exposure, dietary deficiency, or malabsorption of vitamin D in patients with GI disease
+- **Physiology of vitamin D metabolism:**
+    - **Normal source of vitamin D:**
+        - <u>Skin</u> (70%) - derived from 7-dehydrocholesterol under the influence of UV light
+        - <u>Diet</u> (30%) - derived from dietary intake
+    - **Biological activation of skin and dietary vitamin D** - 2 step hydroxylation of vitamin D (cholecalciferol) upon entering circulation into biologically active form:
+        - <u>Liver hydroxylation</u> - 25 hydroxylase activity to convert vitamin D into 25(OH)D (biolocailly inactive)
+        - <u>Renal hydroxylation</u> 1-alpha hydroxylase activity to convert 25(OH)D into 1,25(OH)2D (biologically active)
+    - **Physiological effects of vitamin D** - increased Ca levels, decreased PO4 levels by acting on 1) gut, 2) kidneys, and 3) bone:
+        - <u>Effects on gut</u> - increased Ca absorption
+        - <u>Effects on kidneys</u> - increased Ca reabsorption in DCT, increased PO4 excretion
+        - <u>Effects on bones</u> - increased bone remodelling
+    - **Control of 1,25(OH)2D levels** - regulated by a negative feedback loop orchestrated by PTH glands:
+        - <u>Sensors</u> - CaSR in parathyroid chief cells:
+            - 1\. Vitamin D deficiency results in hypoCa, resulting in less stimulation on CaSR
+            - 2\. This results in reduced degradation of parathyroid vesicles, promoting PTH release
+        - <u>Effectors</u> - increased 1-alpha hydroxylase activity, resulting in increased conversion of 25(OH)D to 1,25(OH)2D
+
+  
+  ![](../img/physiology_of_vitamin_d_metabolism.png)
+- **Pathophysiology of vitamin D deficiency:**
+    - **Inadequate source of vitamin D** - results in **inadequate cholecalciferol and 25(OH)D levels**:
+        - <u>Classical</u> - inadequate sunlight exposure or diet
+        - <u>GI disease</u> - malabsorption resulting in reduced absorption of Ca and vitamin D
+    - **Prolonged vitamin D deficiency** - reserves of 25(OH)D becomes progressively depleted from secondary hyperPTH such that 1,25(OH)2D levels remains low despite PTH stimulation, leading to **hypoCa**, and **progressive demineralisation of skeletion**
+- **Clinical features of rickets** - seen in children:
+    - Delayed development
+    - Muscle hypotonia
+    - Craniotabes
+    - Bossing of frontal and parietal bones
+    - Delayed anterior fontanelle closure
+    - Enlarged epiphyses (most prominent in radius)
+    - Rickety rosary (swelling of costochondral junction)
+- **Clinical features of osteomalacia:**
+    - <u>Asymptomatic</u> - mild osteomalacia may only manifest biochemically
+    - <u>Fractures</u> - ocassionally presents w/ fractures that mimic osteoporosis
+    - <u>Focal bone and muscle pain and tenderness</u> - due to fissure fractures of the ribs and pelvis
+    - <u>Proximal muscle weakness</u> - results in waddling gait and struggle to climb stairs or get out of a chair
+- **Ix:**
+    - **Routine bloods** - LFT, Ca, PO4, PTH, 25(OH)D:
+        - <u>LFT</u> - issolated raised ALP reflecting increased bone remodelling
+        - <u>Ca</u> - low, or low-normal
+        - <u>PO4</u> - low, or low-normal
+        - <u>PTH</u> - typically elevated in response to hypoCa
+        - <u>25(OH)D</u> - low or undetectable (diagnostic finding)
+    - **Radiographs:**
+        - <u>Focal radioluscent areas</u> - pseudofractures or Looser's sign seen along pelvis and long bones 
+        ![](../img/loosers_zone_osteomalacia.png)
+        - <u>Thickened epiphyseal plate</u> - seen in children
+    - **Radionucleotide bone scans** - may reveal multiple hot spots in ribs and pelvis which may be <u>mistakened for metastasis</u>
+    - **Bone Bx** - performed when other Ix inconclusive, pathognomic features of increased thickness and extent of osteoid seams
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Patient education</u> - adequate sunlight exposure
+        - <u>Oral vitamin D replacement</u> - initial high dose to replenish 25(OH)D stores, and subsequent maintenance dose depending on underlying comorbidities
+        - <u>Monitoring</u> - repeat Ix to ensure adequate healing of bone disease
+    - **Vitamin D replacement:**
+        - <u>Regimen</u>:
+            - 250-1000 microgram per day for 3-4 mo
+            - Maintenance dose of 10-20 microgram per day once recovery of bone disease biochemically (GI disease may require higher dose)
+    - **Monitoring:**
+        - <u>25(OH)D</u> - rapid elevation of serum 25(OH)D levels
+        - <u>PTH</u> - rapid reduction of PTH levels
+        - <u>ALP</u> - initially rises due to increased mineralisation of bone, but will return to reference range once bone disease heals

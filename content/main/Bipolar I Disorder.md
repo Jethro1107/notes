@@ -1,0 +1,51 @@
+---
+id: 6bc98368-8e44-4967-87c8-8a2bf2486b04
+title: Bipolar I Disorder
+---
+
+# Bipolar I Disorder
+
+- **Definition** - form of [[Bipolar Disorder]]; disorder possibility situated between schizophrenia spectrum and depressive disorder, reflecting disorder of mood reflecting modern understanding of manic-depressive disorders and affective psychosis of the 19th century, differing from classic discriptions that neither psychosis nor experience of major depressive episode is a requirement
+- **Epidemiology:**
+    - <u>Incidence</u> - 0.6%/y
+    - <u>Demographic</u>:
+        - Age - mean onset of first mood episode is ~ 18y for bipolar I disorder, but typically throughout the life cycle
+        - Sex - M:F = 1.1:1
+    - <u>Recurrence of mood episodes</u>:
+        - 90% of those w/ single manic episodes go on to have recurrent mood episodes
+        - 60% of manic episodes occur immediately before a major depressive episodes
+- **Risk and prognostic factors:**
+    - <u>Genetic</u>:
+        - 10-fold increased risk among adult relatives of individuals w/ bipolar I and bipolar II disorders
+        - Schizophrenia and bipolar disorders likely share a genetic origin, reflected in familial co-aggregation of the disorders
+    - <u>Environmental</u> - a/w high-income countries, separated, divorced and widowed
+- **Diagnostic features of bipolar I disorder:**
+    - **Persistent elevated, expansive or irritable mood:**
+        - <u>Elevated or expansive mood</u> - often dexcribed as euphoric, excessively cheerful, high, or 'feeling on top of the world' that is recognised as excessive and may be characterised by **haphazard enthusiasm for interpersonal, sexual or occupational interactions**
+        - <u>Irritable mood</u> - usually more common, especially when the individual's wishes are denied, or there is a 'reality check'
+    - **Increased goal-directed activity** - individual may engage in <u>multiple overlapping new projects</u>, especially w/ little knowledge of the topic (nothing is out of the individual's reach), and increased activity levels may manifest at <u>unusual hours of the day</u>
+    - **Inflated self esteem** - often common and can range from uncritical self-confidence to marked grandiosity and may reach delusional proportions, especially in facing <u>contrary evidence</u>, results in <u>attempts of feats that are clearly dangerous</u>, and represent a change from <u>normal behaviour</u>
+    - **Decreased need from sleep** - often heralds onset of manic episode; differs from insomnia where the indiviudual does not feel the need to sleep, and when severe, the individual may go for days without sleep
+    - **Abnormal speech and thought** - pressured speech and flight of ideas are core features:
+        - <u>Rapid, pressured and loud speech</u> - the individual speaks continuously and loudness and forcefulness often become more important than what is conveyed
+        - <u>Difficult to interupt</u> - the individual talks continuously w/o regard for other's wishes to communicate, often in an intrusive manner or without concern of what is said
+        - <u>Content of speech and thought</u> - often irrelavent and dependent on mood but may be characterised by jokes, **amusing irrelevancies**, and theatricality, but may be hostile if irritable mood
+        - <u>Flight of ideas</u> - thoughts race at a rate faster than be expressed through speech and is evidenced by nearly continuous flow of accelerated speech, with disorganized, incoherent contents (and can be particularly distressing to the iindividual)
+    - **Associative features:**
+        - <u>Loss of insight</u> - do not perceive to be ill or in need of treatment and vehemently resist efforts to be treated
+        - <u>Appearance</u> - may change their dress, makeup or personal appearance to be more sexually suggestive or flamboyant style
+        - <u>Catastrophic events</u> - e.g. difficulties of the law, serious financial difficulties, often result from poor judgement, loss of insight and hyperactivity
+- **DSM-V diagnostic criteria for bipolar I disorder:**
+    - A. Criteria have been met for at least one manic episode
+    - B. The occurrence of the manic and major depressive episode(s) is not better explained by schizoaffective disorder, schizophrenia, schizophreniform disorder, delusional disorder, or other specified or unspecified schizophrenia spectrum and other psychotic disorder
+- **DDx:**
+    - <u>Major depressive disorder</u> - esp. when individual currently presents w/ a major depressive episode, especially when irritability is associated w/ both disorders
+    - <u>Other bipolar disorders</u> - differentiation of bipolar I and bipolar II determined by past episodes of mania
+    - <u>Anxiety disorders</u> (e.g. GAD, panic disorder, PTSD) - must be considered as either primary disorder, or comorbid disorder, particularly as anxious ruminations may be mistaken for racing thoughts
+    - <u>Substance/ medication-induced bipolar disorder</u> - especially a tendancy for individuals with bipolar I disorder to overuse substances during an episode, distinguished based on whether symptoms remain once substances no longer used
+    - <u>Attention-deficit/ hyperactivity disorder</u> - especially in adolescents and children
+    - <u>Personality disorder</u> - symptomatic overlap particularly in terms of mood lability and impuslsivity, but differentiated based on episodic vs persistent nature
+- **Psychiatric comorbidity:**
+    - Anxiety disorder (75%)
+    - ADHD, any disruptive, impulse-control or conduct disorder
+    - Substance suse disorder (\> 50%)

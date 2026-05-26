@@ -1,0 +1,16 @@
+---
+id: e90b4536-fc7e-4c6b-86e5-5e1c0b93ea7b
+title: Post-Partum thyroiditis and Thyroid Disease in Pregnancy
+---
+
+# Post-Partum Thyroiditis and Thyroid Disease in Pregnancy
+
+- **Definition** - unmasked autoimmune thyroid disease with a clinical course similar to transient thyroiditis after delivery, but is painless
+- **Pathophysiology** - proposed to be an enhanced immune response uncovering subclinical autoimmune disease (anti-TPO is often present early in pregnancy)
+- **Clinical course:**
+    - <u>Thyrotoxicosis</u> - typically within 12 mo of childbirth due to release of colloid stores and impaired T3/4 synthesis (negligible) that requires Sx treatment
+    - <u>Hypothyroidism</u> - transient hypothyroidism due to impaired Sx, but eventually returns euthyroid
+    - <u>Recurrence</u> - post-partum thyroiditis tends to recur after subsequent pregnancies, and eventually patient may progress to **permanent hypothyroidism** over years
+- **Mx** - Mx as subacute thyroiditis
+- **Thyroid disease and pregnancy:** 
+![](../img/thyroid_disease_and_pregnancy.png)

@@ -1,0 +1,130 @@
+---
+id: 83f2c7df-fd41-4d29-8b26-97f8e909d3df
+title: Davidson Ch12 Palliative Care and Pain
+---
+
+# Ch12 Palliative Care and Pain
+
+## Principles of Palliative Care
+
+- **Definition:**
+    - Palliative care is the active total care of patients with far advanced, rapidly progressive and ultimately fatal disease
+    - Its focus is quality of life rather than cure, with a fundamental change of emphasis in decision-making away from a focus on prolonging life towards decisions that balance comfort and the individual's wishes with treatment that might prolong life
+    - It encompasses a distinct body of knowledge and skills that all good physicians must possess to allow them to effectively care for patients at the end of life
+- **Archetypal trajectories of dying** - Murray et al 2005: 
+![](img/archetypal_trajectories_of_dying.png)
+
+## Presenting Problems in Palliative Care
+
+### Pain
+
+- **Definition** - an unpleasant sensory and emotional experience associated with actual or potential tissue damage or described in terms of such damage (International Association for the Study of Pain \[IASP\] definition)
+- **Pathophysiology of pain** - pain classification and mechanisms:
+    - **Nociceptive stimulus** - stimulation of nocireceptors in response to pain only partly contributes to the percept of pain
+    - **Pain modulation pathways** - pain perceived relative to the extent of stimulus (peripheral tissue damage) is under modulation by mechanisms in the peripheral nervous system, central nervous system, and higher centers:
+        - <u>Gate-control theory</u> - mechanoreceptor stimulation stimulates interneurons that acts on second order neurons of the spinothalamic tract
+        - <u>Descending analgesic system</u> - peri-aqueductal grey matter and raphe nuclei of medulla release endogenous opiates
+        - <u>Limbic control</u> - limb system has rich connections w/ thalamus to further modulate pain perception
+
+    
+    ![](img/pain_perception_system.png)
+    - **Bio-psycho-social aspects of pain** - not all pain is biological (e.g. due to cancer and metastasis): 
+    ![](img/biopsychosocial_aspects_of_pain.png)
+    - **Types of pain** - pain can arise from 1) <u>actual or potential tissue damage</u>, or 2) <u>abnormal pain percept</u>:
+        - <u>Nociceptive pain</u> - due to direct stimulation of peripheral nerve endings by a noxious stimulus, such as trauma, burns, ischaemia or chemicals
+        - <u>Neuropathic pain</u> - due to dysfunction of the **pain perception system** within the peripheral or central nervous system as a result of injury, disease or surgical damage (e.g. phantom limb pain)
+- **Clinical features of neuropathic pain:** 
+![](img/neuropathic_pain_signs.png)
+- **Salient points of Hx** - serial pain assessment:
+    - **HPI** - site, onset, progression, quality, radiation, severity, timing, treatment, understanding, value:
+        - <u>Site</u> - where is the pain? **diagram of the body to mark sites of pain can be useful**
+        - <u>Onset and progression</u> - Since when? Course of pain?
+        - <u>Quality</u> - description of pain reveals underlying pathophysiological mechanism
+        - <u>Radiation</u> - does the pain radiate elsewhere?
+        - <u>Severity</u>:
+            - Verbal rating scale
+            - Visual analogue scale
+            - Behavioural rating scale
+        - <u>Timing and associations</u> - is the pain worse in relation to eating, posture?
+        - <u>Treatment</u> - What treatment is received for the pain, and its efficacy?
+        - <u>Understanding</u> - What is your understanding of pain? (e.g. divine punishment)
+        - <u>Value</u> - Dignity? Relief of pain?
+    - **Brief psychiatric assessment** - Sx of anxiety, depression, influence of social and psychological factors (as above)
+- **P/E** - consider bony tenderness, signs of neuropathic pain, <u>spinal cord compression</u>: 
+![](img/types_of_pain_in_palliative_care.png)
+- **Ix** - consider imaging if alter Mx (e.g. spinal cord compression)
+- **Mx** - principles of pain Mx still apply but additional considerations required for palliative pain:
+    - **Principles of Mx:**
+        - **Considerations for pain:**
+            - <u>Acute pain</u> (e.g. post-surgical) - pain should be Mx with medications w/o causing unnecessary S/E or risks to patients
+            - <u>Chronic pain</u> - requires pharmacological or non-pharmacological approaches to enable patient to live w/ pain (opioids deferred if not in palliative stages)
+            - <u>Palliative pain</u> - correct assessment of pain mechanisms (can be multiple sites, mixed etiology), severity (\> 67% have moderate-to-severe pain), and explore patient's concerns with opioids
+        - **Pharmacological therapy:**
+            - <u>Escalation of the WHO analgesic ladder</u> - non-opioids, weak opioids, strong opioids, adjunctive analgesics 
+            ![](img/who_analgesic_ladder_davidson.png)
+            - <u>Careful reassessment and monitoring</u> - assessment of pain control, and S/E (esp. opioid toxicity)
+        - **Non-pharmacological therapy** - RT, PT, psychological techniques, stimulation, homeopathy
+    - **WHO analgesic ladder** - principles of pain Mx:
+        - <u>By mouth</u> - consider PO as ideal RoA
+        - <u>By the clock</u> - taken round the clock to provide pain relief throughout the day
+        - By the ladder - important not to move sideways from one drug to another of equal potency and escalate if pain control insufficient
+        - For the individual - dependent on patient's baseline commorbidities, understanding and values
+    - **Non-opioids:**
+        - **Paracetamol** (500-1000 mg qid) - effective for <u>mild-to-moderate pain</u>, not effective for severe pain
+        - **NSAIDs** - effective for <u>mild-to-moderate pain</u>, and as adjuncts to severe pain (e.g. distending liver pain, bone metastasis), but <u>beware of S/E in elderly</u> (esp. CKD)
+    - **Opioids:**
+        - **Weak opioids** - effective for <u>mild-to-moderate pain</u>:
+            - <u>Section</u>:
+                - Codeine (60 mg qid)
+                - Tramadol
+                - Dihydrocodeine (DF-118)
+            - <u>Dosing</u> - ceiling dose compared (cf strong opioid)
+        - **Strong opioid** - effective for <u>severe pain</u>:
+            - <u>Section</u>:
+                - Immediate-release (IR) oral morphine - 20 minute onset and provides pain relief for 4h, adjusting for GFR (**taken q4h**)
+                - Controlled-release (CR) morphine - slower onset, but lasts 12-24h
+                - Fentanyl patch
+                - Oxycodone
+                - Methadone
+            - <u>Dosing</u> - **no ceiling dose**:
+                - 2.5-5 mg q4h and titrate against pain
+                - prescribe prn (as required) morphine at 1/6th of total 24h dose
+                - Titrated upwards by patient's documentation of frequent and reason for breakthrough analgesia, by adding previous 24h of breakthrough doses (against degree and acceptability of S/E)
+            - <u>S/E</u> - often different opioids have different S/E for different patients:
+                - **Constipation** - co-prescribed with regular laxatives
+                - **N/V** - usually occurs in the first few days and settles, co-prescribed antiemetics (haloperidol, metoclopramide, domperidone)
+                - **Dry mouth** - self Mx by frequent sips of water
+                - **Sedation** - confusion and drowsiness and are dose-related and reversible
+                - **Respiratory depression** - occurs in opioid toxicity, and as an indication for naloxone
+                - **Opioid toxicity** - see below
+    - **Opioid toxicity** - dose-related S/E, such as nausea, myoclonus, CNS despression, or respiratory suppression:
+        - <u>Factors affecting opioid toxicity</u>:
+            - **Patient factors** - renal function, liver function, dehydration etc.
+            - **Dosing factors** - in general higher risk at greater doses, but can occur at 10-500 mg morphine per day
+        - <u>Signs of opioid toxicity</u>:
+            - Visual hallucination at periphery
+            - Distinct myoclonic movement
+            - Confusion or drowsiness
+        - <u>Assessment and Mx</u>:
+            - Rehydration - to remove active metabolites of morphine
+            - Reassess dosing - consider dose reduction if pain is managable
+            - Reassess drug selection - consider changing to an alternative strong opioid such as oxycodone, fentanyl patch, alfentanil, hydromorphone, methadone
+            - Reassess adjuvant analgesia - whether adjuvant analgesic is provided for the specific type of pain for an opioid sparing effect
+    - **Adjuvant analgesic:** 
+    ![](img/adjuvant_analgesia.png)
+
+### Breathlessness
+
+### Cough
+
+### Nausea and vomiting
+
+### Gastrointestinal obstruction
+
+### Weight loss and general weakness
+
+### Anxiety and depression
+
+### Delirium and terminal agitation
+
+## Death and Dying

@@ -1,0 +1,95 @@
+---
+id: 9e32b259-df71-44d4-b62f-39f603b29ce7
+title: Pneumothorax
+---
+
+# Pneumothorax
+
+- **Definition** - presence of air in the pleural cavity, which can eith occur spontaneouusly or result from trauma to the lung or chest wall
+- **Terminology:**
+  - **Spontaneous pneumothorax** - sudden onset of pneumothorax not precipitated to trauma to the lung or chest wall:
+    - <u>Primary spontaneous pneumothorax</u> - pneumothorax that occurs in patient w/ no Hx of lung disease, often attributed to rupture of apical subpleural blebs in association w/ smoking or tall stature
+    - <u>Secondary spontaneous pneumothorax</u> - pneumothorax that occurs in patients w/ Hx of lung disease and a/w higher mortality rates
+  - **Traumatic pneumothorax** - onset of pneumothorax a/w inatrogenic injury or trauma to the lung or chest wall
+
+  
+  ![](../img/spontaneous_and_traumatic_pneumothorax.png)
+- **Types of pneumothorax:**
+  - <u>Closed pneumothorax</u> (-ve pleural pressure) - the communication between airway and pleural space seals off, with spontaneous re-absorption of air and re-expansion of the lung occuring over few days or weeks
+  - <u>Open pneumothorax</u> (pleural pressure equilibrated w/ atmosphere) - the communication between airway and pleural space fails to seal off resulting in free passsage of gas between brochial tree and pleural space
+  - <u>Tension pneumothorax</u> - the communication between airway and pleural space acts as a one-way valve resulting air to enter pleural cavity during inspiration and not leave during expiration, causing compressive effects on great veins
+
+  
+  ![](../img/types_of_pneumothorax.png)
+- **Clinical features of pneumothorax:**
+  - **Acute onset of pleurisy** - sudden, <u>abrupt onset to maximum intensity</u> of unilateral pleuritic chest pain and berathlessness:
+    - <u>Pleuritic chest pain</u> - sharp, well-localised unilateral chest pain exacerbated by inspiration
+    - <u>Breathlessness</u> - acute onset, and can be severe in the context of pre-existing lung disease and cannot be alleviated by usual measures (e.g. bronchodilators)
+  - **Obstructive shock** - only occurs in tension pneumothorax where increased intrapleural pressure creates tamponade effect on venous return
+- **Signs of pneumothorax** - P/E normal if small pneumothorax (\< 15% of hemithorax):
+  - **General examination:**
+    - Respiratory distress
+    - +/- Reduced SpO2
+    - Pitting oedema in severe acute exacerbation of COPD
+    - Distended neck veins/ raised JVP if tension pneumothorax
+  - **Respiratory examination** - silent, resonant hemithorax is diagnostic:
+    - <u>Inspection</u> - reduced ipsilateral chest expansion
+    - <u>Palpation</u> - reduced chest expansion (+/- signs of mediastinal shift if tension pneumothorax)
+    - <u>Percussion</u> - hyperesonant over pathological side
+    - <u>Auscultation</u> - absent breath sounds
+  - **Mediastinal shift may be absent if ipsilateral malignant disease resulting in collapse, or scarring** - hence tension pneumothorax must be suspected based on <u>haemodynamic comprimise</u>
+- **Ix:**
+  - **CXR** (erect PA view) - lung collapse with loss of lucency and vascular markings between deflated lung and chest wall (+/- mediastinal shift)
+  - **CT** - used in difficult cases in differentiating pneumothorax and emphysematous bullae
+- **CXR of pneumothorax:**
+  - <u>Findings on erect CXR</u>:
+    - Visible visceral pleural edge as a thin, sharp white line
+    - Lost of vascular markings peripheral to visceral pleural edge
+    - Radiolucency in peripheral spaces relative to contralateral lung
+    - Lung collapse
+    - Depression of ipsilateral hemidiaphragm
+  - <u>Findings on supine CXR</u>:
+    - Deep sulcus sign - deep and sharp lucency near the costophrenic angle (opposite to blunting of CP angle)
+
+    
+    ![](../img/deep_sulcus_sign_on_supine_cxr.png)
+  - <u>Findings suggestive of tension pneumothorax</u> - tracheal deviation and mediastinal shift: 
+  ![](../img/tension_pneumothorax.png)
+- **Dx** - clinical Dx (P/E) or radiological Dx
+- **Mx:**
+  - **Principles of Mx:**
+    - **Approach to initial Tx** - dependent on 1) type, 2) symptomatology, 3) size, and 4) comorbidities:
+      - <u>Conservative Mx</u> - close observation for 6h w/ outpatient follow up for **primary spontaneous pneumothrax in a young asymptomatic individual**
+      - <u>Percutaneous needle aspiration</u> - considered for **primary spontaneous pneumothorax** in a **young, mildly symptomatic individual** (avoid need for chest drain in 60-80%)
+      - <u>Chest drain</u> - considered for **secondary spontaneous pneumothorax**, **older patients w/ primary spontaneous pneumothorax**, or **tension pneumothorax irrespective of presentation**
+      - <u>Needle decompression</u> - performed for suspected tension pneumothorax for immediate release of +ve pressure prior to chest tube insertion
+
+      
+      ![](../img/mx_of_spontaneous_pneumothorax.png)
+    - **Approach to patient education** - education on risk factors and abstinence on flight and diving (see details below)
+    - **Approach to recurrent spontaneous pneumothorax** - surgical pleurodesis recommended (see below)
+  - **Needle decompression** - for all suspected tension pneumothorax:
+    - <u>MOA</u> - immediate decompression of +ve pressure within the pleural cavity
+    - <u>Clinical role</u> - buy time for chest drain insertion
+  - **Percutaneous needle aspiration:**
+    - <u>Indications</u> - for young, mildly symptomatic patients
+    - <u>Clinical role</u> - allows avoiding the need of chest tube insertion in 60-80% cases, but less tolerable in those w/ severe respiratory distress
+  - **Chest tube insertion:**
+    - <u>Site</u> - insertion of intercostal drains at the 4th-6th intercostal space at mid-axillary line
+    - <u>Device</u>:
+      - Drain connected to an underwater seal or a one-way Heimlich valve
+      - Bubbling of water indicates drainage of air from pleural space into device
+    - <u>Monitoring</u>:
+      - Continuous monitoring of drain bubbling every morning
+      - Removal of drain after lung is fully re-inflated and bubbling has stopped
+      - Absence of bubbling suggestive of blocked, kicked, or displaced tube
+      - Continuous bubbling after 5-7d is an indicator for surgery
+  - **Patient education at discharge** - educated on risk of recurrence (25% 1y risk following primary spontaneous pneumothorax):
+    - **Flight** - avoided until 1-2 weeks after documented full inflation radiographically:
+      - <u>Reason</u> - increased risk as trapped gas expands at altitude
+    - **Scuba diving** - avoid indefinitely due to risk of recurrence unless surgical pleuroidesis performed
+    - **Smoking** - smoking cessation and smoking a/w increased risk of recurrence
+  - **Surgical pleuroidesis** - sealing of lung to chest wall:
+    - <u>Indications</u>:
+      - 1\. Recurrent spontaneous pneumothorax
+      - 2\. First episode of secondary spontaneous pneumothorax if poor lung resreve

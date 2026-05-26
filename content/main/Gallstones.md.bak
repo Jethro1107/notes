@@ -1,0 +1,77 @@
+---
+id: b4ebd025-7d4d-4623-8088-bf7dbafa924f
+title: Gallstones
+---
+
+# Gallstones
+
+- **Definition** - presence of stones in the gallbladder, whether symptomatic or asymptomatic
+- **Epidemiology** - most common disorder of the biliary tree:
+  - Prevalence - 11% overall, 7% of M 18-65y, 15% of F 18-65y
+  - Demographic:
+    - \< 40y - female proponderance (F:M = 3:1)
+    - Elderly - no sex predisposition
+- **Pathophysiology of gallstones** - dependent on the type of gallstones:
+  - **3 types of gallstones** - cholesterol stones, pigment stones, mixed stones
+  - **Cholesterol stones** - caused by excess of cholesterol relative to bile:
+    - Deficiency of bile salt - pregnancy
+    - Hepatic hypersecretion of cholesterol (lithogenic bile) - female, fat, fourty, fertile
+  - **Pigmented stones** - caused by precipitation with calcium:
+    - Brown pigmented stones - infected bile secondary to bacterial biliary infection, where beta-glucuronidase hydrolyse conjugated bilirubin into free form to precipitate as calcium bilirubinate
+    - Black pigmented stones - a/w haemolytic disease
+- **Clinical manifestations of gallstone disease:**
+  - Asymptomatic (90%) - typically incidental findings on abdominal cross-sectional imaging
+  - **Symptomatic gallstones** (10%):
+    - **Biliary colic** (transient dull RUQ or epigastric pain post-prandially) - caused by gallbladder contraction in response to somatostatin post-prandially (fatty meal), causing a <u>stone against cystic duct opening</u>, and an increased intra-luminal pressure and pain:
+      - <u>Site</u> - RUQ (20%) or epigastric pain (70%)
+      - <u>Onset</u> - acutely after post-prandial meals
+      - <u>Character</u> - not typically colicky (misnomer), but rather intense, **dull and constant** (visceral pain due to gallbladder distension) that comes on for hours and subsides
+      - <u>Radiation</u> - to the interscapular region or right scapular tip
+      - <u>Associated Sx</u> - diaphoresis, N/V, absence of systemic Sx (fever, tachycardia)
+      - <u>Exacerbating or relieving factors</u> - triggered by fatty food, and not relieved by movement or squatting
+      - <u>Time course</u> - triggered by fatty meal, typically nocturnal and transient (typically subsides within 1h, and should not last \> 6h)
+    - **Marked associated Sx** - diaphoresis, N/V
+    - **Atypical Sx** - PPV value for biliary colic is poor, but have been reported:
+      - <u>Dyspepsia-like Sx</u> - early satiety, bloating, fullness after meal
+      - <u>Reflux-like Sx</u> - retrosternal burning, chest pain, belching
+    - **Presentation w/ complications** - calcaneous cholecystitis, choledocholithiasis w/ or w/o acute cholangitis, biliary pancreatitis, cholecystoduodenal fistula, gallstone ileus, gallbladder cancer
+    - **Persistence of pain and onset of fever** - raises Dx of cholecystitis
+- **Signs of symptomatic uncomplicated gallstones** - rarely severe enough to prompt presentation:
+  - General appearance - typically well, not ill looking
+  - Vitals - no fever, no tachycardia
+  - Abdomen - soft, non-tender (visceral pain rather than parietal inflammation)
+- **Complications** - increased risk by 2-3%/y if have prior biliary colic (tends to have +ve Hx of biliary colic):
+  - <u>Cholecystitis and related complications</u> (most common complication) - acute cholecystitis (most common complication), chronic cholecystitis, Mirizzi's syndrome, mucocele of gallbladder, empyema of gallbladder, perforation of gallbladder, liver abscess
+  - <u>Complications related to stone migration</u> (15%) - choledocholithiasis, cholangitis, biliary pancreatitis
+  - <u>Complications of repeated cholecystitis</u> - cholecystoduodenal fistula, gallstone ileus
+  - <u>Gallbladder cancer</u> (extremely rare)
+- **DDx of gallstone disease:**
+  - <u>Peptic ulcer disease</u> - especially if pain is limited to the epigastrium
+  - <u>Functional dyspepsia</u> - typically presents w/ dyspeptic like Sx
+  - <u>Complications of gallstone diseases</u> - typically a more prolonged duration of biliary colic w/ systemic features
+  - <u>Sphincter of Oddi dysfunction</u> - manifests as biliary colic with abnormal LFT
+  - <u>Functional gallbladder disorder</u> - diagnosis by exclusion
+- **Ix and Dx of uncomplicated gallstones** - based on characteristic pain and radiological evidence:
+  - <u>Routine bloods</u> (CBC, LFT) - all normal
+  - <u>Transabdominal US</u> - most important Dx for gallstone disease with excellent test characteristics (84% Sn, 99% Sp, dependent on size):
+    - **Imaging findings:**
+      - <u>Stones</u> - echogenic foci that cast acoustic shadowing w/ gravity dependency
+      - <u>Sludge</u> - echogenic foci but does not cast acousting shadowing ![](../img/gallstone_us.png) ![](../img/gallstone_us_2.png) 
+      ![](../img/gallbladder_sludge_us.png)
+  - <u>Endoscopic ultrasound</u> (EUS) - performed along with upper endoscopy to r/o upper GI pathologies, superior to transabdominal US in detecting microlithiasis:
+    - **Indications** - reserved if there is repeated attacks of otherwise unexplained pancreatitis (transabdominal US -ve)
+  - +/- Other investigations - e.g. bile microscopy, HIDA scan (r/o acute cholecystitis), MRCP, NCCT abdomen (for complications)
+- **Mx:**
+  - **Principles of Mx:**
+    - Asymptomatic gallstones - expectant Mx with no role of prophylactive cholecystectomy
+    - Symptomatic uncomplicated gallstones - acute pain Mx, subsequently treated surgically with elective cholecystectomy
+
+    
+    ![](../img/Tx_algo_uncomplicated_gallstones.png)
+  - **Mx of asymptomatic gallstones** - expectant Mx:
+    - <u>Patient education</u> - educate nature of disease and seek medical attention if complications occur
+    - <u>No role of prophylactic cholecystectomy</u> - decision analysis models shows **no benefit**:
+      - **Note** - may be offered to individuals with 1) haemolytic disorders, or 2) increased risk of gallbladder cancer
+  - **Mx of symptomatic gallstones:**
+    - <u>Elective cholecystectomy</u> - offered for all symptomatic patients who are surgical candidates
+    - +/- Oral bile acids - chenodeoxycholic or ursodeoxycholic (stone dissolution)

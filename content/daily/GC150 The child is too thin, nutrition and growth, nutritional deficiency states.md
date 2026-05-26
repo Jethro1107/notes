@@ -1,0 +1,286 @@
+---
+id: c662eeaf-09b3-4f29-ab2f-d3657915866a
+title: 2025-07-12
+---
+
+# GC151 The malformed child - Hereditary Syndromes and Anomalies <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Contribution of genetic and environmental factors to human disease** - a spectrum (see slides)
+- **Interpretation of pedigrees:**
+    - X-linked - 1) only male affected, 2) often affected maternal uncle, 3) by definition absence of male-to-male transmission
+- **Rare disease will have certain properties from this understanding of human diseases:**
+    - Genetically simple - single gene explaining entire clinical presentation
+    - Unifactorial - unlikely having environmental influence on phenotype (generally genetically predisposed)
+    - High recurrence rate - 50% if AD, 25% if AR
+- **Epidemiology** - if giving rare disease as being rarer than 1:2000 in population:
+    - <u>Prevalence</u> - at least 400,000 people in HK affected by rare disease (since many rare diseases ~ 8000)
+- **Work of clinical geneticists:**
+    - Clinical work
+    - Back-stage work - rare disease database, literature review
+    - Research and development - laboratory work to develop new testing platforms for undiagnosed genetic diseases
+    - Reaching genetic diagnosis and genetic counselling
+- **Approach to short stature:**
+    - Proportionate - chromosome, endocrine, nutritional, others
+    - Disproportionate - skeletal dysplasia
+- **Some points on achondroplasia:**
+    - Disproportionate growth can be seen as early as in neonates - abnormal skin folds in the limbs (i.e. rhizomelic, mesomelic and acromelic short stature)
+    - Achondroplasia is part of a spectrum of disorder caused by FGFR3 receptor mutation, other conditions include:
+        - Hypochondroplasia
+        - Thanatophoric dysplasia I or II
+    - Why early detection of achondroplasia is important:
+        - Prevention of spinal canal stenosis
+    - Therapeutic potential - FGFR3 constituitively active, and CNP analogue can inhibid downstream pathways (improve the brake if the gas is constituitively active)
+- **Turner syndrome** - abnormality of X chromosome but different karyotypes (45, X is the prototype):
+    - **Definition** - phenotypic <u>females</u> with lsot of entire sex chromosome or a portion of the X chromosome that includes the <u>tip of its short arm</u>
+    - **Genotypes** (read slides): 
+    ![](~/Documents/notes/img/phenotypes_of_turner_syndrome.png)
+    - **Epidemiology:**
+        - <u>Prevalence</u> - note that only 1% survive to term (accounts for 7-10% of spontaneous miscarriages), and affects 1/2500 of live female birth
+    - **Pathophysiology** - haploinsufficiency of genes on X chromosome
+    - **Clinical manifestation** - often only proportionate short stature (hence easily missed), other features are often not present - typically only identified as delayed onset of puberty (if 5y obviously cannot identify):
+        - Short stature
+        - Pre-mature ovarian failure
+    - **Read slides for additional clinical features** - note that a/w coarctation of the aorta
+
+  
+  ![](~/Documents/notes/img/medical_conditions_in_ts.png)
+- **Approach to the child w/ neurodevelopmental disorder:**
+- **Fragile X syndrome** (a type of repeat disorder, note relationship w/ Huntingtons) - expanded CGG repeats in FMR1 gene (note that karyotype not diagnostic)
+    - **Molecular mechanism of fragile X** - determined by number of CGG repeats in promotor region of FMR1 gene:
+        - Normal - 6-50
+        - Pre-mutation - 60-200 (pre-mutation carrier a/w certail medical problems, read up!!!!!!)
+        - Full mutation - \> 200
+        - Full mutation results in **abnormal DNA methylation**
+
+    
+    ![](~/Documents/notes/img/molecular_mechanisms_of_fragile_x.png)
+- **Chromosome 22q13 deletion syndrome** (SHANK3 gene) - Phelan-McDermid syndrome (read slides that follow others, role in neurodevelopmental and neuropsychiatric disorders)
+    - **Role of SHANK3** - key in neuronal development, synapse function
+
+  
+  ![](~/Documents/notes/img/cluster_of_gene_in_asd.png)
+- **The child w/ cardiovascular comprimise:**
+- **Marfan syndrome** - connective tissue disorder w/ effect on cardiovascular disease:
+    - **Clinical manifestation** - not obvious at childhood, but becomes more apparent in adolescence and adulthood:
+        - Tall stature
+        - Short-sightedness and lens dislocation
+        - Cardiovascular - MVP, aortic dissection
+    - **Signs** - read revised Ghent criteria reflecting systemic features and FHx for clinical Dx of Marfans
+    - **Mx:**
+        - Beta-blockers to reduce aortic wall stress
+        - Losartan? role for TGF-beta pathway?
+
+# GC150 The child is too thin, nutrition and growth, nutritional deficiency states <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- LO:
+    - Key determinants of growth and growth standards
+    - Identify the causes of failure to thrive
+    - Understand early nutrition and gastrointestinal adaptation
+    - Appreciate importance of breast feeding
+- **General examination in an infant:**
+    - General appearance - the face is typically last to have wasting? and generally appears well, when he/her is infact not
+    - Which part of the body is the most evident of nutritional status - definitely not the facial appearance (as often not disuse due to crying, feeding, laugh)
+    - Assessment of growth parameters:
+        - Body proportion - compare w/ self (weight/ height/ head circumference)
+        - Growth record - compare w/ past
+        - Comparison w/ other babies - compare w/ age- gender- specific norms (distribution)
+- **Factors in normal development** - slides show a Lancet Journal and JAMA:
+    - e.g. one study demonstrated role of body fat in development - postulated role of lipids for neurodevelopment etc.
+- Screening in cord blood - thyroid (TSH), ABO, G6PD +/- IEM
+- **Child growth** - a dynamic and interactive process, which is judged relative to norms, is foundation of health and development (?no optimal growth)
+- **Key determinants of growth** - dependent on stage of life and age of child:
+    - Fetal/ infancy - nutrition
+    - Primary school (5-6, i.e. sufficient neurodevelopment which is greatly dependent on nutrition) - hormones (GH, sex hormone in puberty, thyroid)
+- **Milestones of childgrowth:**
+    - Birth weight - 3.2-3.4 kg
+    - Weight - 2x by 4mo, 3x by 10mo
+    - Height - 1/2 adult height by 3y, 3/4 adult height by 9y (relative to other adults)
+    - Head circumference - 85% adult HC by 3y (most of potential in early childhood)
+- **Child growth indicator:**
+    - Underweight - Z score cut-off point of \<-2 SD to classify low weight for age
+    - Stunting - Z-score cut off point of \<-2 SD to classify low height for age (stunting rate under 5y as key health indicator) and strongest relationship w/ cognitive development
+    - Wasting - a Z score cutoff point of \<= low weight for body height
+    - Failure to thrive - failure of expected growth in children younger than 3y (or downward crossing of two percentile lines inn weight over 6mo)
+- **DDx of failure to thrive:**
+    - Nutrition - inadequate intake, abnormal digestion, inability to utilise, excessive loss, increased energy demand not met
+        - Inadequate calorie intake:
+            - Maternal - failed breast feeding, inappropriate feeding technique, wrong formula, poor preparation
+            - Neonatal - congenital anomalies (e.g. cleft palate), CNS (wallowing disorder), distress, GI
+        - Mababsorption - primary (e.g. CF), secondary (post-GE, necrotising enteroclitis, short gut syndrome, food intolerance)
+        - Inability to utilise - syndromal, IEM (rare)
+    - Increased requirement - chronic infection, resp, heart, malignancy, anaemia, toxins, endocrine etc.
+- GI adaptation in early infancy:
+    - Read slides in physiology of nutritional uptake process - in utero and at birth changes in gut hormone etc.
+    - Pancreatic function in newborn:
+        - Relatively deficient at birth - maturation until late infancy
+        - Pancreatic amylase - start to increase after 4-6 mo
+        - PAncreatic lipase - approach adult efficiency at 6mo
+    - See slides on macronutrient digestion
+    - Upper GI motility:
+        - Decreased esophageal motility and lowered LES tone (similar to achalasia) - increased regurgitation, requiring posturing
+        - Gastric emptying delay
+    - Lower GI motility:
+        - Intestinal motility more disorganised
+        - Prolonged transiet time - improve absorption of nutrients
+    - Tangent on kidney:
+        - Limited ability to concentrate urine
+        - Hence require urine solute load to protect kidneys - human milk good, whole cow milk deteriorous
+- Breast feeding:
+    - Physiology - benefit mother and infant
+    - Most optimal nutrient - read slides for contents
+    - Immunologic function - matches sequence of postnatal development of the immune
+    - Reduce risk of DM, Obesity, recurrent ear infection, asthma or pneumonia, death in infant
+    - Maternal benefits - involution, physical shape, neoplasm (breast, endometrium), psychosocial well being (lower postnatal depression)
+    - Family benefits:
+        - Bonding
+        - Contraceptive
+        - Most economic and effective way
+    - Societal benefits:
+        - Less consultations
+        - Less hospitalisation
+        - Less expenses due to childhood infections
+    - Disadvantages:
+        - Physical exhaustion of mother
+        - Emotional stress
+        - Sleeping quality
+        - Infection, active chemo Tx etc not too indicated
+    - Role of vitamin D (esp many mothers vit D deficient) - key modulation of absorption and metabolism and some role in brain development and psychiatric condition
+
+# GC Paediatric E-Learning Platforms - Hx History and P/E <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Key important steps:**
+    - Review CFB paediatric material
+    - Learn important approaches to paediatrics
+    - Learn paediatric P/E
+    - Watch pre-recorded WCS
+- **Overview of need to know clinical presentations** - important to approach e-Paed cases:
+    - A child with acute SOB
+    - An infant w/ fever
+    - A neonate w/ jaundice
+    - A toddler w/ convulsion
+- **Key physical examination** - e-learning platforms:
+    - General Examination
+    - Newborn Examination
+    - Cardiovascular Examination
+    - Abdominal Examination
+    - Neurological Examination
+- **Pre-recorded WCS** - classified by subspecialties: 
+![](~/Documents/notes/img/pre-recorded-wcs_paedi_gc.png)
+- **Paediatric History Taking:**
+    - Key points to note different from normal Hx:
+        - Parents as primary informants - but involvement of child and family during the process
+        - Unique information to be gathered:
+            - Antenatal Hx
+            - Perinatal Hx
+            - Birth Hx
+            - Developmental Hx
+            - Immunization
+        - Emphasis on FHx and SHx
+        - Generating hypothesis and DDx - dependent on age and deveopment
+    - CC and HPI - also explore concerns of parents and carers, and identify biopsychosocial problems as well
+    - Systems enquiry - note that blind System review can be counterproductive, only focus on the relevant ones:
+        - General activity and playfulness (?compare w/ before)
+        - Diet, appetite, growth
+        - Behaviour
+        - Resp - cough, wheeze, SOB, recurrent chest infections
+        - GI - reflux, vomiting, diarrhoea, constipation
+        - Genitourinary system - dysuria, frequency
+        - Neurological system - seizure, abnormal movement, ?stroke??
+    - Antenatal and perinatal Hx:
+        - Parity, gestation birth weight
+        - Complications during pregnancy:
+            - Fetal USG examination
+            - Maternal medical problems - e.g. gestational DM, SLE, phenylketonuria
+            - Maternal infections - e.g. rubella
+            - Maternal use of teratogenic substances - e.g. alcohol, smoking habits during birth
+        - Nature of birth - and birth and perinatal problems
+    - PMH:
+        - Other medical problems and use of medications
+        - Allergy Hx - drug and food and nature of Hx
+        - Prior admissions
+    - Developmental Hx - likely more important in infants and young children than older children anda dolescent:
+        - Developmental milsestones:
+            - Gross motor
+            - Fine motor
+            - Language
+            - Social Development
+            - Vision
+            - Hearing
+        - Predisposing risk factors in those w/ evidence of developmental delay
+    - Immunisation - must know schedule
+    - Contact and Clustering Hx - esp. for febrile illnesses which precipitate HF in those w/ large L-to-R shunting (fever + rash may be infective, or a vasculitis, Kawasaki disease)
+    - FHx - pedigree, consanguineous marriage
+    - SHx - social environment of the child, impact on Mx esp if requiring long-term medications, FU, operations, intervention etc.:
+        - Parental occupation
+        - Housing
+        - Social and financial status
+        - Main caretaker
+        - Schooling
+- **Difference between paediatric Hx from a normal Hx:**
+    - <u>Difference in informant</u> - not the relation to the carer who brings child for consultation (involve child and family during the process)
+    - <u>Vague presenting complaints</u> - especially in young children who are unable to articulate Sx, disease severity is guaged by:
+        - General activity and playfulness
+        - Behaviour
+        - Diet and appetite
+        - Effects on growth
+    - <u>Unique information gathered</u>:
+        - Antenatal Hx
+        - Perinatal Hx
+        - Birth Hx
+        - Developmental Hx
+        - Immunization
+    - <u>FHx and SHx</u> - role not in identification of risk factors, but to assess **social environment for growth, development**, and **effects on Mx**
+    - <u>Parental ideas, concerns and expectations</u> - must be addressed in a sick child
+- **Outcomes after paediatric Hx:**
+    - 1\. <u>Guage severity of illness</u> based on impact on child and family
+    - 2\. <u>Generate DDx</u> with prioritisation and exclusion
+    - 3\. <u>Triple Dx</u>, addressing medical, psychological and social problems
+    - 4\. <u>Address concerns</u> of parents and carers
+    - 5\. <u>Guide further workup</u> (P/E, Ix, Mx)
+- **Template for paediatric history taking:**
+    - **Demographic** - age, sex and ethnicity of the child has <sub>bearings</sub> on DDx)
+    - **CC and HPI** - OPQRST (flexible and dependent on nature of problem)
+    - **Impact of illness** - assess severity by change in behaviour feeding:
+        - <u>General activity and playfulness</u> - ask parents to compare w/ before
+        - <u>Feeding</u> - change in diet (quantification of feeds, and types of feeding important)
+        - <u>Behaviour</u> - irritable (consolable vs non-consolable), drowsy and confused, clingy and miserable for older children
+    - **Associated Sx** - greatly depends on the DDx based on CC and age of patient
+    - **Systems review** - often necessary (esp. presentation w/ fever), but blind review may be counter productive:
+        - <u>Respiratory Sx</u> - cough, distress, rhinorrhea, recurrent chest infections
+        - <u>GI Sx</u> - vomiting, diarrhoea, constipation
+        - <u>Genitourinary Sx</u> - haematuria, foul-smelling urine, frequency, loss of urine output
+        - <u>Neurological Sx</u> - seizures, abnormal movements
+    - **Ideas, concerns and expectations** - explore concerns of parents and carers (identify biopsychosocial problems)
+    - **Antenatal and perinatal Hx:**
+        - <u>Details of birth</u>:
+            - Parity
+            - Gestation
+            - Nature of birth
+            - Birth weight
+            - Birth and perinatal problems
+        - <u>Complications during pregnancy</u>:
+            - Fetal USG examination
+            - Maternal medical problems - e.g. gestational DM, SLE, phenylketonuria
+            - Maternal infections - e.g. rubella
+            - Maternal use of teratogenic substances - e.g. alcohol, smoking habits during birth
+    - **PMH** - tailored to DDx:
+        - Other medical problems and use of medications
+        - Allergy Hx (drug, food and nature of reaction)
+        - Prior admissions
+    - **Developmental Hx** - more important in infants and younger children and as <u>oppourtunistic screening</u>:
+        - <u>Ask developmental milestones</u> - gross motor, fine motor, speech and lanaguage, social development
+        - <u>Ask predisposing risk factors</u> - if suspected developmental delay
+    - **Immunisation Hx** - know immunisation schedule
+    - **Contact and clustering Hx** - in children w/ febrile disease:
+        - Family and carers
+        - Schools and playgroups
+    - **FHx** - of congenital disease (ask about consanguineous marriage)
+    - **SHx** - social environment of the child, impact on Mx esp if requiring long-term medications, FU, operations, intervention etc.:
+        - Main caretaker
+        - Parental occupation
+        - Housing
+        - Social and financial status
+        - Schooling
+- Physical Examination - targeted based on Hx (always start w/ inspection tho)
+
+# GC Paediatric E-Learning Platforms - Paediatric General Examination <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>

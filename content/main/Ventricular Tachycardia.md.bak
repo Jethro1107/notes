@@ -1,0 +1,67 @@
+---
+id: 4edf9f20-7682-4071-9a28-afeaf723a291
+title: Ventricular Tachycardia
+---
+
+# Ventricular Tachycardia
+
+- **Definition** - rapid ventricular rate that is not under sinus control, but arises from abnormal automaticity from ventricular tissue, re-entrant circuits from scarred ventricular tissues, or triggered activities
+- **Etiology of VT** - often occurs in association w/ severe LV dysfunction:
+  - Acute myocardial infarction
+  - Chronic coronary artery disease
+  - Cardiomyopathy
+- **Pathophysiology of VT:**
+  - **Initiation and sustaining the rhythm** - likely multifactorial:
+    - <u>Initiation of rhythm</u> - caused by abnormal automaticity (e.g. from sympathetic stimulation), or triggered activity from myocardial ischaemia
+    - <u>Sustaining the rhythm</u> - rhythm is established by **re-entrant circuit** by scarred ventricular tissue
+  - **Haemodynamic effects** - low cardiac output as a result of insufficient time for ventricular filling:
+    - <u>Low CO results in insufficient coronary and cerebral perfusion</u> - results in chest pain, light-headedness, and syncope
+    - <u>Rise in LA pressure results in pulmonary congestion</u> - results in acute pulmonary oedema and hence acute shortness of breath
+  - **Degeneration into ventricular fibrillation** - rapid uncoordinated movement of ventricles results in absence of pulse, and by definition **cardiac arrest**
+- **Ventricular rate in VT** - rapid, typically \> 120 bpm
+- **Clinical features of VT:**
+  - <u>Effects of forward failure</u> - chest pain, light-headedness, syncope, **cardiac arrest**
+  - <u>Effects of backward failure</u> - acute pulmonary oedema and dyspnoea
+- **ECG features of VT:**
+  - <u>Rate and rhythm</u> - rapid, regular tachycardia
+  - <u>QRS complex</u> - wide QRS complex (esp. very broad e.g. \> 140 ms):
+    - Unifocal VT - a/w single QRS morphology
+    - Multifocal VT - a/w multiple QRS morphology
+  - <u>Presence of capture or fusion beats</u> (indicative of AV dissociation) - pathognomonic for VT (instead of AF w/ WPW):
+    - **Capture beat** - P wave conducted to ventricle through AV node resulting in normal sinus beat (narrow QRS complex)
+    - **Fusion beat** - conducted P wave fuses w/ an impulse from the tachycardia
+
+    
+    ![](../img/capture_and_fusion_beats.png)
+- **Differentiating between VT and pre-excitation AF:** 
+![](../img/differentiation_between_vt_and_pre-excitation_af.png)
+- **Mx:**
+  - **Principles of Mx:**
+    - **Principles of immediate Mx** - dependent on presence of a pulse:
+      - <u>Pulseless VT</u> (cardiac arrest) - per ACLS cardiac arrest protocol
+      - <u>VT with a pulse</u> - per ACLS 'tachycardia with a pulse' protocol
+    - **Principles of prophylactic therapy:**
+      - <u>Anti-arrhythmic drugs</u> - only beta-blockers and amiodarone are effective
+      - <u>Tx of reversible causes</u> - consider H's and T's
+      - <u>Insertion of ICD</u> - recomended for those at high risk of SCD by arrhythmia
+  - **Immediate Mx:**
+    - <u>Synchronised DC cardioversion</u> - immediate if haemodynamic instability
+    - <u>IV amiodarone</u> - considered if haemodynamically stable VT
+  - **Identification of reversible causes:**
+    - Hypokalaemia
+    - Acidosis
+    - Hypomagnesaemia
+    - ACS
+  - **Prophylactic anti-arrhythmic drugs:**
+    - <u>Selection</u> - beta-blockers preferred:
+      - Beta-blockers - reduced ventricular automaticity
+      - Amiodarone (if added control desired)
+      - Procainamide
+    - <u>Caution</u> - avoid procainamide in CHF or CAD as can result in myocardial depression and is pro-arrhythmogenic
+- **Idioventricular rhythms** - special case of VT in post-MI setting that does not require Tx:
+  - <u>Definition</u> - runs of slow VT at rate slightly above the preceding sinus rate and always \<= 120 bpm
+  - <u>Pathophysiology</u> - a sign of reperfusion post MI
+  - <u>Clinical features</u> - may be a good-sign after MI
+    - Self-limiting and will spontaneous abort
+    - Asymptomatic
+  - <u>Mx</u> - no Tx required

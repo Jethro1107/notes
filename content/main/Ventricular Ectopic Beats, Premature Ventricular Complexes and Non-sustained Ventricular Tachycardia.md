@@ -1,0 +1,189 @@
+---
+id: C3F7B3B4-C501-4DD6-AC84-A1A13D7B37AA
+roam_parent: 4edf9f20-7682-4071-9a28-afeaf723a291
+title: Ventricular Ectopic Beats, Premature Ventricular Complexes and Non-sustained Ventricular Tachycardia
+---
+
+# Ventricular Ectopic Beats, Premature Ventricular Complexes and Non-sustained Ventricular Tachycardia
+
+- **Terminology** - ventricular ectopics is an umbrella term reflecting ectopic ventricular beats that are not sustained VT, encompassing the following:
+    - <u>Premature ventricular complexes</u> (PVCs) - singleton ventricular beat
+    - <u>Non-sustained ventricular tachycardia</u> (NSVT) - short runs of VT (\> 3 consecutive ventricular beats) that terminate spontaneously \< 30s
+    - <u>Accelerated idioventricular rhythms</u> (AIVR) - \>= 3 consecutive ventricular beats at rate \< 100 bpm
+- **Epidemiology** - extremely common:
+    - Common in those w/ structurally and electrophysiologically normal hearts and are usually benign (may not require Tx if asymptomatic)
+    - Common in those w/ structural heart disease or abnormal ECG, but harbours risk of SCD
+- **Clinical features of ventricular ectopics:**
+    - <u>Asymptomatic</u> - incidental finding during outpatient or inpatient telemetry monitoring
+    - <u>Palpitations</u> - PVCs may be described as:
+        - Flips and jolts
+        - Skipped beat
+        - Sudden strong beat w/ sensation in the neck
+- **Signs** - palpable ectopic beats
+- **Premature ventricular complexes** (PVC):
+    - **Pathophysiology** - often **senstive to sympathetic stimulation**, due to:
+        - 1\) enhanced automaticity
+        - 2\) triggered automaticity
+        - 3\) localised re-entry
+    - **Causes of PVCs**:
+        - Myocardial ischaemia
+        - Structural heart disease (a/w scarring)
+        - Increased sympathetic tone
+        - Electrolyte imbalances
+        - Hypoxia
+    - **Identification of origin of PVCs** (may be multifocal) - similar approach to other VAs; <u>benign PVCs usually have LBBB morphology</u>:
+        - <u>Left bundle branch morphology</u> (dominant S wave in V1) - arises from **RV** or **interventricula septum** (suggests
+        - <u>Right bunde branch morphology</u> (dominant R wave in V1) - arises from **LV**
+        - <u>Superior frontal plane axis</u> (negative II, III, aVF) - arises from **inferior wall** (diaphragmatic aspect of heart)
+        - <u>Inferior frontal plane axis</u> (positive II, III, aVF) - arises from **cranial aspect of the heart**
+    - **Differentiation between causes of PVCs** - QRS morphology of PVCs may determine whether it is caused by myocardial ischaemia or structural heart disease (diseased myocardial substrate):
+        - <u>PVCs arising from healthy myocardium</u> - sharp QRS deflections; smooth uninterupted contours; unifocal w/ LBBB morphology
+        - <u>VCs arisng from diseased myocardial substrate</u> - slurred QRS deflections; broad notching; multifocal
+
+    
+    ![](../img/differentiating_features_of_pvc.png)
+- **Evaluation of patient w/ ventricular ectopic beats, PVCs, and NSVT:**
+    - **Hx** - identify risk factors for SCD:
+        - <u>Sx</u> - CVS Sx screen; effort related Sx should be evaluated for CCS
+        - <u>Risk factors for aetherosclerosis</u> - consider undiagnosed CAD
+        - <u>FHx</u> - SCD, unexplained early death, cardiomyopathies, long QT syndrome, ARVD, Brugada syndrome
+    - **P/E** - PVC may be palpable;cardiovascular examination for structural heart disease
+    - **12-lead ECG:**
+        - <u>Rate and rhythm</u>:
+            - Sinus rhythm - many patients w/ idiopathic arrhythmias usually present w/ sinus rhythm
+            - Premature ventricular complexes - may ocassionally be detected
+        - <u>Axis</u> - LAD, RAD etc.
+        - <u>Intervals</u>:
+            - QRS complex - wide vs narrow; **pathological Q waves**; bundle branch morphology; **epsilon wave** (ARVD)
+            - QTc - esp. in patients w/o evidence of structural heart disease:
+                - Long QT syndrome
+                - Short QT syndrome
+        - <u>Chamber enlargements</u> - detection of LVH or RVH which may indicate hypertrophic cardiomyopathy
+        - <u>ST segments</u> - ischaemic changes; **Brugada syndrome**, or **ARVD**: 
+        ![](../img/ecg_of_brugada_syndrome_and_arvd.png)
+    - **Additional evaluation:**
+        - Echocardiogram - LVEF, wall motion abnormalities, valvular heart disease
+        - Cardiac MRI - detection of substrate for sustained VT
+        - Exerise stress testing - for those w/ effort-related Sx and those at risk of CAD
+- **PVCs and NSVT in a patient w/ normal myocardium and absence of genetic sudden death syndromes** (idiopathic VAs):
+    - **PVCs and NSVT during acute illness:**
+        - <u>Clinical presentation</u> - usually encountered in pateints on ambulatory cardiac monitoring
+        - <u>Evaluation</u> - detection and correction of reversible causes or aggravating factors:
+            - Myocardial ischaemia
+            - Ventricular dysfunction
+            - Electrolyte disturbances (most comonly **hypoK**, hypoMg)
+            - Undiagnosed structural heart disease
+        - <u>Mx</u>:
+            - Mx of patients presenting illness
+            - Correction of reversible causes (esp. K)
+            - Asymptomatic PVCs and NSVT during acute illness do not require specific Tx
+    - **PVCs and NSVT in patients w/o heart disease** (idiopathic VAs):
+        - <u>Epidemiology</u> - not uncommon for PVCs and NSVT to occur in the absence of structural heart disease or genetic sudden death syndromes
+        - <u>Pathophysiology</u> - foci senstive to sympathetic stimulation
+        - <u>Origin of idiopathic PVCs and NSVT</u> - usually **single foci**:
+            - Near valve annuli at the RVOT or LVOT (i.e. interventricular septum)
+            - Rarely arises from papillary muscles and fascicular tissue
+        - <u>Characteristic ECG fingings of idiopathic PVCs</u>:
+            - LBBB morphology (dominant S wave in V1)
+            - Inferior frontal plane axis
+        - <u>Characteristic ECG findings of idiopathic NSVTs</u>:
+            - Rate \< 200 bpm
+            - Monomorhpic VTs
+            - "Short-coupled" (first beat prior to the peak of T wave) uncommon and should prompt evaluation of underlying disease or genetic syndrome
+        - <u>Indications prompting further ealuation</u> - considered when red flags identified:
+            - **Sx** - effort related Sx should be evaluated for CCS
+            - **Risk factors for aetherosclerosis** - consider undiagnosed CAD
+            - **FHx** - SCD, unexplained early death, cardiomyopathies, long QT syndrome, ARVD, Brugada syndrome
+            - **12-lead ECG** - any abnormalities in 12-lead ECG (e.g. abnormal intervals, chamber enlargements, repolarisation abnormalities): 
+            ![](../img/ecg_of_brugada_syndrome_and_arvd.png)
+        - <u>Approach to additional evaluation</u>:
+            - Echocardiogram - LVEF, wall motion abnormalities, valvular heart disease
+            - Cardiac MRI - detection of substrate for sustained VT
+            - Exerise stress testing - for those w/ effort-related Sx and those at risk of CAD
+    - **Mx of idiopathic VAs:**
+        - **Principles of Mx:**
+            - <u>Confirm idiopathic nature</u> - r/o structural heart disease and genetic sudden death syndrome
+            - <u>Patient re-assurance</u> - reassurance that arrhythmia is most likely benign, which is often sufficient to cope w/ Sx
+            - <u>General measures</u> - avoid stimulants such as caffeeine and alcohol
+            - <u>Specific Tx</u>:
+                - Decision for specific Tx dependent on Sx burden (e.g. frequency of PVCs, severity of Sx)
+                - Frequent PVCs depressing ventricular functions may be an indication to Tx
+        - **Specific Tx:**
+            - <u>1st-line therapy</u> - BBs, non-dihydropyridine CCBs
+            - <u>2nd-line therapy</u> - flecainide (or other antiarrhythmics such as mexiletine, propafenone and amiodarone, but long term use not desired)
+            - <u>3rd-line therapy</u> - catheter ablation (effective in 90% patients)
+- **PVCs and NSVT in acute coronary syndrome:**
+    - **Pathophysiology of PVCs and NSVT in peri-infarct period:**
+        - Attributable to residual <u>myocardial ischaemia</u> and <u>depressed ventricular function</u>
+        - Aggravated by non-cardiac causes such as electrolyte disturbances (hypoK, hypoMg)
+        - Known to be <u>harbinger of subsequent VF</u> and thus increased mortality
+    - **Arrhythmia-related prognostic markers in peri-infarct period** - presence of any suggests higher mortality rate but specific Tx have not demonstrated effects in reducing mortality:
+        - Frequent PVCs (\> 10 PVCs/h)
+        - Repetitive PVCs with ventricular couplets
+        - NSVT (N.B. differentiated from AIVR which may be a good prognostic sign reflecting reperfusion)
+    - **Mx:**
+        - **Principles of Mx:**
+            - <u>No routine use of antiarrhythmics</u> - as does not reduce mortality, and thus not indicated for suppression of asymptomatic PVCs and NSVT unless sustained VT/VF has already occured (goal to reduce likelihood of subsequent episode)
+            - <u>Beta-blockade, correction of underlying cause, and amiodarone in selected patients</u>:
+                - Beta-blockade - routinely given as part of post-MI care, known to reduce Sx and SCD
+                - Search for and correct underlying causes - hypoK, hypoMg
+                - Amiodarone in selected patients - in those w/ aforementioned poor progonstic markers where benefits thought to outweight toxicities
+            - <u>ICD implantation</u> - reserved for those at high risks (see below)
+        - **ICD implantations:**
+            - <u>Clinical efficacy</u>:
+                - Routine implantation early post MI does not reduce mortality
+                - Reduce mortality only in certain high risk groups
+            - <u>Indications for post-MI ICD implantation</u> - certain high risk groups:
+                - Low LVEF - \>40 days post-MI with LVEF \<30%
+                - Symptomatic HF - \>40 days post-MI with LVEF \<35% + symptomatic Heart Failure (NYHA Class II/III)
+                - Inducible Arrhythmia - \>5 days post-MI with reduced LVEF + NSVT + inducible sustained VT/VF on electrophysiologic (EP) testing
+- **PVCs and NSVT a/w HF:**
+    - **PVCs and NSVT a/w heart failure:**
+        - Markers of disease severity and increase mortality
+        - Anti-arrhythmics not shown to improve survival
+    - **Limitations in pharmacological Tx of PVCs and NSVTs a/w heart failure:**
+        - <u>Class I drugs contraindicated</u> - avoided due to risk of proarrhythmia and bradyarrhythmias
+        - <u>Limited evidence for amiodarone</u> - suppresses ventricular ectopy, reduced SCD, but does not improve overall survival (difficult to justify S/E in a patient already w/ unfavourable prognosis)
+    - **Indications of ICD implantations** - reduced 5y mortality from 36 to 29% if applied to those w/:
+        - NYHA class II or III, AND;
+        - LVEF \< 35%
+- **PVCs and NSVT in other cardiac disease:**
+    - **Other cardiac diseases a/w PVCs and NSVT:**
+        - Cardiomyopathies (HCM, ARVD)
+        - Genetic sudden death syndrome
+        - Congenital heart disease w/ LV or RV dysfunction
+    - **Mx:**
+        - ICDs as mainstay for those at high risk of SCD (disease specific)
+        - Pharmacological therapy for arrhythmia suppression does not improve mortality
+- **Accelerated idioventricular rhythm:**
+    - **Pathophysiology of AIVR:**
+        - Increased automaticity (rarely re-entrant circuit involving diseased myocardium)
+        - Often taking over pace-maker activity especially during sinus bradycardia
+
+    
+    ![](../img/aivr.png)
+    - **Causes of AIVR:**
+        - Myocardial ischaemia
+        - Cardiomyopathy
+        - Sleep apnoea
+    - **Mx:**
+        - Correction of underlying bradycardia (e.g. atropine given if symptomatic)
+        - Correct underlying cause
+- **PVC-induced ventricular dysfunction** (PVC-induced cardiomyopathy):
+    - **Pathophysiology of PVC-induced ventricular dysfunction** (PVC-induced cardiomyopathy) - rarely occurs unless high PVC burden (\> 10-20% of total beats over 24h):
+        - Tachycardia-induced cardiomyopathy
+        - Ventricular dyssyncrhony
+    - **Origin of PVC-induced ventricular dysfunction** - usually unifocal and can be ablated:
+        - LVOT/ RVOT regions
+        - Left ventricular papillary muscles
+        - Rarely mitral/ tricuspid valve annuli, RV moderator band, or epicardial surfaces
+    - **Factors predicting disease progression:**
+        - Frequency of PVC (PVC burden)
+        - Characteristic of PVC morphology
+        - Timing of PVC coupling interval
+    - **DDx of PVC-induced ventricular dysfunction** - other cardiac diseases can result in ventricular dysfunction and high PVC burden:
+        - Cardiomyopathic process
+        - Myocardial ischaemia
+    - **Mx** - catheter ablation if possible as:
+        - Improve EF
+        - Improve other factors such as delivery of biventricular pacing (CRT)

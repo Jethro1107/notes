@@ -1,0 +1,55 @@
+---
+id: A80E2DD9-C77B-4C1D-90B0-547B9BA4D89A
+roam_refs: "\\[cite:@mcdonagh2021ESCGuidelines2021\\]"
+title: McDonaugh et al 2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure
+---
+
+# McDonaugh et al 2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure
+
+## Definition, Epidemiology and Prognosis
+
+## Heart Failure with Reduced Ejection Fraction
+
+## Cardiac Rhythm Management for Heart Failure with Reduced Ejection Fraction
+
+## Heart Failure with Mildly-Reduced Ejection Fraction
+
+## Heart Failure with Preserved Ejection Fraction
+
+## Multidisciplinary Team Management for the Prevention and Treatment of Chronic Heart Failure
+
+## Advanced Heart Failure
+
+## Acute Heart Failure
+
+### Epidemiology, diagnosis and prognosis
+
+- **Definition** - refers to rapid or gradual onset of S/S of HF, severe enough for the patient to seek urgent medical attention, leading to an unplanned hospital admission or an emergency department visit
+- **Epidemiology:**
+    - <u>Burden</u>:
+        - Leading cause of hospitalisations in \> 65y
+        - High rates of mortality and rehospitalisation rates
+- **Factors influencing the clinical severity and in-hospital trajectory:**
+    - Precipitant
+    - The underlying cardiac substrate
+    - The Patient's comorbidities
+- **Precipitants of AHF** - able to precipitate but not cause AHF: 
+![](../img/esc_hf_factors_triggering_ahf.png)
+
+### Clinical presentations
+
+- **Clinical presentations of AHF** - all will be "wet", however different levels of perfusion: 
+![](../img/esc_hf_clinical_presentations_of_ahf.png)
+- **Acute decompensated heart failure** (ADHF):
+    - <u>Epidemiology</u> - most common form of AHF (50-70% of presentations)
+    - <u>Pathophysiology</u>:
+        - LV dysfunction - usually occurs in patients w/ HF and previous cardiac dysfunction across spectrum of LVEF
+        - Salt and water retention - progressive fluid retention of various causes, and increased LVEDP
+    - <u>Clinical presentations</u> - typically **gradual over days**:
+        - aor
+
+## Cardiovascular Comorbidities
+
+## Non-Crdiovascular Comorbidities
+
+## Special Conditions

@@ -1,0 +1,108 @@
+---
+id: aaa8c57c-331c-4118-8fe0-f4e895ab49e6
+title: Sepsis
+---
+
+# Sepsis
+
+- **Definition** - localised infection that progresses to an uncontrolled systemic inflammatory response, rapidly leading to acute physiological deterioration with risk of MOF and death
+- **Epidemiology** - increasing incidence:
+    - <u>Incidence</u> - increasing incidence in recent years (attributable to population aging, increased use of invasive surgery, higher bacterial resistance, increasing number of immunocomprimised patients)
+- **Risk factors for sepsis:**
+    - <u>Immunosuppression</u> - DM, immunodeficiency, haematological disorders
+    - <u>Substance</u> - alcohol and substance abuse
+    - <u>Chronic comorbidities</u> - chronic disease (heart, lungs, kidneys, liver), cancer
+    - <u>Trauma</u> - trauma and burns
+    - <u>Iatrogenic</u> - recent surgery/ invasive procedure, invasive lines (IV, arterial, urinary catheterse, NG tubes), prolonged ICU stay, invasive ventilation, stress ulcer prophylaxis
+- **Common sites of infection in critically ill patients:**
+    - <u>Chest infections</u> (esp. nosocomial pneumonia) - high risk of nosocomial pneumonia in ICU patients that are intubated especially if ABx given
+    - <u>Intra-abdominal infections</u> - intra-abdominal abscess or necrotic gut should be considered in post-operative patients, while pancreatitis, acalculous cholecystitis and PPU can complicate prolonged critical care
+    - <u>Urinary tract infection</u> - uro sepsis a relatively unusual source in unexplained sepsis
+    - <u>Intravenous lines</u> (esp. central lines) - replace any lines that have not been changed for \> 4d
+    - <u>Other sites of infections</u>:
+        - Infective endocarditis
+        - Meningitis and other CNS infections
+        - Septic arthritis and osteomyelitis
+        - Rhinosinusitis, otitis media and deep neck space infections
+        - Genitourinary infections
+        - Gastrointestinal infection
+
+  
+  ![](img/sites_of_infections_in_critically_ill_patients.png)
+- **Clinical presentation of sepsis** - speed of onset may mimic major PE or acute MI:
+    - **Features relating to focus of infection:**
+        - <u>Chest infections</u> - cough and purulent sputum, dyspnoea, consolidations
+        - <u>Invasive line infections</u> - erythema, tenderness over line
+        - <u>Intra-abdominal infections</u> - abdominal pain, N/V etc.
+    - **Features of systemic inflammatory response syndrome** - defined by the presence of two or more of the following:
+        - <u>Respiratory rate</u> - \> 20/min
+        - <u>Heart rate</u> - \> 90 bpm
+        - <u>WBC</u> - \> 12 x 10<sup>9</sup>/L (leukocytosis) or \< 4 x 10<sup>9</sup>/L (septic neutropenia)
+        - <u>Temperature</u> - \> 38°C (**fever**) or \< 36°C (septic hypothermia)
+        - <u>PaCO2</u> - \< 4.3 kPa (\< 32 mmHg) or ventilated
+    - **Presentation as septic shock or hypotension** - characteristically initially a/w wide pulse pressure (e.g. 115/42 mmHg) indicating early septicaemia, which progresses into narrow pulse pressure (e.g. 78/68 mmHg) due to distributive shock
+        - <u>Wide pulse pressure</u> - due to systemic endothelial dysfunction and vasodilation manifesting as **warm peripheries** ('warm' shock), **bounding pulse**
+        - <u>Narrow pulse pressure</u> - due to 'third spacing' and shrunken intravascular volume, manifesting as **cold peripheries** ('cold' shock), **absent pulse**
+- **Ix in sepsis** - complete septup workup:
+    - **Routine bloods** - CBC, LRFT, inflammatory markers, ABG, Clotting profile, RBG, latate, procalcitonin:
+        - **CBC:**
+            - <u>Hb</u> - anaemia due to red blood cel
+            - <u>WBC</u> - leukocytosis \> 12 x 10<sup>9</sup>/L or leukopenia \< 4 x 10<sup>9</sup>/L
+            - <u>Platelet</u> - thrombocytopenia (\< 100 x 10<sup>9</sup>/L)
+        - **LFT:**
+            - <u>Transaminase</u> - rapid rise of transaminase with reversed de Retis ratio (\> 10000 mmol/L) with raid decline compatible with <u>shock liver</u>
+            - <u>Bilirubin</u> - hyperbilirubinaemia (\> 70 mmol/L) reflective of acute liver failure
+        - **RFT:**
+            - <u>Electrolytes</u> - derranged in AKI, and rarely reflects adrenal insufficiency (hypoNa, hyperK)
+            - <u>Cr</u> - sudden increase in sCr \> 44.2 mmol/L compatible with KDIGO guidelines of AKI
+        - **Inflammatory markers** (CRP/ESR) - non-specifically elevated
+        - **ABG:**
+            - <u>PaO2</u> - hypoxaemia (PF ratio \< 300)
+            - <u>PaCO2</u> - may reveal hypercapnia
+            - <u>pH and HCO3</u> - acidosis, which may be HAGMA (septic shock), respiratory acidosis or mixed
+        - **Clotting profiles** - prolonged PT and aPTT suggestive of DIC
+        - **RBG** - hyperglycaemia in the absence of DM
+        - **Lactate** - \> 2 mmol/L as the earliest sign of septic shock
+        - **Procalcitonin** - elevated reflects bacterial infection and sepsis
+    - **Urinalysis** - look for UTI
+    - **CXR** - look for pneumonia
+    - **Microbiological workup:**
+        - <u>Blood cultures</u> - only 10% of ICU patients with clinical diagnosis of septic shock will have +ve blood cultures due to prior ABx Tx
+        - <u>Sputum culture</u> - microbiological workup for pneumonia
+        - <u>Culture of IV lines, urine and wound discharge</u> - if applicable
+    - **Additional investigations** - dependent on suspected infection:
+        - <u>Abdominal USG</u> - look for intra-abdominal infections and biliary disease
+        - <u>CT abdomen</u> - look for intra-abdominal source of infections
+        - <u>Echocardiography</u> - if suspected infective endocarditis
+        - <u>Lumbar puncture</u> - for suspected meningitis only if **platelet and clotting normal**
+
+    
+    ![](img/sites_of_infections_in_critically_ill_patients.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Prompt resuscitation</u> - high concentration O2 and volume resuscitation
+        - <u>Establish monitoring</u> - per ICU care
+        - <u>Eradication of infection</u> - adminstration of appropriate IV ABx with spectrum wide enough to cover probable organisms based on likely site and source of infection
+        - <u>Mx of multi-organ dysfunction</u> - e.g. vasoactive agents for shock
+        - <u>Additional therapies</u> - e.g. sedative and muscle relaxants, corticosteroids, inotropes, packed cells transfusion
+    - **Initial Mx** - secure airway, correct hypoxaemia and establish IV access 
+    ![](img/davidson_mx_of_severe_sepsis.png)
+    - **O2 therapy** - give high concetration O2 (+/- additional respiratory support):
+        - <u>Rationale</u> - reasons for administration of high concentration O2 in sepsis:
+            - Reduced cardiac output - sepsis is a common cause of cardiac suppression especially in later stages of sepsis
+            - Increased oxygen consumption - sepsis is a hypermetabolic state (at least in hyperinflammatory sepsis)
+            - Microcirculatory collapse - failed regional distribution of flow despite optimal DO2 results in cellular hypoxia
+            - Ineffective oxygen utilisation - mitochondrial dysfunction accompanying SIRS results in low tissue oxygen extraction ratio (OER) despite normal or supra-physiological DO2
+        - <u>Target</u> - not known, but typically target 90-96% on pulse oximetry
+    - **Volume resuscitation** - fluid challenges even if clinically not dry:
+        - <u>Rationale</u> - relative volume depletion due to vasodilation and hypotension (MAP titrated at 65 mmHg to ensure CO is not the limiting factor of global DO2)
+        - <u>Regimen</u> - no rigid protocol due to unpredictable response:
+            - Blood transfusion - indicated based on Hb (restrictive transfusion strategy)
+            - Colloids - 100-200 mL boluses to assess BP response to volume (?Surviving Sepsis guidelines)
+            - Crystalloids
+    - **Vasoactive agents** - noradrenaline typically preferred to raised BP
+    - **Sedatives and muscle relaxants:**
+        - <u>Rationale</u> - reduced demand (i.e. metabolic rate) to ensure DO2 is sufficient to meet demand
+    - **Corticosteroids** - corticosteroid replacement therapy is controversial:
+        - <u>Rationale</u> - certain series demonstrated 30% of patients have demonstrable adrenal insufficiency by short Synacthen test
+        - <u>Evidence</u> - a/w earlier resolution of shock but has no effects on survival

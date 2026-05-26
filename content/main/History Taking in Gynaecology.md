@@ -1,0 +1,65 @@
+---
+id: a21728a0-72f2-4b8a-88b8-9bb69c677b97
+title: History Taking in Gynaecology
+---
+
+# History Taking in Gynaecology
+
+- **Template for Gynaecological Hx:** ![](img/ten_teachers_gynae_hx_part_1.png) ![](img/ten_teachers_gynae_hx_part_2.png) 
+![](img/ten_teachers_gynae_hx_part_3.png)
+    - **Demographic details** - name, age, sex
+    - **Chief complaint** - e.g. menstrual problems, pain, subfertility, urinary incontinence
+    - **HPI** - characterising chief complaint based on OPQRST
+    - **Menstrual Hx** - explored in all patients (including post-menopausal women) with different goals:
+        - <u>Menarche and menopause</u> - baseline estrogen exposure
+        - <u>Last menstrual period</u> (LMP) - by definition **first day** of last menstrual period
+        - <u>Pattern of bleeding</u> - usual duration of each period, amount of blood loss (note patients have different ideas of heavy period)
+        - <u>Pattern of cycle</u> - regularity of cycle, length of cycle
+    - **Other associated gynaecological Sx:**
+        - Irregular bleeding
+        - Abnormal uterine bleeding (AUB) - including heavy menstrual bleeding (HMB), intermenstrual bleeding (IMB) or post-coital bleeding (PCB)
+        - Vaginal discharge
+        - Pelvic pain
+        - Problems with fertility
+        - Problems with continence
+        - Dyspareunia or sexual difficulty
+    - **Cervical smear Hx** - assess screening for cervical malignancies:
+        - Date of last smear
+        - Outcomes of last smear
+        - Any previous abnormalities, colposcopy or treatments
+    - **Sexual and contraceptive Hx:**
+        - Sexual orientation
+        - Currently sexually active or previously sexually active
+        - Present partner(s), multiple sexual partners
+        - Contraceptive methods
+    - **Past gynaecological and obstetrics Hx:**
+        - <u>Past gynaecological Hx</u> - past Tx or surgery
+        - <u>Past obstetrics Hx</u> - Gravidity and Parity:
+            - Number of children with ages, birthweights, mode of delivery, and complications
+            - Number of miscarriages and gestations at which they occured
+            - Any termination of pregnancy with record of gestational age and any complications
+    - **Past medical and surgical history** - any serious illness or operations w/ dates
+    - **Drug Hx** - current/ previous medications
+    - **Allergic Hx** - drug allergies and the reaction
+    - **SHx:**
+        - Occupation
+        - Housing conditions and who she lives with
+        - Stable relationship
+        - Smoking and alcohol
+    - **FHx:**
+        - Autoimmune disease (e.g. antiphospholipid syndrome)
+        - BRACA-related cancers (colon, breast, ovaries)
+        - Thrombophilias
+    - **Systems equiry:**
+        - <u>Constitutive Sx</u> - e.g. appetite, weight loss, weight gain
+        - <u>Bowel functions</u>
+        - <u>Bladder functions</u>
+- **Presenting complaints in gynaecology:**
+    - Abnormal uterine bleeding
+    - Contraception and emergency contraception
+    - Early pregnancy and complications of early pregnancy
+    - Subfertility
+    - Menopause
+    - Urogynaecology
+    - Sexual Health
+    - Pelvic pain

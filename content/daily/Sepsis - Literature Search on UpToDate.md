@@ -1,0 +1,29 @@
+---
+id: 78664876-11b8-495a-b71f-6027e57cb3c9
+title: 2025-06-16
+---
+
+# Sepsis - Literature Search on UpToDate <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+- **Reference:**
+    - [Sepsis syndromes in adults: Epidemiology, definitions, clinical presentation, diagnosis, and prognosis](https://www.uptodate.com.eproxy.lib.hku.hk/contents/sepsis-syndromes-in-adults-epidemiology-definitions-clinical-presentation-diagnosis-and-prognosis?search=sepsis&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1#H10)
+    - [Pitathophysiology of sepsis](https://www.uptodate.com.eproxy.lib.hku.hk/contents/pathophysiology-of-sepsis?search=sepsis&topicRef=1657&source=see_link)
+    - [Evaluation and management of suspected sepsis and septic shock in adults](https://www.uptodate.com.eproxy.lib.hku.hk/contents/evaluation-and-management-of-suspected-sepsis-and-septic-shock-in-adults?search=sepsis&topicRef=1657&source=see_link)
+- **Definition** - Sepsis is defined as life-threatening organ dysfunction caused by a dysregulated host response to infection (SEPSIS-3)
+- **Epidemiology:**
+    - <u>Incidence</u> - increasing in incidence (13 to 79 cases/100000/y from 1998 to 2009), may be attributed to advancing age, immunosuppression, and multidrug-resistant infection
+    - <u>Burden</u> - decreasing mortality (by 53% between 1990 to 2017), but increasing disease severity
+- **Terminology** - note such definitions are not diagnostic of sepsis:
+    - <u>Early sepsis</u> - no formal definition suggesting infection and bacteremia can progress into sepsis, but there was no demonstrable benefit in terms of 30d mortality based on alert systems for identification of early sepsis (potentially due to ABx overuse and C. diff colitis)
+    - <u>Sepsis</u> - life-threatening organ dysfunction (SOFA score) caused by a dysregulated host response to infection (based on supporting clinical, radiological and microbiological evidence)
+    - <u>Septic shock</u> - sepsis that has circulatory, cellular and metabolic abnormalities that are associated with a greater risk of mortality (40% vs 10%) than sepsis alone (vasopressor to maintain MAP \> 65 mmHg and lactate \> 2 mmol/L)
+    - <u>Multiple organ dysfunction syndrome</u> (MODS) - progressive organ dysfunction in an acutely ill patient, such that homeostasis cannot be maintained without intervention
+    - <u>Systemic inflammatory response syndrome</u> - clinical syndrome reflecting a form of dysregulated inflammation, but its criteria to identify those with sepsis has fallen out of favor since most patients that meet SIRS criteria do not develop an infection
+- **Risk factors of sepsis:**
+    - <u>ICU admission</u> - approximately 50% of ICU patients develop nosocomial infection, therefore are intrinsically at high risk of sepsis
+    - <u>Bacteraemia</u> - most patients with positive blood cultures develop systemic consequences of infection
+    - <u>Advanced age</u> (\> 65y) - independent risk factor for sepsis and mortality due to sepsis
+    - <u>Immunosuppression</u> (e.g. neoplasm, liver failure, asplenism, renal failure, AIDS, immunosuppressants) - comorbidities that depress host defense are common among patients with sepsis or septic shock
+    - <u>Diabetes and obesity</u> - increased risk for recurrent, nosocomial and secoondary infections that lead to sepsis
+    - <u>Malignancies</u> - one of the most common comorbidities among patients with sepsis
+- **Clinical presentation of sepsis:**

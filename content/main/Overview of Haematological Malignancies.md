@@ -1,0 +1,14 @@
+---
+id: ba365273-5c57-4634-bb92-b5c1199fe1b7
+title: Overview of Haematological Malignancies
+---
+
+# Overview of Haematological Malignancies
+
+- **Definition** - heterogenous groups of disorders that arises when the process controlling proliferation or apoptosis are corrupted in blood cells
+- **Clinical picture of haematological malignancies based on cell affected:**
+    - <u>Mutation in mature, differentiated cells</u> - low growth fraction resulting in production of indoplent neoplasms (e.g. low-grade lymphomas, chronic leukaemias), with expected survival of many years
+    - <u>Mutations in immature stem cells</u> - high growth fraction resulting in production of rapidly progressive, life-threatening neoplasms (e.g. high-grade lymphoma, acute leukaemias)
+- **Age of onset** - generally disease of the elderly, except:
+    - <u>Acute lymphoblastic leukaemia</u> - predominantly affects children
+    - <u>Hodgkin lymphoma</u> - peak incidence in 20-40y

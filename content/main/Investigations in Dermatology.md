@@ -1,0 +1,41 @@
+---
+type: main
+---
+# Investigations in Dermatology
+
+- **Wood's light:**
+	- _Principles_ - long-wavelength UVA/ short-wavelength visible (violet) light source to determine the extent of disease
+	- _Role_:
+		- Determine the extent of hypopigmentation (e.g. vitiligo)
+		- Determine whether pigmentation is epidermal (sharp cut off) or mixed epidermal/ dermal (ill-defined cut-off)
+		- Diagnosis of fungal infections based on characteristic fluorescence
+- **Dermatoscopy and diascopy:**
+- **Histopathology:**
+	- _Staining_ - H&E staining as baseline, w/ various staining e.g. IMF for immunobullous diseases, KOH for fungal infections, other stains for iron and mucin
+	- _Role_ - primary role in tumour Dx +/- inflammatory skin diseases
+- **Microbiology:**
+	- _Bacteriology_ - requires clinical correlation (e.g. normal skin flora \[S. aureus] will not be the cause of cellulitis)
+	- _Virology_ - IMF or PCR available for Dx of herpesviridae infections (e.g. HSV, VZV) from vesicle fluid
+	- _Mycology_ - KOH staining +/- culture for fungal infections
+- **Patch testing:**
+	- _Role_ - investigation of type IV hypersensitivity reaction
+	- _Procedures_:
+		- Provocation test w/ potential allergens applied at concentrations and in vehicles to minimise FP and FN reactions under occlusion
+		- Wait 48h before examination for reaction
+- **Prick tests and specific IgE testing:**
+	- **Prick test:**
+		- _Role_ - investigation of cutaneous type I hypersensitivity reaction
+		- _Procedure_ - skin prick w/ commercially available stylets through dilution of appropriate Ag solution
+	- **Specific IgE** - direct detection of specific IgE to suspected antigen measured
+- **Phototesting:**
+	- _Technique_ - monochromator phototesting:
+		- Exposing the patient's back to increasing doses of irradiation using narrow wavebands across the solar spectrum
+		- Response is determined after 24h for UVB, or 72-96h for UVA
+		- Response is interpreted against the minimal erythema dose (MED) at each wave-length, i.e. the dose required to cause just perceptible skin reddening in healthy subjects
+	- _Interpretation_ - reduced MED refers to reddening of skin at lower doses than healthy subjects, suggesting of photosensitivity, noting:
+		- Severity of reaction
+		- Waveband involved
+		- Dose required
+	- _Role_ - for:
+		- Detection of abnormal photosensitivity
+		- Individualised assessment for patients referred for phototherapy

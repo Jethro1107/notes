@@ -1,0 +1,313 @@
+---
+id: 7A0AC51A-ABAF-441A-A5BB-4A605472FC31
+title: Harrison Ch372 Systemic Sclerosis (Scleroderma) and Related Disorders
+---
+
+# Ch372 Systemic Sclerosis (Scleroderma) and Related Disorders
+
+## Definition and Classification
+
+- **Overview:**
+    - Orphan disease of unknown etiology, complex pathogenesis and variable clinical presentations
+    - Virtually every organ is affected, however two clinical entities are classified based on skin and visceral involvement, serological features, and natural Hx
+    - A chronic but relentlessly progressive course and is associated with significant disability and mortality
+- **Definition and terminology:**
+    - <u>Systemic sclerosis</u> (SSc) - an orphan autoimmune disease characterised by fibrosis of the skin, viscera and vasculature, invariably characterised by Raynaud's phenomenon and scleroderma, further classifed based on clinical and serological features, and natural Hx
+    - <u>Scleroderma</u> - historically refers to the disease entity, now refers to a clinical feature characterised by thickened and indurated skin
+    - <u>Diffuse cutaneous SSc</u> (dcSSc) - subset of SSc patients with extensive skin involvement, characterised by progressive skin disease, ILD, acute renal involvement and other visceral involvement
+    - <u>Limited cutaneous SSc</u> (lcSSc) - subset of SSc patients with skin involvement confined to the distal limbs (distal to elbow and knee) and face, sparing the trunk
+    - <u>CREST syndrome</u> - refers to a subset of lcSSc patients displaying a constellation of findings of 1) calcinosis cutis, 2) Raynaud's phenomenon, 3) esophageal dysmotility, 4) sclerodactyly, and telangieectasia
+    - <u>SSc sine scleroderma</u> - relatively benign disease subset characterised by presence of Raynaud's phenomenon, characteristic clinical and laboratory features of SSc in the absence of detectable skin thickening
+    - <u>Very early diagnosis of SSc</u> (VEDOSS) - early presentation of SSc with puffy fingers, Raynaud's phenomenon and SSc-autoantibodies
+- **Differentiating dcSSc and lcSSc based on natural Hx of cutaneous manifestations:**
+    - <u>dcSSc</u>:
+        - Extensive limb involvement ascending distally from fingers to proximal to elbow in UL and knee in LL
+        - Truncal involvement is characteristic
+        - Raynaud's phenomenon and skin changes may present simultaneously
+    - <u>lcSSc</u>:
+        - Skin involvement confined to fingers, distal limbs, and face, w/ truncal sparing
+        - Raynaud's phenomenon generally preceeds sclerodactyly and other disease manifestations
+- **DDx of scleroderma-like skin induration:** 
+![](../img/ddx_of_scleroderma_like_skin_indurations.png)
+- **Classification criteria for diagnosis of systemic sclerosis:** 
+![](../img/eular_classification_criteria_for_systemic_sclerosis.png)
+
+## Incidence and Prevalence
+
+- **Epidemiaology:**
+    - <u>Incidence</u> - 9-46 cases/1000000/y
+    - <u>Demographic</u>:
+        - Age - peak age of onset at 65-74y
+        - Sex - female preponderance (M:F = 4.6:1), may be explained by immune, endocrine, and environmental
+        - Race - black patients associated w/ dcSSc, ILD and premature mortality
+
+## Genetic Contribution to Disease Susceptibility
+
+## Environmental Factors and Occupational Exposures
+
+## Pathogenesis
+
+- **Pathogenesis of SSc** - variable combination of 3 pathological processes, 1) diffuse microangiopathy, 2) inflammation and autoimmunity, and 3) visceral and vascular necrosis: 
+![](../img/pathogenic_triad_of_systemic_sclerosis.png)
+    - **Microangiopathy** - viscious cycle of fibroproliferative vasculopathy of the capillaries and arterioles resulting in **tissue hypoxia**:
+        - <u>Endothelial-mesenchymal transition</u> (EndoMT) - endothelial trans-differentiation into myofibroblasts and accumulate in the vascular media, resulting in basement membrane thickening, perivascular adventitial fibrosis, and intimal/ medial hypertrophy
+        - <u>Vascular rarefaction due to impaired angiogenesis</u> - the striking absence of small blood vessels in late-stage disease, even in presence of other angiogenic factors
+    - **Inflammation and autoimmunity** - as evident by near universal presence of circulating auto-Ab w/ defined specificities:
+        - **Cellular immunity** - evidence of autoreactive T cells w/ oligoclonal Ag receptors within target organs and other associations:
+            - <u>Early oedematous stage</u> - mononuclear infiltrates sensing tissue damage via pattern recognition receptors, where characteristically plasmacytoid dendritic cells express pleiotropic chemokine **CXCL4**, inducing **profibrotic monocytic phenotype w/ EndoMT**
+        - **Humoral autoimmunity** - circulating ANA detected in all patients w/ SSc +/- specific autoAb w/ distinct patterns of immunofluorescence showing strong association with disease phenotypes
+    - **Fibrosis** - synchronous fibrosis affecting multiple organ as distinguishing feature of SSc:
+        - <u>Activation and proliferation of fibroblasts</u> - tissue-resident fibroblasts and myofibroblasts derived from EndoMT under influence of pro-fibrotic signals including TGF-beta and CXCL4 (and many more)
+        - <u>Adipocyte-mesenchymal transition</u> - observed in mouse models and may underlie clinical skin thinning
+        - <u>Acellular connective tissue deposition</u> - replacement of normal tissue architecture w/ rigid, avascular and accellar connective tissue as a consequence of microvascular damage and inflammation
+
+## Pathology
+
+## Clinical Features
+
+- **Multisystem organ involvement of systemic sclerosis:** 
+![](../img/multisystem_organ_involvement_in_ssc.png)
+- **Natural Hx of dcSSc:**
+    - **Early oedematous phase** (initial weeks and months) - soft tissue swelling, puffy fingers and pruritis are prominent:
+        - Interval between Raynaud's phenomenon and subsequent onset of other disease manifestations is typically brief (weeks to months)
+        - Cutaneous maniifestation characteristically begins in the fingers (**sclerodactyly**) and ascends along the distal limbs and face first, with subsequent involvement of the trunk
+    - **Late fibrotic phase** (ensuing weeks to months):
+        - Processive <u>skin induration</u> and <u>skin tightening</u>, with progressive stiffening of the joints occuring at this stage
+        - Cutaneous manifestations may complicate w/ dry skin (decline sweating capacity), alopecia, and proximal advancing of skin involvement
+        - Silent visceral involvement often occurs in dcSSc, with <u>irreversible lung and renal damage</u> occuring most rapidly in the <u>initial 4 years</u> (plateau and stabilisation of systemic process may occur if organ failure does not ensue within 4 years)
+- **Natural Hx of lcSSc:**
+    - **Cutaneous manifestations** (more indolent):
+        - Interval between Raynaud's phenomenon and other cutaneous findings (e.g. sclerodactyly) may lag behind for years
+        - Calcinosis cutis, sclerodactyly, ischaemic digital ulcers and telangiectasia can present long as years
+    - **Systemic manifestations:**
+        - PAH, and overlap with keratoconjunctivitis sicca, polyarthritis, cutaneous vasculitis and secondary biliary cirrhosis many years after disease onset
+        - Scleroderma and significant ILD are rarely present
+- **Differences in clinical manifestation and natural Hx of dcSSc and lcSSc:** ![](../img/differences_between_dcssc_lcssc.png) 
+![](../img/frequency_of_clinical_manifestation_in_lcssc_dcssc.png)
+- **Raynaud's phenomenon** (Secondary Raynaud's) - the most frequent extra-cutaneous complication of SSc, characterised by episodic vasoconstriction in finger and toes:
+    - <u>Site</u> - typically fingers and toes, rarely affects the tip of nose and earlobes
+    - <u>Onset</u> - often in episodes, w/ a known trigger, and rather frequent, prolonged and more painful in those a/w a CTD
+    - <u>Progression</u> - characteristic colour canges occurs as a result of vascular events:
+        - Pallor - due to vasoconstriction in AV anastamosis underlying vasoconstriction
+        - Cyanosis - variable duration, reflects underlying ischaemia (ocassionally results in ulcers)
+        - Hyperemia - due to reperfusion either spontaneously or with rewarming of the digit
+    - <u>Provacation</u>:
+        - Cold temperatures (relieved by wearing gloves)
+        - Emotional stress
+        - Vibration
+    - <u>Severity</u>:
+        - Most episodes are self-limited and fully reversible
+        - Secondary Raynaud's may complicate w/ **ischaemic digital ulcers** and loss of digits
+
+    
+    ![](../img/ischaemic_digit_ulcers_in_ssc.png)
+- **Differentiation between primary Raynaud's disease and secondary Raynaud's phenomenon:**
+    - <u>Features suggesting Raynaud's disease</u> - 1) absence of cause, 2) family of Raynaud's phenomenon, 3) absence of tissue necrosis or ulcers, and 4) -ve ANA, 5) evenly spaced parallel vascular loops on nailfold capillaroscopy
+    - <u>Features suggesting Raynaud's phenomenon</u> - 1) onset at old age, 2) more severe (frequent, prolonged, painful), 3) presence of tissue necrosis or ulcers, 5) irregular, distorted widened capillary loops with areas of vascular dropout
+- **Skin features of SSc** - bilateral symmetrical skin thickening as the hallmark of SSc, and charateristically <u>starts in the fingers</u>, and <u>ascends from distal to proximal</u>, with <u>facial or truncal involvement</u>:
+    - **Characteristic skin manifestations:**
+        - Initial oedematous phase resulting in swelling and indurations
+        - Skin becomes thin and atrophic and firmly bound to subcutaneous fat (tethering)
+    - **Sclerodactyly** - associated w/ puffy fingers (initial oedematous phase) with indurations, and subsequent skin thinning (late fibrotic stage), a/w <u>fixed flexion contracture of IP joints</u> 
+    ![](../img/sclerodactyly.png)
+    - **"Mauskopf" facial appearance** - taut, shiny skin on an expressionless facies:
+        - Reduced mobility of the eyelids, cheeks and mouth accounts for the expressionless face
+        - Thinning of the lips w/ accentuation of the central incisors
+        - Prominent perioral radial furrowing (rhytides)
+        - Microstomia (reduced oral aperture) interfers w/ oral hygiene, and may result in poor dental care
+    - **Digital ulcers** - complicated from Raynaud's phenomenon:
+        - Typically painful, heal slowly and may become secondary infected resulting in osteomyelitis
+        - Fixed digital "pits" result from healing ischaemic finger tip ulcerations
+        - Resorption of terminal phalanges (acro-osteolysis) due to loss of soft tissue from ischaemia
+    - **Telangiectasia** - dilated skin capillaries due to underlying vasculopathy, reminiscent of HHT, frequently on face, hands, lips, and oral mucosa, w/ <u>number of cutaneous telangiectasias correlating w/ severity of microvascular disease</u> (including PAH): 
+    ![](../img/cutaneous_telangiectasia.png)
+    - **Calcinosis cutis** - dystrophic calcification in skin and subcutaneous and soft tissue presence on normal CaPO4, typically occuring only in <u>Anti-centromere Ab +ve lcScc</u>:
+        - <u>Site</u> - calcium deposition at tissue damaged by inflammation, hypoxia or local trauma, commonly seen in:
+            - Finger pads (likely due to concomitent Raynaud's)
+            - Palms
+            - Extensor surfaces of the foremarms
+            - Olecranon
+            - Prepatellar bursae
+
+      
+      ![](../img/calcinosis_cutis.png)
+        - <u>Size</u> - variable from tiny punctate lesions to large conglomerate mass
+        - <u>Complications</u> - typically from large deposits:
+            - Nerve entrapment syndrome
+            - Ulceration +/- secodnary infections
+            - Cord complications (paraspinal sheet calcifications)
+- **Pulmonary features of SSc** - two frequent principal manifestations being ILD and PAH:
+    - **Interstitial lung disease** - up to 65% if based on HRCT findings, while 16-43% SSc patients develop clinically significant ILD:
+        - <u>Clinical features</u> - similar to other ILDs, and may remain asymptomatic until advanced:
+            - Progressive exertional dyspnoea and reduced exercise tolerance (or fatigue)
+            - Chronic dry cough
+            - Desaturation with exercise
+            - Fine inspiratory crackles in lung bases
+        - <u>Natural Hx</u> - most rapid progression early in disease course:
+            - Rapid progresison of ILD occurs within first 3-5y of disease onset (FVC decline up to 30% per year)
+            - New onset ILD or progression of pre-existing ILD rare in established SSc
+        - <u>Risk factors of SSc-ILD</u>:
+            - Demographic factors - male sex, African-American race
+            - Disease factor - diffuse skin involvement, severe gastroesophageal reflux
+            - Serological factors - Anti-topoisomerase I +ve (anti-centromere protective)
+            - Baseline lung functions - low FVC, low DLCO
+        - <u>Risk factors of progression of SSc-ILD</u>:
+            - Esophageal dilatation w/ chronic acid reflux
+            - Recurrent micro-aspiration
+        - <u>Pulmonary function testing</u> - not used for screening (N.B. role of HRCT), as relatively insensitive to early changes, while established SSc-ILD shows typical restrictive physiology:
+            - FVC \< 70% predicted +/- FEV1/FVC ratio \> 0.8
+            - Reduced TLC and RV
+            - Reduced DLCO (N.B. reduced DLCO out-of-proporiton to TLC should raise suspicion of PAH)
+        - <u>HRCT findings</u> - baseline HRCT is predictor of ILD progression and mortality:
+            - Bilateral lower lobe subpleural reticular linear opacities and ground-glass opacification (GGO) w/ apicobasal gradient
+            - Associated ocassionally w/ mediastinal lymphadenopathy, pulmonary nodules, and tractional bronchiectasis
+
+      
+      ![](../img/ild_ssc.png)
+        - <u>BAL</u> - demonstration of inflammatory cells, but to r/o other causes of respiratory Sx
+    - **Pulmonary arterial hypertension** (PAH) - occurs in 8-12% of patients w/ SSc as a late complication in both forms of SSc:
+        - <u>Clinical features of PAH</u> - variable but often a progressive course leading to RHF:
+            - Exertional dyspnoea
+            - RHF and evidence of systemic venous congestion
+            - Chest pain
+            - Near syncope
+        - <u>Signs</u>:
+            - Elevated JVP, dependent oedema
+            - Palpable parasternal heave
+            - Loud P2
+            - PR/ TR murmur
+        - <u>Risk factors of SSc-PAH</u>:
+            - Disease factor - older age at presentation, limited cutaneous disease, high number of telangiectasia
+            - Serological factors - anti-centromere, U3-RNP (fibrillarin), B23
+        - <u>Screening of PAH</u> - annual doppler echocardiography (based on resting PA systolic pressures and TR jet veolcites)
+        - <u>Dx of PAH</u> - cardiac cathetrisation for Dx (and exclsuion of other causes), assessment of severity, assess RV dysfunction, and provide prognostic parameters
+    - **Other less common pulmonary complications:**
+        - Aspiration pneumonitis associated with chronic gastroesophageal reflux
+        - Pulmonary haemorrhage due to endobronchial telangiectasia
+        - Obliterative bronchiolitis
+        - Pleural reactions
+        - Restrictive physiology due to chest wall fibrosis
+        - Drug-induced lung toxicity
+        - Bronchogenic carcinoma (slight increased risk)
+- **GI involvement** - variable GI tract involvement at any level, being the most common visceral manifestation of SSc seen in up to 90% of patients w/ lcSSc and dcSSc:
+    - **Promient GI manifestations of SSc:** 
+    ![](../img/gi_manifestations_of_ssc.png)
+    - **Risk factors for severe GI involvement** - male sex, certain autoAb
+    - **Esophageal dysmolity and GERD-like manifestations:**
+        - <u>Pathophysiology</u>:
+            - Reduced LES perssure
+            - Impaired esophageal clearance due to reduced motility
+        - <u>Clinical features</u> - GERD-like manifestations:
+            - GI Sx - heartburn, regurgitation, dysphagia
+            - Extra-GI Sx - hoarseness, chronic cough, hoarseness, recurrent microaspirations, exacerbation of ILDs
+        - <u>Ix</u>:
+            - Abnormal manometry is diagnostic
+            - Endscopy to r/o other causes of dysphagia (e.g. Candida, HSV, CMV), and other complications (e.g. Barrett's metaplasia +/- CA esophagus)
+    - **Gastric manifsetations:**
+        - <u>Gastroparesis</u> - manifests as early satiety, bloating sensation and aggravated reflux Sx
+        - <u>Gastric antral vascular ectasia</u> (GAVE) - subepithelial lesions reflecting wide-spread smal-vessel vasculopathy resulting in watermelon stomach, manifesting as repeated life-threatening GI bleeds or unexplained iron-deficiency anaemia
+    - **Lower GI tract involvement** - weight loss, chronic diarrhoea and malnutrition due to a combination of impaired motility, malabsorption and small bowel bacterial overgrowth:
+        - <u>Small bowel bacterial overgrowth</u> - due to impaired intestinal motility resulting in weight loss and malnutrition
+        - <u>Chronic intestinal pseudo-obstruction</u> - common cause of constipation in SSc patients
+        - <u>Acute mechanical IO</u> - classical quadrat presentation
+        - <u>Sigmoid volvulus</u> - colonic involvement of SSc resulting in LBO
+        - <u>Telangiectasia</u> - results in GI bleeding
+        - <u>Pneumatosis cystoides intestinalis</u> - air trapping in bowel rarely rupture and cause benign pneumoperitonieum
+    - **Primary biliary cirrhosis** - association w/ patients w/ lcScc
+- **Scleroderma renal crisis** (\< 15% of SSc) - presentation w/ accelerated HTN accompanied by acute kidney injury +/- progressive renal failure, almost always **\< 4y of disease onset:**
+    - <u>Pathophysiology</u>:
+        - Obliterative vasculopathy - particular involvement of renal arcuate and interlobular arteries resulting in reduction in renal blood flow
+        - Aggravated vasospasm - due to increased juxtaglomerular feedback, activation of RAAS, and further renal vaso-constriction culminating to accelerated HTN
+    - <u>Risk factors for scleroderma renal crisis</u>:
+        - Demographic - male sex, African-American race
+        - Disease - diffuse/ progressive skin involvement
+        - Serology - anti-RNA polymerase III (anti-centromere protects)
+    - <u>Clinical manifestations</u>:
+        - Dominant picture of:
+            - Accelerated HTN \> 150/90 mmHg (normotensive renal crisis exists and associated w/ poor prognostic factors)
+            - Oliguric AKI (often presenting w/ congestive HF and APO) over several days, but renal recovery if appropriately Mx
+            - TMA
+        - May be preceded by:
+            - Palpable tendon friction rubs
+            - Pericardial effusion
+            - New unexplained anaemia (MAHA) and thrombocytopenia
+    - <u>Poor prognostic factors</u> - increased risk of mortality or permanent HD:
+        - High Cr and oliguria
+        - Glomerular ischemic collapse on renal Bx
+    - <u>Screening</u> - at risk patients w/ early-stage dcScc advised to monitor BP daily
+    - <u>Association of steroids</u>:
+        - Increased risk of scleroderma renal crisis
+        - Should be taken only when absolutely required and at low-doses (\<10 mg/d)
+    - <u>Mortality</u> - poor survival prior to advent of ACEi (currently 30% 3y mortality)
+- **Cardiac involvement** - most commonly secondary to ILD, PAH or renal disease:
+    - <u>Pericardial involvement</u> - pericarditis, pericardial effusion, constrictive pericarditis, and rarely cardiac tamponade
+    - <u>Conduction system fibrosis</u> - typically heart block, and rarely other arrhythmias such as PVC
+    - <u>Myocarditis</u> - typically an acute or subacute course identified on SPECT
+- **Musculoskeletal complications:**
+    - <u>Polyarthralgia</u> - typically as initial presenting Sx w/ generalised arthralgia and morning stiffnes, involving the large an
+
+## Management of Systemic Sclerosis
+
+- **Principles of Mx:** 
+![](../img/key_principles_of_mx_of_ssc.png)
+    - <u>Precision medicine approach</u> - tailored to Sx burden and to each individual patient's unique needs
+    - <u>Detection of visceral involvement and screening and ILD</u> - subsequent guidance for selection of disease modifying therapy in particular for ILD and PAH: 
+    ![](../img/screening_risk_stratification_and_mx_for_ssc_associated_ild.png)
+
+## Course
+
+- **Natural Hx of SSc** - highly variable, and difficult to predict in early stages of disease:
+    - <u>Prodrome</u> - Non-specific arthralgia, fatigue, pruritis typically subsides
+    - <u>Progression of skin involvement</u>:
+        - Skin typically undergoes edematous phase early, and skin thickening reaches a plateau at 2-4y after disease onset
+        - Atrophy skin changes and regression occurs in late-stage disease (\> 6y), in order of reverse of initial involvement, with softening of trunk followed by proximal and finally distal extremities
+        - Sclerodactyly and fixed flexion contractures of PIP joints may persist
+        - Relapse or recurrence of skin thickening is uncommon
+    - <u>Progression of visceral involvement</u>:
+        - Silent life-threatening organ-involvement occurs in early oedematous phase, while new organ involvement is rare after skin involvement peaks
+        - Scleroderma renal crisis occurs within the initial 4y of disease
+        - ILD may progress even after skin involvement peaks
+
+## Prognosis
+
+- **Prognosis:**
+    - <u>Overall mortality</u> - 5-8x increased age- and gender-adjusted mortality rates compared to geneeral population (50% deaths related to SSc):
+        - dcSSc - 5y and 10y OS 70% and 55% respectively
+        - lcSSc - 5y and 10y Os 90% and 75% respectively
+    - <u>Poor prognostic markers</u>:
+        - Extensive skin disease with truncal disease
+        - Male gender
+        - African ancestry
+        - Older age at disease onset
+        - Palpable tendon friction rubs
+        - Evidence of significant or progressive visceral organ involvement
+        - Elevated ESR
+        - Anaemia
+        - Proteinuria
+        - Anti-topoisomerase 1 positivity
+        - FVC \< 55% prdicted
+        - Significant GI involvement (malabsorption or pseudo-obstruction)
+        - Clinical cardiac involvement
+        - Severe PAH
+    - <u>Major courses of death</u> - PAH, ILD, GI involvement, cardiac disease, renal crisis
+
+## Localised Scleroderma
+
+## Mixed Connective Tissue Disease
+
+- **Definition** - lcSSc co-existing with features of SLE, polymyositis, and RA usually w/ high titers of autoantibodies to U1-RNP
+- **Initial clinical presentation:**
+    - Raynaud's phenomenon associated with puffy fingers
+    - Florid myalgia and clinically demonstrable myositis
+- **Clinical features** - likely dependent on the predominant CTD involvement:
+    - <u>SLE</u> - photosensitivity, malar rash
+    - <u>Dermatomyositis</u> - gottron's papules, helicotropic rash
+    - <u>RA</u> - erosive polyarthritis
+- **Clinical associations:**
+    - Sjogren's syndrome
+    - Renal disease particular membranous nephropathy
+- **Prognosis:**
+    - Better responsiveness to glucocorticoids
+    - Overall better long-term prognosis of SSc
+
+## Eosinophilic Fasciitis (Diffuse Fasciitis with Eosinophilia)

@@ -1,0 +1,84 @@
+---
+id: F13917F1-9165-4BE6-A46E-644694F96FD3
+roam_parent: F8B309FA-0A80-485D-885E-192C56980A57
+title: Phencyclidine Use Disorders
+---
+
+# Phencyclidine Use Disorders
+
+- **The phencyclidines** (or phencyclidine-like substances) - initially developed as "dissociative anaesthetics" in 1950 but became street drugs in the 1960s:
+    - Phencyclidine (e.g. PCP, "angel dust")
+    - Ketamine
+    - Cyclohexamine
+    - Dizocipine
+- **Features of phencyclidine use** - effects tend to last a few hours:
+    - <u>Dissociative nature</u> - at low doses, results in feeling of separation from mind and body
+    - <u>Stupor or coma</u> - can result from high-doses of phencyclidine use
+    - <u>Hallucinogenic effects</u> - may occur during the episode of use, but may persist for weeks and precipitate a persistent psychotic episode resembling schizophrenia in vulenerable individuals (violent behavior occur during intoxication due to persecutory ideas)
+    - <u>Absence of withdrawal symptoms</u> - likely non-specific, and not clearly established in humans, and therefore criterion not included in the diagnosis of phencyclidine use disorder
+    - <u>Delayed elimination</u> - although effects last a few hours, total elimination rates exceeds 8 days or longer, which may be **detected in urine in the absence of Sx**
+    - <u>Other physiological features</u>:
+        - Analgesia
+        - Nystagmus
+        - Hypertension
+        - Risk of hypotension and shock
+- **Route of administration of phencyclidine:**
+    - Most commonly smoked or taken orally
+    - May also be snorted or injected
+- **Epidemiology** - not fully known:
+    - <u>Lifetime use</u> - 2.5% of the population in the US have reported to ever use phencyclidine
+    - <u>12 mo prevalence</u> - ~ 1%
+    - <u>Demographic</u> - prevalence increases w/ age (an old street drug)
+- **DSM-5 diagnostic criteria for Phencyclidine use disorder:** 
+![](../img/phencyclidine_use_disorder.png)
+- **Physical consequences of phencyclidine use disorder:**
+    - <u>Physical injuries</u> - arises from accidents, fights, falls or road-traffic accidents
+    - <u>Cognitive dysfunction</u> - chronic use of phencyclidine may lead to deficits w/ cognition, memory, speech that may last for months
+    - <u>Neurological toxicities</u>:
+        - Seizures
+        - Dystonias
+        - Dyskinesias
+        - Catalepsy
+    - <u>Cardiovascular toxicities</u> - HTN, hypotension/ shock, rarely cardiac arrest
+    - <u>Other medical consequences</u>:
+        - ICH (e.g. from accidents)
+        - Rhabdomyolysis (from abnormal positions)
+- **Differential diagnosis of phencyclidine use disorder:**
+    - <u>Other substance use disorder</u> - particularly if presenting w/ atypical features suggestive of other substance use, as it is a common additive to other substances (e.g. cannabis, cocaine)
+    - <u>Schizophrenia and other mental disorders</u> - effects of phencyclidine and related substances may resembel symptoms of other psychiatric disorders, requires presence of such Sx prior to intake of drugs:
+        - Psychosis - brief psychotic episode, or schizophrenia (esp resmeble residual Sx)
+        - Low mood - major depressive disorder
+        - Violent aggressive behaviors - conduct disorder, antisocial personality
+- **DSM-5 diagnostic criteria of phencyclidine intoxication:** 
+![](../img/dsm_5_phenylcyclidine_intoxication.png)
+- **Diagnostic features of phencyclidine intoxication** - marked changes occuring rapidly (\< 1h) but characteristically brief (few hours):
+    - **Psychological manifestations:**
+        - <u>Disorientation</u> - confusion in the absence of hallucinations
+        - <u>Psychotic features</u> - hallucinations or delusions usually of a persecutory nature
+        - <u>Catatonic-like syndrome</u> - possibly due to the disorientation/ florid psychotic features that render individual mute etc.
+    - **Problematic behavioural changes** - usually due to the influence of psychological manifestations:
+        - Belligerence and assaultiveness
+        - Impaired judgement, impulsivity, and unpredictability
+        - Psychomotor agitation
+    - **Biological manifestations** (2/7 \< 1h):
+        - <u>Cardiovascular manifestations</u> - HTN, tachycardia, palpitations
+        - <u>Neurological manifestations</u>:
+            - Vertical and horizontal nystagmus
+            - Ataxia
+            - Analgesia (numbness or diminished responsiveness to pain)
+            - Dysarthria
+            - Muscle rigidity
+            - Seizure or coma
+            - Hyperacusis
+        - <u>Thermoregulatory manifestations</u> - hypothermia, hyperthermia
+    - **Insight in abnormal perception** - usually presence of intact reality testings, noted perceptual experiences to be abnormal, absence of which may warrant an additional Dx of phencyclidine-induced psychotic disorder
+- **Ix:**
+    - <u>UTOX</u> - phencyclidine detectable in urine for up to 8d following use, useful for Dx but levels correlate only weakly w/ individual's clinical cpresentation
+    - <u>Other laboratories</u> - raised AST, CK
+- **Differential diagnoses of phencyclidine intoxication:**
+    - <u>Other substance intoxication</u> - other hallucinogens, amphetamines, other stimulants, and anticholinergics, distinguished by the **presence of nystagmus and toxicology results**
+    - <u>Other substance withdrawal</u> - alcohol withdrawal or benzodiazepine withdrawal
+    - <u>Other conditions</u>:
+        - Psychiatric conditions - schiophrenia, depression
+        - Metabolic conditions - hypoglycaemia, hyponatraemia, sepsis, neuroleptic malignant syndrome
+        - CNS disorders - tumours, seizures, vascular insults

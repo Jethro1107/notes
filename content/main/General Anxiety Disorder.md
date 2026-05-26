@@ -1,0 +1,151 @@
+---
+id: b87a0762-4f15-416a-8f8c-177a45b85b80
+title: General Anxiety Disorder
+---
+
+# General Anxiety Disorder
+
+- **Definition** - form of anxiety disorder where symptoms of anxiety are persistent, and are not restricted to, or markedly increased in particular set of circumstances (cf phobic anxiety disorders)
+- **Epidemiology:**
+    - <u>Prevalence</u> - 0.4% - 3.6% (12mo prevalence of around 4.4% in the UK and US)
+    - <u>Demographic</u>:
+        - Age - peak incidence in middle age (median age of onset 30y) and declines across the later years of life, and also variying methods of expression of anxiety across age
+        - Sex - female preponderance (F:M = 2:1)
+        - Social disadvantages - a/w lower household income, unemployment, divorce, and separation
+- **DSM-V diagnostic criteria of Generalized Anxiety Disorder:** 
+![](../img/dsm-v_generalized_anxiety_disorder_diagnostic_criteria.png)
+- **Clinical picture of GAD** - all symptoms of anxiety can occur in GAD but <u>it is the pattern that is diagnostic</u>:
+    - **Free-floating anxiety** (worries and anxiety) - more prolonged than in healthy people, often wide spread and not focused on a specific issue as they are in panic disorders, social phobias, or OCD, and are often very difficult to control, often out-of-proportion to the actual likelihood or impact of the anticipated event:
+        - **Nature of anxiety in GAD** - differences from non-pathological anxiety:
+            - <u>Free-floating</u> - the worries associated are usually pervasive, have longer duration, and frequently occurs without precipitants
+            - <u>Difficult to control</u> (Criterion B) - the worries are difficult to control and **difficult to put off when more pressing matters arise**, which may functionally manifests as psychosocial impairments, difficulty in concentration etc.
+            - <u>Range</u> - greater range of life circumstances about which the person worries, and the focus of worry may **shift from one concern to another**
+            - <u>Out-of-proportion</u> - the intensity, duration, and frequency of anxiety is usually out of proportion to the actual likelihood or impact of the anticipated event
+            - <u>Accompanied by physical symptoms</u> (Criteria C) - presence of physical symptoms accompanying anxiety (e.g. being keyed up) is often present w/ GAD and never present in everyday worries
+        - **Contents of worries** - dependent on age, and also life circumstances, but acharacteristically free-floating and shifting:
+            - <u>Adults</u> - worry about everyday routine life circumstance, such as job responsibilities, personal health and finances, well-being of family members, misfortunes to children, or otherwise minor matters
+            - <u>Children</u> - worries about competence and the quality of their performance (e.g. musical, sporting, schooling)
+    - **Psychological arousal** - may manifest as:
+        - Irritability
+        - Poor concentration
+        - Sensitivity of noise
+        - Subjective sensation of poor memory (due to poor concentration)
+    - **Autonomic overactivity** - due to increased sympathetic tone, which may be the presenting symptom:
+        - <u>Gastrointestinal symptoms</u> - dry mouth, abdominal discomfort and cramping, gas, frequent, loose stools
+        - <u>Chest symptoms</u> - subjective dyspnoea, palpitations, non-specific chest discomforts
+        - <u>Genitourinary symptoms</u> - frequent micturation, menstrual discomfort
+    - **Muscle tension** - results in various somatic complaints including:
+        - Restlessness, trembling, tremors, or inability to relax
+        - Headaches which is usually bilateral or frontal/ occipital
+        - Aching of the shoulder or back
+    - **Hyperventilation** - increased rate of breathing which may lead to:
+        - Dizziness
+        - Tingling in the extremities
+        - Subjectively felt as shortness of breath
+    - **Sleep disturbances** - often:
+        - Difficulty in initiating sleep due to persistent worrying thoughts
+        - Intermittent, unrefreshing sleeps which may be due to unpleasant dreams
+        - Early morning wakening is not a feature of GAD but suggests major depressive disorder instead
+- **Associated features of GAD:**
+    - <u>Features a/w muscle tension</u> - e.g. tremors, twitching, feely shaking, and muscle aches or soreness
+    - <u>Features of other somatic manifestations</u> - e.g. sweaeting, nausea or diarrhoea
+    - <u>Features of autonomic hyperaroual</u> - usually less prominent in GAD comared w/ other anxiety disrders:
+        - Dizziness
+        - Shortness of breath
+        - Accelerated heart rate
+    - <u>Medical comorbidities</u> - e.g. IBS, primary headache (esp. tension-type headache)
+- **Signs of GAD:**
+    - <u>Appearance</u> - face appears strained, frow is furrowed and posture is tense, skin pale and sweating is common
+    - <u>Behaviour</u> - restlessness and trembling, ocassionally on a verge of tearfulness which suggests an apprehensive state
+- **Differentiation between GAD and other anxiety-related disorders or other mental disorders** - based on the fear of worry:
+    - <u>Panic disorders</u> - worry mainly of having the next panic attack
+    - <u>Social anxiety disorder</u> - worry mainly about negative evaluation by from others
+    - <u>Agarophobia</u> - worry mainly of feeling trapped and unable to escape
+    - <u>Separation anxiety disorder</u> - fear of separation from attachment figures (presence of attachment figures in same situation will not provoke Sx)
+    - <u>Post-traumatic stress disorder</u> - worry primarily precipitated by reminders of the traumatic effects
+    - <u>Anorexia nervosa</u> - worry primairly about eating, diet and weights
+    - <u>Schizophrenia-spectrum disorder</u> - worry arising from delusional beliefs primarily persecutory beliefs
+- **Difference between GAD and normal anxious state** - completely arbitrary:
+    - Symptom should be present for most days and last for 6 mo
+    - Symptom severity dependent on the diagnostic criteria used, where excessive worrying is more emphaised in DSM-5, while physical symptoms are described in details in ICD-11
+    - Distress and functional impairment differentiates between GAD and normal anxiety in DSM-5
+- **Development and course:**
+    - **Premorbid condition** - most individuals w/ GAD report to have <u>felt anxious and nervous</u> throughout their lives, although the worry may be non-pathological and manageable in pre-morbid condition
+    - **Age of onset** - extremely broad range, median age of onset is 30y (typically later than other anxiety disorders):
+        - <u>Age-appropriateness of content of worries</u> - likely performance related in childhood, while related to well-being of family and personal health in older adults
+        - <u>Extent of distress by physical symptoms</u> - younger adults experience greater severity of symptoms, while older patients may attribute them to medical conditions
+        - <u>Psychiatric comorbidities and impairment</u> - more comorbidity and greater functional impairment in those w/ earlier diagnosis of GAD
+    - **Clinical course** - wax and wane course fluctuating between syndromal and subsyndromal forms of the disorder, although rates of full remission are very low
+- **Risk factors:**
+    - **Temperamental factors:**
+        - <u>Behavioural inhibition in infancy</u> - often a/w temperamental vigilence and excessive fear
+        - <u>Negative affectivity</u> - i.e. neuroticism
+        - <u>Harm avoidance</u> - anticipatory anxiety
+        - <u>Personality traits</u> - anxiety prone
+    - **Environmental factors** - no environmetal factors have been identified as specific to GAD (some attribute to childhood adversities and parental overprotection)
+    - **Genetic and physiological factors:**
+        - <u>Genetics</u> - one-third of risk is genetics, and may overlap with the risk of neuroticism and are shared with other anxiety and mood disorders particularly major depressive disorders
+- **Functional consequences of GAD** - excessive worrying results in physical Sx that is a/w functional impairment:
+    - Muscle tension and restlessness - awareness of such somatic symptoms takes away concentration for normal functioning
+    - Over fatigued - likely attributed to excessive worrying and sleep disturbances
+    - Difficult to concentrate - as worying thoughts dominate
+    - Sleep disturbances - as worrying thoughts are pervasive and difficult to control
+- **Comorbidities of anxiety symptoms in GAD:**
+    - <u>Depression</u> - often mixed presentation w/ depressed mood, where ICD-11 provides a separate category of mixed anxiety and depressive disorder for those presenting w/ significant Sx but do not meet the full criteria of either disorders
+    - <u>Other anxiety disorders and OCD</u> - often co-morbid in DSM-5 convention, although in ICD-10 convention, GAD is not diagnosed if a phobic anxiety disorder is met even if GAD criteria met
+- **Differential diagnosis of GAD:**
+    - **Depressive disorder** - anxiety is common in depressive disorders and GAD often presents w/ some depressive symptoms:
+        - Dx is decided based on 1) <u>severity of each Sx</u>, and 2) <u>temporal relationship of the two Sx</u>
+        - Anxiety Sx that is <u>worse in the morning</u>, and accompanied w/ depressive thinking is more suggestive of <u>depressive disorder</u>
+        - Consider atypical presentation of <u>agitated depression</u> by screening for biological, cognitive Sx of depression
+    - **Schizophrenia** - perplexed state in prodrome of schizophrenia may present as "anxiety":
+        - Asking for <u>contributory factors of the symptoms</u> for patients presenting w/ anxiety
+        - Unusual replies may suggest <u>unexpressed delusional ideas</u>
+    - **Dementia** - anxiety may produce a subjective sensation of poor memory due to poor concentration, but if memory is objectively impaired, consider a Dx of schizophrenia
+    - **Substance misuse** - bi-directional relationship between substance use and anxiety symptoms:
+        - Some people take drugs or alcohol to relieve anxiety
+        - Substance dependence and withdrawal may be interpreted as symptoms of anxiety, and may take anxiolytic drugs to control them
+        - Consider substance dependence if anxiety occurs in the morning, which is the time when alcohol and drug withdrawal symptoms tends to occur
+    - **Physical illness** - attributed to the somatic Sx (e.g. thyrotoxicosis, hypoglycaemia, phaeochromocytoma), and should be explored in all cases, esp in the absence of psychological causes
+    - **Personality traits and disorders** - usually cluster C
+- **Etiology** - appears to be caused by stressors acting on a personality that is predisposed to anxiety by a combination of genetic factors and environmental influences in childhood:
+    - **Stressful events** - known to trigger GAD and result in chronicity if the stressor persists:
+        - Life events characterised by loss a/w increased risk of GAD on top of depression
+        - Life events characterised by danger where full effects yet to realise a/w GAD
+    - **Genetic causes** - genes identified predisposes to wide range of anxiety and depressive disorders rather than GAD specifically
+    - **Early experiences** - accounts given by anxious patients of their experiences in childhood suggest <u>early adverse experience</u> is a cause of GAD, w/ support from objective studies and psychoanalytic theories:
+        - <u>Sociological studies</u> - individuals w/ accounts of parental indifferences and of abuse a/w increased rates of GAD, agarophobia, depressive disorder but not of simple phobia; and parental styles characterised by overprotection and lack of emotional warmth may also be a risk factor
+        - <u>Psychoanalytical theories</u> - intrapsychic conflict where the ego (weakened by developental failure) is overwhelmed by excitation from any of the following sources, but are left unmodified by defense mechanisms (cf phobias and obsessions):
+            - Excitation from the outside world (realistic anxiety)
+            - Instintual levels of the id (neurotic anxiety)
+            - The superego (moral anxiety)
+    - **Cognitive behaviour theories:**
+        - <u>Conditioning theories</u> - possibly conditioning of anxiety to previously neutral stimuli resulting in excessive activation of the autonomic nervous system
+        - <u>Cognitive theory</u> - certain coping and cognitive styles (e.g. looming cognitive style) may predispose individuals to development of GAD (Reardon and Nathan 2007)
+        - <u>Meta-cognitive belief</u> - process of worryng as a coping strategy to account for and eliminate all possible threats, but becomes pathological when one starts to "worry about worry" (Wells 2013)
+    - **Personality traits and disorders:**
+        - <u>Neurotism</u> - likely of a genetic substrate as demonstrated in twin studies
+        - <u>Personality disorders</u> - occuring in patients w/ anxious-avoidant personality disorders (Cluster C), but also other PDs
+    - **Neurobiological mechanisms:**
+- **Treatment:**
+    - **Non-pharmacological Tx:**
+        - <u>Self help and psychoeducation</u> - usually as initial stepped care approach as evidence limited and of moderate effects, but is superior to no Tx
+        - <u>Relaxation training</u> - practice of relaxation exercise regularly known to reduce anxiety Sx, but not practised regularly by most patients; applied relaxation as short-term therapy on application of learned relaxation techniques to anxiety-provoking situations
+        - <u>Cognitive behavioural therapy</u> - CBT as structured assessment of behaviour and cognitions thought to be effective in controlling worrying thoughts, but does not appear to be superior to other psychological interventions such as relaxation therapy and non-directive counselling
+    - **Pharmacological Tx** - medication is often prescribed too rapidly and for too long risking dependence, and take note that even pill-placebo Tx can be effective in the short term (Baldwin et al 2006:
+        - <u>Short-term treatment</u> - longer acting benzodiazepines (e.g. diazepam 5 mg bid to 10 mg tid), buspirone, or propanolol
+        - <u>Long-term treatment</u> - SSRIs, SNRIs (duloxetine, venlafaxine), and pregabalin
+- **Other aspects of Mx:**
+    - Patient education on the common nature, its symptomatology and impact, and Tx
+    - Consider psychiatric comorbidities such as depressive disorder, substance abuse, or a physical cause
+    - Evaluate psychosocial maintaining factors scuh as persistent social problems, relationshiup conflicts or serious physical illness
+    - Explain the evaluation and proposed Tx eespecially the origins of physical symptoms of anxiety
+    - Offer structured psychological treatment
+    - Consider use of medications
+    - Discuss plans with the patient, the general practitioner, and the community
+
+  
+  ![](../img/stepped_care_approach_to_gad.png)
+- **Prognosis** - generally poor (anxiety disorders that last for \> 6mo generally have poorer prognosis hence the cutoff in Dx criteria):
+    - <u>Remission</u> - low rates of remission over short and medium term
+    - <u>Course</u> - chronic and fluctuating illness in many clinically identified patients

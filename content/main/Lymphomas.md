@@ -1,0 +1,11 @@
+---
+id: 85cd9ac5-1127-4d56-8dba-1ad7996cc0a7
+title: Lymphomas
+---
+
+# Lymphomas
+
+- **Definition** - neoplasms arising from mature lymphoid tissues (majority of B cell origin), clinically classified into Hodgkin or non-Hodgkin lymphoma
+- **Classification of lymphomas:**
+    - <u>By cell of origin</u> - B cell, T cell, NK cell
+    - <u>By grade</u> (principally classification of NHL) - high grade vs low-grade

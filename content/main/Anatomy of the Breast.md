@@ -1,0 +1,11 @@
+---
+id: 38615028-0ed0-4b75-b679-bcfe09cb3485
+title: Anatomy of the Breast
+---
+
+# Anatomy of the Breast
+
+- **Breasts** - bilateral organs containing mammary glands and associated skin and connective tissue stroma lying between subdermal layer of adipose tissue and superficial pectorial fascia
+- **Structure of the breast parenchyma:**
+    - <u>Multiple secretory lobules</u> - modified apocrine glands
+    - <u>Suspensory ligaments of Coopers</u> - fibrous band providing structural support to the breast running from the chest wall to the dermis

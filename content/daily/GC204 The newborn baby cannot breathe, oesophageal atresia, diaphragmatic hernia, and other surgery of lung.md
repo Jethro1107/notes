@@ -1,0 +1,95 @@
+---
+id: a3970cc9-f5be-4353-b2c9-1922be76a1c2
+title: 2025-04-27
+---
+
+# GC204 The newborn baby cannot breathe, oesophageal atresia, diaphragmatic hernia, and other surgery of lung <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span> <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+## Respiratory distress in neonates
+
+- **Clinical presentation:**
+    - <u>Tachypnoea</u> - new born higher
+    - <u>Dyspnoea</u>
+    - <u>Stridor</u> - upper airway obstruction
+    - <u>Cyanosis and tachycardia</u>
+- **Etiology:**
+    - <u>Non-respiratory tract causes</u>:
+        - Cardiac - congenital heart diseases
+        - CNS - cerebral haemorrhage, oedema, congenital hydrocephalus, drugs causing apnoea
+        - GI disorders - OA/TOF, gastroesophageal reflux, vomiting and aspiration
+        - Systemic - metabolic acidosis (e.g. sepsis)
+    - <u>Respiratory tract causes</u>:
+        - Medical - meconium aspiration, transient tachypnoea, hyaline membrane disease. persistent fetal circulation, pneumothorax, pneumonia, etc.
+        - Surgical:
+            - Airway disorder - choanal atresia, Pierre-Robin syndrome, Laryngomalacia, Subglottc stenosis, tracheal malacia/ stenosis, lymphatic malformation, vascular ring
+            - Anolamies of lung and diaphragm:
+                - Congenital pulmonary airway malformation (CPAM)
+                - Congenital lobar emphysema
+                - Congenital diaphragmatic hernia
+                - Diaphragmatic splinting
+- **Initial Mx:**
+    - <u>Resuscitation</u>:
+        - Airway - suctioning, tongue forward, intubation
+        - Breathing - oxygenation
+        - Circulation - IV cannula, IV fluid
+    - <u>Monitor</u> - cardiac monitor, oximetry
+    - <u>Dx</u> - review AN Hx, specific Tx
+- Congenital pulmonary airway malformation (CPAM) - spectrum of disorder involving focal non-functioning lungs:
+    - Epidemiology - 1:5000 births
+    - Antenatal diagnosis available
+    - Clinical presentation:
+        - Rupture - pneumothorax
+        - Recurrent pneumonia
+        - Malignancy
+    - Mx - lobectomy (or segmental wedge resection) as definitive treatment
+- Congeital diaphragmatic hernia (CDH):
+    - Epidemiology - 1:4000 live births, 1:2000 births
+    - Defect - left sided (80-90%) posterolateral defect (Bochdalek)
+    - Pathophysiology:
+        - Diaphragmatic defect - herniation of mobile abdominal structures into thorax
+        - Effects of herniation:
+            - Direct compression of pulmonary parenchyma affecting development and causing pulmonary hypoplasia (ipsilateral and contralateral)
+            - Effects on pulmonary vasculature - pulmonary HTN (causing persistent fetal circulation, hypoxia)
+    - Pathology:
+        - Contents - usually intestine:
+            - Stomach, intestine, spleen, liver- for left defect
+            - liver, intestine - for right defect
+        - Associated anomalies (e.g. 20-40%):
+            - Cardiac
+            - Intestines
+            - Syndromal features?
+    - X ray:
+        - Mediastinal shift
+        - bowel gas in thorax
+        - Paucity (lack of intestine) in abdomen
+    - Clinical presentation:
+        - AN U/S - heart displaced, intra-thoracic intestine
+        - Respiratory distress - early onset respiratory failure w/ cyanosis
+        - Signs:
+            - Scaphoid abdomen - devoid of bowel
+            - Apparent dextrocardia
+            - Chest - reduced air entry, abnormal bowel sound in affected chest
+    - Mx (see slides:)
+        - Resuscitate:
+            - Breathing - endotracheal intubation, no bagging with mass (air entry into GI tract in thoracic cavity causing further compression), O2 to avoid hypoxia, gentle ventilation/ ECMO
+            - Circulation - fluid, inotropes
+            - Orogastric tube - decompression
+            - Vasodilators - NO, CCBs, sildenafil for pulmonary HTN
+        - Surgical repair after stabilisation
+- Oesophageal atresia (OA), Tracheo-oesophageal fistula (TOF):
+    - 5 anatomical variations (n=5): 
+    ![](../img/anatomical_variation_of_esophageal_atresia.png)
+    - Epidemiology - 1:4000 birth
+        - Associated abnormality (50%) - VATER, CHARGE
+    - Clinical features - correlate anatomically, varies by anatomical variation
+    - Prognostic classification - based on birthrate and presence of congenital heart disease (see slides)
+    - Dx:
+        - Arrest of orogastric tube
+        - XRay - tube in blind pouch (differentiate TOF and pure OF based on presence of gastric bubble)
+        - +/- Contrast study, CT with saggital reconstruction, bronchoscopy
+    - Mx:
+        - Resuscitation
+        - Replogle tube - suction of saliva to prevent aspiration (oropharyngeal tube)
+        - IV fluid, ABx, electrolyte
+        - Transfer to specialised centre
+        - Surgery - ligation of fistula, and anastamosis (primary, delayed primary or substitution)

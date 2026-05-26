@@ -1,0 +1,109 @@
+---
+id: 517a6d21-f50f-4cdf-acfe-3d83a387ac68
+title: Primary Hyperaldosteronism
+---
+
+# Primary Hyperaldosteronism
+
+- **Definition** - disorder characterised by autonomous secretion of aldosterone by adrenal glands, typically manifesting as hypokalaemic hypertension
+- **Epidemiology** - prevalence varies according to screening tests employed but estimated 10% in those w/ HTN
+- **Etiology of excessive minerocorticoid stimulation** - requires differentiation between primary and secondary hyperaldosteronism:
+    - **Primary hyperaldosteronism** (low renin, high aldosterone) - intrinsic abnormality of the adrenal cortex (e.g. adenoma, bilateral adrenal hyperplasia) resulting in **autonomous secretion of Ald** and subsequent suppression of RAAS:
+        - <u>Aldosterone-producing adenoma</u> (APA; Conn's syndrome) - minority of patient w/ primary hyperaldosteronism, where secretion is ACTH dependent
+        - <u>Idiopathic bilateral hyperplasia</u> - majority of patients w/ primary hyperaldosteronism, where secretion is AngII dependent
+        - <u>Glucocorticoid-suppresible hyperaldosteronism</u> - rare AD condition caised by ectopic production of Ald in adrenal fasciculata/ reticularis in response to ACTH
+    - **Secondary hyperaldosteronism** (high renin, high aldosterone) - **enhanced activity of RAAS** due to 1) hypovolaemia, 2) hypotension, or 3) reduced renal perfusion:
+        - <u>Arterial underfilling/ reduced renal perfusion</u> - diuretic therapy, heart failure, cirrhosis, nephrotic syndrome, renal artery stenosis
+        - <u>Renin-secreting tumour</u> - rare tumour of renal origin
+    - **Non-aldosterone dependent activation of minerocorticoid pathway** (low renin, low aldosteronism) - activation of MR receptors in a non-aldosterone-dependent fashion:
+        - <u>Congenitial</u>:
+            - Liddle syndrome
+            - Syndrome of apparent minerocorticoid excess (11-beta HSD2 deficiency)
+            - Rare forms of CAH
+        - <u>Neoplastic and paraneoplastic</u> - Ectopic ACTH syndrome, 11-deoxycorticosterone secreting adrenal tumour
+        - <u>Drug-induced</u> - liquorice misuse (11-beta HSD2 inhibitor)
+
+  
+  ![](../img/causes_of_mr_excess.png)
+- **Comparison between bilateral adrenal hyperplasia and aldosterone-producing adenoma:**
+    - <u>APA</u> - unilateral, ACTH-dependent Ald secretion, and clinically presents w/ more severe electrolyte abnormalities
+    - <u>BAH</u> - bilateral, Ang-II dependent Ald secretion, and clinically indolent
+
+  
+  ![](../img/comparison_between_apa_and_hyperplasia.png)
+- **Clinical features of primary hyperaldosteronism:**
+    - **Asymptomatic** - BP elevated, but accelerated-phase HTN is rare, msot presenting for a <u>screening for secondary HTN</u> for:
+        - 1\. Hypokalaemia (r/o thiazide-induced hypokalaemia)
+        - 2\. Poor BP control w/ conventional therapy
+        - 3\. Presentation at young age
+        - 4\. Family Hx of early-onset HTN
+    - **Features of electrolyte disturbances:**
+        - <u>Na retention</u> (normal-high normal Na) - manifests as **mild oedema**
+        - <u>Renal K loss</u> (hypoK) - manifests as muscle weakness, cardiac arrhythmias, or **nephrogenic diabetes insipidus** (hyperNa) in the long run
+        - <u>Metabolic alkalosis</u> - ocassionally manifests as perioral and digital parasthesia, tetany and carpopedal spasm due to functional hypoCa
+- **Signs of primary hyperaldosteronism:**
+    - BP elevated
+    - Oedema
+    - Acquired proximal myopathy
+    - Signs of hypoCa (Chovstek's sign)
+- **Approach to primary hyperaldosteronism** - precautions prior to screening:
+    - Work up hypoK and confirm renal K loss (urine K \> 30 mmol/L) - r/o other causes of renal K loss such ad thiazides, RTA (should present w/ NAGMA)
+    - Oral K supplementation and reduce Na intake (protection against hypoK)
+    - Withold antihypertensives (esp. ACEi, BB and thiazides) for 2 weeks
+- **Ix and Dx evaluation:**
+    - **RFT** - Na, K, HCO3:
+        - <u>Na</u> - normal-to-high-normal Na (maybe hyperNa in nephrogenic DI) in primary hyperaldosteronism (cf characteristically low in secondary hyperaldosteronism due to ADH secretion)
+        - <u>K and HCO3</u> - picture of hypokalaemic alkalosis
+    - **Plasma renin activity (PRA) and aldosterone levels** - Aldosterone-renin ratio (ARR) as the screening test of choice for primary hyperaldosteronism:
+        - <u>Precautions</u> - see above
+        - <u>Interpretation</u>:
+            - High ARR (low renin, high aldosteronism) - suggestive of primary hyperAld requiring further testing
+    - **Salt-loading test** - diagnostic for primary hyperAld by <u>failed suppression of Ald secretion</u> despite volume overload status:
+        - <u>Procedures</u>:
+            - IV NS infusion at sitting/ recumbunant position at 500 ml/h for 4h
+            - Monitor BP/P to avoid volume overload
+            - Measure pre- and post-salt loading ARR
+        - <u>Interpretation</u> - +ve result if **failed suppression of Ald**
+    - **Ix for differentiation between bilateral adrenal hyperplasia and APA:**
+        - **Postural test** - demonstrate responsiveness of adrenal lesion to ACTH and AngII:
+            - <u>Procedure</u>:
+                - Early morning (0800) - remain supine after 8h of recumbance overnight (ACTH high due to diurnal variation, and AngII low)
+                - Noon (1200) - sitting up causing postural hypotension and activation of RAAS (ACTH low, and AngII high)
+            - <u>Interpretation</u>:
+                - Bilateral adrenal hyperplasia - rise of aldosterone (\> 90%) due to postural stimulation n RAAS
+                - Aldosterone-producing adenoma - fall of aldosterone (70-90%) due to falling ACTH stimulation
+        - **Captopril challenge test** - demonstrate responsiveness of Ald levels due to changing AngII levels:
+            - <u>Procedure</u>:
+                - PO captopril taken
+                - Blood drawn at 0, 60, and 120 min
+            - <u>Interpretation</u>:
+                - Bilateral adrenal hyperplasia - sufficient suppression of Ald levels (\> 30%)
+                - Aldosterone-producing adenoma - failed suppression of Ald levels (blunted response to ACTH)
+        - **Imaging and localisation** - CT/ MRI adrenals:
+            - <u>Interpretation</u> - able to pick up adenomas
+            - <u>Limitations</u>:
+                - False +ve - detection of non-functional adenomas is common, and imaging does not reflect the function of the adenoma and must hence be interpreted w/ biochemical tests
+                - False -ve - unable to detect small adenomas \< 0.5 cm
+        - **Adrenal venous sampling** - indicated if dynamic tests and imaging inconclusive, but contemplating surgery due to biochemical evidence:
+            - <u>Rationale</u> - some centres perform prior to surgery even in presence of unilateral adenoma to avoid inadvertent removal of incidental non-functioning adenoma contralateral to the inappropriate cause of aldosterone excess
+            - <u>Procedure</u>:
+                - Catheterisation of IVC, and both adrenal veins
+                - Ensure correct placement of catheters in adrenal veins by **cortisol gradient** of \> 2-3 in baseline conditions between the vena cava and each adrenal gland
+                - Measurement of aldosterone levels in both adrenal veins
+            - <u>Interpretation</u>:
+                - Bilateral adrenal hyperplasia - bilateral production of aldosterone
+                - Aldosterone producing adenoma - unilateral production of aldosterone while **contralateral side suppressed** (Ald/ cortisol ratio at least two-fold higher on one side compared to the other)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Medical Tx</u> - lifelong emdical Tx for bilateral adrenal hyperplasia, and Tx for few weeks to correct biochemical abnormalities for those w/ APA contemplating surgery
+        - <u>Surgical Tx</u> - laparoscopic unilateral adreneectomy for patients w/ APA
+    - **Medical Tx** - suppression of Ald:
+        - <u>Regimen</u>:
+            - Spironolactone - 12.5-50 mg od uptitrated to maximum of 400 mg/d
+            - Eplerenone - 25 mg bid uptitrated to 200 mg/d
+            - Amiloride - 5-10 mg bid
+        - <u>Clinical efficacy</u> - effective in correction of both hypoK and HTN
+    - **Surgical Tx** - for patients w/ APA:
+        - <u>Clinical efficacy</u>:
+            - Cures biochemical abnormality
+            - HTN persists in 70% of case due to irreversible microcirculatory damage

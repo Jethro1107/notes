@@ -1,0 +1,18 @@
+---
+id: 61349e47-9ee1-4515-afda-03a6cfa8bb76
+title: Dystonia
+---
+
+# Dystonia
+
+- **Definition** - focal increase in tone affecting muscle in the links and trunk, resulting in abnormal posturing
+- **DDx of dystonia:**
+    - <u>Secondary damage to the brain</u> - e.g. traumatic brain injury, old stroke
+    - <u>Neurological conditions</u> - PD, Wilson's disease
+    - <u>Primary dystonia</u> - genetically implicated where often generalised in children, and focal in adult onset:
+        - Torticollis (wry neck)
+        - Blepharospasm (repetitive blinking)
+        - Task-specific spasms (e.g. writer's cramp, muscician's dystonia)
+- **Mx:**
+    - Botulinum toxin injections
+    - DBS

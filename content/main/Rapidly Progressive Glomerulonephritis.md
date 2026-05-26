@@ -1,0 +1,53 @@
+---
+id: 4d202729-1f53-48d6-87aa-56d138d29fe6
+title: Rapidly Progressive Glomerulonephritis
+---
+
+# Rapidly Progressive Glomerulonephritis
+
+- **Definition and terminology:**
+    - <u>Clinical definition</u> - a clinical syndrome that manifested by features of glomerular disease in urinalysis (and thus assumed to be a form of glomerulonephritis), characterised by progressive loss of kidney function over a comparatively short period of time
+    - <u>Pathological definition</u> - morphological pattern of glomerular injury characterise by extensive (\> 50%) crescent formation (extracapillary proliferation in the Bowman's capsule)
+- **Pathogenesis of crescent formation** - a non-specific response to severe injury to the glomerular capillary wall:
+    - <u>Rent formation</u> - focal gaps or discontinuities of the glomerular capillary wall, which is induced by severe damage to the glomerular capilary walls usually by 1) immune complex disease, 2) anti-GBM disease, and 3) small-vessel vasculitis w/ renal involvement
+    - <u>Influx of inflammatory products</u> - influx of plasma products (e.g. cytokines), inflammatory cells (primarily T cells and macrophages)
+    - <u>Initial stage of active inflammation</u> - initial phase is often a/w hypercellularity w/ host of inflammatory cells, which represent a stage which is potentially reversible w/ immunosuppression
+    - <u>Late stage of fibrous crescent formation</u> - mediated by fibrotic factors, e.g. FGF, TGF-beta, which represent irreversible injury
+- **Types of crescentic GN** - differentiated by <u>pathophysiology</u>, and <u>IMF staining pattern</u>:
+    - **Anti-GBM disease** (i.e. Goodpasture disease) - autoAb against the glomerular basement membrane that is detected in plasma levels
+    - **Immune-complex mediated injury** - florid, granular deposits of Ig (IgG, IgM, IgA) and complements (C3, C1q) on IMF
+    - **Pauci-immune necrotizing and crescentic GN** - where there are few or no immune deposits on IMF and EM (i.e. glomerulonephritis mimic)
+
+  
+  ![](../img/ddx_of_glomerulonephritis.png)
+- **Clinical presentation of RPGN:**
+    - <u>Severe nephritic syndrome</u> - acute onset of gross haematuria, proteinuria, hypertension, fluid retention, and decreased renal output
+    - <u>Presentation as AKI</u> - insiduous onset of AKI w/ no urine output
+    - <u>Presentation w/ non-specific kidney function impairments</u> - more insiduous onset of fatigue, and subsequently oedema leading to clinical presentation, where as gross haematuria and proteinuria may be absent due to limited eGFR
+    - <u>Systemic complaints</u> - more common w/ pauci-immune crescentic GN revealing a systemic disorders, e.g. upper/ lower airway disease, MSK, CNS involvement
+- **Clinical suspicion of crescentic GN:**
+    - Sudden reduction of renal function in a short period of time (even in absence of features of glomerular disease such as haematuria and proteinuria)
+    - Clinical features compatible w/ nephritic syndrome
+- **Clinical assessment** - certain clinical findings suggests specific etiologies of GN:
+    - <u>Association w/ upper respiratory tract infection</u>:
+        - Latent period of 7-10d between infection and gross haematuria is suggestive of PSGN
+        - Gross haematuria concurrent with ongoing infection (i.e. synpharyngitic GN) is typical of IgA nephropathy
+    - <u>Skin lesions</u> - palpable purpura or petechial rash is suggestive of underlying small vessel vasculitis (e.g. ANCA-associated vasculitis, Henoch-Schonlein purpura, cryoglobulinaemia)
+    - <u>Pulmonary involvement</u> - haemoptysis or pulmonary haemorrhage is suggestive of Anti-GBM disease
+    - <u>Rheumatological involvement</u> (e.g. arthritis) - suggestive of autoimmune disease and lupus
+- **Ix** - evaulation of underlying cause:
+    - **Serology for autoimmune disease and vasculitis** - Anti-GBM, ANA, anti-dsDNA, C3/4, ANCA, cryoglobulin:
+        - <u>Anti-GBM</u> - for Goodpasture disease
+        - <u>ANA, anti-dsDNA</u> - for lupus nephritis
+        - <u>C3/4</u>:
+            - Reduced levels suggestive of immune-complex mediated disease (e.g. lupus nephritis, PSGN, infection-related GN)
+            - Normal levels reflect pauci-immune GN (e.g. ANCA-associated vasculitis), and also IgA nephropathy
+    - **Serology for infections** - ASLO, HIV, Anti-HCV, Anti-HBV\* IgA nephropathy
+    - **Ix for monoclonal gammopathies** - SPE
+    - **Renal Bx** - usually pursued unless C/I
+- **Mx:**
+    - **Principles of Mx:**
+        - **Aims of Mx** - prevent progression to ESRD (invariable progresses within days to weeks if w/o Tx)
+        - **Approach to Mx:**
+            - <u>Empirical immunosuppression</u> - pulse methylprednisolone followed by daily PO prednisolone, and immunosuppressants (cyclophosphamide) (+/- plasmapharesis if suspicion of anti-GBM disease)
+            - <u>Specific therapy</u> - given once the Dx is established

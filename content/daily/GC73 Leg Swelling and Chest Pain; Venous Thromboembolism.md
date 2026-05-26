@@ -1,0 +1,24 @@
+---
+id: d2d3fbf3-a239-45b6-80bc-e1d2135305f5
+title: 2025-10-08
+---
+
+# GC73 Leg Swelling and Chest Pain; Venous Thromboembolism <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+- **Inherited thrombophilia:**
+    - Factor V Leiden (rare in Asians)
+    - Antithrombin III (ATIII) deficiency
+    - Protein C deficiency
+    - Protein S deficiency
+- **Acquired thrombophilia:**
+    - Malignancy
+    - Myeloproliferative neoplasm
+    - Anti-phospholipid syndrome
+    - Nephrotic syndrome
+    - Estrogen
+    - Sepsis
+- **Salient points of Hx** - inquire the follow in acute SOB and pleuritic chest pains (w/ or w/o unilatereal leg swelling):
+    - <u>Screening for provocation</u>:
+        - Immobility, recent operation or trauma
+        - Use of COC pills, or pregnancy
+    - <u>Constitutional Sx</u> (weight loss or fatigue) - thrombosis may be first manifestation of underlying malignancy (migratory thrombophlebitis should raise concern of CA lung, pancreas, prostate, and stomach)

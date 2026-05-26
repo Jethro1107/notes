@@ -1,0 +1,152 @@
+---
+id: d9dbd968-9c32-4265-82ed-20b0fa00ad16
+title: Acute Meningitis
+---
+
+# Acute Meningitis
+
+- **Definition** - inflammation of the meninges by infetive or non-infectiva cause:
+- **Etiological agent of infective meningitis:**
+    - <u>Bacterial meningitis</u> - age-dependent (see below)
+    - <u>Viral meningitis</u> (most common):
+        - Enteroviruses (echo, Coxackie, polio)
+        - Herpes virus - herpes simplex virus (type 1 or 2), varicella zoster virus
+        - EBV
+        - Mumps
+        - HIV
+        - Influenza
+    - <u>Fungal meningitis</u>:
+        - Cryptococcus neoformans
+        - Candida
+        - Histoplasma
+- **Etiological agent of bacterial meningitis** - dependent on age of onset:
+    - <u>Neonate</u> - G- bacilli (Proteus spp, E. coli), GBS
+    - <u>Pre-school children</u> - H. influenzae, N. meiningitidis, S. pneumoniae
+    - <u>Older children and adults</u> - N. meningitidis, S. pneumoniae, S. aureus, H. influenzae, Listeria
+
+  ![](../img/etiology_of_bacterial_meningitis.png) 
+  ![](../img/causes_of_meningitis.png)
+- **Etiology of non-infective meningitis** (sterile meningitis):
+    - <u>Malignancy</u> - leukaemia, lymphoma, breast carcinoma, bronchial carcinoma
+    - <u>Inflammatory disease</u> - SLE, Behcet's disease, Sarcoidosis
+- **Pathophysiology of bacterial meningitis:**
+    - **Haematogenous spread of inciting bacteria to subarachnoid space** - inciting bacteria (e.g. Neisseria meningitidis, Streptococcus pneumoniae, and Haemophilus influenzae) colonizes the nasopharynx and subsequently spreads to subarachnoid space haematogenously by means of virulence factors
+    - **Infection stimulates an immune response** - triggers inflammation, causing the congestion of the pia-arachnoid membrane and infiltration by inflammmatory cells reorganising into **pus** and **adhesions**
+    - **Physiological sequelae of inflammation** - affects local circulation and neurovascular supply:
+        - <u>Damage to cranial nerves</u> - typically at the base of the brain (hearing loss is a common complication)
+        - <u>Obstruction of CSF flow</u> - hydrocephalus and raised ICP, reduced GC
+        - <u>Obliterative endarteritis of leptomeningeal arteries</u> - secondary cerebral infarction
+- **Clinical features of meningitis** - triad of pyrexia, headache, and meningism:
+    - **Pyrexia** - high fever due to underlying infection
+    - **Headache** - caused by meningeal irritation, and potentially due to raised ICP
+    - **Meningism** - constellation of S/S (e.g. headache, photophobia, neckstiffness) a/w meningeal irritation, that, in presence of fever is suggestive of infective meningitis (can occur in SAH)
+    - **Additional features:**
+        - <u>Altered consciousness and reduced GC</u> - patient may become drowsy, agitated, and subsequently comatosed as a result of **raised ICP** or encephalitis
+        - <u>Focal neurological S/S</u>
+        - <u>Seizures</u> - from acute brain injury
+    - **Clinical features of meningococcal septicaemia** - 90% of meningococcal meningitis will have \>= 2 of the following, including fever, neck stiffness, altered consciousness, rash:
+        - <u>Meningitis</u> - triad of fever, headache, and meningism as above
+        - <u>Rash</u> - classically non-blanchable morbilliform, petechial or purpuric rash
+        - <u>Sepsis</u> - may present w/ septic shock, pre-renal AKI, DIC, peripheral gangrene, arthritis or pericarditis
+
+    ![](../img/complications_of_meningococcal_septicaemia.png) 
+    ![](../img/meningococcal_infection_natural_hx.png)
+    - **Clinical features of pneumococcal and haemophilus infections** - a/w concurrent respiratory tract infections:
+        - <u>Pneumonia</u> - particularly in older patients, alcoholics and those w/ splenectomy performed
+        - <u>Otitis media</u> - associated w/ both pneumococcal and haemophilus infections
+- **Signs of meningitis:**
+    - <u>Assessment of vitals and primary assessment</u>:
+        - Septic picture - high fever, tachypnoea, tachycardia, hypotension, warm/ cool peripheries, bounding pulse
+        - Disability - may be unable to protect airway (see below)
+        - Exposure - assessment for presence of **rash**
+    - <u>Assessment of consciousness</u> - AVPU score or GCS revealing reduced consciousness suggests that underlying pathology is causing **raised intracranial pressure**
+    - <u>Signs of meningeal irritation</u>:
+        - **Kernig's sign** - extension at the knee with hip flexed causes spasms in the hamstring muscles
+        - **Brudzinski's sign** - passive flexion of neck causes flexion at both hips and knees
+
+    
+    ![](../img/kernig_and_brudzinski.png)
+    - <u>Neurological examination</u> - focal neurological deficits are rare in viral meningitis but may be present in complicated bacterial meningitis
+- **Ix:**
+    - **Routine bloods** - CBC, LRFT, Clotting profile, inflammatory markers, ABG, BG, lactate:
+        - <u>CBC w/ differentials</u> - leukocytosis or leukopenia
+        - <u>LRFT</u> - baseline organ dysfunction (Albumin marker of severity for certain infectioons, e.g. pneumonia)
+        - <u>Clotting profile</u> - identify DIC (C/I for LP)
+        - <u>Inflammatory markers</u> (CRP, ESR) - non-specifically elevated
+        - <u>Lactate</u> - marker of sepsis and shock
+        - <u>BG</u> - for pairing w/ CSF analysis
+        - +/- <u>ABG</u> - hypoxaemia or hypercapnia
+    - **Urinalysis** - dipstick for glucose, protein, blood, WBC, and bacteria
+    - **Neuroimaging** - indicated for all patients requiring LP:
+        - **Non-contrast CT-brain** - to r/o mass lesions (e.g. neoplastic lesions, brain abscess) before lumbar puncture (esp. if focal neurological deficits or impaired consciousness)
+
+    
+    ![](../img/algorithm_for_ct_in_meningitis.png)
+    - **Microbiology** - blood culture, urine culture (must be obtained prior to initiation of ABx)
+    - **Lumbar puncture** (diagnostic) - mandatory unless there are C/I:
+        - **C/I:**
+            - <u>Risk of local haemorrhage</u> - thrombocytopenia, DIC, anti-coagulated patients (may be performed if low-dose heparin or aspirin)
+            - <u>Risk of coning</u> - clinical suspicion of SOL, clinical evidence of raised ICP (e.g. papilloedema), decreased GC, focal neurological signs, seizures
+        - **Caution** - perform neuroimaging to r/o mass lesions
+        - **Diagnostic findings:**
+            - <u>Viral meningitis</u> - cloudy appearance; lymphocytic pleocytosis; normal glucose and protein (protein may be raised); -ve G stain and cultures (r/o use of ABx)
+            - <u>Bacterial meningitis</u> - cloudy appearance; neutrophilic pleocytosis; glucose reduced and protein elevated; +ve microbiology
+
+      
+      ![](../img/interpretation_of_lp.png)
+    - **Other Ix as indicated** - identify other primary infections:
+        - **Imaging:**
+            - <u>CXR</u> - pneumonia
+            - <u>Contrast CT/ MRI</u> - abscess, meningeal enhancement, tuberculomas (rim enhancement)
+            - <u>Echo</u> - suspecting IE
+        - **Microbiology:**
+            - <u>NPA</u> - for respiratory viruses
+            - <u>Sputum</u> - C/ST +/- AFB
+            - <u>Bilster fluids</u> - viral studies (e.g. PCR)
+        - **EEG** - generalised slow waves (encephalopathic changes) or periodic lateralising epileptiform discharges (e.g. HSV encephalitis)
+- **Dx** - requires LP
+- **Mx:**
+    - **Principles of Mx** - dependent on suspected etiology:
+        - **General measures:**
+            - Symptomatic Tx
+            - ICP control
+            - Resuscitation if in shock
+        - **Specific Tx:**
+            - <u>Viral meningitis</u> - benign and self-limiting course (few days) and no-specific Tx (symptomatic relief in quiet environment)
+            - <u>Bacterial meningitis</u> - urgent initiation of broad-spectrum ABx at meningitic dose as highly fatal (80% mortality rate if untreated), +/- adjunctive dexamethasone:
+        - **Contact tracing** - chemoprophylaxis following meningococal exposure
+    - **ABx therapy** - <u>IV empirical broad-spectrum ABx at meningitic dose</u> based on most likely organism:
+        - <u>Rationale</u> - coverage for most likely organisms
+        - <u>Empirical Regimen</u> (houseman handbook) - duration dependent on underlying organism but maintain IV for CNS penetration:
+            - Ceftriaxone 2g q12h (or cefotaxime 1.5-2g IV q4h) + vancomycin 500-1000 mg q6-12h target trough concentraiton of 15-20 mcg/ml
+            - Add on ampicillin 2g IV q4h if at risk of listeriosis
+
+      
+      ![](../img/empirical_abx_for_pyogenic_meningitis.png)
+        - <u>Subsequent regimen</u> - tailored based on ABx resistance testing: 
+        ![](../img/chemotherapy_for_known_etiology_of_meningitis.png)
+    - **Adjunctive dexamethasone:**
+        - <u>Dosing</u> - 0.15 mg/kg q8h for 2-4d
+        - <u>Evidence</u> - effective in developed countries w/ low penicillin resistance:
+            - Reduced morbidity (hearing loss and neurologial sequelae)
+            - No effects on overall mortality
+
+      
+      ![](../img/evidence_for_dexamethasone_for_acute_bacterial_meningitis.png)
+    - **Chemoprophylaxis following meingococcal exposure:**
+        - <u>Indications</u>: 
+        ![](../img/indications_for_abx_prophylaxis_for_meningococcal_exposure.png)
+            - Household contacts in past 7d
+            - Contact via oral secretions in past 7d
+            - Aircraft contacts for person seated next to patient for \> 8h
+            - Child care or nursery-school contacts in past 7d
+        - <u>Regimen</u> - 2d oral rifampicin or single dose ciprofloxacin
+- **Prognosis** - 80% mortality rate if untreated bacterial meningitis:
+    - <u>Poor prognostic factors</u>:
+        - Meningococcal disease
+        - Presentation w/ septicaemia rather than meningitis
+        - Hypotensive shock
+        - Rapidly developing rash
+        - Haemorrhagic diathesis
+        - Multisystem failure
+        - Age \> 60y

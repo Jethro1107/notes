@@ -1,0 +1,123 @@
+---
+id: e1650e98-a9a3-47a8-bec5-8e94d54d2924
+title: Ectopic Pregnancy
+---
+
+# Ectopic Pregnancy
+
+- **Definition** - implantation of a pregnancy outsied the normal uterine cavity
+- **Terminology:**
+    - <u>Pregnancy of unknown location</u> (PUL) - a working diagnosis characterised by +ve urine pregnancy test but TVUSS reveals empty uterus and absence of adnexal mass, unsure of whether pregnancy is in utero or ectopic
+    - <u>Heterotropic pregnancy</u> - simultaneous development of two pregnancies - one within and one outside the uterine cavity
+- **Epidemiology:**
+    - <u>Incidence</u> - estimated to be 10-20/1000 pregnancies/y in the States
+    - <u>Demographic</u> - increasing incidence w/ aage, and in those w/ risk factors
+- **Risk factors of ectopic pregnancy:**
+    - **Previous ectopic pregnancy** - 3-8 fold higher risk compared to other pregnant controls, a/w the underlying tubal disorder and the Tx modality for the previous episode
+    - **Pelvic inflammatory disease and other genital infections** - 3 fold risk, a/w non-specific salpingitis, chlamydia and gonorrhoea infections (esp. if recurrent)
+    - **Infertility and related factors:**
+        - <u>Conception on infertility</u> - 2-3 fold risk, likely a/w underlying tubal dysfunction affecting fertility
+        - <u>IVF</u> - controversial, but assumed to be a/w increased risk of ectopic and heterotopic pregnancy
+        - <u>Tubal reconstructive surgery</u> - no longer standard of care since advent of IVF, but reported to be a/w increased risk of ectopic pregnancy
+    - **Contraceptive methods:**
+        - <u>Conception with IUCD</u> - reported lower incidence of ectopic pregnancy than non-contracepting patients due to lower incidence of pregnancy, but upon <u>contraceptive failure</u>, the risk of ectopic pregnancy is high (1-2% of npregnancies)
+        - <u>COC pills</u> - a/w lower incidence of ectopic pregnancy, but increased risk of ectopic pregnancy upon contraceptive failure
+    - **Other factors:**
+        - <u>Smoking</u> - smoking in periconceptional period a/w 2-3 fold increased risk of ectopic pregnancy (may be dose dependent)
+        - <u>Increasing age</u> - increased risk of ectopic pregnancies n older patients
+        - <u>Endometriosis</u> - association unclear
+
+  
+  ![](~/Documents/notes/img/up_to_date_ectopic_pregnancy_risk_factor.png)
+- **Anatomical sites of ectopic pregnancy:**
+    - <u>Tubal pregnancies</u> (96%) - ampullary (70%), isthmic (12%), and fimbrial (11.1%):
+        - Due to pre-existing pathologies within fallopian tube due to prior tubal damage (e.g. chronic salpingitis, salpingitis isthmica nodosa)
+        - Due to serum factors (e.g. lectin, integrin, prostaglandin, cytokines) that promote premature implantation to the tube
+    - <u>Ovarian pregnancies</u> (3.2%)
+    - <u>Interstitial pregnancies</u> (2.4%)
+    - <u>Abdominal pregnancies</u> (1.3%)
+- **Clinical features of ectopic pregnancy** - most common presentation of ectopic pregnancy is <u>first trimester</u> vaginal bleeding and/or abdominal pain:
+    - **Vaginal bleeding** - volume and pattern of bleeding variable with no bleeding pattern pathognomic for ectopic pregnancy, and may be <u>intermittent</u>, or a <u>single continuous episode</u>
+    - **Abdominal pain** - caused by distension of the fallopian tube (no pain pattern pathognomic for ectopic pregnancy, where timing, character and severity for pregnancy):
+        - <u>Site</u> - pelvic pain, but may be diffused or lateralised to one side
+        - <u>Onset</u> - insiduous onset reflecting distending pain (abrupt onset of severe pain indicative of ruptured EP)
+        - <u>Quality</u>:
+            - Dull, poorly localised pain in normal EP due to obstruction of a viscus
+            - Sharp, diffuse pain in ruptured EP a/w peritoneum
+        - <u>Radiation</u>:
+            - Ascending diffuse abdominal pain if a/w haemoperitoneum (ruptured EP)
+            - Referred shoulder pain due to diaphragmatic irritation
+        - <u>Severity</u> - extremely variable
+    - **Presentation as ruptured EP:**
+        - <u>Haemoperitoneum</u> - abrupt onset of diffuse abdominal pain
+        - <u>S/S of hypovolaemic shock</u> - e.g. diaphoresis, dizziness, reduced GC, signs of hypovolaemia
+- **Signs of ectopic pregnancy:**
+    - <u>Primary assessment</u> (ABC) - assess haemodynamic comprimise in ectopic pregnancy
+    - <u>Abdomino-pelvic examination</u> - detection of adnexal mass
+- **Clinical suspicion of ectopic pregnancy** - raise suspicion in women of reproductive age presenting w/ vaginal bleeding or abdominal pain if:
+    - Known pregnant but no sonographic evidence of intrauterine pregnancy
+    - Known pregnant but conceived by IVF
+    - Pregnancy status uncertain, but amenorrhoea \> 4 weeks preceding current vaginal bleeding
+    - Pregnancy presenting w/ acute abdomen and haemodynamic instability
+- **DDx of ectopic pregnancy** - etiology of vaginal bleeding (+/- abdominal pain) in setting of +ve pregnancy test:
+    - Physiological - implantation bleeding
+    - Miscarriage
+    - Other gynaecological disorders - e.g. cervical, vaginal or uterine pathology
+    - Subchrionic haematoma
+    - Gestatonal trophoblastic disease (hCG concentration unusually high for gestational age)
+- **Ix** - dependent on clinical status of patient (e.g. haemodynamic instability):
+    - **Urine pregnancy test** - confirm patient is pregnant
+    - **Transvaginal pelvic USG** - Ix of choice even prior a pelvic examination as it has the potential to rule in or rule out ectopic pregnancy:
+        - <u>Findings suggestive of intrauterine pregnancy</u> (IUP) - gestational sac with yolk sac and fetal pole within uterus (consider **heterotopic pregnancy** or **interstitial pregnancy**)
+        - <u>Diagnostic findings of ectopic pregnancy</u> (EP):
+            - Gestational sac with yolk sac +/- embryo outside uterus
+        - <u>Features suggestive of, but non-diagnostic of EP</u>:
+            - Complex inhomogenous extra-ovarian adnexal mass
+            - Tubal ring - extraovarian adnexal mass containing empty gestational sac
+        - <u>Features suggestive of ruptured EP</u> - free fluid with debris in pelvic pouch of Douglas or abdomen
+        - <u>Non-diagnostic USG</u> - may be because gestation is too early to be visualised (consider evaluation as pregnancy of unknown location)
+    - **Serum human chorionic gonadotrophin** (serum hCG) - confirm pregnancy and determine Tx modality
+    - **Rh status** - requires anti-D prophylaxis for Rh-negative women
+    - **Routine bloods** - CBC, LRFT, T&S:
+        - <u>CBC</u> - assess severity of anaemia
+        - <u>LRFT</u> - baseline for methotrexate therapy (detection of chronic liver disease)
+        - <u>T&S</u> - preparation for transfusion
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Dependence on haemodynamic stability and clinical status</u>:
+            - Evidence of haemoperitoneum or haemodynamically unstable - requires urgent operation
+            - Clinically stable - further stratify based on change in serum HCG levels, and sonographic features
+        - <u>Dependence on sonographic features and serum hCG levels</u>:
+            - Significant pain, large EH (\> 35mm), presence of FH, HCG \> 5000 IU/L - surgical Mx
+            - Minimal pain, small EH, absence of FH - medical Mx
+            - Pain free, small EH, HCG \< 1500 IU/L - expectant Mx
+
+    
+    ![](~/Documents/notes/img/selection_of_therapy_for_ectopic_pregnancy.png)
+    - **Expectant Mx** - serial measurements of Sx and serum hCG until levels are undetectable
+    - **Medical Mx** - IM methotrexate therapy:
+        - <u>Indications</u> - should be offered to all clinically stable women w/o contraindications to MTX
+        - <u>MOA</u> - folic acid antagonist:
+            - **Inhibition of DNA synthesis** - primarily in actively proliferating cells including trophoblastic cells
+        - <u>Dosing and administration</u>:
+            - Single dose IM 50 mg/m2 BSA with maximum dose of 100 mg (BSA = sq root(\[cm x kg\] / 3600))
+        - <u>C/I</u>:
+            - Heterotrophic pregnancy w/ viable IUP
+            - Breastbreading
+            - Abnormal baseline haematological, renal or renal laboratory values
+            - Immunodeficiency
+            - Active infection
+            - Active pulmonary disease
+            - Active peptic ulcer disease
+        - <u>S/E</u> - impact on cells with rapid turnover:
+            - Stomatitis
+            - Conjunctivitis
+            - Gastrointestinal upset (2/3 patients suffer from non-specific abdominal pain)
+            - Photosensitive skin reactions
+        - <u>Follow-up</u> - repeat serum hCG at days 4, 7, and 11, and weekly thereafter until undetectable:
+            - **Day 1-4** - ocassionally observe rise in hCG (not concerned)
+            - **Day 4-7** - expected \> 15% fall, otherwise second dose given
+            - **Day 7-14** - expected \> 15% fall, otherwise additional dose given
+    - **Surgical Tx:**
+        - <u>Salpingectomy</u> (Tx of choice when contralateral tube viable) - removal of the Fallopian tube and the EP within
+        - <u>Salpingostomy</u> (Tx of choice if contralateral tube absent or visibly damaged) - opening over Fallopian tube and extraction of EP (higher risk of subsequent EP)

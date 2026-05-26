@@ -1,0 +1,33 @@
+---
+id: 480c691b-3aca-4f02-8f7b-cee28eded229
+title: Stress Incontinence
+---
+
+# Stress Incontinence
+
+- **Definition** - involuntary loss of urine during increase in intra-abdominal pressure, often attributed to sphincteric weakness
+- **Etiology** - complicates childbirth in F, and post-prostatectomy in M:
+    - <u>Extrinsic sphincter pathology</u> - urethral hypermobility due to lack of pelvic floor support (complicating births)
+    - <u>Intrinsic sphincter pathology</u> - intrinsic sphincter deficiency (ISD) as a result of nerve damage or ischaemic damage
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Conservative Mx</u> - lifestyle modification, usage of incontinence pads, and pelvic floor exercises
+        - <u>Medications</u> - estrogen therapy or duloxetine
+        - <u>Surgical Tx</u> - occlusive or supportive Tx
+    - **Conservative Mx:**
+        - **Lifestyle modifications:**
+            - <u>Fluid management</u> - avoid caffeinated drinks and alcohol
+            - <u>Smoking cessation</u> - weak evidence
+            - <u>Weight reduction</u> - cf PRIDE study
+        - **Incontinence pads** - adsorbant soaks up urine
+    - **Surgical Mx:**
+        - **Mid-urethral sling** (supportive) - gold standard for surgical Tx of female SUI:
+            - <u>Efficacy</u> - 90% response rate w/ minimal surgical complications
+            - <u>Indications</u> - presence of **urethral hypermobility** and **urodynamic SUI** (absence of UI or OAB), but may be extended to:
+                - Complex SUI - minimal hypermobility, mixed urinary incontinence, lower LPP
+                - Obese and elderly patients
+                - Performed in conjunction in surgery for prolapse
+            - <u>C/I</u>:
+                - Anatomical deficits - urethrovaginal fistula, urethral diverticulum, intra-operative urethral injury
+                - Untreated urothelial malignancies
+        - **Artificial urinary sphincter** (occlusive)

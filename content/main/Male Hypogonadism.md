@@ -1,0 +1,39 @@
+---
+id: fc3df197-fa47-4fb7-8e48-7f7620308206
+title: Male Hypogonadism
+---
+
+# Male Hypogonadism
+
+- **Definition** - constellation of S/S that reflect a low circulating testosterone level
+- **Clinical features of male hypogonadism:**
+    - Loss of libido
+    - Lethargy
+    - Muscle weakness
+    - Decreased frequency of shaving
+    - Gynaecomastia
+    - Infertility
+    - Delayed puberty
+    - Osteoporosis
+    - Anaemia of chronic disease
+- **DDx of male hypogonadism:** 
+![](../img/ddx_of_delayed_puberty_and_hypogonadism.png)
+- **Ix:**
+    - **Hormone profile** - testosterone, random LH, FSH:
+        - <u>Testosterone</u> - low levels confirm hypogonadism biochemically
+        - <u>Spot FSH and LH</u> - differentiate between hypo- and hypergonadotrophic hypogonadism
+    - **Assessment of pituitary function and pituitary MRI** - if hypogonadotrophic hypogonadism
+    - **Karyotyping** - to identify Klinefelter's syndrome
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Dx and Tx of underlying cause</u> - esp. for hypogonadotrophic hypogonadism
+        - <u>Testosterone replacement</u> - indications are clear for younger men w/ significant hypogonadism, but role is debatable if hypogonadism is mild and a/w obesity, aging in the absence of hypothalamic/ pituitary disease
+    - **Testosterone therapy:**
+        - <u>Indications</u>:
+            - Younger men w/ significant hypogonadism for Sx relief and prevention of osteoporosis
+            - Role in older or obese men w/ mild hypogonadism is unknown but therapeutic trial is acceptable if Sx present
+        - <u>RoA and dosing</u> - dosing titrated against Sx: 
+        ![](../img/androgen_replacement_therapy.png)
+        - <u>S/E</u>:
+            - Aggravation of prostate carcinoma (screening PSA before commencement of androgen replacement therapy with annual monitoring)
+            - Polycythaemia

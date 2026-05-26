@@ -1,0 +1,147 @@
+---
+id: 1b16e2a0-092e-49aa-b1bc-399ee8a20591
+title: Bailey Ch70 Intestinal Obstruction
+---
+
+# Classification
+
+- **Etiological classification of intestinal obstruction**:
+    - **Dynamic** - peristalsis working against mechanical obstruction
+        - Intraluminal - Faecal impaction, foreign body, Bezoars, Gallstone
+        - Intramural - strictures, malignancies, intussusception, volvolus
+        - Extramural - Hernia, bands/ adhesions
+    - **Adynamic** - absent or inadequate peristalsis in the absence of mechanical obstruction (paralytic ileus or pseudoobstruction)
+- **Anatomical classifications of IO** - influences the clinical presentation:
+    - **Small bowel obstruction** (SBO) - high vs low:
+        - High SBO - early vomitng causing rapid dehydration, with little distension (clinically and radiologically)
+        - Low SBO - severe pain and central distension as early features, vomiting is delayed
+    - **Large bowel obstruction** (LBO) - Distension is pronounced but late
+
+# Pathophysiology of dynamic IO
+
+- Proximal distension and distal collapse - irrespective by etiology or acuteness of onset:
+    - Distension of proximal bowel - typically exhibits increased peristalsis to overcome obstruction, but continue to dilates and becomes paralysed if the obstruction cannot be relieved:
+        - Gas - due to significant overgrowth of aerobic and anaerobic organisms, resulting in production of N2 and H2S
+        - Fluids - as a result of accumulation of digestive juices, increased sequestration into bowel lumen
+    - Distal collapse - due to exhibition of normal peristalsis and absorption until it becomes empty
+- Hypersecretion of bowel juice and sequestration of fluids into peritoneal cavity - attributes to dehydration and electrolyte disturbances
+- Bacterial overgrowth - attributes to rapid proximal distension by considerable gas production
+- Compromise in vascular supply - raised intra-luminal pressure in excess of arterial pressure (esp. in closed-loop obstruction or strangulating obstruction), leading to necrosis and perforation
+
+# Clinical features of IO
+
+- **Quartet of clinical features of IO:**
+    - **Abdominal pain** - typically initial symptom irrespective of location:
+        - Site - periumbilical if SB, lower abdomen if LB
+        - Onset - sudden to maximal intensity
+        - Character - colicky, each colic co-incides with peristaltic activity, but becomes a constant diffuse pain once abdominal distension occurs
+        - Severity - severe, progressive pain is suggestive of strangulation, especially if continuous
+    - **Abdominal distension** - degree of abdominal distension dependent on site of obstruction, greater the more distal the lesion(w/ visable peristalsis)
+        - Onset - late feature for LBO, but a key feature in low SBO
+    - **N/V**
+        - Onset - later feature for more distal obstructions (early prominent feature of high SBO)
+        - Nature of vomitus - initially digested food, but becomes faeculent material (presence of enteric bacterial overgrowth)
+    - **Constipation**
+        - Absolute constipation (obstipation) - neither faeces nor flatus is passed, a cardinal feature of complete IO
+        - Relative constipation - only flatus is passed
+- **Other manifestations:**
+    - **Dehydration** - more common and severe in SBO because of retracted vomiting and fluid sequestration (High urea and haematocrit, clinically dry)
+    - **Hypokalaemia** - not always present from simple mechanical obstruction (HyperK may be a feature of strangulation)
+    - **Pyrexia** - indicates onset of ischaemia, perforation, or inflammation/ abscess a/w the obstructing disease
+- **Clinical manifestation of strangulation** - identification of strangulating IO is purely clinical:
+    - **Shock** - shock resistant to fluid resuscitation is suggestive of underlying ischaemia
+    - **Abdominal tenderness** (w/ peritoneal signs) - any degree of abdominal tenderness requires an frequent reassessment and suspicion for strangulating IO (generalised tenderness and rigidity requires early laparotomy)
+    - **Constant pain** - pain is never completely absent in strangulation
+
+# Etiology of IO
+
+## SBO
+
+## Obstruction by adhesions and bands
+
+## Adhesions
+
+- **Epidemiology** - most common cause of IO (lifetime risk 2% w/o vs 4% w/ abdominal surgery)
+- **Pathophysiology** - typically cause low SBO and **never LBO**:
+    - Rapidly developing adhesions (within hours post-op, rendering difficult to distinguishing with paralytic ileus
+    - Intraoperative risk factors - surgical technique, inadequate washing of peritoneal cavity (clot removal), gauze contact, covering anastamosis and raw peritoneal surfaces
+
+## Bolus obstruction
+
+- **Gallstone ileus** - secondary to eroision of large gallstone into duodenum, and impaction typically near the vitelline tract
+    - **Radiological features** (Rigler's triad) - SBO, pneumobilia, atypical mineral shadowing
+- **Food bolus** - typically occur after partial or total <u>gastrectomy</u>
+- **Bezoars** - masses of undigested substances
+    - Trychobezoars - undigested hair ball a/w an underlying psychiatric abnormality
+    - Phytobyzoars - undigested food mas from high fibre intake, hypochlorohydria, prior gastric surgery etc.
+- **Stercolith**
+- **Worms**
+
+## Internal hernia
+
+## Intussusception
+
+- **Definition** - a proximal segment of the gut invaginates in the immediately distal adjacent segment
+- **Epidemiology:**
+    - Age - most common in children (most are idiopathic), adults w/ secondary intestinal pathologies (e.g. Meckel's diverticulum)
+- **Pathology:**
+    - Three parts - intersusceptum (entering tube), returning part, and intersuscipiens (sheath)
+    - Apex advances distally, neck is at the junction between the intersusceptum and the intersussception
+    - Types of intususception:
+        - Ileoileal (5%)
+        - Ileocolic (77%)
+        - Ileoileocolic (12%)
+        - Colocolic (2%)
+        - Multiple (1%)
+        - Retrograde (0.2%)
+        - Others (2.8%)
+    - Strangulation - strangulation of mesenteric blood supply can cause ischaemia of intestinal segment
+- **Clinical features of intussusception** - typically seen in infants:
+    - Episodic screaming and drawing up of legs in a previously well mall infant
+    - Classical triad of - colicky abdominal pain, redcurrant jelly stool (pathognomonic), vomiting (eventually billous)
+
+## Obstruction by enteric strictures
+
+- **Etiology** - benign (chronic ileitis, such as TB and Crohn's) vs malignant (rare)
+
+## LBO
+
+### Obstructive CA colon - classically w/ Lt colon malignancies
+
+### Volvulus
+
+- **Definition** - axial rotation/ twisting of the gut around the mesentery, occurs in SB, caecum and sigmoid
+- **Etiology:**
+    - Primary - congenital malrotation of the gut (volvolus neonatorium), abnormal mesenteric attachments or congenital bands
+    - Secondary - rotation around an acquired adhesion or stoma
+- **Pathophysiology:**
+    - Factors affecting ischaemia:
+        - Closed loop obstruction - resulting in bacterial overgrowth, fermentation and increased intraluminal pressure
+        - Venous thrombosis - obstructed mesenteric veins due to volvolus results in thrombosis
+        - Arterial occlusion - only occurs in \> 360 degrees of torsion
+
+### Diverticular stricture
+
+### Pseudo-obstructive
+
+# Workup for IO
+
+# Imaging
+
+- Abdominal X Ray - classically requires plain XR
+
+# Management of acute IO
+
+- **Principles of management** - surgical intervention delayed until resuscitation complete (except strangulation or close-looped obstruction evident):
+    1.  Suck - NG tube insertion for GI draiange
+    2.  Drip - Fluid and electrolyte replacement
+    3.  Surgical relief of obstruction
+- **Supportive Mx:**
+    - NG decompression - passage of non-vented (Ryle) or vented (Salem) tube (free drainage q4h aspiration typically) to drain secretions and prevent subsequent aspiration during anaesthesia
+    - Fluid and electrolyte replacement (typically water and Na loss) - Ringer's lactate \> NS
+    - ABx - non-mandatory but combats bacterial overgrowth
+- **Surgical Mx** - early vs conservative Mx:
+    - Rationale for conservative Tx - ischaemia can develop when patient is waiting for surgery (the sun should not both rise and set)
+    - Indications of surgical intervetion - 1) Clinical evidence of strangulation or perforation, 2) Closed loop obstruction (e.g. external hernia), 3) Obstruction in a 'virgin' abdomen
+    - Indications for conservative Mx (up to 72h):
+        - Partial adhesive IO

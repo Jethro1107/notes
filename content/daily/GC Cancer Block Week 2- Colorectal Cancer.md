@@ -1,0 +1,238 @@
+---
+id: 0f062410-ee9f-466a-8042-e2cbd6e6fca3
+title: 2025-08-04
+---
+
+# GC Cancer Block Week 2: Colorectal Cancer <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+## Radiology imaging in colorectal cancer
+
+- **Double-contrast barium enema:**
+    - <u>Principles</u> - probe in rectum, infuse colon w/ barium contrast, and subsequently air inflation to provide double contrast
+    - <u>Indications</u> - historical interest
+    - <u>Diagnostic findings</u>:
+        - Apple core appearance
+- **CT abdomen** - detection of mass and staging:
+    - Demonstrate nodal involvement or metastases (esp in liver)
+    - Appears as soft-tissue masses which may narrow bowel lumen and can ulcerate when they become large (small masses may be mistakened as collapsed bowel loops)
+- **Role of imaging:**
+    - Diagnosis - superceded by colonoscopy, which provides tissue Bx for histological Dx
+    - Staging - determine adenopathy, mets
+    - Treatment planning - surgery, chemoradiation
+    - Surveillance - FU and assessment of Tx response
+- **PET-CT** - provision of anatomical and metabolic information by superimposing location of abnormal metabolic activity against anatomic imaging
+    - serves all roles
+    - Staging - detect occult metastasis
+    - Plan Tx
+    - Surveillance - Tx responsiveness and detect surveillance
+- **MRI** - role in rectal cancer:
+    - Locoregional staging to better evaluate for T and N stage as better subtle soft-tissue differentiation
+- **CT colonography** - used as a non-invasive alternative to colonoscopy for screening
+
+## Colorectal Cancer Pathology
+
+- **Functional anatomy and physiology of intestinal crypts** (Crypts of Lieburkuhn):
+    - **Cell types in intestinal crypts:**
+        - <u>Basel cells</u> - stem cells at base where renewal, proliferation, and differentiation is tightly regulated
+        - <u>Enterocytes</u> - absorptive cells that consist of brush border of microvilli
+        - <u>Goblet cells</u> - mucus-secreting cells
+        - <u>Enteroendocrine cells</u> - found in base of crypts with endocrine functions regulating GI motlity and secretion
+        - <u>Pannetth cells</u> - found in base of cryts w/ innate immune functions through secretion of defensins
+    - **Regulation of stem cell maintenence** - stem cell renewal, progenitor cell proliferation and differentiation are tightly regulated by certain molecular pathways:
+        - **Stem cell renewal** - regulated by <u>Wnt pathway</u> (regulated by APC):
+            - When Wnt pathway is inactive, APC protein keeps downstream signalling inactive by degredation of beta-catenin, <u>suppressing cell proliferation</u>
+            - When Wnt pathway is active, APC protein is inactivated, enabling accumulation of beta-catenin, thust <u>stimulating Wnt-gene responsive genes and stem cell proliferation</u>
+
+      
+      ![](~/Documents/notes/img/wnt_pathway_iasm.png)
+        - **Proliferative progenitors** - regulated by <u>EGFR pathway</u> (through downstream KRAS and BRAF pathways):
+            - Progenitor cells proliferate in response to <u>presence of epithelial growth factor</u> (EGF), a growth hormone that <u>binds to epithelial growth factor receptor</u> (EGFR)
+            - The EGFR signal is mediated by downstream proteins such as <u>KRAS</u>, and <u>BRAF</u>
+
+      
+      ![](~/Documents/notes/img/egfr_signalling_pathway.png)
+        - **Differentiation** - regulated by <u>transforming-growth factor beta</u> (TGF-beta) and <u>bone morphogenetic protein</u> (BMP)
+
+    
+    ![](~/Documents/notes/img/regulation_of_growth_in_intestinal_crypts.png)
+- **Three major molecular pathaways of colorectal carcinogenesis** - beyond conventional adenoma-carcinoma sequence, where <u>low MSI</u> and <u>high MSI</u> CRC entail different molecular pathogenesis:
+    - **Low MSI CRC** - follows conventional <u>adenoma-carcinoma sequence</u>, with adenoma formation (**crypt progenitor phenotype**) due to inactivation of APC gene, and <u>slow accumulation of additional mutations</u> (KRAS, SMAD4, p53) for carcinogenesis (<u>10-15y</u>):
+        - <u>Sporadic CRC</u> (80% of sporadic CRC) - two-hit inactivation APC gene to initiate adenoma formation
+        - <u>Familial adenomatous polyposis</u> - inheritence of a germline mutated APC gene, where only inactivation of the normal allele is necessary for adenoma formation
+    - **High MSI CRC** - rapid accumulation of driver mutations due to microsatellite instability somewhere along carcinogenesis, and takes shorter time for carcinogenesis (2-3y):
+        - <u>Sporadic MSI CRC</u> - hyperplastic/ serrated polyp acquiring MSI through loss of MMR gene (usually MLH1)
+        - <u>Lynch syndrome</u> - inheritence of a germline MMR gene mutation, where only inactivation of the normal allele enables adenoma development w/ MSI
+
+  
+  ![](~/Documents/notes/img/3_major_molecular_pathways_for_crc_carcinogenesis.png)
+- **Route of spread of CRC** - partially informs prognostic staging in TNM staging by correlating with histopathology:
+    - <u>Local invasion</u> (T-staging) - local invasion across the histological layers of the bowel and subsequently into adjacent organs:
+        - **Tis** - invasion through BM into lamina propria but not submucosa
+        - **T1** - invasion through submucosa
+        - **T2** - invasion into muscularis propria
+        - **T3** - invasion through muscularis propria into subserosa, with <u>access to lympho-vascular channels</u>
+        - **T4** - invasion into visceral peritoneum, or adjacent organs (e.g. colovesical fistula, gynaecological organs)
+    - <u>Lymphatic spread</u> (N-staging) - spread to high-risk drainage basins, towards mesenteric LN, and eventually to Trosier's node
+    - <u>Haematogenous spread</u>:
+        - **Liver** (most common site of metastasis) - colon and upper rectum drains into inferior mesenteric vein and subsequently into into <u>portal venous system</u>
+        - **Lung** (second most common site of metastasis) - may be first site for distant metastasis in lower rectal carcinoma drains into <u>middle and inferior mesenteric veins</u> into systemic circulation
+        - **Bones, brain, adrenals** - through access into systemic circulation
+    - <u>Perineural spread</u> - poor prognostic marker indicating **high-risk tumour for recurrence**, and thus <u>adjuvant therapy is indicated</u>
+    - <u>Transcoelomic spread</u> - into peritoneal cavity (Stage IV disease)
+- Know prognostic staging and related Tx modalities:
+    - Stage I - surgery
+    - Stage II - high risk consider adjuvant chemotherapy, and low risk no need adjuvant chemo
+    - Stage III - surgery + adjuvant chemotherapy
+    - Stage IV - chemotherapy, targeted therapy +/- immune checkpoint inhibitors
+- Additional modifying factors - consider whether adjuvant chemotherapy or other therapy needed:
+    - Molecular subtypes
+    - Key oncogenic drivers
+    - Site (e.g. rectum)
+    - Additional poor prognostic markers - e.g. vascular invasion, perineural invasion, +ve surgical markers
+- **Molecular characteristics of CRC** - acquisition of specific mutations enabling acquiring <u>hallmarks of cancer</u>, which are **subjects to targeted therapy**:
+    - **Sustained proliferative signal** - mutations along <u>growth pathways</u> (Wnt, EGFR) that enables sustained proliferative signalling in absence of growth factor:
+        - <u>Wnt pathway</u> - inactivation of APC gene enables constituitively active Wnt pathway to drive stem cell proliferation, underlying adenoma formation in most (80%) sporadic CRC, and FAP
+        - <u>EGFR pathway</u> - mutation of EGFR itself, or downstream signalling proteins:
+            - 1\. GOF EGFR mutation - enables increased EGFR stimulation in presence of EGF
+            - 2\. GOF mutation of downstream signalling proteins (KRAS, EGFR) - may render EGFR pathway constituitively active (mutant KRAS mutation is <u>inelligible for cetuximab</u>)
+    - **Increased angiogenesis** - often increased VEGF signalling, which can be targetted by <u>Bevacizumab</u> (Anti-VEGF Ab)
+    - **Evading immune destruction** - high MSI/ dMMR CRC tend show greater lymphoid infiltration, underlying good response to immunotherapy (e.g. pembrolizumab)
+
+  
+  ![](~/Documents/notes/img/hallmarks_of_cancer_and_relevance_to_crc_systemic_tx.png)
+- **Microsatellite instability** - tendancy for mutations to occur in microsatellites due to <u>loss of function of DNA-mismatch repair genes</u>:
+    - **Genes involved in DNA mismatch repair** - MLH1, MSH2, MSH6, PMS2
+    - **Assessment of microsatellite instability pathologically:**
+        - <u>IHC staining</u> - for DNA mimatch repair proteins in CRCs
+        - <u>MSI analysis</u> - molecular method for stratifying tumours into MSI-L, MSI-I, and MSI-H
+    - **Clinical implications for MSI tumours** - important role on prognosis and Tx:
+        - <u>Prognostic implication</u>:
+            - MSH-H or dMMR CRCs have **better stage-specific survival after surgery**
+        - <u>Implications on Tx</u>:
+            - Predicts **poor response to 5-FU based therapy**
+            - Predicts **good response to immune-checkpoint blockade** (aproved in metastatic setting, with emerging evidence as first line in early rectal cancer), which correlates to propensity of MSI CRC to demonstrate lymphoid infiltration, suggesting some degree of immunity is mounted against tumour already
+            - Implications on genetic counselling and Dx if suspecting lynch syndrome
+
+## Radiotherapy in Rectal Cancer
+
+- **Radiological anatomy of the rectum:**
+    - <u>Rectum</u> - extends from external sphincter to recto-sigmoid junction, divided to 3 parts:
+        - Lower third - up to 5cm from anal verge (surgical \[APR\] and oncological \[higher risk of local recurrence\] implications)
+        - Middle third - 5-10cm
+        - Upper third - 10-15cm
+    - <u>Lymphatic drainage of rectum</u> - high risk nodal stations will be also target of RT (?irrespective of clinical N stage?):
+        - Mesorectum - fat pads around rectum w/ LN and vasculature
+        - Mesorectal LN - first station for rectal cancer
+        - Internal iliac node, pre-sacral node, and eventually to mesenteric node
+- **Role of MRI in CA rectum** - key in staging (mandatory in rectal cancer) and RT planning
+- Neoadjuvant vs adjuvant chemoRT - neoadjuvant chemoRT preferred
+    - NEJM study demonstrates improved local control and reduced acute and late toxicity
+- **Indications of RT in rectal cancer:**
+    - Stage I - curative RT if not surgical candidate
+    - Stage II and III prefer neo-adjuvant chemoirradiation to downsize and downstage (+/- sphincter preservation in selected cases) prior surgery (higher likelihood for R0 resection)
+    - Stage IV - palliative RT may be required for Sx relief (e.g. PR bleeding, pain)
+- **Planning and delivery:**
+    - Planning:
+        - Gross tumor volume - tumor visible on clinical exam or imaging
+        - Clinical target volume - GTV + area of microscopic spread of tumour (i.e. high risk nodal basins)
+        - Planning target volume - CTV + internal organ motion + setup error
+    - Assessment:
+        - Location (distance from anal verge) - by DRE or endoscopy
+        - Morphological verification - tissue Bx
+        - Locoregional staging (cT, cN, sphincter infiltration, mesorectal fascia status) - MRI pelvis
+        - Distant metastasis - CT T+A+P or PET-CT
+    - Contouring the target volume (see reference above):
+    - Delivery:
+        - 3-field or 4-field using conformal technique
+        - Dose/ fractionation - 45-50 Gy in 25-28 fractions over 5-5.5 weeks
+        - Immobilisation - by belly board in prone position with a <u>full bladder</u> to minimize bowel volume within RT field to reduced colonic toxicity
+- **S/E:**
+    - Acute S/E:
+        - Skin reaction, diarrhoea, radiation cystitis
+        - Fatigue
+    - Long-term complications (\> 3mo after)
+        - Fatigue
+        - Radiation cystitis
+        - Radiation proctitis
+        - SB complications (e.g. frequent BM, obstruction, ?radiation enteritis???)
+
+## Neoadjuvant and adjuvant therapy in colorectal cancer
+
+- **Terminology:**
+    - <u>Primary therapy</u> - best modality of Tx for cure, aiming at complete removal of cancer (often surgery)
+    - <u>Adjuvant therapy</u> - supplementary Tx delivered after primary therapy to eradicate remaining microscopic cancer cells to delay or reduce chance of local recurrence (i.e. indicated if high risk of recurrence after primary therapy)
+    - <u>Neoadjuvant therapy</u> - deliver before primary therapy to downsize and downstage to enable subsequent primary therapy (i.e. indicated if 1) curative primary therapy/ resection impossible, 2) high risk of local recurrence)
+
+### Colon cancer
+
+- **Principles of Mx:**
+    - <u>Chemotherapy</u> - typically prescribed in the adjuvant setting, rarely in the neoadjuvant setting
+    - <u>Radiotherapy</u> - no role in colon cancer (important role in rectal cancer)
+    - <u>Surgery</u> - resection is the only Tx of curative intent
+- **Prediction of risk of recurrence** - based on 1) pathology:
+    - Resection margin - most important factor determining local recurrence
+    - Tumour grade - important factor determining distant recurrence
+    - TN stage - important factor determining distant recurrence (Nodal staging is most important factor for distant recurrence, hence adjuvant chemo is indicated for N+ disease)
+    - ?clinical presentation as acute complication? acording to surgery
+    - Lymphovascular/ perineural invasion - important factor determining distant recurrence
+- **Principles of adjuvant chemotherapy** - eradication of micrometastasis remaining after surgical resection to prevent local or distal recurrence
+- **Adjuvant chemotherapy** - erradication of micrometastasis remaining after surgical resection to prevent local or distant recurrence:
+    - **Indications for adjuvant chemotherapy** - dependent on risk of recurrence:
+        - <u>Stage III</u> (N+ disease) - all indicated (as N status is most important factor determining <u>distant recurrence</u>)
+        - <u>Stage II</u> (T3-4) - high risk disease indicated for adjuvant chemotherapy
+    - **High risk features of stage II cancer** - presence of any one of the following mandates adjuvant chemotherapy:
+        - **Tumour factors** - upon pathological assessment after ressection:
+            - <u>T-staging</u> - pT4 is high risk for local recurrence
+            - <u>Resection margins</u> - +ve resection margins is the **most important factor for local recurrence**
+            - <u>Tumour grade</u> - associated w/ high ridk of distant recurrence
+            - <u>Lymphovascular, or perineural invasion</u> - high risk for distant recurrence
+        - **Clinical factors:**
+            - <u>Presentation as complication</u> - clinical presentation as LBO or perforation
+        - Note that MSI-H CRC is a/w better prognosis and tend to not require adjuvant chemotherapy (in fact better stage-specific survival)
+    - **Regmimen** - duration for 3 or 6 mo depending on risk of of recurrence:
+        - <u>Monotherapy</u> - 5-FU or capecitabine
+        - <u>Combination therapy</u> - Oxaliplatin + capecitabine/ 5-FU
+- **Neoadjuvant chemotherapy** - less important in locally advanced colon cancer, indicated in:
+    - 1\. Locally advanced colon cancer w/ adjacent organ invasion
+    - 2\. Limited liver/ lung metastasis
+
+### Rectal cancer
+
+- Neoadjuvant \> adjuvant (see above)
+- Neoadjuvant chemo RT indicated if locally advanced (II-III) since risk non-R0 resection (e.g. comprimise resection margins/ mesorectal fascia)
+- Adjuvant chemoRT indicated if locally advanced or if margin not clear/ positive
+- Radiation:
+    - 45-50 Gy in 25-28 fractions ove r5-6 weeks
+- Chemo - 5-FU or capectiabine
+
+## Systemic therapy in advanced colorectal cancer
+
+- **Epidemiology** - \> 50% are already advanced CRC at presentation globally, however advanced CRC shows geographical variation (see slides):
+    - North america surprisingly shows low advanced CRC at presentation –\> attributable to more aggressive screening programmes
+- **Definition of advanced CRC** - stage IV colorectal cancer (metastatic disease)
+- **Outcomes of mCRC improved over last 2 decades** (see slides on Kaplan-Meier curves), attributed to:
+    - Improvements of systemic therapy
+    - More aggressive sugery - certain patients w/ mCRC considered "curable"
+    - Application of personalised medicine - e.g. different molecular phenotype (e.g. MSI, BRAF, RAS, EGFR)
+- **Approach to Mx of mCRC** - personalised therapy to aim greatest OS, <u>with resection as end-point</u>:
+    - Optimise therapeutic strategy from 1st line (strongest chemotherapy w/ highest response rate)
+    - Select patients most likely to benefit targeted therapy (e.g.EGFR)
+    - Tailored Tx strategy (cf ESMO consensus 2014 - ?this is european, I think there is an asian one)
+    - Multidisciplinary approach
+- **See molecular diversity in mCRC** - distribution of the genotypes of different CRC
+- **Hence:**
+    - Test RAS status at Dx, followed by all-RAS mutation test to select patients for cetuximab (see slides for funnel diagram)
+- **Escalation of systemic therapy** - 1st line Tx have the best response rate and progression-free survival (see slides):
+    - 1st line - read up historical evolution of 1st line therpay (what is current 1st line?):
+        - Cocktail chemo (see slides w/ evidence of 3 drug therapy, FOCUS trial) - 5-FU (most important and backbone of chemotherapy), capecitabine, irinotecan, oxaliplatin
+        - Biologics/ targeted therapy - bevacizumab +/- cetuximab/panitumumab, aflibercept and regorafenib
+    - 2nd line
+    - 3rd line
+- VEGF:
+    - Avastin (Bevacizumab) binds to VEGF and prevents binding of VEGF to receptor on surface of endothelial cell
+    - NEJM has an article on its role
+- Role of surgical therapy:
+    - If good response to systemic therapy with oligometastatic disease - liver resection can improve long-term survival
+- Immunotherapy:
+    - PD-1 blockade (e.g. pembrolizumab) - active in tumour microenvironment (good response potentially in MSI high patients)
+    - CTLA-4 blockade (ipililumab) - active in LN

@@ -1,0 +1,84 @@
+---
+id: c585f599-d3ab-40f3-a855-ba13f1a9acc8
+title: Approach to Acid-Base Disorders
+---
+
+# Approach to Acid-Base Disorders
+
+- **Definition and terminology** - acidosis/ alkalosis refers to underlying direction of acid-base change, while acidaemia/ alkalaemia refers to net change present in blood:
+    - <u>Acidosis</u> - underlying process resulting in acidification of blood (pH may be normal)
+    - <u>Alkalosis</u> - underlying process resulting in alkalisation of blood (pH may be normal)
+    - <u>Acidaemia</u> - arterial pH \< 7.36
+    - <u>Alkalaemia</u> - arterial pH \> 7.44
+- **Physiology of acid-base status:**
+    - **Daily generation of large amounts of acids** - these acids must be expired, excreted, or metabolised, or buffered to avoid fatal acidaemia:
+        - <u>Carbon dioxide</u> - approximately 15,000 mmol of CO2 produced which combines w/ water to form carbonic acid
+        - <u>Organic acids</u> (e.g. lactate, citrate) - metabolic reactions results in production of several thousand mmol of organic acid, which can be metabolised in the liver to neutral products (e.g. glucose, CO2 and water)
+        - <u>Inorganic acids</u> (e.g. sulphuric acid) - 50-100 mmol of inorganic acids produced which must either be buffered or excreted by renal mechanisms
+    - **Henderson Hasselbalch equation:**
+        - During blood gas analysis, pH and PCO2 (in mmHg) are measured, while HCO3 are measured by HHE
+        - pH = 6.10 + log(\[HCO3-\] ÷ \[0.03 x PCO2\])
+    - **Renal handling of inorganic acids** - filtered in glomeruli and excreted in DCT:
+        - <u>Combination w/ urinary buffers</u> - including HPO4, urate, creatinine, and NH3
+        - <u>To increase urinary H+ excretion</u> - it requires:
+            - Increased DCT tubular secretion of H+
+            - Increased synthesis of urinary buffers (primarily NH3 from glutamate) to keep H+ in urine
+- **Clinical suspicion of acid-base imbalance:**
+    - <u>Presentation for effects of tissue malfunction due to disturbed pH</u> - e.g. cardiac arrest (H's and T's), and CNS depression
+    - <u>Secondary changes in respiration</u> - patient presents w/ Kusmall breathing during metabolic acidosis
+    - <u>Pathology known to have consequences of acid-base imbalance</u> - upon Ix (venous HCO3 in RFT, ABG) in a suspected disease entity that can cause acid-base imbalance (e.g. DM, primary lung pathology, AKI/CKD)
+    - <u>Workup for dyskalaemia</u> - discovered acid-base imbalance in workup for dyskalaemia
+- **Types of acid-base imbalance:**
+    - Metabolic acidosis
+    - Metabolic alkalosis
+    - Respiratory acidosis
+    - Respiratory alkalosis
+- **General principles of compensatory respiratory and renal responses:**
+    - **In simple acid-base disorders, change in PCO2 and HCO3 occurs in the same direction to mitigate changes in pH** - pH is determined by the <u>ratio between PCO2 and HCO3</u> according to the HHE:
+        - **Metabolic acid-base disorders:**
+            - In <u>metabolic acidosis</u> (reduced HCO3), there should be appropriate degree of respiratory compensation (e.g. hyperventilation), resulting in corresponding <u>reduction of PCO2</u>, mitigating changes in the ratio and hence pH
+            - In <u>metabolic alkalosis</u> (increased HCO3), there should be appropriate degree of respiratory compensation (e.g. hypoventilation). resulting in corresponding <u>increase of PCO2</u>, mitigating changes in the ratio and hence pH
+        - **Respiratory acid-base disorders:**
+            - In <u>respiratory acidosis</u> (increased PCO2), an initial metabolic compensation by buffering results in <u>small increase in HCO3</u> (within minutes to hours), and if the respiratory condition persists, slow renal compensation (by secreting H+), results in a <u>larger increase in HCO3</u> (which takes 3-5d to complete)
+            - In <u>respiratory alkalosis</u> (decreased PCO2), an initial metabolic compensation by buffering results in <u>small decrease in HCO3</u> (within minutes to hours), and if the respiratory condition persists, slow renal compensation (by reducing secretion H+), results in a <u>larger decrease in HCO3</u> (which takes 3-5d to complete)
+    - **It follows from the above discussion, that a change in in HCO3 or PCO2 may represent a primary acid-base disturbance or a compensatory change:**
+    - **Expected compensation to simple acid-base disorders are from epirical observations and can be expressed in the following nomogram:** 
+    ![](../img/expected_compensation_of_simple_acid-base_disorders.png)
+- **Assessing response to metabolic acidosis** - hyperventilating response begins within 30 min and is complete by 12-24h:
+    - <u>Respiratory compensation for metabolic acidosis follows the following predictive relationships</u> - these formulas tend to give similar results although no data shows which is the most accurate:
+        - Fall of arterial PCO2 of 1.2 mmHg for every 1 mmol/L reduction in HCO3
+        - Arterial PCO2 = 1.5 x serum HCO3 + 8 ± 2 (Winters' equation)
+        - Arterial PCO2 = Serum HCO3 + 15
+        - Arterial PCO2 should be similar to the decimal digits of the arterial pH (eg, 25 mmHg when the arterial pH is 7.25, a setting in which the serum HCO3 concentration would be approximately 11 mEq/L)
+    - <u>Factors influencing degree of respiratory compensation to metabolic acidosis</u>:
+        - **Rate of development of metabolic acidosis** - some lag may be expected for acutely developing metabolic acidosis, while no lag may be expected for chronically developing metabolic acidosis
+        - **Severity of metabolic acidosis** - severe metabolic acidosis (e.g. \< 6 mmol/L) exceeds the physiological capacity of the respiratory system, such that <u>PCO2 can fall no lower than 8-12 mmHg</u>
+        - **Presence of neurological or respiratory disorders** - failure to adequately compensate for the metabolic acidosis reveals a primary respiratory or neurological disorder (e.g. metabolic acidosis mixed w/ respiratory acidosis)
+- **Assessing response to metabolic alkalosis** - hypoventilating response begins within 30 min and is complete by 12-24h:
+    - <u>Respiratory compensation for metabolic alkalosis follows the following predictive relationships</u>:
+        - Increase of arterial PCO2 by 0.7 mmHg for every 1 mmol/L elevation in HCO3
+        - PCO2 = HCO3 + 10
+    - <u>Factors influencing degee of respiratory compensation to metabolic alkalosis</u> - the **hypoxic ventilatory drive**:
+        - Severe metabolic alkalosis (e.g. HCO3 \> 45 mmol/L) can only be maximally compensated until the hypoxic ventilatory drive kicks in
+        - As a rule of thumb, **PCO2 will not exceed 55 mmHg** in severe metabolic alkalosis
+        - However, PCO2 may exceed the aforementioned value due to **ventilatory failure due to respiratory muscle weakness** caused by **severe hypoK accompanying metabolic alkalosis** (invariably develops in these patients)
+- **Assessing response to respiratory acidosis:**
+    - <u>Metabolic compensation for respiratory acidosis in acute or chronic setting follows the following predictive relationship</u> - typically renders arterial pH in low-normal or modestly reduced levels if PCO2 \< 70 mmHg:
+        - **Metabolic compensation for acute respiratory acidosis** - approximately increase of HCO3 by 1 mmol/L for every 10 mmHg rise in PCO2
+        - **Metabolic compensation for chronic respiratory acidosis** - approximately increase of HCO3 by 3.5 mmol/L for every 10 mmHg rise in PCO2
+    - <u>Implications of severe acidaemia or mild-to-moderate alkalaemia in chronic respiratory acidosis</u>:
+        - Presence of severe acidaemia typically reflects an ongoing mixed metabolic acidosis on top of chronic metabolic acidosis
+        - Presence of increasing pH (i.e. \> 7.40) reflects a mixed metabolic or respiratory alkalosis on top of chronic respiratory acidosis
+- **Assessing response to respiratory alkalosis:**
+    - <u>Metabolic compensation for respiratory alkalosis in acute or chronic setting follows the following predictive relationship</u>:
+        - **Metabolic compensation for acute respiratory alkalosis** - approximately decrease of HCO3 by 2 mmol/L for every 10 mmHg fall in PCO2
+        - **Metabolic compensation for chronic respiratory alkalosis** - approximately decrease of HCO3 by 4-5 mmol/L for every 10 mmHg fall in PCO2
+- **Approach to diagnosis of acid-base disturbances:**
+    - <u>Step 1</u> - establishing the primary diagnosis, and assess compatibility w/ Hx (e.g. diarrhoea, respiratory distress), keeping in mind that:
+        - With the exception of chronic respiratory alkalosis and mild-to-moderate respiratory acidosis, compensatory response do not return arterial pH to normal
+        - Severe changes in HCO3 or PCO2 in presence of normal pH is almost indicative of a mixed disorder
+
+    
+    ![](../img/changes_in_blood_gases_in_simple_acid_base_disorders.png)
+    - <u>Step 2</u> - assess the adequacy of compensation, if inadequate a **mixed acid-base disorder** may be present
+    - <u>Step 3</u> - work up along the lines of the primary metabolic change to identify its etiology

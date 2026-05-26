@@ -1,0 +1,76 @@
+---
+id: 62f7b626-6efa-4217-8993-af3b290db9ed
+title: Lower Urinary Tract Infections and Cystitis
+---
+
+# Lower urinary tract infection and cystitis
+
+- **Definition and terminology:**
+    - <u>Urinary tract infections</u> - clinical syndrome caused by bacterial infection at any level along the urinary tract
+    - <u>Bacteriuria</u> - presence of bacteria in urine, which may reflect colonisation, contamination or actual infection
+    - <u>Pyuria</u> - presence of white blood cell in urine, merely indicative of an inflammatory response within the urinary tract
+- **Predisposing factors of UTI:**
+    - Incomplete emptying of bladder - secondary to 1) bladder outflow obstruction, neurogenic bladder, detrusor underactivity
+    - Mechanical obstruction - calculus, FB, or neoplasm
+    - Urine stasis in the upper tract - incomplete emptying, vesicoureteric reflux, dilatation of ureters
+    - Immunosuppression - e.g. diabetes mellitus
+    - Estrogen deficiency - results in lowered local resistance to colonisation
+- **Classification of UTI by the host:**
+    - <u>Uncomplicated UTI</u> - UTI occuring in an anatomically, physiologically urinary tract with normal host defense mechanisms
+    - <u>Complicated UTI</u> - UTI occuring in an anatomically, or physiologically abnormal urinary tract that is a/w increased risk of acquiring infections or failing Tx
+    - <u>Special groups</u> - UTI in pregnancy, UTI in children
+- **Approach to uncomplicated v.s. complicated UTI:**
+    - <u>Uncomplicated UTI</u> (a/w usual uropathogens) - Tx in out-patient setting with short-duration of ABx therapy
+    - <u>Complicated UTI</u> - Tx in in-patient setting, likely with longer duration of ABx therapy, where cure w/o recurrence is only achieved if the complicating features is erradicated
+- **Mx:**
+	- **Principles of Mx:**
+		- _Reassurance_ - explanation of the pathophysiology of the disease and clinical course
+		- _Advice_ - general advice in hydration, micturation, bowel openings, and role of supportive medical Tx
+		- _Prescription_ - empirical ABx, other symptomatic medications for pain and dysuria
+		- _Investigations_ - dependent on demographic, and clinical scenario
+		- _Referral_ - specialist referral if suspecting underlying anatomical or functional abnormalities
+		- _Observation_ - MCU 1-2 weeks later (48h after completion for pregnant women)
+		- _Prevention_ - similar to advices
+		- ![[Pasted image 20260425115123.png]]
+	- **General advice to women w/ UTI** (esp. w/ recurrent attacks):
+		- _Resting_ - keep yourself rested
+		- _Hydration_ - drink lots of fluids (2-3 cups of water first time in the morning, then one cup every 30 minutes)
+		- _Micturition_ - complete emptying of bladder each time
+		- _Hygiene and bowel opening_ - wipe bottom from front to back away from the urogenital tract w/ moist tissues after bowel opening
+		- _Other supportive medical Tx_ - paracetamol for pain, sodium citrotartrate (4g PO q6h) for alkalisation of urine to reduce dysuria (except when taking nitrofurantoin)
+	- **ABx for uncomplicated UTI in non-pregnant women** - multiple dose therapy is preferred to single dose therapy:
+		- _Duration of ABx course_ - 5d in F (except trimethroprim {3d}), but 10d in F w/ known urinary tract abnormality
+		- _Selection_ - trimethoprim or cephalexin as first line:
+			- Trimethroprim 300 mg po od for 3d
+			- Cephalexin 500 mg po od for 5d
+			- Augmentin 625 mg po q12h for 5d
+			- Nitrofurantoin 50 mg po q6h for 5d
+			- Norfloxacin 400 mg po q12h for 3d (reserved due to S/E)
+	- **ABx for UTI in pregnant women:**
+		- _Indications_ - Tx initiated even w/ asymptomatic bacteriuria due to risk of developing full-blown UTI
+		- _Selection_ - week long course for asymptomatic bacteriuria:
+			-  Cephalexin 500 mg po od for 5d
+			- Nitrofurantoin 50 mg po q6h for 5d
+			- Augmentin 625 mg po q12h for 5d
+		- _F/U_ - repeat MCU after 48h of comletion
+	- **ABx for UTI in males:**
+		- _Selection_:
+			-  Cephalexin 500 mg po od for 5d
+			- Nitrofurantoin 50 mg po q6h for 5d
+			- Augmentin 625 mg po q12h for 5d
+	- **Other supportive pharmacological Tx:**
+		- Analgesics (ibuprofen, paracetamol) for pain
+		- Phenazopylridine (Pyridium) for dysuria
+		- Urinary alkalisation such as odium citrotartrate/ Potassium citrate/ Sodium bicarbonate for dysuria
+	- **Ix:**
+		- _Indications for Ix_:
+			- All childeren w/ UTI
+			- All men w/ UTI
+			- All women w/ acute pyelonephritis, recurrent UTI (>2 per year), confirmed sterile pyuria, or other features of kidney disease (e.g. haematuria)
+		- _Additional Ix_:
+			- Bloods - blood culture, CBC, RFT, ESR/CRP
+			- Imaging - renal USG for obstruction, IV urogram/ CT urogram, retrograde pyelography
+		- ![[Pasted image 20260425115413.png]]
+- **Frequency-dysuria syndrome** (urethral syndrome):
+    - <u>Definition</u> - symptoms of lower tract infection but frequently with negative urine cultures
+    - <u>Workup</u> - r/o TB, interstitial cystitis, carcinoma in situ

@@ -1,0 +1,77 @@
+---
+id: 4b7eb82a-641e-4d2f-8dde-0885526bb552
+title: 2025-09-10
+---
+
+# GC36 Coffee ground vomitus and tarry stool: upper GI bleeding <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+## Obscure GI bleeding
+
+- **Definition** - massive GI bleeding, principally presenting as 'fresh melena', despite non-diagnostic OGD and colonoscopy
+- **DDx of fresh melena** - by convention from upper GI tract to proximal colon
+- **Approach to obscure GI bleeding** - selection of optimal modality of SB workup dependent on 1) patient haemodynamic status, and 2) clinical impression of the extent of bleeding:
+    - **Assessment of haemodynamic status** - attempt resuscitation if haemodynamically unstable:
+        - <u>Patient stabilised</u> - consider non-ivasive modalities based on clinical impression of the extent of bleeding (massive or subacute)
+        - <u>Patient unstable</u> - consider urgent angiography and embolisation (+/- laparotomy and intra-operative enteroscopy)
+    - **Clinical impression of extent of bleeding** - guides selection of first-line Ix to evaluate the small bowel:
+        - <u>Massive ongoing bleeding</u> - consider CT angiography or RBC scan, as these are Sn at high bleeding rates
+        - <u>Subacute bleeding</u> - consider VCE or CTE as angiography/ RBC scan may be -ve at low bleeding rates
+    - **Selection of VCE or CTE** - complimentary examinations often used together:
+        - VTE is better at identifying <u>vascular</u> or <u>inflammatory lesions</u> (as these are not picked up on CT)
+        - CTE is better at identifying <u>mass lesions</u> (due to higher anatomical resolution)
+
+  ![](../img/approach_to_massive_obscure_gi_bleed.png) 
+  ![](../img/approach_to_subacute_obscure_gi_bleed.png)
+- **CT mesenteric angiography:**
+    - <u>Indications</u> - role in obscure massive GI bleeding (requires adequate bleeding rate)
+    - <u>Test properties</u> - detects active bleeding at 0.3 mL/min
+    - <u>+ve findings</u> - contrast extravastation at time of active bleeding
+    - <u>Limitations</u>:
+        - No therapeutic interventions (formal invasive angiography and embolisation required if +ve)
+        - Only +ve findings in active bleeding (-ve results may occur if intermittent bleeding)
+    - <u>Complications</u> - contrast-related complications:
+        - Contrast allergy
+        - Contrast nephropathy
+- **RBC scan** - 99mTc sulfur colloid and 99mTc pertechnetate labelled autologous RBC infused:
+    - <u>Indications</u> - role in:
+        - Stablised patients w/ suspected massive obscure bleeding
+        - VCE or CTE contraindicated in subacute obscure bleeding
+    - <u>Principles</u> - infusion of radiolabelled RBCs:
+        - Allows detection of **slow or intermediate bleeding** (cf active bleeding in CT angiography)
+        - Achieved through sequential scans to identify intraluminal blood which should accumulate near site of bleeding
+        - Indirect method of detecting blood pooling, not site of bleeding, which may be inaccurate if delayed scans (movement of bleed intraluminally along GI tract)
+    - <u>Test properties</u> - detects intermittent bleeding at 0.1-0.5 mL/min
+- **Invasive angiography** - diagnostic and therapeutic:
+    - <u>Indications</u>:
+        - Haemodynamically unstable patients with massive obscure bleeding
+        - CTA or RBC +ve for formal embolisation
+    - <u>Test properties</u> - requires a higher bleeding rate at 0.5-1 ml/min (i.e. no role if CTA/ RBC scan -ve):
+        - Detects 50-72% with active massive bleeding
+        - Detects 25-50% patients when bleeding resolved or slowed
+    - <u>+ve results</u> - extravastation of contrast at time of active bleeding: 
+    ![](../img/invasive_mesenteric_angiography.png)
+    - <u>Advantages</u> - therapeutic via embolisation
+    - <u>Complications</u>:
+        - Catheter site complication
+        - Contrast-related complication
+        - Thromboembolism (ischaemic gut injury)
+- **Video capsule endoscopy** - ingestion of video capsule with camera to screen the entire small bowel:
+    - <u>Indications</u>:
+        - Subacute, intermediate bleeding (less likely to be detected by CTA/ RBC scan)
+        - Subspected non-stricturing SB Crohn's disease
+        - Detection of other lesions (e.g. Peutz Jegher syndrome, FAP, celiac disease)
+    - <u>C/I</u> - risk of capsule retention:
+        - Known or suspected GI obstruction or strictures
+        - Swallowing disorders
+        - Severe motility problems
+        - Un-cooperative and unreliable patients
+    - <u>+ve findings</u> - visualisation of bleeding lesion (often higher yeild for vascular or inflammatory lesions in SB)
+- **CT enterography** - virtual enteroscopy to detect small bowel mass (unknown if bleeding)
+- **Deep endoscopy** - push single balloon enteroscopy vs double balloon enteroscopy:
+    - DBE is a/w much higher total enteroscopy than SBE (78% vs 25%)
+    - DBE is much difficult to operate and often requires two operators instead of one
+- **Meckel's scan** - scintigraphy to identify Meckel's diverticulum with ectopic gastric mucosa:
+    - <u>Principles</u> - 99mTc pertechnetate to detect ectopic gastric mucosa (diverticula w/o gastric mucosa will not be visualised)
+    - <u>Limitations</u>:
+        - No information regarding bleeding status
+        - No role in detecting non-gastric mucusa Meckel's diverticula (although these do not tend to bleed)

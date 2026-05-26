@@ -1,0 +1,156 @@
+---
+type: main
+---
+# Urinary Tract Infection
+
+- **Definition and terminology:**
+    - <u>Urinary tract infections</u> - clinical syndrome caused by bacterial infection at any level along the urinary tract
+    - <u>Bacteriuria</u> - presence of bacteria in urine, which may reflect colonisation, contamination or actual infection
+    - <u>Pyuria</u> - presence of white blood cell in urine, merely indicative of an inflammatory response within the urinary tract
+- **Epidemiology** - extremely common infection:
+    - <u>Prevalence</u> - \> 50% F will have \>= 1 episode of UTI in their lifetime (asymptomatic bacteriuria occurs in 5% of F)
+    - <u>Demographic</u>:
+        - Age - 1/3 will have 1 episode by 24y
+        - Sex - common in F, much less common in M
+- **Natural defense of the urinary tract:**
+    - <u>Physical factors</u>:
+        - Normal emptying of bladder and anterograde flow of urine
+        - Normal exfoliation of urothelial cells
+        - Tight cell-cell junctions between urothelial cells
+    - <u>Chemical factors</u> - high osmolality of protein, mucosal IgA, Tamm-Horsfall protein
+    - <u>Microbiological factors</u> - presence of lactobacilli in vagina, introitus and periurethral area results in production of low pH (estrogen-dependent)
+- **UTI as a masquerade in general practice** - capable of presenting w/ a constitutional problem or general symptoms w/o symptoms localising to the urinary tract especially in young children and elderly:
+	- _Non-specific complaints in young children_ - fever, lethargy/ irritability, poor feeding/ failure to thrive, abdominal pain, N/V, diarrhoea
+	- _Non-specific complaints in elderly_ - confusion/ delirium, behaviour disturbances, pyrexia of unknown origin
+- **Risk factors for UTI:**
+	- _Non-modifiable risk factors_ - female sex, menopause, pregnancy
+	- _Modifiable risk factors_:
+		- Anatomical factors - urinary tract obstruction, malformation, reflux, diverticulitis w/ colo-vesical fistula
+		- Other causes of urinary stasis (incomplete emptying of bladder) - neurogenic bladder, detrussor-underactivity, bladder outlet obstruction etc.
+		- Behavioural factors related to sex - sexual intercourse, sexually transmitted infections, diaphragm contraception
+		- Immunological factors - immunosuppression, diabetes mellitus
+		- Iatrogenic factors - instrumentation
+- **Routes of infection:**
+    - <u>Ascending route</u> (commonest) - ascends from rectum to urethra to bladder, and ocassionally to the kidneys (facilitated by BOO, vesicoureteral refluxes, or prolonged instrumentation)
+    - <u>Haematogenous spread</u> (rare) - from pre-existing bacteraemia (e.g. S. aureus)
+    - <u>Direct extension</u> - from neighboring suppurative infections
+- **Etiological agents of community acquired UTI** - E. coli and S. saprophyticus accounts for ~90% of community-acquired UTI:
+    - <u>Facultatively GNR</u> (enteric flora) - E. coli (85%), Proteus spp, Klebsiella spp, pseudomonas spp.
+    - <u>GPC</u> - enterococcus, S. saprophyticus (10% of acute cystitis in sexually-active young women), streptococcus faecalis, other staphylococcal spp.
+    - <u>Anaerobes</u> (capable of causing nosocomial infections)
+- **Etiological agents of nosocomial UTI** - can be polymicrobial:
+    - <u>GNR</u> - E. coli and other enterobacter spp, Pseudomonas, Citrobacter, Providencia, Serratia
+    - <u>CNS</u> - e.g. S. epidermidis
+- **Classification and clinical syndromes of UTI:**
+	- **Sterile pyuria** - defined as the presence of pus cells (WBC +) but a sterile urine culture, **DDx** include:
+		- _Contamination_ - poorly collected urine specimen due to difficulties in obtaining mid-stream urine (MSU)
+		- _Partially treated urinary infections_ - receiving prior ABx in other settings, but is inadequately treated
+		- _Urinary stones_ - esp. w/ staghorn calculi
+		- _Other urinary tract conditions_:
+			- Urothelial carcinoma
+			- Genitourinary tuberculosis
+			- Polycystic kidney disease
+			- Chemical cystitis (e.g. cytotoxic chemotherapy, ketamine cystitis)
+		- _Extra-urinary conditions_ - adjacent appendicitis
+	- **Asymptomatic bacteriuria:**
+		- _Definition_ - presence of significant growth  of bacteria in urine (?> 10^8 CFU per L), but has not produced symptoms requiring consultation
+		- _Indications for Tx_ - screening and Tx not advised except for:
+			- Pregnancy - due to increased risk of ascending pyelonephritis and obstetric complications
+			- Invasive urological procedures - e.g. TURP due to risk of urosepsis
+	- **Symptomatic bacteriuria:**
+		- _Definitions_ - presence of clinical S/S that correlate w/ a UTI, together w/ significant growth of organisms or urinary culture
+		- _Common clinical symptoms suggestive of a UTI_ - may occur alone or in combination:
+			- Frequency
+			- Dysuria
+			- Loin pain
+		- _Differentiation between lower UTI and upper UTI_ - symptomatology is insufficient to make the decision:
+			- Presence of loin pain and tenderness is specific to upper UTI (i.e. acute pyelonephritis)
+			- Absence of loin pain and tenderness does not r/o an upper UTI
+			- Systemic Sx (e.g. fever) may only poorly differentiate between the two conditions despite classical teachings
+	- **Acute cystitis** (dysuria-frequency syndrome):
+		- _Definition_ - clinical syndrome characterised by inflammation of the bladder and/or urethra, a/w dysuria (pain/ scalding w/ micturition) and/or frequency
+		- _Clinical features of acute cystitis_ - constitutional Sx usually minimal or absent:
+			- Dysuria
+			- Urinary frequency
+			- Haematuria
+			- Offensive smell of urine
+		- _DDx of acute cystitis_ - other conditions that present w/ dysuria and urinary frequency include:
+			- Urethritis (STI)
+			- Prostatitis (septic appearance)
+			- Vulvovaginitis
+	- **Acute pyelonephritis:**
+		- _Definition_ - acute bacterial infections of the kidneys and upper urinary tract
+		- _Clinical features of acute pyelonephritis_:
+			- Loin pain and tenderness
+			- Marked constitutional upset (e.g. high swinging fever, chills, rigors)
+			- N/V due to pain
+			- Features of acute cystitis
+		- _DDx_ - r/o other causes of acute abdomen by presence of pyuria and absence of rebound tenderness
+	- **Uncomplicated vs complicated urinary tract infection:**
+		- _Uncomplicated UTI_ - cystitis occuring in an uninstrumented, non-pregnant female w/o structural, neurological, or functional abnormalities
+		- _Complicated UTI_ - cystitis a/w anatomical (stones) or functional abnormalities (e.g. DM, pregnancy) that increases the risk of serious complications or treatment failure
+	- **Urethral syndrome** - occassionally termed abacterial cystitis which is a misnomer:
+		- _Definition_ - presentation w/ a dysuria-frequency syndrome but w/ a -ve urine culture
+		- _Epidemiology_ - accounts for up to 30-40% F w/ urinary symptoms
+		- _Causes of urethral syndrome_ - often bacterial cystitis but unabled to be cultured for various resions:
+			- Organisms may be anaerobic or fastidious in culture environments (e.g. Ureaplasma, Chlamydia)
+			- Specimen may have antiseptic contamination or residual ABx
+			- Infection may be undergoing resolution at time of culture
+	- **Interstitial cystitis:**
+		- _Definition_ - features of cystitis (dysuria and frequency) but in the absence of pyuria or evidence of UTI
+		- _Clinical features of interstitial cystitis_:
+		    - Frequency and pain - exacerbated by jarring and overdistension of bladder, and relieved by micturition
+		    - Haematuria - often present due to ulcers
+		    - Non-infective origin - Absence of pyuria or evidence of UTI
+		- _Mx_ - hydrodistension +/- course of TCA
+- **Clinical manifestations of UTI:**
+	- ![[Pasted image 20260425104852.png]]
+- **Ix:**
+    - **Urine** - dipstick, microscopy, biochemistries, and C/ST:
+        - **Urine dipstick** - leukocyte esterase, nitrites:
+            - _Leukocyte esterase_ - +ve (LE produced by neutrophils)
+            - _Nitrites_ - +ve (most GNR convert nitrates into nitrites; Sp 84-98% and 74-96% Sn)
+            - _RBC_ - transient haematuria may occur in UTI but Ix required if persistent
+            - _Urinary pH_ - elevated pH suggestive of infection by <u>urease-producing bacteria</u> that often complicates w/ struvite stone formation (e.g. proteus, Klebsiella, Pseudomonas)
+        - **Urine microscopy** - for pyuria (\> 10 cells/ mm3) +/- microhaematuria (absence of squammous epithelial cells suggests absence of contamination)
+		- **Urine microscopy:**
+			- _Detection of pyuria_ - very Sn sign of UTI under microscopy:
+				- Observation - > 10 pus cells per HPF is suggestive of pyuria
+				- Counting chamber - > 8000 WBC/ mL in phase contrast microscopy to confirm pyuria
+			- _Detection of contamination_ - presence of squames (e.g. vaginal/ skin) and debris are indications of contaminations
+		- **Urine culture:**
+			- _Definition of +ve culture_:
+				- By definition, **> 10^5 CFU per mL of urine** is **highly specific for UTI**
+				- In reality, > **30% of F w/ acute bacterial cystitis have < 10^5 CFU per mL of urine**, but is reasonable to empirically Tx if presenting w/ dysuria and frequency
+			- _Common organisms identified in urine culture_ - enteric organisms such as E. coli and S. saprophyticus accounts for > 90% of UTI:
+				- G- organisms - enterobacteriaceae (e.g. Klebsiella, Proteus spp.), Pseudomonas spp.
+				- G+ organisms - enterococci spp., streptococcus faecalis, other staphylococi spp.
+    - **Urological imaging** - KUB +/- CT urogogram for evaluation of urinary tract in selected patients:
+        - **Indications for urological evaluation:**
+            - <u>UTI in women</u> - USG indicated in suspected pyelonephritis to r/o stones/ obstruction
+            - <u>UTI in men</u> - full urological workup indicated for all men
+- **Urine collection** - laboratory diagnosis of UTI is highly dependent on the quality of urine specimen:
+	- _Preferred time for urine sample_ - early morning urine:
+		- Highly concentrated urine w/ sufficient volume
+		- Bacteria incubated in the bladder overnight
+	- _Storage of urine_ - best if taken to the laboratory immediately but can be stored for up to 24h at 4C to prevent bacterial multiplication
+	- _Methods of urine collection_:
+		- Clean catch midstream specimen of urine (MSU)
+		- Catheter specimen of urine (CSU)
+		- Suprapubic aspiration of urine (SPA)
+	- _Clean catch MSU_ - best collected w/ full bladder after **emptying around 100 mL of urine** before catching 20 mL of the MSU, ensuring **continuous flow of urine** during collection:
+		- In F, best if tampon being inserted and **vulva washed w/ clean water**, to avoid **contamination w/ vaginal and vulval organisms**. Collected on the toilet w/ knee swung to the side, and **labia spread by one hand** to avoid contamination
+		- In M, **foreskin retracted** and **glans washed by clean water**
+		- In children, a **midstream clean catch** may be performed
+	- _Catheter specimen urine_ (CSU) - a short open-ended catheter inserted and specimen collected after 200 mL has flushed the catheter
+	- _Suprapubic aspirate of urine_ (SPA) - most invasive but most Sn:
+		- Needle inserted into very full bladder 1-2 cm above the pubic symphysis
+		- Any organism indicate UTI
+		- 
+		![[Pasted image 20260425110120.png]]
+	- _Urine specimen collection in children_ - all children require Ix:
+		- MSU can be performed for older, cooperative children
+		- MCC is more practical and reliable
+		- SPA is the most reliable and best option, but invasive
+		- CSU for those w/ failed SPA
+- **Mx** - dependent on the underlying clinical syndrome

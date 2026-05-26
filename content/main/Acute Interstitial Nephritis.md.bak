@@ -1,0 +1,91 @@
+---
+id: 7fe24dcb-74ad-466f-b5ba-18817337e363
+title: Acute Interstitial Nephritis
+---
+
+# Acute Interstitial Nephritis
+
+- **Definition** - a kidney lesion that causes an acute decline in renal function, and is characterised by an inflammatory infiltrate in the renal interstitium
+- **Epidemiology** - 1-3% of all kidney Bx (up to 13-19% when restricted to setting of AKI):
+  - Underestimated as confirmatory kidney biopsy is often not done if not indicated in old and frail patients
+  - Prevalence of AIN caused by PPIs, 5-aminosalicylates and NSAIDs is expected to rise with increasing use, but present less traditionally (less likely to present with rash and eosinophilia than ABx-induced AIN)
+- **Etiology of AIN** - traditionally most commonly caused by methicillin, which has subsequently been withdrawn from market:
+  - **Drug-induced AIN** (50-75%) - virtually all drugs can cause AIN, but 30-50% cases are caused by ABx:
+    - <u>NSAIDs</u> - including selective COX-2 inhibitors
+    - <u>Antibiotics</u>:
+      - Beta-lactams (penicillin, cephalosporin)
+      - Sulphonamides (including trimethroprim-sulfamethoxazole)
+      - Quninolones (particularly cirofloxacin)
+      - Anti-TB medications (particularly rifampicin)
+    - <u>PPIs</u> - e.g. omeprazole, lansoprazole
+    - <u>H2 antagonists</u> - particularly cimetidine
+    - <u>Immunotherapy</u> - particularly ICIs (nivolumab, ipilimumab, pembrolizumab, atezolizumab)
+    - <u>Others described</u> - allopurinol, 5-aminosalicylates, diuretics
+  - **Non-infectious systemic disease** (10-20%):
+    - SLE (often an acccompanying glomerular disease)
+    - ANCA-associated vasculitis (often an accompanying glomerular disease)
+    - Sjogren's disease
+    - Tubulointerstitial nephritis and uveitis (TINU) syndrome
+    - IgG4 related disease
+    - Sarcoidosis (commonest cause in the West)
+  - **Infections** (4-10%) - may be attributed to the infection or the medications for the infection:
+    - <u>Bacterial infections</u> - Legionella, Leptospira, Streptococcus, Diptheriae, Yersinia, enterococcus
+    - <u>Viral infections</u> - CMV, EBV, Hantavirus etc.
+  - **Others** (\< 5%) - rare causes include:
+    - Cast nephropathy (myeloma)
+    - Idiopathic hypocomplementemic tubulointerstitial nephritis
+    - Antitubular basement membrane (TBM) Ab
+    - Interestitial infiltration by IgM-positive plasma cells
+    - Antibrush border antibody (ABBA) disease
+
+  
+  ![](../img/causes_of_acute_interstitial_nephritis.png)
+- **Pathology of AIN:**
+  - <u>Characteristic findings</u>:
+    - Tubulitis - inflammatory cell invade the tubular basemement membrane
+    - Marked interstitial infiltrates consisting of primarily T cells and monocytes, while eosinophils, plasma cells and neutrophils may be found
+    - Marked interstitial oedema
+  - <u>Pathological findings may suggest cause</u> - e.g. granuloma formation, IgG4 +ve plasma cells etc.
+- **Clinical features of AIN** - timing of onset is variable (median 10d), but onset after subsequent exposure is more rapid than initial exposure:
+  - **Clinical features of renal dysfunction** - many are asymptomatic:
+    - <u>Non-specific Sx</u> - e.g. malaise, N/V due to uraemia
+    - <u>Oliguria or anuria</u> - most patients may present when non-oliguric, but will eventually become oliguric (51%) as condition progresses
+    - <u>Proteinuria</u> - modest aamounts due to tubular proteinuria (PCR \< 100 mg/mmol), nephrotic range only occurs in the context of co-exisitng glomerular disease, especially if a/w NSAID (NSAID-related MCD/ MN) or autoimmune disease (SLE)
+  - **Clinical features related to drug allergy** - classically a triad 10% of <u>fever</u> (27%), <u>rash</u> (15%) and <u>eosinophilia</u> (23%) observed in ABx-induced AIN is less and less observed:
+  - **Clinical features of the underlying systemic illness** - extremely variable abd dependent on underlying disease
+- **Ix:**
+  - **Urine** - dipstick, urine microscopy, quantification of proteinuria, and aditional urinalysis:
+    - <u>Dipstick</u> - may reveal varying haematuria, proteinuria or sterile pyuria
+    - <u>Microscopy</u> - characteristic urine sedinents with:
+      - White cells or white cell casts
+      - Red cells
+      - Eosinophiluria may be possible
+    - <u>Quantification of proteinuria</u> (ACR, PCR) - typically minimal (PCR \< 100 mg/mmol) accounting for tubular proteinuria, but may have nephrotic range if concurrent glomerular disease (e.g. NSAID, autoimmune disease)
+    - <u>Fractional Na excretion</u> (FENa) - \> 1% particularly indicative of tubular damage
+  - **Routine bloods** - CBC, RFT:
+    - <u>CBC</u> - eosinophilia in 25-35% of AIN (presence raises suspicion of AIN when no other apparent cause of AKI)
+    - <u>RFT</u> - raised SCr
+  - **Renal Bx** - definitive Dx required histological confirmation of AIN, indicated only if:
+    - Patients w/ characteristic urinalysis and bloods for AIN but no culprit drug identified
+    - Patients w/ suspected drug-induced AIN but not recovering after cessation of suspected offending agent
+    - Patients w/ no contraindications for AIN contemplating glucocorticoid therapy
+
+    
+    ![](../img/mx_algo_for_ain_uptodate.png)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Dependent on underlying etiology</u> - differentiation between drug-induced allergic AIN or others
+    - <u>Supportive Mx</u> - supportive Mx for AKI, and consideration for imminent need for dialysis as this may affect decision for renal Bx
+    - <u>Monitoring of patient therapy</u> - renal function expected to improve within 1-2 weeks if early intervention for drug-induced AIN
+  - **Mx of drug-induced allergic AIN:**
+    - **Discontinuation of offending agent** - may be single or multiple (sequential or simultaneous discontinuation depending on severity):
+      - Consider avoidance of entire class of drugs and related classes (e.g. penicillin and cephalosporin)
+      - Do not discontinue potentially offending drug if it is crucial to treatment of a severe disease process, especially if no alternatives, and diagnosis is uncertain
+    - **Glucocorticoids** - no RCTs, but usage supported by retrospective studies and biological plausibility; should be <u>initiated promptly</u> to limit the extent of damage and improve chances of recovery:
+      - <u>Regimen</u>:
+        - IV methylprednisolone 500-1000 mg for 3d followed by oral prednisolone 1mg/kg
+        - Oral prednisolone 1mg/kg from the start
+      - <u>Timing</u>:
+        - Started empirically and promptly if renal Bx not considered as C/I
+        - Started after histological confirmation if renal Bx is to be performed (lower risk of bleeding complications)
+    - **Rescue immunosuppressive therapy** - MMF 1-2g PO in patients w/ Bx-proven AIN and documented failure to respond to glucocorticoids

@@ -1,0 +1,65 @@
+---
+id: B7087CB2-3B00-485D-A066-0F5DF2F903BA
+roam_parent: d5558ba4-ccd9-4355-b3a9-9247e6a019b7
+title: Agoraphobia
+---
+
+# Agoraphobia
+
+- **Definition** - anxiety disorder a/w situations that one cannot leave easily, often a/w panic attacks
+- **Clinical features of agoraphobia:**
+    - **Anxiety** - anxiety Sx brought up by phobic situations or anticipation of such symptoms, are similar to that of other anxiety disorders, but more importantly provoke avoidance:
+        - <u>Characteristic phobic situations</u> - three common themes:
+            - Distance from home
+            - Crowding
+            - Confinement
+        - <u>Anticipatory anxiety</u> - often common, and severity may be determined by the duration prior to exposure of phobic situation where the Sx begins
+    - **Other symptoms:**
+        - <u>Depressive Sx</u> - sometimes as a consequence of the limitations caused by anxiety and avoidance, while in others thought to be a part of disorder
+        - <u>Deprsonalisation</u> - may occur in severe cases of agorophobia
+- **Onset and course:**
+    - <u>Age of onset</u> - in most cases, onset occurs in early or mid-twentiies, w/ a further period of high onset in mid-thirties (either way, it occurs much later than specific phobias or social phobias)
+    - <u>Circumstances of onset</u>:
+        - First episode occurs when the person is waiting for public transport or shopping in crowded areas, w/ sudden rush of anxiety Sx to near panic attack level requiring visit to A&E
+        - The defining feature is the lack of explainable stress accounting for the panic attack, although some patients may describe a remote background of serious problems
+        - Unexplained nature of the first episode results in anxiety once they enter same or similar surroundings, and thus resulting in another hurried escape
+    - <u>Subsequent course</u> - sequence of anxiety and avoidance recurs during the subsequent weeks and months, w/ panic attacks experienced in a growing number of places, resulting in increasing habit of avoidance developed
+    - <u>Effects on family</u>:
+        - Increasing dependent on partner or relatives for help of activities that may provoke anxiety (e.g. shopping)
+        - Consequent demands may lead to relationship difficulties
+        - Alternatively, overly involved partner results in difficulty in relinquish role which serves as a perpetuating factor of the illness
+- **Diagnostic conventions:**
+    - Most but not all patients w/ agoraphobia have panic attacks which may be situational or spontaneous
+    - In DSM-5, often both a diagnosis of agoraphobia and panic disorder is given, which differs from ICD-10 conventions
+- **DSM-5 diagnostic criteria of agoraphobia:** 
+![](../img/dsm_5_diagnostic_criteria_agoraphobia.png)
+- **Differential diagnoses of agoraphobia:**
+    - <u>Social phobia</u> - occurs in similar situations but is characterised by accounts where the patient fears scrutinised in a social setting
+    - <u>Generalized anxiety disorder</u> - when agoraphobia is severe where anxiety is provoked in so many situations, it may resemble GAD, but can be differentiated longitudinally
+    - <u>Panic disorders</u> - patients may meet criteria for both as agoraphobia often includes panic attacks
+    - <u>Depressive disorder</u> - identification of the order of Sx allows better delineation
+    - <u>Paranoid disorders</u> - the diagnosis is unvealed through thorough mental state examination, which generally uncovers delusions of persecution or reference
+- **Epidemiology:**
+    - <u>Prevalence</u> - variable based on diagnostic criteria used
+    - <u>Demographic</u>:
+        - Age - usual age of onset around early twenties or mid thirties
+        - Sex - female preponderance (F:M = 2-3:1)
+- **Principles of etiology** - requires explaining:
+    - The onset of the first panic/ anxiety attack
+    - Spread and recurrence of attacks over weeks or months
+- **Theories of onsset:**
+    - <u>Cognitive hypothesis</u> - anxiety attack develops because person is unreasonably afraid of some aspect of the situation or of certain physical symptoms that are experienced in the situation, but it is not known whether such fear is present before onset
+    - <u>Biological theory</u> - chance environmental stimuli acting on an individual who is constitutionally predisposed to over-respond with anxiety:
+        - Constitutional predisposition based on the fact that relatives of probands w/ agoraphobia are also at increased risk of anxiety disorders
+        - ?Chance environmental stimuli provoked excessive fear to eliminate threats
+    - <u>Psychoanalytic theory</u> - initial anxiety is caused by unconscious mental conflicts related to unacceptable sexual or aggressive impulses
+- **Theories of spread and maintenance:**
+    - <u>Learning theories</u> - condition account for association of anxiety w/ increasing number of situations, and avoidance learning could account for subsequent avoidance of these situations
+    - <u>Personality</u> - dependent personality trait, and also more avoidant when confronting problems, possibly arising from overprotection in childhood
+    - <u>Family influences</u> - clinical observation suggests symptoms often proloned by over-protective attitudes of family members but this feature is not found in all cases
+- **Prognosis:**
+    - <u>Duration</u> - usually a chronic disease, where most Sx that persist for 1y is predicted to remain in the next 5y (although short-lived cases exist)
+    - <u>Psychiatric comorbidities</u> - depression
+- **Treatment:**
+    - <u>Psychological Tx</u> - exposure treatment, CBT
+    - <u>Pharmacological Tx</u> - anxiolytic for temporary use, low-dose AD

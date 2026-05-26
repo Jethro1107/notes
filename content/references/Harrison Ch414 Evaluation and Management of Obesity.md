@@ -1,0 +1,91 @@
+---
+type: literature
+tags:
+---
+# Ch414 Evaluation and Management of Obesity
+
+## Evaluation
+
+- **Approach to evaluation of obesity:**
+	- 1) Focused obesity-related history including lifestyle questions about diet, physical activity, sleep, and stress
+	- 2) Physical examination to determine degree and type of obesity
+	- 3) Assessment of complications and comorbid conditions
+	- 4) Assessment of the patient's readiness to enage in weight management
+- **Terminology to use when taking an obesity-related Hx:**
+	- _Terms to avoid_ - avoid terms that are highly charged, and emotive, which leaves patients feeling judged and blamed:
+		- Obesity and overweight
+		- Morbid obesity
+		- Fatness
+	- _Terms to utillise_ - neutral terms:
+		- Weight or excess weight
+		- Unhealthy weight
+		- High BMI
+- **7 questions to answer from an obesity-focused Hx:**
+	- 1) What factors contribute to the patient's weight gain and obesity?
+	- 2) How is obesity affecting the patient's health?
+	- 3) What is the patient's level of risk from obesity?
+	- 4) What does the patient find difficult about managing weight?
+	- 5) What are the patient's goals and expectations?
+	- 6) What is the patient's motivation to begin a weight management program?
+	- 7) What kind of help does the patient need?
+- **Salient points of Hx:**
+	- **HPI** - onset, duration, quantification, association w/ diet, appetite and physical activity:
+        - <u>Onset and duration</u> - when has recent weight changes started?
+        - <u>Quantification</u> - Exactly how much weight is gained and for how long?
+        - <u>Associations</u> - evaluation of factors that contribute to obesity and identify behavioural targets for Tx:
+            - Diet - requires a careful dietary Hx (see below) as some deny overeating or underestimate their food intake
+            - Appetite - change in appetite is a/w pathological causes (e.g. hypothyroidism)
+            - Physical activity - quantify level of physical activity
+            - Sleep - addressing regularity, duration, and satisfaction for any evidence of sleep deprivation
+            - Stress - may contribute to obesity and as a way to explore psychosocial aspects
+    - **Careful dietary Hx:**
+        - Tell me in detail what you ate yesterday
+        - Whats a normal meal for you like?
+        - Tell me about snakes, soft drinks and alcohol
+- **Secondary obesity** - consider endocrinological causes:
+	- Cushing's syndrome
+	- Hypothyroidism
+	- Hypopituitarism/ Hypothalamic disorders
+	- Polycystic ovarian syndrome (PCOS/ PMOS)
+- **Drug-induced obesity:**
+	- _Anti-diabetic medications_ - sulfonylureas, thiazolidinediones, insulin
+	- _Steroids_ - glucocorticoids
+	- _Psychiatric medications_:
+		- Antidepressants - TCAs, MAOIs, paroxetine, mirtazapine
+		- Mood stabilisers - lithium, valproate, carbamazepine
+		- Antipsychotic agents (esp. SGA) - olanzapine, risperidone, clozapine
+- **Correlating sleep disturbances and obesity** - sleep deprivations is independently a/w increased risk of obesity:
+	- Mechanism is unclear
+	- Various associations w/ metabolic alterations in 1) appetite regulation, 2) sympathetic nervous system overactivity, 3) insulin sensitivity, and 4) change in circadian rhythm
+- **Correlation of stress and obesity:**
+	- In part due to activation of adrenal cortical axis resulting in hypercortisolism
+	- Further influences body weight due to impacts on emotional health and behaviours (e.g. stress eating)
+- **BMI** - measurement of size of individual but not body fat composition:
+	- Lower BMI thresholds in Asia-Pacific regions as population appears to be at risk for glucose and lipid abnormalities at lower body weights
+	- ![[Pasted image 20260517154458.png]]
+- **Weight circumference and waist-to-hip ratio** - proxy for excess abdominal fat and is independently a/w risk of metabolic syndrome, DM, and CVD:
+	- Waist circumference measured at the horizontal plane above the iliac crest, in individuals w/ BMI <= 35 kg/m2
+	- ![[Pasted image 20260517154636.png]]
+- **Obesity-associated complications and comorbid conditions** - evaluation based on 1) presentation of Sx, 2) risk factors, and 3) index of suspicion:
+	- ![[Pasted image 20260517154751.png]]
+- **Risk assessment** - although number of complications increases w/ severity of obesity, risk assessment based further on risk stratification systems:
+	- _Medical model_ - obesity disease staging system (AACE) based on 1) ethnicity-specific BMI cut offs, and 2) number of/ and severity of complications
+	- _Bio-psychosocial  model_ - Edmonton Obesity Staging System (EOSS) stratifies patients into 5 graded categories based on morbidity and health risk profiles along 3 domains **independent of BMI**
+- **Obesity Disease Staging System by the American Association of Clinical Endocrinology:**
+	- ![[Pasted image 20260517155316.png]]
+- **Assessing the patient's readiness to change** - motivational interview:
+	- Readiness as the balance of two opposing forces: 1) motivation, and 2) resistance
+	- The two forces can act on various domains including 1) life events, 2) psychiatric status, 3) social support, 4) time constraints etc.
+
+## Treatment of Obesity
+
+- **Goals of Tx** - initial weight loss goal of 8-10% over 6 mo as a realistic target:
+	- _Secondary prevention_ - reducing the risk of developing future obesity-related complications
+	- _Tertiary prevention_ - improving obesity-related complications and comorbid connditions
+- **Factors influencing intensity of Tx** - determined by shared decision-making:
+	- _Physician factors_ - available resources, patient risk status
+	- _Patient factors_ - expectations, personal values
+- **Modalities of Tx of obesity:**
+	- ![[Pasted image 20260517180702.png]]
+- **Anti-obesity medications:**
+	- ![[Pasted image 20260517180903.png]]

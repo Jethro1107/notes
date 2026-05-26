@@ -1,0 +1,129 @@
+---
+id: 16397A5E-1695-4753-BEB1-D1F342FA87DB
+roam_parent: c7026d4b-2cb0-4fb0-a526-a6d017e49259
+title: Primary Minerocorticoid Excess
+---
+
+# Primary Minerocorticoid Excess
+
+- **Definition** - a state of excessive stimulation of the minerocorticoid levels despite normal volume status, as a cause of fluid retention, and a state of hypokalaemic hypertension or drug-resistant hypertension
+- **Epidemiology:**
+    - <u>Prevalence</u> - up to 5-12% in general population seen in certain studies
+    - <u>Subpopulation</u> - more likely to be seen in those w/:
+        - Hypokalaemic hypertension
+        - Drug-resistant hypertension
+- **Etiology of excessive minerocorticoid stimulation** - requires differentiation between primary and secondary hyperaldosteronism:
+    - **Primary hyperaldosteronism** (low renin, high aldosterone) - intrinsic abnormality of the adrenal cortex (e.g. adenoma, bilateral adrenal hyperplasia) resulting in **autonomous secretion of Ald** and subsequent suppression of RAAS:
+        - <u>Aldosterone-producing adenoma</u> (APA; Conn's syndrome) - minority of patient w/ primary hyperaldosteronism, where secretion is ACTH dependent
+        - <u>Idiopathic bilateral hyperplasia</u> - majority of patients w/ primary hyperaldosteronism, where secretion is AngII dependent
+        - <u>Glucocorticoid-suppresible hyperaldosteronism</u> - rare AD condition caised by ectopic production of Ald in adrenal fasciculata/ reticularis in response to ACTH
+    - **Secondary hyperaldosteronism** (high renin, high aldosterone) - **enhanced activity of RAAS** due to 1) hypovolaemia, 2) hypotension, or 3) reduced renal perfusion:
+        - <u>Arterial underfilling/ reduced renal perfusion</u> - diuretic therapy, heart failure, cirrhosis, nephrotic syndrome, renal artery stenosis
+        - <u>Renin-secreting tumour</u> - rare tumour of renal origin
+    - **Non-aldosterone dependent activation of minerocorticoid pathway** (low renin, low aldosteronism) - activation of MR receptors in a non-aldosterone-dependent fashion:
+        - <u>Congenitial</u>:
+            - Liddle syndrome
+            - Syndrome of apparent minerocorticoid excess (11-beta HSD2 deficiency)
+            - Rare forms of CAH
+        - <u>Neoplastic and paraneoplastic</u> - Ectopic ACTH syndrome, 11-deoxycorticosterone secreting adrenal tumour
+        - <u>Drug-induced</u> - liquorice misuse (11-beta HSD2 inhibitor)
+
+  
+  ![](../img/causes_of_mr_excess.png)
+- **DDx of primary minerocorticoid excess** - traditional subtypes include 1) unilateral Conn's adenoma, or 2) bilateral micronodular adrenal hyperplasia, but likely a spectrum of disease in between two forms: 
+![](../img/causes_of_primary_minerocorticoid_excess.png)
+- **Glucocorticoid-remediable aldosteronism** (GRA) - type 1 familial primary aldosteronism:
+    - **Genetics and pathophysiology of GRA:**
+        - <u>Crossing over of promotor sequences of CYP11B1 and CYP11B2</u> - chimeric gene in a sence that promotor region for CYP11B1 (ACTH-responsive) controls expression of CYP11B2 (necessary for aldosterone synthesis)
+        - <u>ACTH-controlled aldosterone secretion</u> - rather than normal influence by renin
+        - <u>Glucocorticoid-suppressibility</u> - glucocorticoid mediated suppression of ACTH can subsequently suppress aldosterone
+    - **Inheritence of GRA** - evidence of <u>autosomal dominant</u> transmission pattern of HTN
+    - **Clinical manifestation and significance of GRA** - recognition is important as often manifest as:
+        - Young HTN
+        - Young stroke
+    - **Ix** - hybrid steroids (18-oxycortisol and 18-hydroxycortisol):
+        - High levels due to presence of both CY11B1 and CYP11B2 in the same steroidogenic cells
+        - However may be mimicked by Conn's adenoma harboring somatic KCNJ5 mutations or germline KCNJ5 mutations (Type 3 familial primary hyperaldosteronism)
+    - **Mx** - glucocorticoids
+- **Excessive MR activation due to cortisol:**
+    - <u>Effects of 11-beta-hydroxysteroid dehydrogenase type 2</u> - efficient inactivation to cortisone in the kidney to **prevent MR stimulation by cortisol**
+    - <u>Conditions a/w activation of MR by steroid other than aldosterone</u>:
+        - **Syndrome of apparent mineralcorticoid excess** (SAME) - caused by inactivating mutation of HSD11B2 gene, resulting in **severe hypokalaemic hypertension in childhood**, while milder mutations can cause normokalaemic hypertension in adulthood (type II SAME)
+        - **Locorice ingestion** - results in inhibition of 11-beta-HSD2
+        - **Severe Cushing's syndrome** - cortisol excess overwhelms 11-beta-HSD2 conversion capacity and direcly stimulates MR
+        - **DOC elevation** (11-deoxycortisone) - not inactivated by 11-beta-HSD2 as in ACC, but as a result of CAH due to CYP11B1 or CYP17A1 deficiencies
+        - **Progesterone-induced HTN** - MR mutations that enhance binding and activation by progesterone (normally antiminerocorticoid activity)
+        - **Liddle syndrome** - reduced internalisation and degradation of ENaC due to disrupted interaction w/ Nedd4
+- **Clinical manifestation of excssive activation of MR** - related to 1) Na retention resulting in explansion of extracellular and intravascular volume, and 2) K and H+ depletion:
+    - **Effects of Na and fluid retention:**
+        - <u>Hypertension</u> - as a result of fluid retention and expansion of intravascular volume, but never accelerated due to "aldosterone escape"
+        - <u>Peripheral oedema</u> - ocassionally causes pedal oedema in some cases
+        - <u>Target organ damage</u> - due to myocardial remodelling and impact of renal parenchyma secondary to HTN
+    - **Effects of K and H+ depletion:**
+        - <u>Hypokalaemia</u> - although hypoK HTN only occurs in 10-40% of patients w/ primary hyperaldosteronism, where chronic severe arrhythmias poses a theoretical risk of 1) 1) hypokalaemic nephropathy and nephrogenic DI, 2) IGT, 3) overt proximal myopathy, 4) tachyarrhythmias, 5) rhabdomyolysis, and 6) periodic paralysis
+        - <u>Alkalosis</u> - theoretically can result in **functional hypocalcaemia** resulting to carpopedal spasms +/- laryngeal spasms
+- **Associated conditions** - patients w/ primary hyperaldosteronism show increased rates of:
+    - Osteoporosis
+    - Type 2 diabetes mellitus
+    - Cognitive dysfunction
+    - Mild autonomous cortisol secretion/ MACS ("Connshing syndrome")
+- **Indications for diagnostic screening for mineralcorticoid excess** - only recommended for selected hypertension patients:
+    - Young HTN (onset \< 40y)
+    - Drug-resistant HTN
+    - Hypokalaemic HTN
+    - HTN associated w/ incidental finding of adrenal mass
+    - FHx of primary hyperaldosteronism in 1st-degree relatives (or FHx of young HTN or cerebrovascular events \< 40y)
+- **Approach to evaluation of patient w/ suspected mineralcorticoid excess:** 
+![](../img/mx_of_patient_with_suspected_minerocorticoid_excess.png)
+    - <u>Supportive measures</u> - correction of K by **K supplementation**, and **salt restricted diet**
+    - <u>Screening by ARR</u> - requires 1) correction of plasma K, and 2) cessation of all anti-hypertensives (or in severe HTN at least MRA) 4-6 weeks
+    - <u>Diagnostic evaluation of minerocorticoid excess</u> - by salt loading either through saline infusion, oral sodium loading, or fludrocortisone suppression test
+    - <u>Evaluation of cause</u> - CT adrenals +/- adrenal venous sampling
+- **Aldosterone-renin ratio** (ARR) - first-line <u>screening test</u> by measurement of serum aldosterone and plasma renin activity (PRA):
+    - <u>Precautions for measurement of ARR</u>:
+        - Correction of hypoK (K modulates release of aldosterone and may cause false -ve)
+        - Cessation of all antihypertensives for 4-6 weeks prior to ARR measurements (or at least MRA in severe HTN)
+    - <u>Effects of antihypertensives on ARR</u>: 
+    ![](../img/effects_of_medication_and_other_conditions_on_arr.png)
+    - <u>Positive ARR screening</u>:
+        - International guidelines define as \> 750 pmol/L per ng/ml/h w/ an inappropriately normal or high aldosterone level
+        - Lower ARR may be used to increased Sn to detect milder cases of primary hyperaldosteronism
+    - <u>Limitations of ARR</u>:
+        - Setting of extremely low PRA
+        - Interference w/ drugs and other comorbid conditions (see above)
+        - Variable characteristics of tests
+    - <u>Approach to equivocal results</u>:
+        - Consider interferring drugs or conditions
+        - Correct reversible conditons (e.g. cessation of other antihypertensives) and repeat testing at 2-4 weeks
+- **Saline infusion test** - for diagnostic evaluation of primary hyperaldosteronism:
+    - <u>Principle</u>:
+        - Salt and volume overload would normally inhibit renin secretion and thus aldosterone secretion
+        - Failed suppression of Aldosterone suggests autonomous production
+    - <u>Procedure</u>:
+        - IV infusion of 2L physiological saline over 4h
+        - Measure Ald levels at end of the test
+    - <u>+ve results</u>:
+        - Ald \< 170 pmol/L in sesated position
+        - Ald \< 140 pmol/L in recuumbent position
+- **Other diagnostic tests** - not preferred as capable of causing profound hypokalaemia and increased HTN:
+    - Oral sodium loading test - 300 mmol NaCl/d for 3d
+    - Fludrocortisone suppression test - 0.1 mg q6h w/ 30 mmol NaCl q8h for 4d
+- **Approach to evaluation of cause:**
+    - <u>Fine cut CT adrenals</u> - identification of unilateral masses but may miss lesions \< 5mm
+    - <u>Dynamic testing</u> - postural test or captopril test for evaluation of the cause of primary hyperaldosteronism
+    - <u>Adrenal venous sampling</u> - indicated only for surgical candidates either w/ non-specific CT findings or patients \> 35y w/ unilateral mass to r/o presence of non-functional adrenal adenoma
+    - <u>C-11 metomidate PET-CT</u> - new, non-invasive alternative to AVS
+- **Adrenal venous sampling** - used to compare aldosterone levels in the inferior vena cava and between the right and left adrenal veins:
+    - <u>Procedure</u>:
+        - Catheterisation of IVC, and both adrenal veins
+        - Ensure correct placement of catheters in adrenal veins by **cortisol gradient** of \> 2-3 in baseline conditions between the vena cava and each adrenal gland
+        - Measurement of aldosterone levels in both adrenal veins
+    - <u>+ve results</u> - lateralisation confirmed by:
+        - Ald/cortisol ratio at least two-fold higher on one side than the other
+- **Dx of non-aldosterone-related mineralcorticoid excess:**
+    - Presence of hypokalaemic hypertension
+    - Suppressed renin and suppressed aldosterone in urinary steroid metabolite profiling by gas chromatography/ mass spectrometry (GC/MS)
+    - Elevated serum cortisol: serum cortisone ratio suggestive of SAME
+    - Steroid profiling by GC/MS to detect DOC secretion in DOC-producing ACC or CAH a/w CYP11B1 or CYP17A1 deficiency
+    - Normal GC/MS profile is suspicious for Liddle's syndrome
+- **Mx** - dependent on underlying cause (see details in notes on primary hyperaldosteronism)

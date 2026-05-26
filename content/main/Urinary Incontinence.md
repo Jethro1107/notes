@@ -1,0 +1,114 @@
+---
+id: 3d667a7c-dd9e-4754-8dac-fa7171ae2bd6
+title: Urinary Incontinence
+---
+
+# Urinary Incontinence
+
+- **Definition** - International continence sosciety (ICS) defines urinary incontinence as condition where <u>involuntary loss of urine</u> is a social or hygienic problem and is <u>objectively demonstrable</u>
+- **Epidemiology:**
+    - Sex - F (20%) \> M (5%)
+    - Increasing incidence w/ age - up to 40% of F \> 60y, 50% of institutionalised elderly patients experience regular episodes of urinary incontinence
+- **Physiology of urinary continence** - see details in notes on physiology:
+    - **Storage phase** - progressive increase in intravesicle volume without changes in vesicle pressure:
+        - <u>Sphincter contraction</u> - sphincter tone gradually increases to prevent leakage of urine
+        - <u>Compliance of urinary bladder</u> - bladder distends as urine fills, resulting in **non-significant changes in vesicle pressure, detrusor pressure, or intra-abdominal pressure**
+    - **Voiding phase** - synchronous increase in intravesicle pressure w/ sphincter relaxation to enable continuous flow of urine from bladder until empty:
+        - <u>Detrusor contraction</u> - contraction of detrussor muscles results in **increased detrusor pressure**, and hence **increased vesicle pressure**
+        - <u>Abdominal straining</u> - patient's with bladder outlet obstruction (BOO) may requires abdominal straining to **increase intra-abdominal pressure**, to enable sufficient rise in vessicle pressure
+        - <u>Sphincter relaxation</u> - coordinated decrease in sphincter tone is necessary for urine to empty from the bladder
+- **Confounding factors of incontinence:**
+    - <u>Excessive urine production</u> - e.g. DM, use of diuretics, alcohol, caffeine
+    - <u>Functional limitations</u> - dementia, reduced mobility
+- **Types of urinary incontinence:**
+    - **Stress incontinence** - occurs as a result of weak pelvic floor support or a weak sphincter:
+        - <u>Pathophysiology</u>:
+            - Passive bladder pressure exceeds urethral pressure resulting in leakage of urine
+            - Especially during periods of **increased intra-abdominal pressure**, e.g. cough, straining, sneezing
+        - <u>Epidemiology and common etiology</u> - more frequent in women:
+            - Women - frequently seen after childbirth
+            - Male - rare, but may occur following prostate surgery
+    - **Urge incontinence** - often as a result of detrusor overactivity (DOA):
+        - <u>Pathophysiology</u> - hypersensitive bladder:
+            - Bouts of **increased detrussor pressure**, resulting in increased vesicle pressure overcoming the urethral sphincter
+        - <u>Etiology</u> - increased incidence w/ age, and w/ Hx of neurological disease:
+            - Idiopathic - usually a/w increased age
+            - Neurological deficits - e.g. spina bifida, multiple sclerosis
+    - **Continual incontinence** - continuous flow of urine due to bypass of the urinary sphincter via the fistula:
+        - <u>Pathophysiology</u> - presence of a fistula
+        - <u>Etiology</u> - vesicovaginal/ ureterovaginal fistula complicating:
+            - Gynaecological surgery
+            - Gynaecological malignancy
+            - Post-radiation
+            - Prolonged obstructed labour
+    - **Overflow incontinence** - chronically over-distended and leakage of excessive urine owing to increased vesicle pressure:
+        - <u>Pathophysiology</u> - increased vesicle pressure as a result of an over-distended bladder
+        - <u>Etiology</u> - 1) bladder outlet obstruction, 2) atonic bladder:
+            - Bladder outlet obstruction - e.g. BPH, bladder neck stenosis
+            - Atonic bladder - e.g. idiopathic, iatrogenig damage to pelvic nerves (e.g. hysterectomy/ rectal surgery), trauma, infection, cauda equina syndrome
+    - **Post-micturation dribble** - small amounts of dribbling after seemingly emptied bladder:
+        - <u>Pathophysiology</u> - small amounts of urine trapped within the lower urinary tract
+        - <u>Etiology</u>:
+            - Physiological (in young men where urine trapped in U-bend of bulbar urethra)
+            - Urethral diverticulum
+- **Salient points of Hx** - patients asked to keep voiding diary:
+    - **HPI** - age, onset, quality, timiing, severity:
+        - <u>Onset and duration</u> - acute vs chronic
+        - <u>Quality and timing</u> - characterisation of incontinence:
+            - **a/w urgency** - incontinence preceded by a sense of urgency
+            - **a/w increased intra-abdominal pressure** - oncinence produced by coughing, sneezing, exertion, or on demonstrated on examination of perineum
+    - **Associated Sx:**
+        - <u>LUTS</u> - baseline for lower urinary tract Sx
+        - <u>Neurological Sx</u> - e.g. LL weakness, asymetrical sensory deficits
+        - <u>Bowel Sx</u> - constipation as a cause of incontinence
+    - **Obstetrics Hx** - e.g. multiple births and details of births
+    - **PMH:**
+        - <u>DM</u> - as an exacerbating factors due to excess urine output
+        - <u>Neuroglocal disease</u> - e.g. CVA, parkisonism, MS etc.
+    - **Drug Hx** - detailed to causes of urge, overflow, and occassionally stress incontinence:
+        - <u>Drugs a/w overflow incontinence</u>:
+            - Anticholinergics
+            - Alpha agonists/ beta agonists
+            - Sedatives/ antideppressants
+        - <u>Drugs a/w urge incontinence</u> - diuretics
+        - <u>Drugs a/w stress incontinece</u> - ACEi (cough)
+    - **Past surgical Hx** - especially for past spine surgery, gynaecological surgery, or prostatectomy in men
+    - **Social Hx** - address lifestyle for confounding factors:
+        - Smoking
+        - Alcohol
+        - Caffeine
+- **Void diary** - should contain:
+    - Fluid intake
+    - Volume voided
+    - Frequency of voiding
+    - Precipitating factors
+    - Associated features
+- **P/E:**
+    - **Assessment of mental status** - dementia, delirium are causes of functional incontinence
+    - **Assessment of mobility** - note mobility (e.g. gait, walk with stick, chair bound) to assess whether reduced mobility results in functional incontinence
+    - **Abdominal examination** - palpable bladder/ mass
+    - **Neurological examination** - LMN pattern asymmetrical LL weakness and variable sensory involvement for cauda equina syndrome
+    - **DRE:**
+        - <u>Detection of mass</u> - fecal impaction and rectal mass may result in urinary incontinence
+        - <u>Assessment of prostate</u> - prostatic pathologies may result in overflow incontinence
+        - <u>Assessment of neurological functions</u>:
+            - Anal tone
+            - Perianal sensation
+            - Bulbocarvenous reflexes (S2-4)
+    - **Examination of external genitalia:**
+        - <u>Men</u> - detection of phimosis, and paraphimosis
+        - <u>Women</u> - detection of vaginal mucosal atrophy, cystoceles, or rectoceles suggestive of stress incontinence
+- **Ix:**
+    - **Urine** - urinalysis and urine culture
+    - **Bloods** - RFT, FBG/ A1c
+    - **Additional Ix** - if Dx cannot be made on clinical grounds:
+        - <u>Uroflowmetry</u> - to characterise flow rate
+        - <u>Urodynamic studies</u> - to characterise each type of incontinence
+        - <u>Post-micturation USG</u> - if suspecting <u>overflow incontinence</u> by detecting significant amount of fluid (\> 100 mL) post-micturation
+        - <u>IVU</u> - performed in patients w/ suspected continual incontinence
+        - <u>MRI</u> - if urinary diverticulum suspected result in post-micturation dribbling
+- **Mx:**
+    - **Principles of Mx** - dependent to the predominant cause of incontinence:
+        - <u>Stress incontinence</u> - physiotherapy
+        - <u>Urge incontinence</u> - bladder retraining +/- pharmacological therapy for OAB, or surgical Mx
+        - <u>Overflow incontinence</u> - may require long-term catheterisation

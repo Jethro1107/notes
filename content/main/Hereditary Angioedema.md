@@ -1,0 +1,40 @@
+---
+id: ee6c713f-b628-44bc-8643-0d0e8df62002
+title: Hereditary Angioedema
+---
+
+# Hereditary Angioedema
+
+- **Definition** - autosomal dominant disorder caused by decreased production or activity of C1 inhibitor protein
+- **Physiological role of C1 inhibitor:**
+    - <u>Regulatory protein for the complement cascade</u> - inhibits spontaneous activation of the classical complement cascade
+    - <u>Regulatory protein in the kinin cascade</u> - inhibits bradykinin expression
+- **Pathophysiology of HAE** - pathogenic process may be spontaneous or triggered by local trauma or infection:
+    - <u>Decreased production or activity of C1 inhibitor</u> - resulting in local bradykinin accumulation
+    - <u>Increased local bradykinin levels</u> - results in:
+        - Stimulation of pain receptors - local pain
+        - Vasodilation and increased vascular permeability - local swelling
+- **Common sites affected by HAE:**
+    - Face
+    - Extremities
+    - Upper airways (laryngeal oedema is often triggered by minor dental procedures and are often fatal)
+    - GI tract
+- **Clinical features of HAE** - first episode typically in adolescence, but may go undiagnosed for years:
+    - **Angioedema** - usually self-limiting, not a/w wheals, precipitated by local tissue damage or spontaneously, takes around 48h to resolve
+    - **Additional clinical features** - dependent of site of infection:
+        - <u>Abdominal pain</u> - oedema of the intestinal wall may result in obstruction or severe ischaemia
+        - <u>Facial swelling</u> - angioedema of the faces, particularly the lips and tongue
+
+    
+    ![](../img/facial_swelling_during_hae.png)
+- **Ix:**
+    - **C4** - characteristically low in acute episodes
+    - **C1 inhibitor measurement** - low levels is diagnositic of HAE
+- **Mx:**
+    - Purified C1 inhibitor or bradykinin receptor antagonist (icatibant) for severe attacks
+    - Danazol (modified androgens) for disease remission
+- **Acquired C1 inhibitor deficiency** - clinically indistinguishable from HAE:
+    - <u>Definition</u> - acquired decreased production or activity of C1 inhibitor protein
+    - <u>Etiology</u> - a/w immune dysregulation:
+        - Autoimmune disorders
+        - Lymphoproliferative disorders

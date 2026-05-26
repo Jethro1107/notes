@@ -1,0 +1,72 @@
+---
+id: d254b30e-2d5b-4b64-8517-ac5298482907
+title: Primary Sclerosing Cholangitis
+---
+
+# Primary Sclerosing Cholangitis
+
+- **Definition** - autoimmune cholestatic liver disease caused by diffuse inflammation and fibrosis of the entire biliary tree ersulting in gradual obliteration of the intrahepatic and hextraheptic ducts, and ultimately biliary cirrhosis and liver failure
+- **Epidemiology:**
+    - <u>Incidence</u> - 6.3/100,000/y in Caucasians
+    - <u>Demographic</u> - presentation at 25-40y, but theoretically at any age, male preponderance (M:F = 2:1)
+- **Clinical associations of PSC** - autoimmune basis not as strong as AIH or PBC, but a/w manny organ-specific autoimmune disease: 
+![](../img/diseases_aw_primary_sclerosing_cholangitis.png)
+    - <u>Inflammatory bowel disease</u> - 3-10% of UC develop PSC (esp. if extensive or pancolitis) while \< 1% of CD develop PSC (N.B. UC and PSC significantly increase risk of CRC, and CRC significantly increases risk of CC)
+    - <u>Autoimmune thyroid disease</u> - e.g. Riedel's thyroiditis
+    - <u>Autoimmune pancreatitis/ IgG4-associated cholangitis</u>
+- **Pathophysiology of PSC:**
+    - <u>Infective or toxic exposure in a genetically susceptible individuals</u> - close link w/ HLA haplotype A1 B8, DR3, DRW52A (which is also a/w other organ-specific autoimmune disease)
+    - <u>Immunological factors</u> - autoantibodies non-specific to PSC have been described (e.g. ANCA)
+    - <u>Chronic inflammation and fibrosis of entire biliary tree</u> - results in characteristic generalised beading and stenosis visualised on cholangiography
+- **Clinical presentation of PSC:**
+    - **Asymptomatic** - Dx made on raised ALP/GGT on routine ALP in an individual with ulcerative colitis
+    - **Intermittent obstructive jaundice** - non-progressive, intermittent tea-colour urine, pale stools, and pruritis
+    - **Constitutional Sx** - e.g. fatigue, weight loss
+    - **Abdominal pain** - non-specific RUQ pain
+    - **Complications:**
+        - <u>Cirrhosis and liver failure</u> - late stage of disease
+        - <u>Colorectal carcinoma</u> - esp. w/ positive Hx of UC and PSC
+        - <u>Cholangiocarcinoma</u> - occurs in 10-30% of patients during course of disease
+- **Signs of PSC** - abnormal findings in 50% of symptomatic patients:
+    - <u>General examination</u> - jaundice, features suggestive of other autoimmune disease (e.g. erythema nodosum, pyoderma gangrenosum in ulcerative colitis)
+    - <u>Abdominal examination</u> - hepatomegaly and splenomegaly (suggestive of biliary cirrhosis)
+- **Ix of PSC:**
+    - **Blood tests:**
+        - **LFT:**
+            - <u>Bilirubin</u> - elvated, but fluctuates for no apparent reason
+            - <u>Liver enzymes</u> - fluctuating cholestatic pattern (ALP and GGT elevated), with modest elevations of serum transaminase
+            - <u>Albumin</u> - hypoalbuminaemia is a late feature suggestive of biliary cirrhosis
+        - **Clotting profile** - elevated Pt suggestive of decompensated liver function
+        - **Autoimmune markers:**
+            - <u>ANCA</u> - elevated in 60-80% of patients (non-diagnostic), but only in 30-40% of patients with ulcerative colitis
+            - <u>ANA, Anti-SM</u> - low titres may be found but not diagnostic
+            - <u>AMA</u> - absence excludes PBC
+    - **Cholangiography** - MRCP, PTC +/- ERCP:
+        - <u>Diagnostic findings</u> - multiple irregular stricturing and dilatation along the entire biliary tree, resulting in a beading and stenotic appearance ![](../img/percutaneous_cholangiogram_of_psc.png) 
+        ![](../img/mrcp_vs_ercp_for_psc.png)
+        - <u>Role of ERCP</u> - not for diagnostic but only therapeutic, as biliary instrumentation may trigger attacks of acute cholangitis due to pre-dilectation to bile stasis and secondary infection
+    - +/- **Liver biopsy:**
+        - <u>Early features</u> - periductal 'onion-skkin' fibrosis and inflamamtion with portal oedema and ductular proliferation resulting in expansion of portal tracts 
+        ![](../img/liver_bx_psc.png)
+        - <u>Late features</u> - biliary cirrhosis or 'vanishing bile duct syndrome' (obliterative cholangitis)
+- **Dx criteria of PSC:**
+    - 1\. <u>Presence of characteristic cholangiographic findings</u> - generalised beading and stenosis of the biliary system on cholangiography
+    - 2\. <u>Rule out secondary sclerosing cholangitis</u> - r/absence of choledolithiasis or history of bile duct sturgery with stricturing and cholangitis 
+    ![](../img/causes_of_secondary_sclerosing_cholangitis.png)
+    - 3\. <u>Exclusion of Cholangiocarcinoma</u> (esp. dominant extrahepatic stricture) - by prolonged follow-up
+- **Mx** - no cure:
+    - **Principles of Mx:**
+        - <u>Mx of cholestasis</u> - e.g. UDCA to initiate bile flow
+        - <u>Mx of complications</u> - Tx bile sepsis in cholangitis +/- therapeutic ERCP if refractory biliary obstruction, fat-soluble vitamin deficiency, osteoporosis, cholangiocarcinoma
+        - <u>Mx of advanced disease</u> - surgical Tx
+            - Orthotopic liver transplantation - role in advanced liver disease (but risk of disease recurrence and CRC risk)
+    - **Mx of complications:**
+        - <u>Persistent biliary obstruction by 'dominant stricture'</u> (**r/o distal CC**) - ERCP with therapeutic balloon dilatation or plastic stenting
+        - <u>Bile sepsis secondary to acute cholangitis</u> - best medical care w/ broad-spectrum IV ABx
+        - <u>Vitamin deficiency</u> - fat soluble vitamin replacement may be necessary in jaundiced patients (esp. VitK)
+        - <u>Osteoporosis</u> - pharmacological Mx and lifestyle modification
+        - <u>Cholangiocarcinoma</u> - workup for MBO
+    - **Orthotopic liver transplantation** (5y survival 80-90%) - indicated in advanced liver failure (N.B. unresectable CC is C/I for LT as it counts as extrahepatic malignancy):
+        - <u>Complications speecific for PSC</u>:
+            - 1\. Disease recurrence in graft
+            - 2\. Increased risk of CRC - due to imunosuppression and enhanced surveillance is recommended

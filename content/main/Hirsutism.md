@@ -1,0 +1,60 @@
+---
+id: 0c98f9ed-911c-412c-82d7-d5757088f527
+title: Hirsutism
+---
+
+# Hirsutism
+
+- **Definition** - excessive growth of thick terminal hair in androgen-dependent distribution in women
+- **Epidemiology** - one of the most common presentations of endocrine disease
+- **Sites where terminal hair growth is androgen dependent:**
+    - Upper lip and chin
+    - Chest
+    - Back
+    - Forearm
+    - Lower Abdomen
+    - Thigh
+- **Associated features of hirsutism:**
+    - Acne vulgaris
+    - Excessive perspiration
+- **DDx of hirsutism:**
+    - <u>Idiopathic</u> - often familial especially of Mediterranean or Asian background
+    - <u>Congenital adrenal hyperplasia</u> - most often caused by 21-hydroxylase deficiency
+    - <u>Polycystic ovarian syndrome</u> - often a/w minor androgen excess and obseity
+    - <u>Exogenous androgen administration</u> - common in athletes for performance enhancement
+    - <u>Androgen secretory tumour</u> - rare, but should be considered w/ recent, rapid onset of hirsutism and virulisation
+    - <u>Cushing's syndrome</u> - mile elevations of adrenal androgens
+
+  
+  ![](../img/ddx_of_hirsutism.png)
+- **Salient points of Hx:**
+    - **HPI** - onset, progression, severity, associated features of hirsutism:
+        - <u>Onset</u> - recent onset w/ virilisation is suggestive of an androgen-secreting tumour but this is rare
+        - <u>Progression</u> - any progression of symptoms should point towards accumulative androgen exposure, and not idiopathic or PCOS
+        - <u>Severity</u> - degree of growth is subjective, as some women suffer from profound embarassment from a degree of hair growth which others would not deem remarkable
+        - <u>Associated features of hirsutism</u>:
+            - Acne vulgaris
+            - Excessive perspiration
+        - <u>Associated features of virilization</u> (may be assessed by P/E) - always pathological:
+            - Deepening of voice
+            - Male-pattern baldness
+            - Breast atrophy
+            - Clitoromegaly
+    - **Menstrual Hx** - irregular menses or recent amenorrhoea is a/w PCOS
+    - **Drug Hx** - including glucocorticoids, exogenous androgen administration
+- **P/E:**
+    - <u>General measures</u> - BMI, BP measurement, and examination for virulisation (see above)
+- **Ix:**
+    - **Hormone profile** - LH, FSH, testosterone, PRL:
+        - <u>Testosterone</u>:
+            - Mild elevation (\< 2x ULN) - idiopathic hirsutism or PCOS unlikely
+            - More-than-mild elevation (\> 2x ULN) - reflects a cause of androgen excess (esp. if LH, FSH suppressed)
+        - <u>LH, FSH</u>:
+            - Suppressed - points towards androgen excess
+            - Normal - may be seen in PCOS (LH:FSH \> 2.5:1)
+        - <u>PRL</u> - hyperprolactinaemia in PCOS
+    - **Short synathen test +/- 17OHP** - detection of congenital adrenal hypoplasia
+    - **Dexamethasone suppression test:**
+        - <u>Principles</u> - demonstration of non-suppressible androgen secretion (e.g. by ovarian or adrenal pathology) despite dexamethasone profision
+        - <u>+ve results</u> - testosterone levels remain high after dexamethasone suppression
+    - +/- **Imaging** - CT or MRI adrenals and ovaries

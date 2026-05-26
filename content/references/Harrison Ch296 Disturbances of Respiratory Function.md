@@ -1,0 +1,21 @@
+---
+id: 251D6DCE-43B8-4E8A-8080-0344969E9461
+title: Harrison Ch296 Disturbances of Respiratory Function
+---
+
+# Ch296 Disturbances of Respiratory Function
+
+- **Primary functions of the respiratory system** - gas exchange:
+    - Oxygenation of blood and elimination of carbon dioxide
+    - Occurs in the lung alveoli, where blood flowing through alveolar wall capillaries is separated from alveolar gas by an estremely thin membrane of flattened endothelial and peithelial cells
+- **Necessary factors for successful oxygenation of blood and removal of CO2:**
+    - Adequate minute ventilation to freshen alveolar gas
+    - Provide perfusion to individual alveoli in proportion to its ventilation
+    - Enable adequate diffusion of respiratory gases between alveolar gas and capillary blood
+    - Provide a reserve for several-fold increases in O2 demand or CO2 elimination
+
+## Ventilation
+
+## Gas Exchange
+
+## Pathophysiology

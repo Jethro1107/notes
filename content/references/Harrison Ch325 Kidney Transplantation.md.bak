@@ -1,0 +1,240 @@
+---
+id: B5800FD1-2A32-471F-A08E-149EADB2D8D6
+title: Harrison Ch325 Kidney Transplantation
+---
+
+# Ch325 Kidney Transplantation
+
+## Recent Activity and Results
+
+## Recipient Evaluation
+
+- **Principles of recipient evaluation:**
+  - Multidisciplinary approach involving medical, surgical, social, and psychological evaluations
+  - Identification of risk factors that prohibit transplantation or mandate treatment before proceeding
+  - Ensures appropriate use of limited organs
+- **Absolute contraindications to kidney transplantation:**
+  - Chronic illness that limits predicted survival for \< 2y
+  - Active malignancy
+  - Active infection
+  - Active substance abuse
+  - Psychosocial issues affecting adherence to the medical care
+- **Importance of cardiovascular risk assessment during perioperative and post-operative periods:**
+  - Evaluation for coronary artery disease, valvular heart disease, and heart failure is critical
+  - ESKD patients are already at a higher risk of MACE than the general population
+- **Considerations during medical evaluation of potential recipients:**
+  - <u>Age</u> - no official age limit w/ \> 20% of waitlisted candidates being \> 65y, however overall physical and cognitive function of candidates needs to be fully assessed
+  - <u>Cardiovascular risks</u> - thorough evaluation for CAD, valvular diseases, and HF, as ESRD patients are at high risks of adverse cardiovascular outcomes in perioperative and postoperative period
+  - <u>Hx of malignancy</u> - not absolute contraindication but should be treated to ensure cancer-free wait time to decrease risk of cancer recurrence
+  - <u>Screen for latent infections</u> - TB, HIV, HBV, HCV
+  - <u>Screening for preformed Ab through cross-match</u> - including natural Ab against ABO blood group, Ab against HLA class I (A, B, C), aor class II (DR, DQ, DP) Ag which can cause hyperacute rejection, detected through cross-matching of recipient serum w/ donor lymphocytes, w/ approaches of desensitisation now routinely performed aiming at removal of these Ab
+
+## Tissue Typing and Clinical Immunogenetics
+
+- **Donor Ag responsible for alloimmune response by the recipient** - highly polymorphic genes w/ many alleles may become an immunological target when there is mismatch between donor and recipient:
+  - <u>Human leukocyte antigen</u> (HLA) - all HLA expressed on chromosome 6 principally by leukocytes, where number of HLA Ag mismatches in A, B, DR loci correlates w/ worsening allograft survival
+  - <u>Non-HLA antigen</u>:
+    - ABO blood group - may be able of eliciting an alloimmune response due to presence of naturally occuring Ab
+    - Non-leukocyte Ag (e.g. LIMS-1 locus polymorphism) - usually expressed by endothelial cells, and requires prior exposure of Ag resulting in sensitisation, such that subsequent secondary exposure at time of transplantation may lead to an immune response refractory to Tx
+- **HLA typing:**
+  - Previously done through serological techniques, through mixing sera of recipient (which potentially contains anti-HLA Ab) w/ library of commercial leukocytes of known serotype
+  - Molecular typing of HLA by genomic sequencing is almost universally used
+
+## Donor Evaluation
+
+- **Types of donors:**
+  - Living donor
+  - Deceased donor
+- **"Unnecesary risk" experienced by the living donor:**
+  - Immediate surgical risk
+  - Long-term potential risk of developing kidney dysfunction prematurely (although no excessive increased risk of ESKD compared to genral population, still at elevated risks if compared w/ healthy non-donors)
+- **Living donor evaluation:**
+  - <u>Medical evaluation</u> - for hypertension, DM, proteinuria, w/ extended Ix if +ve FHx of T1DM (Anti-insulin Ab, Anti-islet cells Ab, OGTT), or if African-American Donors (APOL1 risk allele)
+  - <u>Surgical evaluation</u> - renal arteriography to reveal anatomical anomaly and assess size imbalance and laterality of donor kidneys
+  - <u>Social evaluation</u> - financial and non-financial conflicts of interest between donor and recipients
+- **Deceased-donor evaluation:**
+  - Malignancy
+  - Viral heaptitis and HIV
+- **Mechanisms of presensitisation** - presence of autoAb against donor Ag (either HLA- or non-HLA Ag) implies previous sensitisation:
+  - Blood transfusion
+  - Prior transplant
+  - Pregnancy
+  - Vaccination or infection (less common)
+- **Detection of presensitisation** - ?N.B. does not detect T cell-mediated rejections:
+  - <u>Cross-matching of recipient serum w/ donor lymphocytes</u> (by flow-cytometric or cytotoxic crossmatch assays) - donor T lymphocytes used as surrogate for class I HLA (HLA-A and -B); donor B lymphocytes used as a surrogate for class II HLA (HLA-DR and -DQ)
+  - <u>Eplet matching</u> - detection of eplet especially in class II HLA-DQ loci known important risk factor of acute rejection
+- **Approach to Mx of presensitisation:**
+  - <u>Desensitisation</u> - aimed at reducing level of anti-donor Ab using plasmapharesis +/- administration of IVIG w/ variable success
+  - <u>Kidney paired donnation programs</u> - swapping of living kidney programs so each recipient receives compatible transplant organ increasingly used
+
+## Immunology of Rejection
+
+- **T cell-mediated rejection** - recipient T lymphocyte responding to donor HLA expressed within transplant organ:
+  - <u>CD4+ T cell activation</u> - responds to class II (HLA-DR) incompatibility by proliferation and release of proinflammatory cytokines that influence subsequent B cell activation and CD8+ T cell activation
+  - <u>CD8+ T cell activation</u> - responds to class I (HLA-A, -B) incompatibility through direct and indirect pathways, in the presence of **co-stimulatory signals** (CD28 and CD80/86) resulting in **activation of calcineurin**, and upregulation of cytokines such as IL-2 and INF-gamma:
+    - IL-2 - stimulates target of rapamycin (TOR) and induces cellular proliferation in autocrine fashiion
+    - Cell-mediated cytotoxicity - release of granzymes and perforin and attack on target cells
+- **Antibody-mediated rejection** - caused by circulating Ab againsts donor (HLA or non-HLA) Ag:
+  - <u>B cell activation</u> - donor derived Ag drain into LN and activate an alloimmune response, resulting in production of criculating Ab (these may be preformed)
+  - <u>Follicular helper T cell</u> - role in promoting B cell differentiation into plasma cells
+  - <u>Effects of Ab against donor Ag</u> - mediating tissue injury through complement-dependent (peritubular deposition of C4d) and complement independent mechanisms
+
+
+![](../img/immunology_of_rejection_kidney_transplant.png)
+
+## Immunosuppressive Treatment
+
+- **Indications of immunosuppressive therapy** - indicated for all except:
+  - 1\. Living transplant from identical twins
+  - 2\. Theoretically selective simultaneous bone marrow-kidney transplant patients
+- **Classification of immunosuppressive therapy:**
+  - Induction agents (to prevent early rejection; mediating effects in a depleting or non-depleting manner)
+  - Maintenance agents (usually a combination of a calcineurin inhibitor and an antimetabolite +/- adjuvant steroid therapy)
+- **Induction agents:**
+  - <u>Depleting agents</u> - antithymocyte globulin (ATG), alemtuzumab (MAb against CD52)
+  - <u>Non-depleting agents</u> - IL-2R inhibitors (prophylaxis of hyperacute rejections)
+- **Maintenance therapy:**
+  - Usually a combination of <u>calcineurin inhibitor</u> (usu. tacrolimus), and an <u>antimetabolite</u> (usu. MMF) w/ or w/o early steroid withdrawal
+  - <u>Co-stimulatory blocking Ab</u> (e.g. Belatacept) used as alternative to long-term toxic CNI therapy
+  - <u>mTOR inhibitors</u> (e.g. sirolimus or everolimus) infrequently used as first-line maintenance immunosuppression
+
+  
+  ![](../img/maintenance_drugs_for_kidney_transplantation.png)
+- **Glucocorticoids:**
+  - <u>Indications</u> - used as both induction therapy and maintenance therapy w/ rapid tapering in post-operative period (due to undesirable effects on wound healing)
+  - <u>MOA</u> - reduced expression of IL-6 and IL-1 by macrophages
+  - <u>Dosing</u>:
+    - Induction therapy - MP 250-500 mg immediately before or at time of transplantation w/ rapid dose reduction to 20 mg within a week
+    - Maintenance therapy - P5-10 as a rule (consider discontinuation due to undesirable S/E)
+- **Azathioprine** - superceeded by MMF due to inferior immunosuppressive effects:
+  - <u>MOA</u>:
+    - Bioactivation into mercaptopurine, a thioguanine nucleotide
+    - Competitive inhibition for synthesis of DNA and RNA and hence T cell proliferation
+  - <u>Caution</u>:
+    - TPMT and NUD15 testing
+    - Caution w/ allopurinol owing to inhibition of xanthine oxidase
+  - <u>S/E</u> - bone marrow suppression
+- **Mycophenolic acid** - mycophenolate mofetil (MMF) or mycophenolic sodium):
+  - <u>MOA</u> - competitive inhibition for synthesis of DNA and RNA, resulting in inhibition of T cell proliferation
+  - <u>S/E</u>:
+    - GI disturbances (diarrhoea and cramps)
+    - Dose-related hepatotoxicity
+    - Marrow toxicity (lesser degree than AZA)
+- **Calcineurin inhibitors:**
+  - **Selection:**
+    - <u>Cyclosporine</u> - fungal peptide w/ potent immunosuppressive activity
+    - <u>Tacrolimus</u> (FK506) - fungal macrolidew/ similar action as cyclosporine, but enables once-daily dosing due to the presence of an extended-release formulation
+  - **MOA** - inhibition of calcineurin pathway, preventing T cell proliferation through release of <u>IL-2</u> and other proinflammatory cytokines (synergistice effect w/ antimetabolites)
+  - **Pharmacokinetics** - very narrow therapeutic window and frequent drug-drug interactions (metabolised by P450 C3A enzymes):
+    - <u>Increased level of CNI w/ inhibition of C3A enzymes</u> - ABx (e.g. erythromycin), antifungals (e.g. ketoconazole, fluconazole), non-DHP CCBs (ditiazem, verapamil)
+    - <u>Decreased levels of CNI w/ activators of C3A enzymes</u> - ASMs (e.g. phenytoin and carbamazepine)
+  - **S/E** - severe S/E, most importantly nephrotoxicity:
+    - CNI-related nephrotoxicity
+    - Gingival hyperplasia (more w/ cyclosporine)
+    - Hirsutism (more w/ cyclosporine)
+    - Hair loss (more w/ tacrolimus)
+    - Post-transplant DM (more w/ tacrolimus)
+    - HTN
+    - HL
+- **mTOR inhibitors:**
+  - **Selection:**
+    - <u>Sirolimus</u> - fungal macrolide w/ poorer bioavailability
+    - <u>Everolimus</u> - better bioavailability
+  - **MOA** - inhibition of mTOR signalling pathway, reducing IL-2 mediated paracrine activation of T cells
+  - **Indications** - may be preferred in transplant patients that develop malignancies (esp. recurrent skin malignancies):
+    - Used in conjunction w/ CNIs as adjuvant immunosuppression
+    - Used w/ MMF to avoid use of CNIs
+  - **S/E:**
+    - Mucositis (including stomatitis)
+    - GI disturbance
+    - Pneumonitis
+    - Poor wound healing (hence less preferable agents during perioperative period)
+- **Belatacept:**
+  - **MOA** - Fusion protein composed of Fc fragment of human IgG1 Ig and extracellular domain of CTLA-4:
+    - Binds to costimulatory ligand on APCs (CD80/86) preventing interaction w/ CD28 on Th cells
+    - Results in <u>T cell anergy and apoptosis</u>
+  - **Dosing and administration** - monthly IV infusion
+  - **Clinical efficacy** - Belatacept Evaluation of Nephrotoxicity and Efficacy as First-Line Immunosuppression Trial (BENEFIT):
+    - <u>Improved patient and graft survival</u> compared to patients treated w/ cyclosporine
+    - Likely <u>less nephrotoxicity</u>
+    - Higher short-term risks of <u>acute rejection</u>
+
+## Clinical Course and Management of the Recipient
+
+- **Perioperative period:**
+  - Adequate haemodialysis performed \<= 48h prior to surgery as needed to control serum K and prevent intra-operative and early post-operative cardiac arrhythmia
+- **Details of operations:**
+  - Graft kidney placed in recipient iliac fossa using a <u>retroperitoneal approach</u>
+  - Anastamosis between donor renal artery and recipient external iliac artery, and between donor renal vein to recipient external iliac vein
+  - Donor ureter anastomosed to recipient bladder mucosa
+  - Native kidney nephrectomy rarely performed less in cases of extremely enlarged polycystic kidney or chronic pyelonephritis
+- **When to expect urine production and return of renal function** - slow recovery or persistent oliguria should prompt allograft Bx to identify superimposed acute tubular injection:
+  - Urine production should occur immediately after anastamosis
+  - Especially as there is post-operative diuresis due to presence of some degree of acute tubular injury w/ ischaemic time
+  - Gradual fall of SCr as allograft starts to function w/ recovery usually occuring within 2 weeks (although may be as long as 6 weeks)
+- **Post-transplant care of the kidney recipient:** 
+![](../img/typical_algorithm_for_post-transplant_care_of_kidney_recipient.png)
+- **Clinical suspicion of acute rejection** - classical findings of fever, swelling, and tenderness over allograft rarely occurs:
+  - Rise in serum Cr w/ or w/o reduction in urine volume
+  - Especially when changes cannot be explained by other cause of functional deterioration (e.g. ATN, CNI toxicity, BK nephropathy, recurrent glomerular diseases)
+- **Evidence of acute rejection** - allograft Bx shows:
+  - <u>Acute T cell-mediated rejection</u> - presence of immune cell infiltrates in the interstitial, tubular, or vascular components according to **Banff classification**
+  - <u>Acute Ab-mediated rejection</u> - presence of endothelial injury and C4d deposition in peritubular capillaries, accompanied by detection of circulating donor-specific Ab
+- **Mx of acute rejection:**
+  - <u>Mx of acute T cell-mediated rejection</u> - pulse MP 500-1000 mg/d for 3d +/- ATG
+  - <u>Mx of acute Ab-mediated rejection</u> - plasmapharesis, IVIG +/- B cell depleting agents (e.g. rituximab or bortezomib)
+- **Major causes of death in the kidney transplant infections:**
+  - Cardiovascular events (28%)
+  - Infections (18%)
+  - Malignancy (17%)
+- **Opportunistic infections in renal transplant recipients** - different causes based on time lag from transplant:
+  - <u>Peri-transplant period</u> (\< 1 mo) - wound infections, herpesvirus, oral candidasis, UTIs
+  - <u>Early post-transplant period</u> (1-6 mo) - pneumocystis carinii (septrin prophyaxis for 6 mo), legionella, listeria, CMV (gancyclovir prophylaxis), HBV, HCV
+  - <u>Late post-transplant period</u> (\> 6 mo) - aspergillus, nocardia, BK virus, herpes zoster, HBV, HCV
+
+  
+  ![](../img/common_opportunistic_infections_post_renal_transplant.png)
+- **CMV infections** - serious complication after kidney transplantation:
+  - <u>Epidemiology and burden</u> - accounts for increased morbidity and mortality in kidney transplant recipients:
+    - Most commonly occurs in 1-6 mo post transplant, but may be delayed
+    - Accounts for increased morbidity and mortality in kidney transplant recipients
+  - <u>Risk factors</u> - all immunosuppressed individuals affected (risk highest theoretically in sero-ve recipients and sero+ve donors)
+  - <u>Clinical manifestations</u> - extremely variable attributed to the blunted host response:
+    - CMV viraemia (to be distinguished from CMV antigenaemia)
+    - Systemic manifestations (fever, leukopenia)
+    - Tissue-specific manifestations (retinopathy, gastroenteritis, hepatitis)
+  - <u>Prophylaxis and Mx</u> - valganciclovir/ gancyclovir
+- **BK nephropathy:**
+  - <u>Pathophysiology</u> - latent polyomavirus that lies dormant in kidney and urothelial tracts:
+    - Activation in the setting of immunosuppression
+    - Progressive fibrosis and loss of graft function within 1y in most cases
+  - <u>Clinical manifestations</u> - rising SCr, +/- oliguria
+  - <u>Routine monitoring and prevention</u>:
+    - Regular BK viral load testing
+    - Judicious reduction of maintenance immunosuppression
+  - <u>Dx</u> - renal Bx:
+    - Interstitial nephritis
+    - Tubulocytopathic changes of BK nephropathy
+    - Viral Ag in allografts
+  - <u>Mx</u>:
+    - Judacious reduction in immunosuppression
+    - Combination therapy w/ leflunomide, cidofovir, quinolone (all effective against polyoma helicase)
+    - +/- IVIG
+- **Chronic graft kidney dysfunction** - despite excellent 1y transplant survival, most will exerience a progressive decline in kidney function over time there after:
+  - <u>Etiology of chronic graft kidney dysfunction</u> - likely multifactorial:
+    - Chronic active antibody-mediated rejection
+    - Recurrent glomerular disease
+    - HTN
+    - CNI nephrotoxicity
+    - Secondary FSGS
+  - <u>Ix</u> - renal Bx to differentiate subacute Ab-mediated rejection from recurrent disease or secondary FSGS
+  - <u>Mx</u>:
+    - Dependent on underlying cause
+    - CCBs for systemic and intrarenal HTN thought to have beneficial effects on rate of progressionof chronic allograft dysfunction
+- **Malignancies:**
+- **Other complications:**
+  - <u>Major cardiovascular events</u> - due to high prevalence of CAD and PAD in ESKD patients, further exacerbated by other post-transplant contributory factors such as use of glucocorticoids, sirolimus, as well as transplantation
+  - <u>Hypertension</u> - caused by 1) native kidney disease, 2) rejection activity in the transplant, and 3) renal artery stenosis, and 4) renal CNI toxicity; best Mx by CCBs which show an improvement of long-term mortality
+  - <u>Hypercalcaemia</u> - indicate failure of hyperplastic PTH gland to reress, w/ aggravation of glucocorticoids
+  - <u>Anaemia</u> - likely due to marrow suppression of immunosuppressive therapy, or GI bleeding w/ steroids (usually normal EPO production)
+  - <u>Chronic hepatitis</u> - now able to be managed by effective antivirals

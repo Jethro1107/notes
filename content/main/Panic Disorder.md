@@ -1,0 +1,101 @@
+---
+type: main
+---
+# Panic Disorder
+
+- **Definition** - form of anxiety disorder where the central feature is the recurrence of panic attacks, and fears of catastrophic consequences such as a heart attack
+- **Historic terminologies** - assumed that patients were correct in fearing in a disorder of cardiac function:
+	- Irritable heart, or disorderly actions of the heart
+	- Da Costa's syndrome
+	- Neurocirculatory asthenia
+	- Effort syndrome (symptoms similar to experiences during exertion)
+- **Historical interests:**
+	- Previously thought to be a disorder of the heart due to prominent somatic symptoms, namely palpitations, but it was not until the World War II that Cardiologist Paul Wood suggested that it was a form of anxiety disorder
+	- DSM-III introduced the diagnostic category of panic disorder, which included those w/ or w/o generalised anxiety, but excluded those w/ agoraphobia
+	- In the DSM-IV, panic disorders are identified as a separate entity from agoraphobia (although current practices in DSM-5 and ICD-11 differ, i.e. DSM-5 offers a dual diagnosis, while ICD-11 offers a single diagnosis of agoraphobia with panic disorder)
+- **Cardinal phenomenological aspects of a panic attack:**
+	- _Onset_ - anxiety builds up quickly
+	- _Severity_ - the symptoms are severe
+	- _Cognition_ - the person fears a catastrophic outcome
+- **Symptoms of a panic attack** - not every patient has all symptoms of a panic attack, and for Dx under DSM-5, a panic disorder can be diagnosed w/ only 4 or more symptoms:
+	
+	![[Pasted image 20260407114650.png]]
+- **Hyperventilation during a panic attack** - not present in either diagnostic criteria, but occurs in some patients and adds to the symptoms:
+	- _Definition_ - rapid and shallow breathing which results in an increased in minute ventilation that exceeds the metabolic activity of the body, resulting in **hypocapnia**
+	- _Pathophysiology in hyperventilation_:
+		- **Hypocapnia-mediated vasoconstriction** - results in reduced cerebral and coronary perfusion leading to:
+			- _Reduced cerebral blood flow_ - headache, dizziness, faintness, weakness, tinnitus
+			- _Reduced coronary blood flow_ - precordial discomfort
+		- **Respiratory alkalosis and functional hypocalacaemia** - reduced H+ concentration results in increased Ca2+ binding to albumin, resulting in reduced Ca2+ concentration, underlying:
+			- Numbness
+			- Perioral and distal parasthesia
+			- Carpopedal spasm
+		- **Paradoxical feeling of breathlessness** - paradoxical as patient breathing excessively, which leads to further increased breathing rate and worsening of symptoms
+- **DSM-5 diagnostic criteria of panic disorders:**
+	- 1. Panic attacks occur recurrently (at least twice), and unexpectedly (i.e. not in response to an identified phobic stimulus)
+	- 2. At least one attack has been followed by 4 weeks or more of persistent fear of another attack and worry about its implications (e.g. having a heart attack), and/or significant maladaptive changes in behaviour (e.g. avoiding exercise or public transport)
+	
+	![[Pasted image 20260407124112.png]]
+- **Panic attacks can occur in other disorders:**
+	- General anxiety disorders
+	- Phobic anxiety disorders (most often _agoraphobia_)
+	- Depressive disorders
+	- Acute organic disorders
+- **Differentiating features of a panic disorder or recurrent panic attacks secondary to other conditions:**
+	- 1. Persistent, marked concern about having further attacks
+	- 2. Worry about the potentially catastrophic consequences of the attack
+- **Epidemiology:**
+	- _Prevalence_ - 12 mo prevalence ~ 2.7% (life-time risk of 4.7%)
+	- _Demographic_:
+		- Sex - female preponderance (F:M = 2:1)
+		- Psychiatric comorbidities - higher rates of anxiety disorder, major depressive disorder, and alcohol misuse
+- **Etiology:**
+	- **Genetics** - strongly familial, estimated heritability of ~ 40%:
+		- _Familial studies_  - 5x increased risk in first-degree relatives
+		- _Twin studies_ - monozygotic concordance rates higher than dizygotic concordance rates
+		- _Candidate gene studies_ - certain tentative loci identified, including catechol-O-methyltransferase (COMT), but effects dependent on ethnicity
+	- **Biochemistry and neurochemistry:**
+		- _Certain chemical agents can induce panic attacks_ - notably sodium lactate, yohimbine (noradrenaline alpha-2 adrenoreceptor antagonist) known to induce panic attacks more readily in those w/ panic disorders, but causal relationship uncertain as may be attributed to psychological mechanisms
+		- _Neurochemistry_ - evident in functional imagings:
+			- **GABA system** - Lowered cortical GABA levels from MR spectrometry, as well as deminished BZD receptor binding in parietotemporal regions in unmedicated patients
+			- **Serotonin system** - reduced 5-HT1A receptor binding in patients with panic disorders similar to that in depression (may be related to high rates of comorbid depression)
+	- **Neural mechanisms** - the neurocircuitry of fear and particularly escape behaviour is heavily implicated
+	- **Cognitive hypothesis:**
+		- _Observation_ - based on the observation that fears about serious medical or mental illness are more frequent in patients who experience panic attack than among anxious patients who do not have panic disorders
+		- _Explaining rapid escalation of anxiety during panic attacks_:
+			- Almost always begins with a noticeable physical symptoms
+			- Physical symptoms activates the fear of illness that further increases anxiety, thus increasing the severity of physical symptoms
+			- Underlies catastrophising of a life-threatening illness during the panic attack
+		- _Explaining avoidance and safety behaviours_ - from patient's perspective, thought to avoid catastrophic outcomes of a second panic attack, but prevents disconfirmation of these fears, w/ implications in cognitive treatment (Helbig-Lang et al 2014)
+	- **Hyperventilation as a cause** - no evidence that involuntary hyperventilation causes a panic attack, but has role in worsening symptomatology
+- **Development and course** - most follow up studies included patients w/ and w/o agoraphobia where trajectory may differ:
+	- _Overall prognosis_ - good social outcome, but many will have residual symptomatology (usually better in absence of agoraphobia ?due to less avoidant behaviour)
+	- _Clinical course_ (Ballener et al 2009):
+		- 30% remit w/o a subsequence relapse
+		- Small proportion show useful improvements in symptomatology
+		- Most have persistent symptomatology
+	- _Mortality_ - higher rates of cardiovascular deaths (altered sympathetic nervous system implicated [Davies et al 2010])
+- **Treatment:**
+	- **Principles of Mx:**
+		- _Supportive measures_ - e.g. psychoeducation, help with any causative life problems
+		- _Pharmacological therapy_ - various medications including BZD, AD
+		- _Cognitive therapy_ - effective by reducing fears of physical effects of anxiety, which precipitate escalation of anxiety and perpetuate the attack
+	- **Benzodiazepines:**
+		- _Indications_:
+			- Treatment developed in the USA
+			- Not widely adopted in the UK, where PZD are not recomended for the treatment of panic disorders
+		- _Selection_ - high-dose alprazolam (short-acting potent BZD required, but relatively non-sedation)
+		- _Clinical efficacy_ - effectiveness and tolerability demonstrated in many controlled trials (Ballenger 2009)
+		- _Practical management of BZD for panic disorders_:
+			- As 'prn', and short-course basis
+			- Gradual reduction at end of treatment to avoid withdrawal symptoms (33% still report significant withdrawal symptoms which may "worsen panic attack")
+	- **Antidepressants:**
+		- _Selection_ - TCAs, SSRIs, SNRIs all have evidence compared w/ placebo
+		- _Practical management of AD for panic disorders_:
+			- Starting at low doses and titrate slowly to effective doses, as initial unwanted effects may provoke patients
+			- Maintenance treatment for >= 6 mo prevents relapse
+	- **Cognitive therapy:**
+		- _Rationale_ - targeting fears of symptoms, and fear outcomes
+		- _Clinical efficacy_:
+			- As effective for treatment of panic disorders
+			- Combined treatment may result in better result in acute phase but whether this persists in the longer term is uncertain

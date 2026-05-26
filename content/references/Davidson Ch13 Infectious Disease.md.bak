@@ -1,0 +1,982 @@
+---
+id: d11c70aa-2faa-4142-a289-630e4225efc3
+title: Davidson Ch13 Infectious Disease
+---
+
+# Ch13 Infectious Disease
+
+## Clinical examination of patients with infectious disease
+
+## Presenting problems in infectious diseases
+
+### Fever
+
+- **Definition** - elevated core body temperature of \> 38 degrees celscius caused by a raised temperature set point in response to cytokines and acute phase proteins
+- **Clinical features in association w/ fever:**
+  - **Rigors** - shivering followed by excessive sweating occuring from a rapid rise in body temperature from any cause
+  - **Night sweats** - sweating at night a/w certain infections (e.g. TB, IE), but also from other diseases (e.g. B-cell lymphoma)
+  - **Excessive sweating** - response to a decline to temperature set point in fever, but can occur after alcohol consumption, thyrotoxicosis, DM, acromegaly, lymphoma or excessive environmental heat w/o increase in body temperature
+  - **Recurrent fever** - recurrence of fever suggestive of specific cause (e.g. bacterial abscess, Borrelia recurrentis)
+  - **Other accompanying features** - these may be localising or non-localising:
+    - <u>Headache</u> - headache and photophobia may localise to **meningitis** but can accompany other infections
+    - <u>Delirium</u> - may be related to CNS infection, but can occur w/ any infection in the extremes of age
+    - <u>Myalgia</u> - accompany viral infection (e.g. influenza) or septicaemia (including meningococcal sepsis)
+    - <u>Shock</u> - often indicates sepsis
+- **DDx of fever** - exhaustive list including <u>infective</u> and <u>noninfective</u> causes:
+  - **Non-infectious causes:**
+    - <u>Rheumatological causes</u> - CTD (e.g. SLE, Still's disease) and vasculitis
+    - <u>Malignancies</u> - lymphoma and other haematological malignancies, ocassionally solid organ tumour (likely due to secondary infection or abscess formation)
+    - <u>Drugs</u> - drug fever
+    - <u>Miscellaneous</u> - sarcoidosis, factitious fever etc.
+  - **Infectious causes:** 
+  ![](img/common_infectious_syndromes_with_localising_features.png)
+- **Salient points of Hx:** 
+![](img/hx_in_suspected_infectious_disease.png)
+  - **HPI** - onset, duration, pattern, severity, and mode of measurement, associated Sx of fever:
+    - <u>Onset and duration</u> - acute vs chronic
+    - <u>Pattern</u> - historically used to identify cause of PUO (e.g. tertian or quaternian pattern a/w malaria, Pel-EBstein pattern a/w HL)
+    - <u>Severity</u> - degree of fever
+    - <u>Mode of measurement</u> - tympanic, infrared, axilla, oral, rectal etc.
+    - <u>Associated Sx</u>:
+      - Chills and rigors
+      - Night sweats (consider TB, lymphoma)
+      - Headache
+      - Confusion
+      - Muscle pain
+  - **Systems review** - associated Sx:
+    - <u>Respiratory Sx</u> - cough and sputum, SOB, haemoptysis
+    - <u>GI Sx</u> - abdominal pain, vomiting (note a/w raised ICP and CNS infections), diarrhoea, tea-coloured urine, constipation
+    - <u>Genitourinary Sx</u> - dysuria, urinary frequency, haematuria, loin pain
+    - <u>CNS Sx</u> - neck stiffness, headache, photophobia, focal neurological S/S
+    - <u>Rash</u> - note site and type of rash
+  - **PMH** - define the host and likelihood of infections:
+    - Surgical and dental procedures involving prosthetic materials
+    - Immunosuppression (incl. diabetes)
+    - Recurrent infections
+  - **Drug Hx** - antimicrobials, immunosuppressive drugs, medicines that interact w/ antimicrobials
+  - **Allergic Hx** - esp to antimicrobials (note drug and nature of reaction)
+  - **TOCC Hx:**
+    - <u>Travel</u> - includes countries visited and where previously resident (affects vaccination Hx, e.g. likelihood of BCG vaccination in childhood)
+    - <u>Occupation</u> - occupational exposure (e.g. Anthrax), sick coworkers
+    - <u>Contact</u> - w/ sick individuals, pets and recretional pursits
+    - <u>Clusters</u> - family and friends w/ similar Sx
+  - **Dietary Hx** - consider undercooked meats, shellfish, unpasturised dairy products or food bourne pathogens
+  - **SHx:**
+    - Smoking and alcohol
+    - Recreational pursuits
+    - IV drug use
+    - Sexual Hx (if suspected)
+  - **Vaccination Hx and use of prophylactic medicines**
+- **P/E:**
+  - **Measurement of temperature** - tympanic temperature
+  - **Primary assessment** - Airway, Breathing, Circulation, Disability and Exposure:
+    - <u>Airway and breathing</u> - patency of airway, respiratory distress, SpO2
+    - <u>Circulation</u> - BP/P (<u>HR disconcordant of temperature is worrying for sepsis</u>), hydration status, capillary refill to assess risk of **septic shock** (+/- IV access)
+    - <u>Disability</u> - reduced consciousness (AVPU or GCS) may be caused by 1) CNS infections, 2) septicaemia, or 3) any infections in the extremes of age
+    - <u>Exposure</u>:
+      - Generalised erythema and warmth suggests of pyrexia
+      - Skin infections (e.g. cellulitis)
+      - Rash - classical rash in different types of infections (see below)
+      - IV injection sites and tattoos
+      - Surgical scars and prosthetic devices as potential site of infection
+  - **General examination** - head to toe examination:
+    - <u>Eyes</u> - Roth spots, and signs of opthalmic infection
+    - <u>ENT and head and neck examination</u>:
+      - ENT for otitis media, tonsillitis or abscess, candidiasis, dental carries
+      - H&N examination for cervical lymphadenopathy, parotidomegaly
+    - <u>Hands</u>:
+      - Hand signs of infective endocarditis (Osler nodes, Janeway lesions, Splinter haemorrhages, finger clubbing)
+      - Stigmata of chronic liver disease (generalised increased risk of infection, consider SBP)
+    - <u>Legs</u> - oedema for cardiovascular comprimise
+  - **Neurological examination** - especially if unable to localise origin:
+    - <u>Signs of meningism</u> - neck stiffness, photophobia, Kernig's sign, Brudzinski sign
+    - <u>Targeted neurological examination</u> - focal neurological S/S suggestive of raised ICP or parenchymal infection
+  - **Respiratory examination** - in detail if suspecting pneumonia (consolidation pattern, crackles, +/- pleural effusion)
+  - **Cardiovascular examination** - evolving murmur for IE
+  - **Abdominal examination:**
+    - Surgical drains
+    - Mass lesions
+    - Local/ generalised tenderness
+    - Hepatosplenomegaly
+    - Ascites
+    - Renal angle tenderness (acute pyelonephritis)
+  - **Muskuloskeletal examination** - examination of joint or back if suspected bone and joints infection
+
+  
+  ![](img/pe_in_fever.png)
+- **Ix** - septic workup:
+  - **Send specimen for microbiology:**
+    - Blood culture
+    - Urine culture
+    - Throat swab (NPA) for PCR
+    - Other specimens - sputum, wound, stool:
+      - Sputum - for culture in suspected chest infections
+      - Wound - for culture in suspected wound and surgical site infections
+      - Stool - for cultures, microscopy, and C diff. toxin assay
+  - **Routine bloods** - CBC w/ differentials, LRFT, RBG, CK, inflammatory markers, Anti-HIV, ANA
+  - **Urine** - urinalysis for suspected UTI
+  - **CXR** - for detection of chest infections
+  - **12-lead ECG** - detection of arrhythmia as a result of infections
+  - **Additional investigations:**
+    - <u>NCCT brain and LP</u> - for suspected meningitis
+    - <u>Abdominal USG or CT abdomen</u> - for suspected intra-abdominal abscess
+- **Approach** - depends on following scenario:
+  - <u>Fever with localising S/S</u> - initiate empirical IV ABx based on likely etiological agent pending microbiological Dx
+  - <u>Pyrexia of unknown origin</u> - requires further investigation
+  - <u>Special circumstances</u> - additional concerns in special circumstances:
+    - Fever in the injection drug-user
+    - Fever in the immunocompromised host
+    - Neutropenic fever
+    - Post-operative fever
+    - Post-transplantation fever
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Symptomatic relief</u> - fever and associated systemic Sx (see above) can be treated by paracetamol and tepid sponging to cool the skin
+    - <u>Resuscitation</u> - consider fluid resuscitation due to septic shock, or dehydration due to excessive sweating
+    - <u>Further Mx</u> - dependent on underlying cause
+
+1.  Fever with localising symptoms or signs
+
+    - **Falsely localising S/S** - these can occur in septicaemia:
+      - Headache
+      - Breathlessness
+      - Diarrhoea
+
+2.  Pyrexia of Unknown Origin
+
+    - **Definition** - arbitrarily defined as a temperature persistently above 38 degrees for \> 3 weeks despite initial Ix during 3d of inpatient care or after \> 2 outpatient visits
+    - **Context:**
+      - Further subset of PUO defined - HIV-related, immune-deficient, or nosocomial
+      - Up to 1/3 of PUO remain undiagnosed
+    - **Etiology of PUO:**
+      - **Infections** (30%):
+        - <u>Specific locations</u>:
+          - Abscesses - hepatobiliary, diverticular, urinary tract, pulmonary, CNS
+          - Oral cavity (e.g. dental, sinuses, head and neck)
+          - Bones and joint infection
+          - Heart (IE)
+        - <u>Specific organisms</u>:
+          - TB (particularly extra-pulmonary)
+          - HIV
+          - Systemic viral infections (e.g. CMV, EBV)
+          - Fungal infections
+          - Infections w/ fastidious organisms (e.g. Bartonella hensellae, Tropheryma whipplei)
+        - <u>Specific populations</u>:
+          - Imported infections - e.g. malaria, brucella, amoeba, enteric fevers etc.
+          - Nosocomial infections - e.g. MRSA
+          - HIV positive individuals - acute retroviral syndrome, AIDS-defining infections
+      - **Malignancies** (20%):
+        - <u>Haematological malignancies</u> - lymphoma, leukaemia, myeloma
+        - <u>Solid tumours</u> - renal, liver, colon, stomach, pancreas
+      - **Connective tissue disorders** (15%):
+        - <u>Younger adults</u> - JIA, SLE, vasculitis, Polymyositis, Behcet's disease
+        - <u>Older adults</u> - GCA/PMR
+        - <u>Geographically restricted</u> - rheumatic fever
+      - **Miscellaneous:**
+        - <u>Periodic fever syndromes</u> - familial Mediterranean fever, Mevolonate kinase deficiency, TNF-receptor periodic syndrome
+        - <u>Cardiovascular disease</u> - aortitis, aortic dissection, atrial myxoma
+        - <u>Respiratory disease</u> - pulmonary embolism, extrinsic allergic alveolitis (Farmer's lung)
+        - <u>GI disease</u> - IBD, alcholic hepatitis, pancreatitis
+        - <u>Endocrine</u> - thyrotoxicosis, hypothalamic lesions, phaeochromocytoma
+        - <u>Haematological conditions</u> - haemolytic anaemia, TTP, MPN, graft-versus host disease
+        - <u>Others</u> - facticious anaemias, drug fevers
+
+      
+      ![](img/etiology_of_pyrexia_of_unknown_origin.png)
+    - **Clinical assessment:**
+      - **Repeat Hx and P/E** - see section on fever, to detect emerging features (e.g. rash, signs of IE)
+      - **Considerations:**
+        - <u>Young children</u> - viral infections, and haematological malignancies are most important causes
+        - <u>Male patients</u> - acute bacterial prostatitis resulting in urosepsis is a potential source of infections
+        - <u>Elderly and infirmed</u> - consider TB, intra-abdominal abscesses, complicated UTIs, infective endocarditis and GCA
+        - <u>FHx of fever disorders</u> - consider periodic fever syndromes
+        - <u>Facticious fever</u> - considered if temperature was never taken by healthcare individuals and disproportionate to physiological changes such as HR 
+        ![](img/dx_of_factitious_fever.png)
+    - **Ix** - if initial Ix as above are -ve:
+      - **Microbiology** - induced sputum/ BAL for mycobacterial stains and culture (+/- others): 
+      ![](img/microbiological_ix_for_puo.png)
+      - **Serological tests for CTD** - Autoimmune pannel (ANA, RF), Complement level, Ig level and pattern, cryoglobulins
+      - **Echocardiography** - detection of IE
+      - **Imaging studies:**
+        - <u>Transabdominal USG</u> - detection of intra-abdominal abscesses
+        - <u>CT/ MRI of abdomen +/- thorax and brain</u> - detection of abscesses
+        - <u>Imaging of skeletal system</u> - plain radiographs, CT/ MRI spine, isotope bone scan
+        - <u>Scintigraphy</u> - PETCT or SPECT
+    - **Prognosis** - poor (30-40% overall mortality) often attributed to malignancy:
+      - If no cause found, mortality paradoxically low and fever usually subsides
+
+3.  Fever in the injection drug user
+
+4.  Fever in the immunocomprimised host
+
+    - **Definitions and terminology:**
+      - <u>Immunocomprimised host</u> - individual where multiple elements of the immune system is comprimised induced by, 1) HIV infection, 2) transplantation (HSCT or solid organ transplantation), 3) Immunosuppressants (e.g. high dose corticosteroids), 4) iatrogenic immunosuppression by chemotherapy, 5) chronic metabolic abnormalities (e.g. hyperglycaemia, under-nutrition)
+    - **DDx of fever in the immunocomprimised host:**
+      - **Infectious cause** - likely precipitating pathogen depends on the nature of immune defect
+      - **Non-infectious cause:**
+        - <u>Autoimmunity</u> - e.g. vasculitis, organising pneumonitis
+        - <u>Transplant-related complications</u> - graft-versus-host disease, transplant rejection
+        - <u>Neoplastic</u> - iatrogenic neoplasms, lymphoproliferative disease
+        - <u>Miscellaneous</u> - drug fever, Sweet Syndrome (seen in haematological malignancies)
+    - **Approach to assessment of fever in the immunocomprimised host:**
+      - <u>Hx</u>:
+        - Nature of immunosuppression
+        - Prophylactic measures (e.g. prophylactic ABx and vaccinations)
+        - Past infections and their Tx (recurrence and acquisition of ABx resistance)
+        - Exposure to infections
+      - <u>P/E</u> - as in fever, but focus on:
+        - **Sites of physical barrier** - skin, mucosal survaces, ENT for any mucositis
+        - **Skin** - rashes as a sign of disseminated infections
+    - **Ix** - septic workup as above, with additional considerations:
+      - **Imaging** - CT thorax, CT abdomen:
+        - <u>CT thorax</u> - if Hx yields respiratory Sx or CXR +ve
+        - <u>CT abdomen</u> - if abdominal Sx present (e.g. RLQ pain, diarrhoea)
+      - **Microbiology** - blood, urine, stool, NPA as per septic workup, but better to detect microbiological component rather than host response (e.g. Ab) due to severe immunocomprimisation:
+        - <u>Nucleic acid detection</u> - PCR for CMV or aspergillus DNA
+        - <u>Ag detection</u> - assay for Cryptococcal Ag (CrAg), galactomannan, or legionella
+
+    **Mx** - initiate broad spectrum ABx
+
+5.  Neutropenic fever
+
+6.  Post-transplantation fever
+
+    - **Definition** - pyrexia in a transplant patient, further classified into haematopoietic stem cell transplantation (HSCT) and solid organ tansplant
+    - **DDx of post-transplantation fever:**
+      - <u>Infection</u> - most likely organism dependent on time-of-onset: 
+      ![](img/infections_in_post_transplant_patient.png)
+      - <u>Graft rejection</u> - a/w failure of the graft
+      - <u>Graft-versus-host disease</u> (GVHD) - if HSCT
+    - **Infections in post-solid organ transplant patients** - etiology dependent on time of onset:
+      - <u>0-1 mo</u> - bacterial/ fungal infections related to surgical complications or underlying conditions (e.g. pneumonia)
+      - <u>1-6 mo</u> - opportunistic infections related to **impaired cellular immunity**:
+        - **Bacterial** - Legionella, Salmonella, **Listeria**
+        - **Viral** - classically **CMV infection**
+        - **Fungal** - pneumocystitis jirovecci pneumonia
+      - <u>\> 6 mo</u> - community-acquired infections (including CAP), shingles, cryptococcal infections
+    - **Infections in HSCT patients** - etiology dependent on pre-engraftment vs post-engraftment period:
+      - **Pre-engraftment** - typically a/w **neutropenia**:
+        - <u>Bacterial</u> - aerobic GNR (e.g. E. coli, P. aeruginosa, K. pneumoniae), or GPC (Staphylococcus, viridans streptococci, enterococi)
+        - <u>Fungal</u> - Candida spp, Aspergillus
+      - **Post-engraftment:**
+        - <u>Early</u> (\< 100d) - opportunistic infections
+        - <u>Late</u> (\> 100d) - community-acquired infections, shingles, CMV, PTLD
+
+### Positive blood culture
+
+- **Definition and terminology:**
+  - <u>Positive blood culture</u> - blood culture that returns positive result, which may reflect bacteraemia
+  - <u>Bacteraemia</u> (blood-stream infection) - community acquired or noscomial infections, with or without a primary site of infection
+  - <u>Primary bacteraemia</u> - positive blood culture with clinical infection in which the site of infection is unknown
+- **Etiology of positive blood culture:**
+  - <u>Contamination</u> - usually caused by skin-contaminants (coagulase-negative staphylocci) especially if same growth from all bottles from one venesection
+  - <u>Non-significant viridans streptococi bacteraemia</u> - may not be physiological, but as Viridans streptococci isolated, must work up for infective endarditis
+  - <u>Infective endocarditis</u> (20-30%) - valvular infection in the subacute, or chronic setting
+  - <u>Bone and joint infection</u> (10%) - e.g. osteomyelitis, septic arthritis, if evidence of bone or joint infection
+  - <u>Venous catheter infections</u> - esp. central or preipheral venous cather infection especially during prolonged hospitalisations
+  - <u>Bacteraemia with no foci</u> - accounts for 10% of community-acquired cases, and 30% of nosocomial cases, most commonly S. aureus bacteraemia
+
+  
+  ![](img/microbiological_etiology_of_bacteraemia.png)
+- **Predisposing risk factors to bacteraemia:**
+- **Approach to positive blood culture:**
+  - <u>Hx</u> - 1) note the setting in which bacteraemia occurs (community acquired vs nosocomial), and 2) any predisposing risk factors (see above)
+  - <u>P/E</u>:
+    - General exammination - temperature; inspection of indwelling catheter, surgica sites and skin for foci of infection; hand signs of infective endocarditis
+    - Cardiovascular examination - auscultation for any evolving murmur suggestive of IE
+    - Examination of bones and joints - swelling, restricted ROM and tendernesss over infected joint
+    - Abdominal examination - for tenderness
+    - Fundoscopy - roth spots for infective endocarditis
+  - <u>Ix</u> - as per septic workup and more dependent on the causative organism
+- **Ix:**
+  - **CXR and urine culture** - as per septic workup
+  - **Routine bloods** - as per septic workup (CBC, LRFT, ESR/CRP, RBG)
+  - **Echocardiography** - considered for those w/ +ve risk factors (e.g. prosthetic valves, valvular heart disease), or culture reveal organism a/w endocarditis:
+    - <u>TTE</u> - non-invasive but variable Sn (50-90%)
+    - <u>TOE</u> - high Sn (\> 95%) but invasive, considered if -ve TTE
+  - **Colonoscopy** - certain rare BSI (S. bovis, S. galloluticus, C. septicum) have specific associations w/ colonic carcinoma
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Antimicrobial therapy</u> - initiate based on sensitivity testing of the blood culture
+    - <u>Attention to source of infection</u> - e.g. surgical drainage of the foci of infection if appropriate; removal of catheter as appropriate
+  - **Antimicrobial therapy** - duration variable:
+    - S. aureus bacteraemia from venous catheter, skin and soft tissue infections, or right-sided IE - 2 weeks
+    - Other S. aureus bacteraemia - 4-6 weeks
+
+### Sepsis
+
+### Severe skin and soft tissue infections
+
+### Acute diarrhoea and vomiting
+
+- **Definition** - typical clinical presentation of infective diarrhoea, but may be a symptom of other infective, or non-infective cause (including stress)
+- **Etiology of acute diarrhoea and vomiting** - infectious gastroenteritis is the most common cause: 
+![](img/ddx_of_acute_diarrhoea_and_vomiting.png)
+  - **Infectious causes:**
+    - <u>Infective gastroenteritis</u> - toxin in food, viral, bacterial or protozoal disease
+    - <u>C. difficile colitis</u> - a/w previous ABx use
+    - <u>Acute diverticulitis</u> - superimposed infection in diverticular disease due to faecolith
+    - <u>Acute hepatitis</u> - Hepatitis A and hepatitis C
+    - <u>Meningococcaemia</u> - a/w fever, rash, neck stiffness and decreasing consciousness
+    - <u>Pneumonia</u> - especially atypical pneumonia
+    - <u>Pelvic inflammatory disease</u> - assess gynaecological risk factors
+    - <u>Others</u> - sepsis or pneumonia
+  - **Non-infectious causes:**
+    - <u>Gastrointestinal disease</u> - coeliac disease, IBD, Lower GI malignancy, Overflow from constipation, Enteral tube feeding
+    - <u>Metabolic disease</u> - DKA, thyrotoxicosis, uraemia, NET
+    - <u>Drugs</u> - NSAID, ABx, PPIs, Cytotoxic agents
+    - <u>Toxins</u> - Dinoflagellates, plant toxins, heavy metals, Ciquatera fish poisoning, scombrotoxic food poisoning
+    - <u>Psychological</u> - stress and anxiety
+- **Salient points of Hx:**
+  - **HPI** - onset, duration, quality, severity, timing:
+    - <u>Onset and duration</u> - most infective GE resolve \< 10d
+    - <u>Quality</u> - watery (a/w non-invasive SB process), with mucus or bloody (a/w invasive, colitic and dysenteric process), or w/ stearrhoea
+    - <u>Severity</u> - frequency of diarrhoea and vomiting (+/- urine output)
+    - <u>Timing</u> - incubation period suggests underlying etiology:
+      - \< 18h - toxin-mediated food poisoning
+      - 1-3d - bacterial or viral GE
+      - \> 5d - protozoal or helminth infection
+  - **Associated Sx:**
+    - <u>Fever</u> - suggestive of an infective process
+    - <u>Abdominal pain</u> - cramping peri-umbilical or lower abdominal pain depending on site of infection
+    - <u>Stearrhoea</u> - malabsorptive process
+    - <u>Tenesmus</u> - diarrhoea may be related to overflow from constipation
+    - <u>Weight loss</u> - recent weight loss is a red flag Sx
+  - **TOCC Hx** - if fever and diarrhoea
+  - **Dietary Hx** - address food ingested: 
+  ![](img/food_aw_infective_ge.png)
+- **P/E:**
+  - <u>Vital signs</u> - BP/P (assess degree of fluid loss)
+  - <u>General examination</u> - hydration status (skin turgor, tongue) +/- monitoring of urine output and ongoing stool loss
+- **Ix:**
+  - **Microbiology** - blood and urine cultures (+/- CXR)
+  - **Routine bloods** - CBC, RFT:
+    - <u>CBC</u> - leukocytosis for degree of inflammation
+    - <u>RFT</u> - degree of dehydration and electrolyte abnormalities (e.g. Na, K, HCO3)
+  - **Stool** - for microscopy, cuture, and C diff. antigen assay
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Minimising transmission</u> - avoid person-to-person spread (+/- public health measures if suggestive of food-borne source to establish whether linked cases exist)
+    - <u>Supportive measures</u> - fluid replacement by ORS or IV infusion necessary to maintain fluid balance (+/- K replacement), little rhole of antidiarrhoeal agents
+    - <u>ABx therapy</u> - dependent on underlying etiology\*\*\* Infections acquired in the tropics
+  - **Fluid replacement** - replacement of fluid loss in all diarrhoeal illness is crucial and may be life-saving:
+    - **Type of fluid replacements:**
+      - <u>Oral rehydration solutions</u> - hypo-osmolar solutions containing water, electrolytes and glucose
+      - <u>IV infusion</u> - normal saline (0.9% NaCl)
+    - **Principles of fluid replacement** - 1) rapid replacement of established deficit, 2) replacement of ongoing losses, and 3) replacement of normal daily requirements:
+      - **Rapid replacement of of estimated fluid deficit** - within <u>2-4 h of presentation</u>:
+        - <u>Estimation of fluid loss clinically</u> - as % of clinically by vital signs
+        - <u>Estimation of fluid loss by symptomatology</u>:
+          - 48 h of moderate diarrhoea (6-10 stools per day) is a/w 2-4 L of fluid loss
+          - Vomiting compounds due to additional fluid loss and inability for oral rehydration
+      - **Replacement of ongoing fluid loss** - immediate replacement after each episode of diarrhoea orally:
+        - <u>Assumption</u> - average adult's diarrhoeal stool accounts for 200 ml of isotonic fluids
+        - <u>Replacement</u> - One sachet per diarrhoeal stool, as 1 sachet of comercially available rehydration sachets conveniently provide 200 ml of ORS (an appropriate estimate of supplementary replacement requirements)
+      - **Replacement of normal daily requirement** - as a function of body weight by 4-2-1 rule (generally 1-1.5 L/d):
+        - <u>4-2-1 rule</u>:
+          - First 10 kg - 4 ml/kg/h
+          - Next 10kg - 2 ml/kg/h
+          - Each additional kg above 20 kg - 1 ml/kg/h
+        - <u>Special considerations</u>:
+          - Increased in febrile disease
+          - Increased in excessive sweating (e.g. hot environment)
+  - **Antimicrobial agents** - generally not considered even if suspected bacterial infection as benefits (shorten Sx for around 1d in an illness lasting 1-3d) are outweigh by the risks (ABx resistance, S/E)
+    - <u>Considerations or indications for antimicrobials in diarrhoeal disease</u>:
+      - Systemic infections (Septic presentation)
+      - Immunocompromised host or significant comorbidity
+      - Invasive, inflammatory GI (e.g. Shigella, salmonellosis)
+      - Chorea outbreaks (simply to reduce infectivity and control spread of infection)
+    - <u>C/I of antimicrobials</u>:
+      - Suspected EHEC infections - increased risk of haemolytic uraemic syndrome
+  - **Antidiarrhoeal, antimotility, and antisecretory agents** - generally not recommended:
+    - Antisecretory agents (e.g. bismuth, chlorpromazine) - may be effective but can cause significant sedation
+    - Antimotility agents (e.g. loperamide) - potentially dangerous in dysentery
+    - Adsorbants (e.g. kaolin, charcoal) - no effect
+
+### Infections in adolescence
+
+### Infections in pregnancy
+
+## Viral infections
+
+### Systemic viral infections with exanthem
+
+1.  Measles
+
+2.  Rubella
+
+3.  Parvovirus B19
+
+4.  Human Herpesvirus 6 and 7
+
+5.  Chickenpox (varicella)
+
+    - **Definition** - clinical syndrome of primary infection of the varicella zoster virus (VZV) manifesting as blistering, vesicular infections
+    - **Virology of VZV:**
+      - Dermatotrophic and neurotrophic virus
+      - Spread by aerosol and direct contact, and extremely infectious in non-immune individuals
+      - Incupation period around 11-20d
+      - Infectivity lasts for 48h (up to 4d) before the lesion appears until the last vesicle crust over
+    - **Clinical features of chickenpox:**
+      - **Rapid vesicular eruption** - rash progresses from small pink macules, to vesicles, and subsequently into pustules that rupture to form erosions:
+        - <u>Distribution</u> - initially occurs in mucosal surfaces, and rapid dissemination in a centripetal distribution (more dense on trunk and sparse on limbs)
+        - <u>Rate of development</u>:
+          - New lesions every 2-4d and each crop is a/w systemic upset
+          - Each lesion undergoes characteristic progression (see above) that lasts for 24h
+        - <u>Infectivity</u> - patient remains infective via direct contact until last vesicles crust over
+
+        
+        ![](img/chickenpox_rash.png)
+      - **Pruritis** - intense itching, where scratching may result in secondary bacterial infection after primary chicken pox
+      - **Fever** - fever and systemic upset occurs w/ each crop of new lesions
+      - **Visceral involvement** - may occurs in <u>pregnant women</u>, <u>adults</u>, or the immunocomprimised:
+        - Pneumonitis
+        - Hepatitis
+        - Encephalitis
+      - **Complications of pregnancy** - different complications if occuring at different stages of pregnancy:
+        - Neonatal damage if early maternal infection w/ development abnormalities of the eyes, CNS, and limbs (3% risk)
+        - Neonatal varicella if within 5d of infection
+    - **Ix** - principally supportive:
+      - Direct IF for VZV Ag in aspirated vesicular fluid
+      - PCR for VZV in aspirated vesicular fluid
+    - **Dx** - primarily clinical by recognition of rash
+    - **Mx:**
+      - **Principles of Mx:**
+        - <u>Antiviral therapy</u> - marginal benefit if prescribed irrespectively, but benefits are maximal in selected populations
+        - <u>Contact tracing</u> - prophylactic VZIG used to attenuate infections for patients who had significant contact
+      - **Antiviral therapy** - aciclovir, valaciclovir, famciclovir:
+        - <u>Indications</u> - strong indications for:
+          - Patients presenting within 24-48h of onset of vesicles (shorten Sx duration)
+          - Presentation w/ complications (e.g. visceral involvement, secondary bacterial infection)
+          - Immunocomprimised, including pregnant women
+        - <u>Regimen</u>:
+          - **Immunocompetent adults and children:**
+            - Oral aciclovir 800 mg 5x a day for 5d
+            - Famciclovir 500 mg tid for 5d
+            - Valaciclovir 1g tid for 5d
+          - **Immunocomprimised/ pregnant** - prolonged regimen due to prolonged viral shedding:
+            - IV aciclovir 5 mg/kg tid until clinical improvement, followed by oral therapy until crusted lesions over
+      - **Contact tracing for varicella zoster immunoglobulin prophylaxis:** 
+      ![](img/indications_for_vzig_prophylaxis.png)
+    - **Prevention** - live attenuated VZV caccine
+
+6.  Shingles
+
+    - **Definition** - reactivation of latent VZV in a dermatomal pattern within dorsal root ganglion of sensory nerves after primary chickenpox
+    - **Clinical features of shingles** - multiple dermatomal reactivation may suggest underlying immune deficiency:
+      - <u>Dermatomal discomfort</u> - burning sensation or parasthesia of the affected dermatome may occur 3-4d prior to the onset of characteristic lesions, and may be a/ transient viraemia
+      - <u>Vesicular erruptions</u> - onset of characteristic rash progressing from macule, papule, pustule and subsequently crusted within 24h in a dermatomal pattern
+      - <u>Satellite 'chickenpox' lesion</u> - transient viraemia may result in distant chickenpox lesions that do not reflect dermatomal reactivation
+      - <u>Post-herpatic neuralgia</u> - troublesome persistence of pain for 1-6 mo following healing of rash which is more common with advanced age
+    - **Characteristic site of zoster reactivation:**
+      - <u>Thoracic dermatome</u> - most typical manifestation due to reactivation from thoracic dorsal root ganglion resulting in a unilateral thoracic dermatomal rash
+      - <u>Opthalmic division of trigeminal dermatome</u> - manifestation as **Herpes Zoster Opthalmicus** and constitutes an opthalmological emergency leading to blindness
+      - <u>Facial nerve</u> - reactivation from geniculate ganglion manifests as **Ramsey Hunt Syndrome** w/ facial palsy, buccal ulceration, and rash in EAC
+    - **Mx:**
+      - **Principles of Mx:**
+        - <u>Antiviral therapy</u> - demonstrated to be cost effective to reduce both early and late onset pain
+        - <u>Tx of post-herpetic neuralgia</u> - aggressive analgesia for neuropathic pain may be required
+      - **Tx of post-herpetic neuralgia:**
+        - Amitryptyline 25-100 mg daily
+        - Gabapentin (300 mg od or bid)
+        - Capsaicin cream (0.0075%)
+
+7.  Enteroviral exanthems
+
+### Systemic viral infection without exanthem
+
+1.  Mumps
+
+2.  Influenza
+
+3.  Infectious mononucleosis and Epstein-Barr virus
+
+    - **Definition** - a clinical syndrome characterised by fever, pharyngitis, and cervical lymphadenopathy, most often caused by the Epstein-Barr virus
+    - **Etiology of infectious mononucleosis-like syndrome:**
+      - EBV
+      - CMV
+      - HHV-6/7
+      - Primary HIV infection
+      - Toxoplasmosis
+    - **Epstein-Barr virus** - gamma herpesvirus often w/ subclinical infections in early childhood or early adolesence:
+      - <u>Transmission</u> - saliva, droplet transmission, fomites
+      - <u>Risk of clinically significant infections</u> - age dependent:
+        - Subclinical in childhood
+        - 50% IM-like syndrome in young adulthood
+        - More severe and prolonged clinical manifestations
+    - **Clinical features of IM** - prolonged and indetermined incubation period w/ a prodromal period:
+      - **Prodrome** - characterised by non-specific Sx such as fever, headache and malaise
+      - **Classical triad of infectious mononucleosis** - fever, severe pharyngitis, and lymphadenopathy:
+        - <u>Fever</u> - high fever but generally resolves within 2 weeks
+        - <u>Pharyngitis</u> - often severe w/ tonsilar exudates (rarely causing airway obstruction) and palatal petechiae
+        - <u>Lymphadenopathy</u> - non tender anterior and posterior lymphadenopathy often a/w:
+          - Periorbital oedema
+          - Inguinal and axillary oedema
+          - Macular, petichial or erythema multiforme rash
+    - **Complications of infectious mononucleosis:**
+      - **Non-malignant conditions:**
+        - <u>Complications of the upper airway</u> - severe pharyngeal oedema, respiratory obstruction
+        - <u>Complications w/ neurological involvement</u> - polyneuritis, transverse myelitis, encephalitis (CN palsies)
+        - <u>Complications w/ haematological involvement</u> - haemolytic anaemia, thrombocytopenia
+      - **EBV-associated malignancies:**
+        - <u>Immunocompetent individuals</u> - nasopharyngeal carcinoma, HL, Burkitt's lymphoma
+        - <u>Immunocomprimised individuals</u> - primary CNS lymphoma, post-transplant lymphoproliferative disease
+
+      
+      ![](img/complications_of_infectious_mononucleosis.png)
+    - **Ix:**
+      - <u>PBS</u> - atypical lymphocytes, although common in EBV infections but can also occur in other causes of IM, acute retroviral syndrome, viral hepatitis, mumps and rubella
+      - <u>Monospot test</u> - detection of heterophile Ab
+      - <u>EBV serology</u> - +ve results w/ IgM Ab (sero-conversion of anti-EBNA approximately 1mo after initial illness)
+      - <u>Throat swab</u> - for bacterial pharyngitis
+      - <u>LP</u> - if suspecting CNS infection
+    - **DDx of atypical lymphocytes on PBS:**
+      - IM-like syndrome
+      - Viral hepatitis
+      - Acute retroviral syndrome of HIV infection
+      - Mumps
+      - Rubella
+      - Lymphoproliferative disorders
+    - **Mx:**
+      - **Principles of Mx:**
+        - <u>Supportive care</u> - antipyrexics, bed rest, +/- corticosteroids for severe pharyngeal oedema
+        - <u>ABx</u> - witheld and only penicillin if throat culture yields GAS (amoxicillin/ ampicillin causes rash)
+        - <u>Physical activity</u> - witheld until splenomegaly resolves due to risk of splenic rupture
+
+4.  Cytomegalovirus
+
+5.  Dengue
+
+6.  Yellow fever
+
+7.  Viral haemorrhagic fevers
+
+### Viral infections of the skin
+
+### Respiratory viral infections
+
+### Viral infections with neurological involvement
+
+1.  Japanese B encephalitis
+
+    - **Definition** - a flavivirus, most important cause of endemic encephalitis in Japan, China, Russia, SE Asia, India and Pakistan
+    - **Epidemiology:**
+      - <u>Incidence</u> - 10000-20000 cases reported worldwide
+    - **Virology of JEV:**
+      - <u>Reservoir</u> - pigs and aquatic birds are the virus reservoirs
+      - <u>Transmission</u> - by mosquitoes (exposure to rice paddies is a recognised risk factor)
+      - <u>Incubation</u> - 4-21d
+    - **Clinical features of JEV** - most are subclinical especially in childhood, but those manifesting w/ neurological disease (1%) have high mortality (25%):
+      - **Systemic illness** - fever, malaise, and anorexia occurs in the initial systemic illness
+      - **Encephalitis** - typically affects brainstem functions:
+        - Reduced GC
+        - Cranial nerve palsies (including respiratory and cardiovascular centre functioning)
+        - Flaccid or spastic paralysis
+        - Seizures
+        - Extrapyramidal features
+      - **Neurological features other than encephalitis** - meningism, photophobia, headache etc.
+    - **Ix:**
+      - **Routine bloods** - CBC, RFT:
+        - <u>CBC</u> - neutrophilia
+        - <u>RFT</u> - hypoNa
+      - **LP** - typically lymphocytosis w/ elevated protein (+/- CSF Ag detection)
+    - **Mx:**
+      - **Principles of Mx:**
+        - <u>Supportive care</u> - monitoring and Tx of complications
+        - <u>Preventative care</u> - vaccincation for travellers to endemic areas during monsoon periods (+/- childhood vacination in endemic regions)
+
+2.  West Nile virus
+
+    - **Definition** - a flavivirus, an important cause of neurological disease in endemic areas
+    - **Virology of West Nile virus:**
+      - <u>Endemic regions</u> - along the West Nile extending from Australia, India, Russia through Africa, Southern Europe and across to North America
+      - <u>Reservoir</u> - avian
+      - <u>Transmission</u> - mosquito vector
+      - <u>Incubation</u> - 2-6d
+    - **Clinical features of West Nile virus infection** - most infections are asymptomatic:
+      - <u>Mild systemic illness</u> (most common presentation) - febrile illness and arthralgia (+/- a maculopapular rash)
+      - <u>Neurological illness</u> (1% but a/w 10% mortality) - encephalitis, meningitis, or asymmetrical flaccid paralysis
+    - **Ix** - detection of viral RNA in blood or CSF
+    - **Mx** - supportive
+
+3.  Enterovirus 71
+
+4.  Nipah virus encephalitis
+
+5.  Human T-cell lymphotropic virus type I
+
+### Viral infections with rheumatological involvement
+
+## Prion diseases
+
+## Bacterial infections
+
+### Bacterial infections of the skin, soft tissues, and bones
+
+1.  Staphylococcal infections
+
+    - **Definition** - group of G+ cocci in clusters that colonise the anterior nares and skin
+    - **Classification of staphylococcus** - traditionally classified by <u>ability to produce coagulase</u>, but now S. aureus identified by other methods:
+      - <u>Coagulase-positive staphylococcus</u> - S. aureus (and S. intermedis)
+      - <u>Coagulase-negative staphylococcus</u> - many other species, including S. saprophyticus, S. epidermidis, and S. lugdenesis, S. schleiferi, S. haemolyticus, S. caprae
+    - **Approach to G+ cocci in clusters from blood culture/ microscopy:**
+      - Not to be dismissed as contaminant unless all sources excluded
+      - Repeat blood cultures x2 before initiating anti-staphylococcal ABx (e.g. cloxacillin) or vancomycin for severe MRSA infections
+      - Add on clindamycin if presenting w/ staphylococcal scalded skin syndrome or staphylococcal toxic shock syndrome if presenting w/ toxin mediated disease
+    - **Staphylococcus aureus** - accounts for most staphylococcal infections:
+      - **Clinical manifestations:**
+        - **Genuine invasive infections:**
+          - <u>Respiratory infections</u> - pneumonia, empyema, lung abscess
+          - <u>Cardiac infections</u> - **infective endocarditis**, pericarditis
+          - <u>Skin and soft tissue infections</u> - boils, styes, carbuncles, skin abscesses, cannula-related infections
+          - <u>Bones and joint infections</u> - septic arthritis, osteoarthritis
+          - <u>CNS infections</u> - brain abscesses, ocassionally meningitis
+          - <u>Blood stream infections</u> - S. aureus bacteraemia, metastatic abscess formation
+
+          
+          ![](img/infections_caused_by_s_aureus.png)
+        - **Toxin-mediated disease:**
+          - <u>Food poisoning</u> - e.g. by staphylococcal enterotoxin
+          - <u>Staphylococcal toxic shock syndrome</u> - toxin-mediated multisystem failure
+          - <u>Staphylococcal scalded skin syndrome</u> - life-threatening skin condition in paediatric populations
+      - **Virulence factor S. aureus:**
+        - **Toxins:**
+          - <u>Panto-Valentine leukocidin</u> (PVL) - causes dermonecrosis
+          - <u>Enterotoxins</u> - results in food poisoning
+          - <u>Epidermolyic toxins</u> - results in scalded skin syndrome
+          - <u>Toxic shock syndrome tixoin 1</u> (TSST1) - superantigen resulting in significant Th cell activation and massive sytokine release, and a SIRS
+      - **Classification of S. aureus** - based on ABx resistance patterns:
+        - **Methicillin-sensitive S. aureus** (MSSA) - S. aureus that have yet acquired the penicillin-binding protein mutation and hence are still sensitive to **cloxacillin**
+        - **Methicillin-resistant S. aureus** (MRSA) - recognised entity from \>= 30y ago:
+          - <u>HA-MRSA</u> - hospital-acquired MRSA infection, which is resistant to many antibiotics, and typically respond to big-gun ABx like vancomycin
+          - <u>CA-MRSA</u> - community-acquired MRSA infection, resistant against beta-lactams, but may be Sn to other ABx (often fatal as associated w/ PVL toxin production)
+        - **Vancomycin-intermediate or -resistant S. aureus** (VISA/VRSA) - S. aurues with intermediate to complete resistance to vancomycin, require Tx with other big-gun ABx
+
+        
+        ![](img/classification_of_s_aureus_by_abx_resistance.png)
+      - **Staphylococcal toxic shock syndrome** - a/w production of TSST1:
+        - <u>Clinical associations</u> - seen in young women w/ highly absorbent intravaginal tampons, but can occur w/ any S. aureus infections
+        - <u>Pathophysiology</u> - production of TSST1:
+          - Acts as 'superantigen', triggers significant Th cell activation and massive cytokine release
+          - Results in systemic inflammatory response syndrome (SIRS)
+        - <u>Clinical features</u> - SIRS, with features pointing towards an infection:
+          - **Systemic upset** - myalgia, headache, sore throat, vomiting etc.
+          - **Fever** - often high fever of abrupt onset
+          - **SIRS and shock** - often to the extent of hypotension
+          - **Generalised rash** - often generalised erythematous blanchable rash similar to that in scarlet fever
+          - **Desquamation** - occurs in recovery period for 7-10d
+
+          
+          ![](img/full_thickness_desquamation_after_staph_tss.png)
+        - <u>Ix and Dx</u> - can be clinical if on pelvic examination reveals retained tampon which shows G+ cocci in clusters on microscopy; blood culture and toxin detetion are confirmatory
+        - <u>Principles of Mx</u>:
+          - **General measures** - aggressive fluid resuscitation
+          - **IV ABx** - consider IV cloxacillin/ vancomycin with addition of protein synthesis inhibitor (clindamycin)
+          - **IVIG** - can be added on the basis that it is of demonstrable efficacy in streptococcal toxic shock
+    - **Coagulase-negative Staphylococcus:**
+      - <u>S. saprophyticus</u> - part of normal vaginal flora, and causes UTI in sexually active young women
+      - <u>S. epidermidis</u> - most common commensal and a/w **catheter-related/ implanted prosthetic infections**
+      - <u>S. lugdunesis</u> - clinically behaves like S. aureus
+
+2.  Streptococcal infections
+
+    - **Definition** - medically important G+ cocci in chains, and are nasopharyngeal and gut commensals
+    - **Classification of streptococci** - by 1) haemolysis status on blood agar, and 2) serotypes based on lancefield grouping:
+      - <u>Haemolysis on blood agar</u> - classified into alpha-, beta-, and gamma-haemolytic streptococci
+      - <u>Lancefield grouping</u> - classification of microbes (including streptococci) based on serotypes, irrespective of their haemolytic status, but more important for identifying beta-haemolytic streptococci
+
+      
+      ![](img/streptococcus_and_related_infections.png)
+    - **Skin presentations of streptococcuus** - cellulitis, erysipelas, and impetigo as a result of:
+      - <u>Group A streptococcus</u> - major cause of skin and soft tissue infections irrespective of age
+      - <u>Group C and G streptococcus</u> - major cause of skin and soft tissue infections in elderly and infirmed, especially if diabetic or immunocomprimised
+      - <u>Group B streptococcus</u> - classically a/w maternal-fetal transmission, but is increasingly common in extremes of age
+    - **Scarlet fever** (common in school children) - clinical syndrome of GAS (ocassionally w/ C or G) caused by infecting strain producing <u>streptococcal pyrogenic exotoxin</u>, resulting in:
+      - <u>Sore throat</u> - as a result of pharyngitis, tonsilitis, where examination classically reveals a '**strawberry tongue**'
+      - <u>Blanchable erythematous rash</u> - diffuse erythematous rash that is blanchable on palpation, often followed by desquamation
+      - <u>Pastila's sign</u> - residual petechial lesions in the antecubital fossa
+
+      
+      ![](img/clinical_features_of_scarlet_fever.png)
+    - **Streptococcal toxic shock syndrome:**
+      - <u>Pathophysiology</u> - associated w/ severe GAS (occassionally C or G) producing pyogenic exotoxin A which acts as a superantigen
+      - <u>Clinical features</u> - natural Hx follows as:
+        - Influenza-like syndrome with foci of streptococcal infection (in 50% of cases)
+        - Faint erythematous rash mainly over the chest
+        - Circulatory shock and multi-orgal failure
+      - <u>Mx</u>:
+        - **General measures** - fluid resuscitation
+        - **IV ABx:**
+          - Benzylpenicillin (antistreptococcal ABx)
+          - Clindamycin (protein synthesis inhibitor to inhibit toxin production)
+        - **IVIG** - demonstrated efficacy for severe streptococcal toxic shock syndrome
+
+3.  Treponematoses
+
+4.  Buruli ulcer
+
+### Systemic bacterial infections
+
+1.  Brucellosis
+
+2.  Borrelia infections
+
+3.  Leptospirosis
+
+4.  Plague
+
+5.  Listerosis
+
+    - **Definition** - an environmental gram-positive bacilus which can contaminate food sources, and is a medically important cause of bacterial gastroenteritis, bacteraemia, and bacterial meningitis
+    - **Microbiology of Listeria monocytogenes:**
+      - **Gram stain and microscopy** - aerobic G+ rods
+      - **Food-bourne transmission** - known to cause outbreaks of gastroenteritis in immunocompetent individuals:
+        - <u>Cold-enrichment</u> - characteristically outgrows other contaminating bacteria during refrigeration
+        - <u>Commonly contaminated foods</u> - raw vegetables, soft cheese, undercooked chicken, fish, meat and pates
+      - **ABx resistance:**
+        - Inherently resistance against cephalosporin
+        - Sensitive to aminopenicillin (e.g. ampicillin) +/- aminoglycosides
+    - **Clinical manifestations of listerosis** - non-specific Sx of fever and myalgia invariably present:
+      - <u>Bacterial gastroenteritis</u> - have been reported in immunocompetent host through ingestion of contaminated food
+      - <u>Systemic invasive infections</u> - in susceptible individuals:
+        - Chorioamnionitis - in pregnancies resulting in fetal deaths, abortpions and neonatal infections
+        - Bacterial meningitis - presents w/ fever, confusion, meningism, however CSF may show neutrophilic pleocytosis w/ **normal glucose**
+        - Bacteraemia - fever w/o a foci of infection
+    - **Risk factors for systemic invasive listerosis:**
+      - Pregnancy
+      - Elderly (\> 55y)
+      - Immunocomprimised
+    - **Ix** - readily culturable by blood or CSF cultures
+    - **Mx:**
+      - **Principles of Mx:**
+        - <u>Bacterial meningitis</u> - add on ampicilin to empirical ABx therapy for meningitis (i.e. cephalosporin, which is not useful) for those at risk of listerosis
+        - <u>Most effective ABx regimen</u>:
+          - IV aminopenicillin (amoxicillin or ampicillin) + aminoglycoside
+          - Co-trimoxazole + aminoglycoside in those w/ penicillin allergy
+    - **Prevention:**
+      - <u>Proper Tx of food</u> - do not undercook food
+      - <u>Avoid high-risk products</u> - avoid soft cheeses during pregnancy
+
+6.  Typhoid and paratyphoid (enteric) fevers
+
+    - **Definition** - clinical syndrome w/ charateristic progression of Sx caused by systemic infection by S. typhi, S. paratyphi A or B acquired via the faecal-oral route
+    - **Epidemiology:**
+      - Endemic and an important cause of fever in India, sub-Saharan Africa and Latin America
+      - Relatively rare outside these countries, but must be considered if +ve travel Hx
+    - **Microbiology of Salmonella spp:**
+      - Aerobic GNR (Enterobacterales)
+      - Obligate intracellular organisms (requires floroquinolones due to good intracellular penetrance)
+    - **Pathophysiology and natural Hx of enteric fever:**
+      - <u>Acquisition of infection</u> - acquired via the **fecal-oral route**
+      - <u>Transient bacteremia and infiltration int Peyer's patches</u> - initially transient bacteraemia for a few days explaining fever and other systemic Sx
+      - <u>Infiltration into Peyer's patches</u> - subsequently bacilli localises into the Peyer's patches, resulting in swelling and ulceration, explaining the abdominal Sx
+      - <u>Persistent infection after recovery</u> - 5% patients become chronic carriers and continue to secret bacteria via stool for \> 1y after clinical recovery
+    - **Difference in clinical presentation of typhoid and paratyphoid fevers:** 
+    ![](img/differentiating_features_between_typhoid_and_paratyphoid_fever.png)
+    - **Clinical features of enteric fever** - non-specific presentation of systemic features in first week:
+      - **First week** - features of <u>septicaemia</u>:
+        - <u>Fever</u> - insiduous onset of fever, characterised by rises in a **step-ladder fashion** for 4-5 days
+        - <u>Relative bradycardia</u> - the pulse is often slower than would be expected from the height of the temperature and should suggest enteric fever from the start
+        - <u>Systemic upset</u> - w/ malaise, increasing headache, drowsiness, myalgia
+      - **End of first week** - onset of abdominal Sx and additional systemic features:
+        - <u>Constipation</u> - caused by transient obstruction due to swelling by the Peyer's patches at the ileocecal valve (less prominent in children), which is often superceded by 1) abdominal distension, or 2) diarrhoea
+        - <u>Abdominal distension and tenderness</u> - caused by small bowel obstruction
+        - <u>Diarrhoea and vomiting</u> - vomitingdue to the obstruction, while diarrhoea may occur due to bacterial liquefaction of the contents proximal to the obstruction
+        - <u>Rose spots on trunk</u> - on the upper abdomen, and on the back, as sparse, slightly raised rose-red spots which are blanchable
+        - <u>Splenomegaly</u> - spleen tip may be palpated by 7-10th day
+      - **Complications** - typically by second week:
+        - <u>Intestinal perforation</u> - sudden onset of acute, diffuse abdominal pain
+        - <u>Intestinal haemorrhage</u> - caused by ulcerations and bleeding of the small bowel mucosa (N.B. a drop in body temperature during this disease course is falsely reassuring and may be caused by haemorrhage)
+        - <u>Bones and joint infections</u> - particularly associated w/ sickle cell disease
+
+        
+        ![](img/complications_of_typhoid_fever.png)
+    - **Ix:**
+      - **CBC** - non-specific lymphopenia
+      - **Microbiology:**
+        - <u>Blood cultures</u> - may be +ve in the invasive stage of disease (i.e. within first week)
+        - <u>Stool culture</u> - only turns +ve in late-stage of disease (i.e. 2nd-3rd week)
+        - <u>Widal's test</u> - serological method not commonly applied, but a 4x increase in titre demonstrates active infection (non-Sp, non-Sn)
+    - **Mx:**
+      - **Principles of Mx:**
+        - <u>ABx therapy</u> - 14 days; generally fluoroquinolones and 3rd-generation cephalosporin due to growting resistance against other ABx agents
+        - <u>Monitoring for complications</u> - ABx therapy does not lower rate of complications, recrudescence of disease and development of carrier state
+        - <u>Cholecystectomy</u> - may be neccessary for persistent gall-bladder carriage
+      - **ABx therapy** - 14d course (prolonged 4 week course if chronic carriage):
+        - **Effective regimens** - best if guided by ABx sensitivity testing:
+          - <u>Fluoroquinolones</u> (ciprofloxacin 500 mg bid) - rising resistance in Indian subcontinent
+          - <u>3rd generation cephalosporin</u> (ceftriaxone and cefotaxime) - slightly increased treatment failure rates
+        - **Other regimen** - losing effect due to increased resistance:
+          - Chloramphenicol
+          - Ampicillin
+          - Co-trimoxazole
+
+7.  Tularaemia
+
+8.  Melioidosis
+
+### Gastrointestinal bacterial infections
+
+1.  Staphylococcal food poisoning
+
+    - **Transmission** - food-bourne disease:
+      - <u>Contamination of food</u> - transmission via hands of food handlers to foodstuff such as dairy products
+      - <u>Inappropriate storage</u> - enables growth of organism and production of heat-stable toxins that mediate the disease
+    - **Pathophysiology** - toxin-mediated disease:
+      - <u>Heat-stable enterotoxins</u> - access to blood stream to mediate N/V
+      - <u>Enterotoxin as superantigens</u> - mediate mitogenic activity of T lymphocytes, altering neutrophil kinetics resulting in misleading neutrophil leukocytosis
+    - **Clinical features** - usually within 1-6h but most cases settle rapidly:
+      - <u>Vomiting</u> - nasea and profuse vomiting being dominant Sx following ingestion of food
+      - <u>Diarrhoea</u> - usually minimal
+      - <u>Severe dehydration</u> - may occur in severe vomiting and is ocassionally life-threatening
+    - **Ix** - CBC shows misleading neutrophil leukocytosis
+    - **Mx:**
+      - Anti-emetics
+      - Appropriate fluid replacement
+
+2.  Bacillus cereus food poisoning
+
+    - **Transmission** - food-bourne disease, w/ classical association w/:
+      - Fried rice
+      - Freshly made sauces
+    - **Pathophysiology** - pre-formed heat-stable exotoxin
+    - **Clinical features** - onset within hours of food consumption, and <u>resolves within 24h</u> (more prolonged if ingested viable bacteria):
+      - Nausea and vomiting
+      - Watery Diarrhoea
+      - Abdominal cramps
+    - **Mx** - fluid replacement
+
+3.  Clostridium perfringens food poisoning
+
+    - **Transmission** -
+
+4.  Campylobacter jejuni infection
+
+5.  Salmonella spp. infection
+
+6.  Escherichia coli infection
+
+7.  Clostridium difficle infection
+
+    - **Definition** - an occassional constituent of the normal intestinal flora, and is the most commonly diagnosed cause of antibiotic-associated diarrhoea
+    - **Microbiology of C. difficile:**
+      - **G stain and morphology** - anaerobic G+ rod
+      - **Virulence factors:**
+        - <u>Toxin mediated disease</u> - toxin A and toxin B
+      - **Strains of C. difficle** - ribotype 027, emerged as a hypervirulent strain that produces more toxins and thus more severe disease
+      - **Transmission** - faecal-oral route (via production of environmentally stable spores)
+    - **Pathophysiology of C. difficile infection** (CDI):
+      - <u>Effects of antimicrobial therapy</u> - alters the composition of the normal GI flora
+      - <u>Colonisation of GI tract by C. difficile</u> - colonisation may occur if an individual is exposed to C. difficile spores
+    - **Clinical manifestations of CDI** - 80% are associated in frail elderly w/ comorbidities, typically after a <u>course of ABx</u>:
+      - <u>Acute diarrhoeal disease</u> - lower abdominal pain, w/ profuse watery diarrhoea
+      - <u>Pseudomembranous colitis</u> - similar manifestation as ulcerative colitis w/:
+        - Bloody diarrhoea w/ mucus
+        - Fever (likely due to bacterial toxin translocation in the dilated bowel)
+        - Toxic megacolon w/ predisposition to perforation
+        - Functional ileus
+    - **Ix:**
+      - **Stool culture** - +ve culture <u>does not imply clinical disease</u>, as C. difficle can be isolated in:
+        - 30% of those presenting w/ ABx associated diarrhoea; 90% of patients w/ pseudomembranous colitis
+        - Up to 20% of asymptomatic elderly in residential care (colonisation only)
+      - **Stool for C. difficile assay:**
+        - <u>Biochemical tests</u> - glutamate dehydrogenase (GDH)
+        - <u>Detection of toxins</u> - C. difficile toxin ELISA
+        - <u>Detection of nucleic aci</u> - C. difficle PCR
+      - **Colonoscopy:**
+        - <u>Findings</u> - resemble that of ulcerative colitis:
+          - Eryethema
+          - Numerous adherent pseudomembranes or white plaques
+          - Ocassionally rectal sparing
+      - **Serial AXR** - monitoring for toxic megacolon or perforation
+    - **Mx:**
+      - **Principles of Mx:**
+        - <u>General measures</u> - stop precipitating ABx, patient isolation, and supportive therapy (e.g. fluid resuscitation)
+        - <u>ABx therapy</u> - first line either metronidazole or oral vancomycin
+        - <u>Alternative therapy</u> - corticosteroids, IVIG or evenf faecal transplnatation or surgical intervention may be needed in refractory severe cases
+      - **ABx therapy:**
+        - <u>Selection</u> - prefer metronidazole due to ABx stewardship:
+          - Metronidazole 500 mg PO tid for 10d (good anaerobic coverage)
+          - Oral vancomycin 125 mg PO qid for 7-10d (effective and minimal systemic effects as not absorbed)
+
+8.  Cholera
+
+9.  Yersinia enterocolitica infection
+
+10. Vibrio parahaemolyticus infection
+
+11. Bacillary dysentery (shigellosis)
+
+### Respiratory bacterial infections
+
+1.  Diptheria
+
+2.  Pneumococcal infection
+
+3.  Anthrax
+
+### Bacterial infections with neurological involvements
+
+- See chapter under neurologica diseases
+
+### Mycobacterial infections
+
+1.  Leprosy
+
+    - **Definition** - also known as Hansen's disease, a chronic granulomatous disease of the skin and nerves caused by Mycobacterium leprae
+    - **Epidemiology:**
+      - <u>Prevalence</u> - 4 million globally
+      - <u>Incidence</u> - 750000 new cases/y (70% in India)
+    - **Transmission:**
+      - Untreated lepromatous patients discharge through the nose
+      - Infections occurs through the nose, followed by haematogenous spread to skin and nerves
+    - **Pathophysiology of leprosy:**
+      - **Predilectation to Schwann cell and Skin macrophages** - upon infection through the nose, and gains haematogenous access to skin and nerves
+      - **Manifestations dependent on host response** - clinical manifestations exist in a spectrum between lepramatous and tuberculoid leprosy, depending on the patient's <u>cell-mediated immunity</u>:
+        - <u>High levels of CMI</u> - **tuberculoid leprosy** occurs as effective CMI controls bacillary multiplication ('paucibacillary'), but organised **epitheliod granuloma** are formed to contain the infection
+        - <u>Absence of CMI</u> - **lepromatous leprosy** occurs as there is abundant bacillary multiplication (multibacilary) and results in disseminated infections
+      - **Immunological reactions** - immune response against an antigenic stimulus, and underlies type 1 lepra reactions, and type 2 lepra reactions (e.g. erythema nodosum leprosum)
+
+      
+      ![](img/leprosy_pathophysiology.png)
+    - **Clinical features of leprosy:**
+      - **Effects of cutaneous and nerve damage:**
+        - <u>Skin lesions</u> - few, hypopigmented lesions in tuberculoid leprosy, while papules nodules or diffuse infiltration occurs in lepramatous leprosy (N.B. leonine facies)
+        - <u>Anaesthesia</u> - sensory loss as a result of destruction of small dermal nerves, or as a result of damaged peripheral nerves
+        - <u>Neuropathies</u> - sites of predilectation resulting in characteristic patterns of regional sensory loss and motor dysfunction:
+          - **Nerves of the upper limb** - ulnar, median, radial, radial cutaneous
+          - **Nerves of the lower limb** - comon peroneal, posterior tibial, sural
+          - **Nerves of the face** - facial nerve, great auricular nerve
+        - <u>Eye involvement</u> - due to impaired eyelid closure or trigeminal nerve involvement resulting in anaesthesia of the cornea and eye
+
+        ![](img/tuberculoid_vs_lepromatous_leprosy.png) 
+        ![](img/leprosy_skin_lesions.png)
+      - **Effects of leprosy reactions** (immunological):
+        - <u>Type 1 (reversal) reactions</u> - delayed hyersensitvity reactions characterised by erythematous skin lesions, and sudden loss of nerve function
+        - <u>Type 2 reactions (erythema nodosum leprosum)</u> - immune complex deposition in those w/ high energy load, w/ reactions whereever bacillary infiltraiton occurs
+
+        
+        ![](img/leprosy_reactions.png)
+    - **Ix and Dx** - clinical Dx, supported by microbiological investigations:
+      - **Skin Bx** - finding of AFB on slit-skin smear, and quantification by the Bacterial index (BI)
+      - **PCR** - for M. leprae DNA
+    - **Mx** - multidrug anti-leprotics: 
+    ![](img/mdt_for_leprosy_who.png)
+
+### Rickettsial and related intracellular bacterial infections
+
+1.  Rickettsial fevers
+
+2.  Q fever
+
+3.  Bartonellosis
+
+### Chlamydial infections
+
+## Protozoal infections
+
+## Infections caused by helminths
+
+## Ectoparasites
+
+## Fungal infections

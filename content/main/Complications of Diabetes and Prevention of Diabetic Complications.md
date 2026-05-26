@@ -1,0 +1,50 @@
+---
+id: b6414207-2c37-484e-968d-e3d402461968
+title: Complications of Diabetes and Prevention of Diabetic Complications
+---
+
+# Complications of Diabetes and Prevention of Diabetic Complications
+
+- **Overview:**
+    - Excessive morbidity and mortality is caused by macrovascular complications, and microvascular complications
+    - **Macrovascular complications** is caused by **accelerated atherosclerosis**, in a similar manner as non-diabetic patients, but is usually <u>more extensive and severe</u> (amplification of effects of other cardiovascular risk factors)
+    - **Microvascular complications** is characterised pathologically with thickening of basement membrane and **increased vascular permeability**, and <u>correlates strongly with duration and degree of hyperglycaemia</u>
+- **Leading cause of death in diabetic patients** - overall increased mortality risk compared to non-diabetic controls (RR 2.6)
+    - Cardiovascular disease (70%) - increased risk of coronary heart disease, cerebrovascular disease, and peripheral artery disease (RR 2.8 vs non-diabetic control)
+    - Chronic kidney disease (10%) - RR 2.7 vs non-diabetic control
+    - Cancer (10%)
+    - Infections (6%)
+    - Diabetic ketoacidosis (1%)
+    - Others (3%)
+
+  
+  ![](../img/mortality_risk_in_diabetes.png)
+- **Complications of DM:**
+    - **Microvascular/ neuropathic complications:**
+        - <u>Occular complications</u> - diabetic retinopathy (+/- cataracts, CRVO, CRAO)
+        - <u>Renal complications</u> - diabetic nephropathy
+        - <u>Peripheral neuropathy</u> - sensory loss, pain in glove and stocking distribution (+/- motor weakness)
+        - <u>Autonomic neuropathy</u> - labile BP control (postural hypotension), GI motility disorders (e.g. gastroparesis)
+        - <u>Diabetic foot disease</u> - neuropathic lcers, ischaemia, arthropathy
+    - **Macrovascular complications:**
+        - Coronary circulation - coronary artery disease (myocardial ischaemia/ infarction)
+        - Cerebral circulation - transient ischaemic attack, stroke
+        - Peripheral circulation - intermittent claudication, critical limb-threatening ischaemia, acute limb ischaemia
+
+  
+  ![](../img/complications_of_diabetes.png)
+- **Pathophysiology of diabetic microangiopathy** - poorly characterised:
+    - <u>Accelerated atherosclerosis</u> - appears to amplify the effects of other cardiovascular risk factors, such as smoking, HTN, dyslipidaemia, likely due to endothelial injury resulting in increased vascular permeability enabling deposition atherogenic lipoproteins
+- **Prevention of diabetic complications** - strict glycaemic control and control of other risk factors:
+    - **Glycaemic control:**
+        - **Prevailing evidence** - strict glycaemic contol is the only factor with **statistically significant effect** on outcomes:
+            - <u>Diabetes Control and Complication Trial</u> (T1DM) - 76% overall reduction in risk of developing microvascular complications on strict glycaemic control (target 7% vs 9%), with lower risk of MACE, stroke, and cardiovascular mortality in longer follow up , but a/w **3x risk of severe hypoglycaemia**
+            - <u>UK Prospective Diabetes Study</u> (T2DM) - 25% reduction in development of diabetic complications through stright glycaemic control and good control of hypertension
+            - <u>Action to Control Cardiovascular Risk in Diabetes</u> (ACCORD) - aggressive glycaemic control (target \< 6.5%) is a/w **increased mortality** within a subgroup of patients with 1) poorer glycacemic control at baseline, 2) longer duration of diabetes, 3) higher prevalence of cardiovascular disease
+        - **Implications of prevailing evidence:**
+            - <u>Aggressive glycaemic control</u> - more applicable to 1) younger patients, 2) shorter duration of DM, 3) no underlying cardiovascular disease
+            - <u>Lineant glycaemic control</u> - more applicable to 1) older patients, 2) longer duration of DM, 3) multiple comorbidities (optimal target yet to be determined but strict glycaemic control known to increase mortality)
+    - **Control of other risk factors:**
+        - <u>Hypertension</u> - RCTs demonstrate aggressive Mx of BP (130-140/70-80 mmHg) rather than conventional targets minimises microvascular and macrovascular complications
+        - <u>Dyslipidaemia</u> - limits macrovascular complications in people w/ DM, <u>irrespective of baseline cholesterol level</u>
+        - <u>Cardiorenal protection</u> - role of ACEi to improve outcomes with ehart disease and treating diabetic nephropathy

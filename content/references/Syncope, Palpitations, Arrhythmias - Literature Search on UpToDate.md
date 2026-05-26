@@ -1,0 +1,117 @@
+---
+id: 217722eb-05c5-4338-b087-3be2bbeee7a2
+roam_refs: "https://www.uptodate.com.eproxy.lib.hku.hk/contents/evaluation-of-palpitations-in-adults?search=palpitations&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1"
+title: Syncope, Palpitations, Arrhythmias - Literature Search on UpToDate
+---
+
+- **References:**
+    - [UpToDate: Evaluation of palpitations in adults](https://www.uptodate.com.eproxy.lib.hku.hk/contents/evaluation-of-palpitations-in-adults?search=palpitations&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1)
+    - [UpToDate: Approach to the adult patient with syncope in the emergency department](https://www.uptodate.com.eproxy.lib.hku.hk/contents/approach-to-the-adult-patient-with-syncope-in-the-emergency-department?search=syncope&source=search_result&selectedTitle=3~150&usage_type=default&display_rank=3)
+
+# Evaluation of palpitations in adults
+
+- **Definition** - unpleasant awareness of the forceful, rapid, or irregular beating of the heart
+- **Patient description of palpitations:**
+    - Rapid fluttering of the heart
+    - Flip and jolts of heart, with forceful contraction followed by a 'dropped beat'
+    - Pounding sensation in the neck
+- **Etiology of palpitations:**
+    - **Cardiac disorders:**
+        - <u>Arrythmias</u> (tachyarrhythmias, bradyarrhythmias, ectopic beats) - may be 1) idiopathic, 2) related to structural heart disease (old MI, CM), 3) underlying conduction system abnormality (e.g. accessory pathway, channelopathies, heart blocks), 4) medical comorbidities (esp. COPD, PE)
+        - <u>Valvular heart disease</u> - e.g. MVP, AR (bounding pulse)
+        - <u>Cardiomyopathies</u> - all cardiomyopathies predispose to arrhythmias
+        - <u>Pacing</u> - e.g. pacemaker syndrome (atrioventricular dyssynchrony from 'single' ventricular pacing)
+    - **Hyperdynamic circulation** - fever, anaemia, pregnancy, thyrotoxicosis, Paget disease of bone, states of catacholamine excess (stress, exercise)
+    - **Metabolic disorders** - hypoglycaemia (DM), thyrotoxicosis, phaeochromocytoma
+    - **Medications and substance use:**
+        - <u>Medications</u>:
+            - Sympathomimetic agents (increased sympathetic tone)
+            - Anticholinergics (unopposed sympathetic tone)
+            - Vasodilator (reflex tachycardia)
+            - Beta blocker withdrawal
+        - <u>Substance use</u> - e.g. nicotine (smoking), alcohol, caffeine, amphetamines, cocaine
+    - **Psychiatric disorders** - generalised anxiety, panic disorder, somatisation disorder
+    - **Clinical approach** - dependent on whether patient is currently experiencing palpitations:
+        - <u>Patients w/ palpitations at presentation</u> (e.g. A&E) - immediate 12-lead ECG and focused P/E (follow ACLS Mx for arrhythmias)
+        - <u>Patients w/o palpitations at presentation</u> (e.g. SOPD) - focused Hx, P/E, ECG and initial Ix +/- additional testing
+- **Salient points of Hx** - aims at 1) diagnosis, 2) severity, 3) underlying cause, and 4) influence on Mx:
+    - **HPI** - onset, frequency and duration, progression, quality, timing/ provacation, severity:
+        - **Onset** - age of onset, and nature of onset:
+            - <u>Age of onset</u> - no clear cut line, but:
+                - **Younger onset** - a/w SVT such as AVRT or AVNRT
+                - **Older onset** - a/w atrial tachycardia, AF, AFlu, life-threatening ventricular arrhythmias
+            - <u>Onset</u> - nature of onset of each episode:
+                - **Sudden onset** - likely to be SVT, VT, AF or ectopic beats etc.
+                - **Gradual onset** - likely to be sinus tachycardia
+        - **Frequency and duration:**
+            - <u>Frequency</u> - assess severity
+            - <u>Duration</u> - instant sensation or sustained:
+                - **Instant sensation** - likely due to ectopic beats (e.g. PAC, PVC)
+                - **Sustained rhythm** - more consistent with other supraventricular or ventricular arrhythmias
+        - **Quality** - ascertain palpitation nature such as 1) intermittency vs continuous, 2) rate, 3) rhythm, 4) additional descriptions (<u>ask patient to tap out rhythm</u>):
+            - <u>Intermittency</u> - continuous vs intermittent:
+                - **Intermittent attacks** - e.g. suggestive of arrhythmias (SVT, VT, AF, ectopics etc.)
+                - **Continuous** - sugestive of ST, high-output states, medication effects, or valvular heart disease
+            - <u>Rate and rhythm</u>:
+                - **Rapid regular rhythms** - SVT or VT
+                - **Rapid irregular rhythms** - AF, AFlu, multifocal AT, AT with variable block
+                - **Slow regular rhythms** - sick sinus syndrome
+                - **Slow irregular rhythms** - e.g. 2nd-degree AV block (esp. Mobit II), complete AV block
+            - <u>Additional discriptions</u>:
+                - **Flip and jolts in chest or pounding beat followed by missed beat (recurrent but short-lived bouts of palpitation)** - ectopic beats (PAC, PVC)
+                - **Discrete bouts of very rapid heart beat** (sustained fluttering sensation) - all sustained supraventricular or ventricular arrhythmias (differentiated by regularity)
+                - **Pounding feeling in the neck** - caused by AV dissociation (RA contracts into closed tricuspid valve), e.g. PVC, complete heart block, pacemaker syndrome, VT, and very ocassionally pSVT
+        - **Timing** - provacation by exercise, alcohol or emotional distress, terminated by vagal maneuvers
+    - **Associated Sx** - gauge severity based on haemodynamic comprimise, and assess etiology:
+        - **Assessment of haemodynamic instability:**
+            - <u>Chest pain</u> - during episodes of palpitations (haemodynamic comprimise) or in between (concurrent CAD)
+            - <u>Syncope or presyncope</u> (lightheadedness) - severe haemodynamic comprimise, likely caused by malignant arrhythmias, most importantly, VT
+            - <u>Shortness of breath or peripheral oedema</u> - severe haemodynamic comprimise
+        - **Assessment of etiology:**
+            - <u>Polyuria after attacks</u> - suggestive of SVT such as AVRT and AVNRT
+            - <u>Thyrotoxic Sx</u> - e.g. heat intolerance, hand sweating, unintensional weight loss, diarrhoea etc
+            - <u>Hypoglycaemic Sx</u> -tremors, diaphoresis, weakness or confusion
+    - **PMH** - underlying structural heart disease, metabolic conditions, and medications:
+        - **Structural heart disease** - e.g. CAD, valvular heart disease, cardiomyopathies
+        - **Metabolic diseases** - DM, thyroid diseases
+        - **Pregnancy** - is patient currently pregnant?
+        - **Co-existing medical conditions** - COPD, anaemia etc.
+        - **Medications** - e.g. antihypertensives, sympathomimetics (?asthma medications)
+    - **SHx** - risk factors, and effects on ADL:
+        - <u>Precipitants</u> - caffeine, smoking (nicotine), acohol, other substance abuse (e.g. meth, cocaine)
+        - <u>Increased risks in ADL</u> - driving, occupation, recreation
+    - **FHx:**
+        - <u>Structural heart disease</u> - MI, CAD, cardiomyopathies
+        - <u>Conduction system disease</u> - e.g. WPWS, long QT syndrome, Brugada syndrome etc.
+        - <u>Sudden cardiac death</u> - many sudden cardiac death are caused by arythmogenic disease (but Hx is non-diagnostic)
+- **P/E** - P/E rarely done during episode of palpitations, hence performed to assess etiology:
+    - **Vital signs** - BP/P, SpO2, RR, temperature
+    - **General examination** - thyrotoxic signs, anaemia, pregnancy
+    - **Cardiovascular system** - assess RF for CAD, signs of cardiomyopathies and valvular heart disease
+- **Ix:**
+    - **12-lead ECG** - most are in sinus rhythm when initial ECG performed:
+        - <u>Rate and rhythm</u> - assess current rate and rhythma
+        - <u>Axis</u> - any left-axis deviation or right-axis deviation
+        - <u>Intervals</u> - PR interval and delta waves (WPW syndrome), QTc intervals and T wave morphology (LQTS)
+        - <u>Waves</u> - e.g. deep Q wave for old MI (suggestive of VT)
+        - <u>Chamber enlargements</u> - look for LVH (HCM), LAE (think AF) for features of cardiomyopathies, old MI, or valvular heart disease
+        - <u>Ectopics</u> - may be observed on 12-lead ECG and points to potential source of palpitations
+        - <u>ST/T changes</u> - suggestive of myocardial ischaemia/ infarction
+    - **Limited blood tests** - CBC, TFT +/- A1c, FBG and toxicology (if indicated):
+        - <u>CBC</u> - anaemia
+        - <u>TFT</u> - thyrotoxicosis
+        - <u>A1c</u> - DM control
+        - <u>Toxicology screening</u> - performed if indicated
+    - **Echocardiography** - if Hx, P/E or ECG suggestive of structural heart disease:
+        - <u>Indications</u> - 1) Suspicion of cardiomyopathy (Hx, FHx, Sx, ECG), 2) Murmur on P/E, 3) features of old MI (e.g. pathological Q waves, LBBBB, LVH pattern)
+        - <u>Findings</u> - look for old MI, cardiomyopathies, and valvular heart diseases
+    - **Ambulatory ECG monitoring** - indicated for worried patients or those with high risk of arrhythmias:
+        - **Indications** - depending on **risk for concerning arrhythmias** based on Hx, P/E, ECG and echo:
+            - **Low risk for concerning arrhythmias** - 1) unsustained, and well tolerated palpitations, 2) no suspicion of haemodynamic comprimise, 3) no evidence of structural heart disease
+            - **High risk for concerning arrhythmias** - 1) Sustained palpitations, 2) a/w haemodynamic comprimise, 3) evidence of structural heart disease, 4) +ve FHx of sudden death, cardiomyopathy, long QT syndrome etc.
+        - **Holter monitor** - 24-48h monitoring system that records and saves data continuously, while patient keeps diary recording time and characteristic of Sx
+        - **Continuous loop event recorder** - 2-4 weeks continuous recording of data but only saves data from preceding and subsequently 2 minute in an event driven manner (e.g. manual activation of device when palpitations occur, or triggered by certain pattern on ECG)
+        - **Implantable continuous loop even recorder** (ICM) - subcutaneous continuous loop event recorder on left pectorial region used up to 2 year that saves data according to programmed criteria or manually with magnet application (typically reserved for patients with unexplained syncope)
+- **Mx** - depends on suspected or identified causes
+
+# Approach to the adult patient with syncope in the emergency department

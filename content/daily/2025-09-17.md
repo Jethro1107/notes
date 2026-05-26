@@ -1,0 +1,195 @@
+---
+id: d2575b0b-b4c1-4191-97db-738909ea59e2
+title: 2025-09-17
+---
+
+# Invasive Breast Carcinoma - Literature Search on UpToDate <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+- **Reference:**
+    - [UpToDate: Clinical features, diagnosis and staging of newly diagnosed breast cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/clinical-features-diagnosis-and-staging-of-newly-diagnosed-breast-cancer?search=breast+cancer&topicRef=737&source=see_link)
+    - [UpToDate: Diagnostic evaluation of suspected breast cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/diagnostic-evaluation-of-suspected-breast-cancer?search=evaluation+of+breast+mass&source=search_result&selectedTitle=2%7E92&usage_type=default&display_rank=2)
+    - [UpToDate: TNM staging classification for breast cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/tumor-node-metastasis-tnm-staging-classification-for-breast-cancer?search=evaluation+of+breast+mass&topicRef=744&source=see_link)
+    - [UpToDate: Overview of the treatment of newly diagnosed, invasive, non-metastatic breast cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/overview-of-the-treatment-of-newly-diagnosed-invasive-non-metastatic-breast-cancer?search=breast+cancer&topicRef=744&source=see_link)
+    - [UpToDate: Adjuvant endocrine and targeted therapy for postmenopausal women with hormone receptor-positive breast cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/adjuvant-endocrine-and-targeted-therapy-for-postmenopausal-women-with-hormone-receptor-positive-breast-cancer?sectionName=INDICATIONS&search=breast+cancer&topicRef=737&anchor=H658246&source=see_link#H658246)
+    - [UpToDate: Overview of the approach to metastatic breast cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/overview-of-the-treatment-of-newly-diagnosed-invasive-non-metastatic-breast-cancer?search=breast+cancer&topicRef=744&source=see_link)
+
+## Diagnostic evaluation of suspected breast cancer
+
+- **Factors affecting radiological assessment** - selection of imaging modality dependent on:
+    - 1\. Age of the patient
+    - 2\. Degree of clinical suspicion of breast cancer
+    - 3\. Nature of clinical presentation (screening mammogram or presentation w/ a palpable breast mass)
+- **Approach to radiological assessment:**
+    - **Presentation as abnormal screening mammography** - repeat diagnostic mammography +/- USG: 
+    ![](~/Documents/notes/img/approach_to_abnormal_screening_mammogram.png)
+    - **Presentation as palpable breast mass w/ no breast imaging** - selection of initial modality dependent on patient age:
+        - <u>\<30y</u> - breast USG preferred over MMG as initial Ix, with subsequent MMG only if susppicious lesion, as 1) incidence of breast cancer is low (\< 1%), 2) most benign breast lesions are not visualised by MMG, and 3) unnecessary radiation risk w/ MMG
+        - <u>30-49y</u> - breast USG and MMG typically performed sequentially as they are complementary to each other
+        - <u>\> 40y</u> - diagnostic MMG preferred over breast USG as initial Ix as to **identify other suspicious lesions beyond the palpable mass**
+- **Diagnostic mammography** - repeat mammogram even if screening mammogram reveals suspicious lesions:
+    - **Standard views**:
+        - <u>Medial Lateral Oblique (MLO) view</u> - oblique view upwards towards the axilla
+        - Cranio-caudal (CC) view - horizontal view taken from above
+    - **Additional views** - e.g. spot compression view, magnification view, and varied angled view to better characterise lesion before making a final recommendation for Mx
+    - **Features suggestive of breast cancer:**
+        - <u>Spiculated soft tissue mass</u> - the most Sp mammographic feature suggestive of malignancy (Sp 90%), however cancers can also present as irregular mass, or non-specific lobulated masses 
+        ![](~/Documents/notes/img/mammographic_spiculated_mass.png)
+        - <u>Microcalcifications</u> - represents necrotic cells in the centre of a cluster of tumour cells, where microcalcifications can be seen in 60% of cancers detected mamographically:
+            - **Linear branching microcalcifications** - most a/w comedo histological subtype and high-grade DCIS, compared w/ coarse, heterogenous, non-linear irregular calcifications 
+            ![](~/Documents/notes/img/linear_branching_calcifications.png)
+            - **Grouped-course heterogenous calcifications or amorphous calcifications** (BIRADS 4B) - irregular, non-linar coarse calcifications still a/w relatively high risk of malignancy (15-20%) 
+            ![](~/Documents/notes/img/grouped_microcalcifications.png)
+            - **Large calcifications** - large course calcifications and smooth round or oval calcifications are typically benign and represent normal cellular turnover 
+            ![](~/Documents/notes/img/popcorn_like_calcification_of_benign_fibroadenoma.png)
+    - **Assessment of extent of disease:**
+        - **Multifocal and multicentric disease** - detection of non-palpable suspicious masses which is particularly important for women who wish for <u>breast conservation</u> (not a definite contraindication):
+            - <u>Multifocal disease</u> - involvement of several areas **within** a breast quadrant, representing disease along the entire duct
+            - <u>Multicentric disease</u> - involvement in **different** breast quadrant
+        - **Intraductal component** - extensive intraductal component (EIC) may be identified by combination of mass and associated calcifications
+- **Ultrasound** - breast and axillary USG:
+    - <u>Role of breast USG</u> - as adjunct to mammography:
+        - Down-grading of disease (e.g. cystic mass) which does not require pathological evaluation
+        - Better characterization of lesion, i.e. correctly assessing extent of lesion especially in dense breasts (i.e. Asian population)
+        - USG-guided Bx if pathological confirmation is to be persued
+        - Measurement and clip lesion prior neoadjuvant chemotherapy
+    - <u>Role of axillary USG</u> - identify clinically suspicious LN for pre-operative FNAC to identify cN+ disease
+- **Breast MRI** - indicated in selected number of patients as no prospective RCT demonstrates its influence on Mx and outcomes:
+    - <u>Indications</u> - selected patients where primary tumour is poorly characterised and minute differences can alter Mx:
+        - **Axillary nodal metastasis** w/ clinically occult primary tumour
+        - **Paget's disease of breast** despite -ve P/E and mammography
+        - Indeterminent lesion on MMG and MRI
+        - Clinically suspected chest wall involvement to better define local anatomy
+    - <u>Test properties</u> - excellent Sn, but often criticised by limited Sp resulting in excess FP (88-100% Sn, 72% Sp)
+    - <u>Current evidence for impact of pre-operative breast MRI</u> - limited impact on Mx and outcomes:
+        - No impact on OS, DFS and recurrence rate
+        - No impact on positive margins rate hence limited role for surgical planning
+        - Increased rate of contralateral disease detection and workup, and subsequently contralateral mastectomy, although impact of this role is controversial
+- **Breast Imaging-Reporting and Data Systems** (BI-RADS) - defines final diagnostic categories based on mammographic and sonographic features and determines relative likelihood of malignant diagnosis: 
+![](~/Documents/notes/img/birads_for_risk_of_malignancy_of_breast_mass.png)
+- **Breast biopsy** - for suspicious mammographic abnormality clinically or radiographically:
+    - <u>Indications</u>:
+        - BI-RADS 4-5 (mammographic abnormality suspicious for malignancy)
+        - Clinically suspicious palpable LN
+    - <u>Selection</u> - core needle biopsy preferred over incisional or excisional Bx (FNAC not indicated)
+    - <u>Role of breast Bx</u>:
+        - Histological diagnosis of invasive breast carcinoma
+        - Guides further Mx such as IHC testing, determining role of neoadjuvant therapy and choice of surgery
+
+## Clinical features, diagnosis and staging of newly diagnosed breast cancer
+
+- **Post-diagnosis evaluation:**
+    - <u>Breast cancer receptor testing</u> - tested for ER, PR receptor expression, and HER2 overexpression to guide systemic Tx
+    - <u>Systemic staging Ix</u> - routine bloods acquired often for another indication (e.g. neoadjuvant therapy, pre-operative assessment), while systemic staging Ix is typically not required asymptomatic stage I-II disease
+    - <u>Genetic counselling</u> - some patients may be appropriate candidates for genetic evaluation for hereditary breast and ovarian cancer syndromes
+- **Breast cancer receptor testing:**
+    - **Hormone receptor status** - assessment of ER and PR status where HR positivity defined as expression in \> 1% of cells, which has <u>prognostic</u> (in AJCC prognostic grouping), and <u>predictive</u> (for Tx response) roles
+    - **HER2 overexpression** - assessment for HER2 ooverexpression to identify HER2 overexpressed disease that benefits HER2-based therapy in neoadjuvant and adjuvant setting:
+        - <u>Techniques</u>:
+            - Immunohistochemistry - IHC 3+ defined by uniform intense staining of \> 10% of invasive tumour cells
+            - FISH - defined by ratio of HER2/CEP17 \> 2 with HER2 copy number signals/ cell \>= 4
+- **Staging Ix:**
+    - **Indications** - generally not indicated asymptomatic stage I-II disease:
+        - Stage III breast cancer
+        - Inflammatory breast cancer irrespective of stage
+        - Stage I-II patients w/ suspcion of metastasis on clinical (S/S) or biochemical (e.g. raised ALP, dLFT) grounds
+    - **Selection of systemic staging Ix:**
+        - PET-CT
+        - CT T+A+P + bone scan if PET-CT not available
+- **Staging system** - AJCC 8th editition TNM staging:
+    - **Principles of staging:**
+        - <u>Clinical staging</u> - stage based on clinical examination, mammography and USG
+        - <u>Surgicopathological taging</u> - final stage obtained from surgical specimen if surgery is pursued
+        - <u>Anatomical staging</u> - prognostic staging based on T, N, and M status alone
+        - <u>Prognostic staging</u> - incorporates HER2 and HR status into traditional anatomical staging to differentiate patients into different prognostic groups
+
+## Overview of the treatment of newly diagnosed, invasive, non-metastatic breast cancer
+
+- **Neoadjuvant therapy vs upfront surgery** - considered neoadjuvant therapy when 1) demonstrated to improve oncological outcomes, 2) enables breast conservation, and 3) provides prognostic information regarding responsiveness to systemic therapy:
+    - **Indications for neoadjuvant therapy:**
+        - <u>HR +ve breast cancer</u> - neoadjuvant chemotherapy (or hormonal therapy) indicated for locally advanced disease (e.g. stage III, T3-4 disease) or BCT is desired when currently not possible
+        - <u>HER2 +ve breast cancer</u> - PTD indicated if tumour \>= 2cm (i.e. \>= T2) or node-+ve disease
+        - <u>TNBC</u> - chemoimmunotherapy indicated if tumour \>= 2cm (i.e. \>= T2) or node-+ve disease
+
+    
+    ![](~/Documents/notes/img/indications_for_neoadjuvant_therapy_in_ebc.png)
+    - **Selection of neoadjuvant therapy** - dependent on IHC classification:
+        - <u>HR +ve breast cancer</u> - chemotherapy preferred over hormonal therapy due to faster pathological response:
+            - Neoadjuvant chemotherapy - e.g. AC + T or TC
+            - Endocrine therapy - acceptable alternative if medically unfit for chemotherapy but desires breast conservation
+        - <u>HER2 +ve breast cancer</u> - dual targeted therapy with chemotherapy (Pertuzumab + Transtuzumab + Docetaxel \[PTD\]) shown to outperform herceptin and docetaxel alone
+        - <u>TNBC</u> - chemotherapy with role of immunotherapy (pembrolizumab) as shown to have survival benefits in neoadjuvant setting irrespective to PD1 expression
+- **Adjuvant systemic therapy** - selection of adjuvant therapy depends on 1) tumour characteristics, 2) response to neoadjuvant therapy, and 3) patient factors (e.g. menopausal status):
+    - **HR +ve breast cancer** - adjuvant endocrine therapy +/- adjuvant chemotherapy or targeted therapy based on <u>risk of recurrence</u>:
+        - <u>Adjuvant endocrine therapy</u> - 5y for all patients, selection dependent on patient comorbidities and menopausal status
+        - <u>Adjuvant chemotherapy</u> - required for tumours \> 0.5 cm or pathologically N+ disease, or if RS high for menopausal status
+        - <u>Adjuvant targeted therapy</u> - CDK4/6 inhibitors reserved for high-risk, N+ disease
+    - **HER2 +ve breast cancer** - adjuvant HER2-based therapy (transtuzumab or T-DM1) based on <u>presence of disease at time of surgical resection</u>:
+        - <u>Transtuzumab alone</u> - indicated for patients w/ **pathological complete response** at time of surgical resection for 1y
+        - <u>Transtuzumab-emtansine</u> (T-DM1) - indicated for patients w/ residual disease at time of surgical resection for 14 cycles
+        - <u>Transtuzumab, pertuzumab, and docetaxel</u> (PTD) - considered for patients opted for upfront surgery
+    - **TNBC** - adjuvant immunotherapy +/- chemotherapy based on <u>presence of disease at time of surgical resection</u>:
+        - <u>Pembrolizumab</u> - typically indicated for 6 mo to 1y even if **pathological complete response** w/ neoadjuvant therapy
+        - <u>Adjuvant chemotherapy</u> - considered when there is residual disease at time of surgical resection (e.g. if upfront therapy or incomplete response on neoadjuvant therapy)
+- **Adjuvant RT** - takes into account of type of surgery and risk of recurrence:
+    - <u>Following BCS</u> - mandatory after BCS to complete BCT to eradicate any residual disease
+    - <u>Following mastectomy</u> - only necessary if +ve resection margins or pathologically node-+ve disease
+
+## Adjuvant endocrine and targeted therapy for postmenopausal women with hormone receptor-positive breast cancer
+
+- **Indications** - for all HR +ve disease, where HR positivity defined as expression in \> 1% of tumour cells
+- **Approach to hormonal therapy** - dependent on <u>menopausal status</u>; aromatase inhibitors preferred over tamoxifen due to better oncological outcomes:
+    - <u>Post-menopausal women</u> - aromatase inhibitor preferred, although tamoxifen acceptible if S/E of AIs intolerable
+    - <u>Pre-menopausal women</u> - tamoxifen preferred in pre-menopausal women with low-to-intermediate risk of disease, while AI with OFS (induced menopause) may be preferred for high risk disease
+- **Aromatase inhibitors** - can only be used in <u>post-menopausal state</u>:
+    - <u>Selection</u>:
+        - Letrozole (2.5 mg/d)
+        - Anastrozole (1 mg/d)
+        - Exemestane (25 mg/d)
+    - <u>MOA</u> - inhibition of peripheral conversion of androgens to estrogen in adipose tissues
+    - <u>Clinical efficacy</u> - meta-analysis (2015) demonstrates reduced risk of recurrence (RR 0.64) and mortality (0.85) over tamoxifen 
+    ![](~/Documents/notes/img/evidence_for_ai_over_tamoxifen_in_adjuvant_setting.png)
+    - <u>S/E</u>:
+        - Musculoskeletal pain and stiffness
+        - Osteoporosis
+        - Sexual dysfunction
+- **Tamoxifen:**
+    - <u>MOA</u> - selective estrogen receptor modulator (SERM):
+        - Inhibition of growth of breast cancer cells by competitive antagonism on ER
+        - Stimulatory effects in other tissues, such as bone and uterus
+    - <u>S/E</u>:
+        - Venous thromboembolism
+        - Endometrial cancer
+        - Hot flashes, sexual dysfunction
+- **Targeted therapy** - indicated for high-risk disease by study definition:
+    - <u>Abemaciclib</u> (MONARCHE trial)
+    - <u>Ribociclib</u> (NATALEE trial)
+
+# Cancer 2a paper
+
+1.  C
+2.  D
+3.  B
+4.  D
+5.  D
+6.  B
+7.  B
+8.  B
+9.  A
+10. D
+11. B
+12. B
+13. B
+14. B
+15. A
+16. D
+17. B
+18. D
+19. C
+20. C
+
+Part two SAQ:
+
+1.  Hepatocellular carcinoma A. Heterogenous round mass with areas of hypoechogenicity and central iso/ hyper-echogenicity. Doppler reveals a vascular mass. B. Non-rim arterial enhancement with rapid portal venous washout of the mass. This is suggestive of hepatocellular carcinoma. C. AFP and LFT.
+2.  Tarry stool A. Routine bloods: CBC, LRFT, clotting, tumour markers (CEA). Colonoscopy. B. Assessment of cognitive function. Assessment of motor function. Social assessment.
+3.  Stage IV sigmoid cancer A. Palliative RT. Palliative ressection. B. Palliative ressection of the tumour.
+4.  Tongue cancer A. Frozen section to confirm resection margins B. Modified radical LN dissection C. IDK D. Temporary tracheostomy.

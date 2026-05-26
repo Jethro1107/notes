@@ -1,0 +1,55 @@
+---
+id: e71c2a32-629c-49e1-9319-afe9f0f2871e
+title: Motor Neuron Disease
+---
+
+# Motor Neuron Disease
+
+- **Definition** - neurodegenerative condition caused by <u>loss of UMN and LMN of spinal cord, cranial nerve nuclei and motor cortex</u>
+- **Epidemiology:**
+    - <u>Prevalence</u> - 7/100,000
+    - <u>Incidence</u> - 2/100,000/y
+    - <u>Demographic</u>:
+        - **Age:**
+            - Usually presents after 50y (10% present before 45y, but very uncommon after 30y)
+            - Average age of onset around 65y
+        - **Sex** - male preponderanece
+- **Genetic associations** - most are soradic and only 5-10% are familial:
+    - Superoxide dismutase (SOD1) gene - accounts for 20%
+    - C9ORF72 gene expanded repeat sequences on chromosome 9 - also a/w frontotemporal dementia
+- **Forms of MND** - all will eventually progress into ALS:
+    - <u>Amyotrophic lateral sclerosis</u> (ALS) - combination of UMN and LMN signs
+    - <u>Progressive muscular atrophy</u> - pure LMN lesions
+    - <u>Progressive lateral sclerosis</u> - pure UMN lesions
+    - <u>Progressive bulbar palsy</u> - early bulbar Sx presenting with dysarthria, and dysphagia
+- **Clinical features of MND** - Sx begin focally, but spread gradually and is relentlessly progressive; 50% die within 2y of Dx:
+    - **Limb weakness** - typically presenting focally with limb onset (e.g. <u>foot drop</u>), associated w/ cramps and ocassionally fasciculations
+    - **Bulbar Sx** - ocassionally presenting with dysphagia or dysarthria with tongue signs
+    - **Respiratory failure** - T2RF rarely a presenting symptom but is a <u>common terminal event</u>
+    - **Cognitive impairment** - up to 50% will have executive impairment on formal testing and 10% may develop frontal temporal dementia (10% FTD patients will subseuqne tdevelop ALS within a few years of dementia onset)
+    - **Absence of other localising Sx:**
+        - <u>Sensory Sx</u> - absence of numbness of parasthesia
+        - <u>Autonomic Sx</u> - absence of cardiovascular, GI, genitourinary Sx
+        - <u>Visual Sx</u> - absence of vision loss or visual field defects
+- **Signs of MND** - classically combination of UMN and LMN signs (e.g. brisk reflex in a wasted, fasciculating muscle): 
+![](../img/clinical_features_of_mnd.png)
+    - <u>Cranial nerves</u> - may show weakness of tongue, palate and fae, but EOM usually intact
+    - <u>Sensory system</u> - no objective sensory deficit
+    - <u>Motor system</u> - dependent on involvement: 
+    ![](../img/patterns_of_involvement_in_mnd.png)
+- **Ix** - r/o more common treatable causes (e.g. immune-mediated multifocal motor neuropathy, radiculopathy):
+    - **Blood tests** - all normal except for mildly <u>raised CK</u>
+    - **Electrophysiological testing:**
+        - <u>Nerve conduction studies</u> - usually normal but reduction of amplitude of motor action potentials may be present due to axonal loss
+        - <u>Electromyography</u> - diagnostic, showing typical features **denervation and re-innervation**
+    - **Neuroimaging** - r/o focal lesions suggesting alternative Dx
+    - **LP** - typically not required
+    - **DNA testing** - for genetic diagnosis
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Multidisciplinary approach</u> - neurologist, respiratory physicians, palliative care teams, and allied health (PT, OT, speech therapy, dietitians)
+        - <u>Pharmacological therapy</u> - riluzole licensed for ALS but has modest effect
+        - <u>Ventilatory or feeding support</u> - non-invasive ventilatory support or percutaneous gastrostomy may improve QoL of selected patients
+
+    
+    ![](../img/evidence_for_tx_of_als.png)

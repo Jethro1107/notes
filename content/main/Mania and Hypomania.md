@@ -1,0 +1,116 @@
+---
+id: c6bd49cb-9f85-4458-906d-fbfccc7fd1d7
+title: Mania and Hypomania
+---
+# Mania and Hypomania
+
+- **Mania** - clinical syndrome of 1) elated mood, 2) increased goal-directed activity (and increased energy levels), and 3) self-important ideas:
+        - **Persistent elevated, expansive, or irritable mood** - historically described as mood elation although also commonly presents w/ irritability:
+                - <u>Quality</u>:
+                        - Elated mood - appears euphoric, cheerful, optimistic, high, or "feeling on top of the world" and noted by earlier writers as "infectious gaiety", that is recognised as excessive and may be characterised by **haphazard enthusiasm for interpersonal, sexual or occupational interactions**
+                        - Irritable mood - irritability is usually more common, especially when the individual's wishes are denied or there is a "reality check" can easily turn to anger and violence
+                - <u>Timing</u> - no diurnal regulation that is characteristic of severe unipoolar disorders, and not uncommon for **high spirits to be interrupted by brief episodes of depression**
+        - <u>Associated appeaence and behaviour</u>:
+                - **Appearence** reflects prevailing mood, where clothing maybe brightly coloured and ill-assorted, but in severe cases appears untidy and dishevelled
+                - **Behaviour reflects increased energy levels**:
+                        - Increased sociability, talkativeness, possibly w/ overfamiliarity
+                        - Appetite increased and may eat food greedily w/ little attention to convetional manners
+                        - Disinhibited sexual desires which is particularly important for women of child-bearing age
+        - **Self-important ideas and grandiosity** - often revealed by the tempo and contents of speech and thoughts, impulsivity in spending habits, goal-directed activities, run-ins with the law, and may or may not ascend to delusional activities:
+                - <u>Quality</u> - often reflected by a change in thought tempo and expansive ideas:
+                        - **Inflated self-esteem** may be range from uncritical self-cnfidence to marked grandiosity which may reach delusional porportions
+                        - Accompanied by **racing thoughts** described by patients w/ **rapid and copious** amounts of thoughts crowding the mind, which may result in **pressure of speech** and **flight of ideas**
+                        - **Expansive ideas** common, which is often grandiose, unrealistic, or overly optimistic, with a believe that their ideas are **original**, **important**, and **outstanding**, in which the patient may or may not act on
+                        - If acted upon, usually results in **multiple overlapping new projects**, especially w/ little knowledge of the topic (nothing is out of the individual's reach), it may result in **attempts of feats that are clearly dangerous**, and represent a **change from normal behaviour**
+                - <u>Impact on patient</u> - often suffers when patient impulsively act on these expansive ideas:
+                        - Financial - extravagant shopping sprees, e.g. on expensive cars or jewellery, ill-considered investments, risky business ventures
+                        - Occupation - reckless decision to give up good jobs
+                        - Legal - plans may involve breaking the law, **substance use**
+                        - Sexual - promiscuiity
+        - **Increased energy levels with increased goal-directed activity** - generally dependent on the content of self-important ideas but often reflected by:
+                - <u>Reduced sleep</u> - requiring less sleep yet staying energetic, and characteristically wakes up in the middle of the night and busy themselves noisily (often to the annoyance of others)
+                - <u>Increased planning</u> - planning based on the specific overvalued idea, however manic patients often **start many activities but leave them unfinished for new ones that attract the attention** (reflecting racing thoughts) and in fact get very little done
+        - **Psychotic Sx** - 10-20% of manic patients experience first-rank Sx, but they usually do not last long, mostly dissapearing or changing in content within days:
+                - **Delusions** - mostly regarded as secondary delusions that generally do not persist past the time point of elated mood, often <u>disappearing in days</u> or <u>rapidly changing content</u>:
+                        - <u>Grandiose delusion</u> (most common) - generally evolves from self-important (grandiose), expansive ideas and inflated self esteem
+                        - <u>Delusion of percusation or delusion of jealousy</u> - may arise from morbid irritability or arising secondary from grandiose delusion
+                        - <u>Delusion of reference</u> - ocassionally arises from elevated self-esteem
+                        - <u>Delusion of passivity</u> - as a first-rank Sx of schizophrenia but con occur in 10-20% of those w/ severe manic episodes
+                - **Hallucinations** - usually AH that is <u>mood-congruent</u>, usually taking form of voices <u>affirming patients inflated self-esteem</u>, and may take a religious tone
+        - **Impaired insight** - insight often invariably impaired:
+                - See no reason why grandiose plans should be restrained or their extravagant expenditure curtailed due to being overly optimistic
+                - Most do not think themselves as ill, and even if they do (e.g. run in with crimes or physical exhaustion), do not attribute to the Sx to the illness, nor do they believe that they are in need of Tx
+                        - However insight may be _fluctuating in the hyperacute phase_ as they may exert some control over their Sx for a short period of time: 
+				Henry Maudsley (1879, p. 398) expressed the problem well: Just as it is with a person who is not too far gone in intoxication, so it is with a person who is not too far gone in acute mania; he may on occasion pull his scattered ideas together by an effort of will, stop his irrational doings and for a short time talk with an appearance of calmness and reasonableness that may well raise false hopes in inexperienced people.
+- **Manic stupor** - rarely seen now, scenario where patient **appears elated**, and on recovery describes racing thoughts, but been rendered **mute and immobile** ("paralysed") by the excessive thought tempo: 
+	 Therefore an earlier description by Kraepelin (1921, p. 106) is of interest: The patients are usually quite inaccessible, do not trouble themselves about their surroundings, give no answer, or at most speak in a low voice . . . smile without recognizable cause, lie perfectly quiet in bed or tidy about at their clothes and bedclothes, decorate themselves in an extraordinary way, all this without any sign of outward excitement.
+- **DSM-V criteria for manic episode:**
+	  
+	  ![](../img/manic_episodes_dsm_5.png)
+- **DSM-V criteria for hypomanic episode:**
+	  
+	  ![](../img/hypomanic_episode_dsm_5.png)
+- **Major DDx of mania** (ref [[Oxford Ch10 Bipolar Disorders]]):
+        - **Bipolar I disorder** - by definition 1 episode is necessary for diagnosis of bipolar I disorder, while absence may be more suggestive of bipolar II disorder
+        - **Schizophrenia or schizoaffective disorder:**
+                - Most difficult to distinguish especially as <u>psychotic symptoms</u>, including those first-rank symptoms can occur in both schizophrenia and manic disorders
+                - <u>Content and duration of psychotic features</u> are the key differentiating features
+                - In <u>bipolar disorders</u>, common delusions and AH are mood congruent and generally <u>arises from a morbid state of inflated self-esteem</u>; delusion of percusation or jealousy which is more seen in schizophrenia can occur in bipolar disorders
+                - In bipolar disorders, psychotic features are usually <u>short-lasting</u>, or <u>changing in content</u>, and never persist <u>beyond period of over-activity</u>; persistence of a high-degree of conviction suggests schizophrenia-spectrum disorders
+        - **Bipolar disorders due to another medical condition:**
+                - **Frontal lobe pathology** - features of gross disinhibition is suggestive of frontal lobe pathology:
+                        - Common causes include 1) _traumatic brain injury_, 2) _frontal lobe meningioma_ (or other brain tumours), and 3) _stroke_
+                        - Less common causes include _multiple sclerosis_, _HIV_ but should be considered if Hx is suggestive
+                - **Endocrinopathies** - Cushing's syndrome, hyperthyroidism
+        - **Substance or medication-induced bipolar disorders** - distinction made based on detailed drug Hx and toxicology; however note that substance use disorder may complicate bipolar disorder and hence temporal relationship is to be established:
+                - _Medications_ - steroids, L-dopa, antidepressants
+                - _Illicit drugs_ - stimulants (esp. in early use of cocaines and amphetamines)
+    - **Borderline personality disorder:**
+        - Often mimicks affective instability, but often rapidly shifts over hours and days, which is not fitting for bipolar disorders
+        - Features of increased energy or increased activity is rare in BPD but prominent in manic disorders
+        - Mood episodes in BPD is usually triggered by interpersonal issues while they are not too prominent in bipolar disorders
+- **Other personality disorders:**
+        - Antisocial personality disorder
+        - Narcissistic personality disorder
+	
+	![[Pasted image 20260405160037.png]]
+- **Salient points of Hx** (ref Clinical Skills Session on Bipolar Affective Disorders 3/3/26):
+    - **Eliciting manic Sx:**
+        - **Mood elation:**
+            - <u>Onset</u> - 1 week for mania; 4 days for hypomania
+            - <u>Description</u> - ask patient to describe the sensation (e.g. flying, floating sensation, 'high'), focus on **uncontrollable**, and **pervasiveness** of the mood state
+            - <u>Timing</u> - characterise pervasiveness of Sx:
+                - Tedious moments (mood elation even during normally tedious times \[ask patient to recall what used to be boring\])
+                - Sad moments (environmental factors cannot affect degree of elation)
+            - <u>Descriptions by others</u>:
+                - Ask patient regarding whether others notice the changes
+                - Ask patient how others describe the patient now
+                - Ask patient if they agree with the assessment by others
+        - **Grandiosity and self-important ideas:**
+            - <u>Onset</u> - may be insiduous
+            - <u>Description</u> - ask patient to clarify grandiosity, note **comparison w/ before**:
+                - General feeling of feeling good
+                - Special skills (nothing is out of the patients reach)
+                - Special ideas
+                - Special connections to people
+            - <u>Description by others</u> - as above by mood elation
+        - **Increased energy levels and goal-directed activities:**
+            - <u>General energy levels</u> - doing, or planning many projects
+            - <u>Sleep</u> - decrease need of sleep and not fatiguable
+            - <u>Goal-directed activity</u> - tactful probing on degree of planning and whether plans put into motion based on the specific self-important ideas:
+                - Simultaneously starting multiple projects esp. with little experience
+                - Doing work at unusual hours (and impact on others)
+            - <u>Racing thoughts</u> - evidence of flight of ideas, racing thoughts, which cannot be controlled (whether patient thinks others can keep up w/ thoughts; or understand the patient)
+        - **Risky behaviours:**
+            - Violence
+            - Spending spree/ investments/ 
+            - Driving
+            - Sex
+            - Substance abuse
+    - **Other symptom domains to evaluate:**
+        - Delusions (lead w/ grandiose delusions to other less common delusions such as of reference, persecution, erotomania, jealousy, religion)
+        - Hallucinations (rare; if present usually fleeting and non-distressing as congruent w/ thoughts)
+    - **PMH and Drug Hx** (including illicit drug use) - r/o aforementioned organic cause
+- **P/E:**
+    - <u>General inspection</u> - Cushingoid features, thyroid status
+    - <u>Neck examination</u> - goitre

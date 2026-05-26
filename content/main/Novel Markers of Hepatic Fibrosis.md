@@ -1,0 +1,11 @@
+---
+id: 1247A2AB-AC17-4372-88C0-EC67E4979FF6
+roam_parent: 038344b7-fbba-417a-9bc1-3eddd3f4b81d
+title: Novel Markers of Hepatic Fibrosis
+---
+
+# Novel Markers of Hepatic Fibrosis
+
+- **Non-inavsive markers of hepatic fibrosis:**
+    - <u>Novel serological studies</u> - alpha-2-macroglobulin, haptoglobulin or enhanced liver fibrosis assay (combination of hyaluronic acid, procollagen peptide III, and tissue inhibitor of metalloproteinase I)
+    - <u>Transient elastography</u> (e.g. fibroscan) - USG-based shock wave as a measurement of liver stiffness (LSM) for hepatic fibrosis, now also used for assessment of steatosis (CAP)

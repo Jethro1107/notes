@@ -1,0 +1,60 @@
+---
+id: 1a2b8d06-6493-40ff-b8a3-3110188af528
+title: Sabiston Ch74 Urologic Surgery
+---
+
+# Urologic Anatomy for the General Surgeon
+
+# Endoscopic Urological Surgery
+
+# Urologic Infectious Disease
+
+# Voiding Dysfunction, Neurogenic Bladder, Incontinence, and Benign Prostatic Hyperplasia
+
+- **Background** - broad area of urology where patient may experience voiding problems pertains to pathology that affects the lower urinary tract (i.e. Bladder, and Bladder Outflow Tract)
+- **Common complaints:**
+    - <u>Lower urinary tract Sx</u> - non-specific set of Sx of bladder dysfunction occuring during the storage phase and voiding phase
+    - <u>Incontinence</u> - Involuntary loss of urine that is objectively demonstrable and results in social or hygiene problem
+- **Physiology of micturation:**
+    - **Sympathetic nervous system** (alpha-1 adrenergic receptors) - stimulates bladder storage:
+    - **Parasympathetic nervous system** (M3 muscarinic receptors) - stimulates bladder emptying:
+    - **Higher control centre** - sympathetic and parasympathetic outflow is modulated by inputs from the pons, midbrain, and cerebral cortex:
+        - <u>Pontine micturation centre</u> (promotes bladder emptying) - stimulates parasympathetic centre to the bladder to initiate voiding
+        - <u>Periaqueductal grey of midbrain</u> (promotes bladder storage) - receives afferent sensory signals from the pathway and inhibits pontine micturation centre
+        - <u>Cerebral cortex</u> - voluntary control micturation
+
+## Neurogenic bladder
+
+- **Definition** - bladder dysfunction as a result of a spectrum of neurologic diseases or injuries
+
+## Overactive Bladder
+
+## Urinary Incontinence
+
+## Benign Prostatic Hyperplasia
+
+# Male Reprodctive Medicine and Sexual Dysfunction
+
+# Urolithiasis
+
+- **Definition** - renal calculous disease, characterised by stone at any level of the urinary stract
+- **Epideimology:**
+    - <u>Prevalence</u> - steadily increasing (5% in 1994 to 9% in 2010 lifetime risk)
+    - <u>Incidence</u> - peak incidence in 4th-6th of life, male proponderence (M:F = 2:1)
+- **Classification of renal stones:**
+    - **By composition:**
+        - <u>Calcium stones</u> - calcium phosphate stones, calcium oxalate stones
+        - <u>Infection stones</u> - Magnesium ammonium phosphate (Struvite) stones from specific infections by urease-positive organisms (Proteus spp., K. pneumoniae, Staphylococcus spp.)
+        - <u>Metabolic stones</u>:
+            - Uric acid stones - caused by hyperuricosuria from excessive protein intake or excessive purine metabolism (tumour lysis syndrome)
+            - Xanthine stone - caused by excessive xanthine due to use of xanthine oxidase inhibitor
+            - Cysteine stone - caused by autosomal recessive metabolism of the COLA amino acids
+        - <u>Drug stones</u> - esp. protease inhibitors (indinavir, ritonavir) which are radioluscent
+    - **By morphology** - e.g. Staghorn stones
+    - **By anatomical level** - renal stones, ureteric stones, bladder stones have varying clinical presentations
+
+# Urological Trauma
+
+# Nontraumatic Urologic Emergencies
+
+# Urologic Oncology

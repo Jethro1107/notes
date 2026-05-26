@@ -1,0 +1,77 @@
+---
+id: 6a751cda-b7b0-4ce0-99be-f9dfefa9a575
+title: Oral Hypoglycaemic Agents
+---
+
+# Oral Hypoglycaemic Agents
+
+- **Overview of oral hypoglycaemic agents:** 
+![](../img/overview_of_oral_hypoglycaemic_agents_davidson.png)
+- **Metformin** (Biguanides):
+  - **Indications** - 1st-line therapy for T2DM irrespective of body weight unless intolerated
+  - **Dosing:**
+    - Standard dose - initiate at low dose (500 mg bid) to reduce S/E, titrated upwards to maintenance dose of 1mg bid
+    - Renal dose - dose halved if eGFR 30-45 ml/min (C/I if renal impairment)
+  - **MOA** - ?insulin sensitizer:
+    - <u>Inhibition of mitochondrial respiration</u> - increased AMP:ATP ratio and stimulation of AMP-activated protein kinase (AMPK) promoting insulin-like effects
+    - <u>Effects on liver</u> - increased insulin-dependent glucose uptake, reduced hepatic gluconeogenesis (+/- promote glycolysis)
+    - <u>Effects on gut metabolism</u> - increased gut glucose utilisation
+  - **Clinical use:**
+    - <u>Glycaemic control</u> - potent glucose lowering agent with <u>no risk of hypoglycaemia</u>
+    - <u>Effects on weight control</u> - weight-neutral
+    - <u>Effects on survival</u> - modest CVS protection and established benefits in microvascular disease
+  - **S/E:**
+    - <u>Mild GI disturbance</u> (25%) - diarrhoea, abdominal cramps, bloating and nausea (5% intolerant to metformin)
+    - <u>Lactic acidosis</u> - rare but C/I if increased risk (e.g. alcoholism, impaired liver function, serious medical condition resulting in severe shock or hypoxia)
+- **Supphonylureas and meglitinides** - insulin secretalogues:
+  - **Indications:**
+    - As 1st line Tx if intolerant of metformin or if weight loss/ osmotic symptoms
+    - Add on therapy if poor glycaemmic control on metformin alone
+  - **Selection:**
+    - 1st-generation SUs - chlorpropamide, tolbutamide
+    - 2nd-generation SUs - <u>gliclazide</u>, glimepiride, <u>glibenclanide</u>, glipizide
+    - Meglitinides - repaglinide, nateglinide
+  - **Dosing** - dose-response relationship steepest at low-doses with little benefit at high doses
+  - **MOA:**
+    - <u>Inhibition of ATP-sensitive K channels</u> - results in pancreatic beta-cell depolarisation and **increased insulin secretion**
+  - **Clinical use:**
+    - <u>Glycaemic control</u> - potent glucose lowering agent with <u>risk of hypoglycaemia</u>
+    - <u>Effects on weight control</u> - weight-gain (avoided if weight gain is a concern)
+    - <u>Effects on survival</u> - modest CVS protection and established benefits in microvascular disease (documented in UKPDS)
+  - **S/E:**
+    - <u>Weight gain</u> - not ideal for overweight or obese patients
+    - <u>Hypoglycaemia</u> - due to unregulated insulin secretion even at normal or low blood glucose levels (avoid long-acting glibenclanide in elderly due to fall risk)
+- **Thiazolidinediones** (TZD) - insulin sensitizers:
+  - **Indications** - only considered as step-up therapy if other options not available (major S/E):
+    - Add on therapy if hypoglycaemia and cost is a concern
+    - In patient with <u>no heart failure</u>
+  - **Selection** - Pioglitazone, Rosiglitazone (withdrawn due to risk of AMI)
+  - **MOA:**
+    - <u>Peroxisome proliferatior-activated receptor-γ activation</u> (PPARγ expressed in adipokines) - reduces insulin resistance and increases effects of endogenous insulin directly (through adipokines) and indirectly (via modulation of adipokine secretion, esp. adiponectin \[alters insulin Sn of liver\])
+  - **Clinical use:**
+    - <u>Glycaemic control</u> - potent glucose lowering agent with <u>no risk of hypoglycaemia</u>
+    - <u>Effects on weight control</u> - weight-gain (avoided if weight gain is a concern)
+    - <u>Effects on survival</u> - insufficient data
+  - **S/E** - limits routine use:
+    - <u>Risk of AMI</u> - reported in rosiglitazone (and withdrawn in 2010), not observable in pioglitazone currently
+    - <u>Exacerbation of HF</u> - due to fluid retention
+    - <u>Increased risk of fractures</u> - through observation
+    - <u>Increased risk of bladder cancer</u> - through observation
+- **DPP-4 inhibitors** (gliptins) - incretin-based therapy:
+  - **Indications** - as add on therapy
+  - **Selection** - Sitagliptin, Linagliptin, Vidagliptin, Saxagliptin, Alogliptin
+  - **MOA** - inhibition of DDP-4 breakdown of endogenous incretins, stimulating post-prandial insulin secretion
+  - **Clinical use:**
+    - <u>Glycaemic control</u> - glucose lowering agent with no risk of hypoglycaemia as monotherapy
+    - <u>Effects on weight</u> - weight neutral
+- **GLP-1 inhibitor** - considered for weight loss:
+  - **Indications** - as add-on therapy or if pharmacotherapy for weight loss contemplated
+  - **RoA** - subcutaneous injection (not orally active)
+  - **Selection** - Exenatide (bid), Exenatide MR (q1w), Liraglutide (od)
+  - **MOA:**
+    - <u>Mimicks endogenous GLP-1</u> - structurally similar to endogenous GLP1 and stimulates insulin secretion while evading breakdown by DPP-4
+    - <u>Supraphysiological effects of GLP-1 activity on weight control</u> - delays gastric emptying and appetite if supra-physiological levels achieved (enables weight loss)
+  - **Clinical use:**
+    - <u>Glycaemic control</u> - glucose lowering agent with no risk of hypoglycaemia as monotherapy
+    - <u>Effects on weight</u> - weight loss
+- **SGLT2 inhibitor** (e.g. dapagliflozin) - role not established as of 2012

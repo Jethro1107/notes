@@ -1,0 +1,63 @@
+---
+id: 26FCD2DC-AF1E-4278-8C82-B0BF4276BC16
+roam_parent: 435B1029-A4B7-4AFF-9A67-8DFA79C33666
+title: Drug-Induced Myopathies
+---
+
+# Drug-Induced Myopathies
+
+- **Causes of toxic myopathies** - most common causes include 1) lipid-lowering agents, and 2) glucocorticoids: 
+![](../img/drug_induced_myopathies.png)
+- **Myopathies from lipid-lowering agents:**
+    - **Definition** - muscle toxicity caused by lipid-lowering agents
+    - **Lipid-lowering agents a/w myopathy** - classically statins, but all are implicated:
+        - Statins (most common)
+        - Ezetimibe
+        - Fibrates
+        - Niacin
+    - **Risk factors for severe myopathies** - concomittent use of:
+        - Fibrates
+        - Cyclosporine
+    - **Pathophysiology of statin-induced myopathy** - necrosis of muscle fibres in weak muscles
+    - **Clinical manifestations of myopathy from lipid-lowering agents:**
+        - Myalgia or isolated elevated CK (most common presentation)
+        - Symmetrical proximal weakness (uncommon)
+        - Rhabdomyolysis and myoglobinuria (rare)
+    - **Ix** - generally not pursued:
+        - <u>EMG</u> - muscle irritability
+        - <u>Muscle Bx</u> - necrotic muscle fibres
+    - **Mx:**
+        - <u>Indications for drug cessation:</u>
+            - Asymptomatic rise in serum CK (\> 3-5 x ULN)
+            - Myalgia or demonstrable weakness
+            - Presence of myoglobulinaemia
+        - <u>Response to cessation of the offending agent:</u>
+            - Most patients will improve clinically and biochemically, ocassionally taking several weeks
+            - Ocassionally may persists, classically in the example of statin-induced anti-HMGCR myopathy which requires immunotherapy w/ IVIG
+- **Glucocorticoid-related myopathies:**
+    - **Definition** - steroid-induced myopathy that may occur acutely w/ high-doses of IV glucocorticoids, or chronic administration of high-dose oral steroids
+    - **Clinical features of steroid-related myopathies:**
+        - <u>Acute quadriplegic myopathy</u> - complete immobilisation in a **quadriplegic pattern** (mimicking a cervical lesion) secondary to high-dose IV glucocorticoid usage, ocassionally resulting in **ventilatory failure**
+        - <u>Chronic glucocorticoid myopathy</u> - much resembles that produces a **proximal weakness** invariably a/w other **Cushingoid manifestations**
+    - **Risk factors for glucocorticoid-related myopathies:**
+        - <u>Patient factors requiring high-dose IV glucocorticoids</u> - usually severe generalised weakness (cirtical illness myopathy):
+            - Status asthmaticus or severe COPD
+            - Organ transplantation
+            - Sepsis
+        - <u>Use of fluorinaated glucocorticoids</u> - e.g. triamicinolone, betamethasone, dexamethasone
+        - <u>Dose and duration</u> - high-dose, chronic administration
+    - **Ix:**
+        - <u>CK</u> - usually normal in chronic steroid myopathy
+        - <u>K</u> - hypoK (possibly a/w myopathy)
+        - <u>NCS</u> - reduced compound muscle action potential in setting of relatively normal sensory potentials
+        - <u>EMG</u> - abnormal insertional and spontaneous activity and early recruitment of myopathic appearing units
+    - **Mx:**
+        - <u>Supportive care</u> - e.g. ventilatory support in the ICU
+        - <u>Withdrawal of glucocorticoids</u> - should be balanced w/ the underlying disease
+        - <u>Rehabilitaiton</u> - recovery is slow w/ physical therapy
+- **IRAE-associated myositis** - occurs in isolation, or in a/w myocarditis and MG ("3M syndrome"):
+    - Typically presentation w/ myalgia and symmetrical proximal weakness
+    - Presence of bulbar Sx and diplopia <u>should not be attributed to myositis</u>, but should seek <u>co-occurence of MG</u>
+    - <u>Myocarditis</u> may often develop
+    - Ix should include both CK and anti-AChR and screen for myocardial involvement
+    - Requires discontinuation of ICIs, and immediate concurrent Tx w/ glucocorticoids or IVIG (generally improve over several months)

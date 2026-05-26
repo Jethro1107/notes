@@ -1,0 +1,27 @@
+---
+id: 61d6398e-c33e-4085-a8b7-f5688eb50730
+title: Gilbert's Syndrome
+---
+
+# Gilbert's Syndrome
+
+- **Definition** - most common inherited disorder of bilirubin metabolism caused by a loss-of-function mutation of the UDPGCT enzyme
+- **Genetics and mode of ineritence of Gilbert's syndrome:**
+    - <u>Mutation of promotor region of the UDP-glucoronyl transferase activity</u> - reduced expression of enzyme resulting in **reduced conjugation of bilirubin**
+    - <u>Mode of inheritance</u> - autosomal dominant trait
+- **Clinical features of Gilbert's syndrome:**
+    - <u>Isolated elevation of bilirubin</u> - unconjugated hyperbilirubinaemia, typically, but not exclusively **in setting of physical stress or illness**
+    - <u>Absence of stigmata of chronic liver disease</u> - other than jaundice, there are no stigmata of chronic liver disease
+    - <u>Dark stool</u> - increased stercobilinogen in face of excretion of bilirubin
+    - <u>Dark urine</u> - increased urobilinogen excretion causes the urine to **turn dark on standing** as urobilin is formed
+- **Signs of Gilbert's syndrome** - jaundice and otherwise normal:
+    - **General examination** - jaundice +/- pallor if concomitent haemolysis (no stigmata of chronic liver disease)
+    - **Abdominal examination** - usually normal:
+        - Splenomegaly present in concomittent haemolytic disease
+- **Ix:**
+    - **LFT:**
+        - <u>Bilirubin</u> - usually \< 100 micromol/L (~ 6 mg/dL)
+        - <u>Liver enzymes</u> - normal
+    - **Liver Bx** - not recommended in Ix of possible Gibert's syndrome
+- **Mx** - reassure patients, no Tx required
+- **Prognosis** - excellent

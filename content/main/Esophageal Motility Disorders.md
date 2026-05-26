@@ -1,0 +1,93 @@
+---
+id: 25e60675-78e9-4604-80f4-0b1f6f21bb2e
+roam_refs: "\"Bailey and Love\""
+title: Esophageal Motility Disorders
+---
+
+# Esophageal Motility Disorders
+
+- **Esophageal motility disorders** - readily understood as presence of dysphagia in the absence of mechanical causes (e.g. stricture), diagnosed by specific abnormality on esophageal manometry
+- **Clinical features of esophageal motility disorders:**
+    - Dysphagia - logical clinical feature, but in reality might not be the predominant complaint
+    - Pain - functional pain thought to arise from spasms arising from abnormal motor activity, perception (visceral hypersensitivity) or combination of both
+        - Note: Often extensively worked up for other causes of chest pain before esophagus is considered
+    - Associated GI motility problems
+    - Associations with GERD
+- **Classification of esophageal motility disorders:**
+    - Disorders of pharyngo-oesophageal junction - Neurological (stroke, PD, motor neuron disease, MS), myogenic (MG, muscular dystrophies), Zenker's diverticulum
+    - Disorders of the esophageal body - Diffuse oesophageal spasm, CREST syndrome (SSc), nutcracker esophagus, esophagitis (reflux, allergic, eosinophilic), idiopathic
+    - Disorders of the LES - achalasia, incompetent lower sphincter
+
+## Achalasia <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span>
+
+- **Definition** - uncommon esophageal motility disorder characterised pathophysiologically by non-relaxing LES and aperistalsis of the esophageal body
+- **Epidemiology:**
+    - Incidence - rare (1.6/100,000/y)
+    - Demographic - no sex predisposition (M=F), occurs at any age (typically 25-60y)
+- **Pathophysiology of achalasia:**
+    - **Loss of ganglion cells in the myenteric plexus** - loss of distal inhibitory neurons results in loss of intrinsic inhibitory innervation of LES
+    - **Early-stage achalasia** - vigorous **spastic** achalasia, where esophagus exhibits contractile but non-peristaltic activity a/w pain
+    - **Late-stage achalasia** - **aperistaltic** esophagus, causing dilatation proximal to obstruction (empties by hydrostatic pressure of its contents but remains incomplete after equilibrating), can progress into <u>tortuous 'megaoesophagus'</u>
+- **Clinical features of achalasia:**
+    - **Pain** - functional pain from esophageal spasms as early clinical features (often mistakened for reflux Sx)
+    - **Dysphagia** - common mild and remain untreated for many years but eventually present, suggestive features include:
+        - Type of bolus - liquid alone, or liquid + solid
+        - Reflux Sx unresponsive to PPI trial
+        - Suggestive endoscopic features
+    - **Regurgitation** - frequent, causing aspiration into trachea, especially at night
+- **Natural Hx and Prognosis:**
+    - Disease course - progressive dilatation of esophagus, with tortuous megaesophagus etc.
+    - Malignant potential - achalasia is a risk factor of SCC of esophagus
+- **Ix of achalasia:**
+    - **Upper endoscopy** (raise clinical suspicion and <u>exclusion of pseudoachalasia</u>) - 1) dilatation of esophagus, 2) tight cardia, 3) food residue in esophagus
+    - **Barium swallow/ Timed barium esophogram:**
+        - Dilated oesophagus
+        - Hold up of barium in esophagus (poor emptying into stomach)
+        - 'Birds-beak appearance' - tapering stricture in distal esophagus
+    - **High resolution manometry** (<u>diagnostic</u>) - Chicago Classification Version 4.0:
+        1.  Elevated median Integrated relaxation pressure (IRP)
+        2.  Absence of normal peristalsis (spastic contractions or esophageal aperistalsis)
+    - **Endoscopic functional lumen imaging probe** (EndoFLIP) - support diagnosis if HRM equivocal:
+        - Low distensibility index of LES - increased pressure resulting in inflation of FLIP balloon
+        - Abnormal (spasms) or absent (aperistalsis) esophageal contractions - unable to stimulate secondary peristalsis
+- **Diagnosis** - typical achalasia Sx, diagnostic HRM findings, and supportive ancillary Ix (e.g. barium swallow, upper endoscopy)
+- **DDx of achalasia:**
+    - GERD - common regurgitation Sx as chief complaints, but response to PPI and distinguished by HRM
+    - Pseudoachalasia (r/o on upper endoscopy and EUS) - achalasia-like disorder due to malignant invasion or paraneoplastic effect on the myenteric plexus (e.g. AD of cardia), presenting with similar clinical, radiological and manometric findings
+    - Other esophageal motility disorders (distinguished by HRM findings) - distal esophageal esophagus, jackhammer esophagus
+
+### Management of achalsia
+
+- Responsiveness to Tx - one of the motility disorders responsive to palliative Tx
+- **Principles of Mx** - reduce resting pressure of LES to enable passage of food:
+    - **Lifestyle modification** - important but not sufficient
+    - **Pharmacological Tx** - ineffective for long term use (reserved for failed botox injections and bridge to definitive Tx)
+        - Nitrates - e.g. sublingual isosorbide dinitrate
+        - CCBs - e.g. sublingual nifedipine
+    - **Surgical Tx:**
+        - Pneumatic dilatation
+        - Botulinin toxin injection
+        - Hellen's myotomy
+        - Peroral endoscopic myotomy (POEM)
+        - Esophagectomy
+    - **CA surveillance** - controversial, risk increased but absolute risk remains low
+- **Pneumatic dilatation**
+    - Procedure - forceful dilatation w/ pneumatic balloon dilation of LES to disrupt the muscles and render it less competent
+        - Graded pneumatic dilatation - multiple endoscopies are frequently required
+- **Botulinin toxin injection**
+    - Procedure - endoscopic injection of botox into LES to interfere w/ excitatory cholinergic activity
+    - Efficacy - short-lasting effect (requires repeated injections)
+    - Indications - short efficacy, reserved for elderly w/ commorbidities who cannot tolerate more invasive procedures
+- **Heller's myotomy**
+    - Procedure - minimal access laproscopic cutting of muscle fibres of the LES and cardia +/- partial fundoplication (Heller-Dor's operation)
+    - Efficacy - 90% effective for symptomatic relief (preserved for failed dilatation)
+    - Complications:
+        - GERD - prevented by concomittant anti-reflux surgery (9% vs 32%)
+        - Perforation
+        - Pneumothorax
+        - Bleeding
+        - Vagal injury
+        - Infecions
+- **Peroral endoscopic myotomy:**
+    - Procedure - a form of normal oriface transluminal endoscopic surgery (NOTEs), with myotomy performed through endoscopic means through <u>endoscopic submucosal dissection</u>
+    - Complications - severe GERD

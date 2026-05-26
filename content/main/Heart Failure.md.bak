@@ -1,0 +1,254 @@
+---
+id: 8cc0a497-1455-450f-8eef-ea09a8382f2b
+title: Heart Failure
+---
+
+# Heart Failure
+
+- **Definition** - clinical syndrome that develops when the heart <u>cannot maintain adequate cardiac output</u>, or can only do so at the expense of <u>elevated ventricular filling pressure</u>:
+  - <u>Mild-to-moderate HF</u> - CO and LVEDP is normal at rest and becomes inadequate during exertion, when metabolic demands increase
+  - <u>Severe HF</u> - CO or filling pressure is inadequate at rest
+
+  
+  ![](img/starlings_law_in_HF.png)
+- **Epidemiology of HF** - extremely common syndrome of the elderly:
+  - <u>Prevalence</u> - increases w/ age (1% in 50-59y to 10% in 80-89y)
+  - <u>Etiology</u> - most commonly caused by CAD and MI
+- **Etiology of HF** - arises from all forms of HF: 
+![](img/davidsons_mechanism_of_hf.png)
+- **Pathophysiology of HF** - CO is dependent on preload, afterload, and inotropy based on Starling's Law:
+  - **Initial insult causing a decrease in CO** - due to reduced preload, increased afterload, or reduced inotropy, where <u>CO is temporarily sustained by neurohormonal activation</u> (SNS, AVP, RAAS)
+  - **Compensatory neuro-hormonal activation** - initially sutained CO, but can result <u>viscious cycle of HF due to increased myocardial workload and reduced myocardial contractility in the long run</u>:
+    - **Activated renin-angiotensin-aldosterone system** (RAAS) - initially maintain CO by increasing preload through salt and fluid retention:
+      - <u>Excessively increased preload</u> (volume overload) - through aldosterone-mediated salt and water retention (secondary hyperaldosteronism)
+      - <u>Increased afterload</u> - Ang-II mediated vasoconstriction and permanent vascular remodelling
+      - <u>Reduced contractility</u> - Ang-II mediated ventricular remodelling
+    - **Activated sympathetic nervous system** (SNS) - increased catacholamine drive to initially increase CO by positive inotropy and chronotropy, but in the long run:
+      - <u>Reduced myocardial contractility</u> - inducing cardiac myocyte apoptosis, and focal myocardial necrosis (+/- induce arrhythmia), and hypertrophy of non-infarcted areas, and thinning/ dilatation of the infarcted areas (remodelling)
+      - <u>Increased afterload</u> - severe peripheral vasoconstrction and increased myocardial workload
+    - **Activated endothelin-1 system** - potent renal vasoconstriction resulting in excessive fluid retention
+    - **Activated ADH axis** - free water retention (resulting in HypoNa) due to arterial underfilling
+
+    
+    ![](img/neurohormonal_activation_in_HF.png)
+  - **Onset of pulmonary and peripheral congestion** - rise in LA and RA filling pressures respectively due to 1) ventricular dysfunction (reduced CO), 2) volume overload status
+- **Classification of heart failure:**
+  - <u>Classification by laterality</u> - left vs right vs biventricular HF
+  - <u>Classification by ejection failure</u> - HFrEF (systolic dysfunction) vs HFpEF (diastolic dysfunction)
+  - <u>Classification by output</u> - low-output failure vs high-output failure
+  - <u>Classification by chronicity</u> - acute heart failure vs chronic heart failure vs acute-on-chronic heart failure 
+  ![](img/davidson_precipitants_of_HF_in_pre-existing_heart_disease.png)
+
+## Acute decompensated heart failure
+
+- **Definition** - clinical syndrome characterised by sudden new or worsening S/S of heart failure requiring hospitalisation and emergency department visit
+- **Etiology of ADHF** - may occur de novo, or precipitated on background of pre-existing heart disease (cf notes on cardiogenic shock):
+  - **Etiology of de novo ADHF:**
+    - <u>Acute coronary syndrome</u> (most common cause) - sudden reduction of myocardial contractility
+    - <u>Hypertensive emergency</u> - e.g. poorly controlled HTN with secondary cause (e.g. bilateral RAS)
+    - <u>Arrhythmia</u> - AF in pre-existing heart disease, VT/ VF, bradyarrhythmias
+    - <u>Acute mechanical cause</u> - e.g. cardiac tamponade
+    - <u>Massive pumonary embolism</u> - from DVT or pelvic vein thrombosis
+    - <u>Acute valvular failure</u> - acute AR, acute MR, prosthetic valve failure
+  - **Precipitants of heart failure:**
+    - <u>Intercurrent illness</u> - e.g. upper respiratory tract infection
+    - <u>Iatrogenic causes</u>:
+      - **Inappropriate reduction of therapy** - reduction of HF drugs
+      - **Administration of drugs with negative chronotropic effects** - e.g. Beta-blockers
+      - **Administration of drugs causing fluid retention** - e.g. NSAID, corticosteroids
+      - **Vigorous fluid administration** - e.g. post operative IV infusion
+    - <u>Other cardiac problems</u> (see above) - ACS, arrhythmias, pulmonary embolism
+    - <u>Other Conditions a/w increased myocardial demand</u> - anaemia, thyrotoxicosis, pregnancy
+- **Clinical features of ADHF:**
+  - **Features of precipitating events** - e.g. chest pain in MI, PE, aortic dissection etc.
+  - **Features of acute pulmonary oedema:**
+    - New-onset or worsening <u>dyspnoea at rest</u>, with progression to respiratory distress, orthopnoea, and prostration
+    - Cough with pink frothy sputum
+  - \+*- **Features of low CO** - e.g. oliguria, cold peripheries, normo-* hypo-tension
+- **Signs of ADHF** - vitals and PE important to assess haemodynamic status (Forrester's classification):
+  - **General appearance** - respiratory distress, agitated (+/- pale, peripheral oedema)
+  - **Vitals:**
+    - <u>RR</u> - tachypnoea +/- hypoxaemia on SpO2
+    - <u>HR</u> - tachycardia (bradycardia and excessive tachycardia may be the precipitating event)
+    - <u>BP</u> - elevated due to sympathetic drive (<u>Normo- or hypo-tension signifify cardiogenick shock</u>)
+  - **Cardiovascular examination:**
+    - <u>Pulse</u> - rasing, but yields peripheral signs
+    - <u>JVP</u> - elevated suggestive of **fluid overload** or RHF
+    - <u>Palpation</u> - non-displaced apex in de novo ADHF, displacement signifies Acute-on-Chronic failure
+    - <u>Auscultation</u>:
+      - **3rd HS** - gallop rhythm suggestive of ADHF
+      - **Murmurs** - look for AR, MR murmurs which may precipitate ADHF
+      - **Back** - bilateral crackles at lung base +/- expieritory wheeze (pulmonary oedema)
+- **Initial Ix:**
+  - **12-lead ECG** - routine for all patients for Dx of ACS (managed along protocols of ACS)
+  - **CXR** - demonstration of HF and pulmonary venous congestion:
+    - <u>Upper lobe cephalisation</u> - abnormal distension of upper lobe pulmonary veins is the initial finding of pulmonary venous hypertension
+    - <u>Kerley B lines</u> - interstitial oedema causing thickened interlobular septal lines in the costo-phrenic angles
+    - <u>Batwing opacity</u> - hazy opacification in peri-hilar regions
+    - <u>Pleural effusion</u> - typically bilateral in advanced heart failure
+    - <u>Cardiomegaly</u> - feature of chronic heart failure
+  - **Echocardiography** - indicated for patients with suspected valvular heart disease
+  - **Routine bloods** - CBC, LRFT, TFT, Troponin, NT-pro-BNP
+- **Mx of acute pulmonary oedema** - dependent on haemodynamic archetypes by Forrester classification:
+  - **General measures** - sit patient up and bed rest, cardiac monitor, BP, pulse oximetry +/- Foley:
+    - **Breathing** - High-flow O2, or CPAP of 5-10 mmHg for rapid clinical improvement
+    - **Nitrates** - until clinical improvement or SBP \< 110 mmHg
+    - **Diuretics** - furosemide 50-100 mg IV to treat pulmonary oedema
+    - **Inotropes and IABP** - for hypotensive patients for treatment of shock
+  - **Treatment of underlying cause:**
+
+## Chronic heart failure
+
+- **Definition** - clinical syndrome of heart failure that follows a relapsing and remitting course, with period of stability and episodes of decompensation, leading to worsening symptoms
+- **Etiology of chronic heart failure** - all heart diseases (see above)
+- **Clinical features of heart failure** - predominant S/S dependent on underlying etiology:
+  - **Features of low cardiac output:**
+    - <u>Cold peripheries</u> - due to poor peripheral circulation
+    - <u>Fatigue and weakness</u> - peripheral vasoconstriction to maintain perfusion to vital organs, resulting in skeletal muscle weakness
+    - <u>Oliguria and uraemia</u> - poor renal perfusion
+  - **Features of pulmonary congestion** - typically occurs in left heart failure:
+    - <u>Progressive exertional dyspnoea</u> - shifting of Starling's curve results in excessive preload, resulting in a rise in atrial filling pressure, increased pulmonary congestion and exertional dyspnoea
+    - <u>Orthopnea and paroxysmal nocturnal dyspnoea</u> - excessive preload due to increased venous return in supine position, resulting in pulmonary congestion when lying down or sleeping
+  - **Features of systemic congestion** - typically caused by right heart failure:
+    - <u>Oedema over dependent areas</u> - bilateral pitting oedema around the ankles, or around the thighs and sacrum in bed-bound patients
+    - <u>Raised JVP</u> - reflects venous congestion due to RHF
+    - <u>Ascites</u> - abdominal distension with buldging flanks and +ve shifting dullness
+    - <u>Pleural effusion</u> - acute dyspnnoea due to collection of fluid bilaterally in the pleural cavity
+  - **Cardiac cachexia** - markewd weight loss secondary to chronic heart failure due to a combination of:
+    - Anorexia
+    - Malabsorption due to gastrointestinal congestion
+    - Poor tissue perfusion due to low cardiac output
+    - Skeletal muscle atrophy due to immobility
+
+  
+  ![](img/clinical_features_of_left_or_right_heart_failure.png)
+- **Complications of CHF:**
+  - <u>Renal failure</u> - caused by a background of **poor renal perfusion** due to low cardiac output, and may be exacerbated by the use of <u>diuretic therapy</u> (i.e. overdiuresis), or <u>RAAS blockade</u> (ACEi, ARB, ARNI)
+  - <u>Hypokalaemia</u> - often a **severe depletion of total body K** (even if plasma K within normal reference range), due to a combindation of secondary hyperaldosteronism due to RAAS activation, impaired aldosterone metabolism due to hepatic congestion, and use of diuretics
+  - <u>Hyperkalaemia</u> - adverse effect often due to the **combination of RAAS blockade and MRA**, and exacerbated by comorbid renal dysfunction due to low cardiac output or atherosclerotic renal vascular disease
+  - <u>Hyponatraemia</u> - extremely **poor prognostic sign** seen in advanced heart failure caused by diuretic therapy, excessive fluid retention (dilutional hyponatraemia) or failure of Na/K pump
+  - <u>Impaired liver function</u> - mild jaundice and reduced synthetic function caused by combination of hepatic venous congestion and impaired arterial supply (anti-coagulation becomes difficult)
+  - <u>Venous thromboembolism</u> - DVT and PE due to effects of a low cardiac output and enforced mobility
+  - <u>Cardiac embolism</u> - occurs in patient with atrial fibrillation and atrial flutters or with intracardiac thrombus complicated mitral stenosis, MI or LV aneurysm
+  - <u>Atrial and ventricular arrhythmias</u> - extremely common in patients with HF:
+    - **Common arrhythmias** - Atrial fibrillation (20% of patients), Ventricular arrhythmias (accounts for 50% of SCD in patients with HF), ventricular ectopic beats, non-sustained VT (poor prognostic signs)
+    - **Etiology** - attributable to pro-arrhythmic nature of SNS activation, underlying cardiac disease and chamber enlargements, and electrolyte disturbances (e.g. HypoK, HyperK, HypoMg)
+- **Ix of CHF:**
+  - **Routine bloods** - CBC, LRFT, TFT, NT-ProBNP:
+    - <u>CBC</u> - anaemia as a potential aggravating factor of HF
+    - <u>RFT</u> - assess baseline renal function (Urea, Cr, eGFR) and electrolytes (K)
+    - <u>LFT</u> - derranged liver function (including prolonged clotting) in advanced HF
+    - <u>TFT</u> - hyperthyroidism as a potential aggravating factor of HF (thyroid heart disease)
+    - <u>NT-ProBNP</u> - elevated in HF and is a marker of risk (expensive and typically only appied in Sx patients with acute breathlessness and peripheral oedema)
+  - **12-lead ECG:**
+    - <u>Rate and rhythm</u> - detection of atrial and ventricular arrhythmias (see above)
+    - <u>Chamber enlargement</u> - detect chamber enlargements which may suggest valvular pathology
+  - **CXR** - findings typically reflects underlying cardiac disease, exacerbation of acute pulmonary oedema, and pleural effusion:
+    - <u>Evidence of underlying structural heart disease</u> - cardiomegaly (CT ratio \> 50%)
+    - <u>Evidence of acute pulmonary oedema</u>:
+      - 1\. Upper lobe cephalisation - increased prominence of vascularity of the upper lobe pulmonary veins
+      - 2\. Kerley B lines - horizontal lines seen in costophrenic angle representing interstitial oedema
+      - 3\. Batwing appearance - hazy opacification spreading from the hilar region
+    - <u>Evidence of structural heart disease</u> - e.g. changes in cardiac sillhuoette
+    - <u>Pleural effusions</u> - excessive fluid retention resulting in blunting of costophrenic angle
+  - **Echocardiography** - role in determine etiology, detectation of unsuspected valvular pathologies, and assessment of ventricular function (guides BMT)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>General measures</u> - general patient education, diet modification, alcohol and smoking cessation, regular exercise, vaccination
+    - <u>Pharmacological therapy</u> - 1st-line and second line pharmacological therapy comprising best medical Tx:
+      - **1st line therapy** - RAAS blockade, Beta-blockers, Minerocorticoid receptor antagonists, SGLT2 inhibitors
+      - **2nd line therapy** - vasodilator therapy (e.g. nitrate-hydralazine), ivabradine, digoxin, Vericuguat
+      - **Additional diuresis** - loop or thiazide diuretics in severely fluid overloaded patients
+    - <u>Non-pharmacological therapy</u> - non-pharmacological therapy based on specific etiology and indications
+  - **General measures for Mx of CHF:** 
+  ![](img/general_measures_for_mx_of_heart_failure.png)
+  - **Pharmacological therapy:**
+    - **Dosage for drugs:** 
+    ![](img/dosage_for_hfref_drugs.png)
+    - **Overview:** ![](img/hfref_drugs_summary_1.png) ![](img/hfref_drugs_summary_2.png) 
+    ![](img/hfref_drugs_summary_3.png)
+    - **RAAS blockade:**
+      - **Selection:**
+        - <u>ACE inhibitors</u> - e.g. enalapril, lisinopril, ramipril
+        - <u>Angiotensin receptor blockers</u> - e.g. losartan, valsartan, candesartan
+        - <u>ARNI</u> - e.g. entresto (valsartan-sucubatril)
+
+        
+        ![](img/recommended_targeted_doses_for_raas_blockade_in_hf.png)
+      - **MOA** - interrupts vicious cycle of neurohormal activation:
+        - <u>Inhibition of AngII-mediated vsoconstriction</u> - reduces afterload
+        - <u>Inhibition of Aldosterone release</u> - reduces salt and water retention resulting in reduced preload
+        - <u>Inhibition of AngII-mediated SNS activation</u> - reduction of myocardial workload
+      - **Indications for RAAS blockade:**
+        - <u>HFrEF</u> - can produce substantial improvement in ET and in mortality (in moderate to severe HF)
+        - <u>Poor LV function after MI</u> - prevent the onset of overt HF
+      - **Clinical efficacy in HFrEF:**
+        - Reduced mortality - RR 0.8
+        - Reduced re-admission rates
+
+        
+        ![](img/evidence_for_arbs_in_hfref.png)
+      - **S/E:**
+        - <u>Cough</u> - intractable dry cough in those prescribed w/ ACEi
+        - <u>Angioedema</u> - a/w impaired bradykinin breakdown
+        - <u>Postural hypotension</u> - esp. in older patients
+        - <u>AKI</u> - especially in old patients, and those with bilateral severe renal artery stenosis
+        - <u>Hyperkalaemia</u> - due to impaired aldosterone release and partly due to renal hypoperfusion
+        - <u>Symptomatic hypotension</u> - short-acting ACEi can cause mark decrease in BP in the elderly, or when started in presence of hypovolaemia, hypotension, or hyponatraemia (can **safely start if SBP \> 100 mmHg**)
+      - **Monitoring** - 1-2 weeks after initiation and uptitration:
+        - BP
+        - RFT (sCr, K)
+    - **Beta-adrenoreceptor blockers:**
+      - **Selection** - bisprolol, metoprolol, carvedilol
+      - **Clinical efficacy in HFrEF:**
+        - Reduced mortality - RR 0.67
+        - Reduced readmission rates
+        - Improved ejection fraction
+        - Improved symptoms
+    - **Minerocorticoid receptor antagonist:**
+      - **Selection** - spironolactone, eplerenone
+      - **Indications:**
+        - HF with severe LV systolic dysfunction
+        - Severe HFrEF post-MI
+      - **S/E:**
+        - Hyperkalaemia
+        - Renal impairment
+    - **Nitrate-hydralazine** - 2nd line agent with limited utility due to problems w/ tolerance
+    - **Ivabradine:**
+      - **MOA:**
+        - <u>Inhibition of funny channels</u> - inhibition of inward funny current in SA node, inhibiting spontaneous depolarisation and -ve chronotropic effects
+      - **Clinical effiacy of ivabradine** - reduced hospital admission and mortality in patients w/ moderate-to-severe HFrEF
+      - **Indications** - effects most marked if following criteria met:
+        - HR \> 77 bpm in sinus rhythm
+        - Moderate-to-severe LV systolic dysfunction
+    - **Digoxin:**
+      - **Indications** - as rate control for patients with HF and AF (or NYHA III-IV HF)
+  - **Non-pharmacological therapy:**
+    - **Implantable cardiac defibrillators:**
+      - **Rationale** - poor prognosis in patients that develop symptomatic defibrilators
+      - **Effects** - improved survival irrespective of response to anti-arrhythmics
+    - **Resynchronisation therapy:**
+    - **Coronary revascularisation:**
+      - **Rationale** - improved myocardial contractility by recruitment of 'hibernating' myocardium affected by atherosclerosis
+    - **Ventricular assist devices:**
+      - **Role of ventricular assist devices:**
+        - Bridge to cardiac transplantation
+        - Potential long-term therapy
+        - Short-term restoration therapy following potentially reversible insult (e.g. viral myocarditis)
+      - **Modalities of VADs** - roller, centrifugal or pulsatile pump:
+      - **MOA of VAD** - unloads the ventricles by diverting blood from atria/ ventricular apex into great arteries
+      - **Complications of VAD:**
+        - Haemorrhage
+        - Systemic embolism
+        - Infection
+        - Neurological sequelae
+        - Renal sequelae
+    - **Heart transplantation:**
+      - **Indications** - most commonly indicated in refractory HF due to CAD or DCM
+      - **C/I** - donor heart may fail in face of high pulmonary vascular resistance
+        - Primary Pulmonary Hypertension
+        - Pulmonary vascular disease secondary to long-standing HF, Eisenmenger syndrome
+      - **Complications:**
+        - <u>Rejection</u> - may present with new-onset HF, arrhythmias, or subtle ECG changes
+        - <u>Accelerated atherosclerosis</u> - progressive atherosclerosis in the coronary arteries of donor heart
+        - <u>Infections</u> - opportunistic infections

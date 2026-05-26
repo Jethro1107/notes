@@ -1,0 +1,56 @@
+---
+id: d8c3ea86-2e2c-40f8-bc0b-a620e14b120a
+title: Acute Monoarthritis
+---
+
+# Acute Monoarthritis
+
+- **Definition** - sudden onset of pain and swelling over a single joint
+- **Etiology of acute monoarthritis:**
+    - Septic arthritis
+    - Crystal-induced arthritis - gout, pseudogout
+    - Reactive arthritis
+    - Trauma and haemarthrosis
+    - Seronegative spondyloarthritis - psoriatic arthritis, ankylosing spondylitis, enteropathic arthritis
+    - Monoarticular presentation of CTD
+    - Others - leukaemia, osteomyelitis (can presentation as monoarthritis in children)
+
+  
+  ![](../img/acute_monoarthritis_etiology.png)
+- **Salient points of Hx:**
+    - **Demographic** - age and gender:
+        - Young men - reactive arthritis
+        - Middle-aged men - gout
+        - Older women - pseudogout
+    - **HPI** - site (pattern of joint involvement), onset, associated Sx
+        - <u>Site</u> - consider the pattern of joint involvement and pre-dillection of joints for specific pathologies (e.g. MTP joint for gout, knee and wrist for pseudogout)
+        - <u>Onset</u> - development to maximal intensity varies for different pathologies
+            - Crystal-induced arthritis - rapid onset (6-12h)
+            - Septic arthritis - slower onset and continuously progressive until treatment
+            - Haemarthrosis - rapid onset precipitated by trauma
+            - Pigmented villonodular synovitis - gradual onset
+    - **Triggers** - any prior triggers:
+        - <u>Trauma</u> - haemarthrosis
+        - <u>Previous diarrhoeal illness or recent sexual contact</u> - reactive arthritis
+        - <u>Dehydration/ surgery/ intercurrent illness</u> - crystal-induced arthritis
+    - **PMH:**
+        - Pre-existing joint pathologies - RA (acute monoarthritis strongly suggestive of sepsis), OA (risk factor of pseudogout)
+        - CKD - risk factor for gout
+    - **SHx** - alcohol (RF for gout) +/- sexual Hx
+    - **FHx**
+- **Ix:**
+    - **Joint aspiration and synovial fluid analysis** - mandatory to <u>r/o septic arthritis</u>:
+        - Appearance - colour, turbidity, viscosity
+        - WBC and differentials
+        - Microbiology - Routine G stain, C/ST
+        - Polarised light microscopy - birefringence in crystal-induced arthritis
+    - **CBC** - leukocytosis
+    - **RFT** - ?esp. if contemplating NSAID use
+    - **Inflammatory markers** (ESR, CRP) - non-specifically elevated in sepsis, crystal-induced arthritis and reactive arthritis
+    - **Serum uric acid levels** - helpful, but non-diagnostic for gout
+    - **Blood culture/ culture from other possible primary site infections** - esp. for patients suspected to have septic arthritis
+    - **Clotting profiles** - identify bleeding tendancies predisposing to haemarthrosis
+    - +/- Serology - ANA, RF, ACPA
+- **Mx:**
+    - IV ABx - after blood culture if clinically suspect sepsis
+    - Mx of underlying cause

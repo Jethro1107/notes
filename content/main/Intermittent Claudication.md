@@ -1,0 +1,23 @@
+---
+id: 0c5d12cd-616f-4472-bd8d-b70ec6ab2862
+title: Intermittent Claudication
+---
+
+# Intermittent Claudication
+
+- **Definition** - a clinical entity of chronic arterial insufficiency, characterised by a reproducible, predictive muscle pain caused by walking that is caused by demand-led muscle ischaemia on a background of chronic arterial occlusive disease of the limb
+- **Clinical features of intermitent claudication** - pain exacerbated by walking over a 'claudication distance' and relieved on rest
+- **Mx of intermittent claudication** - treat claudication as a precursor to fatal IHD and cerebral arterial disease (50% of claudicants die in 10y due to MI or stroke):
+    - **Prognostic Mx** - minimise cardiovascular and cerebrovascular RFs:
+        - **Mx of atherosclerotic risk factors:**
+            - <u>Smoking</u> - smoking cessation
+            - <u>HTN</u> - anti-hypertensive therapy (BBs may exacerbate claudication)
+            - <u>DM</u> - oral hypoglycaemic agents
+            - <u>Dyslipidaemia</u> - statins +/- lipid lowering agents
+        - **Anti-platelet agents** - PO Aspirin (75mg/d) or PO Clopidogrel (75mg/d)
+    - **Symptomatic Mx** - relief claudication Sx:
+        - <u>Regular exercise</u> (e.g. walking) - 30 min 3/7, walking until claudication distance met, and stopping to relieve pain, which may be supervised:
+            - MOA - Improve muscle capacity in anaerobic respiration +/- speed up collateral development
+            - Clinical effects - symptomatic improvements within 6mo due to collateral development
+        - <u>Vasodilators</u> (no proven benefit) - Pentoxyphylline, Naftidrofuryl, Cilostazol
+        - +/- Endovascular or open surgical Tx - indicated if severe, unremitting pain affecting ADL

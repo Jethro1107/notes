@@ -1,0 +1,245 @@
+---
+id: 8fab7140-8f93-4690-a55f-49ee0174805b
+title: Hepatitis B
+---
+
+# Hepatitis B
+
+- **Virology of hepatitis B virus** - smallest DNA virus:
+  - **Viral structure** - circular surface w/ hexagonal core:
+    - <u>Circular surface</u> - presence of excess HBsAg either in circular, or tubular form
+    - <u>Hexagonal core</u> - contains genetic material, i.e. viral ds-DNA (long -ve strand and short +ve strand)
+  - **Viral genome** - ds-DNA w/ approximately 3200 nucleotides, overlapping open reading frames for "economical" manufacture of protein:
+    - **Regulatory elements of the genome:**
+      - <u>Enhancer I</u> - generally stimulates all structural protein expression, but especially core protein (gene C)
+      - <u>Enhancer II</u> - stimulates surface gene promotors
+      - <u>Glucocorticoid responsive elements</u> (GRE) - upstream control of "enhancers" and are stimulated by steroids
+    - **Genes for structural proteins:**
+      - **Gene S** - responsible for <u>production of HBsAg</u>
+      - **Gene C and Pre-C** - synthesis of HBcAg, and its derivative HBeAg:
+        - <u>Gene C</u> - directly encodes HBcAg, the coreAg found within viruses, or hepatocytes, not in serum
+        - <u>Pre-C</u> - signal peptide for mediating <sub>post</sub>-translational modification of HBcAg to HBeAg within Golgi apparatus, where **mutant strains with stop codon** results in inability to produce HBeAg (hence absence does not imply e-seroconversion)
+        - <u>Mutant pre-C</u>:
+      - **Gene P** - encodes for polymerase and reverse transcriptase
+      - **Gene X** - econdes HBx protein
+      - **Pre-S1 and Pre-S2:**
+        - <u>Pre-S1 and large protein</u> - large protein from Pre-S1 + Pre-S2 + S is recognised by cell surface receptors for HBV, and has role in carcinogenesis
+        - <u>Pre-S2 and middle protein</u> - middle protein from from Pre-S2 + S is recognised by cell surface receptors for HBV
+  - **Viral replication cycle:** 
+  ![](../img/hbv_viral_replication_cycle.png)
+    - **Viral entry** - adsorption via cell surface receptors expressed on hepatocytes
+    - **Viral uncoating** - uncoating of circular surface and release of **relaxed circular HBV partially ds-DNA**
+    - **Processing of viral DNA and in-corporation into nucleus:**
+      - Completion of + strand DNA
+      - Conversion to supercoiled covalently closed circular DNA (cccDNA) residing within the nucleus, which are currently impossible to eradicate
+    - **Viral protein synthesis:**
+      - <u>mRNA synthesis</u> - transcription of structural protein genes, which is translocated into the cytoplasm
+      - <u>Translation</u> - mRNA translated into viral proteins, including, polymerase, HBsAg, HBcAg
+    - **Viral DNA synthesis:**
+      - <u>Pre-genomic mRNA synthesis</u> - transcription of entire cccDNA to give pg-mRNA that is greater than one unit length which is encapsidated, which serves as template for viral DNA synthesis
+      - <u>Reverse transcription of pg-mRNA</u> - reverse-transcriptase produce **full-length - strand DNA**
+      - <u>Synthesis of partially ds-DNA</u> - viral DNA polymerase acts on full-length - strand DNA to complete + strand DNA, resulting in formation of partially ds-DNA
+    - **cccDNA amplification** - some of the synthesized partially ds-DNA is again completed and converted into cccDNA, such that there are approximately 10-50 copies of cccDNA within cells
+    - **Viral assembly and exocytosis** - partially dsDNA acquires structural HBsAg and are released to infect other cells by exocytosis
+- **Transmission of HBV:**
+  - **Mode of transmission** - most important is <u>vertical transmission</u> from an HBsAg +ve mother to child:
+    - <u>Parenteral transmission</u> - i.e. required at least mucosal breach, e.g. at birth, skin trauma, needles, sexual contact or toerh instruments (razors, toothbrush etc.)
+    - <u>Transmission by saliva</u> (no-definite proof) - reports of high levels of HBV DNA in saliva of HBeAg +ve individuals
+  - **Chronicity of infection:**
+    - **Risk of chronicity is probably age-dependent** - from observational studies:
+      - <u>\< 1y</u> - 90% chance of chronicity
+      - <u>1-6y</u> - 30% chance of chronicity
+      - <u>\> 6y</u> - 2% chance of chronicity
+      - <u>Adolescence and adulthood</u> - variable by observational studies but probably \< 1% chance of chronicity
+    - **Potential mechanisms for higher rates of chronicity in neonates:**
+      - **Host-factors** - failure of host to respond to recognised infected hepatocytes, due to presence of maternal anti-HBc helping HBV evade cellular immunity 
+      ![](../img/maternal_anti-hbc_helps_hbv_evade_cellular_immunity.png)
+      - **Viral factors** - structural viral proteins have mechanisms to enable it to evade <u>innate immunity</u>:
+        - <u>HBsAg</u> - as decoy for HBV specific humoral and T cell response
+        - <u>HBx protein</u> - inhibits degradation of intracellular viral protein and thus reducing Ag presentation
+        - <u>Polymerase</u> - decreases function of pattern-recognition receptors (e.g. TLR) in detecting pathogen-associated molecular pattern (PAMPs); some myeloid suppression effects
+        - <u>HBeAg</u> - down-regulates TLR-2, CD28, CD86 on Kupffer cells, monocytes and hepatocytes, **dampening innate immunity**
+- **Pathophysiology of HBV infection** - HBV is not cytotoxic:
+  - <u>Immune-mediated damage</u> - degradation of viral Ag is subsequently presented by MHC class II proteins, which causes the infected cell to be susceptible to T-cell mediated cytotoxicity
+
+## Natural History of Hepatitis B infection
+
+- **Natural Hx of chronic hepatitis B:**
+  - **Viral tolerance phase** (2-3 mo) - phase at which the immune system does not recognise HBV infection, such that there is 1) rapid viral replication, and 2) minimal host reaction:
+    - <u>Rapid viral replication</u> - as evident by **high HBV DNA** +/- +ve HBeAg (if not mutant strain)
+    - <u>Minimal host response</u> - biochemically **normal AST/ALT**, histologically only mild abnormalities
+  - **Viral clearance phase** - phase characterised by active T-cell mediated cytotoxicity of HBV-infected hepatocytes, possibly as a result of decreased host tolerance by HBV-specific thymocytes in the thymus:
+    - <u>Viral clearance</u> - **fluctuating HBV DNA** +/- evidence e-seroconversion in a previously HBeAg +ve individual (i.e. HBeAg -ve, Anti-HBe +ve), which reflects a balance between degree of viral replication, and immune-mediated viral clearance
+    - <u>Immune-mediated damge</u> - as evident of biochemically **fluctuating ALT/AST**, and histologically showing **intermittent active hepatitis** +/- onset of cirrhosis
+  - **Late residual phase** - phase following viral clearance phase where 1) viral activity relatively low, and 2) host response is thus variable, however **complications (HCC, cirrhosis) still occur in this phase**:
+    - <u>Slow viral replication</u> - as evident by relatively **low HBV DNA**
+    - <u>Host response is variable</u>:
+      - Some may have <u>minimal</u> host response while others may have <u>reactivation</u> or greater immune response (these individuals may be at different risks of developing complications such as cirrhosis and HCC)
+      - ALT and AST are <u>no longer good surrogates for degree of host-response</u>, as the reduced hepatocellular reserve reduces baseline ALT/AST levels and prevents marked increases during flares
+      - Hence, up to 30% of those w/ <u>active hepatitis may be masked by 'normal ALT'</u> (if we take normal reference ranges); a lower threshold of ALT (i.e. \< 0.5 x ULN proposed by Yuen etl al Gut 2005) to represent active hepatitis to guide indications of Tx
+
+  
+  ![](../img/natural_hx_of_chronic_hbv.png)
+- **Causes of hepatic episodes in chronic hepatitis B** - classified into HBV-related and HBV-unrelated causes:
+  - **HBV-related causes:**
+    - <u>Spontaneous reactivation</u> (characterised by IgM anti-HBc rise) - by either e-seroconversion or e-seroreversion
+    - <u>Non-compliance to anti-viral therapy</u> - increased viral replication and hence increased host response
+    - <u>Emergence of drug-resistance strains</u> - increased viral replication as drugs no longer effective in suppressing viral replication
+    - <u>Immunosuppression</u> - usually corticosteroids, and especially anti-CD20 B cell depleting agent use
+    - <u>HDV superinfection</u> - dependent on acquisition of HBsAg
+  - **HBV-unrelated causes:**
+    - <u>Other viral hepatitis</u> - e.g. HAV, HEV
+    - <u>Other causes of hepatic injury</u> - drug-induced hepatitis, alcohol-induced hepatitis
+- **Prognostic factors for development of cirrhosis in chronic hepatitis B** (anual incidence 2.4% in HBeAg and 1.3% in anti-HBe):
+  - <u>Age</u> - increasing frequency w/ age
+  - <u>Hepatic decompensation w/ follow up</u> - almost always a/w cirrhosis development
+  - <u>Repeated severe hepatitic flares</u> - characterised by AFP \> 100 ng/mL and bridging necrosis
+  - <u>Failed seroconversion</u> - as defined as hepatic episode w/ failure of e-seroconversion (i.e. HBeAg to Anti-HBe)
+  - <u>E-seroreversion</u> - i.e. HBeAg -ve/ Anti-HBe +ve to HBeAg +ve
+- **Factors affecting disease progression** - theoretically it is the <u>persistence of viral replication</u>, and hence <u>exagerated host response</u>, which is evident by:
+  - **HBeAg seroconversion** - e-seroconversion <u>does not prevent</u> disease progression as once thought:
+    - <u>Principles of HBeAg</u> - acute exacerbation triggered by viral replication, where a once HBeAg +ve/ Anti-HBe -ve patient is sero-converted into HBeAg -ve/ Anti-HBe +ve state
+    - <u>Practical limitations of using HBeAg as a Tx end-point</u>:
+      - Disease progression observed after HBeAg in a proportion of patients, with majority of **HBV-related complications** occuring **after HBeAg seroconversion** 
+      ![](../img/complications_of_hbv_occur_after_seroconversion.png)
+      - More than half of Asian population w/ HBV have the **pre-C mutation**, i.e. HBeAg -ve disease, which cannot be seroconverted
+  - **ALT levels** - normal reference ranges are not prognostic, however utilisation of another threshold may be prognostic of the risk of complications:
+    - <u>Rationale</u>:
+      - It is once thought that patients in residual phase w/ normal ALT levels (by virtue that ALT levels reflect hepatocellular injury) should have **minimal host response**, which should translate to **reduced risk of disease progression**
+      - However, those w/ normal ALT still develop HBV complications; and it is subsequently revealed that 30% of those w/ **histologically confirmed hepatic episodes actually have normal ALT**
+      - It may be because those w/ chronic liver disease have **less hepatocellular reserve**, disease flares may be **masked by normal ALT levels**
+      - Subpopulation-specific references ranges should be used to stratify risk of disease progression
+    - <u>ALT levels capable of risk stratification of patients</u>:
+      - anything \> 0.5x of ULN of ALT is defined as increased risk of complications (highest risk at 1-2 x ULN)
+
+      
+      ![](../img/ALT_levels_HBV_carriers.png)
+    - <u>Safe ALT levels</u> - American Liver Association defines as:
+      - M - \< 35 U/L
+      - F - \< 25 U/L
+  - **HBV DNA levels:**
+    - <u>Rationale</u> - REVEAL study demonstrates <u>increased incidence</u> of complications in <u>groups with higher baseline HBV DNA</u>: 
+    ![](../img/HBV_DNA_REVEAL.png)
+    - <u>Limitations of hypothesis</u> - limited by pathophysiological understanding:
+      - Immune-tolerant phase - theoretically high HBV DNA level with minimal damage and disease progression
+      - Immune-clearance phase - no consensus on defining what high HBV DNA level is (current thresholds for initiating antivirals vary)
+    - <u>Implications of Mx</u> - see details on European Liver Association 2017 guidelines:
+      - **Abnormal ALT** (\> ULN indicating active hepatitis) - initiate Tx if HBV DNA levels \> 2000 IU/L irrespective of HBeAg status
+      - **Documented cirrhosis** - initiate Tx if detectable HBV DNA levels irrespective of ALT (ALT is not a good surrogate for hepatocellular injury in these patients)
+      - **Immunotolerant phase** - if HBV DNA sky high and HBeAg +ve if they are \> 30y
+  - **HBsAg seroconversion:**
+    - <u>Rationale</u> - reflects very low viral level
+    - <u>Risk of progression</u> - likely age-dependent (continued monitoring for complications still required): 
+    ![](../img/HBsAg_seroclearance_in_risk_of_HCC.png)
+
+## Management of Chronic Hepatitis B
+
+- **Aims of Mx** - prevent disease progression and reduce risk of cirrhosis and HCC
+- **Principles of Tx:**
+  - <u>Viral suppression</u>:
+    - **Treatment targets** - undetectable HBV DNA levels (lowest risk of disease progression), HBsAg seroclearance (functional endpoint achievable in \< 10% and extremely difficult if acquired in childhood)
+    - **Future aims** - loss of integrated cccDNA (theoretical means of viral eradication)
+  - <u>Reduction of liver damage</u>:
+    - **Treatment targets** - Low ALT levels (\< 0.5 x ULN)
+    - **Future aims** - improvement of liver histology to near normal
+- **Principles of Mx:**
+  - **Aims of Mx** - prevent disease progression and reduce risk of cirrhosis and HCC through viral suppression
+  - **Indications of Tx** - European Liver Association 2017 (least restrictive):
+    - ALT/AST \> ULN with active viral replication (HBV DNA \> 2000 IU/mL) irrespective of HbeAg status
+    - Any detectable viral replication in cirrhotic patients, irrespective of ALT levels
+    - Family Hx with HCC or cirrhosis
+    - HBeAg +ve patients with high HBV DNA level with normal ALT if \> 30y (?late immuno-tolerant stage?)
+  - **Endpoints of Tx** (theoretically aimed at loss of integrated cccDNA):
+    - <u>HBsAg seroconversion</u> - functional endpoint achieved in 10% (HCC surveillance still required as risk persists)
+    - <u>Undetectable HBV DNA</u> - except in LT patients
+    - <u>ALT normalisation</u> - \< 0.5x ULN
+  - **Modalities for pharmacological Tx of chronic hepatitis B:**
+    - <u>Immunomodulators</u> - e.g. PEG-INF-alpha, therapeutic vaccines
+    - <u>Nucleoside analogues</u> - e.g. lamivudine, adenovir, entecavir, telbivudine, tenofovir disoproxil fumarate (TDF), tenofovir alafenamide (TAF)
+- **Interferons:**
+  - <u>Selection</u>:
+    - Conventional IFN-alpha (shorter half-life and more frequent dosing)
+    - Pegylated IFN-alpha (longer half-life and less frequent dosing)
+  - <u>MOA</u> - immunomodulation:
+    - **Induction of anti-viral state in uninfected hepatocytes** - inhibition of viral entry and replication
+    - **Enhance antigen presentation in infected hepatocytes** - accelerates T cell and NK cell cytotoxicity
+  - <u>Regimens</u>:
+    - Conventional IFN-alpha - 3x a week for 16-24 week
+    - PEG-IFN-alpha - 1x a week for 48 weeks
+  - <u>S/E</u>:
+    - Flu-like syndrome (rapid tachyphylaxis)
+    - Fatigue
+    - Myalgia
+    - N/V
+    - Diarrhoea
+    - Depression (may be suicidal)
+    - Marrow suppression
+    - Hepatotoxicity if LFT borderline
+  - <u>C/I</u> - not suitable patients w/ significant cirrhosis as depleted hepatocellular reserve
+  - <u>Advantages of INF-alpha</u>:
+    - Finite period of treatment
+    - More durable seroconversion and more HBsAg seroclearance (not observed in those w/ childhood infections)
+    - No resistant mutations (as primarily act on host respone)
+  - <u>Disadvantages</u>:
+    - Intolerable S/E
+    - Not suitable for patients with significant cirrhosis
+- **Nucleos/tide analogues:**
+  - **Selection:**
+    - <u>Nucleoside analogue</u> - entecavir, lamivudine
+    - <u>Nucleotide analogue</u> - tenofovir disoproxil fumarate (TDF), tenofovir alafenamide (TAF)
+
+    
+    ![](../img/nrti_for_hbv.png)
+  - **Lamivudine** (not 1st-line agent):
+    - <u>Dosing</u> - 100 mg/d
+    - <u>MOA</u> - oral nucleoside analogue (2'3'-dideoxy-3'thiacytidine):
+      - Chain termination of -ve strand of HBV DNA, thus inhibits DNA synthesis
+      - Potent reverse transcriptase inhibitor
+    - <u>Clinical efficacy</u> - \> 95% suppression of HBV DNA within 1-2 weeks:
+    - <u>S/E</u> - almost w/o side effects
+    - <u>Problems</u> - a/w selection of resistant strains (YMDD variant HBV):
+      - 15% after 1y of lamivudine
+      - \> 70% after 5y of lamivudine
+  - **Entecavir** (1st-line agent in Tx-naive patients):
+    - <u>MOA</u> - guanosine analogue
+    - <u>Clinical efficacy</u> - much more potent than lamivudine
+    - <u>S/E</u> - almost w/o side effects
+    - <u>Problems</u> - a/w resistance in YMDD mutation and other strains:
+      - In Tx-naive patients, 1.2% after 8y of entecavir
+      - In Lamivudine patients, 50% develop resistance in 6y
+  - **Tenofovir Disoproxil Fumarate** (TDF):
+    - <u>MOA</u> - adenosine analogue
+    - <u>S/E</u>:
+      - Renal toxicity (primarily proximal tubulopathy)
+      - Hypophosphataemia and Osteomalacia (secondary to proximal renal tubulopathy)
+    - <u>Advantages</u>:
+      - Effective against both wild type and YMDD mutant
+      - Resistance 0% after 10y of TDF
+  - **Tenofovir Alafenamide** (TAF):
+    - <u>Dosing</u> - 25 mg/d
+    - <u>MOA</u> - prodrug of tenofovir
+    - <u>Pharmacokinetics</u> - more stable in plasma
+    - <u>Advantages</u> - over TDF:
+      - Less renal toxicity and less effects on bone
+      - Better ALT normalization than TDF
+
+## Hepatitis B Reactivation with Immunosuppression
+
+- **Effects of steroids on chronic HBV carriers:**
+  - <u>During steroid therapy</u> - enhanced viral replication (raised HBV DNA levels) due to stimulation of glucocorticoid responsive element
+  - <u>Following steroid withdrawal</u> (~ 4-10 weeks) - immune rebound with an over-exagerated response for viral clearance which can result in acute liver failure
+- **Approach to Mx of HBV carriers during immunosuppression:**
+  - **Initial Ix** - define initial state:
+    - HBsAg, anti-HBs
+    - Baseline HBV DNA
+    - Baseline LFT
+    - anti-HBc (for those on Anti-CD20)
+  - **Decision for initiation of antiviral Tx** - dependent on HBsAg status and type of immunosuppression:
+    - <u>HBsAg +ve patients</u> - prophylactic antiviral Tx for all irrespective of type of immunosuppression
+    - <u>HBsAg -ve patients on immunosuppression other than Anti-CD20</u> - routine monitoring of HBV DNA levels and consider initiation if +ve
+    - <u>HBsg -ve patients (Anti-HBc/ Anti-HBs) on Anti-CD20</u>:
+      - Prophylactic antiviral Tx if HBV DNA detectable
+      - If initially undetectable, frequent monitoring and intiate Tx once HBV DNA level increases
+  - **Decision to stop antiviral Tx:**
+    - <u>HBV DNA levels \> 2000 IU/mL</u> - continue long-term antiviral therapy as absolutely indicated for antiviral Tx
+    - <u>HBV DNA levels \< 2000 IU/mL</u> - continue 6 mo after completion of immunosuppression (12 mo after anti-CD20 therapy) before considering cessation

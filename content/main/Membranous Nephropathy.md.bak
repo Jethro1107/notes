@@ -1,0 +1,85 @@
+---
+id: 4c920907-e212-431f-9811-46fd2f973366
+title: Membranous Nephropathy
+---
+
+# Membranous Nephropathy
+
+- **Definition** - the most common cause of nephrotic syndrome in adults w/o diabetes, which reflect a pathognomonic mechanism of podocyte injury on kidney biopsy
+- **Pathophysiology of membranous nephropathy:**
+  - <u>Antibodies against podocytes</u> (Anti-PLA2R and Anti-THSD7A in primary MN) - most often caused by circulating autoantibodies that bind to the endogenous antigens on podocytes, which result in complement-mediated podocyte injury
+  - <u>Pathogenic mechanism of podocyte injury</u> - pathologically characterised by:
+    - Effacement of podocyte food processes
+    - Expansion of the glomerular basement membrane
+    - Alterations in glomerular filtration barrier, which leads to visible proteinuria
+- **Etiology of MN** - traditionally classified into primary or secondary: 
+![](../img/causes_of_secondary_mn.png)
+  - **Primary MN** (75% of adult cases) - forms of MN caused by humoral autoimmune response (e.g. PLA2R, THSD7A) to endogenous podocyte Ag in the absence of other known etiologies
+  - **Secondary MN** - disease entities in association w/ MN based on observations that removal of the inciting factor led to resolution of the nephrotic syndrome:
+    - <u>Autoimmune disorders</u> - SLE (class V LN), IgG4-related disease
+    - <u>Drugs</u>:
+      - NSAIDS
+      - Immune-checkpoint inhibitors
+      - Old DMARDs (Gold, penicillamine)
+    - <u>Infections</u> - HBV, HCV, syphilis, HIV
+    - <u>Malignancy</u> - more commonly solid tumors and less comonly due to haematological malignancies
+- **Clinical manifestations** - typically manifests as:
+  - <u>Asymptomatic proteinuria</u> - subsequently worked up to have MN
+  - <u>Nephrotic syndrome</u> - frank symptomatic proteinuria w/ associated biochemical and laboratory changes
+  - <u>AKI</u> - very rarely as first presentation, and is related to hypovolaemia due to over-diuresis, or superimposed AIN due to the offending drugs (N.B. drugs can cause multiple renal pathologies)
+- **Histopathological findings** - on renal Bx:
+  - <u>Light microscopy</u> - diffuse thickening of GBM throughout glomeruli in the absence of significant hypercellularity; spikes of the GBM
+  - <u>IMF</u> - diffuse granular pattern of IgG and C3 along GBM
+  - <u>EM</u>:
+    - Effacement of foot processes
+    - Expansion of GBM by deposition of new extracellular matrix
+
+  
+  ![](../img/membranous_nephropathy_pathological_findings.png)
+- **Ix:**
+  - **Anti-PLA2R testing** - for Dx of primary MN (moderate Sn, High Sp):
+    - <u>+ve result</u> - allows for Dx of primary MN w/ no evident secondary causes of MN or DM
+    - <u>-ve result</u> - does not r/o primary MN as up to 20% cases are seronegative
+  - **Renal Bx:**
+    - <u>Indications</u> - generally pursued allthough serological-based Dx in those w/ classical MN is an reasonable approach:
+      - Serological based Dx with sparing of renal Bx, in the presence of nephrotic syndrome and +ve Anti-PLA2R with <u>normal renal function</u>
+      - If presence of atypical features (e.g. presnce of DM, impaired renal function, evidence of secondary cause), as to exclude secondary MN or superimposed disease
+    - <u>Rationale for pursuing renal Bx</u> - enable differentiation of primary and secondary MN may alter Mx (e.g. thorough malignancy screen)
+  - **Evaluation of secondary cause:**
+    - <u>Serology for autoimmune disease</u> - e.g. ANA, C3/4 +/- anti-dsDNA, anti-Sm, anti-Ro, anti-La
+    - <u>Viral serology</u> - e.g. HIV, HBV, HCV
+    - <u>Malignancy screen</u>:
+      - SPE w/ immunofixation + SFLC assay
+      - CXR/ CT thorax (for those w/ risk factors)
+- **Prognosis:**
+  - **Likelihood of spontaneous remission** - classically 1/3 undergo spotaneous remission, 1/3 remain nephrotic, and 1/3 progress to CKD:
+    - <u>Spotaneous complete remission</u> - 5-30% at 5y
+    - <u>Spontaneous partial remission</u> (\< 2g/d) - 25-40% at 5y
+  - **Risk of renal deterioration** - dependence on remission of disease:
+    - <u>Persistent nephrotic syndrome</u> - 10y rates of ESRD at 35%
+    - <u>Disease remission</u> - 10y rates of ESRD as low as 2%
+- **Risk factors for disease persistence and progression:**
+  - **Clinical factors:**
+    - <u>Degree of proteinuria</u> - nephrotic range proteinuria (esp. if \> 8-10 g/d) at higher risk of developing ESRD than non-nephrotic proteinuria
+    - <u>Baseline renal functions</u> - those w/ higher SCr at presentation at higher risk of developing ESRD
+  - **Biomarkers:**
+    - <u>Serum Anti-PLA2R levels</u> - higher titres a/w higher rates of disease persistence and progression (although no consensus for what level to predict risk of disease progresssion)
+    - <u>Other biomarkers</u> - e.g. THSD7A, urine LMW proteins have less evidence in predicting disease progressions
+  - **Histological findings** (most important) - risk of progression greater in those w/ glomerulosclerosis (focal or global) and evidence of tubulointerstitial disease
+- **Risk stratification of patients w/ primary membranous nephropathy:** 
+![](../img/risk_stratification_of_those_with_primary_mn.png)
+- **Mx:**
+  - **Principles of Mx:**
+    - **Aims of Mx:**
+      - <u>Prevent complications</u> associated w/ nephrotoxic syndrome (i.e. general measures for nephrotic syndrome)
+      - <u>Prevent disease progression</u> if risk of disease progression is high based on clinical and biochemical risk factors
+    - **General measures** - Tx of oedema, dietary sodium restriction, BP control, control of proteinuria, SGLT2i, lipid lowering
+    - **Risk stratification of patients w/ primary membranous nephropathy:** 
+    ![](../img/risk_stratification_of_those_with_primary_mn.png)
+    - **Initiation of Tx** - identify patients at low-risk of disease progression to avoid potential toxicity of Tx:
+      - <u>Very-high risk of disease progression</u> - recommend immediate Tx w/ immunosuppressive therapy
+      - <u>Other patients</u> - general measures and observation for disease progression for 3-6 mo, and consider Tx if remaining at high risk
+  - **Immunosuppressive therapy:**
+    - **Initial regimen** - dependent on risk of progression:
+      - <u>High or very-high risk disease</u> - glucocorticoids + cyclophosphamide (or rituximab if stable renal functions)
+      - <u>Moderate risk disease</u> - rituximab or glucocorticoids + cyclophosphamide/ CNI (e.g. cyclosporin/ tacrolimus)

@@ -1,0 +1,109 @@
+---
+type: main
+tags:
+---
+# Knee Overuse Syndromes
+
+- **Clinical features suggestive of overuse disorder:**
+	- Gradual pain w/o swelling
+	- Aggravation of pain by activity and relieved by rest
+	- Etiology traced back to training schedules, footwear, technique, or bioamechanical abnormalities of LL
+- **Classification of knee overuse syndromes:**
+	- _Tendonopathies_ - **patellar tendonopathy**, semitendinous tendonopathy, biceps femoris tendonopathy, quadriceps tendonopathy, popliteus tendonopathy, **iliotibial band syndrome**
+	- _Synovitis/ bursitis_:
+		- Prepatellar bursitis
+		- Superficial and deep bursitis
+		- Aneserinus bursitis/ tendonopathy
+		- Synovial plica syndrome
+	- _Others_ - infrapatellar fat-pad inflammation
+	- ![[Pasted image 20260522180459.png]]
+- **Patellofemoral pain syndrome** (Chondromalacia patellae; jogger's knee):
+	- **Pathophysiology** - abnormal tracking of patella:
+		- Quadricep muscle imbalance (weaker rectus medius)
+		- Biomechanical abnormalities (e.g. pes planus, faulty knee mechanisms, OA of patellofemoral joints)
+	- **Clinical features of patellofemoral pain syndrome** - typically insidious onset in absence of trauma:
+		- _Joint pain_:
+			- Site - usually behind or adjacent the patella or deep in knee
+			- Provocation - duringa ctivities where flexion of knee occurs while under load:
+				- Walking up stairs
+				- Walking down slopes or stairs
+				- Squatting
+				- Prolonged sitting
+		- _Crepitus_ - may be experienced around the patella
+	- **Signs:**
+		- _Patellofemoral crepitation_ - palpable crepitations knee flexion and extension
+		- _Perkins test_ - reproduction of pain by compression of patella onto femur as it is pushed side to side w/ knees straight or flexed:
+			- Have patient supine w/ knee extended
+			- Grasp superior pole of patella and displace it inferiorly
+			- Maintain this position and apply patellofemoral compression
+			- Ask patients to contract the quadriceps
+			- +ve sign is reproduction of the pain under patella and hesitancy in contracting the muscles
+			- ![[Pasted image 20260522181426.png]]
+	- **Mx:**
+		- Advise on reducing aggravating activity
+		- Referral to PT for quadriceps exercise +/- OT for orthotics to correct underlying biomechanical abnormalities
+		- Trial of NSAIDs for pain relieve
+- **Patellar tendonopathy** (jumper's knee):
+	- **Definition** - common knee overuse syndrome a/w repetitive jumping sports (jumper's knee)
+	- **Sports a/w patellar tendonopathy:**
+		- High jumping
+		- Basketball
+		- Netball
+		- Volleyball
+		- Soccer
+	- **Pathophysiology** - postulated to be an inflammatory response around a small tear in the patella
+	- **Clinical features of patellar tendonopathy** - anterior knee pain:
+		- _Site_ - well-localised to the patellar tendon
+		- _Onset_ - typically gradual onset w/ no Hx of injury
+		- _Quality_ - ?sharp pain, tenderness
+		- _Provocation_ - activity, esp. w/ jumping
+		- _Relieving factors_ - completely relieved by rest
+	- **Signs** - often minimal and non-specific:
+		- **Inspection** - absence of deformities +/- mild swelling over patellar area
+		- **Palpation** - mild tenderness over inferior pole of patella w/ patella tilt:
+			- Lay the patient supine w/ head on pillow, arms by side, and quadriceps completely relaxed (knees fully extended)
+			- Tilt the patella by exerting pressure over its superior pole, lifting the inferior pole
+			- Palpate over the surface under the inferior pole
+			- Sharp pain + produced suggests patellar tendonopathy
+			- ![[Pasted image 20260525133854.png]]
+	- **Mx:**
+		- **Principles of Mx:**
+			- _Rest_ - rest from offending exercises (esp. jumping)
+			- _Physiotherapy_ - training modification:
+				- Adequate warm up and cool down exercises
+				- Strengthening/ stretching exercises for calf, hamstring, and quadriceps for jumping
+			- _Orthotics_ - modified footwear and patellar tendon strap useful in some cases
+			- _Analgesics_ - oral NSAIDs, and injected corticosteroids often disappointing
+- **Anserine bursitis:**
+	-  **Definition** - tendonopathy over the medial tibial condyle where tendon of the sartorius, gracilis, and semitendinosus attach
+	- **Epidemiology** - more common in:
+		- Middle, aged and elderly people
+		- Overweight individuals
+		- Background of Knee OA
+	- **Clinical features of anserinus tendonopathy** - medial knee pain:
+		- _Site_ - medial tibial condyle at site of attachments of pes anserinus
+		- _Onset_ - gradual onset
+		- _Aggravation_ - resisted knee flexion, due to use of the pes anserinus muscles
+- **Iliotibial band syndrome:**
+	- **Definition** - inflammation over the area where iliotibial band crosses over the lateral femoral condyle, caused by friction of the ITB on the bone
+	- **Epidemiology:**
+		- Common in long-distant runners, especially those running up and down hills
+		- Common in cyclists
+	- **Clinical features of iliotibial band syndrome:**
+		- _Site_ - well-localised, lateral knee pain where iliotibial band passes over the lateral femoral condyle (1-2cm above the lateral joint line)
+		- _Aggravation - running and cycling
+	- **Mx:**
+		- **Principles of Mx:**
+			- _Rest_ - restrict offending activities
+			- _Physiotherapy_ - for stretching exercises
+			- _Analgesics_ - injection of local anaesthetics and long-acting corticosteroids may be useful
+			- _Surgery_ - surgical excision of affected fibres if conservative Mx fails
+- **Synovial plica syndrome:**
+	- **Definition** - an embryological synovial fold remnant being caught in between patella and femur during walking or running
+	- **Classification** - anatomically:
+		- Medial plica syndrome (most common)
+		- Suprapatellar plica syndrome
+		- Infrapatellar plica syndrome
+		- Lateral plica syndrome
+	- **Clinical features of synovial plica syndrome** - acute catching anterior knee pain w/ movement
+	- **Mx** - usually settles w/o Tx

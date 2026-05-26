@@ -1,0 +1,151 @@
+---
+id: ee9e105b-6ed1-4d5c-8ec7-e078e5e84f29
+title: Infective Endocarditis
+---
+
+# Infective Endocarditis
+
+- **Definition of IE** - A disease caused by microbial infection of endocardial lining of the heart, usually valvular, but can be found in a cardiac chamber, blood vessel, or a congenital abnormality (e.g. septal defect).
+- **Pathophysiology of IE:**
+    - **Predisposition:**
+        - **Endocardial damage** - due to high pressure jets of blood from preexisting cardiac lesions:
+            - Valvular heart disease (regurgitation \> stenosis) - MR \> MS, AR \> AS, VSD
+            - Shunts - e.g. VSD, PDA, AV fistulas
+        - **Exposure to virulent organisms** (affects normal endocardium) - e.g. S. aureus (e.g. IE of tricuspid valve as prototypical complication of IVDU)
+        - **Prosthetic heart valves**
+    - **Vegetation formation:**
+        - **Propensity to occur at sites of endothelial damage** (prothrombotic nature) - deposition of blood clots allows colonisation by blood-borne organisms
+            - Endocardium is avascular - allows for proliferation and evasion from host defence mechanisms
+        - **Propagation of vegetations** - cause obstruction and emboli, destruction of adjacent tissue and abscess formation
+    - **Cardiac manifestation:**
+        - **Valvular regurgitation** developed or increased - due to tissue distortion, cusp perforation (aortic) or disruption of chordae (mitral)
+    - **Extracardiac manifestations:**
+        - **Systemic infections** - due to continuous bacteraemia
+        - **Septic embolisation** - MI, Stroke, Ischaemic limbs
+        - **Immune complex deposition** - Clubbing, Osler Node, arthritis, tenosynovitis, immune GN
+- **Clinical features of IE:**
+    - May be acute or subacute, where clinical pattern is influenced by 1) virulence of organism, 2) site of infection, 3) prior ABx, 4) presence of prothesis.
+        - Subacute endocarditis - typically manifests with cardiac and extra-cardiac complications
+    - **Manifestations of systemic infections:**
+        - Hx - Persistent pyrexia of unknown origin, chills and rigors, Constitutional Sx (night sweats, weight loss), generalised malaise
+        - P/E - Fever, pallor, splenomegaly (long standing endocarditis)
+        - Ix - NcNc anaemia, leukocytosis, raised ESR/CRP, +ve blood culture
+    - **Manifestations of valvular involvement:**
+        - Hx - Symptoms of HF, chest pains
+        - P/E - Signs of HF, New evolving murmur (especially regurgitation murmurs)
+        - Ix - Echo (vegetations), ECG (AV block in aortic root lesion, or infarction), CXR
+    - **Manifestations of septic embolisation:**
+        - Hx - stroke, brain abscess, ischaemic limbs
+        - P/E - Skin petechiae (40-50%), Roth spots, Janeway lesions, Splinter haemorrhage
+    - **Manifestations of immune complex deposition:**
+        - Hx - arthralgia, myalgia, tenosynovitis, features of GN (proteinuria, haematuria)
+        - P/E - arthritis, Osler's node, Finger clubbing
+        - Ix - Urinalysis (protein and RBC casts), Ig pattern and SPE (polyclonal), increased RF, decreased Complements
+
+    
+    ![](img/handsigns_of_ie.png)
+- **Signs of IE:** 
+![](img/signs_of_ie.png)
+    - 'Varying' murmur (90%) - murmur that is new and changing
+    - Non-specific supportive signs - Clubbing (10%), splinter haemorrhages (10%), Splenomegaly (30-40% in long standing IE), Peticheal rash (40-50%) on extremites, mucous membranes or conjunctiva (2-5%)
+    - Rare but specific signs:
+        - Janeway lesions - non-tender erythematous macules on palms and soles (septic emboli)
+        - Osler Nodes - tender nodules on the pulp of fingertips (immune complex mediated vasculitis)
+        - Roth spots - exudative, oedematous haemorrhagic lesions of the retina with pale centres
+- **Evaluation of IE:**
+    - **Clinical suspicion of IE** - pyrexia of unknown origin in individual with compatible risk factors, persistent bacteraemia
+    - **Hx and P/E:**
+        - Hx - elicit nature and duration of IE, and risk factors for IE
+        - P/E - look for varying murmur and signs related to IE
+    - **Blood cultures** - prior to initiation of ABx treatment:
+        - 3 venous cultures - taken at 3 different venipuncture site separated by at least half hour
+    - **Echocardiogram:**
+        - Role - Detection of vegetations, valvular damage and abscess formation (-ve echo does not exclude Dx)
+        - Modalities:
+            - TTE - initial screen for IE (typically detectable at 2-4 mm)
+            - TEE - increased sensitivity (1-1.5mm) especially if initial screen -ve, abscess formation initial screen for prosthetic valves
+    - **Ancillary Ix:**
+        - Initial blood - CBC, ESR/CRP
+            - CBC - NcNc anaemia, leukocytosis
+            - ESR - non-specifically increased
+            - CRP - better monitoring of progress
+        - Urinalysis (dipstick) - proteinuria and microscopic haematuria
+        - ECG - detection of conduction abnormalities (e.g. AV block in aortic root abscess formation) and MI
+        - CXR - evidence of HF
+
+## Microbiology of IE
+
+- **Native valves** - 3/4 cases of IE are caused by either staphylococcus and streptococcus:
+    - **Staphylococcus aureus** - currently most common cause world wide
+        - <u>Normal site</u> - skin
+        - <u>Predisposition</u> - haematogenous access via skin infections, abscesses or vascular access sites (e.g. IV or central lines), or IVDU
+        - <u>Clinical features</u> - Extremely virulent, causing florid vegetations, fulminant valve destruction and abscess formation
+    - **Streptococcus viridans** (e.g. mutans, sanguis) - used to be leading cause of IE
+        - <u>Normal site</u> - oropharynx (commensals of upper respiratory tract)
+        - <u>Predisposition</u> - haematogenous access through dental procedures, chewing/ teeth brushing
+        - <u>Clinical features</u> - typically subacute
+    - **Streptococcus bovis** (e.g. pyogenes, agalectiae, bovis, pneumoniae)
+        - <u>Normal site</u> - GI tract
+        - <u>Predisposition</u> - large bowel malignancies
+        - <u>Clinical features</u> - typically subacute, and a/w underlying large bowel malignancies
+    - **Enterococci** (e.g. faecalis, faecium)
+        - <u>Normal site</u> - GI and GU
+        - <u>Predisposition</u> - GI/ GU manipulation
+    - **HAECK group** - Haemophilus aphrophilus, Actinobacillus actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens, Kingella kingae
+        - <u>Normal site</u> - oropharynx
+        - <u>Sensitivity</u> - penicillin-resistant
+        - <u>Clinical features</u> - large vegetations that are difficult to culture
+- **Prosthetic valves** - dependent on duration since valvular replacement:
+    - <u>Early onset</u> (\< 12 mo) - Coagulase -ve staphylococcus (e.g. S. epidermidis, S. lugdenensis)
+    - <u>Late onset</u> (\> 12 mo) - similar to native valves
+- **Other special populations:**
+    - <u>Animal exposure</u> - e.g. Coxiella burnetii (Q fever from exposure of farm animals), Brucella (goats and cattles), Bartonella henselae (cats)
+    - <u>Other rarer etiology</u> - Mycoplasma, Chamydia, Legionella
+- **Causes of culture-negative endocarditis:**
+    - Inadequate technique
+    - **Prior antibiotics**
+    - Fastidious organism - Mycoplasma, HACEK group, Abiotrophia, Bartonella
+    - Fungal
+    - Non-bacterial thrombotic endocarditis (e.g. Libman-Sacks endocarditis in SLE)
+
+## Diagnostic Criteria of IE
+
+- **Modified Duke's Criteria** - IE is established if either pathological criteria or clinical criteria is met (mostly dependent on clinical criteria):
+    - <u>Pathological criteria</u> (definitive IE):
+        - Microbiological criteria (blood culture not part of pathological criteria) - micro-organisms identified in the context of clinical signs of active endocarditis
+        - Histopathological criteria - histopathological findings of active endocarditis
+    - <u>Clinical criteria</u> - Definite IE (2 major, 1 major and 3 minor, or 5 minor), Possible IE (1 major and 1 minor, or 3 minor)
+- **Major criteria:**
+    - <u>+ve blood culture to demonstrate persistent bacteraemia</u>:
+        - Persistently positive blood cultures
+            - For organisms that are typical causes of IE - At least two positive blood cultures from blood samples drawn \>12 hours apart
+            - For organisms that are more commonly skin contaminants - Three or a majority of ≥4 separate blood cultures (with first and last drawn at least one hour apart)
+            - Single positive blood culture for \_<sub>Coxiella</sub> burnetii\_\_ or phase I IgG antibody titer \>1:800
+    - <u>Endocardial involvements</u>:
+        - Positive echo evidence of vegetations, abscess formations, dishecence of prosthetic valves, and new valvular regurgitations
+- **Minor criteria:**
+    - Predisposition - Shunts, VHD, IVDU
+    - Pyrexia \>= 38 degrees
+    - Embolic phenomenon - major arterial emboli, pulmonary infarct, mycotic aneurysm, conjunctival haemorrhage, Janeway lesions
+    - Immunological phenomenon - GN, Osler nodes, Roth's spots
+    - Blood cultures suggestive of IE but not meeting major criteria
+    - Suggestive echocardiographic findings
+
+## IE Antibiotic Prophylaxis
+
+- Biological rationale of antibiotic prophylaxis - invasive procedures (dental, GI, GU) may introduce transient bacteraemia, which can theoretically predispose to IE
+- Current guidelines for IE - only for those with at-risk procedures in at-risk individuals
+    - At risk individuals:
+        - Prosthetic valve or prosthetic material for valvular repair
+        - Previous IE
+        - Congenital heart disease - unrepaired cyanotic CHD, repaired with residual defects, complete repaired after 1st 6 mo post-op
+        - Cardiac transplantation recipients who develop valvuopathy
+    - At risk procedures:
+        - Dental procedures that manipulate gingival tissues, perforate oral mucosa or manipulate periapical regions of teeth - recommended for most individuals
+        - Respiratory tract, skin, or musculoskeletal procedures
+        - GI/GU procedures - not recommended routinely except for at-risk individuals
+- Rationale for current guidelines:
+    - Low-grade bacteraemia occurs in routine activities of daily living
+    - Risk of IE following dental procedures is very low
+    - Risks of indiscriminate ABx use outweighs the benefits
+    - Maintenance of optimal oral hygiene is more important than antibiotic prophylaxis.

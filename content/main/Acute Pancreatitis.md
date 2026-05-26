@@ -1,0 +1,233 @@
+---
+id: f838ae4f-0038-42ec-9de3-9281007a5fcc
+title: Acute Pancreatitis
+---
+
+# Acute Pancreatitis
+
+- **Definition** - acute inflammation of the pancreas
+- **Epidemiology** - acutes for 3% of acute abdomen (UK):
+    - Incidence - 5-10/100000/y
+    - Demographic - occurs at any age, w/ peak in young men and older women
+- **Etiology** - two common causes are <u>biliary pancreatitis</u> and <u>alcoholic pancreatitis</u>:
+    - **Biliary pancreatitis** (60-70%) - caused by CBD stone (choledocholithiasis)
+    - **Alcoholic pancreatitis** (25%) - caused by alcohol abuse
+    - Idiopathic - 3rd most common cause (no more than 20% should fall under this category)
+    - **Post-ERCP syndrome** - caused by pancreatic ductal disruption leading to enzyme extravastation
+    - **Hypercalcaemia** - workup for hyperPTH
+    - **Hypertriglyceridaemia**
+    - **Drug-induced** - corticosteroids, azathioprine, asparaginase, valproic acid
+    - Other rare causes - abdominal trauma, autoimmune pancreatitis, hereditary pancreatitis, pancreatic divisum, malnutrition, drug induced, Ampullary tumour
+- **Clinical features of acute pancreatitis:**
+    - **Abdominal pain** (typically epigastric pain) - cardial Sx of acute pancreatitis which predominants the clinical presentation:
+        - <u>Site</u> - over epigastrium, but may be subsequently shifted to RUQ or felt diffusely through the abdomen
+        - <u>Onset</u> - rapid onset to maximal intensity within minutes, acute presentation (persist for h to d)
+        - <u>Character</u> - constant, dull pain
+        - <u>Radiation</u> - to the back in 50% of case, ocassionally to chest mimicking (MI, pneumonia, pleurisy)
+        - <u>Exacerbating and relieving factors</u> - relieved by sitting upwards or leaning forwards
+        - <u>Severity</u> - extremely severe
+    - **Nausea and repeated vomiting** - typical marked accompaniments, with retching persisting even after being kept NPO and stomach kept emptied by NG aspiration
+    - **Hiccups** - due to gastric distension or irritation of diaphragm
+- **Signs of acute pancreatitis:**
+    - <u>General appearance</u> - extremely variable, from one who is well, or one who is gravely ill w/ profuse shock, toxicity and confusion
+    - <u>Vitals</u> - tachypnoea, tachycardia, +/- hypotension, +/- mild pyrexia (due to inflammation)
+    - <u>Acute swinging fever</u> - suggestive of acute cholangitis
+    - <u>General examination</u> - jaundice (suggestive of biliary pancreatitis)
+    - <u>Abdominal examination:</u>
+        - Skin changes (retroperitoneal haemorrhage) - Cullen sign (umbillicus), Grey Turner's sign (flanks)
+        - Distension - due to ileus, or rarely ascites (+ve shifting dullness)
+        - Palpation - marked guarding typically over epigastrium, whereas rigidity is unusual
+    - <u>Respiratory examination:</u>
+        - Pleural effusion (10-20%) - reduced chest expansion, stony dullness, absent breath sounds +/- mediastinal shift
+- **Dx of acute pancreatitis** - <u>Atlanta classification of acute pancreatitis</u> (2012):
+    - 2 of 3 of the following criteria:
+        - Characteristic abdominal pain
+        - Serum pancreatic enzyme (amylase or lipase) \> 3x ULN
+        - Characteristic findings of acute pancreatitis on cross-sectional imaging (abdominal US, contrast-enhanced CT abdomen)
+- **Ix of acute pancreatitis** - for 1) diagnosis, 2) assessment of severity, and 3) determining etiology:
+    - <u>Diagnostic Ix</u> - serum amylase or lipase (\> 3x ULN)
+    - <u>Severity Ix</u>:
+        - Bloods - CBC, RFT (urea), LDH, CRP, Ca
+        - Imaging - contrast CT abdomen (not always indicated), +/- MRCP
+    - <u>Etiological Ix</u> - Erect CXR and AXR (r/o ddx of acute abdomen), US liver, TG, Ca, LFT
+- **Role of imaging** - for 1) diagnosis, 2) assessment of severity, and 3) identify localised complications:
+    - **USG abdomen** (within 24h) - non-specific changes (e.g. swollen pancreas), identify gallstones as potential cause (dilated biliary system)
+    - **Contrast-enhanced CT** - for stable patients w/ diagnostic uncertainty, clinically severe acute pancreatitis (on severity scores or progressive clinical deterioration), or suspected local complication
+    - +/- MRCP - for suspected biliary pancreatitis
+- **Assessment of disease severity** - differentiation of mild AP from MSAP or SAP as a/w different prognosis:
+    - **Clinical predictors:**
+        - <u>Age</u> - older age is a predictor of worse prognosis
+        - <u>Obesity</u> - BMI \> 30 appears to be an independent risk factor of SAP, systemic complications, local complications, and overall mortality according to a meta-analysis
+        - <u>Organ failure</u> - early (within 72h of admission) and persistent (persists \> 48h) organ failure is a reliable indicator for increased mortality and prolonged LOS, and is predicted by **elevated BUN** and **procalcitonin** after 48h of admission
+    - **Laboratory predictors:**
+        - <u>HCT</u> - high HCT at admission is a predictor of SAP as it signifies 3rd-space fluid loss
+        - <u>CRP</u> - high CRP at 48h (\> 150 mg/L) has good Sn and Sp (80% and 76% respectively) for predicting SAP
+        - <u>BUN</u> - where admission BUN and rising BUN at 48h is the single most reliable laboratory predictor for mortality in AP
+        - <u>SCr</u> - elevated SCr at 48h may predict local complications
+    - **Radiologic predictors:**
+        - <u>CXR</u> - presentation w/ pleural effusion or pulmonary infiltrates may be a/w organ failure and pancreatic necrosis
+        - <u>Contrast CT abdomen</u> - for radiological assessment if severe SAP is suspected to identify pancreatic necrosis and extra-pancreatic inflammation:
+            - **Indications for CT:**
+                - Deteriorating clinical status after 24h
+                - Severe AP determined clinically or by scoring systems
+            - **Rationale for not performing CT for all patients w/ acute pancreatitis:**
+                - CT severity index was not superior in identifying SAP compared w/ clinical, laboratory predictors and scoring systems
+                - Pancreatic necrosis takes time to develop, such that Tx is unlikely to be altered by performing CT on day one
+            - **Findings compatible w/ SAP:**
+                - Non-enhancing foci of necrosis
+        - <u>MRI</u> - similar performance as CT for identification of pancreatic necrosis and fluid collections, but is limited by availability, cost, and examination time (esp. for critically ill patients)
+    - **Scoring systems** - a combination of clinical, laboratory and radiological factors, but is of limited utility as due to 1) modest test properties, and 2) take 48h to complete:
+        - **Ranson's criteria** - earliest scoring system for AP, requiring 5 parameters at admission, and 6 parameters at 48h:
+            - <u>Test-properties</u> - meta-analysis shows Ranson's criteria is poor predictor of severity
+            - <u>Scoring components:</u> 
+            ![](../img/ransons_criteria.png)
+        - **APACHE II score** - most widely studied severity score in AP originally developed for critically ill agents:
+            - <u>Scoring components</u> - contains 12 physiological measurements and extra-points based on age and presence of chronic disease
+            - <u>Advantages</u>:
+                - Modest PPV and good NPV for SAP based on one-off values
+                - Able to be used serially, where decreasing trends suggest a mild course, while increasing trends suggest SAP
+            - <u>Disadvantages</u> - cumbersome to use
+        - **Systemic inflammatory response syndrome score** - presence and persistence of SIRS is associated w/ increased mortality:
+            - <u>Scoring components</u>:
+                - Temperature \> 38.3 degrees or \< 36 degrees
+                - HR \> 80 bpm
+                - Respiratory rate \> 20/ min or PaCO2 \< 32 mmHg
+                - WBC \> 12 x 10<sup>9</sup>/ L or \< 4 x 10<sup>9</sup>/ L
+            - <u>Interpretation</u> - based on duration of SIRS:
+                - **Never met the criteria of SIRS** - 0% mortality
+                - **Transient SIRS** - 8% mortality
+                - **Persistent SIRS** - 25% mortality
+            - <u>Advantages</u> - inexpensive and easily applicable in bedside
+            - <u>Disadvantages</u> - lacks known predictors such as organ failure, BUN etc.
+        - **Atlanta criteria for acute pancreatitis** (2012) - three-tiered grading schema of pancreatitis severity based on 1) presence of organ dysfunction, 2) presence of local complications, and 3) presence of systemic complications 
+        ![](../img/atlanta_criteria_for_pancreatitis_severity.png)
+        - **CT severity index** (Balthazar score) - developed based on degree of necrosis, inflammation and presence of fluid collection: 
+        ![](../img/ct_severity_index.png)
+    - **Guidelines** - American Pancreatic Association (APA) and American College of Gastroenterology (ACG) suggests **serial assessment** to identify SAP: 
+    ![](../img/apa_acg_guidelines_for_defining_severity_of_pancreatitis.png)
+- **Classification** - two main classification of pancreatitis that has prognostic and management implications:
+    - **Severity-based classification** - into mild, moderately severe and severe acute pancreatitis
+    - **Morphology-based classification** (Revised Atlanta Classification):
+        - <u>Interstial edematous acute pancreatitis</u> - acute inflammation of the pancreatic parenchyma +/- peripancreatic tissue w/ no identifiable foci of tissue necrosis, typically correlated w/ mild disease in the absence of SIRS or organ failure
+        - <u>Necrotising acute pancreatitis</u> - inflammation w/ associated foci of pancreatic or peripancreatic necrosis, typically correlated w/ moderately severe and severe disease
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Assessment of severity of AP</u> - consider transfer to intensive care unit if presenting w/ organ failure
+        - <u>General Mx of acute AP</u> - involves intense monitoring, analgesia, fluid replacement, adequate nutrition +/- IV ABx
+        - <u>Assessment of etiology of AP</u> - identify underlying etiology of AP and Mx appropriately
+        - <u>Assessment and Mx of local and systemic complications</u> - consider imaging to identify local complications and Mx accordingly
+    - **General measures:**
+        - **Monitoring** - close monitoring in first 24-48h to identify SAP:
+            - <u>Vital signs</u> - BP/P, RR, SpO2, urine output
+            - <u>Invasive monitoring</u> - e.g. CVP monitoring, Foley Catheter for severe pancreatitis
+            - <u>Routine laboratory Ix</u>:
+                - **CBC** - determine trends of WBC, and HCT
+                - **RFT** - identify rising BUN, SCr, and electrolyte disturbances
+                - **Ca** - hyperCa may be a cause of persistent AP, while hypoCa (due to sequestration) is a poor prognostic markers
+                - **RBG** - typically in those w/ hyperglycaemia which results in risk of secondary pancreatic infections
+        - **Analgesia** - NSAIDs or opioids
+        - **Fluid replacement** - goal-directed fluid replacement in initial 24-48h from admission
+        - **Nutrition** - current evidence suggests no role of keeping patients NPO to 'rest the pancreas' if they can tolerate feeding:
+            - **Keep NPO if necessary** - e.g. persistent N/V, ileus, excruciating pain
+            - **Oral diet** - initiate oral diet early (within 48h) esp. if patient subjectively hungry:
+                - <u>Evidence</u> - systematic review shows that early feeding did not increase adverse effects or exacerbated symptoms
+                - <u>Caution</u> - consider delaying feeding if:
+                    - Persistent N/V
+                    - Paralytic ileus
+                - <u>Approach</u> - oral diet as tolerated by patient (patients may not tolerate due to exacerbation of pain)
+            - **Nutritional support** (enteral or parenteral) - may be required in patients w/ moderate to severe AP when cannot resume oral diet after 5-7d:
+                - <u>Enteric feeding</u> (nasojejunal feeding favoured) - preferred method as fewer infecious and metabolic complications and reduces need for pancreatic surgery
+                - <u>Total perenteral nutrition</u> (TPN) - only used if enteral feeding not tolerated, and a/w more infectious and metabolic (hyperG, electrolytes) complications, mucosal atrophy, SIBO and bacterial translocation
+        - **IV ABx** - not indicated w/o a foci of infection irrespective of morphological type (although 20% of patients often develop extrapancreatic infection):
+            - <u>Indications</u> - usually routine in HK as often concurrent cholangitis:
+                - 1\. Pre-existing infection - e.g. cholangitis due to cholestasis
+                - 2\. Infected peripancreatic fluid collections - radiological features such as air within collection or rim enhancement in arterial phase
+            - <u>Regimens</u> - Imipenem or meropenem to target enteric organisms
+    - **Mx of underlying etiology:**
+        - **Biliary pancreatitis** - ERCP and interval cholecystectomy:
+            - **ERCP** - timing of ERCP dependent on the presence of persistent cholangitis:
+                - <u>Patients w/ cholangitis</u> - urgent ERCP (within 24-48h of admission)
+                - <u>Patients w/ cholangitis</u> - non-urgent ERCP, if demonstrated perirsistent biliary obstruction on MRCP/ EUS
+            - **Cholecystectomy** - typically performed after ERCP and recovery to <u>reduce risk of recurrent pancreatitis</u> (25-30% risk of complications of gallstones within 6-18 weeks of index AP)
+        - **Other etiologies:**
+            - <u>Alcoholic pancreatitis</u> - brief alcohol intervention in patient
+            - <u>Hypertriglyceridemia</u> - evaluation and Tx of secondary cause, with plasmapheresis or insulin in patient and lipid-lowering therapy subsequently
+            - <u>Hypercalcaemia</u> - fluid resuscitation and Mx of hypercalcaemia
+
+## Complications of acute pancreatitis
+
+- **Sterile and infected peripancreatic fluid collections** (30-57%):
+    - **Classification of fluid collections** - acute (\< 4w) vs chronic (\> 4w), simple vs complex:
+        - <u>Acute peripancreatic fluid collection</u> - homogenous collection of oedematous tissue in the peripancreatic fascial plane that appear within 4 weeks
+        - <u>Pancreatic pseudocysts</u> (not lined w/ epithelium) - simple, well-circumscribed cystic structure with homogenous fluid density that is formed after 4 weeks
+        - <u>Acute necrotic collection</u> - heterogenous collection of fluid that may extend into the pancreas that appears within 4 weeks
+        - <u>Walled-off necrosis</u> - heterogenous, loculated, well-encapsulated collection of fluid that appears after 4 weeks
+
+    
+    ![](../img/ct_features_of_acute_pancreatitis_atlanta_classification.png)
+    - **Clinical significance of fluid collections** - clinically insignificant unless infected causing a septic picture
+    - **Clinical features of infected peripancreatic fluid collections** - difficult to Dx especially in acute setting as it may be a feature of SIRS:
+        - Abdominal pain
+        - Features of inflammation - e.g. fever, leukocytosis
+    - **Radiological features suggestive of infected peripancreatic fluid collections:**
+        - Air inside peripancreatic fluid
+        - Rim enhancement
+    - **Mx of infected peripancreatic fluid collection:**
+        - Percutaneous or endoscopic drainage
+        - IV ABx - give ABx known to penetrate pancreatic necrosis (e.g. carbepenems, quinolones, metronidazole, and high-dose cephalosporins)
+- **Pancreatic Necrosis and Infected Necrosis** (20%):
+    - **Definition** - a subset of acute pancreatitis characterised by the presence of non-viable pancreatic parenchyma or peripancreatic fat
+    - **Complication of pancreatic necrosis** - infection of ANC:
+        - <u>Risk of infection directly related to amount of necrosis</u>:
+            - \< 30% gland necrotic - 22% risk of infection
+            - 30-50% gland necrotic - 37% risk of infection
+            - \> 70% gland necrotic - 46% risk of infection
+        - <u>Microbiological etiology</u> - bacterial translocation of enteric flora (mainly G- rods e.g. E. coli, Klebsiella, Pseudomonnas) and Enterococcus species
+    - **Clinical presentation of infected ANC:**
+        - <u>Persistent unwellness</u> - prolonged fever, elevated WBC, or progressive clinical deterioration despite optimal medical Tx
+        - <u>Late deterioration</u> - e.g. sepsis, SIRS, multi-organ failure \> 7d after onset of AP
+    - **Radiological features of pancreatic necrosis** - identified on contrast CT:
+        - Focal (or diffuse) areas of hypodensities (low attenuation \< 40-50 HU) during arterial phase relative to normal density of 100-150 HU
+        - Air in pancreatic necrosis suggestive of infected ANC (although rare finding)
+    - **Approach to suspected infected ANC** - CT-guided FNA if radiological features equivocal + microbiological assessment
+    - **Mx:**
+        - **IV ABx:**
+            - <u>Principles</u> - agent that penetrates pancreatic necrosis:
+            - <u>Regimen</u> - Carbepenems (1st line), quinolones, metronidazole, high-dose 3rd generation cephalosporin, Tazocin
+        - **Surgical debridment:**
+            - <u>Open necrosectomy</u> - historical interest and associated w/ high mortality and morbidity in a **time-dependent manner** (early surgery have higher mortality rates)
+            - <u>Endoscopic or Percutaneous drainage +/- minimally invasive debridement</u> - lower rates of end-point complication and mortality compared w/ open necrosectomy
+- **Pancreatic Pseudocysts** (5-15%):
+    - **Definition** - late (\> 4-8 weeks) complication of interstitial oedematous pancreatitis characterised by fluid collection surrounded by fibrotic capsule, <u>not lined by epithelium</u>
+    - **Clinical features:**
+        - <u>Asymptomatic</u> - most (70%) will have spontaneous regression of the pseudocyst, a/w smaller lesions (\< 4cm), located in the tail, and no-evidence of pancreatic duct obstruction
+        - <u>Abdominal pain</u> - persistent pain after the initial episode of AP
+        - <u>Sx of GOO</u> - early satiety, N/V, weight loss
+    - **Dx** - Dx on imaging +/- FNAC if Dx unclear
+    - **Mx** - only if symptomatic:
+        - <u>Endoscopic drainage</u> - if pseudocyst in close contact (\< 1cm) of stomach and duodenum
+        - <u>Surgical drainage</u> - reserved for patients that cannot be treated by endoscopic techniques
+- **Pancreatic ascites and pancreaticopleural fistulas:**
+    - **Pathophysiology of pancreatic ascites and pancreaticopleural fistula:**
+        - <u>Disruption of the pancreatic duct</u> - causes accumulation of fluid in the peritoneal cavity
+        - <u>Fistulation of posterior pancreatic duct into pleural space</u> - formation of pancreaticopleural fistula results in often massive left-sided pleural effusion
+    - **Clinical features** - a/w alcoholic pancreatitis and presence of pseudocysts:
+        - <u>Pancreatic ascites</u> - significant abdominal distension w/ evidence of free intra-abdominal fluid
+        - <u>Pancreaticopleural fistula</u> - SOB, cough, pleuritic chest pains + signs and CXR of pleural effusion
+    - **Ix and diagnostic confirmation** - Dx paracentesis or thoracocentesis demonstrates raised amylase and lipase level
+    - **Mx of pancreatic ascites:**
+        - <u>Therapeutic paracentesis</u> - Tx the Sx of ascites
+        - <u>Endoscopic stenting of disrupted pancreatic duct</u> - avoid fluid translocation into the peritoneal cavity
+        - <u>Surgery</u> - distal resection and closure of proximal stump indicated if failed endoscopic Tx
+    - **Mx of pancreaticopleural fistula:**
+        - <u>Therapeutic thoracocentesis</u> - Tx Sx of pleural effusion
+        - <u>Octreotide</u> - up to 60% respond
+        - <u>Endoscopic stenting or surgery</u> - similar rationale as ascites
+- **Intra-abdominal bleeding:**
+    - **Pathophysiology** - elastase released causes damage to nearby arteries (e.g. splenic artery, SMA, GDA, cystic artery) and pseudoaneurysm formation
+    - **Clinical features** - 1) Sudden onset of abdominal pain, 2) haemorrhagic shock
+    - **Mx:**
+        - <u>Arterial embolisation</u> - control the bleeding
+        - <u>Arterial ligation</u> - control the bleeding if refractory to embolisation
+- **Splenic vein thrombosis** - presents w/ portal HTN
+- **Pancreatocutaneous fistulas** = pftem a complication seen in patients w/ pseudocyst (4.5%) or infected necrosis Tx w/ surgical debridement (40%)

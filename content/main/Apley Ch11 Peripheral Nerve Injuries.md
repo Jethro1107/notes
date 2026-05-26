@@ -1,0 +1,128 @@
+---
+id: aff7de19-be26-4549-8a6d-4c21c97f3f50
+title: Apley Ch11 Peripheral Nerve Injuries
+---
+
+# Chapter 11: Peripheral Nerve Injuries
+
+- **Functional anatomy of peripheral nerves** - bundle of axons conducting sensory and motor information, but by principle sensory and motor axons run in separate axon:
+    - **Target organ of a single axon:**
+        - <u>Single motor axon</u> - determines a motor unit, which supplies tens to \> 1000 muscle fibres, which determines the **degree of dexterity**
+        - <u>Single sensory neuron</u> - determines the sensory area, which determines **degree of two-point discrimination**
+    - **Organisation of nerves by layers:**
+        - <u>Most fibres are surrounded by myelin</u> - all motor axons and large sensory axons serving touch, pain and proprioception are coated w/ myelin derived from Schwann cells for effective saltatory conduction
+        - <u>The endoneurium is situated just outside the myelin</u> - a connective tissue stocking that covers the nerve surface
+        - <u>The perineurium bundles axons into fascicles</u> - dense membranous tissue to bundle related axons into a nerve bundle
+        - <u>Epineurium groups nerve bundles together</u> - the groups of fascicles in a nerve trunk are enclosed in the epineurium
+    - **Blood supply of nerves:**
+        - Longitudinally running blood vessels in the epineurium
+        - Penetrating branches through various layers to give endoneurial capillaries
+
+## Pathology of Nerve Injuries
+
+- **Principles of nerve injuries** - these may be interelated:
+    - Ischaemia
+    - Compression
+    - Traction
+    - Laceration
+    - Burning
+- **Transient ischaemia** - caused by acute nerve compression resulting in transient endoneurial anoxia:
+    - <u>Clinical features</u> - follows a characteristic natural Hx:
+        - Numbness and tingling within 15 minutes of compression, with persistence of paresthesia lasting up to 5 min
+        - Loss of pain sensibility after 30 minutes
+        - Muscle weakness after 45 minutes, with persistence of muscle weakness lasting up to 10 minutes after relieving the compression
+- **Seddon classification of nerve injury:**
+    - **Neuropraxia** (Suderland 1st-degree injury) - reversible block to nerve conduction a/w sensory and motor deficits followed by spontaneous recovery
+    - **Axonotmesis** (Sunderland 2nd-to-4th injury) - a/w interruption of axons in a segment of nerve, with variable involvement of the endoneurium, perineurium and epinerium:
+        - <u>Pathophysiology</u>:
+            - Axonal and myelin sheath disruption despict endoneural tube intact
+            - Wallerian degeneration occurs where axon disintigrates distal to lesion and is resorbed by phagocytes, accompanied by proliferation of Schwann cells and fibroblasts lining the endoneurial tubes (denervated motor end-plates and sensory receptors gradually atrophy)
+            - Axonal regeneration occurs as proximal stump sprouts unmyelinated tendrils which find their way to target organs along the cell-clogged endoneurial tubes with subsequent remyelination
+            - Recovery is variable
+    - **Neurotmesis** (Sunderland 5th-degree injury):
+        - <u>Pathophysiology</u>:
+            - Rapid Wallerian degeneration distal to the lesion
+            - Axonal regeneration occurs, but as endoneural tubes are destroyed over variable segments, they are unable find their way to the target organs
+            - Sprouting fibres might mingle w/ proliferating Shwann cells and fibroblasts, resulting in 'neuroma' at site of injury
+- **Principles of axonal regeneration:**
+    - Starts within hours of nerve damage
+    - Progresses slowly at a speed of 1-2mm per day
+    - If axons do not reach the target organs within 2y, they will never recover
+
+## Clinical Features
+
+- **Approach:**
+    - Determine neurological S/S
+    - Determine level of lesion
+    - Determine type of lesion
+    - Determine signs of recovery
+- **Approach to P/E:**
+    - Inspection for abnormal posturing
+    - Testing muscle power for weakness in specific muscle groups
+    - Testing for sensibility - by 1) gross examination, 2) Tinel's sign, 3) Two-point discrimination, 4) stereognosis
+
+## Principles of Treatment
+
+## Nerve injuries Affecting the Upper Limb
+
+### Brachial plexus injuries
+
+### Obstetrical brachial plexus injury
+
+### Long thoracic nerve palsy
+
+### Spinal accessory nerve palsy
+
+### Axillary nerve palsy
+
+- **Site of axillary nerve palsy:**
+    - Near axilla - e.g. shoulder dislocation or fracture of humoral neck
+- **Clinical features:**
+    - Weakness in shoulder abduction due to deltoid weakness
+    - Numbness over shoulder (C5 dermatome)
+
+### Radial nerve palsy
+
+- **Definition** - neuropathy of the radial nerve
+- **Site of radial nerve injury:**
+    - <u>Low lesions</u> - at elbow due to fracture or dislocation
+    - <u>High lesion</u> - at humerus due to humeral fracturs, prolonged tourniquet pressure or nerve compression (Saturday night palsy)
+    - <u>Very high lesion</u> - at axilla, likely due to increased pressure (crutch palsy)
+- **Clinical features of radial nerve palsy:**
+    - <u>Low lesions</u> - loss of MCP extension
+    - <u>High lesions</u> - wrist drop and lost of MCP extensions, and small patch of sensory loss at back of hand, base of thumb
+    - <u>Very high lesions</u> - concomitent weakness and wasting of triceps
+
+### Ulnar nerve palsy
+
+- **Definition** - injuries to the ulnar nerve
+- **Sites of injury:**
+    - <u>Low lesions</u> - due to compression (e.g. from deep ganglion) or laceration of wrist
+    - <u>High lesions</u> - often complicating elbow fractures immediately (by direct injury), or much later (due to malunion resulting in marked cubital valgus resulting in tension on the nerve); but also related to nerve entrapment
+- **Clinical features of median nerve palsy:**
+    - <u>Low lesions</u> - hypothenar wasting, ulnar claw due to loss of control of intrinsic muscles, weak finger abduction and thumb adduction, characteristic sensory loss in ulnar 1.5 digits
+    - <u>High lesions</u> - ulnar claw less visible as concurrent weakness of FDP
+- **Froment's sign** - testing thumb adduction:
+    - <u>Procedure</u> - patient asked to grip a paper firmly by thumbs and index fingers, which requires thumb adduction and IP joint extension
+    - <u>Interpretation</u>:
+        - Patient may acutely flex thumb IP joint to grip the paper (FPL innervated by median nerve instead)
+        - If patient told to keep thumb IP joint extended, the paper will be released
+
+### Median nerve palsy
+
+- **Definition** - injury at the median nerve, which occurs near the wrist, or high up in the forearm
+- **Sites of injuries:**
+    - <u>Low median nerve palsy</u> (injury at carpal tunnel) - e.g. caused by cuts in front of the wrist or by carpal dislocation
+    - <u>High median nerve palsy</u> (elbow dislocation or forearm fractures)
+- **Differentiation between low lesions and high lesions:**
+    - <u>Low lesions</u> - thenar wasting, weak thumb abduction and opposition, sensory loss of radial 3.5 digits
+    - <u>High lesions</u> - features of low lesions, weak thumb flexion (FPL), weak flexion of index and middle finger (FDP)
+- **Clinical signs of low and high median nerve palsy:**
+    - Wasting of thenar eminence
+    - Characteristic sensory loss
+    - Weakness of thumb abduction
+- **Clinical signs specific for high median nerve palsy** - patient asked to hold fist w/ both hands:
+    - <u>Pointing index sign</u> - failure of flexion of thumb due to FPL denervation, and failure of flexion of index (+/- middle) finger due to FDP denervation
+- **Mx** - disability severe mainly due to 1) sensory loss, and 2) loss of thumb opposition:
+    - <u>Nerve repair</u> - if nerve is divided, and neve grafts can be placed if tension occurs
+    - <u>Tendon transfer</u> - mainly to restore thumb opposition

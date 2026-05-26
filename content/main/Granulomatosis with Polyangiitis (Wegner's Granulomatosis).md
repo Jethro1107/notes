@@ -1,0 +1,91 @@
+---
+id: 2DCC160B-B909-4B71-82D5-4AF74C81966B
+roam_parent: bef1f2a3-0910-4a73-a3cd-ad8551deeb82
+title: Granulomatosis with Polyangiitis (Wegner's Granulomatosis)
+---
+
+# Granulomatosis with Polyangiitis
+
+- **Definition** - clinicopathological entity characterised by granulomatous vasculitis of the upper and lower respiratory tract togeether w/ glomerulonephritis, w/ variable degrees of systemic vasculiti
+- **Epidemiology:**
+    - <u>Prevalence</u> - 3/100000
+    - <u>Demographic</u>:
+        - Age - mean age of onset is 40-60y (only 15% \< 19y)
+        - Sex - M:F = 1:1
+        - Race - whites \> blacks
+- **Pathology:**
+    - <u>Histopathological hallmark</u> - necrotising vasculitis of small arteries and veins w/ granuloma formation intravascularlly or extra-vascularlly
+    - <u>Classical anatomical involvement</u>:
+        - Lung - bilateral nodular or cavitary infiltrates w/ necrotising granulomatous vasculitis
+        - Upper airway - inflammation, necrosis, and granulomas, w/ or w/o vasculitis
+        - Kidneys - focal segmental glomerulonephritis progressing into pauci-immune RPGN; granuloma are rare
+    - <u>Non-specific involvement</u> - virtually all organs can be affected by vasculitis, granuloma or both
+- **Immunopathogenesis of GpA** - Th1 type T-cell cytokine pattern w/ increased INF-gamma and TNF-alpha production w/ cANCA serving potential pathological role
+- **Clinical manifestation of GpA** - virtually all organs affected, but defined by presence of ENT, lung, and kidney disease: 
+![](../img/clinical_manifestation_of_gpa.png)
+    - **Upper airway (ENT) involvement** (95%):
+        - <u>Chronic sinusitis</u> - a/w chronic purulent/ bloody nasal discharge, paranasal sinus pain
+        - <u>Nasal disease</u> - chronic nasal blockade, nasal mucosal ulceration, or nasal septal perforation (saddle nose deformity)
+        - <u>Seroous otitis media</u> - as a result of eustatchian tube blockade, manifesting as hearing loss and rarely ear pain
+        - <u>Subglottic stenosis</u> - severe upper airway obstruction
+    - **Pulmonary involvement** (85-90%) - however may be asymptomatic despite active disease in up to 30% cases:
+        - <u>Pulmonary infiltration/ nodules</u> - manifest as cough, dyspnoea, chest discomfort, or haemoptysis
+        - <u>Endobronchial disease</u> - may lead to obstruction and atelectasis
+    - **Renal involvement** (77%) - generally dominates the clinical picture and accounts either directly or indirectly for most of the mortality of the disease:
+        - <u>Chronic GN</u> - smouldering, mild GN manifests as haematuria, proteinuria, RBC casts, with minimal renal impairment
+        - <u>RPGN</u> - typically rapidly progressive once clinically detectable renal function impairments occur
+    - **Non-specific organ involvement:**
+        - <u>Occular involvement</u> (52%) - ranges from mild conjunctivitis, dacrocystitis, scleritis, episcleritis, sclerouveitis, ciliary vessel vasculitis, or retro-orbital mass resulting in proptosis
+        - <u>Cutaneous involvement</u> (46%) - palpable purpuras, ulcers, subcutaneous nodules, where Bx shows vasculitis +/- granuloma
+        - <u>Neurological involvement</u> (23%) - **mononeuritis complex**, cranial neuritis, or rarely cerebral vasculitis +/- granuloma formation
+        - <u>Cardiac involvement</u> (8%) - pericarditis, coronary vasculitis, and rarely cardiomyopathy
+        - <u>Haematological manifestations</u> - increased incidence of VTE reported such that heightened awareness warranted
+    - **Non-specic Sx** - usually during active disease:
+        - Fever (r/o secondary infections typically in upper airway)
+        - Weakness and myalgia
+        - Arthalgias
+        - Anorexia and weight loss
+- **Ix:**
+    - **Routine bloods** - CBC, RFT, inflammatory markers, Ig:
+        - <u>CBC</u> - anaemia, leukocytosis and thrombocytosis (+ve APR)
+        - <u>RFT</u> - increased SCr
+        - <u>CRP/ESR</u> - non-specificaly elevated
+        - <u>Ig</u> - mild hypergammaglobulinaemia
+    - **ANCA** - staining shows cANCA (diffuse deposits) w/ anti-proteinase-3 positivity:
+        - <u>Test properties</u> - highly Sn in active disease (90%), moderate in absence of active disease (60-70%)
+        - <u>Remarks</u>:
+            - Isolated sinus/ lung disease where renal disease is absent decreases Sn of 30-60%, and Bx typically necessary to r/o infection or malignancy
+            - Up to 20% may lack ANCA
+            - Small proportion may show Anti-MPO positivity rather than antiproteinase-3 positivity
+            - Does not correlate w/ severity of disease
+    - **Bx** - definitive Dx (see below)
+- **Dx** - demonstration of necrotizing granulomatous vasculitis on tissue Bx in patient w/ compatible clinical features:
+    - <u>Pulmonary tissue</u> offers highest diagnostic yield invariably showing granulomatous inflammation
+    - Upper airway tissue are generally not diagnostic
+    - Renal Bx never show granuloma but a presumptive diagnosis if pauci-immune RPGN seen and antiproteinase-3 ANCA is +ve for immediate initiation of Tx
+- **DDx of GpA** - in the absence of full-picture:
+    - <u>Presentation w/ vasculitic phenomenone</u> - other vasculiitis
+    - <u>Acute GN +/- pulmonary infiltrates</u> - anti-GBM disease, other GN
+    - <u>Airway disease</u> - tumors of upper airway and lung, relapsing polychondritis
+    - <u>Midline destructive upper airway disease</u>:
+        - NK/T cell lymphoma - a/w EBV
+        - Cocaine-induced tissue injury - may be a/w +ve ANCA against human neutrophil elastase, +/- adulteration w/ levamisole may induce a vasculitis
+    - <u>Others</u>:
+        - Histoplasmosis
+        - Endocarditis
+        - Mucocutaneous leishmaniasis
+        - Rhinoscleroma
+        - Non-infectious granulomatous disease
+        - Lymphomatoid granulomatosis (pre-malignant lesion)
+- **Mx:**
+    - **Principles of Mx:**
+        - **Disease-specific pharmacological therapy** - two phases:
+            - <u>Induction</u> - active disease put into remission
+            - <u>Maintenance</u> - prevent relapse, dependent on C/I, comorbidities, disease severity, and relapse Hx
+        - **Mx of complications** - e.g. RRT, surgery for sadle deformity etc.
+    - **Approach to induction and maintenance in severe disease:**
+        - <u>Remission induction</u> - corticosteroids, cyclophosphamide, rituximab, avacopan
+        - <u>Maintenance therapy</u> - rituximab and other immunosuppressive agents
+    - **Approach to induction and maintenance in non-severe disease:**
+        - Low-dose steroids or rituximab may be used
+        - Cyclophosphamide is rarely indicated due to severe risks, no data on use of avacopan

@@ -1,0 +1,49 @@
+---
+id: dea6d887-0e00-4848-a6ff-9a9b6be03a48
+title: BLS Part 3 BLS for Adults
+---
+
+# Part 3: BLS for Adults
+
+- **Escalation of CPR** - particular CPR skill dependent on rescuer profficiency:
+    - <u>Hands-Only CPR</u> - chest compressions without rescue breaths until health arrives (single rescuer with no training)
+    - <u>30:2 CPR</u> - chest compression and rescue breaths using a ratio of 30 compressions and 2 breathes
+    - <u>Multirescuer coordinated CPR</u> - division of labour between 3 emergency respondants, one performs chest compressions, the other gives breaths with bag-mask device, and the final one uses the AED
+- **Adult BLS Algorithm:** 
+![](img/bls_building_blocks_of_cpr.png)
+- **Adult BLS algorithm:** 
+![](img/adult_bls_algo.png)
+- **Description of BLS alogorithm:**
+    - **Step 1** - verify scene safety for you and victim
+    - **Step 2** - check responsiveness, activate emergency response system via mobile device and get AED device if not responsive
+    - **Step 3** - assess pulse and breathing simutaneously (\< 10s):
+        - **Assessing breathing and pulse:**
+            - <u>Pulse</u> - check carotid pulse
+            - <u>Breathing</u> - look for chest movements
+        - **Escalation of BLS algorithm:**
+            - <u>Breathing and pulse present</u> - monitor until emergency responders arrive
+            - <u>Abnormal breathing but pulse present</u> - rescue breathes (every 6s), and monitor pulse (every 2m) +/- naloxene (if suspected opioid OD)
+            - <u>No breathing and pulse</u> - initiate CPR and early defibrillation (as soon as available)
+    - **Step 4** - initiate high-quality CPR:
+        - **Chest compressions:**
+            - <u>Position</u> - faceup on firm, flat surface, rescuer at victims side
+            - <u>Compression-to-ventilation ratio</u> - 30:2
+            - <u>Compression rate</u> - 100-120 bpm
+            - <u>Compression depth</u> - optimally 5-6cm
+            - <u>Chest recoil</u> - allowed to recoil completely after each compression to ensure sufficient ventricular filling
+            - <u>Interruptions</u> - minimised interruptions aiming at \> 60% chest compression fraction (CCF) to improve likelihood of ROSC, shock success and survival to hospital discharge
+            - <u>Technique</u>:
+                - Heel of hand on lower half of sternum, and heel of other hand ontop of next hand
+                - Straighten arm while compression
+                - Shoulder over hands
+
+        
+        ![](img/correct_technique_for_chest_compressions.png)
+        - **Breaths:**
+            - **Opening airway** - use jaw-thrust maneuver if suspect head or neck injury to reduce neck movement:
+                - <u>Head tilt-chin lift</u> - 1) push with palm on forehead to tilt the head, 2) lift the jaw (bony part) to bring the chin forward, 3) ensure mouth not closed
+                - <u>Jaw thrust</u> - hands on each side of victims head and lift the victim's lower jaw
+            - **Barrier devices** - standard to avoid risk of infection from mouth-to-mouth:
+                - <u>Pocket mask</u> - mouth-to-mouth mask with 1 way valve to provide O2 from exhaled air
+                - <u>Bag-Mask device</u> - provide positive pressure ventilation to provide 21% O2 from room air
+    - **Step 5** - AED to check rhythm to see if rhythm shockable (check every 2m)

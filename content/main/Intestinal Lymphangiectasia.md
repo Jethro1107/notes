@@ -1,0 +1,28 @@
+---
+id: 8E0B3056-A79F-4B06-A778-DE16F6156D4C
+roam_parent: 038344b7-fbba-417a-9bc1-3eddd3f4b81d
+title: Intestinal Lymphangiectasia
+---
+
+# Intestinal lymphangiectasia
+
+- **Definition** - conditions that result in impaired drainage of the intestinal lymphatics, leading to discharge of protein and fat-rich lymph into the GI lumen
+- **Causes of intestinal lymphangiectasia:**
+    - <u>Primary disorder</u> - congenital malunion of lymphatics
+    - <u>Secondary disorder</u> - lymphatic obstruction due to:
+        - Lymphoma
+        - Filariasis
+        - Constrictive pericarditis
+- **Clinical features of intestinal lymphangiectasia:**
+    - Steatorrhoea
+    - Peripheral lymphoedema
+    - Pleural effusions
+    - Chylous ascites
+- **Ix:**
+    - **Routine bloods** - CBC, LFT, Ig levels:
+        - <u>Alb</u> - hypoalbuminaemia
+        - <u>Lymphocyte</u> - lymphocytopenia
+        - <u>Ig</u> - hypogammaglobulinaemia
+    - **CT enterography** - circumferential thickening of the jejunum w/ hypo-attenuating submucosa
+    - **Enteroscopy + jejunal Bx** - dilated lacteals
+- **Mx** - low fat diet w/ medium-chain TG supplements

@@ -1,0 +1,37 @@
+---
+id: 11B5648B-72D4-4C99-B7F8-D862D6DAFE7E
+roam_parent: c7026d4b-2cb0-4fb0-a526-a6d017e49259
+title: Non-Thyroidal Illness
+---
+
+# Non-Thyroidal Illness
+
+- **Definition** - abnormalities of circulating TSH and free T3/4 levels in any acute, severe illness, in the absence of underlying thyroid disorder
+- **Pathophysiology of NTI** - cytokine-mediated (e.g. IL-6)
+- **Biochemical pattern of NTI:**
+    - <u>Low T3 syndrome</u> - decrease in total and free T3 (correlating to severity of illness), w/ normal T4 and TSH
+    - <u>Low T4 syndrome</u> - dramatic fall in total T4 and T3 levels, w/ subnormal TSH (rarely u.d \[\< 0.01 mIU/L)
+    - <u>Fluctuations in TSH</u> - subnormal TSH (10%) ranging from 0.01 to 0.1 mIU/L esp. on dopamine or glucocorticoid therapy to \> 20 mIU/L (5%) during recovery of SES
+- **Low T3 syndrome:**
+    - <u>Pathophysiology</u> - teleologically thought to be a response to the illness state to limit catabolism (induced in individuals by fasting):
+        - Impaired peripheral 5'-deiodination resulting in decreased T3, and increased rT3
+        - Increased rT3 also as it is metabolised by 5'-deiodination
+        - Metabolism of T4 into hormonally inactive T3 sulfate
+    - <u>Correlation</u> - magnitude of fall of T3 correlates to severity of illness
+- **Low T4 syndrome:**
+    - <u>Pathophysiology</u>:
+        - Increased expression of DIO3 due to decreased muscle and liver perfusion
+        - Increased conversion of T4 into rT3 resulting in decreased total T4 and T3
+    - <u>Correlation</u> - occurs only in very sick patients (extremely poor prognosis)
+- **Disorders a/w distinctive thyroid function patterns:**
+    - <u>Liver failure</u> - inital release of TBG result in initial rise in total (but not free) T3/4, but become subnormal in advanced liver failure
+    - <u>Acute psychiatric illness</u> - 5-30% show acute rise in total and free T4 (but T3 unaffected), w/ variable TSH levels
+    - <u>Renal disease</u> - low T3 concentrations but w/ normal rT3 due to unknown factor that increases rT3 uptake in the liver
+    - <u>HIV infection</u> - increased T3/4 in early disease, w/ decreased T3 w/ progression to AIDS (TSH is usually normal)
+- **Approach to NTI:**
+    - <u>Historical information</u> - e.g. previous Hx of thyroid disease, TFT
+    - <u>Current presentation</u> - evaluate the severity of current acute illness and document medications known to affect thyroid function
+    - <u>Additional Ix</u> - rT3, free T3/4, TSH
+    - <u>Time as a diagnostic indicator</u> - recovery of abnormal thyroid function as acute illness subsides
+- **Dx** - presumptive or retrospective Dx
+- **Mx** - no role of thyroid hormone replacement unless historical or clinical evidence suggesting hypothyroidism

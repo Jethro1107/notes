@@ -1,0 +1,54 @@
+---
+id: 709a271a-1b3f-40a4-9d8c-ecba7cfb1da5
+title: Lymphadenopathy
+---
+
+# Lymphadenopathy
+
+- Lymphadenopathy may localised or generalised, and can underlie many causes, but is an important indicator of haematological diseases and malignancies if there is compatible history and PE findings.
+- **Localised lymphadenopathy** - typically indicates a local process, should elicit a search for a source of inflammation in appropriate drainage areas:
+    - Cervical LN - scalp, ear, mouth, face or teeth
+    - Axillary LN - arms, breast
+    - Inguinal LN - LL, perineum or external genitalia
+- **Generalised lymphadenopathy** - typically indicates a systemic process, particularly note for haematological malignancies
+- **DDx of lymphadenopathy:**
+    - Neoplastic:\*
+        - Primary - Haematological malignancies (lymphoma, leukaemia)
+        - Secondary (typically localised) - lung, breast, thyroid, stomach
+    - Infective:
+        - Viral - EBV, CMV, HIV
+        - Bacterial - Streptococcal, brucellosis, TB
+        - Parasitic - toxoplasmosis
+        - Fungal - histoplasmosis, coccidiodomycosis
+    - CTD:
+        - SLE
+        - RA
+    - Infiltration - sarcoidosis, amyloidosis
+    - Drugs - Phenytoin
+- Clinical approach to lymphadenopathy:
+    - Hx:
+        - HPI of lymphadenopathy - Speed of onset, rate of enlargement, pain, tenderness
+        - Associated Sx if localised lymphadenopathy
+        - Constitutional ('B') symptoms - weight loss, night sweats, itch, fever (non-specific)
+        - Relevant exposures - e.g. cats, undercooked meat, tick bites, travel, sexual exposure, IV drug use
+        - Medications - phenytoin
+    - P/E:
+        - Examination of LN itself:
+            - Site - localised or generalised
+            - Size (cm) - \> 1cm suggestive of malignancy
+            - Consistency - hard (usually metastatic solid malignancy) , soft (usually reactive), rubbery (pathognomonic for lymphoma)
+            - Mobility - mobile vs fixed vs matted (fixation indicates local invasion and inflammation by cancers)
+        - Examination of drainage basins (especially if localised lymphadenopathy) for skin lesions:
+            - Supraclavicular - ipsilateral mediastinum, lungs +/- entire abdomen (L side)
+            - Axillary - UL, breast, thorax
+            - Inguinal - LL, genitalia, buttock, anterior abdominal wall below umbilicus
+        - Complete P/E - signs of systemic disease (e.g. abdominal organomegaly, tonsils, gums)
+- **Initial Ix to lymphadenopathy:**
+    - **CBC + PBS:**
+        - Neutrophilia for infections
+        - Evidence of haematological malignancies
+    - Inflammatory markers - e.g. ESR
+    - CXR - for mediastinal lymphadenopathy
+    - If malignancy is suspected:
+        - +/- LN biopsy for histology - indicated if malignancy suspected
+        - +/- Morphology, Immunohistochemistry, Cytogenetics

@@ -1,0 +1,129 @@
+---
+type: main
+tags:
+---
+# Shoulder Pain
+
+- **Sources of shoulder pain:**
+	- Within the shoulder structures (glenohumoral joints, biceps tendon, rotator cuff tendons)
+	- Acromioclavicular joint
+	- Cervical spine
+	- Disease viscera (heart, lungs, subdiaphragmatic structures such as gallbladder)
+- **Key facts and checkpoints:**
+	- ![[Pasted image 20260523152657.png]]
+
+- **Causes of non-traumatic shoulder pain:**
+	- ![[Pasted image 20260523155248.png]]
+- **Murtagh's safe diagnostic model of non-traumatic shoulder pain:**
+	- ![[Pasted image 20260523153908.png]]
+- **Probability diagnosis:**
+	- _Rotator cuff disorders_ (shoulder impingement syndrome) - supraspinatus tendinopathy most common as subjected to considerable friction of wear and tear
+	- _Adhesive capsulitis_ (frozen shoulder) - acute inflammatory condition affecting the capsule of glenohumoral joint causing it to become fibrotic and contracted
+	- _Cervical spine disorders_ - especially if pain radicular in nature
+- **Serious disorders not to be missed:**
+	- **Infections:**
+		- _Septic arthritis_ - raised suspicion for acute monoarthritis w/ marked systemic complaints
+		- _Osteomyelitis_ - raised suspicion for complaints of bony tenderness and systemic complaints
+	- **Malignancies:**
+		- _Primary malignancies_ - e.g. Pancoust tumour, myeloma, lymphoma involving axillary LN
+		- _Secondary malignancies_ - bony metastasis of various malignancies
+	- **Referred pain:**
+		- _Myocardial ischaemia_ - referred pain via vagus nerve (C3-5), where most commonly referred over the left shoulder, but possibility of referral over the right shoulder (1 in 20 cases)
+		- _Diaphragmatic irritation and intra-abdominal pathologies_:
+			- Right shoulder tip - hepatobiliary disorders
+			- Left shoulder tip - perforated peptic ulcer, splenic rupture
+	- **Other inflammatory joint conditions:**
+		- _Rheumatoid arthritis_ - rarely affects the large joint but possible
+		- _Gout_ - worth considering in patients w/ Hx of gout
+- **Pitfalls:**
+	- _Polymyalgia rheumatica_ - often missed; clinical suspicion in elderly presenting w/ bilateral shoulder pain and stiffness worse in the morning
+- **Seven masquerades checklist:**
+	- _Depression_ - strong association w/ adhesive capsulitis 
+	- _Diabetes_ - higher incidence of adhesive capsulitis than general population
+	- _Drugs_ - consider use of corticosteroids (avascular necrosis) or anabolic steroids (osteolysis of AC joint)
+	- _Spinal dysfunction_ - degree of shoulder pain caused by cervical spondylosis not always appreciated
+- **Salient points of Hx:**
+	- **HPI** - onset, progression, provocation, quality, severity:
+		- _Onset_ - acute vs chronic
+		- _Progression_ - static, relapsing, progressive
+		- _Provocation_ - corresponding to physical activity, posture, time of day etc.
+		- _Quality_ - typically dull
+		- _Severity_ - whether wakes patients up at night
+	- **Functional impact:**
+		- _Combing hair and overhead work_ - suggests 1) painful external rotation, or 2) capsular restriction
+		- _Handling bra/ touching shoulder_ - suggests 1) painful internal rotation, 2) capsular restriction, or 3) disorder of AC joint
+	- **Precipitating events:**
+		- _Trauma_ - note possibility of trauma, however minor prior to onset of pain
+		- _Overhead work_ - consider overuse syndromes such as shoulder inpingement syndrome
+	- **Associated Sx:**
+		- _Chest pain and cardiac Sx_ - consider possibility of myocardial ischaemia
+		- _Abdominal pain_ - consider possibility of intra-abdominal pathologies
+		- _Neck pain_ - consider cervical spondylosis
+		- _Numbness and parasthesia_ - consider cervical spondylosis if a/w focal neurological deficits
+		- _Fever_ - consider infections such as septic arthritis or osteoarthritis
+		- _Weight loss_ - malignancies
+- **P/E:**
+	- **Shoulder examination** - look, feel, move (active ROM, passive ROM, resisted movement), special tests
+	- **Other key examinations:**
+		- Cardiovascular examination
+		- Neurological examination
+		- Palpation of cervical and axillary LN
+- **Inspection of the shoulder** - comparison between both sides:
+	- _Posture_ - note neck posture for possibility of cervical dysfunction
+	- _Scapular position_ - imbalance between scapular positions
+	- _Local deformities_ - bony deformities, swellings, or muscle wasting
+- **Palpation of the shoulder:**
+	- _Acromion and acromioclavicular joints_ - for focal tenderness
+	- _Subacromial bursa_ - possibility to localise tenderness w/ inflammation
+	- _Supraspinatus, infraspinatous and scapular spine_ - for muscle spasms and trigger points
+- **Movement of the shoulder:**
+	- **Principles of movement of the shoulder** - involves:
+		- Scapulothoracic joint
+		- Glenohumoral joint
+	- **Approach to observation of shoulder movement** - tested bilaterally and simultaneously for:
+		- Active and passive ROM
+		- Scapulothoracic rotation
+		- Impingement (fleeting interruption of free movement by catching of the tendon upon a bone)
+		- Painful arc
+	- **Active ROM:**
+		- _Flexion and extension_ - 180/50 degrees
+		- _Abduction and adduction_ - 170/50 degrees
+		- _Internal and external rotation_ (elbows flexed) - 90/90 degrees
+	- **Resisted movements** - isometric contractions of a muscle for testing tendonopathies:
+		- ![[Pasted image 20260523162356.png]]
+		- **Shoulder abduction** (supraspinatus tendonopathy):
+			- _Supraspinatus test_ - arms abducted <= 15 degrees, patient pushes elbow away from the side while examiner's hand resists movement
+			- _Jobe test_ (emptying can) - arms in "emptying the can position" (90 degree abduction, 30 degree flexion, full internal rotation), w/ resisted elevation
+		- **Internal rotation** (subscapularis tendonopathy):
+			- _Subscapularis test_ - arms by side and elbows 90 degree flexed, examiner places hand on palms, w/ resisted internal rotation
+			- _Lift off test_ - patients places hand behind back (internal rotation and elbow flexion), and attempts to lift hand off the back w/ resistance
+			- _Bear hug test_ - patient places palms on opposite shoulder w/ elbow in front, and examiner attempts to pull hand away by applying external rotation force
+			- _Belly press test_ - patient places flat palm against belly and presses inwards
+		- **External rotation** (infraspinatus tendonopathy):
+			- _Infraspinatus test_ - arms by side and elbows 90 degree flexed, examiner places hand on back of hand, w/ resisted external rotation
+- **Special tests:**
+	- **Supraspinatus/ infraspinatus rapid differentiation test** (thumbs up/ down abduction test):
+		- _Testing the supraspinatus_ - abduction w/ thumbs up
+		- _Testing the infraspinatus_ - abduction w/ thumbs down
+	- **Long head of biceps test** - opposed forward elevation of arm w/ elbow at right angles (reproduction of pain in bicepital groove)
+	- **Neer's test:**
+		- _Procedure_:
+			- One hand stabilises the scapulae
+			- The other hand assists patient in passive internal rotation and maximal shoulder flexion (anterior elevation)
+			- ![[Pasted image 20260523175309.png]]
+		- _Interpretation_ - pain reproduced
+	- **Hawkin's test:**
+		- _Procedure_:
+			- Shoulder flexion at 90 degrees rested on examiners arm
+			- Apply passive internal rotation at the shoulder
+			- ![[Pasted image 20260523175239.png]]
+		- _Interpretation_ - pain reproduced
+	- **Other tests:**
+		- Brachial plexus tension test
+- **Ix:**
+	- **Bloods** - ESR, RF, anti-CCP +/- uric acid
+	- **ECG** - if IHD suspected
+	- **Imaging:**
+		- _X-ray_ - of shoulder, or C-spine
+		- _USG_ - POCUS for assessing rotator cuff lesions, especially tears and capsulitis
+		- _MRI_ - typically only required for unstable joints

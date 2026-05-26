@@ -1,0 +1,157 @@
+---
+id: 9ff485cd-0c0e-4df6-81e1-a3f17eae7817
+title: Irritable Bowel Syndrome
+---
+
+# Irritable Bowel Syndrome
+
+- **Definition** - recurrent abdominal discomfort in association with abnormal defaecation in the absence of structural abnormality of the gut
+- **Epidemiology** - estimated 10-15% affected at some time in their life (most do not seek medical attention):
+    - <u>Geographical variation</u> - rather common in SE Asia
+    - <u>Demographic</u> - female proponderance (F:M = 2-3:1)
+    - <u>Associations</u>:
+        - Medical conditions - functional dyspepsia, dysmenorrhoea, fibromyalgia, chronic fatigue syndrome
+        - Physical or sexual abuse - present in 5-10% of patients
+    - <u>Significance</u> - the most common cause of GI referrals, and accounts for frequent absenteeism from work and impaired QoL
+- **Pathophysiology of IBS** - incompletely understood, but attributed to bio-psychosocial factors and luminal factors:
+    - **Behavioural and psychosocial factors** - physiological stress or psychiatric disorders:
+        - <u>Acute psychological stress and overt psychological disease</u> - alter visceral perception and gastrointestinal mobility
+        - <u>IBS requiring hospitalisation may be a manifestation of psychiatric disease</u> - 50% of patients referred to hospital for IBS have anxiety, depression, somatisation, neurosis or panic attacks
+    - **Physiologic factors** - altered serotoninergic drive to the GI tract, or low-grade inflammatory and immune-mediated disease:
+        - <u>IBS as serotoninergic (5-HT) disorder</u> - 5-HT stimulates gut motility
+            - **Relative excess of 5-HT** - manifests as IBS-D, which can be treated accordingly by 5-HT3 antagonists
+            - **Relative deficiency of 5-HT** - manifests as as IBS-C, which can be treated accordly by 5-HT3 agonists
+        - <u>Low-grade gut inflammation and immune activation</u> - low grade inflammation is not detectable on routine blood and stool tests (esp. in women w/ IBS-D, triggered by prior episode of inflammatory GE with Salmonella or Campylobacter species)
+    - **Luminal factors** - gut dysbiosis and dietary factors:
+        - <u>Gut dysbiosis</u> - quantitative and qualitative changes in gut microbiota, e.g. small intestine bacterial overgrowth (SIBO), which explains responsiveness to pro-biotics, or rifaximin
+        - <u>Intolerance to FODMAPs</u> - intolerable to poorly absorbable fermentable oligo-, di- and monosaccharides and polyols, where its fermentation in colon leads to abdominal pain, bloating, wind, and altered bowel habits
+        - <u>Gluten sensitivity</u> - increased gluten sensitivity despite negative coeliac serology and normal duodenal biopsies
+        - <u>Intolerance to chemicals</u> - e.g. benzoates, salicylates
+- **Clinical subtypes of IBS** - based on stool consistency at times of Sx:
+    - <u>IBS with diarrhoea</u> \[IBS-D\] - loose, watery stools accounting for \>= 25% of BM, and hard, lumpy stools accounting for \< 25% of BM
+    - <u>IBS with constipation</u> \[IBS-C\] - hard, lumpy stools accounting for \>= 25% of BM, and loose, watery stools accounting for \< 25% of BM
+    - <u>Mixed IBS</u> \[IBS-M\] - loose, watery stools, and hard, lumpy stools both accounting for \>= 25% of BM
+    - <u>Unsubtyped IBS</u> \[IBS-U\] - unable to meet criteria of IBS-C, -D, or -M
+
+  
+  ![](../img/IBS_subtypes.png)
+- **Clinical features of IBS** - recurrent abdominal discomfort related to defaecation with variable bowel habits:
+    - **Abdominal pain** - recurrent lower abdominal pain that is usually colicky or cramping in nature:
+        - <u>Site</u> - lower abdomen
+        - <u>Onset</u> - chronic disorder, with persistent symptoms
+        - <u>Quality</u> - colicky or cramping
+        - <u>Exacerbating factors</u> - stress
+        - <u>Relieving factors</u> - defaecation
+        - <u>Timing</u> - never nocturnal, but experienced throughout the day
+    - **Abdominal bloating** - worsens throughout the day, but not related to excessiv intestinal gas
+    - **Bowel habits** - variable and most patients alternate between episodes of diarrhoea or constipation:
+        - <u>Diarrhoea</u> - increased frequency of low-volume loose stools, and rarelty have noctural symptoms
+        - <u>Constipation</u> - passage of infrequent, pellety stool, in association with abdominal pain or proctalgia
+    - **No rectal bleeding** - consider other DDx if rectal bleeding is present
+    - **No weight loss or features of malabsorption** - patients are constitutionally well
+- **Signs of IBS** - unremarkable, exception of variable tenderness to palpation
+- **Ix** - in absence of alarm features, simple tests are performed (all are normal):
+    - **Routine bloods** - CBC
+    - **Faecal examination** - faecal calprotectin
+    - **Endoscopy** - colonoscopy undertaken in older patients to r/o CA colon
+    - **Additional Ix for IBS-D** - r/o lactose intolerance, bile acid malabsorption, thyrotoxicosis
+- **Dx** - clinical diagnosis made using the Rome IV criteria combined with th absence of alarm features:
+    - **Roam IV criteria** - recurrent abdominal pain on average at least 1 day per week for last 3 mo, with Sx persistent for \>6 mo, in association with \>= 2 of the following:
+        - <u>Relations to defaecation</u> - relieved by defaecation
+        - <u>Associated with change in stool frequency</u> - increased or decreased stool frequency
+        - <u>Associated with change in stool consistency</u> - diarrhoea or constipation
+    - **Absence of alarm features** - based on Hx and Ix:
+        - <u>Hx</u> - e.g. nocturnal symptoms, LGIB or anaemia, weight loss, onset in \> 50y male, FHx of CA colon or IBD
+        - <u>Ix</u> - +ve FOBT, Abnormal CBC, Abnormal ESR, Abnormal biochemistry
+    - **Features supportive of Dx of IBS:**
+        - <u>Chronic Sx</u> - \> 6 mo
+        - <u>Abnormal illness perception or behaviour</u> - frequent consultations for non-GI problems, previously medically unexplained Sx
+        - <u>Associations w/ stress</u> - stress worsens Sx
+
+    
+    ![](../img/supportive_diagnostic_features_and_alarm_features_of_IBS.png)
+- **Indications for referral** - presence of red-flag Sx suggesting organic pathology (even in established IBD):
+    - PR bleeding
+    - Unexplained iron deficiency anaemia
+    - Unexplained weight loss
+    - Nocturnal diarrhoea
+    - Rapidly progressive Sx
+    - New Sx and age \> 45y
+    - FHx of CRC, IBD, or celiac sprue
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Initial therapy</u> - patient education, lifestyle, behaviour and dietary modifications are indicated for all patients irrespective of subtype
+        - <u>Medical Tx</u> - depending on most worrying symptomatology and IBS subtype
+
+    
+    ![](../img/mx_of_ibs.png)
+    - **Initial therapy** - initial modifications and establish a therapeutic alliance:
+        - **Patient education and reassurance** - reassure patients that colonic Sx are **not caused by organic disease**, but by <sub>contributions</sub> of bio-psychosocial and luminal
+        - **Lifestyle modifications** - physical activity and sleep hygiene:
+            - <u>Physical activity</u> - RCT demonstrates increasing physical activity **improves global IBS Sx** and **prevents worsening of Sx** (Johanneson et al 2011)
+            - <u>Sleep hygiene</u> - sleep disturbances often a co-morbidity in patients with IBS and correlated well w/ abdominal discomfort
+        - **Behavioural modifications** - brain-gut behavioural therapies as <u>adjunctive therapy</u> for refractory Sx, but early referral is appropriate if suspecting an underlying mood disorder or patients expressing interest in non-pharamcological therapy
+        - **Dietary modification** - initial dietary evaluation starts w/ 2 week diet and stool Hx for clinician and dietitian review to identify specific foods and triggers:
+            - **Traditional IBS diet advice** - considered 1st-line line prior to low FODMAP diet introduction:
+                - <u>General considerations</u>:
+                    - Meal planning - regular mealtimes, avoid missing meals, and prioritise smaller and more frequent meals
+                    - Food to avoid:
+                        - Personal IBS triggers
+                        - High fat food (including fried food)
+                        - Gas producing food (e.g. beans, onions, cabbage)
+                        - Lactose-containg food
+                        - Insoluble fiber
+                    - Increase soluble fibre intake - e.g. oat, barley, legumes, **psyllium**
+
+        
+        ![](../img/traditional_ibs_dietary_advice.png)
+            - **Low-FODMAP diet** - diet low in fermentable oligo-, di- and mono-saccharides and polyols which are poorly absorbed in SB and exert osmotic effect and bowel distension:
+                - <u>Foods containing FODMAP</u> - extremely restricted diet: 
+                ![](../img/foods_containing_fodmap.png)
+                - <u>Implementation</u> - possible to cosider a less stringent diet (e.g. restriction of fructans and galacto-oligosaccharides as these are most typical triggers)
+                    - Correlate chart to patient diet
+                    - Trial of elimination of all high-FODMAP foods (extremely restrictive) to assess response (lack of response suggests that Sx not related to FODMAP)
+                    - Re-introduction with close monitoring to determine individual tolerance to specific fermentable carbohydrates
+    - **Medical Tx for IBS-C** - if refractory to dietary modifications (e.g. psyllium): 
+    ![](../img/medical_tx_for_ibs_c.png)
+        - **Polyethylene glycol** (PEG) - first line:
+            - <u>MOA</u> - osmotic laxative
+            - <u>Dosing</u> - 17g power dissolved in 8 ounce water once daily (titrated until symptomatic relief up to 34 g/d)
+            - <u>Benefits</u> - available OTC, extremely tolerable and fewer S/E compared to other osmotic laxatives (e.g. lactulose)
+            - <u>Clinical efficacy</u> - treat constipation, but not abdominal pain:
+            - <u>S/E</u> - GI disturbance:
+                - Bloating
+                - Nausea
+                - Cramping
+                - Diarrhoea
+        - **Linaclotide** - 2nd line:
+            - <u>MOA</u> - guanylate cyclase agonists (increased gut fluid secretion for GI transit)
+            - <u>Dosing</u> - 290 mg od (reduced to 72 or 145 mg od if diarrhoea or offher every-other-day dosing)
+            - <u>Clinical efficacies</u> - improves abdominal pain and constipation
+            - <u>S/E</u> - diarrhoea
+    - **Medical Tx for IBS-D:** 
+    ![](../img/medical_tx_of_ibs.png)
+        - **Loperamide** - 1st line:
+            - <u>MOA</u> - opioid receptor agonist to inhibit gut motility
+            - <u>Dosing</u> - 2-8 mg daily (usually 2mg before every meal)
+            - <u>Clinical efficacy</u> - effective in controlling diarrhoea but not global IBS symptoms
+        - **Bile-acid sequestrants** - 2nd line:
+            - <u>MOA</u> - sequesters unabsorbed bile acid to reduce its effects on secretion and motility
+            - <u>Dosing</u> - 1 sachet per day
+        - **Rifaximin** - indicated for moderate-to-severe IBS-D refractory to other therapies:
+            - <u>MOA</u> - local-acting ABx
+            - <u>Dosing</u> - trial of 2 weeks 600 mg/d
+        - **Alosetron:**
+            - <u>MOA</u> - 5-HT3 antagonists
+            - <u>Dosing</u> - 0.5 mg od (titrate up to maximum of 1mg bid)
+    - **Medical Tx for global IBS Sx:**
+        - **Anti-spasmodic agents** - as needed for episodic Tx:
+            - <u>Selection</u>:
+                - CCB - Mebeverine
+                - Anticholinergic - hyoscyamine (0.125-0.25 mg orally) as needed
+                - Enteric-coated peppermint oil
+        - **Tricyclic antidepressants** - for persistant abdominal Sx (e.g. amutriptyline)
+    - **Brain-gut behavioural therapy:**
+        - Hypnotherapy - promote relaxation and divert unnecessary focus on body discomfort
+        - CBT - reducing maladaptive beliefs and stress-related behaviours
+        - Mindfulness-based stress reduction - enhance person's ability to relax and cope w/ stress

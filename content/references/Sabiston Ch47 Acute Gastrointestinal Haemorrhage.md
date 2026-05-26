@@ -1,0 +1,88 @@
+---
+id: a1ae7979-a417-4291-a42c-dfd822689d6f
+title: Sabiston Ch47 Acute Gastrointestinal Haemorrhage
+---
+
+# Acute Management of Patients with Gastrointestinal Haemorrhage
+
+# Specific Causes of UGIB
+
+- **Classification of UGIB** - classified into variceal or non-variceal bleeding due to divergence in diagnostic and therapeutic maneuvers:
+    - **Non-variceal bleeding** - Bleeding peptic ulcer, Esophagitis, Gastritis, Mallory-Weiss Syndrome, Gastric Antral Vascular Ectasia, Dieulafoy Lesion, Malignancy, Haemobilia, Aortoenteric fistula, Haemosuccus Pancreaticus, Inflammatory Bowel Disease, Procedure-Related Bleeding
+    - **Variceal Bleeding** - esophageal and gastric varices
+- **Peptic Ulcer Disease** - responsible for 2/3 of UGIBs (10-15% of PUD will bleed during their disease course):
+    - **Etiology of PUD** - H. pylori, NSAIDs
+    - **Pathophysiology of bleeding peptic ulcer** - degree of bleeding depends on depth of ulceration:
+        - <u>Erosion through the mucosa</u> - typically results in chronic occlut blood loss and anaemia
+        - <u>Erosion into submucosa into arterial supply</u> - manifests as massive UGIB most severe if erosion into penetrating branches of left gastric artery or gastroduodenal artery
+    - **Aggravating factors for bleeding peptic ulcers:**
+        - <u>Current smoking</u> - increases risk of PUD complications
+        - <u>Bleeding tendancies</u> - anti-platelet, anti-coagulant, SSRIs
+    - **Principles of Mx:**
+        - <u>Pre-endoscopic medical Mx</u> - high dose IV PPI +/- Prokinetics (erythromycin)
+        - <u>Index endoscopy</u> - diagnosis of PUD and assessment of risk of re-bleeding based on Forrest's classification to guide endoscopic haemostasis
+        - <u>Angiographic Mx or surgery if failed endoscopic therapy</u>
+        - <u>Post-endoscopic medical Mx</u> - continue IV PPI infusion, monitor of re-bleeding, and H. pylori eradication if idencated, reassessment of NSAID use
+- **Esophagitis:**
+    - **Etiology of esophagitis** - GERD, infectious esophagitis (esp. in immunocomprimised host)
+    - **Pathophysiology of bleeding esophagitis** - degree of bleeding depends on etiology:
+        - <u>Errosive GERD</u> - results in chronic blood loss with Fe-deficiency anaemia
+        - <u>Infectious esophagitis</u> - can result in massive GI bleed
+    - **Principles of Mx:**
+        - <u>Control bleeding</u> - e.g. electrocoagulation or heater probes
+        - <u>Mx of GERD</u> - long term acid-suprressoin therapy
+        - <u>Mx of infectious esophagitis</u> - appropriate antimicrobials
+- **Gastritis** - rare now due to prophylactic use of acid suppression therapy:
+    - **Etiology of gastritis:**
+        - <u>Stress gastritis</u> - classically seen in critically ill patients due to decreased defensive factors due to hypoperfusion, NSAIDs, or other iatrogenic causes
+        - <u>Cushing ulcer</u> - due to increased acid secretion from raised ICP
+    - **Principles of Mx:**
+        - <u>Acid suppression therapy</u> - typically successful in controlling haemorrhage
+        - <u>Vaso-constrictors</u> (octreotide, terlipressin) - considerations made if acid-suppression is insufficient
+        - <u>Endoscopic therapy, angiographic embolisation, surgery</u> - rarely necessary
+- **Mallory-Weiss Syndrome:**
+    - **Pathophysiology of Mallory-Weiss Syndrome:**
+        - <u>Repeated Retching and Emesis</u> - forceful contration of abdominal wall against an unrelaxed cardia, resulting in **mucosal and submucosal laceration** near the OGJ resulting in **massive UGIB**
+    - **Principles of Mx:**
+        - <u>Acid suppression therapy</u> - successful in 90% of patients
+        - <u>Endoscopic therapy</u> - injection or electrocoagulation may be required for severe ongoing bleeding
+- **Gastric antral vascular ectasia:**
+    - **Pathophysiology of GAVE** - Watermelon stomach:
+        - <u>Collection of dilated venules at antrum</u> - linear red streaks converging at antrum giving appearance of watermelon
+        - <u>Low pressure leak</u> - low pressure of the venous system precludes any severe UGIB
+    - **Clinical features of GAVE** - typically manifests as chronic occult UGIB with anaemia
+    - **Principles of Mx:**
+        - <u>Endoscopic therapy</u> - argon plasma coagulation (successful in 90% patients)
+        - <u>Antrectomy</u> - considered if failed endoscopic therapy
+- **Dieulafoy lesion:**
+    - **Pathophysiology of Dieulafoy lesion:**
+        - <u>Vascular malformations</u> - sizable arterial malformations in the submucosa typically found on the lesser curve of the stomach within 6cm of OGJ, but theoretically can occur elsewhere in the GI tract
+        - <u>Erosion of overlying mucosa</u> - erosion into Dieulafoy lesions without ulcerations may result in massive GI bleeding
+    - **Clinical features of Dieulafoy lesions** - typically manifest as massive GI bleeding
+    - **Principles of Mx:**
+        - <u>Endoscopic therapy</u> - thermal or sclerosant therapy (effective in 80-100% patients)
+        - <u>Angiographic embolisation</u> - considered if failed endoscopic therapy
+        - <u>Surgery</u> - oversewing of dieulafoy lesions or partial gastrectomy
+- **Malignancy:**
+    - **Clinical features of malignancy** - usually manifest as chronic occult bleeding, but may result in significant UGIB (GIST)
+    - **Principles of Mx** - Dx, staging and appropriate Mx
+- **Inflammatory bowel disease** - Duodenal CD (extremely rare):
+    - **Principles of Mx** - responsive to medical therapy
+- **Aorto-enteric fistulas** - most commonly involve the duodenum:
+    - **Pathophysiology of aorto-enteric fistulas:**
+        - <u>Primary aortoenteric fistulas</u> - due to expanding aortic aneurysm compressed against bowel
+        - <u>Secondary aortoenteric fistula</u> - aortic graft-enteric erosion
+    - **Clinical suspicion** - raised in massive UGIB in all patients w/ known AAA and prior aortic reconstruction
+    - **Clinical features** - almost always fatal massive GI bleeding with prior "sentinal bleeds"
+    - **Principles of Mx:**
+        - <u>CTA</u> - first line of study if suspiciou of aortoenteric fistula is high (demonstrates infection around the graft)
+        - <u>Endoscopy</u> - massive bleeding in distal duodenum (D3/4) is nearly diagnostic of aortoenteric fistula
+        - <u>Surgery</u> - EVAR, extra-anatomical bypass, long-term ABx
+- **Haemobilia:**
+    - **Etiology** - trauma, prior hepatobiliary instrumentation, and hepatic neoplasms
+    - **Clinical suspicion of haemobilia** - clinical features suggestive of obstructive jaundice or RUQ pain
+    - **Principles of Mx:**
+        - <u>Angiographic embolisation</u> - gold standard
+        - <u>Endoscopic therapy</u> - usually diagnostic but not for therapeutic
+
+# Acute LGIB

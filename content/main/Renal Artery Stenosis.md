@@ -1,0 +1,59 @@
+---
+id: 27fc108a-2abb-42ba-be46-197a011673e8
+title: Renal Artery Stenosis
+---
+
+# Renal Artery Stenosis
+
+- **Definition** - relatively rare renal macrovascular disorder usually caused by atherosclerosis that clinically presents w/ HTN
+- **Epidemiology:**
+    - 2% of patients w/ HTN
+    - 4% of older patients w/ HTN AND atherosclerotic disease elsewhere
+- **Etiology of renal artery stenosis:**
+    - Atherosclerosis (most common)
+    - Fibromuscular dysplasia (responsible for RAS in younger patients)
+    - Large-vessel vasculitis (e.g. Takayasu's arteritis and polyarteritis nodosa)
+    - Thromboembolism
+    - Aneurysms of the renal artery
+- **Pathophysiology of renal artery stenosis:**
+    - <u>Reduction of renal perfusion perssure</u> - obstructed renal blood flow most commonly atherosclerosis and becomes clinically significant when there is \> 70% narrowing of the artery
+    - <u>Activated renin angiotensin aldosterone system</u> - impaired renal perfusion pressure results in reduced Na deliver to the DCT, resulting in tubuloglomerular feedback by release of renin, resulting in Na and water retention and hypertension
+    - <u>Progression of RAS</u> - 15% of patients will progress into complete arterial occlusion, while 85% patients will not progress:
+        - **Progressive renal failure** - progressive occlusion results in severe, gobal renal ischaemia resulting in **ischaemic nephropathy** (however most patients die from other complications of atherosclerosis)
+        - **Non-progressive disease** - occlusion does not progress and may not develop renal impairment, and the stenosis may not be haemodynamically significant and is unrelated to the essential HTN
+- **Clinical features of renal artery stenosis:**
+    - <u>Hypertension</u> - often present as young HTN, or severe, recent onset, difficult to control HTN that prompts a secondary HTN screening
+    - <u>Flash pulmonary oedema</u> - repeated incidence of acute onset of SOB due to fluid overload may occur especially w/ bilateral disease
+    - <u>Renal function deterioration on drugs</u> - use of NSAIDs, ACEi, or ARBs may result in deterioration or acute pulmonary oedema
+
+  
+  ![](../img/presentation_of_renal_artery_stenosis.png)
+- **Ix:**
+    - **RFT:**
+        - <u>eGFR</u> - mild renal impairment particularly in bilateral disease
+        - <u>K</u> - hypoK due to secondary hyperaldosteronism
+    - **PRA and aldosterone** - elevateed PRA and aldosterone levels in keeping of <u>secondary hyperaldosteronism</u>
+    - **Renal USG** - kidneys asymmetrical in size
+    - **Imaging of renal vasculature** - CT or MR angiography:
+        - Classically ostial stenosis a/w atherosclerosis within the aorta and affects other major branches such as iliac vessels
+        - Post-stenotic dilatation when haemodynamically significant obstruction (\> 70%)
+
+    
+    ![](../img/mr_angiography_ras.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Medical therapy</u> - anti-hypertensive, statins, and low-dose aspirin
+        - <u>Angioplasty</u> - reserved for young patients or patients w/ complications
+    - **Angioplasty** - outcomes best for non-atherosclerotic fibromuscular dysplasia:
+        - <u>Indications</u> - young patients (\< 40y), or patients presenting w/:
+            - Drug resistant HTN
+            - Accelerated phase HTN
+            - Hx of flash pulmonary oedema
+            - Renal deterioration
+        - <u>Complications</u>:
+            - Renal artery occlusion
+            - Acute renal infarction
+            - Atheroemboli to LL from diseased aorta
+
+    
+    ![](../img/evidence_for_ras.png)

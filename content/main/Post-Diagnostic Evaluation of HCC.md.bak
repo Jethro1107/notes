@@ -1,0 +1,44 @@
+---
+id: 3cbcc0c5-d032-488c-ad6d-ad7383c06c5c
+title: Post-Diagnostic Evaluation of HCC
+---
+
+# Post-Diagnostic Evaluation of HCC
+
+- **Principles of post-diagnostic evaluation** - staging and prognostication:
+  - <u>Routine bloods</u> - CBC, LRFT, PT, AFP, Serology for HBV, HCV
+  - <u>Staging Ix</u> - Contrast CT T+A+P or dual-tracer PET-CT
+  - <u>Pre-treatment multidisciplinary evaluation</u>
+- **Staging and prognostic scoring system** - none of which is universiably adpoted (BCLC and HKLC are widely adopted):
+  - **Commonly applied staging and prognostic scoring system:**
+    - 8th edition TNM staging (AJCC) - only system validated for **hepatic resection/ transplant**
+    - Okuda system - purely clinical scoring system applied for patients not suitable for resection
+    - Cancer of the Liver Italian Program (CLIP) score - better stratification than TNM and Okuda in non-surgical therapy, but rarely used now
+    - Barcelona Clinic Liver Cancer (BCLC) system - most widely used system worldwide
+    - Hong Kong Liver Cancer (HKLC) system - newly adopted with resemblance to BCLC, but better stratification for intermediate/ advanced stages allowing more aggressive Tx
+  - **Tumour, node, metastasis (TNM) staging** - traditional prognostic staging based on on tumour size, nodal involvement, and distant metastasis, but does not incorporate underlying liver function into prognostic score: 
+  ![](img/TNM_staging_HCC.png)
+  - **Okuda system** - prognostication score based on 1) tumour size, 2) bilirubin levels, 3) serum albumin levels, 4) amount of ascites, applied to patients not candidates for resection 
+  ![](img/okuda_system_HCC.png)
+  - **Cancer of the Liver Intalian Program (CLIP) score** - prognostication score based on 1) radiographical tumour morphology, 2) AFP levels, and 3) Presence of portal vein thrombosis, best applied to patients receiving TACE 
+  ![](img/CLIP_score_HCC.png)
+  - **Barcelona Clinic Liver Cancer (BCLC) System** - prognostication system and treatment algorithm based on 1) <u>Extent of primary lesion</u> (size and number), 2) <u>performance status</u> (ECOG performance status), 3) <u>liver function</u> (Child-Pugh Score), 4) <u>vascular invasion</u>, 5) <u>extrahepatic spread</u> (N/M stage): 
+  ![](img/BCLC_HCC.png)
+    - <u>Stratification</u>:
+      - **Very early stage** (Stage 0) - solitary nodule (\<= 2cm), ECOG 0, Child'S A
+      - **Early stage** (Stage A) - \<=3 nodule (all \<= 3cm), ECOG 0, Child's A-B
+      - **Intermediate stage** (Stage B) - multinodular disease, ECOG 0, Child's A-B
+      - **Advanced stage** (Stage C) - Vascular invasion or extrahepatic spread, ECOG 1-2, Child's A-B
+      - **Terminal stage** (Stage D) - ECOG 3-4, Child's C
+    - <u>Limitations</u>:
+      - **Too many patients fall into Stage B** - precludes hepatectomy
+  - **Hong Kong Liver Cancer (HKLC) system** - more aggressive Tx alogorithm based on 1) tumour factors, 2) Child's Pugh score, 3) Performance status (ECOG): 
+  ![](img/HKLC_HCC.png)
+    - **Tumour status:**
+      - <u>Early tumour</u> - \<= 5cm solitary tumour or \<= 3 nodules all \<= 3cm (Milan Criteria) <u>without intrahepatic venous invasion</u>
+      - <u>Intermediate tumour</u> - Multinodular, or one nodule \>= 5cm (does not satisfy Milan Criteria) or intrahepatic venous invasion
+      - <u>Locally-advanced tumour</u> - \>= 2 nodules \>= 5cm + \>3 nodules + intravascular venous invasion
+      - <u>EVM</u> - extrahepatic vascular invasion or distant metastasis
+
+    
+    ![](img/ecog_performance_status.png)

@@ -1,0 +1,51 @@
+---
+type: main
+---
+# Lichen Planus
+
+- **Definition** - a chronic inflammatory condition of unknown etiology often presenting as a pruritic rash, where the skin, hair, nails and mucosae can be affected 
+- **Epidemiology:**
+	- Occurs at any age, most commonly 30-60y
+	- No sex preponderance
+- **Associated conditions** - strong links with autoimmune conditions suggesting an autoimmune pathogenesis:
+	- Inflammatory bowel disease
+	- Primary biliary cirrhosis
+	- Autoimmune hepatitis
+	- Viral hepatitis (HBV and HCV)
+	- Alopecia Areata
+	- Myasthenia gravis and thymoma
+- **Characteristic histopathological changes in lichen planus:**
+	- _Hyperkaratosis_ - thickening of the stratum corneum layer
+	- _Epidermotropism_ - heavy, band-like T cell infiltration in the papillary dermis,
+	- _Basl cell degeneration_ - T-cell mediated destruction of the basal keratinocytes at the dermo-epidermal junction
+- **Clinical features of lichen planus:**
+	- _Site_:
+		- Characteristically occurs in distal limbs, most commonly in flexural aspects of wrists and forearms and on the lower back
+		- New lesions may occur at sites of skin trauma (Kobner phenomenon)
+		- Mucosal involvement w/ associated white, lacy lesions in oral cavity or genitals occurs in 30-70% individuals but are asymptomatic
+		- Ocassional scalp involvement may result in scarring alopecia while nail involvement (10%) results in nail dystrophy
+	- _Onset and progression_ - usually remits over months but can become chronic
+	- _Nature of eruptions_:
+		- Violacenous, shiny, flat-topped papules with characteristic fine lacy, white networks o the surface (Wickham's striae)
+		- Subsequent scarring and pigmentation of lesions as well as modifications y scratching
+		- 
+		![[Pasted image 20260426172310.png]]
+	- _Associated Sx_ - intensely pruritic
+- **DDx:**
+	- _Drug-induced lichenoid reaction_ - careful drug Hx
+	- _Psoriatic eruptions_ - psoriasis, pityriasis rosea, pityriasis lichenoid chronica
+	- _Infections_ - secondary syphilis
+- **Drugs causing lichenoid eruptions:**
+	- Proton pump inhibitors
+	- NSAIDS
+	- ACEi
+	- Beta-blockers
+	- Sulphonylurias
+	- Lithium
+	- Antimalarial
+	- Anti-tuberculosis drugs
+- **Dx** - clinical diagnosis (skin Bx performed if in doubt)
+- **Mx:**
+	- **Principles of Mx** - typically a self-limiting disease:
+		- _Potent Corticosteroids_ - topical potent corticosteroids w/ occlusion for symptomatic relief of intense itch (+/- systemic corticosteroids for extensive disease)
+		- _Immunotherapy_ - retinoids or immunosupperssion such as cyclosporin for refractory disease

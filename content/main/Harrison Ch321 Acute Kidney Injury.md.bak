@@ -1,0 +1,300 @@
+---
+id: E42B5132-5C85-40A4-874B-01BE70E581CC
+roam_parent: 3249beda-c553-453f-a976-1d74b2d8b73d
+title: Harrison Ch321 Acute Kidney Injury
+---
+
+# Ch321 Acute Kidney Injury
+
+- **Definition** - impairment of kidney filtration and excretory function over days to weeks, which is generally known or expected to have occured within 7d, resulting in retention of nitrogenous and other waste products normally cleared by the kidney
+- **KDIGO definition of AKI:**
+  - 1\) Increase in SCr of \>= 0.3 mg/dL within 48h, or
+  - 2\) Increase in SCr \>= 1.5x from baseline over 7d, or
+  - 3\) Urine output \< 0.5 mL/kg/h for \> 6h
+- **Concept of AKI:**
+  - Not a single disease entity but a designation for a heterogenous conditions that share common diagnostic features
+  - Characterised by increase in filtration markers, and a marked reduction in urine volume
+  - A clinical diagnosis rather than a structural one
+  - Extent of clinical manifestations may vary vary from completely asymptomatic and transient changes of GFR, to overwhelmingly rapid derangements in kidney to maintain effective circulating volume regulation, excretion of nitrogenous wastes and metabolic toxins, and maintain electrolyte and acid-base composition of plasma
+- **Epidemiology:**
+  - <u>Prevalence</u> - 5-7% of acute hospital admissions (~30% of ICU admissions)
+  - <u>Incidence</u> - increasing incidence (500/100,000 admissions per year)
+  - <u>Burden</u>:
+    - High morbidity esp for those admitted in ICUs
+    - Increased risk of development or worsening of chronic kidney disease
+    - Increased risk of cuture cardiovascular diseases
+- **Common causes of "community-acquired" AKI:**
+  - Volume depletion
+  - Heart failure
+  - Adverse effects of medications
+  - Obstruction of urinary tract
+  - Malignancy
+- **Common causes of "hospital-acquired" AKI** - typically on a background of "reduced renal reserve":
+  - Sepsis
+  - Major surgical procedures
+  - Critical illness of involving heart or liver failure
+  - Nephrotic medication administration
+
+## Etiology and Pathophysiology
+
+- **Etiology of AKI** - traditionally classified into 1) pre-renal azotemia, 2) intrinsic renal parenchymal disease, and 3) post-renal obstruction: ![](../img/classification_of_major_causes_of_aki.png) 
+![](../img/clinical_features_and_diagnostic_findings_of_various_causes_of_aki.png)
+- **Pre-renal azotemia** (most-common form of AKI):
+  - **Definition** - inadequate renal perfusion or intraglomerular hydrostatic pressure to drive glomerular filtration:
+    - <u>Rapidly reversible</u> once parenchymal perfusion and intraglomerular hydrostatic pressure is restored
+    - By definition pre-renal azotemia involves <u>no parenchyma changes</u>, but 1) most causes of pre-renal azotemia may involve mechanisms causing AKI (e.g. NSAIDs), and 2) prolonged hypoperfusion may also result in acute tubular necrosis
+  - **Regulation of normal GFR** - based on:
+    - **Renal blood flow** - principally driven by effective circulatory volume, where mild hypovolaemia can fully be compensated by neurohormonal activation resulting in fluid retention and alterations of glomerular haemodynamics
+    - **Glomerular haemodynamics** - well maintained by **renal autoregulatory mechanisms**, by controlling relative resistances of afferant and efferant arterioles determine 1) glomerular plasma flow rate, and 2) intraglomerular hydrostatic pressures:
+      - <u>Afferent arteriole resistance</u> - can be modulated by myogenic reflexes, juxtaglomerular reflexes, and local endocrine reflexes (e.g. PGE2, NO) in response to low renal perfusion pressure
+      - <u>Efferent arteriole resistance</u> - maintenance of filtration by AngII-mediated vasoconstriction
+  - **Factors influencing robustness of autoregulatory response** - presence predisposes to prerenal azotemia:
+    - <u>Older age</u> - more likely susceptible due to vascular damage one way or another (e.g. chronic HTN)
+    - <u>Atherosclerosis and long-standing HTN</u> - hyalinosis and myoitntimal hyperplasia associated w/ structural narrowing and reduced capacity for renal afferent vasodilation
+    - <u>CKD</u> - maximal renal afferant vasodilation already in place for maintaining GFR, such that cannot further respond in the setting of reduced intra-glomerular perfusion
+    - <u>Cirrhosis</u> - due to maximally activated neurohormonal activation in response to splanchnic dilation such that efferent arteriole is maximally constricted, and hepatorenal syndrome can be triggered by SBP or volume depletion
+    - <u>Drug therapy</u> - combination of **NSAIDs** (inhibit afferent arteriole vasodilation) w/ **RAAS blockade** (inhibit efferent arterial vasodilation) is a risk factor of prerenal azotemia
+  - **Causes of prerenal azotemia:**
+    - **Reduced renal blood flow:**
+      - <u>Hypovolaemia</u> - from dehydration, haemorrhage etc.
+      - <u>Decreased effective circulatory volume</u> (despite evidence of volume overload) - congestive heart failure, liver failure
+      - <u>Decreased cardiac output</u> - cardiogenic shock
+    - **Impaired renal autoregulation:**
+      - RAAS blockade
+      - NSAID
+      - Cyclosporine
+- **Intrinsic AKI:**
+  - **Causes of intrinsic AKI** - most common causes include 1) sepsis, 2) ischaemia, or 3) nephrotoxins (endogenous or exogenous): 
+  ![](../img/causes_of_intrinsic_aki.png)
+    - **Vascular diseases:**
+      - <u>Large-vessel diseases</u> - renal artery atheroembolism, renal artery dissection, **polyarteritis nodosa**, abdominal compartment syndrome
+      - <u>Small vessel diseases</u>:
+        - Glomerulonephritis - anti-GBM diseases, immune complex deposition, vasculitis
+        - Thrombotic microangiopathies - DIC, TTP, HUS, malignant HTN
+    - **Tubulo-interstitial diseases:**
+      - <u>Tubular toxicities</u> - ischaemic ATN, toxic ATN
+      - <u>Tubulo-interstital disease</u> - allergic interstitial nephritis, severe infections, inflammatory, infiltration
+      - <u>Tubular occlusion</u> - rhabdomyolysis, tumour lysis syndrome (uric acid), myeloma cast nephropathy
+- **Sepsis-associated AKI:**
+- **Ischaemia-associated AKI:**
+  - **Pathophysiology of ischaemia-associated AKI** - pre-renal azotemia and ischaemic ATN likely reflects a continuum of manifestations of renal hypoperfusion: 
+  ![](../img/pathophysiology_of_ischaemic_atn.png)
+  - **Causes of ischaemia-associated AKI:**
+    - <u>Pre-renal azotemia</u> - theoretically all causes of pre-renal azotemia, but increased risk w/ post-operative AKI, burns, and acute pancreatitis
+    - <u>Disease of the renal microvasculature</u>:
+      - Thrombotic microangiopathies - malignant hypertensive nephrosclerosis, cocain, chemotherapeutics, APLS, TTP/ HUS
+      - Scleroderma renal crisis (SRC)
+      - Atheroembolic disease
+    - <u>Disease of large vessels</u>:
+      - Renal artery dissection
+      - Thromboembolism
+      - Renal artery thrombosis
+      - Renal vein compression or thrombosis (e.g. abdominal comparatment syndrome)
+- **Nephrotoxin-associated AKI** - high susceptibility due to 1) high perfusion, and 2) concentration of filtered substances:
+  - **Risk factors for nephrotoxicity:**
+    - <u>Demographic</u> - older age
+    - <u>Disease factor</u>:
+      - CKD (poor renal reserve)
+      - Pre-renal azotemia
+      - Hypoalbuminaemia (increased free circulating blood concentrations)
+  - **Causes of nephrotoxin-associated AKI:**
+    - <u>Endogenous toxins</u> - rhabdomyolysis, tumour lysis syndrome (urate nephropathy), myeloma light chain nephropathy, intravascular haemolysis
+    - <u>Exogenous toxins</u>:
+      - Contrast agents
+      - Antibiotics
+      - Chemotherapeutics
+      - Toxin ingestions
+
+## Diagnostic Evaluation
+
+- **Initial clinical assessment** - Hx and P/E to rule in the broad categories of AKI:
+- **Salient points of Hx:**
+- **P/E:**
+- **DDx of complete anuria in the setting of AKI:**
+- **Approach to Ix:**
+  - <u>Urinalysis and urine microscopy</u> - invaluable tools in assessing AKI but are generally limited by Sn and Sp
+  - <u>Blood tests</u> - RFT, and other blood tests for evaluation of the patient w/ AKI
+  - <u>Renal failure indices</u> - various methods for differentiation between causes of AKI (BUN/SCr ratio, FeNa, urine osmolality) but must be correlated clinically
+  - <u>Radiological evaluation</u> - USG kidneys or CT for evaluation of post-renal obstruction and chronicity of AKI
+  - <u>Kidney Bx</u> - for evaluation of underlying pathology to guide Mx, usually when pre-renal, post-renal, ischaemic, or nephrotoxic AKI has been r/o
+  - <u>Novel biomarkers</u> - biomarkers specific to kidney injury have been developed but optimal use unclear
+
+## Complications of AKI
+
+- **Uraemia** - buildup of nitrogenous waste products manifested as raised BUN concentration:
+- **Hypervolaemia and hypovolaemia:**
+  - <u>Hypervolaemia</u> - major complication of oliguric and anuric AKI due to impaired salt and water excretion, resulting in weight gain, raised JVP, dependent edema, pulmonary edema, and potentially acute lung injury (due to increased pulmonary vascular permeability and inflammatory infiltrates)
+  - <u>Hypovolaemia</u> - may be a cause or complication of AKI:
+    - Hypovolaemia may directly contribute to development of prerenal azotemia
+    - Hypovolaemia may develop in the **recovery phase** of AKI, as polyuria may occur from osmotic diuresis from retained urea and other waste productions, as well as delayed recovery of tubular re-absorptive functions
+- **Hyponatraemia** - when severe, causes neurological sequelae, cause is usually multifactorial:
+  - Excessive use of hypotonic crystalloids or isotonic dextrose solutions resulting in hypo-osmolality
+  - Dysfunction kidney has limited ability to regulate electrolyte balance
+- **Hyperkalaemia:**
+  - <u>Causes</u> - can complicate all causes of AKI, but particularly common in:
+    - Rhabdomyolysis - release of intracellular K from muscle cells
+    - Haemolysis - release of intracellular K from RBCs
+    - Tumour lysis syndrome - release of intracellular K from rapid tumour cell turnover
+  - <u>Complications</u> - affects membrane potential of excitable tissues:
+    - Muscle weakness
+    - Bradyarrhythmias
+- **Acidosis:**
+  - Typically results in HAGMA
+  - Acidosis should not be directly attributed to AKI, but may be related to other disease processes (e..g sepsis, DKA, respiratory acidosis)
+- **Hyperphosphataemia and hypocalcaemia:**
+  - <u>Causes of hyperphosphataemia</u> - theoretically arises from all forms of AKI due to impaired secretion, especially in:
+    - High catabolic states - e.g. sepsis
+    - High cellular turnover - rhabdomyolysis, haemolysis, tumour lysis syndrome
+  - <u>Pathophysiology</u> - hypocalcaemia arises from:
+    - Hyperphosphataemia-mediated metastatic deposition of CaPO4
+    - Derrangement of the PTH-FGF23 axis
+  - <u>Corrected albumin</u> - corrected for degree of hypoalbuminaemia esp. in patients w/ excessive proteinuria
+  - <u>Complications</u> - mainly related to hypoCa:
+    - Neuromuscular manifestation - perioral parasthesia, muscle cramps, seizures, carpopedal spasms, laryngeal spasms
+    - Cardiac manifestations - QTc prolongation and TdP
+- **Bleeding:**
+  - <u>Pathophysiology</u>:
+    - Uraemia-related platelet dysfunction
+    - Underlying co-existing disease procesesses may increase risk of bleeding tendancy (e.g. sepsis, DIC, liver disease)
+  - <u>Mx</u> - correct underlying-coexisting diseases
+- **Infections** - common precipitant but also dreaded complication of AKI (possible role of impaired host immunity)
+- **Cardiac complications:**
+  - <u>Arrhythmia</u> - due to electrolyte impairments (e.g. hyperK, hypoCa)
+  - <u>Pericardial involvement</u> - uraemic pericarditis and pericardial effusion
+  - <u>LV dysfunction and pulmonary oedema</u> - due to volume overload, and possibly uraemia-mediated cardiac injury
+- **Malnutrition** - as AKI is a severely important catabolic state
+
+## Prevention and Management of AKI
+
+- **General measures for Mx of AKI and those at risk of AKI:**
+  - <u>Optimisation of systemic and renal haemodynamics</u> - through goal-directed fluid resuscitation and judacious use of vasopressors (target MAP \> 65 mmHg)
+  - <u>Volume Mx</u> - salt and fluid restriction, diuretics and ultra-filtration (see below)
+  - <u>Correction of electrolyte imbalance</u> - immediate Mx of hyperK, and symptomatic hypoCa to avoid cardiac sequelae
+  - <u>Medication reconcilliation</u> - discontinuation of nephrotoxic medications and renal dosing for specific medications
+  - <u>Nutritional support</u> - sufficient protein and caloric intake (20-30 kcal/kg/d) to avoid -ve nitrogen balance
+  - <u>Renal replacement therapy</u> - initiation of renal replacement therapy when indicated
+- **Discontinuation of nephrotoxic agents:**
+  - <u>Pre-renal azotemia</u> - ACEi, ARBs, NSAIDs
+  - <u>Intrinsic renal diseases</u>:
+    - Chemotherapeutic agents
+    - Immune-checkpoint inhibitors
+    - ABx (if possible)
+- **Mx of electrolyte and acid-base imbalances:**
+  - **Hyponatraemia**:
+    - Restriction of enteral free water intake
+    - Minimisation of hypotonic IV solution including D5
+  - **Hyperkalaemia**:
+    - <u>Immediate Mx</u>:
+      - Calcium gluconate (or CaCl) for stabilisation of membrane
+      - DI drip to shift K intracellularly (+/- SABA)
+      - Loop diuretics for promoting urinary K loss and Tx of volume overload
+      - Correction of underlying acidosis
+      - K-binding resins (resonium/ lokelma)
+    - <u>Additional considerations</u>:
+      - K restricted diet
+      - Discontinuation of K sparing diuretics, ACEi, ARBs, NSAIDs
+      - RRT
+  - **Metabolic acidosis** - <u>oral or IV NaHCO3</u> may be considered:
+    - <u>Indications</u> - severe metabolic acidosis (pH \< 7.20 and HCO3 \< 15 mmol/L)
+    - <u>Complications</u> - avoided due to:
+      - Volume overload
+      - Hypokalaemia
+      - Functional hypocalcaemia (acidosis ins setting of hyperK in fact protective as provides Ca for membrane stabilisation; hence Ca gluconate prior to NaHCO3 in immediate Mx of hyperkalaemia)
+  - **Hyperphosphataemia:**
+    - Dietary restriction of phosphate
+    - Phosphate binders (e.g. calcium acetate, lanthanum, sevelamer, Aluminium hydroxide w/ meals)
+  - **Hypocalcaemia** - correction of hypoPO4; Ca gluconate or CaCl if symptomatic
+- **Specific Mx issues for pre-renal azotemia:**
+  - **Fluid resuscitation** - not for all causes of pre-renal azotemia:
+    - <u>Indications</u> - only w/ evidence of **intravascular hypovolaemia** (NOT oliguric/anuria)
+    - <u>Selection of fluids</u> - often dependent on comorbid status (crystalloids preferred over colloids):
+      - Normal saline (0.9% NaCl) - exacerbation of hyperchloremic metabolic acidosis, but should be considered in those w/ **metabolic alkalosis** (e.g. vomiting)
+      - Balanced solutions (Plasmalyte, Hartmann's, LR) - some are slightly hypotonic and preferred if patient has hyperNa
+      - Dextrose solution w/ 150 mEq NaHCO3 - for those w/ metabolic acidosis
+      - IV albumin - still the preferred solution in liver failure
+      - Other colloids - starch-based solutions have been phased out due to concerns in risk of AKI
+    - <u>Complications</u>:
+      - Worsening of electrolyte (e.g. hypoNa) and acid-base disturbances
+      - Volume overload
+  - **Optimisation of systemic and renal haemodynamics:**
+    - Anti-arrhythmics for rhythm control
+    - Vasopressors or inotropic support, MCS
+    - Target MAP \>= 65 mmHg
+    - May be guided by invasive haemodynamic monitoring
+- **Specific Mx issues for cirrhosis and hepatorenal syndromes** - cause of pre-renal azotemia due to inadequate effective circulatory volume despite total body volume overload:
+  - <u>Correction of reversible causes</u> - esp. infections (e.g. SBP, UTIs)
+  - <u>Fluid challenge</u> - assessment of fluid responsiveness which may be diagnostic and therapeutic
+  - <u>Bridge therapies</u>:
+    - Norepinephrine
+    - Terlipressin +/- octreotide
+    - Midodrine
+    - IV albumin (25-50 g, maximum of 100 g/d)
+  - <u>Definitive Tx</u> - orthotopic LT
+- **Specific Mx issues for intrinsic AKI:**
+  - <u>Glomerulonephritis or glomerulonephritis mimics</u> - may respond to immunosuppressives, anticomplement therapy +/- plasma exchange
+  - <u>Acute interstitial nephritis</u> - prompt discontinuation of offending agents +/- glucocorticoids if AKI persists despite discontinuation of the suspect agent
+  - <u>Thrombotic microangiopathies</u> - urgent plasma exchange for idiopathic TTP; anticomplement therapy for atypical HUS
+  - <u>Sclerodermal renal crisis</u> - prompt Tx w/ ACEi
+  - <u>Rhabdomyolysis</u> - aggressive IV fluids (up to 10 L/d); correction of K, PO4, and Ca; consideration of **forced alkaline diuresis**; RRT
+  - <u>Tumour lysis syndrome</u> - aggressive IV fluids; rasburicase or allopirinol
+- **Specific Mx of postrenal AKI** - early recognition and prompt relief of obstruction to forstall development of permanent damage by urinary stasis:
+  - <u>Relief of obstruction</u> - e.g. foley catheterisation/ suprapubic catheterisation, PCN tube placement or ureteric stent placement
+  - <u>Fluid Mx</u> - monitor for polyuric phase after relieve of obstruction, w/ IV fluids and electrolytes until tubular function recovers
+- **Mx of volume overload** - prevention of life-threatening acute pulmonary edema in oliguric/ anuric AKI esp patients often have comorbid pulmonary disease:
+  - **Clinical efficacy** - no robust evidence on the efficacy of prompt decongestion:
+    - No evidence that increasing urine output improves the natural Hx of AKI
+    - Use of diuretics shown to avoid dialysis in some cases
+  - **Approach to Mx of volume overload:**
+    - Salt and water restriction
+    - Diuretics (renal-dose dopamine causes overall harm)
+    - Extra-corporeal/ mechanical diuretics (ultrafiltration and CRRT)
+  - **Diuretics** - stepped diuretics shown to be superior to UF in preserving renal function:
+    - <u>Regimen</u> - bolus + infusion loop diuretics +/- thiazide diuretics:
+      - Bolus IV lasix (up to 200 mg in severe pulmonary edema)
+      - IV infusion of lasix (10-40 mg/h)
+    - <u>Clinical effects</u>:
+      - Promotes diuresis and natriuresis and reduces volume overload
+      - Added effects at promoting urinary K loss
+      - Shown to be superior to UF in preservation of renal functiona
+  - **Renal-dose dopamine** - low-dose dopamine may increase salt and water excretion in pre-renal azotemia, but not preferred due to insignificant trial results and pro-arrhythmic nature
+- **Malnutrition** - important for hypercatabolic AKI (e.g. sepsis, ICU admission, severe AKI requiring RRT):
+  - **Rationale for correction of nutritional status** - AKI is a catabolic state, which may <u>worsen azotemia</u>:
+    - <u>Inadequate nutrition</u> - results in starvation ketosis, resulting in excessive protein catabolism
+    - <u>Excessive nutrition</u> - generation of nitrogenous wastes
+  - **Target caloric and protein intake** - preferably oral/ enteral route, TPN as last resort:
+    - <u>Target energy intake</u> (KDIGO) - 20-30 kcal/kg/d
+    - <u>Target protein intake</u>:
+      - Non-catabolic AKI - 0.8-1 g/kg/d (1-1.5 g/kg/d if on dialysis)
+      - Catabolic AKI - up to 1.7 g/kg/d if hypercatabolic and on CRRT)
+  - **Limitations of TPN** - excessive fluid administration complicating efforts in Mx of volume overload
+- **Dialysis:**
+  - **Principles of dialysis in AKI:**
+    - <u>Ultrafiltration</u> - Tx of volume overload by hydrostatic pressure
+    - <u>Diffusive clearance</u> - removal of nitrogenous waste products across a concentration gradient
+    - <u>Convective clearance</u> - removal of nitrogenous waste products w/ along w/ plasma water by means of hydrostatic pressure
+  - **Considerations for initiating dialysis** - RCT deomonstrates earlier vs later initiation of dialysis has <u>not been demonstrated to improve survival</u> and may <u>increase risk of adverse events</u>:
+    - Late initiation a/w increased risk of otherwise avoidable volume, electrolyte, and metabolic complications of AKI
+    - Early initiation may unnecessarily expose individuals to invasive therapy, and increases risk of of 1) infection, 2) bleeding, 3) procedural complications, and 4) hypotension
+  - **Indications of dialysis** - practically should not be delayed until complications occured:
+    - <u>Failed volume Mx</u> - failed Mx of volume overload despite best medical therapy
+    - <u>Refractory electrolyte and acid-base disturbances</u> - severe metabolic acidosis, hyperK
+    - <u>Severe complications of uraemia</u>:
+      - Uraemic encephalopathy and asterixis
+      - Uraemic pericarditis (pericardial rub or effusion)
+      - Uraemic bleeding
+  - **Modalities of urgent dialysis in a patient w/ AKI:**
+    - Peritoneal dialysis
+    - Intravascular procedures (intermittent vs continuous, haemodialysis vs haemofiltration vs hybrid approaches)
+  - **Major complication of haemodialysis:**
+    - Hypotension and ischaemic injury to the recoverying kidney (esp. for intermittent dialysis)
+    - Infections
+    - Bleeding
+  - **Forms of haemodialysis:**
+    - **Intermittent vs continuous HD:**
+      - <u>Intermittent HD</u> - as in ESRD model, performed for 3-4h per session, around 3 sessions per week, a/w high renal blood flow and diasylate flow rate and hence higher rates of hypotension
+      - <u>Continuous renal replacement therapy</u> (CVVH, CVVHD, CVVHDF) - continuous procedure w/ added replacement of physiological crystalloid solution to minimise fluid, electrolyte, and osmolarity shift, **favoured in haemodynamically unstable patients**
+      - <u>Slow low-efficacy dialysis or extended daily dialysis</u> (SLED; EDD) - in between the two extremes, but treatment time usually \< 12h
+    - **Approach to selection of modality:**
+      - No evidence supporting high-dose CRRT over daily intermittent dialysis in terms of survival or renal recovery
+      - Choice ultimately made based on availability of technology and staffing
+      - CRRT often preferred for 1) haemodynamically unstable patients, 2) cerebral edema, or 3) significant volume overload

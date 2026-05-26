@@ -1,0 +1,55 @@
+---
+id: 2b828902-a30c-4fed-9569-27f89272a092
+title: Nasal Obstruction
+---
+
+# Nasal Obstruction
+
+- **Terminology** - nasal obstruction = blockade = congestion
+- **Epidemiology** - most common presenting complaint in rhinology
+- **DDx of nasal obstruction** - based on <u>pathophysiology</u>:
+    - <u>Anatomical deficits/ trauma</u>:
+        - Nasal deformities - crooked, deviated, saddle nose
+        - Septal pathologies - deviated nasal septum (DNS)
+        - Injuries to the nose - septal haematoma, septal perforation, perforation of nasal bone
+        - Other sinonasal pathologies - eg. adenoidal hypertrophy, choanal atresia
+    - <u>Mucosal swelling</u>:
+        - Nasal infections - e.g. URTI, nasal vestibulitis
+        - Rhinitis - allergic rhinitis, vasomotor rhinitis, infective rhinitis, Rhinitis medicamentosa
+        - Rhinosinusitis - Acute rhinusinusitis, Chronic rhinosinusitis (w/ or w/o polyposis)
+    - <u>Mass lesion in nasal cavity</u>:
+        - Foreign body in nasal cavity
+        - Nasal polyps
+        - Neoplasms - benign and malignant sinonasal tumours (see below)
+- **Salient points of Hx:**
+    - **HPI:**
+        - **Onset** - acute vs chronic
+        - **Laterality** - unilateral, bilateral or alternating
+        - **Progression** - progressive or variability in degree of obstruction:
+            - <u>Progressive</u> - progressive unilateral nasal obstruction is suggestive of neoplasia
+            - <u>Variability</u> - Viral infections (Coryza, influenza) resolves spontaneously over days, while allergic or vasoactive rhinitis have more variable presentation
+        - **Timing/ Provacation** - exposure to allergens (pollens, animal danders), ambient temperature, humidity, nasal trauma
+    - **Associated Sx:**
+        - **Other nasal Sx:**
+            - <u>Nasal discharge</u>
+            - <u>Sneezing</u>
+            - <u>Disorders of smell</u> - hypo- or a-nosmia, cacosmia, ozaena
+            - <u>Facial pain</u>
+            - <u>Snoring</u>
+            - <u>Epistaxis</u>
+        - **Otological Sx** - otalgia or aural fullness
+        - **Visual Sx** - diplopia, LOV, eye itchiness
+        - **Constitutional Sx** - Fever, weight loss
+    - **PMH:**
+        - Atopic conditions - e.g. asthma
+        - Dental infections
+        - Prior nasal trauma
+    - **Drug Hx** - e.g. long-term use of decongestant
+    - **Relevant SHx and FHx**
+- **P/E** - full rhinology workup
+- **Red flag features of sinonasal neoplasms** - requires urgent workup:
+    - 1\. Progressive unilateral obstruction
+    - 2\. Epistaxis
+    - 3\. Cacosmia
+    - 4\. Visual Sx - diplopia, proptosis, epiphora
+    - 5\. Neurological Sx

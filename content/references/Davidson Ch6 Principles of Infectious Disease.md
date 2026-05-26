@@ -1,0 +1,271 @@
+---
+id: 7202095b-17c9-4b6b-b9e6-017effa3d79a
+title: Davidson Ch6 Principles of Infectious Disease
+---
+
+# Ch6 Principles of Infectious Disease
+
+## Infectious Agents
+
+## Normal Flora
+
+## Host-Pathogen Interactions
+
+## Investigations of Infection
+
+## Epidemiology of Infection
+
+## Treatments of Infectious Disease
+
+- **Principles of Mx:**
+    - <u>Antimicrobial therapy</u> - initiate empirical antimicrobial therapy (e.g. ABx, antivirals, antifungals) for the most likely causative pathogens of the diagnostic syndrome
+    - <u>Mx of predisposing factors</u> - e.g. gycaemic control, and addressing known immune deficits (HIV, neutropenia)
+    - <u>Removal of source of infection</u> - e.g. removal of indwelling catheter, abscess drainage, or debridement of an area of necrotising fasciitis
+    - <u>Mx of consequence of infections</u> - e.g. pain, inflammation, SIRS, and multi-organ failure
+    - <u>Preventative measures</u> - e.g. contacts of the infected patients for prophylaxis, isolation, vacination etc.
+
+### Principles of antimicrobial therapy
+
+- **Approach to initiating antimicrobial therapy** - "Start Smart - Then Focus":
+    - <u>Empirical ABx therapy</u> - upon diagnosis of a clinical syndrome, the likely pathogen is suspected, hence ABx therapy is initiated based on **predicted susceptibility of the likely organisms based on local resistance patterns**
+    - <u>Targeted therapy</u> - upon microbiological diagnosis of the infecting organism, such ABx therapy is tailored based on the **local resistance pattern of the isolated organism**
+    - <u>Susceptibility-guided therapy</u> - upon antimicrobial susceptibility testing, further modulate antimicrobial therapy based on the **susceptibility of the isolated strain upon testing**
+
+  
+  ![](img/start_smart_then_focus_approach_to_antimicrobial_therapy.png)
+- **Antimicrobial action** - by inhibiting, damaging or destroying a target that is a required component of the organism:
+    - **Bactericidal vs bacteristatic agents:**
+        - <u>Bactericidal agents</u> - agents that directly kill the organism
+        - <u>Bacteristatic agents</u> - agents that inhibit growth of the organism, which requires a competent host response to remove the organism
+    - **Site of action** - different ABx acts by affecting a component of the organism:
+        - **Cell wall synthesis:**
+            - <u>Beta-lactams</u> - inhibition of cell wall peptidoglycan synthesis by competitive **inhibition of transpeptidase** ('penicillin-binding protein')
+            - <u>Glycopeptides</u> (e.g. Vancomycin) - inhibition of cell wall peptidoglycan synthesis by forming complexes w/ D-alanine residues in peptidoglycan precursors
+        - **Protein synthesis:**
+            - <u>Macrolides, linezolid, aminoglycosides, chloramphenicol</u> - binding to subunits of bacterial ribosomes to interfere with bacterial protein synthesis
+            - <u>Tetracyclines</u> - preventing tRNA from binding to ribosomes
+        - **DNA synthesis:**
+            - <u>Quinolones</u> - inhibition of DNA replication by binding to topoisomerases, preventing supercoiling and uncoiling of DNA
+            - <u>Rifamycins</u> - inhibition of DNA synthesis by DNA-dependent RNA polymerase
+            - <u>Sulphonamides and trimethropim</u> - inhibition of folate synthesis by dihydropteroate synthase (sulphonamides) and dihydrofolate reductase (trimethropim) inhibition
+        - **Others:**
+            - <u>Nitromidazoles</u> - causing strand breaks in DNA
+            - <u>Daptomycin</u> - insertion of lipophilic tail into plasma membrane causing depolarization and death
+- **Combination therapy** - will be pursued when:
+    - <u>Increased efficacy</u> - combination therapy (e.g. beta-lactams and aminoglycoside) will yield better results than single agent alone against a microbe
+    - <u>Spectrum coverage</u> - considered when no single agent's spectrum covers all potential pathogens
+    - <u>Reduce antimicrobial resistance</u> - as the organism would need to develop resistance to multiple agents simultaneously to survive (N.B. antituberculous chemotherapy)
+- **Antimicrobial resistance** - developed antimicrobial resistance through 1) natural selection of spontaneous mutations, or 2) horizontal transfer between microbes in plasmids: 
+![](img/principles_of_antimicrobial_resistance_mechanisms.png)
+- **Duration and RoA of antimicrobial therapy** - limited evidence available to support duration of Tx under different clinical syndromes (principally until there is no longer any clinical evidence of infection):
+    - **Factors affecting duration and RoA of antimicrobial therapy:**
+        - Severity of infection
+        - Accessibility of the infected site to antimicrobial agents
+    - **General measures** - IV therapy, subsequently switched to oral after fever settled for 48h: 
+    ![](img/duration_of_antimicrobial_therapy.png)
+- **Antimicrobial prophylaxis:**
+    - <u>Primary prophylaxis</u> - used when there is a risk of infection from a procedure or exposure, often combined w/ passive imunisation
+    - <u>Secondary prophylaxis</u> - used in patients who have been treated successfully for an infection but remain predisposed to it (e.g. antifungal prophylaxis for haemato-oncological patients, Ciprofloxacin for SBP)
+- **Pharmacokinetics and pharmacodynamics** - understanding of drug pK and pD:
+    - **Pharmacokinetics** - determines concentration obtained at the foci of infection, affected by:
+        - <u>GI absorption</u> - e.g. poor GI absorption in septic patients where IV is preferred
+        - <u>Drug metabolism and excretion</u> - note drug metabolism and drug excretion for dose adjustment; note that drugs w/ urinary excretion is preferred in UTI
+        - <u>Site of infection</u> - e.g. CNS penetrance of drug across BBB affects the concentration achieved in the CNS (hence require meningitic doses)
+    - **Pharmacodynamics** - describes relationship between antimicrobial concentration and microbial killing, effects are either concentration-dependent or time dependent:
+        - <u>Concentration-dependence</u> (e.g. aminoglycosides) - effectiveness increases by amount by which Cmax exceeds minimum inhibitory concentration, such that it is better to administer infrequently at high doses
+        - <u>Time-dependence</u> (e.g. beta-lactams, macrolides, clindamycin) - effectiveness depends on duration at which Cmax remains above MIC, which is different for each classes
+
+    
+    ![](img/antimicrobial_pharmacodynamics.png)
+
+### Beta-lactam antibiotics
+
+- **Definition** - class of drug w/ a beta-lactam ring structure and exert bactericidal action by inhibiting enzymes involved in cell wall synthesis (penicillin-binding protein \[PBP\])
+- **MOA** - bactericidal:
+    - Binding to PBP
+    - Interferes with cell wall synthesis
+- **Classification and types of beta-lactams:**
+    - <u>Penicillin</u> - classified into natural penicillin, penicillinase-resistant penicillins, aminopenicillins, and carboxy- and ureido-penicillin
+    - <u>Cephalosporin</u> - classified into 5 generations of cephalosporin with different spectrum
+    - <u>Monobactams</u> (aztreonam) - excellent activity against aerobic G-, but limited activity against G+ organisms or anaerobes
+    - <u>Carbapenems</u> (e.g. imipenem, meropenem) - broad spectrum antibiotics, including ESBL enterobacterales and anaerobes
+- **Penicillin:**
+    - <u>Natural penicillin</u> - effective against most G+ organisms (esp. GBS), except staphylococcus, and anaerobic organisms
+    - <u>Penicillinase-resistant penicillin</u> - effective and mainstay of Tx for most infections w/ S. aureus, except for MRSA
+    - <u>Aminopenicillin</u> - similar efficacy as natural penicillin, with extended coverage for **Enterobacterales** (although no longer first line due to EBSL producters)
+    - <u>Carboxy- and ureidopenicillin</u> - active against G- organisms, especially Pseudomonas spp.
+
+  
+  ![](img/penicillins.png)
+- **Cephalosporins and cephamycins:**
+    - <u>First generation</u> - excellent G+ activity with some activity against G-
+    - <u>Second generation</u> - retained G+ activity with extended G- activity
+    - <u>Third generation</u> - further improved G- coverage including Pseudomonas spp.
+    - <u>Fourth generation</u> - extremely broad spectrum
+    - <u>Next generation</u> - enhanced to include MRSA coverage
+
+  
+  ![](img/cephalosporin.png)
+- **Pharmacokinetics:**
+    - <u>Good drug levels in most viscera</u> - e.g. lungs, kidneys, liver, bones, muscles, synovial, pleural, pericardial and peritoneal
+    - <u>Poor CNS penetration</u> - CSF level is low, except in the presence of inflammation
+    - <u>Good drug level and activity in abscesses</u> - as resistant to low pH and pO2, high protein or neutrophils
+    - <u>Subjected to 'inoculum effect'</u> - effect reduced in presence of high organism load as PBP expression is down-regulated by organism density
+    - <u>Safe in pregnancy</u> - except imipenem and cilastatin
+- **Pharmacodynamics** - time-dependent
+- **S/E:**
+    - **Hypersensitivity reaction** - generalised allergy in 0.7-10% of cases, and anaphylaxis in 0.004-0.015% (cf generalised rash in IM):
+        - Cross reactivity with cephalosporin variable, less likely with newer generations, although <u>third-generation cephalosporin should be avoided in patient w/ type 1 penicillin allergy</u>
+        - Cross reactivity with carbapenems is rare, although still avoided and used only if absolutely indicated
+    - **Gastrointestinal upset** - may result in diarrhoea, but particularly most important complication is <u>C. difficle colitis</u>
+    - **Interstitial nephritis** - classical cause of AIN characterised by triad of fever, drug rash and eosinophilia
+    - **Other S/E:**
+        - Mild reversible hepatitis
+        - Leukopenia and thrombocytopenia
+        - Seizure and encephalopathy
+        - Thrombophlebitis
+- **Important drug interactions:**
+    - Synergistic effect w/ aminoglycosides (for enterococcus endocarditis)
+    - Decreased efficacy of OC pills
+    - Increased serum levels of ABx with concurrent administration of probenecid
+
+### Macrolide and lincosamide antibiotics
+
+- **Definition** - group of <u>bacteristatic agents</u> that bind to bacterial ribosome to inhibit protein synthesis
+- **Selection of macrolides and lincosamide:**
+    - <u>Macrolides</u> - erythromycin (qid), clarithromycin (bid), azithromycin (single-dose IM or short-course PO)
+    - <u>Lincosamide</u> - linocycin, clindamycin
+- **Spectrum of macrolides and lincosamide:**
+    - Infections my G+ organisms in penicillin-allergic patients
+    - Intracellular infections by mycoplasma or chlamydia (e.g. GU infections)
+    - Legionellosis (Clarithromycin, Azithromycin)
+- **Pharmacokinetics:**
+    - **Macrolides:**
+        - Variable bioavailability
+        - Short half-life (except azithromycin)
+        - High protein binding
+        - Excellent intracellular accumulation
+    - **Lincosamide:**
+        - Good bioavailability
+        - Food has no effect on absorption
+        - Limited CSF penetration
+- **Pharmacodynamics** - time-dependent
+- **S/E:**
+    - <u>Gastrointestinal upset</u> - esp. in young adults (erythromycin 30%)
+    - <u>Cholestatic jaundice</u> - w/ erythromycin estolate
+    - <u>QT prolongation</u> - potential for torsades de pointes
+    - <u>C. difficle colitis</u> - wipe out of endogenous enterococcus especially by clindamycin
+
+### Ketolides
+
+### Aminoglycosides
+
+- **Definition** - group of ABx a/w inhibition of protein synthesis
+- **Selection** - Gentomicin
+- **Spectrum of aminoglycosides:**
+    - Effective fo G- infections
+    - Synergistic effect w/ beta-lactams especially where beta-lactam resistance occurs
+- **Pharmacokinetics:**
+    - <u>Oral absorption</u> - negligible oral absorption
+    - <u>Distribution</u>:
+        - Peak plasma level after 30 min of infusion
+        - Hydrophilic molecule w/ excellent penetration to extracellular fluid in body cavities and serosal fluids
+        - Negligible CSF and corneal penetration
+        - Very poor intracellular penetration (except in hair cells and renal cortical cells resulting in nephro- and cardio-toxicity)
+- **Pharmacodynamics** - concentration-dependent, hence infrequent dosing at standard 7mg/kg of bodyweight
+- **Gentamicin dosing** - administered at 7mg/kg body weights with dosing interval dependent on drug clearance based on Hartford nomogram: 
+![](img/hartform_nomogram.png)
+    - In the exception of endocarditis, pregnancy, severe burns, ESRD, and paediatric patients
+- **S/E:**
+    - <u>Nephrotoxicity</u> - accentuated by other nephrotoxic agents
+    - <u>Ototoxicity</u> - permanent and much more likely in older people
+    - <u>Neuromuscular blockade</u> - potentiated by CCBs, MG, or hypomagnesemia
+
+### Quinolones and fluoroquinolones
+
+- **Definition** - class of bacteristatic agents that inhibit DNA synthesis
+- **MOA** - inhibition of enzymes involved in DNA synthesis:
+    - <u>Inhibition of DNA gyrase</u> (quinolones) - inhibition of uncoiling of DNA, thus inhibiting normal transcription and DNA replication
+    - <u>Inhibition of topoisomerase IV</u> (fluoroquinolones) - interfers w/ separation of replicated chromosomal DNA into respective cells
+- **Selection of quinolones and fluoroquinolones:**
+    - <u>Quinolones</u> - nalidixic acid
+    - <u>Fluoroquinolones</u> - ciprofloxacin, levofloxacin, moxifloxacin
+- **Spectrum of quinolones and fluoroquinolones:**
+    - <u>Nalidixic acid</u> - mild coverage of GNR (used as urinary anticeptic)
+    - <u>Ciprofloxacin</u> - extended G- coverage (although susceptable to resistance):
+        - Coverage for most enteric GNR (however rising incidence of resistance \[~21%\])
+        - Coverage for Pseudomonas aeruginosa
+        - Good atypical respiratory pathogen coverage (e.g. mycoplasma, legionella)
+    - <u>Levofloxacin</u> - broad spectrum coverage:
+        - G+ coverage (esp. S. pneumoniae)
+        - Good G- coverage (esp. Haemophilus spp.)
+        - Good atypical respiratory pathogen coverage (e.g. mycoplasma, legionella)
+    - <u>Moxifloxacin</u> - similar coverage as Levofloxacin w/ variable activity to Mycobacterium
+
+  
+  ![](img/coverage_of_quinolones_and_fluoroquinolones.png)
+- **Pharmacokinetics:**
+    - <u>Absorption</u> - well absorbed by oral administration but delayed by food, antacids, ferrous sulphate and multifitamins
+    - <u>Distribution</u>:
+        - Wide volume of distribution; tissue concentration twice that of serum
+        - Good intracellular penetrance (hence good activity against atypical respiratory pathogens +/- mycobacterium)
+- **S/E:**
+    - <u>GI disturbances</u> (1-5%) - diarrhoea, nausea
+    - <u>Cutaneous manifestations</u> - phototoxicity
+    - <u>CNS toxicity</u> (5-12%) - confusion, tremor, dizziness and occasional seizures
+    - <u>Tendon rupture</u> - Achille's tendon rupture especially in older patients
+    - <u>QT prolongation</u> - esp w/ newer fluoroquinolones predisposing to TdP
+
+### Glycopeptides
+
+- **Definition** - class of ABx that act by inhibition of cell wall synthesis
+- **Selection:**
+    - Vancomycin
+    - Teicoplanin
+- **MOA** - binding to D-ala-D-ala terminus of pentapeptide precursor
+- **Spectrum of glycopeptides** - effective against G+ cocci:
+    - MRSA
+    - Ampicillin-resistant enterococci
+    - C diff colitis (oral)
+- **Pharmacokinetics:**
+    - <u>Infusion</u> - slow IV infusion to avoid infusion syndrome
+    - <u>Distribtuion</u>:
+        - Good distribution; CSF penetrance only w/ active inflammation
+        - Vancomycin short half-life; Teicoplanin long-half life
+- **S/E:**
+    - Red man syndrome due to rapid vancomycin infusion (histamine release)
+    - Nephrotoxicity
+
+### Folate antagonists
+
+- **Definition** - class of bacteriostatic ABx that interferes w/ bacterial synthesis of folic acid
+- **MOA** - typically combination to interfere w/ two consecutive steps in the metabolic pathway:
+    - Inhibition of bacterial synthesis of folic acid from para-aminobenzoic acid
+    - Inhibition of DNA synthesis
+
+### Tetracyclines and glycylcyclines
+
+### Nitroimidazoles
+
+- **Definition** - ABx that are highly active against strict anaerobic bacteria
+- **MOA:**
+    - Activation by pyruvate-ferredoxin oxidoreductase (PFOR)
+    - Metabolite binds to DNA to inhibit DNA synthesis
+- **Spectrum of metronidazole:**
+    - <u>Anaerobic GPR</u> - Clostridium spp.
+    - <u>Anaerobic GNR</u> - Bacterioides, fusobacterium, peptostreptococcus
+- **Pharmacokinetics:**
+    - <u>Absorption</u> - near complete absorption after oral administration
+    - <u>Distribution</u> - well distributed; even in brain and CSF
+- **A/E:**
+    - Metallic taste
+    - Antabuse effect (severe vomiting w/ alcohol)
+    - Peripheral neuropathy
+
+### Other antibacterial agents
+
+### Antifungal agents
+
+### Antiviral agents
+
+### Antiparasitic agents

@@ -1,0 +1,135 @@
+---
+id: 9ad73ac1-2890-4b0f-9df5-284c1c1f5bc2
+title: Falls
+---
+# Falls
+
+- **Background:**
+    - Falls are an increasing cause of presentation to healthcare in elderly, 30% of \> 65y and up to 40% \> 80y experiences falls every year
+    - Although not all falls result in clinal presentation, 10-15% of falls results in serious injuries including hip fracture
+    - Falls often have medical, and cognitive impact on elderly and should not be considered a one-off event
+- **Epidemiology:**
+	- _Incidence_ - ~ 33% of > 65y in the community falll each year (further increased if elderly homes or hospitals)
+- **Impact of falls on the elderly:**
+    - <u>Serious injury</u> - falls are the caouse of \> 90% of hip fractures in this age group, compounded by increasing prevalence of osteoporosis
+    - <u>Mental impact</u> - falls results in loss of confidence in self care, as well as fear resulting in avoidance in mobilisation, and are frequently the 'final straw' that makes an older person decide to move to institutionalised care
+    - <u>Medical impact</u> - hip fractures and prolonged imbolisation is a/w greater risks of chest infections, pulmonary embolism and subsequent 1y mortality
+- **Etiology of falls** - detailed Hx, P/E, and Ix to reveal important causes that have a <u>prognostic implication</u>:
+    - **Acute illness** - one of the classical <u>atypical presentation</u> of acute illnesses in frail people:
+        - <u>Mechanism</u> - fraility is a/w reduced neurological reserve for maintaining balance which is overwhelmed when provoked by an acute stressor
+        - <u>Common acute illnesses</u> - e.g. infection, stroke, metabolic disturbances, heart failure
+        - <u>Identification</u> - consider screening investigations for acute illness (see below)
+    - **Syncope** - falls may be a result from LOC from syncope, which must be identified and treated as it is a/w high mortality if untreated:
+        - <u>Mechanisms</u> - cerebral hypoperfusion as a result of orthostatic hypotension (esp. on diuretics, CCBs, levodopa), cardiogenic syncope (esp. arrhythmias and AS in elderly), and neurocardiogenic syncope (less likely)
+        - <u>Indentification</u> - medication review, cardiovascular examination, and screening ix
+    - **Miscellaneous problems with strength, balance, vision or cognition** - will predispose to <u>recurrent falls</u>:
+        - <u>Strength</u> - sarcopenia and muscle weakness, or presumed weakness due to pain as a result of **arthritis** (OA of weight beraing joints)
+        - <u>Balance</u> - gait or balance abnormalities (incl. old stroke, PD), or need of walking stick
+        - <u>Vision</u> - visual impairments
+        - <u>Cognition</u> - e.g. MCI, dementia, depression etc.
+- **Risk factors of falls** - classified into intrinsic and extrinsic factors; some are modifiable:
+	- ![[Pasted image 20260516145527.png]]
+	- ![](img/risk_factors_of_falls.png)
+
+- **Clinical assessment of the patient w/ falls:**
+	- **Screening and primary prevention** - most productive approach is to identify high-risk patients prospectively before there is any serious injury:
+		- _Subjective assessment_ - annual assessment about falls, fear of falling, and whether or not fear of falling limits daily activities
+		- _Objective assessment_ - Timed Up and Go (TUG) test:
+			- Timing a patient as they stand up from a chair, walk 10 feet, turn, and then sit down
+			- > 12s to complete TUG are at high risk of falls
+	- **Initial clinical assessment** - Hx, P/E, Ix:
+		- 1) clarifying the mechanism of the fall through fall patterns 
+		- 2) r/o key neurological or cardiovascular events especially in the setting of sudden drop w/o provocation
+		- 3) Clarifying intrinsic and extrinsic factors of falls
+- **Salient points of Hx:**
+	- **HPI** - clarifying the events, mechanisms, and causes of fall, and associated injuries:
+		- _Patient or informant description_ - often difficult to establish by patients in retrospect, but a report from an attentive observer to the fall can be invaluable
+		- _Events of fall_:
+			- Direction of fall
+			- Landing sites (e.g. arms, hips, heads)
+		- _Mechanisms and causes of fall_:
+			- **Mechanical fall** (extrinsic) - due to tripping or S/F from purely exntrinsic or environmental factors
+			- **Non-mechanical falls** - possibly from intrinsic disturbances, requires clarifying provoking factors such as 1) **standing**, 2) **turning**, and 3) **lighting conditions**:
+				- Gate freezing and festination - raises consideration for parkinsonism
+				- Falling after rising from chair - suggests muscular strength issue
+				- Falling in changing footing situation/ poor lighting - suggests imbalance a/w deficits in somatosensory, visual, or vestibular systems
+				-  Drop attacks and collapsing falls - sudden fall w/o provocation raises suspicion of 1) syncope, 2) seizure, or 3) neurological events
+		- _Injuries_ - clarify all sites of injuries especially 1) head injuries, 2) arms, hips
+	- **Prodromal Sx:**
+		- _Focal neurological symptoms_ - esp. acute onset of focal weakness
+		- _Dizziness and 'funny turns'_ - clarifying between lightheadedness, vertigo, and pre-syncopal symptoms
+		- _Other features suggesting syncope_ - e.g. palpitations, chest pains, shortness of breath
+	- **Events after the fall:**
+		- _Head injuries_ - screen for red flag features (N/V, anterograde amnesia, disorientation as reported by observer) that suggest need for neuroimaging (in essence most require as a result of old age)
+		- _Other injuries_ - esp. hip/ NOF # that predisposes to immobilisation
+		- _Prolonged immobilisation_ - inability to get up from the ground increases risk of **dehydration**, and **rhabdomyolysis**
+	- **Other associated Sx prior to falls:**
+		- _Dizziness and vertigo_ - to be evaluated as a contributory cause of falls especially if chronic, worsening, and uninvestigated
+		- _Subjective disequilibrium/ imbalance_ - subjective disequilibrium prior to falls may suggest intrinsic causes, such as vestibular, visual, or somatosensory deficits, whereas cerebellar or higher-cortical disorders of balance lacks such features
+		- _Vision_ - visual disturbances (decreased VA, visual field impairments) predisposes to falls 
+		- _Hearing_ - should be assessed if patient complains of vertigo
+		- _Urinary Sx_ - urinary urgency or incontinence important w/ C-spine disorders and NPH
+		- _Bowel Sx_ - a/w C-spine disorders, and Parkinson's disease
+	- **PMH** - baseline medical comorbidities taken into accout
+	- **Drug Hx** - polypharmacy (use of > 4 medications) identified as an independent risk factor for falls:
+		- _Medications predisposing to hypotension_ - antihypertensives, anti-arrhythmics, diuretics
+		- _Psychoactive medications__ - anti-epileptics, benzodiazepine, hypnotics, antipsychotics, antidepressants, anticholinergics
+	- **Baseline mobility and function** - clarify baseline mobility and ADLs
+	- **Relevant SHx and FHx**
+- **Fall patterns** - several description of fall events provides furthre clues to underlying etiology, where common clinical patterns may emerge and provide a clue
+- **P/E:**
+	- **General examination:**
+		- _GCS_ - assessed while obtaining the Hx from the patient
+		- _Vitals_ - BP/P, RR, SpO2, Temp
+		- _Posture_ - evaluation for spinal deformities, or stooped posture (e.g. Parkinsonism)
+		- _Other orthopaedic deformities of the LL_ - e.g. knee alignment deformities, overpronation at ankle/ hindfoot
+		- _Examination of injuries_ - evaluation for #
+	- **Cardiovascular examinations:**
+		- _Pulse_ - for bradyrrhythmias or rhythm abnormalities (+/- slow rising pulse for AS)
+		- _Standing/ sitting BP after 3 min_ - for orthostatic change including > 20 mmHg systolic drop, > 10 mmHg diastolic drop, or marked increased HR
+		- _Murmurs_ - evaluation for murmurs (e.sp. ejection systolic murmur of AS)
+	- **Neurological examination:**
+		- _Features of parkinsonism_ - e.g. tremors, masked facies, stooped posture
+		- _Motor system_ - assessment of tone, power, and jerk w/ particular attentio to the lower limbs
+		- _Sensory system_ - best performed by monofilament testing and evaluationof proprioception
+		- _Assessment of gait and balance_:
+			- Gait - normal gait, tandem walking, heel walking etc.
+			- Hell-to-shin test - for cerebellar inputs from the LL
+			- Rhomberg test - high Sn for somatosensory deficits
+	- **Additional examinations:**
+		- _Vision_ - evalulate visual acuity and visual fields if Hx suggestive
+		- _Hearing_ - indicated if Hx of vertigo
+- **Ix:**
+    - **X-Ray of the hip** (or other sites of pain) - r/o fracture
+    - **Routine bloods** - CBC, LRFT, Ca, RBG, CRP
+    - **CXR** - look for acute illnesses:
+        - Chest infections
+        - Acute heart failure
+    - **ECG** - look for causes of syncope:
+        - Arrhythmia (e.g. AF)
+        - Evidence of AS (e.g. LVH)
+    - **Septip workup** (e.g. blood and urine cultures) - if pyrexial
+    - **Subsequent Ix:**
+        - <u>Tilt-table test</u> - if suspected orthostatic hypotension
+        - <u>DEXA scan</u> - if recurrent falls and fractures to screen for osteoporosis
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Tx of sustained injury</u> - Mx of fractures if sustained
+        - <u>Dx and Tx of underlying causes</u> - r/o acute illness and syncopal episodes which have prognostic implication
+        - <u>Prevention of falls</u> - multidisciplinary approach to prevention of falls
+    - **Prevention of falls:**
+        - <u>Physiotherapy</u> - balance and strength training
+        - <u>Alteration of home environment</u> - consider personal alarms, and installation of handrails through home visit of an occupational therapist
+        - <u>Review of medications</u> - rationalisation of psychotropic medications to reduce sedation, and consider neccessity of drugs that result in orthostatic hypotension
+        - <u>Ca and Vitamin D supplements</u> - reduce both fall and fracture rates in institutionalised elderly through effects on both BMD and neuromscular function
+        - <u>Other measures</u> - e.g. visual aids
+	    ![](img/principles_of_mx_of_falls.png)
+	- **Exercise:**
+		- _Resistant trainings_ - increasing muscle mass resulting in improvements in posture and gait
+		- _Sensory balance training_ - improve balance stability, extremely important when coping w/ vestibular and somatosensory balance disorders
+    - **Mx of osteoporosis** - escalation of anti-osteoporotic drug therapy if identified
+
+
+
+
+

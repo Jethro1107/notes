@@ -1,0 +1,46 @@
+---
+id: 17bfddb5-8b6b-46d5-b6cc-9ad2ea6ad2e7
+title: Reactive Arthritis
+---
+
+# Reactive Arthritis
+
+- **Definition** - previously known as Reiter's disease (but no longer referred as such due to his alligiance w/ the Nazi Party), is a non-specific inflammatory arthritis that is precipiated by prior bacterial dysnetry or sexually transmitted infections
+- **Epidemiology** - disease of young men (16-35y):
+    - <u>Prevalence</u> - 1-2% of patients with non-pecific urethritis seen in genitourinary clinic have reactive arthritis
+    - Demographic - male preponderance (M:F = 15:1)
+- **Clinical features of reactive arthritis** - acute onset precipidated by <u>prodromal illness</u>, but recurrent or chronic arthritis in 60% patients, with 10% remaining active 20y after initial presentation:
+    - **Prodromal disease** - Reiter's disease is precipitated by two types of prodromal illness in young men:
+        - <u>Bacterial dysentery</u> (20% of HLA-B27 positive men) - following shigella, salmonella, campylobacter or yersenia infection
+        - <u>Sexually transmitted infections</u> - especially chlamydia-related urethritis
+    - **Classical triad** - reactive arthritis, non-specific urethritis, and conjunctivitis (most present with arthritis only):
+        - **Reactive arthritis** - acute onset of asymetrical oligoarthritis with particular predisposition to lower limb joints (knees, ankles, midtarsal, MTP)
+            - <u>Site</u> - asymetrical inflammatory oligoarthritis affecting lower limb joints, ocassionally manifesting as acute monoarthritis
+            - <u>Onset</u> - Acute onset
+            - <u>Character</u> - Inflammatory in nature
+            - <u>Associated symptoms</u> - considerable systemic disturbances (fever, weight loss), and associated enthesitis (Achilles tendinitis or plantar fasciitisa)
+            - <u>Severity</u> - typically self-limiting
+        - **Non-specific urethritis** - typically manifests as dysuria, urgency, frequency and suprapubic pain
+        - **Conjunctivitis** (50%) - inflammation of the conjunctiva frequently in first attack (less frequently manifest as anterior uveitis)
+    - **Other joint manifestations** - Dactylitis (sausage digits), enthesitis, sacroiliitis (typically a late feature)
+    - **Extra-articular manifestations:**
+        - <u>Circinate balantitis</u> (20-50%) - vesicles along coronal margins of the prepuce and glans
+        - <u>Keratoderma blennorhagica</u> (15%) - discrete yellow-bown vesico-papules with desquamating margins coelascing to form crusty plaques, typicallly affects palms and soles
+        - <u>Nail dystrophy</u> - indistinguishable to those seen in pustular psoriasis
+        - <u>Buccal erosions</u> - painless ulcers forming over the buccal mucosa, tongue, palate and lips
+        - <u>Anterior uveitis</u> - medical emergency occuring in 30% of chronic reactive arthritis
+
+    
+    ![](../img/keratoderma_blennorhagica.png)
+    - **Ix:**
+        - <u>Joint aspiration</u> - typically to r/o septic arthritis or crystal-induced arthritis
+            - CBC and differentials - leukocyte rich with neutrophilia, may contain multinucleated macrophages (Reiter's cells)
+        - <u>Inflammatory markers</u> (ESR, CRP) - raised during active disease
+        - <u>Autoimmune markers</u> - seronegative (-ve for RF, ACPA, ANA)
+        - <u>Microbiology</u> - demonstrate entecedent/ concomitant infections:
+            - Genital swab - chlamydia PCR
+            - +/- serological test - previous dysentry
+    - **Dx** - clinical diagnosis, but joint aspiration to rule out other causes
+    - **Mx:**
+        - <u>Mx of acute attack</u> - rest, NSAIDs, analgesics +/- intra-articular steroids for severe synovitis +/- ABx (single dose azithromycin or short course of doxycycline) for urethritis
+        - <u>Mx of recurrent or chronic arthritis</u> - consider DMARDs for persistent makred symptoms, recurrent arthritis, or severe keratoderma blennorhagica

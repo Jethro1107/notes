@@ -1,0 +1,16 @@
+---
+id: 51da5e56-f9e9-4863-b6e0-d5104db0dd35
+title: Overview of CNS Infections
+---
+
+# Overview of CNS Infections
+
+- **Classification of CNS infections:**
+    - <u>By site</u> - meningitis, encephalitis, brain abscess, spinal cord
+    - <u>By causative organism</u> - virus, bacterium, fungal, parasite
+    - <u>By chronicity</u> - acute vs chronic
+- **Classification of CNS infections by site:**
+    - Infection of the meninges - acute meningitis, chronic meningitis
+    - Infection of the brain parenchyma - viral encephalitis (parenchymal viral infection), brain abscesses (parenchymal bacterial infection)
+- **Classification of CNS infections by causative organisms:** 
+![](../img/classification_of_cns_infections_by_organisms.png)

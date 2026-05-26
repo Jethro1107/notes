@@ -1,0 +1,36 @@
+---
+id: cb9029e7-e1db-46eb-b65b-378bc840d347
+title: Cardiomyopathies
+---
+
+# Cardiomyopathies
+
+- **Definition** - primary disease of the myocardium, excluding myocardial dysfunction from other cardiac diseases (ischaemic, valvular, hypertensive, congenital)
+- **Etiology of cardiomyopathy:**
+    - Inherited/ Genetics
+    - Infective
+    - Toxic
+    - idiopathic
+- **Approach to classification of cardiomyopathy:**
+    - <u>Phenotypic classification</u> - classification based on 1) morphological, 2) haemodynamic, and 3) electrophysiological abnormalities (see below)
+    - <u>Pathogenic classification</u> - recognition that a single phenotype may reflect different disease entity, and that a single disease entity may manifest as different phenotypes throughout the natural Hx:
+        - Rapidly growing catalog of pathogenic genetic variants leading to **heritable CMs**
+        - Increase knowledge of immune/ inflammatory pathways resulting in clinical myocarditis and CMs
+        - Complicated by the frequent **"two-hit model"** where "phenotypic expression" of a genetic predisposition to CM may be triggered by acquired conditions such as 1) infections, 2) toxic exposures, 3) pregnancy, or 4) tachycardia
+- **Traditional morphological phenotypes of cardiomyopathy:**
+    - <u>Hypertrophic cardiomyopathy</u> - characterised by 1) increased LV wall thickness (\>= 13-15 mm depending on context) and 2) normal or increased LVEF
+    - <u>Diastolic cardiomyopathy</u> - characterised by dilated LV chambers, and increased LV mass despite 1) normal or reduced LV wall thickness, and LVEF \<= 50% (although clinical presentation usually at \<= 40%)
+    - <u>Restrictive cardiomyopathy</u> - characteristically normal morphology, w/ evidence of 1) impaired diastolic physiology (restricted compliance due to infiltration), and 2) mildly-reduced LVEF
+    - <u>Arrhythmogenic cardiomyopathy</u> - characterised by frequent life-threatening arrhythmias (see below)
+
+  ![](../img/cardiomyopathies_davidson.png) 
+  ![](../img/classification_of_cardiomyopathies_harrisons.png)
+- **Arrhythmogenic cardiomyopathy** (evolving 4th phenotype of CMs) - characteristically causes life-threatening dysfunction:
+    - <u>Arrhythmogenic cardiomyopathy-right ventricle predominant</u> (ACM-RV) - previously termed arrhytmogenic right ventricular dysplasia (ARVD) suggesting a genetic cause, characterised by life threatening arrhythmias arising from the RV w/ variable expression in the LV
+    - <u>Arrhythmogenic cardiomyopathy-left ventricular predominant</u> (ACM-LV) - similar to ARVD but characterised by arrhythmias and structural changes predominantly in the left ventricle (causes may be infiltrative or infective)
+- **Pathophysiological detriments of cardiomyopathies:**
+    - <u>Haemodynamic consequences</u> - systolic or diastolic dysfunction results in heart failure
+    - <u>Mechanical conseuences</u> - abnormal structure of LV affects valvular structures (e.g. functional MR/TR in DCM, SAM in HCM), or outflow tract obstruction (e.g. in HOCM)
+    - <u>Electrophysiological consequences</u> - most cardiomyopathies are pro-arrhythmic, attributing to increased risk of SCD
+- **Approach to evaluation of cardiomyopathy:** 
+![](../img/approach_to_evaluation_of_cardiomyopathy.png)

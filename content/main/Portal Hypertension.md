@@ -1,0 +1,80 @@
+---
+id: 085f44df-58c4-4740-99ab-c0001a97dfc4
+title: Portal Hypertension
+---
+
+# Portal Hypertension
+
+- **Definition** - Increased hepatic venous pressure gradient (HVPG) \> 10 mmHg
+- **Etiology of portal HTN** - \> 90% attributed to cirrhosis but classified into pre-hepatic, intrahepatic, and posthepatic:
+    - <u>Pre-hepatic</u> - portal vein thrombosis, splenic vein thrombosis
+    - <u>Intrahepatic</u> - cirrhosis (95%), liver metastasis, nodular regenerative hyperplasia, polycystic kidney disease, schistosomiasis
+    - <u>Post-hepatic</u> - Veno-occlusive diseaase, Budd-Chiari syndrome, Right Heart Failure, Tricuspid Regurgitation
+- **Pathophysiology of portal HTN:**
+    - <u>Increased portal vascular resistance</u> - gradual reduction of portal blood flow and development of collaterals (enabling porto-systemic shunting)
+    - <u>Porto-systemic shunting</u> - development of collateral vessels enabling portal blood to bypass the liver and enter systemic circulation directly (\> 50% may be shunted):
+        - **Distal esophagus** - leads to esophageal varices
+        - **Stomach** - leads to gastric varices or portal-hypertensive gastropathy
+        - **Rectum** - leads to rectal bleeding
+        - **Anterior abdominal wall** - leads to the clinical sign of caput medusae
+- **Clinical features of portal HTN** - arises from portal venous congestion and collateral vessel formation:
+    - <u>Ascites</u> - arises from renal sodium retention and portal HTN
+    - <u>Variceal bleeding</u> - fatal upper GI bleeding due to rupture of esophageal or gastric varices
+    - <u>Hepatic encephalopathy</u> - attributes to HE by porto-systemic shunting of neurotoxins but does not fully explain the neuropsychiatric syndrome
+    - <u>Fetor hepaticus</u> (late feature) - direct shunting of mercaptans to lungs
+- **Signs:**
+    - <u>Splenomegaly</u> - cardinal finding detected clinically or sonographically, resulting in hypersplenism and thrombocytopenia
+    - <u>Dilated veins on abdominal wall</u> (caput medusae) - radiates from umbilical veins, rarely forming a large umbilical collateral with venous hum oon asuscultation (Cruveilhier-Baumgarten syndrome)
+    - <u>Signs of underlying cause</u>:
+        - **Stigmata of chronic liver disease** - suggestive of cirrhosis
+- **Ix and Dx evaluation of portal HTN** - principally a clinical diagnosis:
+    - <u>CBC</u>:
+        - Thrombocytopenia - ~100 x 10<sup>9</sup> region due to hypersplenism, \< 50 x 10<sup>9</sup>/L is uncommon
+        - Leukopenia - ocassionally present attributed to hypersplenism
+        - Anaemia - presence cannot be attributed to hypersplenism, but should be thoroughly investigated
+    - <u>Transabdominal USG</u>:
+        - Splenomegaly
+        - Collateral vessels
+        - Cause of portal HTN - e.g. cirhosis, portal vein thrombosis
+    - <u>CT/ MRI angiography</u> - if suspecting vascular cause
+    - <u>Endoscopy</u> - screening for esophageal varices (q2y)
+    - <u>Measurement of portal venous pressure gradient</u> (PVPG) - rarely performed:
+        - **Technique** - balloon cathetrisation via transjugular route to measure wedge hepatic venous pressure (WHVP) as surrogate of portal vein pressure, and hepatic vein pressure
+        - **Interpretation:**
+            - Clinically significant portal HTN - \> 10 mmHg difference
+            - Pressure gradient leading to varices - \> 12 mmHg difference
+- **Prognosis:**
+    - 2y risk of variceal bleeding - 7-30% (depending on size of varice)
+    - Mortality from variceal bleeding - 15% overall, but up to 45% in poor liver function (e.g. Child's C)
+- **Mx of portal HTN** - primary prevention and control of variceal bleeding:
+    - **Principles of Mx:**
+        - <u>Routine screening and primary prevention of variceal bleeding</u> - indications based on the risk of development of variceal bleeding, and risk of bleeding
+        - <u>Acute management of variceal bleeding</u> - management of upper GI bleeding with pre-endoscopic Tx and various modalities
+        - <u>Secondary prevention of recurrent variceal bleeding</u> - e.g. Beta-blockers, esophageal banding programmes, TIPPS
+    - **Screening OGD:**
+        - <u>Indications</u> - indicated for all cases of portal HTN unless the following two criteria are met (no clinically significant portal HTN):
+            - 1\. PLT \> 150 x 10<sup>9</sup>/L
+            - 2\. Liver stiffness \<= 15 kPa
+        - <u>Classification of oesophageal varices</u> - JRSPH criteria classifies based on form:
+            - F1 - minimally elevated veins, usually straight (non-tortuous)
+            - F2 - tortuous, enlarged veins occupying \<= 33% of the lumen
+            - F3 - large, coil-shpaed veins occupying \>= 33% of the lumen
+        - <u>High-risk features</u> - stigmata of bleeding:
+            - Red wale sign - longitudinal red streaks on varices
+            - Cherry red spots - small red spots suggesting impending haemorrhage
+            - Blue varices - suggesting of higher tension relative to white varices
+    - **Primaey prevention of variceal bleeding:**
+        - **Beta-blocker therapy** - initiated if non-bleeding ulcers are identified at endoscope:
+            - <u>Selection</u> - Propanolol (80-160mg/d), Nandolol, Carvedilol
+            - <u>MOA</u> - reduce HR, thus reducing portal venous pressures
+            - <u>Clinical efficacy</u> - reduces incidence, mortality from variceal bleeding
+        - **Prophylactic banding** - indicated for large varices
+    - **Management of acute variceal bleeding** - see notes on acute variceal bleeding
+- **Congestive gastropathy:**
+    - **Definition** - chronic gastric congestion as areas of punctate erythema on endoscopy caused by <u>long-standing portal HTN</u>
+    - **Clinical features:**
+        - Iron deficiency anaemia (more common) - requires iron supplementation and repeated blood transfusions
+        - Acute upper GI bleeding (less common)
+    - **Mx:**
+        - Medical Tx - propanolol (80-160 mg/d)
+        - TIPPS procedure

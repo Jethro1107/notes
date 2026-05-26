@@ -1,0 +1,38 @@
+---
+id: fe270d38-dccd-453d-925e-84e566fa3965
+title: Functional Anatomy of the Parathyroid Gland and Physiology of Calcium Phosphate Metabolism
+---
+
+# Functional Anatomy of the Parathyroid Gland and Physiology of Calcium Phosphate Metabolism
+
+- **Anatomy of the parathyroid glands** - 4 PTH glands positioned behind the lobes of thyroid (25-40 mg each)
+- **Physiology of PTH axis** - PTH secreted by parathyroid chief cells when serum Ca2+ levels decrease:
+  - **Effects of Serum Ca+ on PTH secretion:**
+    - <u>High serum Ca2+ levels</u> - Ca2+ binds to calcium-sensing receptors (GPCR) on chief cells and causing <u>intracellular PTH degradation and decreased PTH secretion</u>
+    - <u>Low serum Ca2+ levels</u> - inhibit stimulation of calcium-sensing receptors, increasing PTH secretion
+  - **Physiological effects of PTH on CaPO4 metabolism** - binds to PTHR (GPCR coupled to Gs/cAMP pathway, and Gq/IMP3-Ca2+ pathway)
+    - <u>Effects on bone metabolism</u> - dependent on pattern of PTH secretion:
+      - **Prolonged supraphysiological levels of PTH** (e.g. hyperPTH) - relative greater increase in osteoclastic activity than osteoblastic activity, resulting in mobilisation of Ca
+      - **Pulsatile release of PTH** (e.g. exploited as anabolic agents) - causes net bone gain
+    - <u>Effects on renal CaPO4 handling</u> - promotes Ca reabsorption and inhibits PO4 reabsorption
+    - <u>Effects on calcitriol (VitD) synthesis</u> - stimulates hydroxylase activity of PCT, resulting in increased calcitriol synthesis
+  - **Culminative effects of PTH** - increase Ca, and decrease PO4: 
+  ![](../img/guyton_effects_of_pth.png)
+- **Physiology of vitamin D** - hormone endogenously synthesised and activate, and promotes intestinal absorption and renal reabsorption of CaPO4:
+  - **Synthesis of vitamin D** - endogenously synthesised in the skin and biologically activated in liver and kidney:
+    - <u>Endogenous synthesis by skin</u> - irradiation of 7-dehydroxycholesterol into cholecalciferol (Vit D3)
+    - <u>1st step hydroxylation by the liver</u> - conversion of D3 into 25-hydroxycholecalciferol, where the product -ve feedbacks to inhibit the conversion (as in case of excessive vitamin D consumption)
+    - <u>2nd step hydroxylation by PCT</u> - PTH- (hence Ca-) dependent hydroxylation of 25-hydroxycholecalciferol into calcitriol by PCT cells
+
+    
+    ![](../img/guyton_synthesis_of_vit_d.png)
+  - **Physiological effects of calcitriol** - binds to Retinoid X receptor (nuclear receptor) in target cells:
+    - <u>Effects on intestine</u> - promote CaPO4 absorption
+    - <u>Effects on kidneys</u> - promotes Ca reabsorption in DCT
+    - <u>Effects on bone</u> - dependent on Ca balance (promotes bone formation at normal Ca balance, but promotes bone resorption through RANKL at negative Ca balance)
+
+    
+    ![](../img/vitamin_d_metabolism.png)
+- **Physiology of Calcitonin** - decreases Ca levels (but effects dwarfed by PTH)
+- **Classification of Disease of the PTH:** 
+![](../img/classification_of_disease_of_the_pth.png)

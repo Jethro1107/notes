@@ -1,0 +1,352 @@
+---
+id: 236cd30d-0e40-4906-a4b9-ecb6e4550bd0
+title: 2025-04-05
+---
+
+# GC217: Facial nerve palsy and salivary gland disease
+
+## Facial nerve palsy
+
+- **Anatomy of facial nerve** - complex course divided into 3 parts:
+    - **Pre-temporal bone** - emerges from pons from the cerebropontine angle
+    - **Intra-temporal bone** - located in internal acoustic meatus of petrous part of temporal bone, in close proximity to <u>middle ear</u>
+    - **Post-temporal bone** - emerges from skull via the stylomastoid foramen:
+        - <u>Anatomical association w/ parotid</u> - pierces parotid gland and constitutes the plane of division between the superficial and deep lobe of the parotid
+        - <u>5 terminal branches</u>:
+            - Frontal - innervation to the frontalis
+            - Zygomatic - innervation to the orbicularis oculi
+            - Buccal - innervation to the buccinator
+            - Marginal mandibular - innervation to the levator angular oris
+            - Cervical - innervation to the platysma
+    - **Etiology of facial nerve palsy:**
+        - **Pre-temoral/ intra-cerebral:**
+            - <u>Supranuclear lesions</u> - e.g. stroke, tumour
+            - <u>Pontine lesion</u> - e.g. tumor, demyelinating disease
+        - **Intra-temporal:**
+            - **Temporal bone pathology** - e.g. tumour in ICM/ CP angle (meningioma, acoustic neuroma), temporal bone fracture
+            - **Intra-temporal facial nerve pathology** - facial nerve schwannoma
+            - **Middle ear pathology** - AOM, CSOM w/ cholesteatoma, tumour of middle ear, bell's palsy, Ransay Hunt syndrome
+        - **Post-temporal:**
+            - <u>Malignancy</u> - malignant parotid gland tumour (e.g. mucoepidermoid carcinoma), metastatic intra-parotid LN
+            - <u>Traumatic</u> - facial trauma, inatrogenic surgical injury
+    - **P/E:**
+        - **Examination of the facial nerve** - test motor function of all 5 branches in systemic manner:
+        - **Examination of the external and middle ear**
+        - **Examination of the parotid gland and neck**
+- course - relationship with middle ear and parotid glands, traversing a bony canal for a long part
+    - Separated into 3 parts:
+        - Pre-temporal bone
+        - Intra-tempporal bone
+        - Post-temporal bone
+- Function:
+    - Motor function:
+        - Nerve to stapedius - responsible for stapedial reflex (dampen loud noice)
+        - Facial expression
+        - Stylohyoid muscle
+        - Posterior belly of digastric muscle
+    - Parasympathetic function (superior salivatory nucleus):
+        - Innervation to - lacrimal, nasal, and palatine glands vis greater superficial petrosal nerve
+        - Innervation to - sublingual, submandibular gland via chorda tympani
+- Post temporal bone anatomy:
+    - Emerges from stylomastoid foramen and pierces into parotid gland
+    - 5 terminal branches:
+        - Frontal
+        - Zygomatic
+        - Buccal
+        - Marginal mandibular
+        - Cervical
+- Etiology of facial nerve palsy:
+    - Pre-temporal (i.e. intracerebral):
+        - Supranuclear (UMN lesion) - upper face spared, most commonly caused by stroke
+        - Lesion in facial nucleus - e.g. pons, tumours, demyelinating disease
+    - Intra-temporal bone:
+        - Tumour in CPA, internal acoustic meatus - e.g. acoustic neuroma, or meningioma
+        - Temporal bone fracture
+        - Facial nerve schwannoma
+    - In middle ear:
+        - AOM
+        - CSOM with cholesteatoma
+        - Ramsey hunt syndrome
+        - Tumour in middle ear - e.g. glomus (benign), carcinoma
+        - Bell's palsy (nerve swollen in facial canal) - most common cause
+    - Post-temporal bone:
+        - Parotid gland tumour (must be malignant, never in benign) - most common post-temporal bone
+        - Metastatic intraparotid LN
+        - Facial trauma - may affect sinle distal branch
+        - Surgical injury
+- Localisation of lesion affects symptomatology - all will have facial weakness:
+    - UMN - frontalis spared
+    - Proximal to geniculate ganglion - also decrease lacrimation and sensory loss in ear
+    - Between ganglion and stylomastoid foramen - taste lacrimation normal, hyperacusis present
+    - Distal lesion - facial expression affected
+- Clinical examination - only test motor functions:
+    - scars for previous surgery, visible mass, obvious facial asymetry
+    - Examination of 7th nerve:
+        - Test all 5 branches
+    - Examination of external and middle ear
+    - Palpate parotids and the neck
+- Grading of facial paralysis severity - House and Brackmann facial paralysis grading
+- Ix:
+    - MRI brain - for suspected intracranial lesions
+    - MRI/ CT temporal bone - if middle pathology is suspected
+    - CT temporal bone - temporal bone trauma
+    - MRI/CT parotid and USG FNA - if parotid lesion suspected
+    - +/- Electrophysiological testing - EMG, ENoG (if contemplating surgical decompression)
+- Mx:
+    - Dx and Mx of underlying cause - e.g. mastoid surgery to remove cholesteatoma
+    - Consider surgical exploration and decompression in traumatic cases (after electrophysiology)
+
+## Bell's palsy
+
+- **Definition** - idiopathic facial nerve palsy, which is commonest cause of facial nerve palsy (Dx by exclusion)
+- **Pathophysiology:**
+    - <u>?Herpes zoster reactivation along facial nerve</u> - similar to Ramsey Hunt Syndrome, although antiviral therapy is not effective
+    - <u>Nerve swelling in facial nerve canal</u> - causing transient neuropraxia, and thus manifesting as facial weakness, hyperacusis +/- disorders of lacrimation salivation dependent on relationship with geniculate nucleus
+- **Prognosis** - \> 90% spontaneous recovery
+- **Dx** - Dx by exclusion:
+    - R/O:
+        - Stroke - complete facial weakness
+        - Parotid gland pathology
+        - Middle ear pathology
+- Progressive in the 1st 3 weeks - warm patient, consider imaging if no imporvement or deterioration after 6 weeks
+- Mx of Bell's palsy:
+    - High dose steroid - 1mg/kg/d predmosp;pme for 5d and taper if no ontraindications
+    - +/- Antivirals - acyclovir or famciclovir for 5d (vesicles develop after 2 d)
+    - Supportive Tx:
+        - Eye protection and eye drop (if \>= Grade 4)
+        - Facial nerve physiotherapy
+    - Consider other causes if no imporvement after 6 weeks
+- Surgical decompression of nerve:
+    - Indications - traumatic cause, AOM, iatrogenic injury (e.g. middle ear or parotid), ENoG \< 10%
+- Facial nerve grafting:
+    - Primary anastamosis if tension free (i.e. transection)
+    - Sural nerve or greater auricular nerve grafting:
+        - If resection of nerve in parotid cancer, or damage to segment of nerve in traumatic cases
+    - Facial-hypoglossal anastamosis - if grafting not feasible
+    - Cross-facial nerve grafting - anasstamosis of normal contralateral buccal branch to defective side
+- Surgery for facial reanimation - if nerve grafting not contemplated:
+    - Upper face:
+        - Gold weight/ platinum chain implant to eyelids - close eyelid by means of gravity
+        - Tarsorrhaphy - partially close if weight implant not feasible
+    - Lower face:
+        - Fascial sling (static sling)
+        - Muscle sling (e.g. free gracilis muscle graft w/ neurovascular bundle)
+
+## Salivary gland disease
+
+- Anatomy of salivary glands
+    - Major salivary glands - 2 parotid glands, 2 submandibular glands, 2 sublingual glands
+    - Minor salivary glands
+- Anatomy of parotid glands
+    - Boundaries:
+        - Superior - zygomatic arch
+        - Posterior - EAC, SCM
+    - Overlies Massetter and mandible (80%), retromandibular (20%)
+    - Superficial and deep lobe divided by facial nerve:
+        - Demarcation on imaging:
+            - Line from mandible to mastoid –\> part medial to retromandibular vein is deep lobe
+    - Stensen's duct (parotid duct):
+        - Emerges from anterior border (1.5cm inferior to and parallel to zygomatic arch)
+        - Pierces buccinator at upper 2nd molar
+- Submandibular gland:
+    - Located in submandibular triangle - gland wraps around mylohyloid muscle
+    - Anatomical relationships with marginal mandibular branch of facial nerve
+    - Wharton's duct:
+        - Exits medial surface
+        - Between mylohyloid and hypoglossus
+        - Close anatomical relationship with lingual and hypoglossal nerve
+- Sublingual gland:
+    - Between bmandible and genioglossus, lateral to submandibular duct
+    - Ducts very small –\> Sialogram impossible
+- Minor salivary glands (600-1000) - over upper aerodigestive tract:
+    - Most common tumour sites - Palate, upper lip, buccal
+
+### Common presenting problems of salivary glands
+
+- Painless swelling
+- Pain
+- Facial nerve palsy
+- Metastatic LNs
+
+### Workup
+
+- PE:
+    - Is it really parotid swelling - masseter hypertrophy, neck LN, lipoma, vascular malformation
+    - Is it really submandibular gland swelling - may be submandibular LN, may be oral cavity mass with extension into submandibular space (intra-oral examination is necessary)
+    - Inspection:
+        - Dont miss parotidectomy scar (modified blair incision) - tragus, to earlobe, then extends inferiorly to naturally occuring horizontal crease of neck
+        - Facial nerve palsy
+        - Symmetrical swelling?
+        - Intraoral inspection:
+            - Parotid duct opening
+            - Submandibular duct opening
+            - Floor of mouth swelling
+            - Tumours
+            - Pus expressed on compression from parotid
+    - Palpation:
+        - Confirm not arising from skin
+        - etc.
+    - Other clinical examination:
+    - Complete ENT examination
+    - Facial nerve examination
+    - Neck LN
+    - Endoscopy of upper aerodigestive tract
+- Ix:
+    - USG - confirm origin of mass, stones, dilated ducts
+    - Plain XR:
+        - Limited role in parotid swellings - 90% of parotid stones are radiolucent
+        - More role in submandibular swellings - 90% are radio-opaque
+    - Sialogram - old Ix for chronic sialolithiasis, w/ contrast injected into salivary gland ducts (supersceded by USG and sialoendoscopy), but can be therapeutic
+    - CT scan - delineate anatomy (deep vs superficial lobe)
+    - MRI for soft tissue delineation - but cannot clearly delineate facial and lingual nerve
+    - FNA - cytology to differentiate benign and malignant (only 80% accuracy)
+    - Truecut biopsy (incisional Bx not performed due to risk of tumor spillage)
+
+### Sialoadenitis
+
+- **Definition** - inflammation of the salivary gland that is non-neoplastic in origin, often a/w swelling, which can occur in the acute or chronic setting
+- **Clinical features of Sialoadenitis** - varies w/ acute vs chronic setting:
+    - <u>Acute sialoadenitis</u> - acute salivary gland swelling with associated fever, local tenderness, and purulent discharge
+    - <u>Chronic sialoadenitis</u> - chronic salivary gland swelling, which is usually firm and indurated
+- **Etiology of sialoadenitis:**
+    - <u>Obstructive causes</u> - sialolithiasis
+    - <u>Infective causes</u>:
+        - Bacterial - S. aureus
+        - Viral - mumps (characteristically bilateral), coxackie virus, CMV, influenza
+    - <u>Inflammatory causes</u> - Sjogren's syndrome, IgG4 disease
+- **Mx of acute sialoadenitis:**
+    - General measures - rehydration
+    - IV ABx - prescribed during acute attack
+    - Mx of underlying cause - e.g. sialoendoscopy for sialolithiasis, parotidectomy
+
+### Sialolithiasis
+
+- **Definition** - Stone in the salivary duct
+- **Common sites of sialolithiasis** - 25% cases have multiple stones:
+    - Submandibular gland (80%)
+    - Parotid gland (20%)
+- **Clinical presentation:**
+    - <u>Chronic neck swelling</u> - characteristic swelling and pain is worse w/ eating, and relieved on fasting
+    - <u>Presentation w/ complications</u> - acute bacterial sialadenitis, ductal ectasia, ductal strictures
+- **Mx:**
+    - <u>Conservative Mx</u> - indicated for small stones that spontaneously pass by themselves
+    - <u>Transoral removal/ excision</u>
+    - <u>Sialoendoscopy and removal</u>
+    - <u>Excision of glands</u> - indicated if proximal stone, recurrent stones, multiple stones
+
+### Acute parotitis
+
+- Epidemiology - most commonly seen in dehydrated infirmed elderly
+- Clinical features:
+    - Unilateral tender swelling
+    - Pus expression upon compression of parotid gland
+- Microbiology - S. aureus
+- Mx - rehydration, IV ABx
+
+### Viral parotitis
+
+- Microbiology - mumps (commonest and bilateral), coxackie virus, CMV, influenza
+
+### Chronic sialoadenitis
+
+- Etiology - commonest caused by chronically obstructive stones, but not to extent to causing acute parotitis
+- Pathophysiology:
+    - Blockade of saliva drainage
+    - Destruction of gland after minor episodes of acute infection
+- Clinical features:
+    - Mild pain - worsening after meal
+    - Recurrent parotid or submandibular swelling
+    - Can be related to Sjogren's syndrome
+- Ix - Dx is clinical +/- USG to r/o stone or other masses, and r/o Sjogren syndrome
+- Mx:
+    - Hydration
+    - Sialologues
+    - Massage and heat
+    - ABx during acute attacks
+    - Definitive Tx - remove stones in sialoendoscopy +/- excision of gland
+
+### Sialolithiasis
+
+- SIte - 80% in submandibular, 20% in parotid
+- Clinical presentation - recurrent swelling and pain worse after eating
+- Complications:
+    - Sialoadenitis
+    - Ductal ectasia
+    - Ductal strictures
+- Mx:
+    - Conservative - hydration and small stones will pass
+    - Transoral removal/ excision
+    - Sialoendoscopy and removal
+    - Excision of gland - if proximal, recurrent, or multiple stones
+
+### Bilateral parotid enlargement
+
+- DDx:
+    - Pseudoparotidemegaly - e.g. masseter hypertrophy
+    - Bulmia nervosa
+    - Alcoholic cirrhosis
+    - DM
+    - Hypothyroid
+    - Phenytoin
+
+### Salivary gland neoplasm
+
+- relatively uncommon - 2% of head and neck neoplasm
+- Distribution by site and histopathology:
+    - Parotid (80%) - 80% benign (80% of which are pleomorphic adenoma)
+    - Submandibular (15%) - 50% benign
+    - Sublingual/ minor (5%) - 40% benign
+- Pleomorphic adenoma - most common of all salivary gland tumours:
+    - Epidemiology:
+        - Demographic - 4th-6th decade, F:M = 2:1
+        - Distrubition:
+            - 80% of parotid tumours (90% in superficial lobe, most in tail)
+            - 50% of submandibular tumours
+            - 45% of minor salivary tumours
+            - 6th of sublingual tumours
+    - Clinical features:
+        - Slow growing painless mass
+    - 10-15% risk of malignant transformation in 10y
+    - Mx:
+        - Complete surgical excision with resection margins (avoid tumour seeding):
+            - Parotidectomy w/ facial nerve examination
+            - Submandibular gland excision
+            - Wide local excision of minor salivary glands
+        - RT for recurrent tumour or suggestive of spillage
+- Warthrin's tumour - 6-10% of parotid neoplasm:
+    - Epidemiology - Older male 6-7th decade, smoker
+    - Clinical features:
+        - Multifocal, 10% bilateral, slow growing painless mass typically at tail of parotids
+        - Soft cystic mass
+- Other benign tumours
+- Mucoepidermoid carcinoma
+    - most common salivary gland maligancys
+    - Site - 45-70% in parotid
+    - Clinical presentation - dependent on grading:
+        - Low grade - slow growing painless mass
+        - High grade - rapidly enlarging +/- pain
+    - Mx - read up, dependent on site, stage and GRADE
+- Adenoid cystic carcinoma
+    - 2nd most common malignancy
+    - Site - most common in submandibular, sublingual and minor salivary glands
+    - Clinical presentation:
+        - Enlarging mass
+        - Late stage - pain, parasthesia, facial weakness (due to perineural spread)
+    - Mx - debatable:
+        - Complete local excision
+        - Facial nerve Mx (perineural spread) - sacrifice even if documented normal facial nerve function? typically preserve with adjuvant RT and close monitoring
+    - Prognosis:
+        - Local recurrence - 40%
+        - Distant metastasis common - lung
+- Acinic cell carcinoma
+    - 2nd most common parotid and pediatric malignancy
+    - Bilateral parotid disease in 3%
+    - Presentaiton - painless, indolent enlarging mass
+- Carcinoma Ex-pleomorphic adenoma
+    - Malignant transformation from pleomorphic adenoma (\> 10y)
+    - Clinical presentation - sudden enlargement of documented parotid swelling +/- pain and facial nerve palsy
+    - Gross pathology - poorly circumscribed, haemorrhagic, and necrotic regions
+    - Mx:
+        - Radical excision and prophylactic neck dissection, post operative RT
+- SCC - must r/o high-grade mucoepidermoid carcinoma, metastatic SCC from scalp SCC
+- Undifferentiated carcinoma (Lymphaepithelial carcinoma or NPC) - same as NPC

@@ -1,0 +1,2035 @@
+---
+id: 0fae881c-a7fd-40ab-b7a8-e779eb74f987
+title: Davidson Ch19 Respiratory Disease
+---
+
+# Ch19 Respiratory Disease
+
+## Clinical examination of the respiratory system
+
+## Functional anatomy and physiology
+
+## Investigation of respiratory disease
+
+### Imaging
+
+1.  Plain Radiograph - Chext X-ray
+
+    - **Indications** - often obtained in the majority of patients with suspected chest disease +/- suspected pneumoperitoneum
+    - **Views:**
+      - <u>PA sitting view</u> - provides the most information on the lung fields, heart, mediastinum, vascular structure and the thoracic cage
+      - <u>AP view</u> - obtained if patient in respiratory distress and cannot tolerate PA view
+      - <u>Lateral view</u> - additional view obtained if pathology is suspected behind the heart shadow or deep in the diaphragmatic sulci
+    - **Approach to interpretation of CXR:**
+      - <u>Patient particulars and orientation</u> - note name, date and orientation (PA unless denoted AP)
+      - <u>Assess adequacy</u> - inspiration, penetration and rotation:
+        - Inspiration - 8 anterior ribs, 10 posterior ribs
+        - Penetration - spine visible behind cardiac shadow
+        - Rotation - clavicular heads equidescent from the spin
+      - <u>Lung fields</u>:
+        - Equal translucency - e.g. pneumothorax, lung collapse
+        - Nodules - note masses, consolidations, cavitations
+        - Horizontal fissure - runs from right hilum to 6th rib in anterior axillary line
+      - <u>Lung apices</u> - note pathology (masses, consolidation, cavitation) behind the clavicle
+      - <u>Trachea</u> - central vs deviated, and any paratracheal mass (e.g. goitre)
+      - <u>Heart</u>:
+        - Size - assessed by cardiothoracic ratio (\< 0.5 of intrathoracic diameter)
+        - Heart borders - left and right heart borders
+        - Aortic knuckle - any dilatation of aorta
+        - Retrocardiac mass - suspicion requires lateral view CXR to confirm
+      - <u>Hilum</u>:
+        - Height - left hilum should be higher than right hilum
+        - Shape - typically concave laterally, convexity suggestive of mediastinal mass or lymphadenopathy
+        - Density
+      - <u>Diaphragm</u>:
+        - Height - right hemidiaphragm should be slightly higher than left hemidiaphragm (look for elevation of hemidiaphragm)
+        - Hyperinflation - no more than 10 posterior ribs visible, otherwise the diaphragm appears to be flattened
+        - Free gas under diaphragm - r/o pneumoperitoneum due to perforated intra-abdominal viscus
+      - <u>Costophrenic angle</u> - normally acute and well defined, otherwise consider pleural effusion or rarely pleural thickening (e.g. asbestosis)
+      - <u>Soft tissue</u> - normal breast shadows in F, or chest wall pathologies
+      - <u>Bones</u> - any fracture or lucencies
+
+      ![](../img/interpretation_of_cxr_approach.png) 
+      ![](../img/normal_cxr.png)
+    - **Common chest X-ray abnormalities:**
+      - **Pulmonary shadowings** - reflects accumulation of fluid, lobar collapse or consolidation
+      - **Pleural abnormalities** - fluid, plaques or tumour
+      - **Increased translucency** - reflects pneumothorax, bullae, or relative oligaemia (PE)
+      - **Hilar abnormalities** - unilateral vs bilateral hilar enlargement
+      - **Other abnormalicies:**
+        - Hiatal hernia
+        - Surgical emphysema
+    - **Types of pulmonary shadowing:**
+      - <u>Consolidation</u> - reflects infection, infarction, inflammation and rarely bronchoalveolar cell carcinoma
+      - <u>Collapse</u> - due to tumour, extrinsic compression by LN, mucus plugging (differentiated from consolidation by P/E findings and additional features on CXR, see below)
+      - <u>Solitary pulmonary nodule</u> - worrisome for lung cancer (see notes on approach to the incidental pulmonary nodule)
+      - <u>Multiple nodules</u> - likely metastatic malignancy, miliary TB, rheumatoid disease, ust inhalation, healed varicella pneumonia
+      - <u>Cavitating lesions</u> - tumour, abscess, infarct, Wegner's (correlate clinically)
+      - <u>Reticular, nodular, reticulonodular shadows</u> - diffuse parenchymal lung disease, infections etc.
+    - **Differentiation between consolidation and collapse** - based on additional information clinically or radiologically:
+      - <u>Salient Hx differentiating between consolidation vs collapse</u> - Hx suggestive of pneumonia, PE or sudden bronchial obstruction
+      - <u>P/E findings differentiating between consolidation vs collapse</u>:
+        - **Consolidation pattern** - reduced breath sounds +/- crackles, **increased vocal resonance**, **no mediastinal shift**
+        - **Collapse pattern** - absent breath sounds, reduced focal resonance, **mediastinal shift to ipsilateral side**
+      - <u>Radiological features differentiating between consolidation vs collapse</u>:
+        - **Mediastinal shift** - tracheal deviation and mediastinal shift to ipsilateral side in collapse versus absence of such features in consolidation
+        - **Air bronchograms** (non-specific) - areas of low attenuation in a background of airless lung, often suggestive of a consolidation pattern, but can occur with actelactesis
+    - **Increased translucency** - reflects increased air relative to pulmonary circulation:
+      - <u>Pneumothorax</u> - increased air in pleural cavity
+      - <u>Bullae</u> - emphysematous bullae secondary to COPD
+      - <u>Relative oligaemia</u> - focal increase in translucency of lung fields related to pulmonary embolism
+    - **Hilar abnormalities:**
+      - <u>Unilateral hilar enlargement</u> - TB, bronchial carcinoma, lymphoma
+      - <u>Bilateral hilar enlargement</u> - TB, lymphoma, silicosis, sarcoidosis
+
+2.  Computed Tomography
+
+3.  Positron Emission Tomography
+
+4.  Ultrasound
+
+### Endoscopic examination
+
+### Immunological and serological tests
+
+### Microbiological investigations
+
+### Respiratory function testing
+
+- **Role of lung function test:**
+    - Aid diagnosis - by the pattern of lung functions
+    - Assessment of functional impairment - characterise severity of disease
+    - Assess progression and treatment responsiveness - through serial measurements
+- **Lung functions in respiratory function testing:**
+    - Spirometry - detection of airflow limitation
+    - Lung volumes (tidal volume and vital capacity) - reflects increased or decreased lung volume capacity
+    - Diffusion capacity/ transfer factor - measures capacity for gas exchange (CO)
+- **Spirometry** - accurate and reproducible measurements of airflow limitations compared with home monitoring by peak flow meter:
+    - <u>Principles</u> - tidal breathing followed by deep inhalation and exhalation at maximum efforts into spirometer (pre- and post-bronchodilator)
+    - <u>Results</u>:
+        - FEV1 - forced expired volume in 1 second
+        - FVC - forced vital capacity, that is the total volume of air exhaled
+        - Flow-volume loop - air flow in relation to lung volume during maximum inspiration and expiration
+- **Lung volumes:**
+    - <u>Principles</u> - measurement of TLC and RV by asking patient to rebreathe an inert non-absorbed gas and recording muw much the test gas is diluted by lung gas
+- **Diffusion capacity (DLCO):**
+    - <u>Principle</u> - inhalation of 0.3% carbon monoxide and measurement of dissapearance of CO into circulation from sample of expirate
+
+## Presenting problems in respiratory disease
+
+### Cough
+
+- **Definition** - sudden expulsion of air from the lungs mediated by a cough reflex
+- **Pathophysiology of cough:**
+    - <u>Afferent stimulation</u> - due to stimulation of sensory nerves in the mucosa of the pharynx, larynx, trachea, and bronchi
+    - <u>Explosive nature of cough</u> - requires forceful contraction of the respiratory muscles and precise control of vocal cord, where unilateral vocal cord palsy may result in a prolonged, low pitched, inefficient bovine cough accompanied by hoarseness
+    - <u>Acute sensitization of normal cough reflex</u> - induced by changes in air temperature, or exposure to irritants such as smoking or perfumes
+- **Etiology of cough** - classification by anatomical classification:
+    - <u>Pharynx</u> - acute pharyngitis, post-nasal drip, GERD
+    - <u>Larynx</u> - laryngitis, tumour, pertussis, croup
+    - <u>Trachea</u> - tracheitis
+    - <u>Bronchi</u> - acute bronchitis, chronic bronchitis, asthma, eosinophilic bronchitis, bronchial carcinoma
+    - <u>Lung parenchyma</u> - TB, pneumonia, bronchiectasis, pulmonary oedema, interstitial fibrosis
+    - <u>Drug side-effect</u> - ACEi
+    - <u>Psychogenic</u> - psychogenic cough
+
+  
+  ![](../img/davidson_ddx_of_cough.png)
+- **Causes of chronic cough** - challenging especially when P/E, CXR and lung function studies are normal:
+    - <u>Asthma</u> - cough-variant asthma (where cough is principal clinical manifestation) especially if associated with variability and associated with known allergen
+    - <u>Post-nasal drip</u> - secondary to nasal or sinus disease
+    - <u>GERD with aspiration</u> - especially with known heartburn symptoms, and symptoms are typically nocturnal (diagnosis by ambulatory esophageal pH monitoring)
+    - <u>ACEi</u> - 10-15% patients (particularly women) who just started on ACEi develop chronic dry cough
+    - <u>Tuberculosis</u> - always a DDx in chronic cough associated with low-grade fever, night sweats etc.
+    - <u>Pertussis</u> - suspected in protracted cough with history of close contact with children
+    - <u>Bronchial carcinoma</u> - usually presents with abnormal CXR on presentation, but CT or bronchoscopy is advisable in most adults w/ risk factors (esp. smokers) which can reveal endobronchial tumour
+    - <u>Interstitial lung disease</u> - dry cough may be the presenting feature prior to the relentless progressive exertional dyspnoea in a small percentage of patients
+- **Ix for chronic cough:**
+    - <u>CXR</u> - if chronic cough is otherwise unexplained
+    - <u>High resolution CT thorax</u> - offered to high risk groups (adult smokers) even if CXR is -ve for CA lung
+    - <u>Bronchoscopy</u>
+
+### Breathlessness
+
+### Chest pain
+
+- **Definition** - frequent complaint arising from both cardiac and respiratory disease, but also a result of esophageal, musculoskeletal or aortic disease
+- **DDx of chest pain:** 
+![](../img/davidson_ddx_chest_pain_respiratory_disease_chapter.png)
+    - **Cardiac chest pain** - ischaemic heart disease (CCS or ACS), myocarditis, pericarditis, valvular heart disease (MVP, AS), cardiomyopathy
+    - **Aortic disease** - aortic dissection, aortic aneurysm
+    - **Esophageal disease** - GERD and other causes of esophagitis, esophageal motility disorder (e.g. spastic achalasia), Mallory-Weiss syndrome (massive UGIB)
+    - **Pleurisy** - pneumothorax, pneumonia and parapneumonic effusion, pulmonary embolism and pulmonary infarction, tuberculosis, pleural carcinomatosis (malignancy), serositis due to CTD
+    - **Tracheal disorders** - tracheitis
+    - **Musculoskeletal** - costochondritis (Tietze's syndrome), rib fracture/ injury, intercostal muscle injury, OA, epidemic myalgia
+    - **Neurological** - Herpes zoster reactivation, thoracic outlet syndrome, prolapsed intervertebral disc
+    - **Psychological** - anxiety-related disorders (including panic disorders) and
+- **Descriptions of chest pain** - provides a clue of likely etiology:
+    - <u>Myocardial ischaemia</u> - dull, poorly localised chest tightness radiating to the jaw, shoulder exacerbated by exertion and emotion and relieved by rest
+    - <u>Pleurisy</u> - sharp, well localised chest pain (often lateralised), exacerbated by deep breathing or coughing
+    - <u>Aortic dissection</u> - tearing central chest pain
+    - <u>Tracheitis</u> - raw upper retrosternal pain exacerbated by the accompanying cough
+    - <u>Esophageal disorders</u> - central non specific chest pain that does not abide to classical presentation of IHD and is related to food and posture
+    - <u>Musculoskeletal chest wall pain</u> - pain exacerbated by movement associated with local tenderness
+
+### Haemoptysis
+
+- **Definition** - coughing up blood, irrespective of amount, assumed to have a serious cause until this is excluded
+- **DDx of haemoptysis** - many episodes remain unexplained but thorough workup is required: 
+![](../img/ddx_of_haemoptysis.png)
+    - **Bronchial disorders:**
+        - Acute bronchitis
+        - Bronchiectasis
+        - Bronchial carcinoma
+        - Bronchial adenoma
+        - Foreign body
+    - **Lung parenchymal disease:**
+        - Tuberculosis
+        - Suppurative pneumonia (pneumococcal pneumonia) and lung abscess
+        - Actinomycosis, pulmonary mycetoma, including invasive bronchopulmonary aspergillosis
+    - **Lung vascular disease:**
+        - Pulmonary embolism and pulmonary infarction
+        - Goodpasture's syndrome
+        - Polyarteritis nodosa
+        - Pulmonary AVM (HHT)
+        - Idiopathic pulmonary haemosiderosis
+    - **Cardiovascular disease:**
+        - Acute left ventricular failure
+        - Mitral stenosis
+        - Aortic aneurysm
+    - **Blood disorders:**
+        - Anticoagulants
+        - Thrombocytopenia
+        - Coagulopathies (e.g. Haemophilia)
+- **Salient points of Hx:**
+    - **HPI** - onset, progression, quality, previous episodes:
+        - <u>Onset and progression</u> - chronic, repeated small haemoptysis or blood stained sputum is highly suggestive of bronchial carcinoma
+        - <u>Quality</u>:
+            - Large amounts w/ blood clots - suggestive of sizable bleeding requiring acute Mx irrespective of cause
+            - Bloody mucopurulent sputum - suggestive of bronchiectasis
+            - Rusty sputum - suggestive of pneumococcal infection
+            - Blood-streak in sputum - may be a/w bronchial carcinoma, TB
+            - Pink, frothy sputum - due to acute pulmonary oedema
+        - <u>Previous episodes</u> - may reveal underlying cause
+    - **Associated Sx:**
+        - <u>Dyspnoea</u> - reflects underlying pulmonary parenchymal or vascular etiology
+        - <u>Chest pain</u> - pleuritic chest pain reflects pulmonary infarction or parapneumonic effusion
+        - <u>Cough and sputum</u> - non-differentiating based on +ve Hx but quality and progression may hint underlying etiology (e.g. bronchiectasis a/w protracted volumes of sputum)
+        - <u>Fever</u> - suggestive of pneumonia or pulmonary infarction
+        - <u>Weight loss</u> - suggestive of TB or underlying malignancy
+        - <u>LL oedema</u> - unilateral LL oedema suggestive of DVT
+    - **PMH** - look for risk factors:
+        - <u>General medical conditions</u> - e.g. DM (risk factor for TB)
+        - <u>Pulmonary disease</u> - e.g. bronchiectasis, COPD, ILD (risk factor for TB and bronchial carcinoma)
+        - <u>Cardiovascular disease</u> - esp. mitral stenosis as severe mitral stenosis and AF can present w/ haemopytis
+        - <u>Antive malignancy</u> - a/w increased risk of TB or other chest infections from anticancer therapy, and increased risk of DVT and P/E
+        - <u>Immunosuppression</u> - e.g. CKD, cirrhosis, RA etc.
+    - **Drug Hx:**
+        - <u>Drugs causing immunosuppression</u> - corticosteroids, biologics, anti-cancer therapy
+        - <u>Drugs causing bleeding tendancy</u> - aspirin, warfarin, DOACs
+    - **TOCC history** - if fever and cough
+    - **SHx:**
+        - <u>Smoking</u> - risk factor for bronchial carcinoma
+        - <u>Alcohol and illicit drug use</u> - risk factor for TB
+        - <u>Occupation</u> - occulational exposure to TB
+        - <u>Living environment</u> - e.g. OHA is risk factor for TB
+        - <u>Prolonged immobilisation</u> - a/w increased risk of PE
+    - **FHx** - TB exposure, malignancy
+- **P/E** - primary assessment, general examination, and respiratory examination:
+    - **Primary assessment and vital signs** - airway, breathing and circulation assessed in cases of acute haemoptysis or severe respiratory distress
+    - **Temperature** - fever (esp. in a/w pleural rub or signs of consolidation) suggestive of either pneumonia or pulmonary infarction
+    - **General examination:**
+        - <u>General appearance</u> - cachexia may point towards malignancy
+        - <u>Cervical LN</u> - cerviacal lymphadenopathy (particular SCN) suggestive of malignancy
+        - <u>Irregularly irregular pulse</u> - underlying AF has some diagnostic implications (e.g. severe lung disease resulting in AF, long-term anticoagulation)
+        - <u>Clubbing</u> - presence suggestive of bronchial carcinoma, bronchiectasis, and rarer lung infections (e.g. TB, suppurative pneumonia)
+        - <u>LL oedema</u> - unilateral LL oedema suggestive of DVT and pulmonary embolism; bilateral LL oedema points towards cardiac causes
+    - **Respiratory examination** - assess for localising signs (e.g. unifocal wheeze, crackles, or pleural rub)
+    - **Systems review:**
+        - Auscultation of the precordium for <u>mitral stenosis</u>
+        - Palpation of the liver for <u>malignant hepatomegaly</u>
+    - **Additional important signs:**
+        - <u>Rash, purpura or digital infarcts</u> - points towards systemic cause (e.g. vasculitis)
+- **Ix** - do not delay Mx if acute severe haemoptysis:
+    - **Routine bloods** - CBC, clotting profile, RFT, +/- D-dimer:
+        - **CBC** - raise suspicion of blood disease especially if <u>pancytopenia</u>, otherwise:
+            - <u>Hb and MCV</u> - identify anaemia (ACD or anaemia of acute blood loss etc.)
+            - <u>WBC and differentials</u> - identify infection
+            - <u>PLT</u> - identify thrombocytopenia
+        - **RFT** - derranged RFT suspicious of goodpasture syndrome
+        - **Clotting profiles** - prolongation depending on underlying coagulopathy
+        - **D-dimer** - role to r/o pulmonary embolism in haemodynamically unstable patients based on <u>pre-test probability</u>
+    - **Microbiology** - septic workup w/ blood cultures, sputum for gram stain, routine C/ST, and AFB testing
+    - **CXR** - provides evidence for localised tumours (e.g. tumour, pneumonia, mycetoma, or TB), or more systemic causes:
+        - <u>Evidence of localised lesions</u> - localised opacity on CXR
+        - <u>Evidence for systemic causes</u>:
+            - CHF - cardiomegaly, upper lobe cephalisation, Kerley-B lines, batwing opacity
+            - Goodpasture syndrome - batwing appearance despite normal heart size (+/- decreased Hb)
+    - **HRCT thorax** - for further assessment of pulmonary nodule, or assessment of bronchiectasis, or pulmonary vascular lesions
+    - **Bronchoscopy** - may reveal central lesion that are not shown on CXR
+    - **CTPA** - may reveal:
+        - Pulmonary embolism
+        - Alternative pulmonary vascular diseases (e.g. pulmonary AVM)
+    - **Additional Ix** - depending on clinical presentation:
+        - ECG/ Echo
+        - ABG
+        - Autoimmune screen - e.g. Anti-GBM, ANA, ANCA
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Mx of acute haemoptysis</u> - severe acute haemoptysis may require immediate airway protection and Mx as it may be life-threatening
+        - <u>Dx of underlying cause</u> - compplete work up for haemoptysis to r/o sinister causes (see above)
+    - **Acute Mx of severe haemoptysis:**
+        - **Patient positioning** - reduce risk of aspiration:
+            - Nursed upright
+            - Lie on the side of bleeding if known
+        - **Patient resuscitation** - high flow O2 and resuscitate as required
+        - **Urgent bronchoscopy and haemostasis** - role is limited in the acute phase:
+            - Rigid bronchoscopy under GA if radiology reveals a suspicious central region
+            - Intubation w/ divided ET tube to protect ventilation of the unaffected lung
+        - **Salvage Tx** - consider:
+            - Bronchial arteriography and embolisation
+            - Emergency surgery
+
+### The incidental pulmonary nodule
+
+- **Definition** - incidental finding of round opacity measuring up to 3cm in diameter due to widespread use of chest radiographs and thoracic CT scanning
+- **Etiology of pulmonary nodule:**
+    - <u>Infective cause</u> - e.g. Localised pneumonia, lung abscess, tuberculoma, aspergilloma
+    - <u>Vascular lesions</u> - e.g. arteriovenous malformation, pulmonary haematoma, pulmonary infarct
+    - <u>Cystic lesions</u> - bronchogenic cyst, hydatid cyst
+    - <u>Neoplastic conditions</u>:
+        - **Benign** - benign tumours (e.g. harmatoma)
+        - **Malignant** - bronchial carcinoma, single metastasis, lymphoma
+    - <u>Rheumatoid conditions</u> - rheumatoid nodule, Wegner's granuloma
+
+  
+  ![](../img/etiology_of_pulmonary_nodule.png)
+- **Features for distinguishing between benign from malignan nodules:**
+    - **Patient characteristics:**
+        - <u>Age</u> - increasing incidence of malignancy with age and is uncommon \< 40y
+        - <u>Smoking Hx</u> - increased risk of malignancy in proportion to pack-years and duration
+        - <u>FHx</u> - increased risk of malignancy if +ve FHx for lung cancer in 1st degree relatives
+        - <u>Occupational exposure</u> - reported exposure to asbestos, silica etc.
+    - **Radiological features:**
+        - <u>Size</u> - increasing risk with size, nearly all malignancies are \> 3mm and \< 1% of lesions \< 4mm are malignant
+        - <u>Growth</u> - lesion remains unchanged in 2y is extremely suggestive of benign lesions
+        - <u>Margins</u> - spiculated lesions suggests malignancy, whereas smooth lesions are likely benign
+        - <u>Calcification</u> - different calcification patterns reflect different pathologies:
+            - **Granuloma** - laminated or central deposition of calcifications
+            - **Harmatoma** - popcorn pattern of calcifications
+        - <u>Fat</u> - presence of fat suggestive of harmatoma or lipoid granuloma
+        - <u>Location</u>:
+            - **Bronchial carcinoma** - 70% are found in upper lobe
+            - **Benign lesions** - equal distribution throughout upper and lower lobe
+- **Ix and Mx:**
+    - **Principles of Mx** - further workup initially by lesion characterisation on CT thorax is dependent on radiographic features and patient characteristics: 
+    ![](../img/davidson_recommendations_for_follow_up_of_incidental_pulmonary_nodule.png)
+    - **Interval thoracic CT:**
+        - <u>Intervals</u> - period between scans is based upon the average tumour doubling time (see above)
+        - <u>Assessment of changes</u> - increase in tumour size after a period of time
+        - <u>Considerations</u>:
+            - Radiation exposure inherent to this approach
+            - Additional pulmonary nodules detected
+    - **Bronchoscopy +/- Endoscopic bronchscopic ultrasound** (Bronchoscopy +/- EBUS) - limited role as most pulmonary nodules are beyond the vision of the bronchoscope
+    - **Tissue biopsy** - obtained using percutaneous needle biopsy under USG or CT guidance:
+        - <u>Rationale</u> - obtain tissue for histological diagnosis
+        - <u>Complications</u>:
+            - **Pneumothorax** (20% cases) - only 3% require intercostal drainage, but technique complicated in individuals with a FEV1 of \> 35% predicted
+            - **Haemorrhage** - into lungs or pleural space (haemothorax)
+            - **Air embolism**
+            - **Tumour seeding** - esp. into pleural space is rare but recognised
+    - **PET-CT** - useful for nodules \> 1cm for assessment of metabolic activity (cold nodules are consistent w/ benign disease)
+        - <u>False +ve</u> - infectious or inflammatory nodules
+        - <u>False -ve</u> - neuroendocirne tumours, and bronchiolo-alveolar tumours
+
+### Pleural effusion
+
+- **Definition and terminology:**
+    - <u>Pleural effusion</u> - accumulation of serous fluid within the pleural cavity
+    - <u>Empyema</u> - accumulation of frank pus in the pleural cavity
+    - <u>Haemothorax</u> - accumulation of blood in the pleural cavity
+    - <u>Chylothorax</u> - accumulation of chyle in the pleural cavity
+- **Clinical features of pleural effusion:**
+    - **Chest pain** (pleurisy) - sharp (lateralerised) chest pain on inspiration or coughing reflecting pleurisy often <u>precedes development of effusion</u>, often in patient w/ underlying pneumonia, pulmonary infarction of CTD
+    - **Dyspnoea** - may be only Sx, and depends on 1) size, 2) rate of accumulation
+- **Signs of pleural effusion** - can be suspected on clinical examination:
+    - **General examination** - tachypnoea
+    - **Respiratory examination** - normal if mild, stony dull percussion notes and reduced air entry, +/- tracheal deviation in massive pleural effusion:
+        - <u>Inspection</u> - reduced chest wall expansion (unilaterally or bilaterally depending on laterality of underlying pathology)
+        - <u>Palpation</u> - reduced chest wall expansion; **tracheal deviation/ displaced apex beat to the contralateral side in massive pleural effusion**
+        - <u>Percussion</u> - **stony dull percussion notes below level of effusion**, resonant above level of effusion
+        - <u>Auscultation</u>:
+            - **Reduced breath sound below level of effusion**
+            - Bronchial breath sound above level of effusion
+- **DDx of pleural effusion:**
+    - **Tranxudative effusion:**
+        - <u>Salt and water retension</u> - heart failure, portal hypertension, renal failure
+        - <u>Hypoalbuminaemia</u> - nephrotic syndrome, decompensated cirrhosis, malnutrition, malabsorption
+    - **Exudative effusion:**
+        - <u>Increased capillary permeability</u> - TB, pulmonary embolism and pulmonary infarction, malignancy involving the pleura (e.g. CA lung)
+        - <u>Reduced lymphatic drainage</u> - lymphangitis carcinomatosis
+
+  ![](../img/causes_of_pleural_effusion.png) 
+  ![](../img/common_causes_of_pleural_effusion_and_their_features.png)
+- **Ix:**
+    - **CXR** - erect PA chest film:
+        - <u>Findings suggestive of pleural effusion</u> - requires around 200 ml of fluid to be detected on PA chest film:
+            - Curved shadow at lung base
+            - Blunted costophrenic angle that ascends towards axilla
+            - Loculation of fluid in oblique fissures or localised scarring or adhesion like pleuroidesis (appears at round opacity)
+    - **USG:**
+        - <u>Findings suggestive in transudative effusion</u> - clear hypoechoic space
+        - <u>Findings suggestive in exudative effusion</u> - moving floating densities
+        - <u>Findings suggestive in evolving empyema or resolving haemothorax</u> - septations: 
+        ![](../img/pleural_usg_showing_septations.png)
+    - **Diagnostic paracentesis** - necessary for all patients unless cause is obvious (e.g. LV failure):
+        - **Appearance:**
+            - <u>Straw-colour</u> - tranxudative effusion
+            - <u>Milky</u> - chylothorax
+            - <u>Frank pus</u> - empyema
+            - <u>Blood stained</u> - malignancy, TB, pulmonary infarction, or from a traumatic tap
+        - **Laboratory invesetigations:**
+            - <u>WBC and differentials</u> - detect pleocytosis:
+                - Neutrophilic - suggestive of parapneumonic inflammation
+                - Lymphocytic - suggestive of TB
+                - Monocytic - a machine count error and may reflect presence of malignant cells due to similar cell size
+            - <u>Protein, LDH</u> - distinguishing pleural transudate from exudate by **Light's criteria**: 
+            ![](../img/lights_criteria.png)
+            - <u>Glucose and pH</u> - reduced in high cellular metabolism (e.g. infection, malignancy, active autoimmune disease)
+        - **Microbiology** - G stain, culture +/- AFB stain and culture
+    - **Pleural Bx** - considered if thoracocentesis inconclusive:
+        - US-guided
+        - CT-guided
+        - VATS-guided
+    - **CT thorax** - if suspecting malignant disease
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Symptomatic relief</u> - therapeutic aspiration but never to dryness
+        - <u>Dx and Tx of underlying cause</u> - e.g. fluid and salt restriction and lasix for HF, Tx of pneumonia etc.
+    - **Therapeutic aspiration:**
+        - <u>Role</u> - palliation of breathlessness while acquiring sample for workup
+        - <u>Caution</u>:
+            - Removal of \> 1.5L at a time may risk **re-expansion pulmonary oedema**
+            - Never drained to dryness before diagnosis established, as it precludes pleural Bx until fluid re-accumulates
+
+### Respiratory failure
+
+- **Definition** - failure of gas exchange function to maintain normal arterial oxygen +/- carbon dioxide levels
+- **Pathophysiology of respiratory failure:**
+    - **Local VQ mismatch** - impaired ventilation of part of the lungs (e.g. in asthma or pneumoia), perfusion of that region results in hypoxic and CO2-laden blood entering the pulmonary vein:
+        - <u>Compensatory increased ventilation of neighboring region</u> - overall increased rate of ventilation results in increased ventilation of neighboring region
+        - <u>Effects on CO2 excretion</u> - increased CO2 excretion in neighboring regions, correcting PaCO2 levels
+        - <u>Effects on O2 uptake</u> - no effect in O2 because haemoglobin flowing through those regions is already fully saturated (cf O2-dissociation curve)
+    - **Generalised severe VQ mismatching** - global alveolar hypoventilation resulting in hypoxaemia and leaving insufficient normal lung to correct PaCO2
+- **Mx of acute respiratory failure:**
+    - **Principles of Mx:**
+        - <u>Prompt Dx</u> - enables Mx of underlying cause
+        - <u>O2 therapy</u> - high concentration O2 (with humidified O2) or mechanical ventilation to relieve hypoxaemia
+
+## Obstructive pulmonary diseases
+
+### Asthma
+
+- **Definition** - Asthma is the chronic inflammation of the airway that is defined clinically (<u>GINA 2022</u>) as:
+    - Clinical history of paroxysmal attacks of respiratory symptoms that reflect underlying airflow limitations - e.g. wheezing, breathlessness, chest tightness and coughing
+    - With widespread variable and often reversible airflow limitations that is demonstratable (PEFR, Spirometry)
+- **Epidemiology:**
+    - Prevalence - 300 million individuals worldwide (1-18%), steadily increasing with a predicted additional 100 million affected by 2025
+    - Steady increase in prevalence despite optimal treatment - implies the critical importance of environmental role (e.g. indoor and outdoor allergens)
+
+  
+  ![](../img/world_map_clinical_asthma.png)
+- **Pathophysiology of asthma:**
+    - **Airway hyper-reactivity** (AHR) - tendancy for airways to constrict excessively to benign allergens that have little to no effects sin normal individuals, partly explained by chronic airway inflammation
+    - **IgE-mediated pathway** - clear association between asthma and individuals with 'atopy':
+        - <u>Molecular mechanisms</u> - Binding of allergen to IgE bound to FcR of mast cell triggers <u>mast cell degranulation</u>, resulting in release in histamine, leukotrienes, and eosinophil-chemotaxic facotrs
+        - <u>Pathophysiology</u> - early-phase and late-phase bronchostriction due to degranulation and inflammatory cell recruitment respectively with mucus hypersecretion and airway oedema
+    - **Th2-mediated pathway**
+- **Clinical features of asthma:**
+    - **Recurrent episodic attacks of respiratory Sx** - often related with precipitants (see below):
+        - Wheeze - high-pitched whistling nose occuring at expiration
+        - Dyspnoea - the sense
+        - Cough - may dry or productive (may be the sole symptom in 'cough-variant asthma')
+        - Chest tightness - dull, heavy weight, or band-like constriction felt at the chest
+    - **Characteristic variability temporally:**
+        - <u>Mild asthma</u> - recurrent attacks where they are completely asymptomatic between exacerbations
+        - <u>Severe asthma</u> - persistent respiratory Sx, but often evident to be variable over the course of one day, from day to day, or from month to month
+    - **Characteristic diurnal variation** - respiratory Sx and lung functions are worse in early morning:
+        - <u>Nocturnal asthma</u> (30-70% once a month) - respiratory symptoms disturb sleep, especially when asthma is poorly controlled
+    - **Characteristic precipitants** - attempts to be made at identifying incitent agentsL
+        - <u>Exercise</u> - triggered by variable duration (no pre-defined exercise tolerance in exertional dyspnoea), from brief periods of exersion, to prolonged exercise, and resolves over a longer period of time (e.g. 30-60 min)
+        - <u>Cold weather</u> - often worse on exertion
+        - <u>Viral URTI</u> - a common cause of exacerbation as in any other chronic respiratory condition
+        - <u>Allergens</u>:
+            - Indoor allergens - house dust mites, cockroaches, pet dander
+            - Outdoor allergens - alternaria, pollens
+            - Occupational agents (5-15% of adult onset asthma) - typically suspected on characteristic history of asthmatic symptoms temporarily associated with work-related exposures
+        - <u>Smoking</u> - association of asthma with smoke exposure (e.g. parental smoking)
+        - <u>Air pollution</u>
+        - <u>Medications</u> - e.g. beta-blockers, aspirin and NSAIDs (aspirin-sensitive asthma)
+- **Ix and Dx evaluation** - predominantly <u>clinical diagnosis</u> based on characteristic Hx: 
+![](../img/asthma_dx.png)
+    - **Supportive evidence of variability and reversibility** - documentation of variability and reversibility of lung functions:
+        - <u>Lung function test</u> - demonstrate obstructive pattern on spirometry that is reversible (normal does not exclude Dx as it simply means airflow limitation is not currently present):
+            - **Findings** - FEV1/FVC \< 0.7 with increase in ratio by 12% or FEV1 improvement by 200ml
+            - **Flow-volume loop** - concave pattern (rapid drop in peak flow rate on expiration)
+            - **Other roles** - provides a <u>baseline of reversibility</u>
+
+      
+      ![](../img/bronchodilator_reversibility.png)
+        - <u>Peak expirametry flow</u> (PEFR) - demonstrate variability by serial recordings of peak expiratory flow throughout the day +/- corticosteroid trial (\> 20% diurnal difference considered diagnostic) 
+        ![](../img/pefr_asthma.png)
+        - +/- <u>Bronchoprovacative test</u> - methacholline (histamine or mannitol) challenge to demonstrate <u>AHR</u>
+        - +/- <u>Exercise test</u> - detect drop in lung functions on 6MWT
+    - **Measurement of allergic status:**
+        - CBC - may reveal peripheral blood eosinophilia
+        - Skin prick test - demonstrate atopy
+        - Total or allergen-specific IgE
+    - **Imaging** - typically required in acute attacks:
+        - <u>Hyperinflation of lung fields</u> - typically in acute asthmatic exacerbation
+        - <u>Lobar collapse</u> - as a result of complete obstruction by mucus plug
+        - <u>Flitting infiltrates</u> - allergic bronchopulmonary aspergillosis
+
+1.  Management of asthma
+
+    - **Goals of Mx** - complete control of asthma:
+      - <u>Symptomatology and QoL</u> - absence of 1) daytime Sx, 2) noctural Sx, 3) activity limitation and 4) exacerbations
+      - <u>Pharmacological Mx</u> - minimal reliever therapy use and minimal side effects of Tx (e.g. steroids)
+      - <u>Objective measures</u> - normal lung function test
+
+      
+      ![](../img/levels_asthma_control_davidson.png)
+    - **Assessment of severity** (dynamic, not static) - retrospective assessment, based on intensity of treatment necessary to achieve optimal control of disease:
+      - **Mild asthma** - good asthma control at step 1 or 2 treatment
+      - **Moderate asthma** - good asthma control at step 3 treatment
+      - **Severe asthma** - good control at step 4 or 5 treatment, or completely uncontrollable
+    - **Principles of Mx:**
+      - **General measures:**
+        - <u>Treatment of modifiable risk factors and comorbidities</u> - e.g. obesity, smoking cessation
+        - <u>Patient education and encouragement</u> - understanding nature of condition, PEF testing, action plans for attacks
+        - <u>Avoidance of aggravating factors</u> - esp. important for occupational asthma or those with identifiable precipitating allergen (e.g. pets, house dust mites)
+      - **Pharmacological Mx** - use of combination of reliever therapy, controller therapy and add on therapy based on <u>GINA guidelines</u>: 
+      ![](../img/gina_2024_asthma_mx_tracks.png)
+        - <u>Track 1</u> (preferred track) - based on ICS-formoterol as as-needed rescue therapy (sole use of SABA shown to increase mortality):
+          - Step 1-2 (mild asthma) - as-needed low dose ICS-formoterol (reliever therapy only)
+          - Step 3 - low dose maintenance ICS-formoterol + as needed low dose ICS-formoterol
+          - Step 4 - Moderate dose maintenance ICS formoterol + as needed low dose ICS-formoterol
+          - Step 5 - High dose maintenance ICS formoterol +/- LAMA or add-on therapy +/- specialist referral
+        - <u>Initial regimen</u> - dependent on reporting Sx:
+          - Step 1-2 - Sx \< 3-5/7 with normal lung functions
+          - Step 3 - Sx most days, with nocturnal asthma or low lung functions
+          - Step 4 - daily Sx, with nocturnal asthma, low lung functions, or recent exacerbation
+
+          
+          ![](../img/gina_flowchart_for_initial_asthma_tx.png)
+        - <u>Step down therapy</u> - after optimal control is achieved, decrease dosage of ICS by around 25-50% every 3 mo
+
+2.  Acute exacerbations of asthma
+
+    - **Definition** - punctuation of the disease course by rapid deterioration of symptoms, lung functions, caused by increased airway inflammation, typically triggered by viral infection
+    - **Clinical features of asthma exacerbation:**
+      - Increase in symptomatology - wheeze, SOB, chest tightness and cough
+      - Clinical course - typically gradual deterioration over several hours, but can be sudden in onset (brittle asthma)
+    - **Clinical assessment of asthma:**
+      - <u>Assessment of vital signs</u> - BP/P, RR
+      - <u>Assessment of airflow limitations</u>:
+        - Speech - talking in paragraphs, sentences, words, unable to speak
+        - PEF
+      - Features of acute severe asthma:
+        - Vitals - RR \> 25/min, HR \> 110 bpm
+        - Speech - unable to complete 1 sentence in 1 breath
+        - PEF \< 35-50% of predicted (\< 200 ml)
+
+        
+        ![](../img/clinical_assessment_asthma_severity.png)
+    - **Mx of mild and moderate asthma:**
+      - **'Rescue' oral corticosteroids**:
+        - <u>Rigimen</u> - short courses of PO prednisolone (30-60 mg/d)
+        - <u>Indications</u> - when gradual deterioration of Sx that is not relieved by reliever therapy:
+          - Sx and PEF progressively worsen throughout the day, objectively defined as PEF \< 60% of patients best recording
+          - New onset or worsening nocturnal Sx
+          - Persistent morning Sx until midday
+          - Progressively deminishing response to bronchodilators
+          - Sx sufficient to require nebulised or injected bronchodilators\*\* Chronic obstructive pulmonary disease
+    - **Mx of acute severe asthma:**
+      - Immediate ABG - determine whether in T2RF (near-fatal asthma)
+      - CXR - not immediately required (unless suspcion of pneumothorax)
+      - **General measures:**
+        - <u>O2</u> - high-flow (60%) humidified O2 - titrate to SpO2 \> 92%
+        - <u>NIV/ Mechanical ventilation</u> - if in respiratory acidosis (normal or elevated PaO2)
+        - <u>High doses of inhaled bronchodilators</u>:
+          - Initial regimen - nebulised 5mg salbutamol (or multiple doses via metered-dose inhaler) +/- ipratropium bromide 500 microgram
+          - Further options - IV MgSO4 1.2-2.0g over 20 min, aminophylin 5mg/kg loading followed by continuous invusion (1mg/kg/h)
+        - <u>Systemic corticosteroids</u> - PO prednisolone 40mg or IV hydrocortisone 200 mg (if vomiting or unable to swallow)
+        - <u>Correct fluids and electrolytes (esp. K)</u>:
+          - IV fluid administration - may be beneficial due to insensible water loss through hyperventilation
+          - K supplements - due to risk of hypoK due to repeated SABA use
+      - **Monitoring:**
+        - <u>Vital signs</u> - BP/P, SpO2 (maintain \> 92%)
+        - <u>Lung functions</u> - PEF q15-30min, then subsequently q4-6h after stabilised
+        - <u>Bloods</u> - serum K
+        - <u>Repeat ABG</u> - if initial ABG shows evident respiratory failure, or deterioration
+      - **Indications for assisted ventilation:**
+        - Signs of hypercapnia - e.g. confusion, drowsiness, coma
+        - Signs of respiratory failure - exhaustion, deterioration of ABG despite optimal Tx, respiratory arrest
+
+        
+        ![](../img/ventilation_indications_asthma.png)
+
+      ![](../img/immediate_mx_of_asthma_exacerbations.png) \*\* Bronchiectasis
+
+### Chronic obstructive pulmonary disease
+
+- **Chronic obstructive pulmonary disease** - a clinical syndrome:
+    - **GOLD definition** - A <u>preventable, and treatable disease</u> characterised by <u>chronic, persistent, progressive airflow limitations</u>, with an enhanced chronic inflammatory response of airway to lungs to noxious particles (95% attributable to cigarette smoking)
+    - **Two clinical entities:**
+        - <u>Chronic bronchitis</u> - defined clinically as cough and sputum on most days for at least 3 mo for 2 consecutive years, where other cause of cough and sputum are ruled out
+        - <u>Emphysema</u> - defined pathologically as abnormal permanent enlargement of airspace distal to terminal bronchioles, due to destruction of walls with minimal fibrosis
+- **Epidemiology:**
+    - <u>Prevalence</u> - 80 million affected, forcasted to be 3rd most important cause of death
+    - <u>Demographic</u> - increases w/ age due to prolonged exposure (10% of elderly), male preponderance (M \> F)
+    - <u>Association w/ smokers</u> - accounts for 95% cases of COPD, with ?increased risk if \> 30 pack years
+- **Pathophysiology of COPD:**
+    - <u>Chronic airway inflammation</u> - results in protease-anti-protease imbalance, perbronchial fibrosis, and globlet cell hyperplasia:
+        - **Chronic airway flammation and mucus hypersecretion** - manifests as chronic bronchitis (cough and sputum)
+        - **Protease-antiprotease imbalance** - results in destruction of alveoli wall and hence appearance of emphysema
+        - **Peribronchial fibrosis** - results in <u>premature closure of small airway</u>, causing air trapping and hyperinflation, especially during <u>tachypnoea where expiration is shortened</u> (e.g. exercise):
+            - Manifests as **progressive exertional dyspnoea** - because hyperinflation occuring at exertion results in flattening of diaphragm and horizontal alignment of intercostal muscles, increasing work of breathing
+
+    
+    ![](../img/copd_pathophysiology.png)
+    - <u>Systemic sequelae of osteoporosis</u>:
+        - Weight loss - ?due to altered fat metabolism in response to hypoxaemia
+        - Skeletal muscle weakness - due to progressive deconditioning
+        - Peripheral oedema - attributed to RHF, and excessive salt and water retention by the hypoxic, hypercapnic kidney
+    - <u>Associated comorbidities</u> - attributes to the pathophysiological spiral, and often required to be managed concurrently:
+        - Cardiovascular disease
+        - Cerebrovascular disease
+        - Metabolic syndrome
+        - Osteoporosis
+        - Depression
+        - Lung cancer
+- **Clinical features of COPD:**
+    - <u>Clinical course</u> - persistent, prolonged Sx as COPD is a chronic disease
+    - <u>Cough and sputum</u> - attributed as 'smoker's cough', and prolonged nature fits the definition of chronic bronchitis
+    - <u>Chronic exertional dyspnoea</u> (precipitates presentation to healthcare) - typically progressive in nature initially provoked by exertion (shortened expiration), and advances to resting breathlessness, characterised by functional decline documented by exercise tolerance, or MRC dyspnoea scale
+    - <u>+ve Hx of smoking</u> - consider other DDx in a non-smoker, although it can be possible
+    - <u>Features of late disease</u> - when disease complicated as T2RF, cor pulmonale etc:
+        - **Peripheral oedema** - typically first noticable in advanced disease complicating as RHF (or hypoxic, hypercapnic kidney)
+        - **Morning headaches** - sensitive feature suggestive of hypercapnia
+- **Signs of COPD:**
+    - <u>General examination</u>:
+        - **Stigmata of COPD** - recruitment of accessory muscles, pursed lip breathing, Harrison's sulcus, Hoover's sign, Tripod position, Barrel chest etc.
+        - **Hands** - Tar staining, clubbing is not a feature of COPD and prompts Ix for CA lung
+        - **Legs** - peripheral oedema
+    - <u>Respiratory examination</u>:
+        - **Reduced chest expansion** - typically bilaterally
+        - **Hyperresonant percussion notes** - with loss of liver and cardiac dullness reflecting hyperinflation
+        - **Reduced breath sounds** - typically with long expiratory wheeze +/- crackles if superimposed infections
+- **DDx of COPD:**
+    - Chronic asthma - variability in dyspnoea +/- features of atopy
+    - Tuberculosis - always remain vigilant
+    - Bronchiectasis - typically sputum is purulent in amount (can co-exist with COPD)
+    - Congestive heart failure - known CVS risk factors
+- **Complications of COPD:**
+    - <u>Acute complications</u> - due to superimposed infection, or secondary spontaneous pneumothorax, manifesting as:
+        - Respiratory failure - T1RF or T2RF
+        - Cor pulmonale and RHF
+    - <u>Chronic complications</u>:
+        - Chronic respiratory failure
+        - Secondary polycythaemia
+        - Pulmonary HTN
+        - Cor pulmonale
+        - Bronchial carcinoma
+        - Pulmonary embolism
+
+1.  Ivestigations, Diagnosis and Evaluation of COPD
+
+    - **Aims of Ix:**
+      - Diagnostic evaluation - objective demonstration of the presence of airflow limitation and its severity
+      - Identification of complications - e.g. secondary polycythaemia, pulmonary HTN, cor pulmonale, CA lung
+      - Detecting exacerbations - typically more important in the acute setting
+    - **Common Ix employed in assessment of COPD:**
+      - <u>Routine bloods</u> - CBC, biochemistries
+      - <u>Imaging</u> - CXR, +/- HRCT
+      - <u>Lung function test</u> - spirometry +/- lung volume studies, DLCO
+      - <u>6 min walk test</u>
+      - <u>Sputum and blood culture</u> - typically if suggesting infective episodes
+      - <sub>Oximetry</sub> and <u>ABG</u>
+      - <u>ECG, echocardiogram</u>
+      - +/- <u>Alpha-1-antitrypsin</u> - young (\< 45y) Caucasian
+    - **Routine bloods** - CBC and biochemistries:
+      - **CBC:**
+        - Hb - r/o anaemia (common cause of SOBOE), detect secondary polycythaemia
+        - HCT - detect secondary polycythaemia
+        - WBC - detect infections
+        - Eos - predicts magnitude of effects of ICS
+    - **CXR** - non diagnostic for COPD, typically for <u>r/o of other pathologies and assess comorbidities</u>:
+      - <u>Compatible findings</u> - Hyperlucency and hyperinflation (does not correlate w/ severity)
+      - <u>r/o other DDx of chronic exertional dyspnoea and smoking</u>:
+        - Congestive heart failure - Upper lobe cephalisation, Kerley B lines, peribronchial oedema, Batwing opacity
+        - Bronchiectasis - +/- tramline sign
+        - Lung cancer - pulmonary nodule or mass
+        - Presence of bullae
+      - <u>Assessment of comorbidities</u>:
+        - Cor pulmonale - prominent pulmonary arteries +/- cardiomegaly
+    - **HRCT** - typically r/o bronchiectasis, but enables detection, characterisation and quantification of emphysema and presence of bullae
+    - **Lung function test** - <u>diagnostic</u> and <u>assessment of severity</u>:
+      - <u>Spirometry</u> - post-bronchodilator FEV1/FVC ratio \< 70% (diagnostic), where FEV1% predicted is for assessment of severity
+      - <u>Lung volumes</u> - increased RV and TLC
+      - <u>DLCO</u> - normal or decreased in severe emphysema
+    - **6MWT** - documentation of ET and as a baseline for judging response to bronchodilator therapy or rehabilitation programes
+    - **Assessment of disease severity** - GOLD ABE assessment tool (GOLD 2024):
+      - <u>Assessment of airflow limitations</u> - based on FEV1% predicted (prediction based on weight, and demographic): 
+      ![](../img/copd_airflow_limitation_severity.png)
+      - <u>Assessment of disease severity</u> - implicates management by stratifying patients into ABE groups:
+        - Assessment of symptomatology - mMRC dyspnoea scale or COPD Assessment Tests (CAT)
+        - Number of exacerbations - moderate exacerbations and exacerbations leading to hospitalisation 
+        ![](../img/GOLD_ABE_Assessment_Tool_2024.png)
+
+2.  Management of stable COPD
+
+    - **Goals of Mx:**
+      - Symptomatic relief - reduce Sx, improve ET, improve QoL
+      - Improve prognosis - reduce mortality, prevent disease progression, prevent (reduce frequency and severity) and treat exacerbations
+    - **General measures:**
+      - <u>Removal of exposure of noxious agents</u> - **Smoking cessation** (recommended for all patients):
+        - Evidence - complete cessation a/w improvement of lung functions and deceleration of rate of decline of FEV1 
+        ![](../img/model_of_annual_decline_of_FEV1.png)
+      - <u>Reduce risk of exacerbation</u> - **Vaccination** (annual Flu vaccination + PPV23+PCV13 and SARS-COV2)
+      - <u>As needed SABA</u>
+    - **Pharmacological Mx:**
+      - <u>Initial regimen</u> - dependent on ABE grouping:
+        - Group A - bronchodilator (salbutamol reliever therapy or LABA)
+        - Group B - LABA + LAMA
+        - Group E - LABA + LAMA +/- ICS
+
+        
+        ![](../img/initial_pharmacological_mx_copd.png)
+      - <u>Follow up therapy</u> - adjust according to Sx and previous exacerbation:
+        - <u>Worsening dyspnoea</u> - consider LABA/LAMA, switching inhaler device, or escalation of non-pharmacological Tx
+        - <u>Exacerbations</u> - bronchodilator –\> LAMA/LABA +/- ICS (based on Eos) –\> Add on roflumilast or azithromycin
+
+        
+        ![](../img/step_up_copd_mx.png)
+      - <u>ICS considerations</u>:
+        - **Eos count** - predicts effect of ICS in preventing exacerbations:
+          - Eos \< 0.1 - little to no effect of ICS in preventing exacerbation
+          - Eos \> 0.3 - definite indication of ICS
+        - **High exacerbation risk** - effects of ICS greater in those with high exacerbation risks (i.e. 2 moderate exacerbation or 1 exacerbation leading to hospitalisation in past 1y)
+        - **Pneumonia risk** - increased risk of pneumonia especially if Eos count not elevated
+        - **Asthma-COPD Overlap** - strong level of role of ICS in asthma
+    - **Non-pharmacological Mx:**
+      - <u>Pulmonary rehabilitation programmes</u> - physical training, nutritional counselling, disease education by multidisciplinary efforts
+      - <u>Long-term domiciliary oxygen therapy</u> (LTOT) - O2 concentrator that concentrates O2 from room air and delievers to patients:
+        - **Evidence** - MRC trial reveals that maintaining PaO2 \>= 8kPa for \>= 15h/d increases 3y overal survival
+        - **Treatment goal** - maintain SpO2 \> 90% or paO2 \> 60 mmHg
+        - **Indications:**
+          - Continuous LTOT (\> 15h/d) - Resting PaO2 \< 7.3kPa on 2 separate ocassions 3 weeks apart, or Resting PaO2 \< 8kPa if complications occur (cor pulmonale, pHTN, secondary polycythaemia, nocturnal hypoxaemia)
+          - Intermittent LTOT:
+            - Exercise - PaO2 \< 7.3kPa on low levels of exertion
+            - Nocturnal - PaO2 \< 7.3kPa with associated complications (pHTN, daytime somnolence, cardiac arrhythmias)
+      - <u>Surgical interventions</u>:
+        - **Bullectomy** - large bullae on otherwise normal COPD (limited airflow limitation and lack of generalised emphysema)
+        - **Lung volume reduction surgery** (LVRS) - predominant upper emphysema, with no evidence of pHTN or decreased gas transfer
+        - **Lung transplantation**
+
+3.  Acute exacerbation of COPD
+
+    - **Principles of Mx:**
+      - Identify nature of exacerbation - pneumothorax, acute infection
+      - Assessment of severity - Vitals, SpO2
+    - **Initial Mx:**
+      - **Controlled O2 therapy** - low flow O2 (FiO2 24-28%)
+        - **Indications** - PaO2 \< 8 kPa without worsening acidosis or CO2 retention.
+        - **Aim** - To maintain PaO2 \>= 8 kPa (60 mmHg) or SaO2 (88-92%) while minimising side effects of O2 therapy
+        - **Principles:**
+          - Renal compensation for respiratory acidosis causes a decreased sensitivity on hypercapnic respiratory drive, resulting in increased dependence on hypoxic respiratory drive.
+          - High flow O2 therapy in COPD patients can result in knock out of hypoxic respiratory drive, hypoventilation, and CO2 retention and respiratory acidosis.
+        - **Monitor:**
+          - Clinical status of patient - RR, BP/P, Mental status (CO2 retention)
+          - Pulse ox
+          - Serial ABGs
+        - **C/I:**
+          - Suspected T2RF - O2 therapy may correct underlying hypoxaemia, but unable to correct, or may in fact worsen CO2 retention, because of depressed respiratory drive.
+      - **Nebulised bronchodilators** - salbutamol and ipratropium bromide
+      - **Antibiotics**
+        - Especially if acute exacerbations are **associated with infection**.
+        - Empirical treatment is **clinically indicated when 2 of the following occurs**:
+          - Increased dyspnoea
+          - Increased sputum production
+          - Purulent sputum
+        - Choice of empirical antibiotics:
+          - Augmentin
+          - Cephalosporin
+          - Macrolide
+      - **Systemic corticosteroids**
+        - **Effect** - shorten recovery time, ↑FEV1 and O2, ↓risk of early relapse, treatment of failure
+      - +/- **Non-invasive ventilation**
+        - **Indications** - Progresses into T2RF - Hypercapnia (PaCO2 \> 6 kPa) and acidosis (pH \< 7.35)
+          - Should be considered early in the course of respiratory failure to reduce need for mechanical ventilation and mortality.
+      - +/- **Management of cor pulmonale**
+        - Diuretics
+        - Salt and fluid restriction
+
+### Bronchiectasis
+
+- **Definition** - pathologically defined as abnormal dilatation of the bronchi, where chronic suppurative airway infection, progressive scarring, and lung damage occurs
+- **Etiology of bronchiectasis:**
+    - **Congenital:**
+        - <u>Defective ion transport</u> - cystic fibrosis
+        - <u>Ciliary dysfunction syndrome</u> - primary ciliary dyskinesia (immobile cilia syndrome), Kartagener's syndrome (a/w situs invertus and recurrent sinusitis)
+        - <u>Humoral immunodeficiency</u> - primary hypogammaglobulinaemia
+    - **Acquired** - suppurative infection or obstruction:
+        - <u>Infective</u> - pulmonary tuberculosis, suppurative pneumonia, allergic bronchopulmonary aspergillosis complicating asthma
+        - <u>Obstructing bronchial lesion</u> (localised bronchiectasis) - foreign body (common in children), bronchial tumours, tuberculous hilar LN
+- **Pathophysiology of bronchiectasis:**
+    - **Viscious cycle of infection and obstruction:**
+        - <u>Infection</u> - destructive infection results in chronic inflammation, progressive scarring and obstruction
+        - <u>Obstruction</u> - accumulation of pus beyond an obstructing lesion predisposing to infections
+    - **Chronic inflammatory and fibrotic changes** - resulting in progressive destruction of normal lung parenchyma
+- **Clinical features of bronchiectasis** - chronic progressive disorders a/w frequent bouts of infective exacerbation:
+    - **Cough and sputum** - chronic, daily, persistent cough, w/ compious amounts of foul-smelling (a/w <u>hallitosis</u>) purulent sputum
+    - **Haemoptysis** - <u>blood-streak sputum</u> commonly seen, w/ acute, large-volume haemoptysis occuring during infective exacerbations
+    - **Pleuritic chest pain** - sharp, well-localised pleuritic chest pains as a result of 1) <u>segmental collapse</u> due to retained secretions, or 2) spread of infective process to involve the pleura
+    - **Infective exacerbations** - suggested by increases in:
+        - <u>Systemic Sx</u> - e.g. malaise, anorexia, fever
+        - <u>Respiratory Sx</u> - increased cough, sputum production, purulence, haemoptysis, SOB
+
+  
+  ![](../img/symptoms_of_bronchiectasis.png)
+- **Signs of bronchiectasis** - may be focal or generalised:
+    - **General examination** - weight loss, sputum mug w/ copious amounts of purulent Sx
+    - **Chest examination** - normal if absence of secretions and no lobar collapse:
+        - <u>Coarse crackles</u> - may be heard over the affected areas
+        - <u>Segmental collapse</u> - results in diminished breath sounds +/- overlying bronchial breathing (also seen in advanced disease)
+- **Bronchiectasis is a/w:**
+    - High risk of Pseudomonas aeruginosa infection
+    - Infection by Aspergillus
+    - Infection by various mycobacteria (NTM or MTB)
+- **Ix:**
+    - **Microbiology** - sputum microscopy, C/ST:
+        - <u>Sputum culture</u> - may be susceptiable to Pseudoomonas, mycobacteria, or Aspergillus infections
+    - **CXR** - usually normal unless advanced disease:
+        - **Direct signs of bronchiectasis:**
+            - <u>Tram-track signs</u> - thickened airway walls resulting in visualisation of dilated airways seen in horizonatal orientation (+/- cystic bronchiectic spaces)
+            - <u>Tubular opacities</u> - mucous filled bronchi
+            - <u>Ring opacities</u> - dilated end-on bronchi
+
+      
+      ![](../img/cxr_bronchiectasis_tram_track.png)
+        - **Indirect signs of bronchiectasis:**
+            - <u>Lobar collapse</u> - loss of vascular markings +/- ipsilateral tracheal deviation
+    - **High-resolution CT** - much more Sn and diagnostic:
+        - <u>Signet-rign sign</u> - evidence of bronchial dilatation defined as internal bronchial diameter greater than adjacent pulmonary artery
+        - <u>Lack of bronchial tapering</u> - limited diminishing in calibre as the bronchials extend to periperies
+
+    
+    ![](../img/hrct_bronchiectasis.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>General measures to reverse underlying pathology</u> - ICS/ broncodilators to maintain airway patency; aggressive PT for expectoration of excessive bronchial secretions
+        - <u>ABx therapy</u> - ABx therapy during acute exacerbations +/- maintenance macrolide therapy to prevent exacerbations
+        - <u>Surgical Tx</u> - excision of the bronchiectatic areas in selected cases of focal bronchiectasis
+- **Prognosis** - poor prognosis if a/w congenital causes
+
+### Cystic fibrosis
+
+## Infections of the respiratory system
+
+### Upper respiratory tract infection
+
+- **Definition** - infections of the upper respiratory tract encompassing the nasal cavity to the larynx
+- **Epidemiology** - most common of all communicable diseases (most frequent cause of sick leaves)
+- **Microbiology:**
+    - Viral (mainly)
+- **Clinical spectrum of upper respiratory tract infections:**
+    - <u>Acute coryza</u> (common cold)
+    - <u>Acute rhinosinusitis</u>
+    - <u>Acute pharyngitis</u>
+    - <u>Acute laryngitis</u>
+    - <u>Acute tracheobronchitis</u>
+    - <u>Pertussis</u> (whooping cough)
+
+1.  Acute coryza
+
+    - **Definition** - most common URTI caused by infection predominantly of the nasal cavity
+    - **Microbiology** - rhinovirus in most cases
+    - **Clinical features of acute coryza:**
+      - <u>Non-specific Sx</u> - malaise
+      - <u>Nasal Sx</u> - nasal obstruction, nasal discharge, sneezing, cough
+      - <u>Sore throat</u> - if pharynx is involed
+      - <u>Hoarseness</u> - if larynx is involed
+      - <u>Wheezing and chest tightness</u> - if lower respiratory tract involved (tracheitis or bronchitis), consider formal Dx of asthma if this is present in repeated URTIs
+      - <u>Exacerbation of chronic lung diseases</u> - simple coryzal illness can trigger exacerbation of asthma and COPD
+    - **Mx:**
+      - Supportive Mx - antipyretics, analgesics, nasal decongestants
+
+### Pneumonia
+
+1.  Community-Acquired Pneumonia
+
+    - **Epidemiology:**
+      - **Incidence** - 5-12% of LRTIs
+      - **Age** - affects all age groups, extremely common cause at extremes of age:
+        - Children - first in mortality of children worldwide
+        - Elderly - propensity to ease passing of the frail and old ("Old man's friend)
+    - **Etiological agents of CAP**:
+      - Typical bacteria
+        - Streptococcus pneumoniae (most common)
+        - Haemophilus influenzae
+        - Moraxella catarrhalis
+        - Staphylococcus aureus
+        - GAS
+        - Aerobic G- bacteria (Klepsiella spp, E coli)
+      - Atypical bacteria
+        - Mycoplasma pneumoniae
+        - Chlamydia pneumoniae
+        - Chlamydia psittaci
+        - Legionella Spp
+        - Coxiella burnetii
+      - Viral - Influenza A and B, SARS-COV-2
+    - **Clinical features of CAP:**
+      - **Clinical picture of acute respiratory illness** with **compatible respiratory and systemic features**:
+        - <u>Systemic Sx</u> - Fevers, chills, rigors, malaise, headaches, reduced appetite +/- Altered state of consciousness (delirium)
+        - <u>Respiratory Sx</u>:
+          - Cough and sputum - Characteristically short, painful and dry initially, but becomes mucopurulent.
+          - Dyspnoea
+          - +/- Haemoptysis
+          - Pleuritic chest pains - if inflammation extends to visceral pleura (may refer to shoulder or anterior abdominal wall)
+          - Abdominal tenderness - lower lobe pneumonia
+      - **Compatible clinical context** (TOCC) - Travel, Occupation, Contact, Clustering
+      - **Compatible signs:**
+        - **Vitals** - low BP, SpO2, increased HR, RR, +/- delirium (assessment of mental state), fever
+        - **Respiratory Examination** - Reduced chest expansion, dull percussion in consolidation pattern, bronchial breath sounds, increased vocal resonance (whispering pectoriloquy), coarse crackles throughout
+      - **Atypical pneumonia** (Walking pneumonia):
+        - **Etiological agents** - Mycoplasma, Chlamydia, Legionella
+        - **Presentation with syndrome of pneumonitis** - less severe respiratory complaints, more prominent systemic complaints
+        - **Ix** - normal WBC counts +/- lymphopenia
+    - **DDx of CAP:**
+      - **Infective** - Acute bronchitis, URTIs (Influenza, COVID-19), TB
+      - **Exacerbations of obstructive lung diseases** - Asthma, COPD, Bronchiectasis
+      - **Non-infective diseases manifesting as cough and pulmonary opacities**
+        - ADHF - Pulmonary oedema
+        - Pulmonary embolism or Pulmonary infarction
+        - Malignancy - CA lung (if presenting with actelactesis)
+        - Atelectasis
+        - Aspiration or chemical pneumonitis
+        - Pulmonary eosinophilia
+        - Rare conditions of ILD - Cryptogenic organising pneumonia, bronchiolitis obliterans organising pneumonia
+    - **Clinical approach to CAP:**
+      - **Clinical diagnosis of pneumonia** - compatible clinical, and radiological findings
+        - **Clinical diagnosis** - compatible systemic and respiratory S/S
+        - **Radiological diagnosis** (CXR) - Consolidation pattern in lobar pneumonia, patchy inifiltrates in bronchopneumonia, detection of complications (parapneumonic effusions, abscesses, empyema thoracis)
+      - **Additional Ix:**
+        - **CBC** - WBC and differential (neutrophilic and lymphocytic)
+          - **WBC** - very high (\> 20) or low (\< 4) are markers of severity.
+          - **Neutrophilic leukocytosis** (\> 15) - suggestive of bacterial aetiology
+          - **Haemolytic anaemia** - may be a complication of mycoplasma
+        - **RFT** - urea, hypoNa (SIADH)
+          - **Urea** (\> 7 mmol/L) - marker of severity
+          - **HypoNa** (SIADH) - marker of severity
+        - **LFT:**
+          - **dLFT** if RLL involvement inflames liver
+          - **Hypoalbuminaemia** - a marker of severity (negative APP)
+        - +/- **ABG** if suspecting respiratory failure - perform when desaturation \< 93% or with suggestive clinical features of acidosis and ventilatory failure
+        - **Microbiological diagnosis:**
+          - Sputum and blood culture (C/ST)
+          - +/- Atypical pneumonia serology (only retrospective) - acute and convalescent titres for mycoplasma, chlamydia, legionella and viral infections
+          - Nasopharyngeal aspirate or swab for influenza or atypical pneumonia
+          - Urine antigen test - Legionella or pneumococcus
+          - Cold agglutinins - +ve in 50% patients with mycoplasma
+        - +/- Thoracocentesis - indicated if more than trivial amounts
+      - **Assessment of severity:** - decision of clnical setting for Mx (outpatient, inpatient, ICU)
+        - **CURB-65 score** - Confusion, Urea \> 7 mmol/L, Respiratory Rate \> 20, BP (\< 90/60 mmHg), Age \> 65
+          - \
+          ![\](<https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJethro%2FY8oIJjjIYN.png?alt=media&token=b5c16907-9ae3-456b-b103-45b2d9f7b824>)
+          - Score \> 2 - Hospital admission
+          - Score \> 3 - Severe pneumonia
+          - Score \> 4 - assess for ICU admission
+        - **Poor prognostic markers:**
+          - Demographic - old age
+          - Blood tests (CBC, LRFT, ABG) - Extreme WBC, Urea, HypoNa, Hypoalbuminaemia, Hypoxaemia on room air (\< 8 kPa)
+          - CXR - Multilobar involvement
+          - Blood culture - bacteraemia
+      - **Initiate empirical ABx treatment** and retrospective diagnosis of pneumonia
+        - **Principles** - Microbiological diagnosis is retrospective, empirical Tx is guided by clinical context (comorbidities, immune status, previous ABx use), severity assessment, local knowledge of ABx resistance patterns
+          - **Severity** - Cover S. pneumoniae for all CAP, and cover P. aeruginosa for all severe CAP
+        - **Timing** - best within 6-8h of onset
+        - **Choice of empirical ABx for CAP in HK** - Penicillin with beta-lactamase inhibitor (typical coverage) +/- macrolide or tetracycline (atypical coverage)
+          - e.g. Augmentin + clarithromycin, azythromycin, and doxycycline
+        - **Duration** - 7-10d
+    - **Mx:**
+      - **Supportive** - O2 +/- ventilatory support, analgesia/ antipyretics, chest physiotherapy, IV fluids
+        - O2
+          - Indications - for all patients with tachypnoea, hypoxaemia, hypotension or acidosis
+          - Target - \> SpO2 \> 92%, PaO2 \> 8 kPa
+          - Modalities - High-flow O2 (35%) in non-invasive O2 therapy +/- CPAP if remains hypoxic
+        - Analgesics/ antipyretics:
+          - Selection - Paracetamol, co-codamol, NSAIDs
+          - MOA - relieve of pleural pain to enable normal breathing and efficient coughing
+        - Chest physiotherapy
+        - IV fluids:
+          - Indications - dependent on hydration status, severity of illness and age
+        - Misc - treatment of underlying COPD and control cardiac arrhythmias
+      - **Empirical ABx Tx** (see above)
+
+2.  Hospital-acquired Pneumonia
+
+    - **Definition of HAP** - Pneumonia that occurs \> 48h after hospitalisation
+    - **Epidemiology:**
+      - 2nd most common nosocomial infections (10-20%)
+      - Mortality - 30% despite appropriate Tx (prevention is paramount)
+    - **Pathogenesis** - aspiration of oropharyngeal secretions contaminated with hospital acquired organisms.
+    - **Etiological agents:**
+      - Early HAP (\< 4-5d of admission) - similar etiology as CAP
+      - Late HAP:
+        - G- bacilli - e.g. Klebsiella, pneumoniae. E. coli
+        - Non-fermenters - Pseudomonas aeruginosa, Acinetobacter baumanii
+        - Drug-resistant bacteria - MRSA, MRAB, MRPA, CPE
+        - Anaerobes - bacteriodes
+    - **Clinical features of HAP** - Variable and non-specific:
+      - Occurs in individuals with predisposing factors:
+        - \
+        ![\](<https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJethro%2FJ-VxQhoqx7.png?alt=media&token=2c6c52e8-fae2-407b-bbb5-236869c0b04e>)
+        - **Reduced host defense against bacteria:**
+          - Reduced cough reflexes (post-operative)
+          - Disordered muco-cilliary escalator - post-GA
+          - Immunosuppression - corticosteroids, DM, malignancy, general debility and old age
+        - **Aspiration of nasopharygeal and gastric secretions:**
+          - Immobility/ reduced conscious level
+          - Vomiting, dysphagia, achalsia and severe reflux
+          - NG tube
+          - Drugs increasing risk of aspiration - Post-GA, H2 blockers
+        - **Bacteria introduced into lower respiratory tract** - mechanical ventilation, dental or sinus infections
+        - **Bacteraemia**
+      - Important differential diagnosis for hospitalised patients with unexplained onset of acute respiratory illness and compatible features - e.g. purulent sputum, new radiological infiltrates, unexplained increase in O2 requirement, pyrexia, changes in WBC
+      - Non-specific clinical picture of HAP a/w many other ddx (requires ruling out) - VTE, ARDS, Pulmoary oedema, pulmonary haemorrhage and drug toxicity
+    - **Clinical approach to HAP** - similar as in CAP:
+      - **Ix:**
+        - **Imaging** - CXR
+        - **Blood Tests** - CBC, LRFT, ABG, ESR, CRP
+        - **Microbiology** (increased emphasis to rule in HAP) - sputum and blood culture
+      - **Empirical ABx Tx:**
+        - **Principles** - cover CAP (S. pneumoniae) and HAP (Resistant G+ve, Resistant G-, and anaerobes), choice of drugs dependent on whether previous ABx use well
+        - **Early onset HAP + no previous ABx use:**
+          - **Empirical regimen** - cover typical CAP pathogens by augmentin
+        - **Recent ABx use or Late onset ABx use**:
+          - **Empirical regimen** - cover HAP pathogens:
+            - **Anti-pseudomonal beta-lactam/ beta-lactamase inhibitor** - Piperacillin-tazobactam
+            - **Anti-pseudomonal cephalosporin** - Cefepime
+            - **Antipseudoponal carbepenem** - imipenem, meropenem
+            - **Vancomycin** (if MRSA suspected)
+
+3.  Suppurative pneumonia, aspiration pneumonia and pulmonary abscess
+
+    - **Definitions and terminology** - conditions grouped together due to overlapping etiology and clinical features:
+      - <u>Suppurative pneumonia</u> - pathologically characterised by destruction of lung parenchyma by the inflammatory process, with microabscess formation as a characteristic histological feature
+      - <u>Lung abscess</u> - lesions with large localised collection of pus or cavity lined by chronic inflammatory tissue, where pus has escaped by rupture into the bronchus
+      - <u>Aspiration pneumonia</u> - inhalation of septic material from the upper aerodigestive tract into the lungs, resulting in suppurative pneumonia and lung abscess
+    - **Pathophysiology of aspiration pneumonia, suppurative pneumonia and pulmonary absess:**
+      - **Aspiration as the inciting icident** - inhalation of septic material in the upper aerodigestive tract during operations under general anaesthesia, or coma (esp. if oral hygiene is poor), but ocassionally complicate from local bronchial obstruction by FB or neoplasm
+      - **Additional risk factors predisposing to aspiration pneumonia:**
+        - <u>Reduced GC</u> - coma, delirium, operation under general anaesthesia, alcoholism
+        - <u>Regurgitation</u> - GERD, esophageal motility disorders (achalasia, Zenker's diverticulum)
+        - <u>Impaired gag reflexes</u> - old stroke, bulbar palsy, vocal cord palsy
+      - **Collection of aspiration in the dependent area of the lungs** - classically in the apical segments of the lower lobes in a supine patients
+    - **Etiological agent of aspiration pneumonia** - polymicrobial in common with typical flora of the upper aerodigestive tracts:
+      - Anaerobes - Bacteriodes bacterioides spp, fusobacterium spp
+      - Microaerophillic cocci
+    - **DDx of suppurative pneumonia and lung abscess:**
+      - <u>Superimposed bacterial infection of pulmonary infarct or lobar collapsed</u> - isolated organisms are similar to those of CAP (S. pneumoniae, S. aureus, S. pyogenes, H. influenzae, ocassionally anaerobes)
+      - <u>Community-acquired MRSA infection</u> (CA-MRSA) - cytotoxin Panto-Valentine leukocidin often responsible for suppurative skkn infections may be associated with rapidly progressive, severe necrotising pneumonia
+      - <u>Lemierre's syndrome</u> - deep neck space infection presenting as sore throat, painful swollen neck, and systemic upset, with subsequent dissemination of the organism (F. necrophorum) through involvement of the carotid sheath resulting in thrombosis and metastatic spread of the organism
+      - <u>Infective endocarditis of tricuspid or pulmonary valves</u> - injection drug users are at particular risk of developing haematogenous lung abscesses
+    - **Clinical features of suppurative pneumonia:**
+      - <u>Cough and sputum</u> - sudden onset of cough w/ copious amounts of sputum, often fetid or even blood stained (haemoptysis), where sudden expectoration of copious amounts of foul sputum indicates abscess ruptures into bronchus
+      - <u>Chest pain</u> - sharp, well localised chest pains attributable to pleurisy is common
+      - <u>Profound systemic upset</u> - often a high-remitting fever with chills rigors, ane even marked weight loss
+    - **Signs of suppurative pneumonia:**
+      - <u>General examination</u> - often extremely unwell, in respiratory distress:
+        - Marked weight loss - reflects rapid deterioration of health
+        - Clubbing - may develop quickly within 10-14d
+      - <u>Respiratory examination</u> - consolidation pattern on chest examination (reduced chest expansion, dull percussion notes, reduced breath sounds +/- coarse crackles, increased vocal resonance, pleural rub)
+    - **Ix:**
+      - **CXR:**
+        - <u>Findings of suppurative pneumonia</u> - homogenous lobar or segmental opacity consistent w/ consolidation or collapse
+        - <u>Findings of lung abscess</u> - cavitation and air-fluid level
+      - **Other routine Ix** - see above in CAP
+    - **Mx:**
+      - **Principles of Mx:**
+        - <u>Supportive Tx</u> - e.g. O2, chest physiotherapy
+        - <u>Prolonged course ABx</u> - up to 4-6 weeks may be rqeuired in some patients w/ lung abscess
+        - <u>Surgical Tx</u> - contemplated if no improvement occurs despite optimal medical therapy
+      - **IV ABx:**
+        - <u>Empirical regimen</u>:
+          - Aspiration pneumonia - IV augmentin 1.2g q8h +/- PO metronidazole 400mg tid (for anaerobic coverage)
+          - CA-MRSA infection - responsive to vancomycin and variety of oral non-beta-lactam ABx
+        - <u>Streamlining of ABx regimen</u> - based on clinical response and microbiological results
+
+### Tuberculosis
+
+- **Definition** - infection caused by <u>Mycobacterium tuberculosis</u> (MTB), part of a complex organisms including M. bovis (reservoir cattle), and M. africanum (reservoir human)
+- **Epidemiology:**
+    - **Incidence** - declining incidence of TB, but its impact on world health remains significant (8.8 million incident cases worldwide in 2010)
+    - **Burden:**
+        - <u>Mortality</u> - second most common cause of death attributable to infective disease (1.5 million deaths worldwide in 2010)
+        - <u>Geographic variation</u> - high prevalence in world's poorest nations due to:
+            - Economic struggle - unable to cover the cost of management and control programs
+            - Lack of appropriate healthcare - particularly important factor in former Soviet Union and Baltic States
+            - Increased HIV incidence - particular in Africa, where immunosuppression due to AIDs results in increased risk of TB
+
+      
+      ![](../img/worldwide_incidence_of_tb.png)
+- **Microbiology of MTB:**
+    - **Route of transmission:**
+        - <u>Air-bourne transmission</u> - MTB spread by inhalation of aerosolised droplet nuclei from other infected agents
+        - <u>Food-bourne transmission</u> - M. bovis infection arises from drinking non-sterilised milk from infected cows
+- **Pathogenesis of TB:**
+    - **Inhalation of inciting agent** - inhalation of aerosolised droplet nuclei from other infected patients, where MTB becomes lodged in the alveoli and incites a sequelae of immune response
+    - **Type 4 Hypersensitivy Reaction** - delayed hypersensitivity reaction after phagocytosis of MTB by macrophages:
+        - <u>Phagocytosis by macrophages</u> - AFB is subjected to phagocytosis by macrophages, but are resistant to lysosomal degradation, resulting in recruitment of lymphocytes to mediate a chronic granulomatous inflammation
+        - <u>Formation of tuberculous granuloma</u> - Macrophage undergoes transformation into epitheloid cells, and fuse to form Langhans Giant Cell, surrounded by a belt of lymphocytes to form the classical tuberculous granuloma
+        - <u>Formation of primary lesion</u> - multiple tuberculous granuloma aggregate to give the macroscopic lesion 'Ghon focus', a pale yellow, caseous nodule with a few millimeters to 1-2 cm in diameter
+        - <u>Similar pathological process in regional LN</u> - spread of organisms in the to hilar LN will be followed by the same cell-mediated immunity, where the primary lesion and regional LN is referred to as the **Primary Complex of Ranke**
+    - **Contained infection** - reparative process encases the primary complex of Ranke within a fibrous capsule to limit the spread of AFB - so called latent TB, the lesion becomes calcified and is clearly seen on CXR
+    - **Failure of reparative measure:**
+        - <u>Direct extension of primary lesion</u> - failure of reparative measures to contain the infection results in direct extension of primary lesion, resulting in primary progressive pulmonary disease (10% lifetime risk after primary infection)
+        - <u>Lymphatic and haematogenous spread of AFB</u> - disseminated infection may occur before immunity is established, seeding secondary foci in organs, including LN, serous membranes, meninges, bones, liver, kidneys and lungs, remaining dormant but can manifest as <u>Extra-pulmonary TB</u>
+
+    
+    ![](../img/pathogenesis_of_primary_pulmonary_tb.png)
+- **Natural history of untreated primary infection** - 10% lifetime risk of progressive primary disease (half of which occur within first 2y): 
+![](../img/natural_hx_of_untreated_primary_tb.png)
+- **Risk factors of TB:**
+    - **Patient demographic and TOCC Hx:**
+        - <u>Age</u> - higher incidence in extremes of age (children and elderly)
+        - <u>Travel</u> - travel to endemic regions; first generation immigrates from high-prevalence countries
+        - <u>Contact</u> - close contact of patients with smear-positive pulmonary TB
+        - <u>Clusters</u> - overcrowding (prisons, collective dormitories); homelessness (doss houses and hostels)
+        - <u>Smoking</u> - increased riwk with cigarette smoking
+        - <u>Documented TB</u> - CXR evidence of self-healed TB, primary infection \< 1y previously
+    - **Associated comorbidities:**
+        - Diabetes mellitus
+        - Chronic kidney disease
+        - Immunosuppression - HIV, Anti-TNF therapy (RA), high-dose corticosteroids, cytotoxic agents
+        - Malignancy - especially haematological malignancies such as leukaemia and lymphoma
+        - Interstitial lung disease - asbestosis and silicosis
+        - Malnutrition - e.g. gastrectomy, jejuno-ileal bypass, CA pancreas, malabsorption
+        - Vitamin deficiency - esp. Vit. A and D
+        - Recent measles in children
+
+    
+    ![](../img/factors_increasing_risk_of_tb.png)
+- **Clinical features of MTB** - great mimicker due to the variety of presentation:
+    - <u>Pulmonary TB</u> - refers to TB resulting in pulmonary disease
+    - <u>Extra-pulmonary TB</u> - refers to TB manifestations outside the lungs, and is more common in the **immunocomprimised**
+- **Clinical features of pulmonary TB:**
+    - **Primary pulmnary TB** - infection of a previously uninfected (tuberculin-negative) individual:
+        - **Asymptomatic** - incidental finding of pulmonary TB on CXR
+        - **Prodrome** - most patients are completely asymptomatic during primary infection, but some develop **self-limiting febrile illness** (influenza-like illness)
+        - **Progressive pulmonary disease** - progressive primary disease may present in the initial illness or after a latent period of weeks or months, which can present as:
+            - <u>Chronic cough</u> - often characterised by a chronic dry cough, often with **haemoptysis**
+            - <u>Constitutive Sx</u> - a prodrome of low-grade pyrexia of unknown origin, night sweats, anorexia, weight loss and general debility may be present prior to clinical presentation
+            - <u>Unresolved pneumonia</u> - fever, cough with sputum, and dyspnoea with consolidation pattern on CXR not responding to empirical ABx Tx
+            - <u>Collapse</u> - sudden onset of dyspnoea due to collapse (especially of right middle lobe)
+            - <u>Pleural effusion</u> - progressive SOB with clinical and radiological evidence of exudative pleural effusion
+            - <u>Spontaneous pneumothorax</u> - pleurisy and acute SOB with compatible clinical and radiological findings of pneumothorax
+        - **Hypersensitivity reaction** - Erythema nodosum, Dactylitis, Phyctenular conjunctivitis may precipitate clinical presentation
+        - **Miliary TB** - blood-borne dissemination of TB prior to the onset of reparative process to contain the infection, which may present 1) acutely as progressive pulmonary disease, or 2) with marked constitutional symptoms and a dry cough:
+            - <u>Acute pneumonia-like illness</u> - pneumonia picture with wide-spread crackles bilaterally common in advanced disease
+            - <u>Prodrome</u> - 2-3 weeks of dry cough and systemic upset prior to clinical presentation:
+                - Dry cough
+                - Low-grade fever
+                - Night sweats
+                - Anorexia
+                - Unintentional weight loss
+            - <u>Classical CXR findings</u> - fine 1-2mm lesions ('millet seeds') distributed throughout lung fields
+            - <u>Bicytopenia/ Pancytopenia</u> - anaemia and leukopenia on CBC reflect BM involvement
+        - **Cryptic TB** - unusual presentation of miliary TB with normal CXR especially in infirmed patients: 
+        ![](../img/cryptic_tb.png)
+    - **Post-primary TB** - exogenous ('new' infection) or endogenous ('reactivation' of dormant primary lesion) infection in a person sensitised (tuberculin-sensitive) by earlier exposure:
+        - <u>Preponderance to apex of upper lobe</u> - direct extension of a reactivated primary lesion towards the apex of upper lobe due to high O2 tension favouring growth of a strictly aerobic organism
+        - <u>Similar clinical course as primary TB</u> - insiduous onset of systemic S/S and accompanied by progressive Sx: 
+        ![](../img/clinical_presentation_of_pulmonary_tb.png)
+- **Clinical features of extrapulmonary TB** - extra-pulmonary T accounts for 20% of cases in those who are HIV-negative, but is more common in HIV-positive individuals:
+    - **Lymphadenitis** - most common extrapulmonary manifestation and represents a primary infection, spread from contiguous sites, or reactivation:
+        - <u>Site</u> - cervical and mediastinal LN most common, followed by axillary and inguina LN (multiple regions may be involved)
+        - <u>Onset</u> - insiduous onset
+        - <u>Progression</u> - progressive enlargement
+        - <u>Quality</u>:
+            - Pain - painless enlargement of LN
+            - Texture - soft and fluctuant due to caeseous necrosis and liquefaction, and may discharge through skin with the formation of 'collar-stud' abscess and sinus formation
+            - Mobility - initially mobile but subsequently matted together
+        - <u>Associated Sx</u> - 50% fail to show any constitutional features (e.g. fever or night sweats), but tuberculin test is always strongly positive
+        - <u>Paradoxical enlargement</u> - during treatment, paradoxical enlargement represents immune reconstitution with new nodes and suppuration, but without evidence of continued infection
+    - **Gastrointestinal TB** - can affect any part of the bowel, but 50% of cases are attributable to ileocecal disease:
+        - <u>Abdominal mass</u> - RLQ mass may be palpable as a result of mesenteric adenitis
+        - <u>Acute abdomen</u> - accounts for 30% of clinical presentation of gastrointestinal tuberculosis:
+            - Intestinal obstruction - due to narrowing, shortening and distortion of the bowel particularly over the caecum
+            - Tuberculous peritonitis - acute onset of abdominal distension, pain and constitutional Sx, where diagnostic paracentesis reveals exudative ascitic fluid predominately w/ lymphocytes (multiple tubercles over omentum on laproscopy)
+        - <u>Hepatic dysfunction</u> - frank icteric, w/ mixed hepatic/ cholestatic picture typically seen in miliary TB
+    - **Pericardial disease** - disease occurs in two forms, 1) pericardial effusion, and 2) constrictive pericarditis
+    - **CNS disease** - TB meningitis is the most important forms of TB often presenting with headache and neck stiffness, and is highly fatal and debilitating
+    - **Bones and joint disease** - TB spine (thoracic and lumbar) may manifest as chronic back pain, or in large joints such as hip or knee
+    - **Genitourinary disease** - renal tract TB, endometritis, salpingitis, tubo-ovarian abscess, epididymitis or prostatitis
+
+  
+  ![](../img/extra_pulmonary_tb.png)
+- **Chronic complications of TB:** 
+![](../img/chronic_complications_of_pulmonary_tb.png)
+- **Ix and Dx of TB** - chronic cough or suspicious CXR changes should prompt further microbiological investigations:
+    - **CXR** - characteristic findings of pulmonary TB:
+        - <u>Consolidation</u> - pneumonia-like picture
+        - <u>Collapse</u> - lobar opacification with ipsilateral mediastinal shift
+        - <u>Cavitation</u> - cavitating lesions
+        - <u>Miliary diffuse shadowing</u> - fine 1-2mm lesions distributed throughout lung fields, although ocassionally the appearance is coarser
+        - <u>Pleural effusion</u> - blunting of costophrenic angle with fluid level
+
+    ![](../img/cxr_findings_suggestive_of_pulmonary_tb_and_ddx.png) 
+    ![](../img/typical_radiographic_changes_in_tb.png)
+    - **Sputum examination** - G stain (microscopy), culture, nuclei acid amplification and ABx sensitivity testing:
+        - <u>Sputum microscopy</u> (Ziehl-Neelsen staining) - +ve smear sufficient for presumptive Dx, Sn **proportional to bacillary burden in sputum** (typically +ve when 5000-10000 organisms present)
+        - <u>Sputum culture</u> - **cornerstone for definitive Dx**, considered in both smear-positive cases and smear-negative cases:
+            - **Medium and culture time:**
+                - Solid media (LJ or Middlebrook media) - slower growth (4-6 weeks)
+                - Liquid media (BATEC or MGIT) - faster growth (1-3 weeks)
+        - <u>Drug Sn testing</u> - important in those w/ previous Hx of TB, treatment failure, or HIV positive patients
+        - <u>Nucleic acid amplification</u> - potential role in aiding diagnosis and detection of rifampacine resistance (considered test of 1st choice in those w/ HIV or those suspected with MDR-TB)
+    - **Immunoloigcal tests** - e.g. tuberculin skin test (low Sn/Sp only useful in primary or deep seated infections)
+    - **Baseline bloods** - CBC, LRFT, ESR/CRP
+    - **Additional Ix** - reserved for extra-pulmonary TB:
+        - <u>Diagnostic thoracocentesis</u> - consider AFB smear and culture, ADA testing if present with pleural effusion
+        - <u>Diagnostic paracentesis</u> - considered if suspecting tuberculous peritonitis
+        - <u>Lumbar puncture</u> - if suspected TB meningitis
+        - <u>Joint aspiration</u> - if suspected TB of a particular joint
+        - <u>Early morning urine culture</u> - if suspected genitourinary TB
+        - <u>Tissue biopsy</u> - e.g. BM examination/ liver biopsy may be diagnostic in milary TB
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Prolonged multi-drug ABx</u> - 6mo therapy for all patients with new onset pulmonary TB, 12mo recommended for menigneal TB, TB spine
+        - <u>Monitoring for treatment responsiveness</u> - further sputum smear or culture +/- radiographs to detect tratment responsiveness
+        - <u>Regular monitoring for adverse drug reactions</u> - baseline LFT
+    - **Anti-tuberculous therapy** - 2mo of HRZE an 4mo of HR for all pulmonary TB: 
+    ![](../img/overview_of_anti_tb_medications.png)
+
+1.  Opportunistic mycobacterial infections
+
+    - **Definition** - infections caused by other environmental mycobacteria (i.e. non-tuberculous mycobacterium \[NTM\]) causing human diseases
+    - **Risk factors for opportunistic mycobacterial infections:**
+      - <u>Immunocomprimised hosts</u> - severe HIV disease (CD4 count \< 50/mL) is a/w MAC pulmonary infection
+      - <u>Immunocompetent host w/ chronic lung disease</u>:
+        - COPD
+        - Bronchiectasis (may present w/ lower-zone nodules)
+        - Pneumoconiosis
+        - Old TB
+    - **Forms of NTM** - most commonly reported organisms include M. kansasii, M. malmoense, M. xenopi, and M. abscessus: 
+    ![](../img/site_specific_mycobacterial_disease.png)
+    - **Rapid growers** - all others tend to grow slowly:
+      - M. abscessus
+      - M. fortuitum
+
+### Respiratory diseases caused by fungi and Aspergillosis
+
+- **Definition** - Bronchopulmonary aspergillosis is caused by Aspergillus fimigatus, but other members of the genus (A. clavatus, A. flavus, A. niger, A. terrus) ocassionally cause disease
+- **Classification of bronchopulmonary aspergillosis:**
+    - Allergic bronchopulmonary aspergillosis (asthmatic pulmonary eosinophilia)
+    - Extrinsic allergic alveolitis (Aspergillus clavatus)
+    - Intracavitary aspergilloma
+    - Invasive pulmonary aspergillosis
+    - Chronic and subacute pulmonary aspergillosis
+
+1.  Allergic Bronchopulmonary Aspergillosis
+
+    - **Definition** - hypersensitivity reaction against germinating fungal spores in the airway resulting in pulmonary eosinophilia, often complicating the course of asthma and cystic fibrosis
+    - **Epidemiology** - prevalence in 1-2% of asthma, and 5-10% of CF
+    - **Clinical features of ABPA** - preddictable clinical course where clinical features depend on the stage of disease:
+      - **Early phase:**
+        - Fever
+        - Breathlessness
+        - Cough productive of bronchial cast
+        - Worsening of asthmatic symptoms
+      - **Late phase** - proximal bronchiectasis (inner two-thirds of chest CT field) where Sx of bronchiectasis overshadow that of asthma
+    - **Ix:**
+      - **CXR** - radiographic infiltrates (mistakened as pneumonia), segmental/ lobar collapse in patient with stable asthma Sx
+      - **CT thorax** - proximal bronchiectasis
+      - **Blood tests:**
+        - <u>CBC</u> - peripheral blood eosinophilia \> 0.5 x 10<sup>9</sup>/L
+        - <u>Serum IgE</u> - \> 10000 ng/mL
+        - <u>Antigen-specific IgE</u> - elevated serum IgE (A. fumigatus) or IgG (A. fumigatus)
+
+      
+      ![](../img/diagnostic_criteria_of_abpa.png)
+    - **Mx:**
+      - <u>Itraconazole</u> - 400 mg/d with 4mo trial to assess efficacy
+      - <u>Corticosteroids</u>:
+        - **Low-dose regular therapy** (Prednisolone 7.5-10mg/d) - indicated for all ABPA with aims of suppressing the immunopathological response and prevent progression into proxmal bronchiectasis
+        - **High-dose seteroids** (Predinisolone 40-60 mg/d) - indicated with acute exacerbation of ABPA a/w new CXR changes
+      - <u>Bronchoscopy</u> - indicated for persistent lobar collapse to remove impacted mucus and ensure prompt re-inflation
+
+2.  Aspergilloma
+
+    - **Definition** - Lodging and genermination of inhaled aspergillus in areas of damaged lung tissue, forming a fungal ball, or 'aspergilloma'
+    - **Simple vs complex aspergilloma:**
+      - <u>Simple aspergilloma</u> - single aspergilloma cavities in a diseased area of lung
+      - <u>Complex aspergilloma</u> multiple aspergilloma cavities in a diseased area of lung
+    - **Important causes of intra-pulmonary cavities:**
+      - Cavitations from old tuberculosis infections (most common)
+      - Cavitation from healed lung abscess
+      - Bronchiectatic space
+      - Pulmonary infarct
+      - Anklylosing spondylitis
+      - Sarcoid
+      - Cavitated tumour
+    - **Clinical features of aspergilloma:**
+      - <u>Asymptomatic</u> - discovered as an incidental pulmonary nodule on CXR and subsequently worked up through CT
+      - <u>Non-specific systemic features</u> - lethargy and weight loss may also be reported
+      - <u>Haemoptysis</u> - complex aspergilloma can result in recurrent haemoptysis and can be severe and life-threatening (thus indicated for surgical excision)
+    - **Ix:**
+      - **CXR** - pulmonary nodule (appears as a tumour-like opacity suspicious for bronchial carcinoma)
+      - **HRCT** - enables distinguishing of aspergilloma and tumour by virtue of <u>crescent of air surrounding fungal ball</u>
+      - **Sputum:**
+        - <u>Microscopy</u> - demonstrates scanty hyphal fragments
+        - <u>Culture</u> - typically returns +ve (rarely other fungi are indetified on culture)
+      - **Serum precipitins to A. fmigatus** - elevated in virtually all patients
+      - **Skin test** - only \< 50% exhibit skin hypersensitivity because this is not an allergic condition
+    - **Mx** - does not require Tx for asymptomatic case (no role of antifungal or steroids):
+      - **Surgical excision** - indicated for aspergilloma complicated by haemoptysis in surgical candidates
+      - **Pallitative procedures** - indicated for unfit patients:
+        - Local instillation of amphoterocin B
+        - Bronchial artery embolisation (control haemoptysis)
+
+3.  Invasive pulmonary aspergillosis
+
+    - **Definition** - necrotising pneumonia caused by invasive aspergillus infection in an immunocomprimised patient due to <u>profound neutropenia</u>
+    - **Risk factors of IPA:**
+      - <u>Neutropenia</u> - risk related to duration and degree of neutropenia
+      - <u>Prior transplantation on immunosuppression</u> - solid organ or allogenic stem cell transplantation
+      - <u>Steroids</u> - prolonged high-dose corticosteroid therapy
+      - <u>Haematological malignancies</u> - especially leukaemia
+      - <u>Chemotherapy</u> - especially T-cell suppressants (e.g. cyclosporin, anti-TNF agents
+      - <u>HIV</u> - only in advanced AIDS
+      - <u>Others</u> - severe COPD, critically ill patients, chronic granulomatous disease, SCID
+    - **Clinical features of IPA** - must be considered for any immunocomprised patients who present with fever, new respiratory Sx, or a pleural rub:
+      - **Systemic upset** - e.g. fever
+      - **New respiratory Sx** - virtually a pneumonia-like picture, but particularly presents with pleurisy and haemoptysis:
+        - <u>Pleural pain</u> - sharp, well-localised pleural pain due to visceral pleural involvement, or pulmonary vessel invasion resulting in thrombosis and infarction
+        - <u>Haemoptysis</u> - due to invasion into pulmonary vessels and tracheobronchial ulcerations
+      - **Characteristic bronchoscopic findings of tracheobronchial aspergillosis** - tracheobronchial ulceration, fungal plaques, pseudomembranes or eschar seen on bronchoscopy
+    - **Ix:**
+      - **CXR** - non-specific changes
+      - **High resolution CT:**
+        - <u>Macronodules</u> - dense, well circumscribed lesions (\>= 1cm) which may be surrounded by halo of low attenuation if captured early (\< 5d)
+        - <u>Air crescent</u> - air cresents surrounding fungal mass
+        - <u>Cavitations</u> - cavitating lesions in the lung fields
+      - **Bronchoscopy** - typically required for culture and histopathological evidence but patients are typically too ill
+      - **Other tests:**
+        - <u>Aspergillus cell wall component</u> - e.g. Galactomannan antigen or beta-1.3-glucan in plasma, serum or BAL fluid
+        - <u>Aspergillus DNA</u> - PCR
+    - **Dx criteria of IPA** - Dx inferred from combination of risk factors, clinical, bronchoscopic or mycological criteria: 
+    ![](../img/diagnostic_criteria_of_ipa.png)
+    - **Mx:**
+      - <u>Antifungal therapy</u>:
+        - 1st line therapy - voriconazole
+        - 2nd-line therapy - liposomal amphotericin, caspofungin, posaconazole
+      - <u>Assessment of Tx responsiveness</u>:
+        - Clinical improvement
+        - Radiological evidence - features of immune reconstitution with enlargement/ cavitation of pulmonary nodules
+        - Serological evidence - decrease in level of circulating galactomannan level
+    - **Prevention:**
+      - <u>General care</u> - high-efficiency particulate air filters and laminar airflow
+      - <u>Prophylaxis</u> - e.g. posaconazole (200 mg tid) or itraconazole (200mg/d)
+
+## Tumours of the bronchus and lung
+
+### Primary tumours of the lung
+
+- **Definition** - primary neoplasia arising from the bronchial epithelium
+- **Epidemiology:**
+    - <u>Incidence</u> - increased dramatically in 20th century as a direct result of tobacco epidemic
+    - <u>Mortality</u> - mortality rates continue to increase especially in F (more wommen die of lung cancer than breast cancer in US, UK and HK)
+- **Pathology of bronchial carcinoma** - arises from bronchial epithelium or mucous glands:
+    - **Histological subtype of bronchial carcinoma** - SCLC vs NSCLC:
+        - <u>Squamous cell carcinoma</u> (SCC) - typically arises centrally, but can arise peripherally often resulting in central necrosis and cavitation, morphologically resembling a lung abscess
+        - <u>Adenocarcinoma</u> (AD) - typically arises peripherally
+        - <u>Small cell carcinoma</u> (SCLC) - aggressive form of lung cancer characteristcally develop wide-spread metastatic spread even with a small primary tumour
+        - <u>Large cell carcinoma</u>
+    - **Location of bronchial carcinoma** - 70% seen in the upper lobe:
+        - <u>Central tumours</u> - occurs in large bronchus and are often SCC, enabling earlier presentation with Sx
+        - <u>Peripheral tumours</u> - occurs in peripheral bronchus, and can grow very large without producing Sx, resulting in delayed Dx
+- **Mode of spread of bronchial carcinoma:**
+    - **Direct invasion:**
+        - <u>Pleura</u> - manifests as malignant pleural effusion and pleurisy
+        - <u>Chest wall</u> - invasion into intercostal nerves manifests as musckuloskeletal pain
+        - <u>Brachial plexus</u> - results in pain in the UL
+        - <u>Left-recurrent laryngeal nerve</u> - results in unilateral vocal cord palsy, bovine cough, and hoarsenes
+    - **Lymphatic spread** - spread to mediastinal LN, cervical and supraclavicular LN (often before Dx)
+    - **Haematogenous spread** - commonly to liver, bone, brain, adrenals and skin
+- **Clinical presentations of bronchial carcinoma** - reflects local, metastatic or paraneoplastic tumour effects:
+    - **Features of local tumour:**
+        - **Cough** (earliest Sx) - typpicaly dry but can be a/w sputum in secondary infection (bronchial obstruction), classically 'bovine cough' occurs with RLN invasion
+        - **Haemoptysis** - particularly common with central bronchial tuomours that ulcerates and bleeds and should always be investigated to r/o bronchial carcinoma (rarely, massive haemoptysis occurs as a result of tumour invasion into large vessels)
+        - **Breathlessness** - may be caused by 1) atelectasis, 2) pneumonia, 3) malignant pleural effusion and 4) diaphragmatic paralysis due to compression of phrenic nerve
+        - **Bronchial obstruction** - partial obstruction or complete obstruction results in different presentation:
+            - <u>Partial obstruction</u> - manifests as a monomorphic unilateral **wheeze** that does not clear with coughing, and also **pneumonia due to impaired mucus drainage** that is often recurrent over the same site and resistant to Tx
+            - <u>Complete obstruction</u> - manifests as **atelactasis** (collapse) resulting in SOB, ipsilateral mediastinal shift, dullness to percussion and reduced breath sounds
+    - **Features of direction invasion of the tumour:**
+        - **Pleurisy** - sharp, well-localised pain that is exacerbated by breathing may indicate malignant pleural invasion, but may also be caused by parapneumonic effusion
+        - **Nerve entrapment** - direct invasion into nerves resulting in nerve entrapment syndromes:
+            - <u>Intercostal nerves</u> - direct invasion into chest wall can result in intercostal nerve entrapment manifesting as **pain in the distribution of thoracic dermatome**
+            - <u>Brachial plexus</u> (**Pancoust syndrome**) - direct invasion of C8-T1 roots of the brachial plexus by apical tumour (Pancoust tumour) manifests as pain on the inner aspect of the arm (C8-T1), and intrinsic hand-muscle wasting
+            - <u>Sympathetic chain ganglion</u> (**Horner's syndrome**) - direct invasion of sympathetic chain ganglion at or above the stellate ganglion results in **ipsilateral partial ptosis, endopthalmos, miosis, and hypohidrosis**
+            - <u>Phrenic nerve</u> - invasion into phrenic nerve results in ipsilateral diaphragmatic paralysis and **SOB**
+            - <u>Recurrent laryngeal nerve</u> - invasion into recurrent laryngeal nerves results in ipsilateral vocal cord paralysis, resulting in **hoarseness** and classical **bovine cough**
+        - **Mediastinal spread** - direct invasion into mediastinal structures or due to lymphatic spread into mediastinal LN:
+            - <u>Esophagus</u> - direct invasion into esophagus may cause **dysphagia**
+            - <u>Pericardium</u> - invasion into pericardium may result in **arrhythmia** or **pericardial effusion** (ocassionally tamponade)
+            - <u>Superior vena cava</u> - malignant nodes may result in SVC syndrome resulting in suffusion and swelling in neck and face, conjunctival, oedema, headache, and dilated veins on chest wall
+    - **Features of nodal metastasis** - palpable or sonographically detected enlarged supraclavicular LN rpovides a simple means of <u>cytological Dx</u> on FNAC
+    - **Features of metastatic spread** - patient presents with marked constitutional Sx such as lassitude, anorexia, and marked weight loss:
+        - <u>Liver</u> - presents with hepatocellular jaundice
+        - <u>Brain</u> - focal neurological deficits, epileptic seizures, personality changes etc.
+        - <u>Bone</u> - bone pain and pathological fractures
+        - <u>Skin</u> - skin nodules
+    - **Paraneoplastic syndrome** - non-metastatic extra-pulmonary manifestations:
+        - **Finger clubbing** - overgrowth of soft tissue under the nail beds, leading increased nail bed fluctuations and increased nail curvature
+        - **Hypertrophic pulmonary osteoarthropathy** (HPOA) - painful peri-ostitis of the distal tibia, fibula, radius and ulna with some local tenderness and pitting oedema often seen over the shin
+        - **Endocrine manifestations** - SIADH and ectopic ACTH production are characteristic for SCLC:
+            - <u>SIADH</u> - manifestation as euvolemic hyponatraemia
+            - <u>Ectopic ACTH production</u> - manifests acutely as Cushing's syndrome, but electrolyte changes such as hyperK is much more marked than metabolic changes (as these are influenced by the cachexic effect of tumour)
+            - <u>HyperCa of malignancy</u> - may be attributable to bone metastasis, and ocassionally due to secretion ot PTH-related peptides
+        - **Neurological manifestations** - polyneuropathy, myelopathy, cerebellar degeneration, myasthenia (Lambert-Eaton syndrome)
+
+    
+    ![](../img/non-metastatic_extrapulmonary_effect_of_bronchial_carcinoma.png)
+- **Ix** - histological Dx and define the extent of disease:
+    - **CXR** - various radiological presentations conisistent with presentation of pulmonary nodule but are non-diagnostic:
+        - **Pulmonary nodule or nass:**
+            - <u>Unilateral hilar enhargement</u> - typically represents a central tumour arising from large bronchi, but peripheral tumour on the apical segment of lower lobe can appear as **enlarged hilar shadow**
+            - <u>Unilateral pulmonary nodule or mass</u> - as an irregular, but well-circumscribed mass +/- cavitations
+        - **Lung, lobar or segmental collapse** - caused by <u>complete bronchial obstruction</u>:
+            - 1\. Opacification of lung fields (+/- lost of vascular markings)
+            - 2\. Ipsilateral mediastinal shift
+            - 3\. Ipsilateral elevation of hemidiaphragm
+            - 4\. Compensatory emphysema of the contralateral lung
+        - **Ipsilateral pleural effusion** - blunting of costophrenic level with fluid level often indicative of pleural invasion
+        - **Broadening of mediastinum** - occurs with paratracheal lymphadenopathy resulting in widening of the upper mediastinum
+        - **Enlarged cardiac shadow** - with pericardial effusion
+        - **Elevation of ipsilateral hemidiaphragm w/o collapse** - suggestive of phrenic nerve palsy resulting in diaphragm paralysis
+        - **Rib destruction** - osteolytic lesions of the ribs caused by direct invasion of chest wall or haematogenous metastasis
+
+    
+    ![](../img/radiographic_presentations_of_bronchial_carcinoma.png)
+    - **CT T+A+P** - definitive staging workup necessary for all suspected bronchial carcinoma:
+        - **Role of computed tomography:**
+            - 1\. <u>Initial staging information</u> - reveal mediastinal or metastatic spread which precludes further staging workup
+            - 2\. <u>Planning of biopsy procedure</u> - establish whether tumour is accessible by bronchoscopy or percutaneous CT-guided Bx
+        - **Findings consistent with malignant nodule** - see detailed notes on incidental pulmonary nodule
+    - **Cytology and histological diagnosis:**
+        - **Sputum cytology** - low yield (reserved for patients unfit for invasive procedures)
+        - **Diagnostic thoracocentesis and pleural Bx** - preferred investigation for those presenting w/ pleural effusion
+        - **Bronchoscopy with transbronchial biopsy** (+/- bronchial washings and brushings) - 75% of primary lung tumours can be <u>directly visualised and sampled by TBB</u>:
+            - <u>Bronchoscopic procedures</u> - see details on incidental pulmonary nodule
+            - <u>Test properties</u> - dependent on size and location of tumour:
+                - Centrally located tumour - high Sn and Sp if the tumour is directly visualised under bronchoscope
+                - Peripherally located tumour - low yield for blind bronchial washings and brushings for peripheral tumours too peripheral to be accessible by bronchoscope
+        - **Percutaneous needle Bx** - more reliable for patients w/ peripheral tumours
+        - **Needle aspiration or Bx of distant metastasis** - e.g. SCLN, skin lesions, liver, bone marrow
+- **Dx** - definitive Dx requires <u>cytological/ histological Dx</u> from either primary tumour, LN, and distant metastasis
+- **Staging sytsem for bronchial carcinoma** - different staging system and prognosis for NSCLC and SCLC:
+    - **TNM staging for NSCLC and prognostic groups:** 
+    ![](../img/tnm_staging_and_prognostic_grouping_of_nsclc.png)
+- **Principles of staging:**
+    - <u>Dependent on histopathology</u>:
+        - SCLC - propensity to metastasise early dictates that patient with SCLC are not suitable for surgical intervention
+        - NSCLC - careful staging Ix to guide Mx
+    - <u>Dependent on clinical presentation</u>:
+        - Routine staging Ix - CT T+A+P, EBUS, EUS and PET-CT are performed for all patients with NSCLC
+        - Specific Ix based on clinical, haematological or biochemical evidence - head C, radionuclide bone scanning, liver USG, bone marrow biopsy
+- **Staging Ix:**
+    - **CT T+A+P** - detection of distant metastasis and locoregional staging by detecting mediastinal nodes
+    - **Locoregional staging** - sampling of suspicious LN identified on CT:
+        - <u>Mediastinoscopy</u> - assessment of suspicious upper mediastinal nodes
+        - <u>Bronchoscopy with radial endobronchial ultrasound</u> (R-EBUS TBB) - assessment of suspicious upper mediastinal LN
+        - <u>Endoscopic USG</u> - assessment of suspicious lower mediastinal LN by sampling through the esophageal wall
+    - **PET-CT** - whole body 18-FDG scans to detect metabolically active tumour metastasis
+- **Mx:**
+    - **Principles of Mx** - multidisciplinary approach:
+        - **Goals of Mx**:
+            - Treatment of curative intent - surgical resection is the only Tx of curative intent and carries the best hope of lung-term survival, but radical chemoradiation also achieves prolonged remission in some patients
+            - Patiative Tx - supportive care with chemoradiation can help relieve distressing Sx
+            - General Mx - Mx of complications and endocrine manifestations of bronchial carcinoma
+        - **Factors affecting Mx of bronchial carcinoma:**
+            - <u>Histopathology</u> - NSCLC should opt for surgical resection whenever possible, while SCLC are often disseminated at presentation but extremely responsive to chemotherapy
+            - <u>Staging</u> - escalation of Tx based on prognostic stage for NSCLC
+            - <u>Patient health</u> - patient's cardiopulmonary function often precludes surgery
+        - **Stage-based Tx of NSCLC:**
+            - <u>Stage I disease</u> (T1-2aN0) - surgical resection of tumour for all surgical candidates
+            - <u>Stage II disease</u> (\<T3N1 disease) - surgical resection of tumour for all surgical candidates (+/- post-operative aduvant chemotherapy)
+            - <u>Stage III disease</u> (T3N1) - radical chemoradiation +/- immunotherapy
+            - <u>Stage IV disease</u> (M1) - palliative systemic therapy, immunotherapy
+        - **Stage-based Tx of SCLC:**
+            - <u>Limited stage SCLC</u> - combined chemoradiation (+/- surgical resection in rare cases)
+            - <u>Extensive-stage SCLC</u> - chemotherapy
+    - **Surgical resection:**
+        - <u>Indications</u> - considered for all surgical condidates:
+            - Stage I disease - N0 disease, tumour confined with visceral pleura
+            - Stage II disease - ipsilateral peribronchial and hilar LN involvements resected
+        - <u>Outcomes</u> - best hope for long-term survival for NSCLC:
+            - Stage I disease - 75% 5y survival
+            - Stage II disease - 55% 5y survival
+    - **Radiotherapy** - much less effective than surgery:
+        - <u>Indications for radiotherapy</u>:
+            - **Indications in NSCLC:**
+                - <u>Early lung cancer</u> (Stage I-II disease) - can offer long-term survival in selected patients with localised disease in whom comorbidity pre-cludes surgery
+                - <u>Locally advanced lung cancer</u> (Stage III disease) - often combined with chemotherapy if LN involved
+                - <u>Metastatic lung cancer with distressing local complications</u> (Stage IV disease) - e.g. SVC obstruction, recurrent haemoptysis, pain caused by chest wall invasion, skeletal metastatic deposits, large bronchial obstruction
+            - **Indications in SCLC** - conjunction with chemotherapy, where prophylactic cranial irradiation is efficient in preventing development of brain metastasis in those who have complete response to chemotherapy
+    - **Chemotherapy** - details added later
+    - **Laser therapy and endobronchial stenting** - palliative measures to maintain airway patency:
+        - <u>Laser therapy</u> - palliation of major airway obstruction through bronchoscopic laser Tx to clear tumour tissue and allow re-aeration of collapsed lung
+        - <u>Endobronchial stenting</u> - maintain airway patency in face of extrinsic compression
+
+### Secondary tumours of the lung
+
+- **Common primary tumours in lung metastasis** - often haematogenous spread from a distant primary:
+    - Breast cancer
+    - RCC
+    - Cancer of the corpus uteri
+    - Ovarian Cancer
+    - Testicular Cancer
+    - Thyroid cancer
+- **Pathophysiology and clinical features of lung metastasis:**
+    - <u>Blood-bourne metastasis of primary tumour</u> - secondary deposits from haematogenous metastasis is usually multiple and bilateral ('<u>cannon ball lesion</u>') but is often **asymptomatic**, but may cause **dyspnoea** if considerable amount of lung tissue has been replaced by lung metastasis
+    - <u>Lymphatic metastasis of primary tumour</u> - arising from lymphatic infiltration (**lymphangitic carcinomatosis**) in patients with carcinoma of the breast, stomach, bowel, pancreas or bronchus, resulting in **rapidly progressive breathlessness** a/w hypoxaemia
+    - <u>Direct invasion from primary tumour</u> - e.g. carcinoma of the esophagus, may manifest as **haemoptysis and lobar collapse**
+- **Palliation of lung metastasis** - opiates may help w/ breathlessness
+
+### Tumours in the mediastinum
+
+- **4 compartments of the mediastinum:**
+    - Superior mediastinum
+    - Anterior mediastinum
+    - Middle mediastinum
+    - Posterior mediastinum
+
+  
+  ![](../img/the_division_of_the_mediastinum.png)
+- **DDx of mediastinal mass:** 
+![](../img/ddx_of_mediastinal_mass.png)
+- **Clinical features of mediastinal mass:**
+    - <u>Asymptomatic</u> - benign tumours and cysts in the mediastinum are often diagnosed incidentally for CXR, and are often asymptomatic as they do not invade vital structures
+    - <u>Compressive effects on trachea and main bronchi</u> - manifests as cough, breathlessness, stridor or lung collapse if causing complete obstruction
+    - <u>Compressive effects on esophagus</u> - due to dysphagia
+    - <u>Left recurrent laryngeal nerve palsy</u> - results in hoarseness and bovine cough
+    - <u>Sympathetic trunk</u> - Horner's syndrome
+    - <u>Superior vena cava</u> - results in SVC obstruction
+    - <u>Pericardium</u> - results in pericarditis and/or pericardial effusion
+- **Ix:**
+    - <u>CXR</u> - mediastinal tumour appears on CXR as sharply circumscribed mediastinal opacity encroaching on one or both lung fields
+    - <u>CT thorax</u> - Ix of choice for mediastinal tumours
+    - <u>Bronchoscopy</u> - if Dx of bronchial carcinoma clinically likely
+    - <u>Mediastinoscopy</u> - visualisation and Bx of mass in the superior and anterior mediastinum
+- **Mx** - surgical removal of mediastinal tumour as most results in compressive tumour sooner or later
+
+## Interstitial and infiltrative pulmonary diseases
+
+### Diffuse parenchymal lung disease
+
+### Lung diseases due to systemic inflammatory disease
+
+- **Types of respiratory involvement in systemic inflammatory disease:**
+    - Acute Respiratory Distress Syndrome (ARDS)
+    - Respiratory involvement of connective tissue disease:
+        - Rheumatoid arthritis (RA)
+        - Systemic lupus erythromatosus (SLE)
+        - Systemic sclerosis (SSc)
+        - Dermatomyositis/ polymyositis (Dm, Pm)
+        - Rheumatic fever
+
+  
+  ![](../img/respiratory_complications_of_CTD.png)
+- **Rheumatoid arthritis** - pumonary involvement accounts for 10-20% of RA mortality:
+    - <u>Clinical presentation</u>:
+        - Respiratory Sx after diagnosis - typically 5y after diagnosis
+        - Pulmonary involvement preceeding joint involvement - in 10-20% of patients
+    - <u>Respiratory complications of RA</u>:
+        - **Parenchymal involvement:**
+
+            - <u>Pulmonary fibrosis</u>, typically in <u>NSIP</u> pattern (most common) - may be Tx-related (methotrexate)
+            - <u>Rheumatoid pulmonary nodules</u> (typically asymptomatic) - important DDx includes primary and secondary lung tumours, TB (also cavitating, esp on anti-TNF), can predispose to pneumothorax
+
+      
+      ![](../img/rheumatoid_pulmonary_nodules.png)
+
+            - <u>Infections</u> - may be Tx-related (steroids)
+
+        - **Pleural involvement:**
+
+            - <u>Pleural effusion</u> (typically in M with sero-+ve disease) - exudative effusion with, reduced glucose and marked increase in LDH, typically small and unilateral but can be large and bilateral (may respond to short course PO prednisolone 30-40 mg/d)
+            - <u>Pneumothorax</u> - due to ruptured rheumatoid nodules
+
+        - **Bronchial involvement:**
+
+            - <u>Bronchititis</u>
+            - <u>Obliterative bronchiolitis</u> - fatal complication
+            - <u>Bronchiectasis</u>
+            - <u>Crico-arytenoid arthritis</u>
+- **Systemic lupus erythematosus** - CTD with the most pulmonary involvement:
+    - <u>Clinical presentation</u> - can present prior to or after diagnosis of SLE
+    - <u>Respiratory complications of SLE</u>:
+        - **Parenchymal involvement:**
+            - <u>Infection</u> - due to immunosuppression (r/o immediately in SLE patients w/ SOBOE)
+            - <u>Diffuse alveolitis with diffuse alveolar haemorrhage</u> - fatal complication
+            - <u>Pulmonary fibrosis</u> - extremely rare in SLE, but an important ddx is 'shrinking lung syndrome' (diaphragmatic myopathy)
+        - **Pleural involvements:**
+            - <u>Pleurisy and pleural effusion</u> - 2/3 patients experience repeated episodes of pleurisy +/- effusion (check for synovitis affecting pericardium)
+        - **Vascular involvement:**
+            - <u>DVT and PE</u> - in patients who have APLS
+        - **Chest wall involvement:**
+            - 'Shrinking lungs' syndrome - presents as progressive SOBOE and orthopnoea with no signs of PF, caused by low-grade myositis of the diaphragm
+- **Systemic sclerosis** - typically more pulmonary involvement with DCSS:
+    - <u>Respiratory complications of SLE</u>:
+        - **Parenchymal involvement:**
+            - <u>Diffuse pulmonary fibrosis</u> - almost all patients with diffuse SSc develop diffuse pulmoanry fibrosis along disease course
+            - <u>Aspiration pneumonia</u> - due to esophageal involvement
+
+### Pulmonary eosinophilia and vasculitides
+
+- **Terminology:**
+    - **Pulmonary eosinophilia** - the association of radiographic (usually pneumonic) abnormalities with <u>peripheral blood eosinophilia</u>
+    - **Pulmonary vasculitides** - vasculitic involvement of the pulmonary vasculature
+- **Etiology of pulmonary eosinophilia:**
+    - Extrinsic - e.g. Helminths, Drugs, Fungal (Allergic bronchopulmonary aspergillosis)
+    - Intrinsic:
+        - Cryptogenic eosinophilic pneumonia - e.g. acute eosinophilic pneumonia, chronic eosinophic pneumonia
+        - Vasculitc involvement:
+            - Churg-Strauss syndrome
+            - Polyarteritis nodosa
+
+  
+  ![](../img/pulmonary_eosinophilia.png)
+
+### Lung diseases due to irradiation and drugs
+
+### Rare interstitial lung diseases
+
+
+![](../img/rare_interstitial_lung_disease.png)
+
+## Occupational and environmental lung disease
+
+### Occupational airway disease
+
+1.  Occupational asthma
+
+    - **Common causative agents of occupational asthma:**
+      - Isocyanates
+      - Colophony and fluxes
+      - Aldehydes
+      - Latex
+      - Wood dust
+      - Flour and grain dust
+      - Animals
+    - **High-risk occupations:**
+      - Paint sprayers (Aldehyde)
+      - Bakers and pastry-makers (Flour and grain dust)
+      - Chemical workers
+      - Nurses (latex)
+    - **Clinical features of occupational asthma** - adult onset asthma
+    - **Clinical suspicion** - individuals of working age who develop new-onset asthma Sx, especially with improvement in asthma symptoms during periods away from work (e.g. weekends, holiday)
+    - **Ix:**
+      - **PEFR** - demonstrate marked improvement of lung functions when away from work, compared with at work:
+        - Serial recordings of PEFR 4 times a day for at least 3 weeks
+        - Best if include periods not at work
+
+        
+        ![](../img/pefr_in_occupational_asthma.png)
+      - +/- **Challenge tests** - may be required to confirm Dx
+    - **Mx:**
+      - **Principles of Mx:**
+        - <u>Allergen avoidance</u> - removal of exposure, or consider personal protective equipments and workplace hygiene (good prognosis if Hx of Sx and deteriorated lung functions are short-lasting)
+        - <u>Medical Mx of asthma</u> - escalation of asthma Mx if avoidance fails to bring about resolution
+
+2.  Reactive airway dysfunction syndrome
+
+    - **Definition** - also known as acute irritate induced asthma, refers to the development of <u>persistent-asthma like syndrome</u> following single exposure of airway irritant at very high concentrations
+    - **Clinical features of reactive airway dysfunction syndrome:**
+      - Persistent Asthma-like symptoms
+      - Persistent poor lung functions with reactive airways
+
+3.  Chronic obstructive lung disease
+
+    - **Definition** - rare incidence of COPD not caused by tobacco smoking, but by other noxious particles, e.g. coal dust, crystalline sillica and cadmium
+
+4.  Byssinosis
+
+    - **Definition** - small airway disease related to prolonged exposure to cotton brack (dried leaf and plant), often found in workers at cotton and flax mills
+    - **Clinical features of byssinosis** - progressive small airway disease, with Sx most severe on first day of working week ('Monday fever'):
+      - Progressive exertional dyspnoea
+      - Chest tightness
+
+### Pneumoconiosis
+
+### Asbestos-related lung and pleural disease
+
+### Lung diseases due to organic dusts
+
+### Occupational lung cancer
+
+### Occupational pneumonia
+
+## Pulmonary vascular disease
+
+### Pulmonary Embolism
+
+- **Pulmonary embolism** - a form of venous thromboembolism where a venous thrombus is formed (principally in proximal DVT), dislodges and emboli to the pulmonary vasculature.
+
+- **Etiology of pulmonary embolism:**
+
+    - Deep vein thrombosis (80%) - typically proximal
+    - Septic emboli - e.g. IE of tricuspid or pulmonary valves
+    - Abnormal sites of venous thromboembolism - UL, intra-abdominal veins etc.
+
+- **Pathophysiology of pulmonary embolism:**
+
+    - **Pre-disposition to venous thromboembolism** - Presence of provoking and non-provoking risk factors modifying Virchow's Triad (Stasis, Hypercoagulability, Endothelial Injury)
+    - **Pathophysiological response to PE** - highly dependent on the size, number and distribution of emboli:
+        - **Infarction** - typically seen in acute small PE in the segmental pulmonary arteries or downstream (more superficial), causing inflammatory response of the lung and adjacent pleura (+/- **pleural effusion**)
+            - **Clinical manifestations** - Pleuritic chest pains, haemoptysis, pleural effusion
+        - **Gas exchange deficits** - Altered V/Q ratio, and inflammatory response leading to surfactant dysfunction and atelectasis (shunting)
+            - **Clinical manifestations** - breathlessness and hypoxaemia
+        - **Haemodynamic comprimise** - typically seen in massive PE (e.g. saddle emboli), causing raised pulmonary vascular resistance (due to hypoxic vasoconstriction and thrombus)
+            - **RV failure** (due to pulmonary hypertension) - raised JVP, RV gallop rhythm, loud P2, severe cyanosis
+            - **LV failure** (due to reduced preload) - syncope and collapse, crushing central chest pain
+
+- **Clinical features of pulmonary embolism** - clinical presentation extremely variable, dependent on number, size, distribution of emboli, and underlying cardiorespiratory reserve
+
+    - **Presence of recognizable risk factor** (80-90%) - ref VTE notes
+
+  
+  ![](../img/clinical_features_of_pulmonary_embolism.png)
+
+    - **Symptoms:**
+        - **Small PE** - Dyspnoea at rest or on exertion (73%), Pleuritic chest pains (66%), Unilateral calf/ thigh pain and swelling (44%), Sx of haemodynamic collapse
+        - **Large PE** - Central crushing chest pains, syncope, collapse, severe dyspnoea
+    - **Signs:**
+        - **Small PE** - Sinus tachycardia, pleural rub, crackles, effusion, low-grade fever
+        - **Large PE** -Tachycardia, hypotension, S/S of pHTN and RV failure (raised JVP, RV gallop, loud P2), severe cyanosis, reduced urinary output
+
+- **Clinical approach to suspected pulmonary embolism:**
+
+    - **Initial evaluation:**
+        - **Blood tests** - CBC, LRFT, ESR, lactate, TnT, NT-proBNP, Clotting profiles
+
+            - **CBC** - mild reactive leukocytosis
+            - **Markers of RV strain** - Increased LDH, AST, lactate, TnT, NT-proBNP
+            - **RFT** - assessment of renal functions for administration of contrast in CTPA
+            - **Clotting profiles** - baseline for Tx
+
+        - **SpO2 and ABG** (can be normal in up to 17% of those with suspected PE):
+
+            - **Hypoxaemia**, Widening AA-gradient, hypocapenia, respiratory alkalosis - typical findings in acute small PE
+            - **Hypercapnea and mixed respiratory/ lactic acidosis** - suggestive of massive PE
+
+        - **CXR:**
+
+            - **Role** - r/o other causes of acute pleurisy and dyspnoea (e.g. pneumonia, pneumothorax)
+
+      
+      ![](../img/suggestive_features_of_PE_CXR.png)
+
+            - **Non-specific findings** - e.g. pleural effusion, atelectasis, pulmonary opacities
+            - **Specific findings**:
+                - **Hampton hump** - wedge-shaped opacity in the periphery 
+                ![](../img/hampton_hump.png)
+                - **Palla sign** - enlarged pulmonary artery
+                - **Westermark sign** - sharp cut-off due to oligaemia of segmental lung field 
+                ![](../img/westermark_sign.png)
+
+        - **ECG**
+
+            - **Role** - r/o AMI, pericarditis
+            - **Small PE** - Non-specific sinus tachycardia with nonspecific ST segment and T-wave changes (70%)
+            - **Large PE** - S1Q3T3 pattern, RBBB 
+            ![](../img/s1q3t3.png)
+    - **Diagnostic evaluation of VTE** - dependent on haemodynamic stability and pre-test probability (PTP):
+        - **Haemodynamic unstable despite resuscitation** - initiate Tx on presumptive diagnosis of VTE based on compressive USG of LL
+        - **Haemodynamically stable patients** - further diagnostic workup dependent on PTP, based on Well's score ![](../img/wells_score_for_PE.png) 
+        ![](../img/ix_for_suspected_pe.png)
+    - **Bedside compressive USG of LL** - for presumptive diagnosis of PE in haemodynamically unstable patients to initiate Tx
+    - **D-dimer:**
+        - **Role** - r/o PE in haemodynamically stable PE with low-to-intermediate pre-test probability (disregard if high pre-test probability)
+        - **Cutoff** - 500 ng/mL (standard), or age \* 10 mg/dL (age-specific \> 50y)
+    - **CT pulmonary angiography (CTPA):**
+        - **Diagnostic** - 1st line imaging in those with haemodynamically stable P/E
+        - **Precaution** - c/o in renal impairments, Hx of contrast allergy and metformin
+    - **VQ scan** - limited role, reserved for CTPA C/I or inconclusive, and in patients w/o significant cardiopulmonary disease
+
+- **Mx:**
+
+    - **Principles of Mx:**
+        - <u>General measurements</u> - O2, pain relief, Mx of haemodynamic instability
+        - <u>Anti-coagulation</u> - Subcutaneous LMWH followed by maintenance therapy for variable duration with oral anti-coagulants
+        - <u>Thrombolysis and surgical thrombectomy</u> - only in patients w/ acute massive PE with cardiogenic shock
+        - <u>IVC filters</u> - controversial use
+    - **General measures:**
+        - <u>O2</u> - titrate SpO2 \> 90%
+        - <u>Pain relief</u> - opiates considered for patients with pain and distress, but <u>avoided if in cardiogenic shock</u>
+        - <u>Manage haemodynamic instability</u> - IV fluids or plasma expanders (little role of inotropes as dilated RV is subjected to maximal sympathetic stimulation), withold diuretics and vasodilators
+    - **Anti-coagulation:**
+        - <u>Immediate anticoagulation</u>:
+            - **Indications** - immediate anticoagulation if intermediate-to-high probability, withold if low probability (pending Ix)
+            - **Regimen** - Subcutaneous low molecular weight heparin (LMWH) with dose-adjustment with bodyweight for at least 5d
+            - **MOA** - prevent propagation of clot and risk for further emboli
+        - <u>Bridge to oral anticoagulation and discontinuation of LMWH</u>:
+            - **Regimen** - Initial loading-dose warfarin with maintenance dose titrated against INR
+            - **Discontinuation of LMWH** - until the INR \> 2 for \>24h
+            - **Monitor** - routine monitoring of INR throught duration of anticoagulation
+            - **Duration of therapy** - dependent on etiology of PE (provoked vs unprovked events):
+                - <u>Provoked VTE</u> (w/ reversible RFs) - 3 mo
+                - <u>Unprovoked VTE</u> - \> 3mo
+                - <u>Malignancy-associated VTE</u> - 6 mo LMWH before switching to warfarin as long as malignancy is active
+                - <u>Anti-phospholipid syndrome</u> - lifelong anticoagulation
+    - **Thrombolytic and surgical embolectomy** - typically indicated in massive PE with cardiogenic shock (high mortality due to high risk of Intracranial haemorrhage)
+    - **IVC filter** - use is controversial:
+        - <u>Indications</u> - only in patient whom anticoagulation is absolutely contraindicated (e.g. active bleeding)
+
+- **Prognosis:**
+
+    - <u>Mortality</u> - greatest in those w/ RV dysfunction or cardiogenic shock, but risk sharply falls after commencement of anticoagulation
+    - <u>Recurrence</u> - highest recurrence rate in 1st 6-12mo (1/3 subsequent event within 10y)\*\* Pulmonary Hypertension
+
+### Pulmonary hypertension
+
+- **Definition** - mean pulmonary artery pressure at least 25 mmHg at rest, measured at right heart catheterisation
+- **Pathophysiological classification and etiology of pHTN:**
+    - **Type 1 pHTN** - <u>pulmonary arterial HTN</u>:
+        - Primary pulmonary HTN
+        - Secondary pulmonary arterial HTN:
+            - Connective tissue disease (e.g. LCSS)
+            - Congenital L-to-R shunts
+            - Portal HTN
+            - HIV infection
+            - Exposure to various drugs or toxins
+            - Persistent pHTN of the newborn
+    - **Type 2 pHTN** - <u>pulmonary venous HTN</u>:
+        - Pulmonary HTN secondary to left heart disease (left-sided atrial, ventricular or valvular disease)
+        - Pulmonary veno-occlusive disease (e.g. chronic VTE)
+        - Pulmonary capillary haemangiomatosis
+    - **Type 3 pHTN** - <u>pulmonary hypertension associated with disorders of the respiratory system and/or hypoxaemia</u>:
+        - <u>Obstructive lung disease</u> - COPD
+        - <u>Restrictive lung disease</u> - ILD (DPLD), severe kyphoscloliosis
+    - **Type 4 pHTN** - <u>pulmonary hypertension caused by chronic thromboembolic disease</u>:
+        - In situ thrombosis
+        - Thromboembolic obstruction of proximal pulmonary arteries
+        - Sickle cell disease
+    - **Type 5 pHTN** - <u>miscillaneous</u>:
+        - Inflammatory conditions
+        - Extrinsic compression of central pulmonary veins
+- **Clinical features of pHTN:**
+    - <u>Clinical course</u> - insiduous onset of cardio-pulmonary Sx, often diagnosed late
+    - <u>Dyspnoea</u>
+    - <u>Fatigue</u>
+    - <u>Chest pain</u>
+    - <u>Palpitation</u>
+    - <u>Syncope</u>
+- **Signs of pHTN:**
+    - General examination - features of RHF (peripheral oedema)
+    - <u>Examination of JVP</u> - elevation of JVP (w/ prominent 'a' wave if in sinus rhythm)
+    - <u>Examination of the precordium</u>:
+        - Palpation - parasternal heave
+        - Auscultation - loud P2, RV S3
+    - <u>Systems review</u> - features of respiratory, cardiac, liver, or connective tissue diseases
+- **Ix:**
+    - <u>ECG</u> - RV strain pattern
+    - <u>CXR</u> - engorged pulmonary arteries, peripheral prunning, enlarged RV
+    - <u>Transthoracic echocardiography</u> - non-invasive estimate of pulmonary arterial pressure (4x TRV<sup>2</sup>)
+    - <u>Right heart catheterisation</u> (diagnostic) - measurement of mean pulmonary artery pressure and vasodilator responsiveness (guides Mx)
+- **Mx** - guided by expert advice:
+    - **General measures** - LTO2 therapy (for chronic hypoxaemia), Diuretic therapy (for RHF)
+    - **Anticoagulations** - considered if no specific bleeding risks
+    - **Specific Mx:**
+        - High-dose CCBs
+        - Prostaglandin analogues - e.g. epoprostenol, iloprost
+        - PDE5 inhibitor - sildenafil
+        - Endothelin antagonists - bosentan
+
+## Diseases of the upper airway
+
+### Allergic rhinitis
+
+### Sleep-disordered breathing
+
+- **Respiratory disorders w/ normal daytime respiratory functions but affected during sleep:**
+    - <u>Central sleep apnoea</u> - caused by abnormalities of ventilatory drive
+    - <u>Obstructive sleep apnoea</u> - caused by abnormalities airway
+
+1.  The sleep apnoea/ hypopnoea syndrome
+
+    - **Definition** - obstructive sleep apnoea (hypopnoea syndrome) is a sleep-related breathing disorder caused by recurrent upper airway obstruction during sleep resulting in sleep fragmentation and daytime sleepiness
+    - **Epimdeiology:**
+      - <u>Prevalence</u> - affects 2-4% of middle-aged population
+      - <u>Burden</u> - high impact on road safety:
+        - 3x increased risk of RTA
+        - 9x increased risk of single-vehicle accidents
+    - **Pathophysiology of OSA:**
+      - **Anatomical narrow of the upper airway** - anatomical narrowing of the upper airway is often attributed to multiple factors:
+        - <u>Anatomically narrowing of the palatopharynx</u> - variable narrowing of the palatopharynx in different individuals
+        - <u>Recessed mandible</u> - results in reduced opening during sleep and thus narrowing of upper airway
+        - <u>Parapharyngeal soft tissue</u> - increased parapharyngeal soft tissue in obesity, or secondary to endocrine conditions (e.g. hypothyroidism, acromegaly)
+      - **Underactivity of dilating muscles** - during wakefulness, upper airway muscle (e.g. palatoglossus, genioglossus) dilates to maintain upper airway patency, but is lost during sleep, resulting in obstruction of the originally narrow airway
+      - **Sequelae of transient hypopnoea/ apnoea** - minor obstructions cause turbulent airflow and snoring, but severe episodes result in decreased ventilation, resulting in:
+        - <u>Awakening of patient</u> - transiently wakes up patient to dilate the upper airway, but lasts so short that patients have no recollection of them (results in severe sleep fragmentation and daytime sleepiness)
+        - <u>Increased sympathetic tone</u> - results in secondary HTN, and may predispose over time to cardiovascular diseases (particularly coronary events and stroke)
+    - **Risk factors for OSA:**
+      - **Non-modifiable risk factors:**
+        - <u>Male sex</u> - 2x increased risk
+        - <u>FHx</u> - familial caused by anatomical variations such as receeding chin and maxilla
+      - **Modifiable risk factors:**
+        - <u>Obesity</u> - increased parapharyngeal soft tissue deposition, although <u>only found in \< 50% of patients w/ OSA</u>
+        - <u>Alcohol and sedatives</u> - due to relaxation of the upper airway dilating muscles
+    - **Clinical features of OSA:**
+      - <u>Excessive daytime sleepiness</u> (100%) - the patient often feels that he or she has been asleep all night but wakes up unfresh, where bed partners report loud snoring, moving during sleep or even apnoeic episodes
+      - <u>Functional impmairment</u> - results in difficulties in concentration, impaired cognitive function and work performance
+      - <u>HTN</u> - often drug-resistant HTN and descovered to be secondary in nature
+    - **Epworth sleepiness scale** - quantitative assessment of daytime sleepiness: 
+    ![](../img/epworth_sleepiness_scale.png)
+    - **Sleep study** (polysomnography) - demonstration of excessive apnoea/hypopnoea episode during sleep:
+      - <u>Defintions of apnoea and hypopnea</u>:
+        - Apnoea - \> 10s where breathing is paused
+        - Hypopnoea - \> 10s where breathing is reduced by \> 50%
+      - <u>Threshold for OSA</u> - \> 15 apnoeas/hypopnoea per hour of sleep
+
+      
+      ![](../img/apnoea_hypopnoea_on_sleep_study.png)
+    - **Mx:**
+      - **Principles of Mx:**
+        - <u>Correction of anatomical defects</u> - e.g. nasal obstruction
+        - <u>Continuous positive airway pressure</u> - effects are often dramatic but 30-50% of patients ever tolerate CPAP
+
+### Laryngeal disorders
+
+### Tracheal disorders
+
+## Pleural disease
+
+### Pneumothorax
+
+- **Definition** - presence of air in the pleural cavity, which can eith occur spontaneouusly or result from trauma to the lung or chest wall
+- **Terminology:**
+    - **Spontaneous pneumothorax** - sudden onset of pneumothorax not precipitated to trauma to the lung or chest wall:
+        - <u>Primary spontaneous pneumothorax</u> - pneumothorax that occurs in patient w/ no Hx of lung disease, often attributed to rupture of apical subpleural blebs in association w/ smoking or tall stature
+        - <u>Secondary spontaneous pneumothorax</u> - pneumothorax that occurs in patients w/ Hx of lung disease and a/w higher mortality rates
+    - **Traumatic pneumothorax** - onset of pneumothorax a/w inatrogenic injury or trauma to the lung or chest wall
+
+  
+  ![](../img/spontaneous_and_traumatic_pneumothorax.png)
+- **Types of pneumothorax:**
+    - <u>Closed pneumothorax</u> (-ve pleural pressure) - the communication between airway and pleural space seals off, with spontaneous re-absorption of air and re-expansion of the lung occuring over few days or weeks
+    - <u>Open pneumothorax</u> (pleural pressure equilibrated w/ atmosphere) - the communication between airway and pleural space fails to seal off resulting in free passsage of gas between brochial tree and pleural space
+    - <u>Tension pneumothorax</u> - the communication between airway and pleural space acts as a one-way valve resulting air to enter pleural cavity during inspiration and not leave during expiration, causing compressive effects on great veins
+
+  
+  ![](../img/types_of_pneumothorax.png)
+- **Clinical features of pneumothorax:**
+    - **Acute onset of pleurisy** - sudden, <u>abrupt onset to maximum intensity</u> of unilateral pleuritic chest pain and berathlessness:
+        - <u>Pleuritic chest pain</u> - sharp, well-localised unilateral chest pain exacerbated by inspiration
+        - <u>Breathlessness</u> - acute onset, and can be severe in the context of pre-existing lung disease and cannot be alleviated by usual measures (e.g. bronchodilators)
+    - **Obstructive shock** - only occurs in tension pneumothorax where increased intrapleural pressure creates tamponade effect on venous return
+- **Signs of pneumothorax** - P/E normal if small pneumothorax (\< 15% of hemithorax):
+    - **General examination:**
+        - Respiratory distress
+        - +/- Reduced SpO2
+        - Pitting oedema in severe acute exacerbation of COPD
+        - Distended neck veins/ raised JVP if tension pneumothorax
+    - **Respiratory examination** - silent, resonant hemithorax is diagnostic:
+        - <u>Inspection</u> - reduced ipsilateral chest expansion
+        - <u>Palpation</u> - reduced chest expansion (+/- signs of mediastinal shift if tension pneumothorax)
+        - <u>Percussion</u> - hyperesonant over pathological side
+        - <u>Auscultation</u> - absent breath sounds
+    - **Mediastinal shift may be absent if ipsilateral malignant disease resulting in collapse, or scarring** - hence tension pneumothorax must be suspected based on <u>haemodynamic comprimise</u>
+- **Ix:**
+    - **CXR** (erect PA view) - lung collapse with loss of lucency and vascular markings between deflated lung and chest wall (+/- mediastinal shift)
+    - **CT** - used in difficult cases in differentiating pneumothorax and emphysematous bullae
+- **Dx** - clinical Dx (P/E) or radiological Dx
+- **Mx:**
+    - **Principles of Mx:**
+        - **Approach to initial Tx** - dependent on 1) type, 2) symptomatology, 3) size, and 4) comorbidities:
+            - <u>Conservative Mx</u> - close observation for 6h w/ outpatient follow up for **primary spontaneous pneumothrax in a young asymptomatic individual**
+            - <u>Percutaneous needle aspiration</u> - considered for **primary spontaneous pneumothorax** in a **young, mildly symptomatic individual** (avoid need for chest drain in 60-80%)
+            - <u>Chest drain</u> - considered for **secondary spontaneous pneumothorax**, **older patients w/ primary spontaneous pneumothorax**, or **tension pneumothorax irrespective of presentation**
+            - <u>Needle decompression</u> - performed for suspected tension pneumothorax for immediate release of +ve pressure prior to chest tube insertion
+
+      
+      ![](../img/mx_of_spontaneous_pneumothorax.png)
+        - **Approach to patient education** - education on risk factors and abstinence on flight and diving (see details below)
+        - **Approach to recurrent spontaneous pneumothorax** - surgical pleurodesis recommended (see below)
+    - **Needle decompression** - for all suspected tension pneumothorax:
+        - <u>MOA</u> - immediate decompression of +ve pressure within the pleural cavity
+        - <u>Clinical role</u> - buy time for chest drain insertion
+    - **Percutaneous needle aspiration:**
+        - <u>Indications</u> - for young, mildly symptomatic patients
+        - <u>Clinical role</u> - allows avoiding the need of chest tube insertion in 60-80% cases, but less tolerable in those w/ severe respiratory distress
+    - **Chest tube insertion:**
+        - <u>Site</u> - insertion of intercostal drains at the 4th-6th intercostal space at mid-axillary line
+        - <u>Device</u>:
+            - Drain connected to an underwater seal or a one-way Heimlich valve
+            - Bubbling of water indicates drainage of air from pleural space into device
+        - <u>Monitoring</u>:
+            - Continuous monitoring of drain bubbling every morning
+            - Removal of drain after lung is fully re-inflated and bubbling has stopped
+            - Absence of bubbling suggestive of blocked, kicked, or displaced tube
+            - Continuous bubbling after 5-7d is an indicator for surgery
+    - **Patient education at discharge** - educated on risk of recurrence (25% 1y risk following primary spontaneous pneumothorax):
+        - **Flight** - avoided until 1-2 weeks after documented full inflation radiographically:
+            - <u>Reason</u> - increased risk as trapped gas expands at altitude
+        - **Scuba diving** - avoid indefinitely due to risk of recurrence unless surgical pleuroidesis performed
+        - **Smoking** - smoking cessation and smoking a/w increased risk of recurrence
+    - **Surgical pleuroidesis** - sealing of lung to chest wall:
+        - <u>Indications</u>:
+            - 1\. Recurrent spontaneous pneumothorax
+            - 2\. First episode of secondary spontaneous pneumothorax if poor lung resreve
+
+## Diseases of the diaphragm and chest wall
+
+### Disorders of the diaphragm
+
+1.  Diahragmatic hernias
+
+    - **Definiton** - herniation of abdominal contents through congential defects of the diaphragm
+    - **Types:**
+      - Posterior hernia (more common) - through foramen of Bochdalek
+      - Anterior hernia (less common) - through foramen of Morgagni
+
+2.  Eventration of the diaphragm
+
+    - **Definition** - elevation or bulging of hemidiaphragm resulting from totla or partial absence of muscular development of the septum transversum
+    - **Clinical significance** - can cause significant respiratory distress in newborns if extensive
+
+3.  Acquired disorder of the diaphragm
+
+    - **Definition** - abnormal diaphragmatic function reflected by elevation of hemidiaphragm on full expiration arising from paralysis or other structural cause
+    - **Etiology of elevation of hemidiaphragm:**
+      - **Mass effect:**
+        - Large volume of gas in stomach or colon
+        - Large tumour or cysts of the liver
+      - **Pull effect from decreased volume of one lung:**
+        - Unilateral pulmonary fibrosis
+        - Localised actelactasis
+        - Lobectomy
+      - **Neurological:**
+        - <u>Phrenic nerve palsy</u> - bronchial carcinoma, tumours of the cervical cord, shingles, trauma, surgery, and tractional injury by aortic aneurysms or mediastinal mass, idiopathic diaphragmatic paralysis
+        - <u>Peripheral neuropathies</u> (usually bilateral) - e.g. GBS
+        - <u>Motor neuron disease</u> (usually bilateral) - e.g. ALS
+        - <u>Muscular disorders</u> - e.g. muscular dystrophies, poliomyositis, mild-grade myositis in SLE
+    - **Ix:**
+      - <u>CXR</u> - elevated hemidiaphragm
+      - <u>USG screening</u> - demonstrate paradoximcal movement of paralysed hemidiaphragm on sniffing
+      - <u>CT chest and neck</u> - to r/o structural causes of phrenic nerve palsy
+    - **Other causes of comprimised diaphragmatic function:**
+      - Hyperinflation - e.g. emphysema
+      - Stiff lungs - diffuse pulmonary fibrosis
+      - Herniation of abdominal contents (e.g. hiatal hernia)
+
+### Deformities of the chest wall

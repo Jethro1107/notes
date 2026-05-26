@@ -1,0 +1,167 @@
+---
+id: 689DF5B2-7DA0-47D1-903F-D1BD6A0F0664
+roam_parent: 596d349f-1c28-4791-9849-33fa058ac578
+title: Chronic Diarrhoea
+---
+
+# Chronic Diarrhoea
+
+- **Definition** - diarrhoea lasting \> 4 weeks, in contrast to acute diarrhoea, most causes are non-infectious and warrants evaluation to exclude serious underlying pathology
+- **DDx of chronic diarrhoea** - pedagogically classified based on <u>pathophysiological mechanisms</u> but most diseases cause diarrhoea based on \>= 1 mechanisms: 
+![](../img/major_causes_of_chronic_diarrhoea_based_on_predominant_mechanism.png)
+- **Differentiating features of diarrhoea by pathophysiology:** 
+![](../img/differentiating_features_of_diarrhoea_by_pathophysiology.png)
+- **DDx of secretory diarrhoea:**
+    - **Medications and toxins:**
+        - <u>Stimulant laxatives</u> - may be habitually or abused, including senna, cascara, bisacodyl, or caster oil
+        - <u>RAAS blockade</u> - ARBs rarely a/w sprue-like enteropathy, while rarely ARNI/ACEi can precipitate intestinal angioedema
+        - <u>Chronic alcohol ingestion</u> - as resulted from enterocyte injury resulting in impaired sodium and water absorption and rapid transit
+        - <u>Environmental toxins</u> - e.g. arsenic poisoning
+    - **Disease of the bowel or GI system** - this subset of conditions tends to <u>worsen w/ eating</u>, but still persists when fasting:
+        - <u>Short-gut syndrome</u> - repeated bowel resection, bypass surgery, or enterocolic fistulation results in reduced surface area for reabsorption of secreted fluids and electrolytes
+        - <u>Bile acid diarrhoea</u> - escape of dihydroxy bile acid absorption stimulating colonic secretion (cholerheic diarrhoea), either from LOF of terminal ileum (resection, Crohn's ilietis), or may be idiopathic (Dx based on fasting serum 7alphaC4 or faecal bile acids)
+        - <u>Partial obstructions</u> - e.g. strictures or faecal impaction can paradoxically lead to increased faecal output due to fluid hypersecretion
+    - **Hormone-mediated secretory diarrhoea:**
+        - <u>Carcinoid syndrome</u> - arises from metastatic GI NETs or primary bronchial carinoids may present w/ watery diarrhoea or as part of carcinoid syndrome, due to systemic release of potent intestinal secretagogues (e.g. histamine or seratonin)
+        - <u>Gastrinoma</u> - may present w/ refractory peptic ulcers, but diarrhoea may occur in 33% or be the sole presentation in 10%; caused by maldigestion (osmotic) due to <u>inactivation of pancreatic enzymes secondary to low intraduodenal pH</u>
+        - <u>VIPoma</u> - manifests as watery diarrhoea, hypokalaemia, achlorohydria syndrome often massive in volume complicating w/ life-threatening dehydrations, neuromuscular dysfunction and cardiac arrhythmias due to electrolyte imbalances
+        - <u>Medullary carcinoma of the thyroid</u> - due to calcitonin, other secretory peptides or prostaglandins
+        - <u>Systemic mastocytosis</u> - histamine-mediated angioedema often a/w skin lesion urticaria pigmentosa
+        - <u>Large colorectal villous adenoma</u> - often responds to physiological intestinal secretalogues presenting w/ secretory diarrhoea and hypoK (effects mediated by PG and can be inhibited by NSAIDs)
+        - <u>Adrenal insufficiency</u> - cortisol insufficiency may be a/w watery diarrhoea
+    - **Congenital defects in absorption** - defects of ion transporters causing watery diarrhoea from birth:
+        - <u>Congenital chloridorrhoea</u> - defective Cl/HCO3 exchanger (caused by down-regulated in adenoma \[DRA\] gene mutation) manifesting w/ metabolic alkalosis
+        - <u>Congenital sodium diarrhoea</u> - defective Na/H exchanger due to mutation in the NH3 gene manifesting w/ metabolic acidosis
+- **DDx of osmotic diarrhoea:**
+    - **Osmotive laxatives** - Mg2+ containing compounds (e.g. antacids), PO4 or SO4 containing compounds
+    - **Carbohydrate malabsorption** - due to acquired or congenital defects of brush-boarder disaccharidase and other enzymes:
+        - <u>Lactase deficiency</u> - commonly affects non-whites (75%) worldwide but only 5-30% of those in the USA, where total lactose load determines Sx experienced (?increased IBS w/ westernisation of diet)
+        - <u>Other less defined forms</u> - nonabsorbable carbohydrates such as fructose, sorbitol polyethylene glycol etc.
+    - **Wheat and FODMAP intolerance** - non-celiac wheat intolerance or intolerance of fermentable oligosaccharides, disaccharides, monosaccharides and polyols (FODMAPs)
+- **DDx of stearrheal causes:**
+    - **Intraluminal maldigestion of fat:**
+        - <u>Pancreatic exocrine insufficiency secondary to chronic pancreatitis</u> - usually a sequelae of 1) alcoholism, and 2) hypercalcaemia, but other causes may include:
+            - 1\. Medications
+            - 2\. Cystic fibrosis
+            - 3\. Pancreatic duct obstruction
+            - 4\. Somatostatinoma
+        - <u>Small bowel bacterial overgrowth</u> - results in excessive **deconjugation of bile acids**, resulting in inhibition of micelle formation and reduced fat digestion, often secondary to blind-loop, small intestinal diverticula, or dysmotility-like syndromes
+        - <u>Reduced bile acid production or secretion</u> - cirrhosis or biliary obstruction results in deficient intraluminal bile acid concentration but is limited to mild stearrhoea likely due to efficient enterohepatic circulation
+    - **Mucosal malabsorption** - arises from a variety of enteropathies (infectious or non-infectious), celiac disease being the prototypical enteropathy:
+        - <u>Celiac disease</u> - gluten-sensitive enteropathies characterised by villous atrophy and crypt hyperplasia in the proximal small bowel resulting in impaired mucosal absorption
+        - <u>Tropical sprue</u> - likely infectious etiology only occuring in residents or travelers to tropical climate, producing a similar histology and clinical syndrome but rapidly responds to antibiotics
+        - <u>Whipple's disease</u> - Tropheryma whipplei disease characterised by macrophage infiltration of the small bowel in young or middle-aged men, frequently associated w/ marked systemic complaints, lymphadenopathy, w/ CNS or endocardial involvement (MAC infections may also mimick this condition)
+        - <u>Abetalipoproteinaemia</u> - rare defect of chylomicron formation and impaired fat absorption in children, a/w acanthocytic erythrocytes, ataxia, and retinitis pigmentosa
+        - <u>Others</u> - miscellaneous causes of sprue-like enteropathies:
+            - Infections - esp. Giardia or other protozoa infections
+            - Medications - Olmesartan, MMF, colchicine, cholestyramine, neomycin
+            - Misc. - lymphoproliferative disorders, amyloidosis, chronic ischaemia, idiopathic enteropathies
+    - **Post-mucosal lymphatic obstruction** - characteristically characterised w/ 1) fat malabsorption, 2) **protein-losing enteropathy**, and 3) **lymphocytopenia**:
+        - <u>Congenital intestinal lymphangiectasia</u> - extremely rare disease
+        - <u>Acquired intestinal lymphangiectasia</u> - secondary to trauma, tumor, liver or cardiac disease, infections etc.
+- **DDx of inflammatory diarrhoea:**
+    - <u>Gastrointestinal malignancies</u> - most common cause of diarrhoea, often multifactorial (e.g. hypersecretion due to partial obstruction), and must be r/o especially in new-onset chronic diarrhoea in middle-aged to older individuals
+    - <u>Inflammatory bowel disease</u> - Crohn's disease and chronic ulcerative uveitis are important causes of chronic diarrhoea in adults a/w EIMs
+    - <u>Microscopic colitis</u> - collagenous and lymphocytic colitis (histologically diagnosed) esp. in middle-aged women especially those on NSAIDs, PPIs, and SSRIs by association
+    - <u>Eosinophilic gastroenteritis</u> - eosinophil infiltration of the mcuosa muscularis affecting any level of the GI tract
+    - <u>Prolonged infectious diarrhoea</u> - particularly prevalent as a result of herpesviridae, giardiasis, bacterial over-growth or sprue
+    - <u>Radiation enterocolitis</u> - esp. an individual w/ prior radiation exposure
+    - <u>Others</u> - chronic GVHD, autoimmune enteropathies (e.g. Behcet's, Cronkhite-Canada syndrome)
+- **DDx of dysmotility diarrhoea:**
+    - <u>Irritable bowel syndrome</u> - extremely prevalent characterised by disturbed intestinal and colonic motor and sensory response to various stimuli, rarely resulting in weight loss
+    - <u>Visceral neuromyopathies</u> - may be a primary disorder, or secondary to other autonomic neuropathies as in DM (note other features of autonomic neuropathy), or after a vagotomy
+    - <u>Hormones</u> - **hyperthyroidism** and carcinoid syndrome can increase transiet times
+    - <u>Drugs</u> - e.g. prokinetics, cholinesterase inhibitors, prostaglandins
+- **DDx of factitial causes** - hypotension and hypokalaemia, along w/ Hx of psychiatric illnesses raises suspicion:
+    - <u>Munchausen syndrome</u> - covert self-administration of laxatieves or surreptitiously add water or urine to stool for analysis
+    - <u>Eating disorder</u> - laxative abuses (+/- diuretic abuse) for weight loss
+- **Most important DDx of chronic diarrhoea not to miss:**
+    - GI malignancies
+    - Inflammatory bowel disease
+- **Approach to the patient w/ chronic diarrhoea:**
+    - <u>Initial clinical assessment</u> - careful Hx to exclude iatrogenic causes, P/E to determine the likelihood of organic disease
+    - <u>Initial Ix for organic disease</u> - simple triage tests (simple stool tests, and blood tests) to direct the choice of expensive, complex, invasive Ix
+- **Salient points of Hx:**
+    - **HPI** - onset, duration, pattern, quality (stool characteristics), timing, provocating and relieving factors, severity:
+        - <u>Onset and duration</u> - \> 4 weeks arbitrarily defined as chronic diarrhoea
+        - <u>Severity</u> - number of times per day; haemodynamic comprimise (orthostatic dizziness, SOB)
+        - <u>Pattern/ progression</u> - variable vs static vs progressive
+        - <u>Quality</u> - stool characteristics:
+            - Bloody - invariably an inflammatory cause (esp. IBD, IBS)
+            - Watery - limited information, can be secretory vs osmotic vs inflammatory vs dysmotility
+            - Foul-smelling, difficult-to-flush stool - consider stearrhoea
+        - <u>Timing</u> - **relationship w/ meals** and **nocturnal diarrhoea**:
+            - Only occurs w/ food - consider osmotic diarrhoea, stearrhoea, and dysmotility-related diarrhoea etc. (N.B. certain secretory diarrhoea are worsened by food but persist w/ fasting)
+            - Persists w/ fasting or noctural episodes - points towards a secretory or inflammatory cause
+        - <u>Provacation and relieving factors</u> - esp. notice any associations w/ diet
+    - **Associated Sx:**
+        - <u>PR bleeding</u> - inflammatory type diarrhoea (esp. GI malignancies, IBD w/ colitis), where CLN and Bx must be performed
+        - <u>Abdominal pain</u> - consider inflammatory type diarrhoea, but dysmotility-type diarrhoea may result in abdominal pain (further characterise in terms of associations w/ food and BO and whether persistent), where absence of abdominal pain suggestive of other pathophysiological mechanisms
+        - <u>Prior constipation</u> - alternating bowel openings may suggest IBS or structural causes (e.g. malignancies), but ocassionally occurs in UC
+        - <u>Fever</u> - consider inflammatory type diarrhoea (esp. IBD), complication of abscess formations, and infections
+        - <u>Weight loss</u> - almost always suggestive of sinister causes but not necessarily malignancies
+        - <u>Faecal incontinence</u> - a differential of diarrhoea especially when Hx suggestive of non-diarrhoeal BOs, considering the fact that faecal incontinence can occur in severe, painful diarrhoea
+        - <u>Common EIMs of IBD</u> - occular involvements (episcleritis, uveitis), sacroiliitis (AS), arthralgias, generalised pruritis (PSC), urinary Sx (dysuria, urinary stones)
+    - **Assessment of exposures** - including TOCC Hx:
+        - <u>Travel</u> - consider travel to the tropics; if acute, any travelling Hx is significant
+        - <u>Medications</u> - specifically ask for 1) laxatives, 2) recent ABx, 3) NSAIDs, 4) SSRIs, 5) antacids, 6) chemotherapeutics, and 7) recall any new drugs where initiation coincided w/ the Sx
+        - <u>Other toxins</u> - e.g. arsenic, chronic alcohol use
+        - <u>Contact and clustering</u> - any contact w/ individuals w/ diarrhoeal illnesses
+    - **PMH** - known Hx of 1) recurrent conjunctivitis, 2) seronegative spondyloarthropathies, 3) urinary stones, and 4) psoriasis
+    - **FHx:**
+        - <u>GI malignancies and associated malignancies</u> - esp. CRC, and CA of the breast, ovaries, pancreas, prostate related to hereditary cancer predisposition syndromes
+        - <u>Inflammatory bowel disease</u> - may indicate those possibilities, but absence does not r/o the possibility
+        - <u>Other colitides</u> - e.g. celiac diseases
+    - **SHx** - smoking, drinking (+/- other relevant Hx)
+- **P/E:** 
+![](../img/pe_in_patient_with_chronic_diarrhoea.png)
+    - **Vital signs** - assessment of hydration status and haemodynmaic comprimise:
+        - <u>Mucous membranes</u> - oral mucosa and tongue
+        - <u>BP/P</u> - tachycardia, w/ orthostatic hypotension +/- frank hypotension
+    - **General examination** - look for features suggestive of 1) GI malignancy, 2) inflammatory bowel disease, and 3) malabsorption:
+        - <u>Pallor</u> - anaemia arising from 1) iron deficiency, 2) B12 deficiency, or 3) anaemia of chronic illness
+        - <u>Conjunctivitis</u> - suggestive of inflammatory bowel disease
+        - <u>Goitre</u> - hyperthyroidism as a cause of dysmotility-like diarrhoea
+        - <u>Lymphadenopathy</u> - for GI malignancies (L SCN)
+        - <u>Clubbing</u> - features of inflammatory bowel disease
+        - <u>Anarsca</u> - generalised oedema due to exudative protein loss or protein-losing enteropathy
+    - **Examination for mucocutaneous manifestations of systemic diseases:**
+        - <u>Aphthous ulcers</u> - non-specific for IBD or celiac disease
+        - <u>Erythema nodosum and pyoderma gangrenosum</u> - specific for IBD
+        - <u>Flushing</u> - suggestive of carcinoid syndrome
+        - <u>Dermatitis herpetiformes</u> - specific for celiac disease
+    - **Abdominal examination:**
+        - <u>Abdominal tenderness</u> - likely inflammatory or obstructive lesions
+        - <u>Abdominal mass</u> - ?structural mass lesions (malignancies), abscesses etc.
+        - <u>Hepatomegaly</u> - consider ?carcinoid syndrome from hepatic metastasis of GI NETs
+        - <u>PR examination</u> - any fresh PR bleeding, and inspect for any perianal lesions and fistulaes
+- **Approach to Ix:**
+    - Non-invasive blood tests and stool Ix for all
+    - Colonoscopy + Bx if PR bleeding
+    - Small bowel workup if compatible Hx of stearrhoea
+
+  
+  ![](../img/algorithm_for_mx_of_diarrhoea.png)
+- **Initial Ix** - non-invasive stool and blood tests, imaging, to guide necessity of additional Ix if presenting w/ just chronic diarrhoea:
+    - **Routine bloods** - CBC, LRFT, ESR/CRP, CaPO4, Fe, B12, folate:
+        - **CBC:**
+            - <u>Anaemia</u> (assess Hb, MCV, MCH) - various causes from anaemia of chronic illness, acute blood loss, iron deficiency, B12/ folate deficiency
+            - <u>Eosinophilia</u> - worrying for paristes, neoplasia, collagen-vascular disease, allergy, or eosinophilic gastroenteritis
+            - <u>Leukocytosis</u> - suggests inflammation +/- infection
+        - **LFT** - dLFT for systemic hepatobilliary involvement
+    - **Stool** - for microbiology, calprotectin +/- stool for excess fat:
+        - <u>Microbiology</u> - for C/ST, bacterial/ viral PCR, ova, cysts, C diff. toxin assay
+        - <u>Faecal calprotectin</u> - useful marker of GI inflammation as released by neutrophils when trafficking into GI tract
+        - <u>Stool for excess fat</u> - not specific for stearrhoea, but may also can be seen in dysmotility-type diarrhoea
+    - **Imaging** - +/- abdominal X ray if in severe abdominal pain
+- **Quantitative stool collection and analysis** - may be required if Dx not obtained for characterisation of the type of diarrhoea:
+    - Stool weight
+    - Stool electrolyte concentration and pH
+    - Fat quantification
+    - Bile acid quantification
+    - Laxative screen
+- **Additional Ix based on the type of diarrhoea:**
+    - <u>Secretory diarrhoea</u> (persistent watery, normal osmotic gaps) - repeat screen for medication-related S/E, additional microbial studies
+    - <u>Osmotic diarrhoea</u> - low faecal pH, fecal Mg, tests for lactose and fructose intolerance
+    - <u>Stearrhoeal diarrhoea</u> - fecal elastase, chyotrypsin activity, bentiromide tests, secretin-cholecystokinin stimulation studies +/- small bowel screen
+    - <u>Inflammatory diarrhoea</u> - repeat stool testing, colonoscopy w/ Bx, +/- small-bowel workup

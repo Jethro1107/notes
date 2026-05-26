@@ -1,0 +1,193 @@
+---
+id: cf2604de-af3c-4ecd-89c9-61d67656d0a9
+roam_refs: "https://www.uptodate.com.eproxy.lib.hku.hk/contents/clinical-manifestations-and-diagnosis-of-gastroesophageal-reflux-in-adults?search=GERD&source=search_result&selectedTitle=2%7E150&usage_type=default&display_rank=2#H2428379763 https://www.uptodate.com.eproxy.lib.hku.hk/contents/barretts-esophagus-surveillance-and-management?search=barrett%20esophagus&topicRef=2269&source=see_link#H66920461 https://www.uptodate.com.eproxy.lib.hku.hk/contents/barretts-esophagus-pathogenesis-and-malignant-transformation?search=barrett%20esophagus&topicRef=2269&source=see_link#H2 https://www.uptodate.com.eproxy.lib.hku.hk/contents/barretts-esophagus-epidemiology-clinical-manifestations-and-diagnosis?search=barrett%20esophagus&source=search_result&selectedTitle=1%7E90&usage_type=default&display_rank=1"
+title: Gastro-esophageal Reflux Disease and Barrett's Esophagus - Literature Search on UpToDate
+---
+
+# Barrett's esophagus
+
+- **Definition** - a pre-malignant lesion in which <u>metaplastic columnar epithelium</u> that has both gastri an intestinal features replaces normal stratified squamous epithelium as a <u>consequence of chronic GERD</u> and predisposes to <u>development of AD of esophagus</u>
+- **Epidemiology** - large majority of cases go undiagnosed and present only when symptomatic carcinoma develops
+- **Risk factors of Barrett's esophagus:**
+  - <u>Gastroesophageal reflux disease</u> (GERD) - usually in symptomatic GERD, where **errosive esophagitis** is an independent risk factor for Barrett's esophagus (RRR 5.2)
+  - <u>Central obesity</u> - likely through development of GERD
+  - <u>Smoking</u> - synergistic effect with GERD in increasing the risk of Barett's esophagus
+  - <u>FHx</u> - some descriptions of family aggregation, but is unclear whether it is due to genetic predisposition or common environmental exposures
+- **Cancer risk of Barrett's esophagus:**
+  - <u>Cancer incidence</u> - relative risk is increased by 40-120x but the <u>absolute risk remains low</u> (0.1-0.5%)
+  - <u>Cancer mortality</u> - mortality in patients with Barrett's esophagus is often unrelated fo CA esophagus, likely due to older age, obesity and other risk factors for more common diseases (e.g. CAD)
+  - <u>Baseline dysplasia as a potential marker of risk</u> - some evidence show baseline dysplasia is related to risk of malignant transformation
+- **Pathophysiology of Barrett's esophagus** - incompletely understood:
+  - **Esophageal injury** - chronic inflammation caused by GERD, bile, and nitroso compounds
+  - **Development of Barrett's metaplasia** - favourable adaptation to chronic reflux as the columnar epithelium is more resistant to acid-reflux
+  - **Malignant transformation** - initially thought to be a gradual step-wise accumulation of mutations, but studies show a <u>'genome-doubled pathway'</u> where tp53 mutation is acquired first, <u>implying malignancy can develop rapidly</u>
+- **Clinical features of Barrett's esophagus** - CLO does not typically cause any symptoms directly:
+  - <u>Asymptomatic</u> - most patients typically present with GERD-like symptoms (e.g. heartburn, regurgitation), and was subsequently discovered to have Barrett's esophagus on OGD when it is indicated (e.g. Dysphagia, UGIB or anaemia, weight loss)
+- **Ix of Barrett's esophagus:**
+  - **OGD and biopsy:**
+    - <u>Endoscopc findings suspicious of Barrett's esophagus</u> - salmon-pink patches creeping up the esophagus, objectively defined as **squamocolumnar junction \>= 1 cm proximal to the gastroesophageal junction (OGJ)**:
+      - **Squamocolumnar junction** (Z-line) - visible junction between pale colour of squamous epithelium, and columnar epithelium of the stomach
+      - **Gastroesophageal junction** (OGJ) - arbitrarily defined as the level of the most proximal extent of the gastric longitudinal folds (<u>avoid excessive inssuflation of stomach as it flattens folds</u>)
+    - <u>Prague criteria</u> - grading extent of GERD based on depth of endoscopic insertion at OGJ
+    - <u>Biopsy</u> - only performed if endoscopic suspicion for Barrett's (4 biopsies obtained for every 2cm of suspected Barrett's)
+  - **Histological examination** - 3 types of CLO have been described:
+    - <u>Gastric cardia type mucosa</u> - pitted surface and glands lined exclusively by mucus secreting cells, with tortuous, tubular glands
+    - <u>Atrophic gastric fundic-type epithelium</u> - foveolar surface lined by mucus-secreting cells, with deepier glands containing chief cells and parietal cells
+    - <u>Intestinal metaplasia</u> - defined by an increased number of goblet cells and other intestinal columnar cells
+  - **Other methods:**
+    - <u>Novel endoscopic techniques</u> - e.g. endomicroscopy, chromoendoscopy, NBI, autofluorescence endoscopy
+    - <u>Non-endoscopic technigue</u> - e.g. capsule sponge (collection of cells from the esophageal lumen)
+- **Dx evaluation of Barett's esophagus** - Dx chiefly made on endoscopy and biopsy:
+  - 1, Columnar epithelium \>= 1cm of the OGJ (see above)
+  - 2\. Histological examination of biopsy reveals intestinal metaplasia (BSG also allows gastric-type columnar epithelium)
+- **Classification of Barrett's esophagus** - by extent:
+  - Long-segment Barrett's - Barrett's esophagus \>= 3cm
+  - Short-segment Barrett's - Barrett's esophagus \< 3cm
+- **Mx of Barrett's esophagus:**
+  - **Principles of Mx:**
+    - <u>Medical therapy</u> - acid suppression and other chemoprotection
+    - <u>Surveillance</u> - interval endoscopic surveillance for dysplasia and esophageal adenocarcinoma
+    - <u>Subsequent Mx of dysplasia and intramucosal carcinoma</u> - esophagectomy or endoscopic Tx ('organ-preserving' therapy)
+  - **Acid suppression therapy** (PPI) - little evidence in cancer prevention, but still prescribed as most patients have symptomatic GERD or complications (e.g. strictures):
+    - <u>Selection</u> - low-dose omeprazole (20mg/d), pantoprazole (40mg/d)
+    - <u>MOA</u> - acid suppression theoretically reduces chronic inflammation, which predisposes to cancer development
+    - <u>Evidence</u> - little evidence that acid suppression prevents progression or causes regression of Barrett's esophagus, and prevents cancer development
+  - **Endoscopic surveillance** - surveillance intervals dependent on 1) degree of dysplasia, and 2) extent of Barrett's esophagus:
+    - **Non-dysplastic Barrett's esophagus:**
+      - <u>Long-segment Barrett's</u> - repeat OGD q3y
+      - <u>Short-segment Barrett's</u> - repeat OGD q5y
+    - **Low-grade dysplasia** - endoscopic mucosal dissection and RFA preferred, but continue surveillance q6mo is also proposed
+    - **high-grade dysplasia or intramucosal carcinoma** - endoscopic eradication therapy or esophagectomy
+
+# Gastroesophageal reflux disease
+
+- **Definition** - Pathological reflux of gastric contents into the esophagus that is either symptomatic, results in mucosal injury, or results in other complications
+- **Terminology:**
+  - <u>Erosive esophagitis</u> - unequivocal finding of GERD characterised by endoscopically visible breaks in distal esophageal mucosa w/ or w/o symptoms of GERD
+  - <u>Nonerosive reflux disease</u> - quantifiable excessive esophageal acid exposure on ambulatory esophageal pH monitoring in the absence of erosive esophagitis on endoscopy
+  - <u>Reflux hypersensitivity or functional heartburn</u> - Sx of heartburn with normal endoscopy and esophageal acid exposure
+- **Epidemiology** - most common GI disorder:
+  - <u>Prevalence</u> - 5-10% in Asia (15-30%in the West)
+  - <u>Incidence</u> - 5/1000/y (West)
+- **Clinical features of GERD** - heartburn, epigastric pain, and regurgitation are the classic Sx:
+  - **Classic triad of Sx** - heartburn, regurgitation, epigastric pain:
+    - <u>Heartburn</u> - burning sensation in retrosternal area ascending to the throat that is usually **postprandial** and **nocturnal**
+    - <u>Regurgitation</u> - perception of the flow of gastric contents to the mouth or hypopharynx, which may be acidic or bitter with small amounts of undigested materia
+  - **Atypical symptoms:**
+    - <u>Water brash</u> - hypersalivation causing foam at the mouth due to excessive salivation in response to reflux
+  - **Extraesophageal symptoms:**
+    - <u>Atypical chest pain</u> - mimics of angina pectoralis
+    - <u>Respiratory symptoms</u> - chronic cough, wheezing (GERD-related asthma), hoarseness
+  - **Features of complication:**
+    - <u>Dyspshagia</u> - common in long-standing GERD indicative of an esophageal stricture (benign or malignant)
+    - <u>Odynophagia</u> - indicative of esophageal ulcers
+- **DDx of GERD** - all esophageal disorders:
+  - <u>Mimics of GERD</u> - e.g. infectious esophagitis, pill esophagitis, eosinophilic esophagitis, radiation esophagitis, functional heartburn
+  - <u>DDx in presence of dysphagia</u>:
+    - Mechanical obstruction - esophageal rings or webs, benign esophageal strictures, esophageal cancer
+    - Functional obstruction - esophageal motility disorders (e.g. , Zenker's diverticulum)
+- **Dx evaluation** - typically a clinical diagnosis:
+  - **Patients w/ classical Sx** - presentation w/ typical heartburn and regurgitation:
+    - <u>Clinical diagnosis</u> - empirical trial of acid suppression (PPI) in the absence of alarm features
+    - <u>Objective diagnosis</u> - specific Ix if 1) presence of alarm features, 2) unresponsive to Tx, 3) abnormal GI imaging:
+      - **Upper GI endoscopy** (OGD) - r/o upper GI malignancies and detect esophageal manifestations of GERD
+      - **High-resolution manometry** - r/o esophageal motility disorders and evaluation of peristaltic function before anti-reflux surgery
+      - **Ambulatory esophageal pH monitoring with impedence** - 'gold standard' for diagnosis of GERD based on excess esophageal acid exposure
+  - **Patients w/ atypical Sx** - work up for other DDx before a formal GI evaluation (e.g. CAD workup for atypical chest pain)
+- **Upper gastrointestinal endoscopy and biopsy:**
+  - **Indications of OGD in suspected GERD:**
+    - 1\. <u>Presence of alarm features</u> - 1) Dysphagia or Odynophagia, 2) UGIB or anaemia, 3) Persistent vomiting, 4) Unintentional weight loss, 5) FHx of upper GI cancer in 1st degree relatives
+    - 2\. <u>Non-responsive to empirical PPI treatment</u>
+  - **Patient preparation:**
+    - <u>Discontinue acid suppression</u> - 2-4 weeks as medications can mask findings of erosive and eosinophilic esophagitis
+  - **Role of endoscopy** - 1) r/o upper GI malignancy, 2) r/o other etiologies of GERD symptoms (e.g. Hiatal hernia), 3) detect esophageal complications (e.g. erosive esophagitis, Barrett's esophagus, strictures)
+  - **Endoscopic findings** - normal endoscopic findings does not r/o GERD (only 30% are erosive disease):
+    - **Erosive esophagitis** - visible breaks in distal esophageal mucosa indicative of erosive GERD, graded by <u>Los Angeles Classification</u>: 
+    ![](img/LA_classification_of_erosive_esophagitis.png)
+    - **Features of complications** - e.g. peptic strictures, Barrett's esophagus (see below), and CA esophagus
+- **Ambulatory esophageal pH monitoring:**
+  - <u>Indications</u> - typically to confirm Dx of GERD in refractory GERD
+  - <u>Modalities</u> - all have a pH sensor and a portable data recorder for data analysis:
+    - **Transnasal pH monitor** - catheter type pH electrode inserted \> 5cm above the manometrically defined upper limit of LES
+    - **Wireless pH monitoring** - affixing capsule shaped device to distal esophageal mucosa (6cm proximal to the endoscopically defined Z line)
+    - **Esophageal pH monitoring with impedence** - detects weakly acidic reflux, not simply acid reflux
+- **Mx of GERD:**
+  - **Principles of Mx:**
+    - **General measures** - Lifestyle modification and dietary modifications
+    - **Medical Tx** - escalation of <u>acid suppression therapy</u> based on symptom severity, frequency and timing
+    - **Surgical Tx** - fundoplication procedures for refractory diseases
+  - **Lifestyle modification and dietary changes:**
+    - **General measure** - weight loss, smoking cessation, avoidance of alcohol
+    - **Dietary modifications:**
+      - <u>Avoid diectary triggers</u> - e.g. carbonated beverages, spicy food, fatty or fried food, citrus, coffee etc.
+      - <u>Avoid late meals</u> - maintain 3 hour interval between meal and lying down to avoid noctural symptoms
+      - <u>Small frequent meals</u> - reduce distension of stomach
+    - **Behavioural changes for noctural symptoms:**
+      - <u>Left lateral decubitus position</u> - puddle gastric contents from OGJ and may minimize reflux occuring when supine
+      - <u>Elevation of head in bed</u> - e.g. 2 pillows to improve nocturnal reflux symptoms
+  - **Medical Tx** - acid suppression therapy:
+    - **Empirical Tx for GERD** - initial Tx based on severity and frequency of Tx:
+      - <u>Mild, intermittent Sx</u> (\< 2/7) - step up approach from as-needed antacids, alginates, or H2 receptor antagonists, to twice-daily H2 receptor antagonists, to daily standard-dose PPI
+      - <u>Severe, persistent Sx</u> - daily standard dose PPI or potassium-competitive acid blockers (PCAB) preferred
+    - **Tx of of GERD diagnosed w/ erosive esophagitis** - PCAB preferred over standard dose PPI as higher healing rates
+    - **Antacids:**
+      - <u>Selection</u> - Magnesium hydroxide-aluminium hydroxide, Calcium carbonate
+      - <u>Duration of action</u> - brief relief of symptoms (30-60 min)
+      - <u>MOA</u> - neutralize acid in stomach
+    - **Alginates:**
+      - <u>MOA</u> - formation of viscous gel at OGJ to neutralise postprandial acid pockets
+    - **H2 receptor antagonists:**
+      - <u>Selection</u> - cimetidine, famotidine, nizatidine
+      - <u>MOA</u> - inhibit acid secretion by blocking H2 receptors on parietal cells
+      - <u>Adverse effect</u>:
+        - **Gynaecomastia and impotence** - occurs with cimetidine in dose- and time-dependent fashion
+        - **B12 deficiency** - occurs in long-term H2RA use
+        - **CNS side effects** - confusion, restlesness, somnolence, agitation, headaches etc.
+        - **Drug-drug interaction** - most are CYP450 inhibitors (CYP1A2, 2C9, 2D6)
+    - **Proton pump inhibitors:**
+      - <u>Selection</u> - Omeprazole, esomeprazole, lansoprazole, pantoprazole
+      - <u>MOA</u> - direct inhibition of H/K ATPase
+      - <u>Dosing</u> - daily dosing 30-60 min before breakfast to maximise proton pump inhibition (daily dosing shows cumulative effects and better clinical benefits than on-demand therapy)
+      - <u>Clinical effects</u> - symptom control, healing of esophagitis
+      - <u>Adverse effect</u> (read up)
+    - **Step-down of medical therapy:**
+      - <u>Patients with high grade (LA C/D) esophagitis</u> - maintenance acid suppression and repeat endoscopy
+      - <u>Other patients</u> - taper PPI after 8 weeks to reduce S/E of mediations
+
+    
+    ![](img/acid_suppression_therapy.png)
+
+# Surgical treatment of gastroesophageal reflux in adults
+
+- **Indications** - reserved for patients who have persistent symptoms despite OMT:
+  - <u>GI indications</u>:
+    - **Failed medical therapy** - moderate-to-severe GERD symptoms incompletely controlled by optimal medical therapy (lifestyle modification and pharmacotherapy), but should follow objective diagnosis prior to surgery
+    - **Intolerance or non-compliance w/ medical therapy** - those who experience severe complications with PPI therapy
+    - **Complications of GERD** - severe erosive esophagitis (LA grade C/D) or benign peptic strictures
+    - **Volume regurgitation** - likely due to an incompetent LES resulting in high-volume reflux
+  - <u>Non-GI indications</u> - considerred if reflux is considered the principal cause of respiratory Sx
+- **Pre-operative evaluation** - objective diagnosis of GERD required as surgery is only considered in non-responsiveness to OMT:
+  - **Upper endoscopy** - r/o upper GI malignancy and assessment of esophageal manifestations of GERD (erosive esophagitis, Barrett's Esophagus, and benign peptic strictures)
+  - **Esophageal pH testing** (+/- impedence) - indicated if upper endoscopy does not reveal severe esophagitis, Barrett's esophagus, and benign peptic strictures to demonstrate excessive esophageal acid exposure
+  - **Esophageal manometry** - assess LES competence and esophageal peristalsis, identification of achalasia (C/I for anti-reflux surgery), and alter surgical approach (complete vs incomplete)
+- **Operative techniques:**
+  - **Fundoplication procedures** - passage of the gastric fundus behind the esophagus to form a wrap encircling the esophagus:
+    - <u>Laproscopic complete fundoplication</u> - Nissen fundoplication
+    - <u>Laproscopic partial fundoplication</u> - Dor fundoplication (anterior 180 degrees), Toupet fundoplication (posterior 270 degrees wrap)
+  - **Hill gastropexy** - imbrication of anterior and posterior muscular fibres at level of the OGJ, teathered to the median arcuate ligament (i.e. reconstruction of normal reflux barrier through optimising angle of His and gastroesophageal valve)
+  - **Magnetic sphincter augmentation** - implantation of a magenetic sphincteric ring that increases the LES pressure
+  - **Transoral incisionless fundoplication** - transoral endoscopic procedure to create a full-thickness serosa-to-serosa partial plication
+- **Complications** - classified into acute, and chronic complications:
+  - **Acute complications** - mortality rate of laproscopic fundoplication \< 0.1-0.2%:
+    - <u>General surgical risks</u> - 1) bleeding, 2) infection, 3)esophageal perforation
+    - <u>Procedure-related injuries</u> - e.g. Gastroesophageal injuries, splenic injuries etc.
+  - **Chronic complications** - may be related to structural problems (30%), or functional problems (40%):
+    - **Functional problems** - suspected structural problem evaluated by barium upper esophagram and upper endoscopy, treated medically, endoscopically, or revisional surgery:
+      - <u>Wrap too loose</u> - hiatal hernia of the OGJ into the chest (results in recurrent of reflux Sx)
+      - <u>Wrap too tight</u> - causes stenosis and persistent dysphagia
+    - **Functional problems** - persistence of upper abdominal symptoms in absence of structural problems:
+      - <u>Dysphagia</u> - some degree of dysphagia after surery requiring modified diet initially, rates dependent on type of procedure (Complete \> partial fundoplication)
+      - <u>Gas bloat syndrome</u> - abdominal bloating likely due to aerophagia or vagal damage with the inability to belch due to presence of wrap
+      - <u>Recurrent reflux symptoms</u> - return of GERD like symptoms due to other anatomical, functional, or psychological factors
+    - **Operative failure** - failure rate of 10-15%
+    - **Need for revisional surgery** - 5-10% patients

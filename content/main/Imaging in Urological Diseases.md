@@ -1,0 +1,29 @@
+---
+id: 4668d1b7-bd0d-4d1c-bebf-f9578121b870
+title: Imaging in Urological Diseases
+---
+
+# Imaging in Urological Diseases
+
+- **Renal ultrasound** - role in assessing 1) renal size (for Bx), 2) screening for renal masses and cysts, or 3) suspected urinary tract obstruction:
+    - <u>Normal kidneys</u>:
+        - Size - 10-12cm
+        - Cortex - hypoechoic relative to surrounding tissue
+        - Pelvico-calyceal system - hyper-echoic due to presence of fats and vessels
+    - <u>Hydronephrosis</u> - demonstrated as dilated calyces on US
+    - <u>Fibrotic kidneys in CKD</u> - Thining of cortex with increased echogenicity with **lost of cortico-medullary differentiation**
+
+  
+  ![](img/renal_us.png)
+- **Non-contrast CT of the kidney, ureters and bladder (NCCTKUB)** - role in demonstration of stones within the kidney or ureters
+- **Contrast CT urogram** - considered gold standard for evaluation of cysts, masses or filling defects in the urogram:
+    - <u>Procedure</u> - serial scans taken in 4 phases:
+        - Plain phase - taken before non-contrast period
+        - Arterial phase - taken 30s after contrast injection, where contrast enhancement is an important feature to characterise the mass lesions
+        - Porto-venous phase - taken 90s after contrast injection
+        - Urogram phase - renal excretion of the contrast media, used to assess filling defects in the urinary tract
+- **IV urogram** - serial X-rays before and after IV contrast injection, but has been superceded by CTU 
+![](img/IV_urogram.png)
+- **Pyelogram** - visualisation of the collecting system and upper urinary tract by direct injection of contrast from above or below:
+    - Anterograde pyelography - US-guided injection of contrast into pelvicalyceal system, enables establishing percutaneous nephrostomy
+    - Retrograde pyelography - cystoscopy-guided catheterisation into ureteric orificaes to inject contrast

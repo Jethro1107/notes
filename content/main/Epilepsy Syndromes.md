@@ -1,0 +1,61 @@
+---
+id: 47655f38-f3b6-46c0-b08f-ef8b602bcfe3
+title: Epilepsy Syndromes
+---
+
+# Epilepsy Syndromes
+
+- **Definition** - electroclinical syndromes characterised by EEG patterns, age-of-onset, clinical features (including seizure types), and possibly underlying genetic basis and molecular pathophysiology, defined as distinct epilepsy syndromes will show characteristic treatment responsiveness
+- **Common epilepsy syndromes** - most of these Sx are a/w certain triggers (see below): 
+![](../img/electroclinical_epilepsy_syndrome.png)
+- **Common triggers of seizures in epilepsy syndromes:**
+    - Photic stimulation
+    - Sleep deprivation
+    - Alcohol
+    - Hyperventilation
+- **Mesial temporal lobe epilepsy with hippocampal sclerosis:**
+    - **Definition** - a electroclinical epilepsy disorder a/w characteristic focal temporal seizures a/w acquired abnormality of the hippocampus
+    - **Epideiology** - onset typically in adolescents/ young adults
+    - **Etiology** - acquired abnorality in the hippocampus in incompletely understood mechanisms:
+        - Genetic
+        - Structural
+        - Immune
+    - **Clinical features** - one of the most common cause of temporal lobe seizures:
+        - <u>Seizure types</u> - focal temporal seizures (aware or impaired aware) w/ or w/o secondary generalisation
+        - <u>Treatment responsiveness</u> - usually drug-resistant
+    - **Ix:**
+        - <u>EEG</u> - anterior-to-mid temporal epileptiform discharges
+        - <u>MRI</u> - hippocampal sclerosis
+
+    
+    ![](../img/mesial_temporal_sclerosis.png)
+    - **Mx** - appropriate ASM (lamotrigine monotherapy to start but usually drug-resistant)
+- **Juvenile myoclonic epilepsy:**
+    - **Definition** - common idiopathic generalized epilepsy syndrome a/w a history of myoclonic jerks and subsequent development of GTCS
+    - **Epidemiology** - characteristically seen in those w/ normal development and cognition:
+        - <u>Age of onset</u> - 10-24y
+        - <u>Sex</u> - female preponderance
+    - **Etiology** - idiopathic (polygenic implications)
+    - **Clinical features** - various seizure types progressing from focal to GTCS:
+        - <u>Initial manifestations</u> - myoclonic seizures usually within first hour of waking up, which may not present, but is usually identified on Hx taking
+        - <u>Manifestation resulting in clinical presentation</u> - GTCS
+    - **Ix:**
+        - <u>EEG</u> - 3-3.5Hz spike wave discharge
+        - <u>MRI</u> - normal
+    - **Mx** - ASM:
+        - <u>First-line medication</u> - valprolate (lemotrigine and levetiracetam for women of child bearing age)
+        - <u>Other ASMs</u> - phenytoin or carbamazepine may worsen myoclonus
+- **Epilepsy of generalized tonic-clonic seizures alone:**
+    - **Definition** - previously known as epilepsy with grand mal seizures
+    - **Epidemiology:**
+        - Onset typically 10-25y
+        - Normal development and cognition
+    - **Etiology** - idiopathic (polygenic implications)
+    - **Clinical features** - GTCS that is precipitated by:
+        - Fatigue
+        - Sleep deprivation
+        - Alcohol
+    - **Ix:**
+        - <u>EEG</u> - 3-3.5 Hz spike-wave discharge
+        - <u>MRI</u> - normal
+    - **Mx** - valprolate (lemotrigine/ levetiracetam for women of child-bearing ages)

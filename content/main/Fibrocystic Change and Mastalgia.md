@@ -1,0 +1,23 @@
+---
+id: e35971c4-88fe-41f6-beaa-256fccc16e35
+title: Fibrocystic Change and Mastalgia
+---
+
+# Fibrocystic Change and Mastalgia
+
+- **Definition** - a spectrum of clinical, mammographic, and histological changes common in 4th-5th decade of life lasting until menopause
+- **Pathophysiology** - an exaggerated response of breast stroma and epithelium to circulating and locally produced hormones and growth factors
+- **Clinical features of fibrocystic changes** - onset typically in 4th-5th decade lasting until menopause:
+    - <u>Mastalgia</u> - premenstrual cyclic mastalgia and breast pain caused by oovarian hormonal influence on mammary glands
+    - <u>Tenderness</u> - breast is tender to touch in association w/ phases of mastalgia
+    - <u>Palpable masses</u> - nodular mass that changes in size in relation to menstrual cycle, but **should be further worked up radiologically regardless as a breast lump**
+- **Signs:**
+    - <u>Variable clinical breast breast findings</u> - mild alterations to dense, firm breast tissue w/ palpable mass
+- **Ix:**
+    - **Mammographic features of fibrocystic changes:**
+        - Diffuse or focal radiodense tissue
+    - **Sonographic features of fibrocystic changes:**
+        - Multiple small cysts are typical in fibrocystic changes
+- **Dx** - clinical
+- **Risk of malignancy** - depending on histology (e.g. atypical ductal hyperplasia \[APH\]), but itself is not a RF of breast cancer
+- **Mx** - tamoxifen, danocrine, lupron (but w/ significant side effects)

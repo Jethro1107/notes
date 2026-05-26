@@ -1,0 +1,234 @@
+---
+id: d4138794-ffbe-4016-b067-f9cf6f7b98e5
+roam_parent: 279f79b3-651f-4d60-98bb-1648f5f25444
+title: Acute Coronary Syndrome and Myocardial Infarction
+---
+
+# Acute Coronary Syndrome and Myocardial Infarction
+
+- **Definition** - clinical syndrome that reflects catastrophic manifestations of coronary artery disease, encompassing both unstable angina, and myocardial infarction (MI)
+- **Terminology:**
+    - <u>Unstable angina</u> - clinical syndrome of new-onset or rapidly worsening angina (crescendo angina), angina on minimal exertion or angina at rest, in the **absence of myocardial damage**
+    - <u>Myocardial infarction</u> - symptoms of acute coronary syndrome with **evidence of myocardial necrosis**, as demonstrated by elevated troponin or creatine kinase-MB isoenzyme
+- **Pathophysiology of ACS:**
+    - <u>Acute plaque changes</u> - culprit lesion is typically a complex ulcerated or fissured atheromatous plaque w/ adherent platelet-rich thrombus
+    - <u>Local vasospasm</u> - coronary artery vasospasm further reducing coronary flow to the ischaemic myocardium
+    - <u>Dynamic process</u> - degree of obstruction may increase or decrease on itself or in response to therapy:
+        - **Increase in obstruction** - platelet aggregation leading to complete vessel occlusion
+        - **Decrease in obstruction** - platelet disaggregation and endogenous fibrinolysis results in resolution of the overlying thrombus may occur spontaneously over few days, but irreversible myocardial damage is delt
+    - <u>Progressive myocardial infarction</u> - process of infarction progresses over several hours, hence early Tx is necessary for salvaging myocardium and improving clinical outcomes 
+    ![](../img/time_course_of_mi.png)
+- **Clinical presentation of ACS** - may present as 1) a new phenomenon, or 2) against a background of CCS:
+    - **Angina** - characterised by excruciating severity, and more prolonged course, particularly if <u>irreversible by rest or nitreates</u>:
+        - <u>Rest angina</u> - occurs at minimal exertion or at rest
+        - <u>Crescendo angina</u> - increased severity, duration and precipitated at a lower effort threshold
+        - <u>New-onset worsening angina</u> - first presentation of chest pain reaching NYHA Stage III severity
+    - **Dyspnoea** - as a result myocardial dysfunction resulting in acute pulmonary oedema, and is the <u>single most reliable Sx</u> (Silent MI is common in in elderly and DM)
+    - **Syncope** - global cerebral hypoperfusion and is usually caused by arrhythmia (e.g. bradyarrhythmias, ventricular arrhythmias), or very rarely hypotension
+    - **Nausea and vomiting** - due to vagal stimulation which is commonly a/w inferior MI
+    - **Sudden cardiac death** - pulseless patient often from ventricular fibrillation or asystole, typically <u>manifesting immediately or within 1h</u>, while liability to fatal arrhythmias remain but deminishes by the hour
+- **Signs of ACS** - may occur in the absence of physical signs:
+    - **Primary assessment** - airway, breathing, circulation, disability:
+        - <u>Airway</u> - typically capable of protecting airway if conscious (note may present as syncope)
+        - <u>Breathing</u> - respiratory distress, SpO2, give O2 if \< 94%
+        - <u>Circulation</u>:
+            - Capillary refill and peripheral perfusion - deminished peripheral perfusion (reduced cap refill, cold, clammy peripheries) suggestive of **cardiogenic shock**
+            - BP/P - typically tachycardia and increased BP and narrow pulse pressure, ocassionally bradycardia (if inferior MI) or hypotension (if decompensated cardiogenic shock)
+            - Urine output - oliguria
+    - **General examination** - identify factors that aggravate myocardial ischaemia:
+        - <u>Temperature</u> - fever may add to tachycardia and cause myocardial ischaemia
+        - <u>Pallor</u> - anaemia may aggravate myocardial hypoxia (but may be a manifestation of sympathetic activation)
+        - <u>Thyrotoxic facies</u> - thyrotoxicosis may present with ACS
+    - **Cardiovascular examination:**
+        - <u>Pulse</u> - tachycardia
+        - <u>JVP</u> - may be raised
+        - <u>Apex beat</u> - diffuse, hyperkinetic apex beat, any cardiomegaly underlying CHF
+        - <u>Auscultation</u>:
+            - S1 soft
+            - Audible gallop rhythm (S3)
+            - Detection of systolic murmur that may reflect mechanical complication (e.g. MR, VSD)
+            - Basal crepitations (Killip's class)
+
+    
+    ![](../img/clinical_features_of_acs.png)
+- **Ix** - requires early recognition and r/o of other causes of chest pain or collapse:
+    - **12-lead ECG** - determines working diagnosis of NSTE-ACS vs STEMI and determine Mx and Tx:
+        - **Serial changes of ECG in STEMI:**
+            - Acute ST elevation (myocardial window)
+            - Progressive loss of R wave developing into pathological Q wave
+            - Resolution of ST elevation with development of T wave inversion (changes in ventricular repolarisation)
+
+      
+      ![](../img/serial_evolution_of_transmural_infarct.png)
+        - **Findings characteristic of STEMI:**
+            - ST-segment elevation over 2 concordant leads
+            - New bundle-branch block
+        - **Findings suggestive of NSTE-ACS:**
+            - Transient or persistent ST-T changes (e.g. ST depression, T wave inversion)
+            - Loss of R waves in the absence of Q waves
+        - **Findings requiring confirmation of posterior wall infarct** - ST-depression and tall R waves in V1-4
+    - **Troponin and CK-MB** - no detectable rise in cardiac biomarkers in unstable angina, but MI is characterised by rise in CK-MB and TnT: 
+    ![](../img/changes_of_cardiac_biomarkers_with_time.png)
+        - **Troponin** - released within 4-6h and remains elevated for \> 2w
+        - **CK-MB** - released within 4-6h, and <u>peaks at 12h</u>, and subsequently <u>falls to normal at 48-72h</u>
+    - **Routine bloods** - CBC, LRFT, ESR/CRP, TFT, A1c, lipid profile:
+        - <u>CBC</u>:
+            - Anaemia exacerbates ACS
+            - Leukocytosis is usual (peaks d1)
+        - <u>LRFT</u> - baseline for pharmacological therapy
+        - <u>ESR/CRP</u> - non-specifically elevated
+        - <u>TFT</u> - screen for thyrotoxicosis
+        - <u>A1c and lipid profile</u> - assess underlying risk factors
+    - **CXR** - role in triple r/o (e.g. PE, aortic dissection, tension pneumothorax):
+        - <u>Features of APO</u>:
+            - Upper lobe cephalisation
+            - Kerley B sign
+            - Alveolar oedema
+            - Batwing opacity
+        - <u>Cardiomegaly</u> - heart size may be normal, but reflects underlying myocardial damage if present
+    - **Echocardiogram** - assessment of LV function, and important complications (e.g. MR, pericardial effusion, VSD, rupture, mural thrombus)
+- **Risk stratification** - guides use of more complex medical Tx and timing of repurfusion:
+    - **Grace score** - predicts <u>risk of in-hospital death</u>: 
+    ![](../img/grace_score_acs.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Primary assessment, aspirin and initial resuscitation</u> - primary assessment, give sublingual ASA (325 mg) if no contraindications
+        - <u>Immediate Mx</u> - analgesia, anti-thrombotic therapy, anti-anginal therapy
+        - <u>Working diagnosis and determining Mx pathway</u> - reperfusion strategy dependent on whether presentation is NSTE-ACS or STEMI: 
+        ![](../img/davidson_treatment_algo_for_acs.png)
+        - <u>Reperfusion strategy</u> - fibrinolytic therapy vs primary percutaneous coronary intervention
+        - <u>Late in-hospital Mx</u> - further risk stratification and investigations, lifestyle modification, secondary prevention drug therapy, rehabilitation +/- adjunctive non-pharmacological therapy
+    - **Initial Mx** - analgesia, anti-thrombotic therapy, anti-anginal therapy:
+        - **Analgesia** - necessary to 1) relief pain, and 2) reduce autonomic drive as to reduce afterload, infarct size, and therefore susceptibility to arrhythmias:
+            - <u>Selection</u>:
+                - Opioids - IV morphine sulphate 5-10mg or diamorphine 2.5-5 mg
+            - <u>Dosing</u> - titration by giving repeated aliquots until patient is comfortable
+            - <u>Coprescription w/ antiemetics</u> - metaclopramide 10mg
+        - **Anti-thrombotic therapy** - DAPT with anti-coagulation:
+            - **Dual-anti-colagulant therapy** - should be continued after initial sublingual 300mg aspirin:
+                - ASA 75-325mg/d
+                - ADP antagonist - ticagrelor (180mg, and 90 mg twice daily) favoured over clopidogrel (600 mg, 150 mg daily for 1w, and 75 mg thereafter)
+
+        
+        ![](../img/evidence_for_antiplatelet_therapy_in_acs.png)
+            - **Anti-coagulants** - reduces risk of 1) thromboembolic complications, and prevents re-infarction in absence of reperfusion therapy or successful thrombolysis:
+                - Fondaparinux 2.5 mg SC daily (best safety and efficacy profiles)
+                - Enoxaparin 1mg/kg SC twice daily (reasonable alternative)
+                - Warfarin if there is risk of cardioembolism, i.e. persistent AF, extensive anterior infarction, or mobile mural thrombus
+                - Anticoagulation continued for 8d or until discharge from hospital or coronary revascularisation
+
+        
+        ![](../img/evidence_for_anticoagulation_in_acute_coronary_syndrome.png)
+        - **Anti-anginal therapy:**
+            - **Nitrates:**
+                - <u>Selection</u>:
+                    - Sublingual TNG (300-500 microgram)
+                    - IV nitrates (TNG 0.6-1.2 mg/h or isosorbide dinitrate 1-2 mg/h)
+                - <u>C/I</u>:
+                    - Hypotension
+                    - Recent use of sildenafil within 24-48h
+            - **Beta-blockers** - preferred as anti-arrhythmic and hence improves short-term mortality:
+                - <u>Selection</u>:
+                    - Atenolol 5-10 mg
+                    - Metoprolol 5-15 mg over 5 min
+                - <u>C/E</u>:
+                    - Acute pulmonary oedema
+                    - Hypotension (caution when BP \< 105 mmHg)
+                    - Bradycardia (HR \< 65)
+                    - Intolerable bronchospasm
+            - **CCBs** - vascular selective CCBs can be added to BBs if persistent chest discomfort, while cardioselective CCBs may be BBs C/I
+    - **Reperfusion strategies for NSTE-ACS** - no evidence for immediate emergency reperfusion strategy:
+        - <u>Evidence for reperfusion strategy for NSTE-ACS</u>:
+            - No demonstrable benefit for immediate reperfusion strategy in NSTEMI
+            - Thrombolytic therapy may be harmful
+        - <u>Timing for reperfusion for NSTE-ACS</u> - requires risks stratification to identify patients that benefit from in-hospital PCI
+    - **Reperfusion strategies for STEMI** - immediate reperfusion 1) improves survival, and 2) improves LVEF (time is myocardium applies):
+        - <u>Procedure</u> - reavscularisation by balloon inflation and insertion of intracoronary stent
+        - **Primary PCI** - gold standard in comparison to thrombolytic therapy but limited by availability of resources (current guidelines involves transport of patients to specialised cardiac units)
+            - <u>Timing</u> - door-to-balloon within 90 min (consider thrombolytic therapy if PCI cannot be administered within 2h)
+            - <u>Evidence</u> - better outcomes than thrombolytic therapy:
+                - Greater reduction risk of death
+                - Reduced risk of recurrent MI and stroke
+
+        
+        ![](../img/evidence_for_primary_pci_in_stemi.png)
+            - <u>Adjuvant therapy</u> - outcomes improved when used w/ GpIIb/IIIa antagonist
+        - **Thrombolysis** - appropriate use of thrombolytics if PCI is not recommended can improve survival:
+            - **Selection:**
+                - <u>Alteplase</u> (tPA) - given over 90 min, 15mg bolus, followed by 0.75 mg/kg but not exceeding 50 mg over 30 min, and 0.5 mg/kg but not exceeding 35 mg over 60 min
+                - <u>Tenecteplase</u> (TNK) - availability in the UK, with longer half-life enabling bolus administration w/o infusion (similar efficacy and risk profiles as alteplase)
+                - <u>Reteplase</u> (rPA) - can be administered as double bolus, but **higher bleeding risks**
+            - **Clinical efficacy** - reduces in-hospital mortality by 25-50%, with survival benefits lasting up to 10y; benefits greatest when received early (6h):
+                - Overview of large RCTs demonstrate that prompt Tx **within 12h** of Sx onset and characteristic ECG changes yields **improved short-term survival**
+                - Benefit gained greatest if Tx within first 2h, and is progressively lost: 50 lives saved per 1000 patients within 6h, 40 if 7-12h
+                - Tx may be harmful for those who present more than 12h after symptom onset
+
+        
+        ![](../img/evidence_for_thrombolytic_therapy.png)
+            - **S/E or complications of thrombolytic therapy:**
+                - <u>Bleeding risk</u> (0.5-1% major bleeding) - causes 1 additional ICH for every 250 patients treated
+            - **C/I** - if significant risk of serious bleeding: 
+            ![](../img/ci_for_thrombolytic_therapy_in_stemi.png)
+            - **Considerations for early emergency PCI:**
+                - Further clinical decompensation - e.g. haemodynamic instability, cardiogenic shock
+                - Failed thrombolytic therapy
+    - **Late in-hospital Mx of ACS:**
+        - **Principles of late in-hospital Mx:**
+            - <u>Risk stratification and further Ix</u> - risk stratification dependent on 1) residual LV function, 2) residual ischaemia, and 3) ventricular arrhythmias, 4) risk stratification scores (e.g. GRACE score) to guide further Ix and potentially <u>in-hospital coronary angiography</u>
+            - <u>Lifestyle and risk factor modification</u> - patient education and establish lifestyle modification
+            - <u>Initiation of secondary preventitive drug therapy</u> - initiate drug therapy that has prognostic implications in post-MI patients
+            - <u>Mobilisation and rehabilitation</u> - early mobilisation, gradual increase in physical activity, and address emotional problems
+
+      
+      ![](../img/late_mx_of_mi.png)
+        - **Prognostic factors of ACS** - requires further Ix:
+            - **LV function** - assessed in physical examination, ECG, CXR, and <u>early echocardiography</u> undertaken in the early recovery phase
+            - **Residual ischaemia** - early recurrent ischaemia should consider in-hospital invasive coro, while all low-risk patients are re-assessed 4w after index event by ETT to guide further Ix and revascularisation
+            - **Arrhythmia** - ventricular arrhythmia is a marker of 1) poor LV function, and 2) residual ischaemia, but empirical anti-arrhythmics provide no benefit (may have to be Tx with ICD)
+        - **Lifestyle modification and risk factor modification:**
+            - <u>Smoking</u> - smoking doubles risk of 5y mortality in patients w/ ACS, and smoking cessation is the single most effective contribution to prognosis
+            - <u>Diet</u> - consider Mediterranean-style diet, with caloric control, and low in fats
+            - <u>Body weight optmisation</u> - maintain ideal body weight through exercise and diet
+            - <u>Physical activity</u> - taking regular exercise
+            - <u>Mx of comorbidities</u> - e.g. HTN, DM, dyslipidaemia
+        - **Secondary prevention drug therapy:**
+            - **Dual anti-platelet therapy:**
+                - Low-dose aspirin therapy and clopidogrel for at least 6mo after the index event
+                - Life-long low-dose aspirin if no unwanted S/E and tolerable (consider life-long clopidogrel if intolerable)
+                - Evidence points to reduced risk of further infarction or other vascular events (~ 25%)
+            - **Beta-blockers** - secondary preventive role definitive in MI, but uncertain for UA:
+                - <u>Indications</u> - should be attempted in all patients unless intolerable (esp. if MI, uncertain for UA)
+                - <u>Cliical efficacy</u> - reduced risk of overall long-term mortality and SCD: 
+                ![](../img/evidence_for_secondary_preventitive_role_of_bb_in_mi.png)
+                - <u>Clinical notes</u>:
+                    - Overt CHF, COPD and PAD patients may yield additional benefits if tolerable
+                    - Often intolerable due to bradyarrhythmias, hypotension or asthma, but should always be tried to see if tolerable
+            - **RAAS blockade:**
+                - <u>Selection</u>:
+                    - ACEi - enalapril 10mg bid, ramipril 2.5-5mg bid
+                    - ARB - valsartan 40-160 mg bid, candesartan 4-16mg bid
+                - <u>Rationale</u>:
+                    - Counteract ventricular remodelling and progression into overt HF leading to rehospitalisation
+                    - Prevents recurrent infarction
+                - <u>Indications</u> - considered in all patients presenting w/ ACS:
+                    - Benefits greatest if overt clinical or radiological HF in post-infarct period
+                    - Benefits may extend to asymptomatic patients w/ preserved LV function (should always be considered, especially if indicated for HTN)
+                - <u>Caution</u>:
+                    - Avoid in hypotensive/ hypovolaemic agents (exacerbate hypotension and impair coronary perfusion)
+            - **Minerocorticoid receptor antagonists** - indicated if <u>poor LVEF</u> (\< 35%), <u>intractable pulmonary oedema refractory to ACEi, BBs</u>, or <u>DM</u>
+            - **Lipid-lowering therapy** - secondary preventitive target
+        - **In-hospital invasive coronary angiography and revascularisation** - depends on risk stratification:
+            - <u>Low risk patients</u> w/ no recurrence of Sx <u>do not benefit from routine invasive coro</u>, and recurrent ischaemia should ideally be assessed based on ETT 4 weeks after index event to guide further workup
+            - Medium-to-high risk patients, and those who fail to respond to medical therapy, extensive ECG changes, and pre-existing severe stable angina are <u>indicated for invasive coroangiography</u>, as they have CAD ameable to PCI and urgent CABG a/w **short- and long-term benefits**
+        - **Device therapy** (ICD):
+            - Implantable cardiac defibrillator is considered in subset of patients that have <u>high risk of SCD</u> to prevent fatal arrhythmic events
+            - Indications include severe LV dysfunction (<u>LVEF \< 30%</u>) after MI
+- **Prognosis:**
+    - <u>Mortality</u> - 12% 1 mo mortality, 20% 6 mo mortality
+    - <u>Poor prognostic factors</u>:
+        - Recurrent ischaemia
+        - Extensive ECG changes at rest or during pain
+        - Release of TnT or CK-MB
+        - Haemodynamic complications
+        - Arrhythmias
+        - Mechanical complications

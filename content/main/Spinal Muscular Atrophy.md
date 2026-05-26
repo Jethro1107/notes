@@ -1,0 +1,12 @@
+---
+id: d2023e65-fd69-4a64-bd12-79262576b481
+title: Spinal Muscular Atrophy
+---
+
+# Spinal Muscular Atrophy
+
+- **Definition** - geneitically determined disorder affecting spinal and cranial LMN
+- **Clinical features** - progression is slow and prognosis is better than MND:
+    - Muscle weakness
+    - Proximal and distal muscle wasting
+    - Fasciculations

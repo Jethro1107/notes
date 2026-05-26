@@ -1,0 +1,95 @@
+---
+id: 8d770cfb-5092-4ae7-a6b6-77944ca8cf86
+title: Tachycardia with a Pulse
+---
+
+# Tachycardia with a Pulse
+
+- **Definition and terminology:**
+    - <u>Tachycardia</u> - defined as HR \> 100 bpm
+    - <u>Symptomatic tachycardia</u> - defined as tachycardia that causes patient to exhibit evidence of inadequate perfusion, usually entails HR \> 150 bpm:
+        - Hypotension
+        - Altered mental status - including lightheadedness, pre-syncopal sensation and syncope
+        - Signs of shock
+        - Ongoing ischaemic chest pains
+        - Acute heart failure - evidence of acute pulmonary oedema
+- **Clinical approach to tachycardia:**
+    - <u>General measures</u> - Establish monitoring (Oximetry, cardiac monitoring), O2 if hypoxaemia, vascular access (IV/IO)
+    - <u>Focused assessment of haemodynamic instability</u> - check pulse:
+        - **Sx** - ongoing ischaemic chest discomfort, lightheadedness, presyncope, syncope, dyspnoea (APO)
+        - **Signs** - hypotension, signs of shock (e.g. deminished capillary refill), APO (basal crepitations)
+    - <u>Mx options</u> - immediate synchronised cardioversion or 12-lead ECG (see below)
+
+  
+  ![](~/Documents/notes/img/acls_approach_to_tachycardia.png)
+- **Approach to Mx of tachycardia** - based on haemodynamic instability of patient:
+    - <u>Unstable tachycardia</u> - treated with immediate synchronized cardioversion unless sinus tachycarida; IV 6mg adenosine for some cases of SVT
+    - <u>Stable tachycardia</u> - rhythm analysis on ECG to determine best course of action
+- **Approach to unstable tachycardia** - <u>immediate synchronised cardioversion</u>:
+    - <u>Indications</u> - all unstable tachycardia that is not sinus tachycardia:
+        - Unstable SVT (consider adenosine for SVT)
+        - Unstable AF
+        - Unstable AFlu
+        - Unstable WCT
+    - <u>Precaution</u> - pre-medication with sedatives and analgesics for all conscious patients
+- **12-lead ECG interpretation** - 3 questions must be answered to guide subsequent Mx:
+    - <u>Is the patient in sinus rhythm</u> - no targeted Tx for sinus tachycardia with focus on treating underlying cause
+    - <u>Is the QRS complex wide or narrow</u> - decision point between Tx as SVT or WCT
+    - <u>Is the rhythm regular or irregular</u> - reflects potential underlying etiology
+- **Mx of stable regular NCT:**
+    - <u>Etiology of regular NCT</u>:
+        - Sinus tachycardia
+        - Paroxysmal SVT
+        - Non-re-entrant SVT
+    - **Trial of vagal maneuvers** - employed on appropriate patients while other therapies are prepared:
+        - <u>Efficacy</u> - 25% of SVTs converted to sinus rhythm
+        - <u>Types of vagal maneuver</u>:
+            - Valsalva maneuver - forced exhalation against a closed clottis (nose pinched, mouth closed, bear down)
+            - Carotid sinus massage
+    - **Adenosine** - indicated if failed vagal maneuvers:
+        - <u>Dosing</u> - lower doses into central vein for heart transplant patients (3mg):
+            - 1st dose - IV bolus 6mg followed by 20ml saline flush (+/- elevation of extremity to ensure drug enters central circulation)
+            - 2nd dose - IV bolus 12mg
+        - <u>S/E</u> - brief but distressing and requires warning the patient:
+            - Dysphoria
+            - Dyspnoea
+            - Chest discomfort
+            - Flushing
+        - <u>Continuous ECG monitoring after administration</u>:
+            - Assessment if SVT is aborted
+            - Reveals underlying rhythm (e.g. AFlu) after nodal blockade
+    - **Rate control** - non-DHP CCB or BBs:
+        - <u>Indications</u> - rate control if adenosine does not convert SVT
+        - <u>Selection and Dosing</u>:
+            - **Non-DHP CCBs** - diltiazem (10-20mg IV over 2 min, repeat 20-25 mg IV after 15 min), verapamil (2.5-5mg IV over 2 min, repeat 5-10mg IV every 15-30 minutes)
+            - **BBs** - metoprolol (5mg IV every 2-5 min for 3 doses, 200mg oral q12h), atenolol, esmolol, blabetalol
+        - <u>Precaution</u> - ensure patient remains haemodynamically stable (not in APO)
+- **Mx of stable irregular NCT** - most commonly new-onset AF:
+    - **No role of vagal maneuvers and adenosine** - these cannot abort rhythm through inducing nodal blockade
+    - **Rate control** - non-DHP CCB or BBs:
+        - <u>Indications</u> - rate control if adenosine does not convert SVT
+        - <u>Selection and Dosing</u>:
+            - **Non-DHP CCBs** - diltiazem (10-20mg IV over 2 min, repeat 20-25 mg IV after 15 min), verapamil (2.5-5mg IV over 2 min, repeat 5-10mg IV every 15-30 minutes)
+            - **BBs** - metoprolol (5mg IV every 2-5 min for 3 doses, 200mg oral q12h), atenolol, esmolol, blabetalol
+        - <u>Precaution</u> - ensure patient remains haemodynamically stable (not in APO)
+        - <u>Monitoring</u> - monitor for hypotension (consider lower doses)
+- **Mx of regular WCT:**
+    - **Adenosine:**
+        - <u>Indications</u> - stable, regular, monomorphic WCT (never give if unstable, irregular or polymorphic)
+    - **Anti-arrhythmic infustion:**
+        - **Procainamide** - Class I anti-arrhythmic:
+            - <u>Dosing</u>:
+                - 20-50 mg/min until:
+                    - Arrhythmia suppressed
+                    - Hypotension
+                    - QRS duration \> 50%
+                    - Maximum dose 17 mg/kg
+                - 1-4mg/min maintenance infusion
+            - <u>Caution</u> - avoid if prolonged QTc, or CHF
+        - **Amiodarone** - Class III anti-arrhythmic:
+            - <u>Dosing</u>:
+                - First dose - 150mg over 10 min (repeat as needed if VT reccurs)
+                - Maintenance infusion - 1mg/min for first 6h
+        - **Sotalol:**
+            - <u>Dosing</u> - 100mg (1.5mg/kg) over 5 min
+            - <u>Caution</u> - avoid if prolonged QT

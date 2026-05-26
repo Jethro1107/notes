@@ -1,0 +1,93 @@
+---
+id: 435B1029-A4B7-4AFF-9A67-8DFA79C33666
+roam_parent: B595CB9B-6A77-4F85-8D3E-CE9C49D1FF32
+title: Disease of the Muscles and Approach to Suspected Disorder of the Motor Unit
+---
+
+# Disease of the Muscles
+
+- **Clinical suspicion of muscle diseases**:
+    - <u>Proximal symmetrical weakness</u> - most typically proximal muscles are affected symmetrically that reflects **LMN lesion** on examination, but specific muscular dystrophies may be a/w different muscles affected
+    - <u>Absence of sensory Sx</u> - r/o neuropathy as a cause
+    - <u>Cardiorespiratory involvement</u> - cardiorespiratory involvement is suggestive of muscular dystrophies
+- **Classification of disorders of the motor unit:**
+    - Anterior horn cell diseases (e.g. ALS)
+    - Disease of the neuromuscular junction
+    - Disease of the muscles
+    - Disease of the peripheral nerves (rarely, but possible in mononeuritis multiplex, or multifocal motor neuropathy, or early in disease course of inflammatory neuropathies)
+- **Other conditions manifesting w/ muscle weakness:**
+    - PMR/ fibromyalgia
+    - Malingering
+- **DDx of suspected muscle disease:**
+    - **Hereditary syndromes** - muscular dystrophies, muscle channelopathies, metabolic myopathies, congenital myopathies
+    - **Acquired proximal myopathies:**
+        - <u>Idiopathic inflammatory myositis</u> - polymyositis, dermatomyositis, inclusion body myositis
+        - <u>Endocrine and metabolic disorders</u>:
+            - **Thyroid disorders** - hypothyroidism, hyperthyroidism
+            - **Adrenal disorders** - Cushing's syndrome, Conn's syndrome, Addison's disease
+            - **Pituitary disorders** - Acromegaly
+            - **Electrolyte imbalance** - hypoK, HyperCa (e.g. hyperPTH)
+        - <u>Toxins</u> - alcohol, organophosphate poisoning, amphetamines, cocaine, heroin
+        - <u>Drugs</u> - e.g. statins, steroids, ICIs, cytotoxic agents, opiates
+        - <u>Paraneoplastic</u> - carcinomatous neuromyopathy, DM, ASyS
+
+    
+    ![](../img/causes_of_acquired_proximal_myopathy.png)
+- **Myopathies classified based on pattern of weakness or muscle involvement:** 
+![](../img/classification_of_myopathies_and_pattern_of_weakness.png)
+    - <u>Symmetrical proximal weakness w/ sparing of the facial muscles</u> (limb-girdle weakness) - DDx wide but includes 1) inflammatory myopathies, endocrine myopathies, drug-induced or toxic myopathies, and other hereditary myopathies
+    - <u>Facial weakness and scapular winging</u> - characteristic of facioscapulohumeral dystrophies (FSHD)
+    - <u>Facial weakness and distal limb weakness</u> - consider myotonic dystrophy type 1 esp if a/w hand grip myotonia
+    - <u>Ptosis, diplopia, and bulbar weakness</u> - consider NMJ disorders, occulopharyngeal muscular dystrophy, mitochondrial myopathies or some other congenital myopathies
+    - <u>Axial muscle weakness</u> - must consider myasthenia gravis, amyotrophic lateral sclerosis, SLONM, and late-onset RyR myopathies, myotonic dystrophy type 2, FSHD, hypoparathyroidism, focal myositis, or some form of inclusion body myopathy (sIBM and hlIBM)
+    - <u>Isolated distal myopathies</u> - rare MG, distal muscular dystrophies, congenital myopathies, oculopharyngeal distal myopathies etc.
+- **DDx of intermittent weakness** - beyond MG:
+    - <u>Delayed or unrelated to exercise</u>:
+        - NMJ disorders - MG, LEMS
+        - Periodic paralysis - hereditary hyper-/hypo-kalaemic periodic paralysis, thyrotoxic periodic paralysis, RTA
+    - <u>Related to exercise</u>:
+        - Disorders of muscle energy metabolism - e.g. McArdle disease (myophosphorylase deficiency), CPT deficiency
+        - Mitochondrial myopathies - e.g. cytochrome B deficiency
+- **Salient points of Hx** - an extension on the notes on weakness:
+    - **HPI** - characterised onset, progression, and impact on ADL, where pattern of weakness may inform the type of disorder:
+    - **Associated motor Sx:**
+        - <u>Myalgia</u> - signify a myopathic process, although paradoxically less likely a myopathic process if out-of-proportion to weakness
+        - <u>Muscle enlargement or atrophy</u> - early atrophy suggest neuropathic process, while pseudohypertrophy suggestive of a muscle dystrophy
+        - <u>Diplopia and ptosis</u> - variable EOM dysfunction highly suggestive of MG (oculopharyngeal muscle dystrophies are very rare)
+        - <u>Bulbar Sx</u> - bulbar dysfunction manifesting as dysphagia (and aspiration), and dysarthria
+    - **Associated Sx** - screen for endocrinopathies, inflammatory myopathies, autoimmune diseases:
+        - <u>Rash</u> - characteristic heliotropic rash, Gottron's papules, V-sign and shawl sign suggestive of DM (absence does not r/o IMs, due to DM variants such as CADM, PM etc.)
+        - <u>Arthralgia</u> - may be present in IMs, but can signify other CTDs
+        - <u>Raynaud's phenomenon</u> - may be present in ASyS, but can signify other CTDs
+        - <u>Fever</u> - may be present in ASyS, but can signify other systemic illness
+        - <u>Thyroid Sx</u> - screen for hyper- and hypo-thyroid Sx w/ weight changes and heat/cold intolerances which can cause both myalgias and
+        - <u>Cushing Sx</u> - screen for weight gain, easy bruising, Cushingoid changes
+        - <u>Sx of cortisol insufficiency</u> - postural dizziness or Sx of hypoglycaemia
+    - **PMH:**
+        - <u>Previous URTI/ diarrhoeal illness</u> - classically Guillain Barre Syndrome
+        - <u>Known endocrine disorders</u> - hypothyroidism, hyperthyroidism, Cushing's syndrome, Addison's disease, Hyperparathyroidism, DM
+        - <u>Known autoimmune disease</u> - some of which may evolve and overlap w/ myositis
+        - <u>Recently diagnosed malignancy</u> - paraneoplastic phenomenon
+        - <u>Infections</u> - e.g. HIV, leprosy
+    - **Other exposures:**
+        - <u>Alcohol</u> - capable of causing myopathy or peripheral neuropathy
+        - <u>Nitrous oxide</u> - subacute combined degeneration of the cord (although sensory Sx typically present)
+        - <u>Organophosphate poisoning</u> - chronic exposure to insectiscides
+    - **Drug Hx:**
+        - <u>Statins</u> - statin-induced myopathy (rarely symptomatic)
+        - <u>Glucocorticoids</u> - glucocorticoid induced myopathy
+        - <u>Immune checkpoint inhibitors</u> - IRAE-related myositis, myocarditis, MG ("3M syndrome")
+    - **FHx** - evidence of hereditary myopathies:
+        - Any family members w/ trouble walking
+        - Any family members requiring cane or wheelchair at a young age
+- **P/E:**
+    - <u>General examination</u> - evidence of Cushingoid features, thyroid status, characteristic rash on face, upper chest and hands
+    - <u>Neurological examination</u> - document:
+        - Pattern of weakness
+        - Absence of extrapyramidal signs
+        - Absence of sensory Sx
+        - EOM and other cranial nerve palsies
+- **Diagnostic evaluation of intermittent weakness:** 
+![](../img/diagnostic_evaluation_of_intermittent_weakness.png)
+- **Diagnostic evaluation of persistent weakness of suspected muscle origin:** 
+![](../img/diagnostic_evaluation_of_persistent_weakness.png)

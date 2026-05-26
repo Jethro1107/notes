@@ -1,0 +1,35 @@
+---
+id: 4cfd02c1-9b4a-424d-b7f0-69bb57d19820
+title: Causes of Nerve Injuries and Seddon-Sunderland Classification of Nerve Injuries
+---
+
+# Causes of Nerve Injuries and Seddon-Sunderland Classification of Nerve Injuries
+
+- **Principles of nerve injuries** - these may be interelated:
+    - Ischaemia
+    - Compression
+    - Traction
+    - Laceration
+    - Burning
+- **Transient ischaemia** - caused by acute nerve compression resulting in transient endoneurial anoxia:
+    - <u>Clinical features</u> - follows a characteristic natural Hx:
+        - Numbness and tingling within 15 minutes of compression, with persistence of paresthesia lasting up to 5 min
+        - Loss of pain sensibility after 30 minutes
+        - Muscle weakness after 45 minutes, with persistence of muscle weakness lasting up to 10 minutes after relieving the compression
+- **Seddon classification of nerve injury:**
+    - **Neuropraxia** (Suderland 1st-degree injury) - reversible block to nerve conduction a/w sensory and motor deficits followed by spontaneous recovery
+    - **Axonotmesis** (Sunderland 2nd-to-4th injury) - a/w interruption of axons in a segment of nerve, with variable involvement of the endoneurium, perineurium and epinerium:
+        - <u>Pathophysiology</u>:
+            - Axonal and myelin sheath disruption despict endoneural tube intact
+            - Wallerian degeneration occurs where axon disintigrates distal to lesion and is resorbed by phagocytes, accompanied by proliferation of Schwann cells and fibroblasts lining the endoneurial tubes (denervated motor end-plates and sensory receptors gradually atrophy)
+            - Axonal regeneration occurs as proximal stump sprouts unmyelinated tendrils which find their way to target organs along the cell-clogged endoneurial tubes with subsequent remyelination
+            - Recovery is variable
+    - **Neurotmesis** (Sunderland 5th-degree injury):
+        - <u>Pathophysiology</u>:
+            - Rapid Wallerian degeneration distal to the lesion
+            - Axonal regeneration occurs, but as endoneural tubes are destroyed over variable segments, they are unable find their way to the target organs
+            - Sprouting fibres might mingle w/ proliferating Shwann cells and fibroblasts, resulting in 'neuroma' at site of injury
+- **Principles of axonal regeneration:**
+    - Starts within hours of nerve damage
+    - Progresses slowly at a speed of 1-2mm per day
+    - If axons do not reach the target organs within 2y, they will never recover

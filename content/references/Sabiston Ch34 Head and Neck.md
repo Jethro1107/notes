@@ -1,0 +1,70 @@
+---
+id: 787ca8ce-6449-47e8-ac8e-88c2b2102012
+title: Sabiston Ch34 Head and Neck
+---
+
+# Normal Histology
+
+# Epidemiology
+
+# Carcinogenesis
+
+# Staging
+
+# Clinical Overview
+
+# Anatomical Sites
+
+## Neck
+
+## Oral Cavity
+
+## Oropharynx
+
+## Hypopharynx
+
+## Larynx
+
+## Salivary Glands
+
+- **Anatomy of the salivary gland:**
+    - **3 major paired salivary glands:**
+        - <u>Parotid glands</u>
+        - <u>Submandibular glands</u>
+        - <u>Sublingual glands</u>
+
+    
+    ![](img/anatomy_of_salivary_glands.png)
+    - **Numerous minor salivary glands** (\> 1000) - located submucosally in the oral cavity, pharynx, larynx (essentially anywhere in the upper aerodigestive tract)
+    - **Parotid gland** - largest salivary glands:
+        - <u>Anatomical division of parotid gland</u> - divided into superficial and deep lobe, practically separated at the plane of the **facial nerve**
+        - <u>Stensen Duct</u> - directly open to the buccal mucosa roughly located at upper 2nd molar
+        - <u>Lymphatic drainage of parotid gland</u> - presence of **intraparotid ducts** within the fascial envelope (site of lymphatic spread for parotid cancers and skin cancers of the face, temple eyelid, ear and scalp)
+    - **Submandicbular gland** - second largest major salivary glands:
+        - <u>Wharton duct</u> - directly open from the floor of mouth to the lingual frenulum
+    - **Sublingual gland** - smallest major salivary glands:
+        - <u>Anatomical site of sublingual gland</u> - floor of mouth, superficial to lingual nerve and myohyoid muscle
+        - <u>Ducts of Rivinus</u> - directly opens to the floor of mouth, or the Wharton duct
+- **Salivary gland diseaes:**
+    - **Non-neoplastic salivary gland diseases:**
+        - <u>Obstructive process</u> - salivary stones, strictures, thick saliva, or bacterial infections
+        - <u>Infectious process</u> - viral infections (e.g. mumps, CMV), bacterial infection, chronic infections (e.g. TB, toxoplasmosis, actinomycosis, Bartonella henselae)
+        - <u>Inflammatory process</u> - systemic disease like Sjogren's syndrome, sarcoidosis, IgG4-related disease or post-radioactive iodine
+    - **Neoplastic salivary gland disease** - 2017 WHO classification of primary salivary gland tumours: 
+    ![](img/WHO_classification_of_primary_salivary_gland_tumour.png)
+        - <u>Benign salivary gland tumour</u> (mostly in parotid) - Pleomorphic adenoma (most common), Warthrin tumor
+        - <u>Malignant salivary gland tumour</u> - Mucoepidermoid carcinoma, adenoid cystic carcinoma, adenocarcinoma, carcinoma ex-pleomorphic adenoma, acinic cell carcinoma
+- **Principles of salivary gland neoplasms:**
+    - <u>Distribution of salivary gland neoplasm</u> - 75% found in parotid glands
+    - <u>Relationship between gland size and malignancy risk</u> - the larger the gland, the more likely it is benign:
+        - **Parotid gland** - 25% malignant
+        - **Submandibular gland** - 50% malignant
+        - **Sublingual gland** - 75% malignany
+
+## Nasal Cavity and Paranasal Sinuses
+
+## Nasopharynx
+
+## Ear and Temporal Bone
+
+# Head and Neck Reconstruction

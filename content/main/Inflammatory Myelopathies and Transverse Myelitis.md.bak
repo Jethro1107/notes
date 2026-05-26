@@ -1,0 +1,68 @@
+---
+id: 3048E759-E99A-4918-9433-32B2D6FC4DCF
+roam_parent: 6C9166B3-557B-4575-A9F9-7E1BE7E001BD
+title: Inflammatory Myelopathies and Transverse Myelitis
+---
+
+# Inflammatory Myelopathies and Transverse Myelitis
+
+- **Definition and terminology:**
+  - <u>Inflammatory myelopathy</u> - broad group of neuroinflammatory or autoimmune diseases resulting in spinal cord injury, including neuroinflammatory diseases, systemic inflammatory disorders, post-infectious myelitis, and acute infectious myelitis
+  - <u>Transverse myelitis</u> - a clinical presentation reflecting a pattern of extensive spinal cord injury due to inflammation, clinically manifests as bilateral sensory Sx, unilateral or bilateral weakness, and bladder and/or bowel disturbances
+- **Epidemiology:**
+  - Up to 25% cases remain idiopathic
+  - The most common cause of inflammatory myelitis is multiple sclerosis
+- **DDx of inflammatory myelopathies:**
+  - <u>Neuroinflammatory disorders</u> - multiple sclerosis, neuromyelitis optica spectrum disorder,
+  - <u>Systemic inflammatory disease</u>:
+    - Sarcoidosis
+    - Autoimmune diseases - systemic lupus erythematosus, Sjogren's syndrome, Anti-phospholipid syndrome, mixed connective tissue disease
+    - Vasculitis - Polyarteritis nodosa, pANCA-associated vasculitis, primary CNS vasculitis, Behcet's disease
+    - Chronic lymphocytic inflammation with potine perivascular enhancement responsive to steroids (CLIPPERS)
+    - Erdheim-Chester disease
+  - <u>Postinfectious myelitis</u> - CMV, mycoplasma, other viral exanthems
+  - <u>Acute infectious myelitis</u> - viral most commonly described including HSV-1, HSV-2, EBV, CMV (+/- rabies)
+- **Multiple sclerosis** (MS-associated myelitis):
+  - <u>Epidemiology</u>:
+    - Most common cause of acute myelitis in the developed world (68% patients presenting w/ partial myelitis will have a definitive Dx of MS after mean FU of 4 years)
+    - Acute myelitis (or opticospinal MS) is a ommon presentation of MS in individuals of Asian or African Ancestry
+    - Rare in whites but may be associated w/ transverse myelitis
+  - <u>Clinical manifestations</u>:
+    - Usually a partial myelitis (partial cord syndrome)
+    - Transverse myelitis (see definition above) is rare
+  - <u>Risk factors for conversion to MS in patient presenting w/ partial myelitis</u>:
+    - Compatible demographic (\< 40y)
+    - Inflammatory CSF with oligoclonal bands
+    - \> 3 periventricular lesions on MRI brain
+  - <u>Characteristic MRI findings</u>:
+    - Mild swelling of the cord
+    - Diffuse or multifocal "shoddy" areas of abnormal signals on T2-weighted sequences
+    - Contrast enhancement of lesions suggests disruption of BBB in many cases
+  - <u>Mx</u>:
+    - Pulse steroids (IV methylprednisolone 500 mg qd for 3d followed by high dose oral prednisolone 1mg/kg/d for several weeks w/ gradual taper)
+    - Plasmapharesis if refractory to steroids
+- **Neuromyelitis optica spectrum disorder** (NMOSD-associated myelitis):
+  - <u>Clinical associations</u> - SLE and other autoimmune phenomenon
+  - <u>Clinical manifestations</u>:
+    - Severe myeloopathy (often transverse myelitis) often associated w/ bilateral optic neuritis preceding or following myelitis by weeks or months
+    - Recurrent myelitis w/o optic nerve or other involvement is possible
+  - <u>Characteristic MRI findings</u> - extensive longitudinal lesions spanning \>=3 vertebral segments (see notes on NMOSD)
+  - <u>Other Ix</u>:
+    - Serology - anti-AQP-4 (90%), anti-MOG
+  - <u>Mx</u> - glucocorticoids (+/- plasmapharesis) for induction; biologics for maintenance
+- **Sarcoidosis** (Sarcoid myelopathy or neurosarcoidosis):
+  - <u>Clinical manifestations</u> - absence of systmeic manifestation of sarcoid in up to 50% cases:
+    - Rarely a transverse myelitis
+    - Sensory involvement often predominates (dorsal surface involvement)
+  - <u>Characteristic MRI findings</u>:
+    - Edematous swelling of the spinal cord
+    - Ocassionally longitudinal extensive involvement mimicking NMO
+    - Subpial gandolinium enhancement of active lesions on dorsal surfaces (trident sign on axial view)
+  - <u>Characteristic CSF findings</u>:
+    - Mild lymphocytic pleocytosis
+    - Elevated protein
+    - Hypoglycorrhachia (not always present but useful for distinguishing neurosarcoid from other causes)
+    - Oligoclonal bands (not always prseent)
+    - CSF ACEi (low Sn and Sp)
+  - <u>Other Ix</u> - diagnostic evaluation of sarcoid if suspicious
+  - <u>Mx</u> - high-dose steroid + steroid sparing agent +/- biologics

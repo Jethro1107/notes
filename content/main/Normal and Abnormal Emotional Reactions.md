@@ -1,0 +1,43 @@
+---
+id: b4498255-6e69-4fcc-ae82-f29f69e57e86
+title: Normal and Abnormal Emotional Reactions
+---
+
+# Normal and Abnormal Emotional Reactions
+
+- **Normal emotional reactions** - normal responses to events or to primary morbid psychological experiences (e.g. grief reaction following loss of a loved one)
+- **There is no clear-cut line to distinguish normal emotional reactions from abnormal ones:**
+    - <u>Duration</u> - there is no formal definition of what constitutes a pathologically prolonged emotional reaction (some arbitrarily define a normal grief reaction as 6-12 mo), but it is likely influenced by many factors (e.g. social support, practical help, personality)
+    - <u>Clinical manifestations</u> - the constellation of symptoms experienced in the normal emotional reaction will be similar to that in those that are abnormal
+    - <u>Functional incapacity</u> - perhaps the most striking difference, where normal emotional reactions are a/w absent or very brief functional incapacity, while abnormal emotional reactions are a/w prolonged functional incapacity, however the normal period of dysfunction is less clear cut and again depends on many factors
+- **Similar symptoms in normal grief and depressive episodes:**
+    - Tearfulness
+    - Sleep disturbances
+    - Anorexia
+    - Poor concentration
+- **Abnormal emotional reactions** - states that are understandable in the context of stressful events but are deemed <u>excessive</u> and a/w more <u>prolonged impairment in function</u>
+- **Yerkes-Dodson curve** - illustrates that up to a certain level of stress, performance deteriorates:
+    - The tipping point is likely determined by genetics, personality predisposition, and external factors including social support, duration and severity of the stressor
+- **Diagnostically:**
+    - Considered to be 'adjustment disorders w/ disturbance of mood'
+    - To include: anxiety, depression, other emotions or disturbances as a result of some stressor
+- **Anxiety:**
+    - **Definition** - an unpleasant affective state simply characterised as 'fear for no adequate reason'
+    - **Clinical features of anxiety:**
+        - <u>Descriptive terms used by patients</u> - e.g. stress, tension, 'taut like a wire'
+        - <u>Somatic manifestations</u> - e.g. palpitations, sweating, difficulty breathing, dizziness, which likely add to the fear
+        - <u>Behavioural manifestations</u> - in overwhelming panic, patients may resort to:
+            - Inactivity (being 'paralysed with fear')
+            - Ill-directed, chaotic over-activity
+    - **Anxious forboding** - sense that something terrible will happen w/o knowledge of what this will be:
+        - Present in many mood disorders including GAD, panic disorders, and depressive illness
+        - This is to be distinguished from 'understandable forboding', e.g. cancer patient awaiting a scan result
+        - Some patients will admit they have nothing to be anxious about rationally, but still feel frightened for no reason
+        - Some patients will never make the connection between cause and symptoms
+    - **Related conditions:**
+        - <u>Panic attack</u> - onset of physical symptoms, and in combination the result is overwhelming fear
+        - <u>Phobia</u> - when the fear is restricted to one object, situation or idea, and is a/w physical symptoms of anxiety, and <u>with avoidance</u>
+- **Depression** - confusion stems the term being used as both a normal or abnormal emotional reaction:
+    - As a normal reaction that is associated with bereavement or as a normal reaction to a secondary morbid process
+    - As an abnormal reaction to a primary event resulting in profound, pervasive gloom
+- **Reactivity of mood** - fluctuations in mood that occur in parallel with change to one's environment

@@ -1,0 +1,12 @@
+---
+id: 70f6e1c9-c625-4161-bab1-32c02431eab2
+title: Autoimmune Polyendocrine Syndrome
+---
+
+# Autoimmune Polyendocrine Syndrome
+
+- **Definition** - autoimmune destruction of multiple endocrine glands resulting in hypo-function, with two distinct types:
+    - **APS 1** (less common) - autoimmune poly-endocrinopathy-candidiasis-ectodermal dystrophy (APECED), is an autosomal recessive inheritence of a LOF mutation in the autoimmune regulatory gene (AIRE), resulting in presentation of self-antigens to thymocytes in utero
+    - **APS 2** (more common) - Schmidt's syndrome, autosomal dominant inheritence w/ incomplete penetrace w/ strong association with genes a/w T cell functioning, defined as the occurence of two or more autoimmune endocrine disorder typically in F 20-60y
+- **Clinical features of APS 1 and APS 2:** 
+![](../img/aps_syndromes.png)

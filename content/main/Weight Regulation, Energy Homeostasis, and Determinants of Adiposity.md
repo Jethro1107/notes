@@ -1,0 +1,61 @@
+---
+type: main
+---
+# Weight Regulation, Energy Homeostasis, and Determinants of Adiposity
+
+- **Physiological significance of adipose tissue** - as a solution to the challenge of the intermittent availability of food:
+	- When food is plentiful, excess calories are converted to triglycerides and efficiently stored in the unilocular lipid droplets in fat cells
+	- When food is scarce, TG is broken down to FFA and gluycerol which provides as an energy source to other sites of the body
+- **We are fortunate enough to not face the problem of intermittent food supply:**
+	- In the world we live in, food supply is abundant, and lifestyle tends to be sedentary
+	- This results in a _chronic excess of energy intake over energy expenditure_
+	- This predisposes to development of _obesity_
+- **Body-weight by and large is subjected to fundamental homeostatic control** - body weight is actively defended, not passively accumulated:
+	- In the 1940s, it was demonstrated that rodents _defend their level of body fat_; once returned to ad libitum diets after a short period of enforced caloric restriction or excess, animals either overconsumed or underconsumed calories until they returned to their previous status
+	- The _hypothalamus_, which partially sits outside the BBB, serves as a key locus that receives neurohormonal inputs regarding 1) _hunger_, 2) _satiety_, and 3) _expenditure of energy_
+	- Storage of excessive energy as TG in adipose tissue is a response to energy excess
+- **Hormonal control of energy balance:**
+	- 
+	![[Pasted image 20260501192046.png]]
+	- **Leptin** - long-term regulation and as a reflection of total body fat store:
+		- _Level of leptin reflects total body fat store_ - importantly in caloric restriction, level of changes of leptin occurs more rapidly than changes in body fat:
+			- When fat stores increase, leptin levels increase
+			- When fat stores decrease leptin levels decrease
+		- _Physiological effects of leptin_ - production of a sense of satiety and reduces food intake
+		- _Clinical significance_ - leptin disorders (loss of functional leptin or leptin receptors) results in severe childhood obesity largely as a result of hyperphagia (unsuppressed appetite)
+		- _Leptin does not prevent obesity_ - from an evolutionary standpoint, leptin serves its role in defending loss of body weight, rather than preventing gaining weight:
+			- The response curve is not linear
+			- Fall in circulating leptin below a person's habitual level provides powerful stimulus to food intake
+			- Rise in circulating leptin (either through increasing fat stores or injection of leptin) produces discernible effect on hunger and energy expenditure ("_leptin resistance_")
+	- **Gastrointestinal hormones** - typically fluctuates immediately related to the maount and type of food ingested:
+		- _Examples of gastrointestinal hormones_ - released in response to a meal:
+			- Stomach - cholecystokinin (CCK)
+			- Small intestine - gastric inhibitory polypeptide (GIP), glucagon-like peptide 1 (GLP-1)
+			- Large intestine - peptide YY (PYY), oxyntomodulin (OXM)
+		- _Physiological effects_ - sense of satiety (partially also via vagal stimulation by ENS)
+	- **Pancreatic hormones** - amylin and insulin also act on hypothalamus to control energy balance
+	- **Pro-opiomelanocortin** (POMC) - expressed on highly specialised hypothalamic neurons projecting to the rest of the brain, aimed at _integration of neurohormonal signals regarding energy balance_:
+		- 
+		![[Pasted image 20260501192147.png]]
+		- **POMC-MSH axis** - POMC-derived peptides involves regulation of caloric intake and expenditure:
+			- Upon stimulation by leptin, POMC synthesis in the arcuate nucleus is increased (while simultaneously inhibiting AGRP)
+			- POMC-derived petpides alpha-/ beta-MSH stimulates melanocortin 4 receptor (MC4R) and results in 1) reduced food intake, and 2) increased SNS and metabolic activity (increased energy expenditure)
+			- Gamma-MSH stimulates MC3R regulates linear growth and deposition of nutrients into lean vs fat tissues
+		- **Negative control by other neuronal signals** - of clinical significance, AGRP directly switches off MC4R, and defective copies are a/w overeating:
+			- Agouti-related peptide (AGRP)
+			- Neuropeptide Y (NPY)
+			- Gamma-aminobutyric acid (GABA)
+- **Physiology of energy storage in adipocytes:**
+	- **Physiological response during over-nutrition:**
+		- _Glycogenesis_ - small amounts of excess energy is stored as glycogen in the liver and skeletal muscles
+		- _Lipid synthesis_ - when imbalance is greater, body is forced to store excess energy in a more efficient manner as TG in adipose tissues
+	- **Adipocytes as specialised cells for lipid storage:**
+		- Presence of the unilocular fat droplet as a specialised organelle for TG storage
+		- Presence of necessary enzymes for synthesis and breakdown of TG in a manner that rapidly responds to metabolic requirements
+		- It is thought that the adverse effects of obesity is not caused by increased fat storage in adipose tissues, but by storage in "non-professional" cells (e.g. MASLD if storage in hepatocytes, DM if storage in islets)
+	- **Mechanism of increased fat mass during obesity:**
+		- Increased storage of lipids per fat cell
+		- Increased synthesis of new fat cells, where ~ 10% of fat cell population turns over every year
+- **Reframing obesity:**
+	- _The system is wired to resist weight loss far more powerfully than weight gain_, which explains the poor long-term efficacy of dieting
+	- Obesity arises because of a presupposition that food supply is not guaranteed: _the problem of obesity is not a malfunction of adipose tissue — it is this system working exactly as intended in an environment it was never designed for_ 

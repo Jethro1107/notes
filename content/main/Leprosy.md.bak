@@ -1,0 +1,46 @@
+---
+id: 6b42748c-5c6e-464d-8245-aa0d5ab913a4
+title: Leprosy
+---
+
+# Leprosy
+
+- **Definition** - also known as Hansen's disease, a chronic granulomatous disease of the skin and nerves caused by Mycobacterium leprae
+- **Epidemiology:**
+  - <u>Prevalence</u> - 4 million globally
+  - <u>Incidence</u> - 750000 new cases/y (70% in India)
+- **Transmission:**
+  - Untreated lepromatous patients discharge through the nose
+  - Infections occurs through the nose, followed by haematogenous spread to skin and nerves
+- **Pathophysiology of leprosy:**
+  - **Predilectation to Schwann cell and Skin macrophages** - upon infection through the nose, and gains haematogenous access to skin and nerves
+  - **Manifestations dependent on host response** - clinical manifestations exist in a spectrum between lepramatous and tuberculoid leprosy, depending on the patient's <u>cell-mediated immunity</u>:
+    - <u>High levels of CMI</u> - **tuberculoid leprosy** occurs as effective CMI controls bacillary multiplication ('paucibacillary'), but organised **epitheliod granuloma** are formed to contain the infection
+    - <u>Absence of CMI</u> - **lepromatous leprosy** occurs as there is abundant bacillary multiplication (multibacilary) and results in disseminated infections
+  - **Immunological reactions** - immune response against an antigenic stimulus, and underlies type 1 lepra reactions, and type 2 lepra reactions (e.g. erythema nodosum leprosum)
+
+  
+  ![](img/leprosy_pathophysiology.png)
+- **Clinical features of leprosy:**
+  - **Effects of cutaneous and nerve damage:**
+    - <u>Skin lesions</u> - few, hypopigmented lesions in tuberculoid leprosy, while papules nodules or diffuse infiltration occurs in lepramatous leprosy (N.B. leonine facies)
+    - <u>Anaesthesia</u> - sensory loss as a result of destruction of small dermal nerves, or as a result of damaged peripheral nerves
+    - <u>Neuropathies</u> - sites of predilectation resulting in characteristic patterns of regional sensory loss and motor dysfunction:
+      - **Nerves of the upper limb** - ulnar, median, radial, radial cutaneous
+      - **Nerves of the lower limb** - comon peroneal, posterior tibial, sural
+      - **Nerves of the face** - facial nerve, great auricular nerve
+    - <u>Eye involvement</u> - due to impaired eyelid closure or trigeminal nerve involvement resulting in anaesthesia of the cornea and eye
+
+    ![](img/tuberculoid_vs_lepromatous_leprosy.png) 
+    ![](img/leprosy_skin_lesions.png)
+  - **Effects of leprosy reactions** (immunological):
+    - <u>Type 1 (reversal) reactions</u> - delayed hyersensitvity reactions characterised by erythematous skin lesions, and sudden loss of nerve function
+    - <u>Type 2 reactions (erythema nodosum leprosum)</u> - immune complex deposition in those w/ high energy load, w/ reactions whereever bacillary infiltraiton occurs
+
+    
+    ![](img/leprosy_reactions.png)
+- **Ix and Dx** - clinical Dx, supported by microbiological investigations:
+  - <u>Skin Bx</u> - finding of AFB on slit-skin smear, and quantification by the Bacterial index (BI)
+  - <u>PCR</u> - for M. leprae DNA
+- **Mx** - multidrug anti-leprotics: 
+![](img/mdt_for_leprosy_who.png)

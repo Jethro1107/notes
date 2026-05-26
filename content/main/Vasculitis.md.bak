@@ -1,0 +1,78 @@
+---
+id: bb8b847e-aaeb-44f5-9a78-9ab9f95f606c
+title: Vasculitis
+---
+
+# Vasculitis
+
+- **Definition** - Heterogenous group of disease characterised by <u>inflammation</u> and <u>necrosis</u> of the blood vssel walls, with associated damage to the organs they supply (e.g. skin, kidneys, lungs, heart, brain, GI tract)
+- **Concept of vasculitis:**
+  - <u>Luminal obstruction</u> - vessel lumen is usually compromised and is associated w/ ischaemia of the tissues supplied by the involved vessel
+  - <u>Classification based on</u>:
+    - Blood vessel involvement (single-organ or systemic) - by type, size, and location
+    - Primary vs secondary - primary vasculitic syndrome where vasculitis is the sole manifestation of disease, or if is a secondary component of another disease
+- **Vasculitic syndromes:** ![](../img/vasculitic_syndrome.png) 
+![](../img/classification_of_vasculitis_by_anatomical_distribution.png)
+- **Pathophysiology of vasculitis:**
+  - **General hypothesis of vasculitic phenomenon** - an immunopathogenic mechanism occuring against a certain antigenic stimuli:
+    - Immune complex formation
+    - Antineutrophil cytoplasmic antibodies (ANCA)
+    - Pathogenic T lymphocyte responses
+
+    
+    ![](../img/vasculitic_syndromes_and_their_predominant_hypothesis_of_pathophysiology.png)
+  - **Factors influencing expression of vasculitic syndrome:**
+    - Genetic predisposition
+    - Environmental expaosures
+    - Regulatory mechanisms associated w/ immune responses against certain Ag
+  - **Pathogenic immune-complex formation** - the first and most widely accepted pathogenic mechanism of vasculitis, although seldon demonstrable:
+    - <u>Presence of an antigenic stimuli</u> - rarely identified by hepatitis B is associated w/ systemic vasculitis clinically similar to polyarteritis nodosa, while hepatitis C is associated w/ a form of cryoglobulinaemic vsaculitis
+    - <u>Deposition of IC complex and inflammatory responses</u> - deposition into specific vessels due to increases in vaso-active amines released from PLT or mast cells in an IgE-mediated manner:
+      - Acute inflammation - neutrophilic infiltration to phagocytose IC complex, with release of **intracytoplasmic enzymes**, causing destruction of vascular wall
+      - Chronic inflammation - mononuclear infiltration resulting in **narrowing of vascular lumen**, and ischaemic changes in tissues supplied by the vessel
+    - <u>Factors influencing inter-individual variability and vascular involvement</u>:
+      - Patient factor - ability of RES to clear circulating complexes
+      - Complex factor - size and psyicochemical properties
+      - Vessel factor - size, turbulence, intravascular pressures, pre-existing integrity of vessel endothelium
+  - **Anti-neutrophil cytoplasmic antibodies** - Ab directed against certain proteins in cytoplsamic granules of neutrophils and monocytes, presence in a subset of vasculitis termed ANCA-associated vasculitis:
+    - **Types of ANCA:**
+      - <u>Cytoplasmic ANCA</u> (cANCA) - the major being proteinase 3 in neutrophil azurophilic granules, results in diffuse, granular cytoplasmic staining pattern, seen in 90% of patients w/ Wegner's granulomatosis
+      - <u>Perinuclear ANCA</u> (pANCA) - the major Ag being myeloperoxidase, results in perinuclear staining pattern of the indicator neutrophils, seen in variable % of patients w/ microscopic polyangitis, granulomatosis with polyangitis, EGPA, or isolated crescentic GN
+    - **Mechanism of vasculitic syndromes:**
+      - <u>Neutrophil degranulation</u> - exposure to TNF-alpha or IL-1 triggers results in release of azurophilic granules and exposure of proteinase 3 or MPO
+      - <u>ANCA-activation</u> - ANCA binds to exposed epitopes and results in:
+        - Endothelial injury
+        - Release of pro-inflammatory cytokines
+  - **Pathogenic T lymphocyte responses and granuloma formation** - explains histopathologic feature of granulomatous vasculitis:
+    - <u>Role of endothelial cells as antigen-presenting cells</u> - expression of MHC class II in-response to INF-gamma, allows presentation of Ag to CD4 T cells
+    - <u>Induction of immunological reaction in vessel wall</u> - e.g. release of IL-1 and TNF-alpha, priming leukocyte adhesion
+- **Clinical features of vasculitis** - classified into 1) features of local tissue ischaemia, and 2) systemic inflammation: 
+![](../img/clinical_features_of_systemic_vasculitides.png)
+- **Features suggestive of vasculitic phenomenon** - any patient w/ unexplained multisystemic illness:
+  - No-specific inflammatory condition (e.g. fever, weight loss, fatigue, raised inflammatory markers)
+  - Palpable purpura (or livedo reticularis) 
+  ![](../img/palpable_purpura_in_vasculitis.png)
+  - Pulmonary infiltrates with microscopic haematuria
+  - Chronic sinusitis
+  - Mononeuritis multiplex
+  - Unexplained ischaemic events
+  - GN in the evidence of multi-system diseases
+- **Conditions that mimic vasculitis:** 
+![](../img/conditions_that_mimic_vasculitis.png)
+- **Approach to patient w/ suspected Dx of vasculitis:** 
+![](../img/approach_to_patient_with_suspected_vasculitis.png)
+  - <u>Rule out conditions that mimic vasculitis</u> - see conditions that mimic vasculitis
+  - <u>Proper work up for suspected vasculitis</u> - aimed at establishing Dx:
+    - Clinical findings and laboratory workup (e.g. inflammatory markers, serology)
+    - Bx of affected organs (most are histological diagnoses)
+    - Angiogram whenever apropriate (e.g. Polyarteritis nodosa, Takayasu arteritis, primary CNS vasculitis)
+  - <u>Identify underlying causes</u> - e.g. secondary underlying disease, presence of antigenic stimuli (e.g. HBV, HCV)
+  - <u>Tx of vasculitis</u> - see below
+- **Principles of Tx:**
+  - <u>Identification and Tx of secondary cause</u>:
+    - Offending Ag - removal Ag (w/ antiviral therapy)
+    - Underlying disease - identification and Tx infections, neoplasms, or connective tissue disease
+  - <u>Tx of primary vasculitic syndromes</u> - regimens based on efficacy reported in clinical trials and balancing of benefit-to-risk ratio (steroids +/- immunosuppressives if non-specific vasculitic phenomenon tailored to clinical response)
+  - <u>Address acute and long-term complications of medications</u> - e.g. addressing risk of bone loss in those on steroids, bladder toxicity if on CTX, monitoring for cytopenias, reactivation of viral infections, and ABx prophylaxis of life-threatening infections (e.g. septrin for PJP)
+- **Side effects of drugs used for vasculitic syndromes:** 
+![](../img/common_side_effects_for_drugs_for_vasculitis.png)

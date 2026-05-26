@@ -1,0 +1,69 @@
+---
+id: 8f51896e-cbee-4895-a35b-3ab08c62dc2e
+title: Lower GI Bleeding
+---
+
+# Lower GI Bleeding
+
+- **Definition** - GI bleeding arising distal to Ligament of Trietz (from the SB, colon, and anal canal)
+- **Epidemiology:**
+    - Incidence - 20-27/100000/y
+    - Demographic - increases w/ age (200-fold increases from 3rd to 9th decade)
+- **Clinical features** - dependent on nature of pathology and hence rate and extent of bleeding:
+    - **Acute lower GI bleeding** (diverticular disease, angiodysplasia) - profuse red/ maroon diarrhoea +/- shock
+    - **Chronic lower GI bleeding** - small abouts of haematochezia
+- **Etiology of Lower GI bleeding** - SB, colon, rectum, anal canal:
+    - Anatomical - diverticulosis, Meckel's diverticulum
+    - Vascular - angiodysplasia, ischaemic bowel disease, radiation enteritis, aorto-enteric fistula
+    - Inflammatory - Inflammatory bowel disease, infectious colitis
+    - Neoplastic - large polyps, CA carcinoma, post-polypectomy bleeding
+    - Anorectal (outlet) bleeding - haemarrhoids, anal fissures, rectal ulcers, rectal/ anal neoplasms etc.
+    - UGIB - 10% of UGIB manifest as haematochezia
+
+  
+  ![](../img/causes_LGIB.png)
+- **Salient points of Hx:**
+    - <u>HPI</u> - onset, progression, quality, severity, timing of ocurrence, associated Sx:
+        - **Onset** - acute or chronic onset, number of times, previous episodes of PR bleeding, association w/ defaecation
+        - **Progression** - Intermittent bleeding, or progressively worsening bleeding
+        - **Quality:**
+            - <u>Colour of haematochezia</u> - ranges from bright red to marroon colour moving proximally along the bowel
+            - <u>Blood clots</u> - presence of blood clots predicts colonic source and severity of bleed
+            - <u>Relations w/ stool</u>:
+                - Blood mixed in stool - suggestive of colorectal pathology
+                - Blood on top of stool - suggestive of anoreactal pathology (ask about blood on wiping)
+        - **Severity** - ability to cause anaemic Sx and haemodynamic instability
+    - <u>Associated Sx</u>:
+        - Anorectal Sx - anal pain, pruritis, prolapse
+        - GI Sx - abdominal pain, diarrhoea, altered bowel habits:
+            - Abdominal pain - a/w an inflammatory etiology (e.g. infectious, ischaemic, inflammatory colitis)
+            - Diarrhoea - Infectious colitis
+            - Altered bowel habits - e.g. change in stool frequency, caliber, constipation/ diarrhoea, sense of tenesmus
+        - Constitutional Sx - weight loss (suggestive of IBD, malignancy)
+    - <u>PMH</u>:
+        - Medication precipitating bleeding - NSAID, anti-coagulants, anti-platelets
+        - Previous Ix - e.g. prior endoscopy, FOBT
+        - Hx of bowel diseases - e.g. inflammatory bowel disesas
+        - Significant comorbidities - e.g. cardiovascular disease, liver disease
+    - SHx - diet, smoking and alcohol
+    - FHx - FHx od colorectal carcinoma, or related cancers (thyroid, breast, ovaries, endometrium, SB, stomach, CNS)
+- **P/E:**
+    - Assessment of haemodynamic instability - hydration status, vital signs (BP/P, RR)
+    - Abdominal examination - tenderness, palpable masses
+    - PR examination
+    - Proctoscopy - for diagnosis of ano-rectal lesions
+- **Ix and monitoring:**
+    - <u>Monitoring of haemodynamics</u> - Cardiac monitor (BP/P), Foley catheter (UO), +/- CVP measurement
+    - <u>Blood tests</u>:
+        - **CBC:**
+            - Hb - Normal Hb in acute setting due to loss of whole blood, NcNc anaemia occurs after haemodilution
+            - WBC - leukocytosis
+            - HCT - assessment of hydration status
+        - **RFT** - consider UGIB (especially if Urea:Cr ratio elevated)
+        - **LFT** - concomittent liver disease
+        - **Clotting profile + T&S** - prepare for transfusion and surgery
+    - <u>Diagnostic evaluation</u> - endoscopy, angiography, radionuclide scan, other imaging
+- **Initial Mx:**
+    - General supportive measures - O2 support, IV access
+    - IV fluid resuscitation - NS/ lactate ringer's solution +/- blood transfusion (restrictive transfusion strategy)
+    - Management of coaguloatphies, anticoagulants, antiplatelet agents - transfusion of PLT if thrombocytopenic, FFP/ PPC considered for derranged clotting profiles, withold anti-coagulants

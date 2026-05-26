@@ -1,0 +1,64 @@
+---
+id: e788844c-b02a-46bd-9af9-11d8bd5f9a06
+title: Variceal Bleeding
+---
+
+# Variceal Bleeding
+
+- **Definition** - acute UGIB from gastroesophageal varices
+- **Risk of bleeding** - dependent on PVPG:
+  - <u>Small varices</u> - 2y risk 7%
+  - <u>Large varices</u> - 2y risk up to 30%
+- **DDx of variceal bleeding** - patients w/ cirrhosis can develop non-variceal bleeding (20%):
+  - <u>Peptic ulcer disease</u> - higher incidence of peptic ulceration in patients w/ chronic liver disease compared w/ general population
+  - <u>Mallory-Weiss syndome</u> - especially w/ alcoholic cirrhosis
+- **Mx** - primary prevention and control of variceal bleeding:
+  - **Principles of Mx:**
+    - <u>Routine screening and primary prevention of variceal bleeding</u>
+    - <u>Acute management of variceal bleeding</u> - management of upper GI bleeding with pre-endoscopic Tx and various modalities: 
+    ![](../img/emergency_mx_of_variceal_bleeding.png)
+    - <u>Secondary prevention of recurrent variceal bleeding</u> - e.g. Beta-blockers, esophageal banding programmes, TIPPS
+  - **Primaey prevention of variceal bleeding:**
+    - **Beta-blocker therapy** - initiated if non-bleeding ulcers are identified at endoscope:
+      - <u>Selection</u> - Propanolol (80-160mg/d), Nandolol, Carvedilol
+      - <u>MOA</u> - reduce HR, thus reducing portal venous pressures
+      - <u>Clinical efficacy</u> - reduces incidence, mortality from variceal bleeding
+    - **Prophylactic banding** - indicated for large varices
+  - **Management of acute variceal bleeding:**
+    - **Resuscitation** - O2 if shock, fluids (colloids), restriction transfusion strategy, high-dose IV PPI
+    - **IV antibiotics:**
+      - <u>Selection</u> - IV cephalosporin or quinolones (e.g. ciprofloxacin)
+      - <u>Rationale</u> - SBP and sepsis is common in variceal bleeding (demonstrated to improve outcomes)
+    - **IV terlipressin** - pharmacological reduction of portal venous pressure:
+      - <u>RoA</u> - intermittent injection rather than continuous infusion
+      - <u>Dosing</u> - IV 2mg q.i.d until bleeding stops, followed by 1mg q.i.d. for up to 24h
+      - <u>MOA</u> - Splanchnic vasoconstriction reducing portal blood flow and hence reduces portal pressure
+      - <u>S/E</u> - beware in IHD or PAD due to vasoconstrictive properties
+    - **Endoscopic Tx** - diagnostic of variceal bleeding and therapeutic maneuvers:
+      - **Band ligation** - preferred over injection sclerotherapy:
+        - <u>Principles</u> - rubber band cap to occlude varices, which subsequently sloughs w/ variceal obliteration
+        - <u>Technical details</u> - banding repeated q4-6w until varices are obliterated (w/ follow up endoscopy for recurrence)
+        - <u>Complications</u> - banding-induced ulceration and bleeding (prevented by acid suppression)
+      - **Injection sclerotherapy:**
+        - <u>Principles and technical details</u> - injection of sclerosing agent in varices
+        - <u>Complications</u>:
+          - Perforation of esophagus
+          - Benign esophageal strictures
+      - **Tissue glue** (Cyanocrylate) - reserved for fundal varices
+      - **Balloon tamponade:**
+        - <u>Principles</u> - balloon at pressure \> Portal venous pressure to stop bleeding as a **bridge to definitive therapy**
+        - <u>Technical details</u>:
+          - Endotracheal intubation prior to tube insertion - reduce risk of aspiration
+          - Insertion of **Sengstaken-Blackmore tube** - tip placed into stomach confirmed by radiology (or via endoscopic vision)
+          - Inflation of the gastric balloon (200-250 mL) - gental traction to maintain pressure on the varices to control bleeding
+          - Inflation of esophageal baloon to no less than 40 mmHg - requires deflation for 10 minutes every 3h to avoid mucosal damage
+    - **Transjugular intrahepatic portosystemic shunt** (TIPSS):
+      - <u>Principles</u> - reduction of portal pressure by placing stent between portal vein and hepatic vein
+      - <u>Clinical outcomes</u> - 1) Reduces variceal bleeding, 2) Increased HE, 3) Does not improve survival 
+      ![](../img/evidence_for_tipss_in_cirrhosis.png)
+      - <u>Complications</u>:
+        - Hepatic encephalopathy - managed by reducing shunt diameter
+    - **Surgery** - Tx of last resort:
+      - <u>Portosystemic shunt surgery</u> - often leads to HE and reserved for patients w/ good liver function
+      - <u>Oesophageal transection</u> - Tx of last resort, but operative mortality is high
+- **Prognosis** - overall mortality 15%, but as high as 45% in decompensated liver function (Child's C)

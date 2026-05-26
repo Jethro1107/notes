@@ -1,0 +1,45 @@
+---
+id: 4c2ac822-6414-4e33-b4b3-cb8bce8ad6f9
+title: Positive Blood Culture and Bacteraemia
+---
+
+# Positive Blood Culture and Bacteraemia
+
+- **Definition and terminology:**
+    - <u>Positive blood culture</u> - blood culture that returns positive result, which may reflect bacteraemia
+    - <u>Bacteraemia</u> (blood-stream infection) - community acquired or noscomial infections, with or without a primary site of infection
+    - <u>Primary bacteraemia</u> - positive blood culture with clinical infection in which the site of infection is unknown
+- **Etiology of positive blood culture:**
+    - <u>Contamination</u> - usually caused by skin-contaminants (coagulase-negative staphylocci) especially if same growth from all bottles from one venesection
+    - <u>Non-significant viridans streptococi bacteraemia</u> - may not be physiological, but as Viridans streptococci isolated, must work up for infective endarditis
+    - <u>Infective endocarditis</u> (20-30%) - valvular infection in the subacute, or chronic setting
+    - <u>Bone and joint infection</u> (10%) - e.g. osteomyelitis, septic arthritis, if evidence of bone or joint infection
+    - <u>Venous catheter infections</u> - esp. central or preipheral venous cather infection especially during prolonged hospitalisations
+    - <u>Bacteraemia with no foci</u> - accounts for 10% of community-acquired cases, and 30% of nosocomial cases, most commonly S. aureus bacteraemia
+
+  
+  ![](img/microbiological_etiology_of_bacteraemia.png)
+- **Predisposing risk factors to bacteraemia:**
+- **Approach to positive blood culture:**
+    - <u>Hx</u> - 1) note the setting in which bacteraemia occurs (community acquired vs nosocomial), and 2) any predisposing risk factors (see above)
+    - <u>P/E</u>:
+        - General exammination - temperature; inspection of indwelling catheter, surgica sites and skin for foci of infection; hand signs of infective endocarditis
+        - Cardiovascular examination - auscultation for any evolving murmur suggestive of IE
+        - Examination of bones and joints - swelling, restricted ROM and tendernesss over infected joint
+        - Abdominal examination - for tenderness
+        - Fundoscopy - roth spots for infective endocarditis
+    - <u>Ix</u> - as per septic workup and more dependent on the causative organism
+- **Ix:**
+    - **CXR and urine culture** - as per septic workup
+    - **Routine bloods** - as per septic workup (CBC, LRFT, ESR/CRP, RBG)
+    - **Echocardiography** - considered for those w/ +ve risk factors (e.g. prosthetic valves, valvular heart disease), or culture reveal organism a/w endocarditis:
+        - <u>TTE</u> - non-invasive but variable Sn (50-90%)
+        - <u>TOE</u> - high Sn (\> 95%) but invasive, considered if -ve TTE
+    - **Colonoscopy** - certain rare BSI (S. bovis, S. galloluticus, C. septicum) have specific associations w/ colonic carcinoma
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Antimicrobial therapy</u> - initiate based on sensitivity testing of the blood culture
+        - <u>Attention to source of infection</u> - e.g. surgical drainage of the foci of infection if appropriate; removal of catheter as appropriate
+    - **Antimicrobial therapy** - duration variable:
+        - S. aureus bacteraemia from venous catheter, skin and soft tissue infections, or right-sided IE - 2 weeks
+        - Other S. aureus bacteraemia - 4-6 weeks

@@ -1,0 +1,137 @@
+---
+id: 42907ebf-62fa-464f-9bf4-7dbb501d2eff
+title: Chronic Kidney Disease
+---
+
+# Chronic Kidney Disease
+
+- **Definition** - irreversible deterioration of renal function which develops over a period of years, clinically defined as persistent low eGFR (\< 60 ml/min/1.73m2) for 6 mo
+- **Epidemiology:**
+    - <u>Prevalence</u> - prevalence of G3-5 CKD (eGFR \< 60) aroudn 5-7% (mainly affecting \>65y)
+    - <u>Demographic</u> - increasing incidence w/ age (mainly in \>65y), with much higher prevalence in comorbid patients (HTN, DM, atherosclerotic vascular disease)
+    - <u>Progression and burden</u> - extremely high enconomic and non-economic cost:
+        - Stage 1-3 CKD - great majority do not progress to ESRD and thus attribute little to economic burden
+        - Stage 3b-5 CKD - invariable progression to ESRD, with significant attribution to economic cost
+- **Etiology of CKD:**
+    - <u>Diabetes mellitus</u> (20-40%) - diabetic nephropathy is the most important cause of CKD
+    - <u>Hypertension</u> (5-20%) - causality controversial, HTN is attributable to deteriorating renal function, but much may be caused by occult renal disease
+    - <u>Glomerular disease</u> (10-20%) - **IgA nephropathy** is the most common glomerular disease resulting in CKD
+    - <u>Interstitial nephritis</u> (20-30%) - most cases of chronic interstitial nephritis are drug-induced
+    - <u>Systemic inflammatory disease</u> (5-10%) - e.g. SLE, various vasculitis including ANCA-associated vasculitis
+    - <u>Congenital or inherited causes</u> - Autosomal dominant polycystic kidney disease (ADPKD), Alport's syndrome
+    - <u>Unknown</u> (5-20%) - especialy in elderly presenting with moderate GFR reduction (i.e. stage 3 CKD) when **renal biopsy is contraindicated** due to fibrotic kidneys and additional information would not alter treatment
+- **Clinical features of CKD:** 
+![](../img/stages_of_ckd_correlating_to_clinical_presentation.png)
+    - **Asymptomatic** - most present when they are asymptomatic with raised urea, creatinine and reduced eGFR on routine blood test, frequently accompanied by HTN, proteinuria or anaemia
+    - **Non-specific Sx** - classically onset of non-specific Sx once eGFR \< 30 ml/min/1.73m2, attributable to progressive loss of excretory, metabolic and endocrine function of the kidney resulting in uraemia:
+        - <u>Nocturia</u> - non-specific early symptom, due to loss of concentrating ability and **increased osmotic load per nephron**, especially if related to osmotic diuresis of **diabetic nephropathy**
+        - <u>Fatigue</u> - in part related to renal anaemia (NcNc anaemia)
+        - <u>Pruritis</u> - due to uraemia, particulary **hyperPO4**
+        - <u>N/V</u> - secondary to uraemia
+        - <u>Weight changes</u> - weight loss due to underlying anorexia, weight gain due to fluid overload
+        - <u>Dyspnoea</u> - related to fluid retention, and partly related to renal anaemia
+    - **Frequent infections** - impaired cellular and humoral immunity in advanced CKD (infection is the second most common cause of mortality in patients on dialysis, after cardiovascular disease)
+    - **Haematological abnormalities:**
+        - <u>Renal anaemia</u> (NcNc anaemia) - primarily attributed to deficiency of erythropoietin, but also other causes, resulting in to Hb as low as 5-7 g/dL in G5CKD (somehow less severe in ADPKD): 
+        ![](../img/causes_of_anaemia_in_ckd.png)
+        - <u>Bleeding tendancy</u> - manifests as mucocutaneous bleeding due to platelet dysfunction by severe uraemia (partially correctable by dialysis, but still at high bleeding risk if on anti-coagulants)
+    - **Electrolytes and acid-base abnormalities:**
+        - <u>Fluid overload</u> - fluid retention is common and manifests as peripheral oedema (ocassionally pleural effusion, pitting oedema, and ascites), and ocassionally can manifests as acute pulmonary oedema
+        - <u>Disorders of Na balance</u> - typically sodium and water retention occurs, but some tubulo-interstitial disease develop as salt-wasting nephropathy resulting in salt and water depletion
+        - <u>Metabolic acidosis</u> - common, but may be asymptomatic, ocassionally manifest as hiccups and Kussmaul's respiration and muscle twitching, and may be a/w increased tissue catabolism (weight loss), exacerbation of bone disease, and rate of decline in renal function
+        - <u>Hyperkalaemia</u> - due to reduced K excretion due to reduction in renal function, manifesting as muscle weakness and cardiac arrhythmia
+    - **Endocrine abnormalities:**
+        - <u>Hyperprolactinaemia</u> - reduced renal excretion of prolactin, manifesting as **galactorrhoea** and **hypogonadism** (e.g. reduced shaving frequency in M, loss of libido)
+        - <u>Prolonged half-life of insulin</u> - due to impaired tubular metabolism on insulin, however, there is **concomittent increased insulin resistance and anorexia**, hence insulin requirements in advanced CKD is unpredictable
+        - <u>Vitamin D deficiency</u> - reduced renal hydroxylase activity inhibiting bio-activation of vitamin D
+        - <u>Secondary and tertiary hyperparathyroidism</u> - see below regarding mineral and bone disease in CKD
+    - **Neuromuscular dysfunction:**
+        - <u>Generalised myopathy</u> - muscle weakness and muscle cramps occur in combination of hyperkalaemia, metabolic acidosis, hypocalcaemia, vitamin D deficiency
+        - <u>Restless leg syndrome</u> - jumpy legs during the night, resulting in sleep disturbances and potentially insomnia
+        - <u>Sensory and motor neuropathy</u> - manifests as distal parasthenia and foot drop, but appear later in course of CKD (unless as another complication of DM)
+    - **Cardiovascular disease** - CKD is an independent risk factor of cardiovascular disease, where CVD is the most common cause of mortality in CKD patients:
+        - <u>Accelerated atherosclerosis and CAD</u> - due to **medial vascular calcification** secondary to hyperphosphataemia, and **hypercholesterolaemia** secondary to proteinuria
+        - <u>Left ventricular hypertophy and heart failure</u> - due to fluid retention and HTN, and may attribute to sudden cardiac death by arrhythmias
+        - <u>Pericarditis</u> - can result in cardiac tamponade and constrictive pericarditis
+    - **Metabolic bone disease** - attributed to disturbances in calcium and phosphate metabolism, where MBD results from under-treatment or over-treatment of such abnormalities: 
+    ![](../img/pathogenesis_of_renal_osteodystrophy.png)
+- **Signs of CKD:** 
+![](../img/physical_signs_of_ckd_davidson.png)
+- **Ix:**
+    - **Urinalysis and quantification of proteinuria:**
+        - <u>Haematuria</u> - may reflect underlying glomerular or post-renal dsiease
+        - <u>Proteinuria</u> - may reflect underlying cause, and indicate risk of CKD progression, rendering necessity of RAAS blockade for renal protection
+    - **Routine bloods** - CBC (+/- iron profile, folate), LRFT, CaPO4, PTH, 25(OH)D, lipid profile, HbA1c:
+        - **CBC with iron-profile, folate, B12:**
+            - <u>Anaemia</u> - NcNc anaemia if pure renal anaemia, while iron-profiles, folate and B12 are used to r/o common non-renal anaemia
+            - <u>PLT</u> - PLT normal as bleeding tendancy is caused by a funcitonal defect, consider other DDx if bleeding tendancy in the presence of thrombocytopenia
+            - <u>WBC</u> - no change with CKD alone, but may reflect an underlying systemic inflammatory disease
+        - **RFT** - urea, Cr, eGFR, K, HCO3:
+            - <u>Urea, Cr, eGFR</u> - to assess severity, stability and progression by comparison with prior results
+            - <u>K</u> - detection of hyperkalaemia
+            - <u>HCO3-</u> - detection of metabolic acidosis
+        - **LFT** - hypoalbuminaemia (malnutrition, acute inflammatory response, or nephrotic syndrome)
+        - **CaPO4, PTH, 25(OH)D** - assessment of renal osteodystrophy
+        - **HbA1c** - assess glycaemic control
+        - **Lipid profile** - treat lipid by aggressive lipid lowering to lower CVD risk
+    - **Additional inestigations:**
+        - <u>Renal USG</u> - indicated only if urinary Sx (e.g. loin pain, LUTS) to r/o obstructive uropathy:
+            - Small, fibrotic kidneys - indicates chronicity, and non-viable for renal biopsy
+            - Asymetrical size of kidneys - suggestive of renovascular disease or developmental disease
+        - <u>12-lead ECG</u> - if patient \>40y, hyperK, or demonstrate features of LVH, or presence of risk factors of cardiac disease
+        - <u>Autoantibodies and complements</u> - C3/4, ANCA, ANA, ANF, anti-GBM anitbodies, cryogobulins
+        - <u>Hepatitis and HIV screen</u> - indicated if pending for dialysis
+
+    
+    ![](../img/suggested_ix_for_ckd.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Halt disease progression</u> - prevent or slow further renal damage by BP control, proteinuria control, and Tx of underlying cause (e.g. DM)
+        - <u>Detection and Tx of complications</u> - Tx of CKD-metabolic bone disease, renal anaemia,and maintaining fluid and electrolyte imbalance
+        - <u>Assessment and control cardiovascular risk</u> - **aggressive BP control**, **aggressive lipid-lowering therapy**, glycaemic control, smoking cessation etc.
+        - <u>Renal replacement therapy</u> - consider renal replacement therapy if appropriate
+
+    
+    ![](../img/criteria_for_referral_of_nephrologist.png)
+    - **BP control** - often requires multiple anti-hypertensives drugs, and control is limited to tolerance:
+        - <u>Rationale</u> - BP lowering demonstrated to slow the progression to ESRD (RR 0.74 if -6.9 mmHg) irrespective to agent used
+        - <u>Clinical efficacy of BP control</u> - cardiorenal protection:
+            - Slow down rate of progression of CKD
+            - Additional benefits in lowering cardiovascular risk, including hypertensive HFpEF, stroke, CAD, peripheral vascular disease
+        - <u>Target of BP control</u> - no optimal target identified, but any reduction appears to be beneficial:
+            - **Uncomplicated CKD** - target \< 130/80 mmHg
+            - **CKD with significant proteinuria** (ACR \> 70 mg/mmol; PCR \> 100 mg/mmol) - target \< 125/75 mmHg
+    - **Proteinuria control** - ACEi/ ARB for all patients:
+        - <u>Rationale</u> - clear relationship between degree of proteinuria and rate of progression
+        - <u>Indications</u> - indicated for all diabetic nephropathy and those with proteinuria, irrespective of BP
+        - <u>Evidence for ACEi</u>:
+            - RAAS blockade reduce proteinuria and slow the progression of CKD in hypertensive patients to a greater extent than can be explained by the reduction in BP alone
+            - Specific benefits to patients w/ proteinuria (ACR \> 30 mg/mmol; PCR \> 50 mg/mmol) or those with incipient or overt DMN
+            - Additional benefits of reducing all-cause and cardiovascular mortality in subpopulation of CKD patients
+
+      
+      ![](../img/evidence_for_acei_in_ckd.png)
+        - <u>Caution and complications</u>:
+            - **AKI** - can be safely prescribed if reduction in eGFR \< 20% and <u>non-progressive</u>
+            - **Hyperkalaemia** - increased risk of hyperK on a background of CKD
+    - **Lipid-lowering therapy:**
+        - <u>Rationale</u> - increased CVS risk in patient with CKD, esp. as hypercholesterolaemia is invariable in those w/ significant proteinuria
+        - <u>Evidence for lipid-lowering therapy</u> - reduced risk of MACE compared to placebo in non-dialysis patients: 
+        ![](../img/evidence_for_lipid_lowering_in_ckd.png)
+    - **Mx of fluid and electrolyte imbalance:**
+        - **Mx of fluid retention** - dietary salt restriction (\< 100 mmol/d) and limit fluid intake (+/- PO loop diuretics to treat fluid overload)
+        - **Mx of hyperK:**
+            - <u>Dietary restriction</u> - limit dietary K intake to about 70 mmol/d (typically only necessary if in advanced CKD)
+            - <u>Review drug therapy</u> - dose reduction or stop K-sparing diuretics, ACEi/ARB based on extent of hyperK and ECG changes
+            - <u>K binders</u> - Ca resonium (K-binding resins) can be used in short term but not chronically
+        - **Mx of metabolic acidosis** - maintain HCO3 \> 22 mmol/L:
+            - <u>NaHCO3 supplements</u> - starting dose 1g tid and titrate upwards
+            - <u>CaHCO3 supplements</u> - used if NaHCO3 tablets cause excessive fluid retention, with additional benefits of chelating dietary phosphates
+    - **Mx of renal bone disease:**
+        - **Vitamin D replacement** - 1-alpha-hydroxyvitamin D, 1,25-dihydroxyvitamin D:
+            - <u>Indications</u> - for all CKD patients found 1) hypoCa, or 2) PTH \> 2x ULN
+            - <u>Dosing</u> - keep PTH levels 2-3x ULN to avoid over-suppression of bone turnover and cause adynamic bone disease (avoid over-correction to cause hyperCa)
+        - **Mx of hyperphosphataemia** - maintain PO4 \< 1.8 mmol/L:
+            - <u>Dietary restriction</u> - restriction of food w/ high phosphate intake (e.g. milk, cheese, eggs, protein-rich food)
+            - <u>Phosphate-binding drugs</u> - e.g. calcium carbonate, aluminum hydroxide, lanthanum carbonate, sevelamer
+        - **Mx of tertiary hyperparathyroidism** - parathyroidectomy or calcimimetic agents

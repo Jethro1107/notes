@@ -1,0 +1,32 @@
+---
+id: b1d16ffa-74cd-470a-ac00-e9ab2cf9a4ab
+title: Targeted Therapy
+---
+
+# Targeted Therapy
+
+- **Principles of targeted therapy:**
+    - Target genetic changes correlating to hallmarks of cancer
+    - Blockade of signal transduction - transmemrane receptors or downstream signalling proteins
+    - MAb - large molecules blockade of transmembrane receptors
+    - Small molecule inhibitors - small molecules enter cells and may bound to intracellular parts of receptors, down stream signal transduction molecules or blocking transcription
+
+  
+  ![](~/Documents/notes/img/signal_transduction_of_cancer_cell.png)
+- **Approaches to targeted therapy** - target commonly acquired hallmarkers of cancer:
+    - <u>Growth singnals</u> - e.g. HER2, EGFR, ALK rearrangement
+    - <u>Angiogenesis</u> - e.g. use of bevacizumab in mCRC, HCC
+    - <u>Evasion of growth suppression</u> - CDK4/6 inhibitors
+
+  
+  ![](~/Documents/notes/img/overview_of_targeted_therapy_against_hallmarks_of_cancer.png)
+- **Importance of molecular testing** - certain targeted therapy only work if there is a drugable mutation
+    - IPASS (Iressa Pan-Asia Study \[Mok et al 2009\]) demonstrates the importance of molecular testing
+    - Despite observational studies demonstrating **female never smokers w/ adenocarcinoma generally have better response to TKIs**, giving gefitinib **irrespective of EGFR status do not benefit overall survival**
+    - Subgroup analysis subsequently showed that giving targeted therapy for those w/ +ve mutation status is beneficial
+
+  
+  ![](~/Documents/notes/img/need_for_molecualr_testing_to_determine_treatment_responsiveness_mok_2009.png)
+- **Combinations of targeted therapy** - provide synergistic effects by either:
+    - <u>Blockade of different domains of the same receptor</u> - e.g. Transtuzumab + Pertuzumab + Docetaxel allows for greater pCR compared w/ transtuzumab + Docetaxel in the neoadjuvant setting of HER2+ EBC
+    - <u>Blockade of different levels of the same signalling pathway</u> - combination of BRAF and MEK inhibitors in metastatic melanoma shows synergistic effect

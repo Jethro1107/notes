@@ -1,0 +1,106 @@
+---
+id: 56899EBE-C041-44B9-941D-8785352786C0
+roam_refs: "\\[cite:@chakerHypothyroidism2022\\]"
+title: Chaker et al 2022 Hypothyroidism
+---
+
+# Epidemiology
+
+- **Epidemiology of primary hypothyroidism:**
+    - <u>Prevalence</u> - 226/100000/y
+        - 0.37% overt hypothyroidism, 3.8% subclinical hypothyroidism according to a European Meta-analysis
+        - Up to 20% of F \> 75y may have subclinical hypothyroidism
+    - <u>Demographic</u>:
+        - Sex - F preponderance (F:M = 10:1)
+        - Iodine status relationship - highest prevalence in populations w/ iodine deficiency or excessive iodine
+    - <u>Other environmental factors</u>:
+        - Smoking - ?lower Anti-TPO in smokers, w/ lower TSH in smokers than non-smokers
+        - Obesity - higher TSH levels in obese adults and children (may be bidirectional relationship)
+        - Other factors - vitamin D deficiency, selenium deficiency, moderate alcohol intake
+- **Epidemiology of central or peripheral hypothyroidism:**
+    - Relatively rare disorder compared to primary hypothyroidism
+    - Congenital central hypothyrodism quoted at incidence of 1:21000 to 1:160000
+    - Acquired central hypothyroidism usually due to pituitary adenoma, but surge in hypophysitis-related central hypothyroidism over psat decades
+
+# Mechanisms/ pathophysiology
+
+- **DDx of hypothyroidism:** 
+![](../img/ddx_of_hypothyroidism_and_pathogenic_mechanism.png)
+- **Drug-induced hypothyroidism:**
+    - <u>Lithium-induced hypothyroidism</u> (20% of patients on lithium) - increases intrathyroidal iodine content, diminishes coupling of iodotyrosine residues to T4 and T3, inhibits thyroid hormone release
+    - <u>Amiodarone</u> (5-15%) - Wolf-Chaikoff effect​
+    - <u>Tyrosine kinase inhibitors</u> (18-52%) - effects on thyroid hormone tran sport and causing destructive thyroiditis
+    - <u>Immunomodulatory drugs</u> (INF-alpha, IL-2) - likely activation of autoimmune process
+    - <u>Immune checkpoint inhibitors</u> - 20% develop IRAE thyroiditis (primary hypothyroidism), while 15% develop IRAE hypophysitis
+- **Peripheral hypothyroidism** - abnormalities in the peripheral tissue associated w/ either 1) peripheral destruction of thyroxine, and 2) tissue resistance to thyroid hormone action:
+    - <u>Consumptive hypothyroidism</u> - upregulation of DIO3 resulting in conversion of circulating f4 into non-funcitonal rT3
+    - <u>Resistance to Thyroid Hormone</u> (RTH) - mutations in MCT8, THRA or THRB (most common) resulting in decreased tissue-specific sensitivity to thyroid hormone
+
+# Diagnosis, Screening, and Prevention
+
+- **DDx of hypothyroidism** - based on similar presenting Sx: 
+![](../img/ddx_of_hypothyroidism_based_on_similar_presenting_sx.png)
+- **Other disorders:**
+    - Laboratory interference
+    - Rare disorders of thyroid axis (e.g. RTH, TSH or TRH resistance)
+- **Distinguishing subclinical hypothyroidism from recovery phase of non-thyroidal illness:**
+    - Retsting thyroid function after 8-12 weeks to determine whether TSH elevation is persistent
+    - 30-50% individuals w/ initially high TSH will hav enormal levels on testing
+- **Screening for hypothyroidism in pregnancy:**
+    - <u>Current practices</u> - targeted case-finding:
+        - Pregnant women from areas of moderate-to-severe iodine deficiency
+        - Women w/ symptoms potentially attributable to thyroid dysfunction
+        - Personal and/or FHx of thyroid disease
+        - Recurrent miscarriage or unexplained infertility
+    - <u>Controversy for universal screening</u>:
+        - Risk of overtreatment
+        - Other data suggests risk of -ve effect on neurodevelopment in offspring, lack of evidence that Tx improves neurocognitive outcomes in offsprings for mothers w/ subclinical hypothyroidism
+- **Screening for hypothyroidism in newborns** - benefit beyond doubt (One of major success stories of newborn screening programmes​):
+    - <u>Rationale</u>:
+        - Most infants have no obvious clinical manifestations and no family history (cannot target high-risk group)​
+        - Congenital hypothyroidism is one of most common preventable causes of intellectual impairment
+        - Led to normal or near-normal neurocognitive outcomes in majority of infants​
+    - <u>Approach</u> - dried blood spot test for thyroid function​
+
+# Management
+
+- **Principles of Mx:**
+    - <u>Overt hypothyroidism</u> - LT4 replacement indicated irrespective of cause
+    - <u>Subclinical hypothyroidism</u> - no current consensus; decision to Tx dependent on various factors, most importantly 1) risk of progression to overt hypothyroidism, or 2) cardiovascular risks
+- **Tx of subclinical hypothyroidism:**
+    - <u>Rationale for witholding LT4</u> - no demonstrable benefit at the current juncture:
+        - Risk of progression increases if Anti-TPO Ab +ve
+        - Elevated serum TSH (particularly \>10 mIU/l) associated with increased cardiovascular and mortality risks​
+        - Trials of LT4 in \>= 65y saw no clear Sx benefits
+        - Trial of LT4 in patients with acute myocardial infarction and subclinical hypothyroidism showed no improvement in left ventricular function​
+        - Meta-analysis showed that LT4 might decrease mortality in patients aged \<65-70 years but not in older individuals
+    - <u>Current guidelines</u> - individualised consideration of low-dose LT4 (1.0 μg/kg daily) in patients, especially those ≤70 years, who have:
+        - Sx potentially referable to hypothyroidism
+        - Cardiovascular risk factors (although trials demonstrated now effect on LVEF)
+        - Goitre
+        - Increased risk of progression to overt hypothyroidism (+ve TPOAb)
+        - TSH persistently \> 10 mIU/L (increased ardiovascular risk and mortality)
+        - Planning pregnancy
+    - <u>Patients where monitoring is acceptable</u> - periodic monitoring to detect progression to overt hypothyroidism:
+        - Patients \>= 70y
+        - Those w/o aforementioned factors
+- **LT4 replacement:**
+    - <u>Dosing</u> - 1.6 μg/kg/day​ for adults:
+        - Start low and go slow for older individuals, mild hypothyroidism or untreated CAD
+        - BMI-adjusted dosing algorithms designed to avoid overtreatment in obese patients
+    - <u>Timing of administration</u> - best on an empty stomach:
+        - Ideally 60 minutes before breakfast
+        - 30 minutes before breakfast acceptable or at bedtime on empty stomach
+    - <u>Treatment target</u> - resolution of Sx and biochemically euthyroid:
+        - Primary hypothyroidism - normalisation of serum TSH
+        - Central hypothyroidism - serum fT4 in upper half of ULN (TSH uninformative)
+    - <u>DDx of under-replacement of LT4</u>:
+        - Non-compliance
+        - Changes in weight
+        - Pregnancy status
+        - Malabsorption
+        - Drugs altering LT4 requirement (see below)
+- **Medications that affect LT4 requirement:** 
+![](../img/medications_affecting_lt4_requirement.png)
+
+# Outlook

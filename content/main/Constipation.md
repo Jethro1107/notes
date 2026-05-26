@@ -1,0 +1,185 @@
+---
+type: main
+tags:
+---
+
+# Constipation
+
+- **Definition** - difficult passage of small hard stools
+- **ROME III criteria for constipation** - presence of >=2 features for at least 12 weeks:
+    - Infrequent passage of stool < 3 week
+    - Passage of lumpy or hard stool > 25% of time
+    - Straining > 25% of time
+    - Sensation of incoplete evacuation > 25% of time
+    - Use of manual maneuvres > 25% of time
+    - Sensation of anorectal obstruction/ blockage > 25% of time
+- **Epidemiology:**
+    - _Point prevalence_:
+    - 10% of adults and 6% children report constipation in preceding 2 weeks
+    - Up to 20% of British adults report regular use of laxatives
+- **Key facts and checkpoints:**
+    - 
+    ![[Pasted image 20260512123540.png]]
+
+- **DDx of chronic constipation:**
+    - 
+    ![[Pasted image 20260512123609.png]]
+- **Murtaughs diagnostic strategy model for chronic constipation:**
+    - 
+    ![[Pasted image 20260512123659.png]]
+- **Probability diagnosis** - "_idiopathic constipation_" where constipation occurs in the absence of local or systemic disease (e.g. simple, slow transit, IBS), but due to multifactorial causes:
+    - _Local functional abnormalities_ - dysinergic defacation, slow transit times
+    - _Lifestyle factors_:
+    - Diet - bad dietary habits, dietary fibre deficiency (e.g. fruits, leafy greens, wholemeal products), limited fluids
+    - Stress - implicated in IBS
+    - Others - e.g. pregnancy
+- **Serious disorders not to be missed:**
+    - **Instestinal obstruction** - must be r/o if present acutely especially in the absence of flatulence
+    - **Malignancies:**
+    - _Colorectal malignancies_ - one of the most prevalent malignancies, and should raise concerns especially in middle-aged or elderly patients presenting w/ new onset constipation or other altered bowel habits
+    - _Extrinsic malignancies_ - lymphoma, or ovarian carcinoma compressing or focal invasion into the rectum
+    - **Megacolon:**
+    - _Hirschprung disorder_ - symptoms dating from birth suggests Hirschprung disorder, which ocassionally ay present for the first time in adult life
+    - _Ulcerative colitis_ - rarely presents w/ constipation due to oedema of the rectum
+    - **Neurological disorders** - results in faecal impaction, common accompainiment for:
+    - Spinal cord disorders
+    - Multiple sclerosis
+    - Cerebral palsy
+    - Autonomic neuropathy
+- **Pitfalls:**
+    - _Faecal impaction_ - form of idiopathic constipation in bedridden elderly, presenting w/ alternating bowel habits (periods of constipation followed by spurious diarrhoea)
+    - _Painful anal lesions_ - e.g. thrombosed haemorrhoids, stenosis, fissure-in-ano, ischiorectal abscesses, resulting in hesitancy to deficate
+    - _Stimulant laxatives_ - used to Tx constipation, but prolonged use may result in rebound constipation
+    - _Endocrine and metabolic disorders_:
+    - Hypothyroidism
+    - Hypercalcaemia (including hyperparathyroidism)
+    - Hypokalaemia
+    - Porphyria
+    - Lead poisoning
+    - _Rheumatological disorders_ - e.g. systemic sclerosis
+- **Seven masquerades checklist:**
+    - **Depression** - significant symptoms in all types of depressive illnesses and may be further aggravated by Tx w/ antidepressants
+    - **Diabetes** - indirectly a/w autonomic neuropathy (usually a/w alternative bouts of constipation and diarrhoea)
+    - **Drugs** - many drugs a/w constipation, particularly any drugs w/ _anti-cholinergic S/E_, as well as:
+    - _Antidepressants_ - including SSRIs, TCAs
+    - _Drugs affecting GI motility_ - antidiarrhoeal agents, chronic use of laxatives
+    - _Antacids_ - esp. containing Ca (CaCO3) or Al (Al(OH)3)
+    - **Thyroid** - hypothyroidism may present w/ constipation
+    - **Spinal dysfunction** - often w/ severe spinal disorders (consider Cauda Equina Syndrome)
+- **Drugs a/w constipation:**
+    - 
+    ![[Pasted image 20260512125911.png]]
+- **Psychogenic considerations:**
+    - _Constipation may be a manifestation of an underlying psychiatric illness_ - e.g. depression, AN, drug abuse (narcotics and laxatives)
+    - _Constipation may be due to the Tx of an underlying psychiatric illness_ - e.g. antidepressants, antipsychotic drugs, benzodiazepines
+    - _Constipation may reflect functional impairments caused by psychiatric illness_ - e.g. inactive lifestyle and poor diet as a result of psychiatric ilnesses
+
+- **Salient points of Hx:**
+    - **HPI** - detailed description of current and prior defacation (can be further asessed by 10d diary documenting frequency and nature of BO):
+    - _Onset_ - acute vs chronic
+    - _Patient description of constipation_ - ask patient to define exactly what they mean by constipation to r/o unreal expectations of regularity (w/ comparison of perceived normal bowel habits)
+    - _Quality_ - change in consistency is far more important than change in frequency:
+      - Consistency - lumpy, hard pellety stools (N.B. consider pencil-thin stools)
+      - Frequency - BO becoming less frequent
+      - Ease of defacation - e.g. use of straining for BO
+      - Sensation of incomplete defacation - clarify between tenesmus, or sensation of anorectal obstruction
+    - _Alternating diarrhoea and constipation_ - raises concerns regarding of colorectal carcinoma
+    - **Associated Sx:**
+    - **GI Sx:**
+      - _Abdominal pain_ - colicky abdominal pain in IO
+      - _N/V_ - consider IO if complete obstination
+      - _PR bleeding_ - red flag feature for colorectal cancer (to be clarified w/ outlet bleeding seen in thrombosed haemorrhoids)
+      - _Mucus in stool_ - red flag feature of colorectal cancer
+      - _Anal pain on defacation_ - points towards anorectal disorders
+    - **Systemic Sx:**
+      - _Weight loss_ - unexpected weight loss raises concerns of malignancy
+      - _Hypothyroid Sx_ - especially if reporting **weight gain**, screen for cold intolerance, dry skin
+    - **Dietary Hx** - access intake of dietary fibres
+    - **PMH** - screen for:
+    - Neurological disorders
+    - Diabetes mellitus
+    - Thyroid
+    - **Drug Hx** - detailed drug Hx, w/ specific focus on:
+    - _Laxatives_ - use of laxatives for BO and perceived effectiveness (consider rebound constipation)
+    - _Antidiarrhoeal agents_ - as a direct cause of constipation
+    - _Antacids_ - esp. CaCO3 and Alluminium containing antacids
+- **P/E:**
+    - **General examination** - pallor for anaemia
+    - **Abdominal examination** - inspection for masses/ irregularity, palpation for tenderness:
+    - 
+    ![[Pasted image 20260512132217.png]]
+    - **DRE** - mandatory not just for evaluation of focal pathology:
+    - _Anorectal lesions_ - inspection for perianal descent, haemorrhoids, fissures, proctitis abscesses etc.
+    - _Masses_ - for rectal masses and faecal impaction
+    - _Anal tone and perianal sensation_ - to r/o neurological disorders
+- **Ix:**
+    - **Endoscopy** - colonoscopy, sigmoidoscopy, proctoscopy
+    - **FIT** - in the absence of gross PR bleeding
+    - **Blood tests** - CBC, ESR +/- CEA, TFT, CaPO4, K
+    - **Imaging:**
+    - CT colonography
+    - Double contrast barium enema
+    - Bowel transit studies
+    - **Physiological tests:**
+    - Anal manometry
+    - Rectal sensation and compliance
+    - Dynamic proctography
+    - Rectal Bx
+- **Principles of Mx:**
+    - 
+    ![[Pasted image 20260512150821.png]]
+- **General pitfalls and tips:**
+    - In a busy practice, be careful not to let 'familiaryt breed contempt'
+    - Ensure patient is truely constipation, and not having unreal expectations of regularity
+    - Ensure that the anthraquinone group of laxatives (including Ford pills) is never used long term due to risk of melanosis coli and associated megacolon
+    - Be very wary of alternating constipation and diarrhoea (although may reflect faecal impaction, IBS, is worrying for Ca colon and autonomic neuropathy)
+- - \*\*Indications for referral:
+    - Altered bowel habits of recent onset w/o obvious cause requiring additional Ix
+    - Chronic Sx that do not respond to simple measures
+- **Idiopathic constipation:**
+    - **Classification of idiopathic constipation:**
+    - Simple constipation
+    - Slow transit constipation
+    - Irritable bowel syndrome
+    - **Causes of simple constipation** - essentially related to faulty diet and bad habits:
+    - Diet lacking dietary fibre
+    - Neglect of the call to stool (dyschezia; lazxy bowel unresponsive to faecal content usually following repeated ignoring of calls to defecate)
+    - Unfavourable living and working conditions
+    - Lack of exercise
+    - Travel
+    - **Slow transit constipation:**
+    - Usually occuring since early childhood or young adolescence
+    - Reflects slow transit time despite apparently normal colon, high-fibre intake, and lack of other causes
+    - More common in F, as constipation may occu after childhood, uncomplicated abdominal surgery, or severe dieting
+    - **Mx:**
+    - **Principles of Mx:**
+      - _Reassurance and education_ - reassure that organic cause has been excluded, educate on red flag features requiring additional workup
+      - _Advice_ - tailored towards diet, and other LSM tailored for known causes of simple constipation
+      - _Prescription_ - preference of bulk forming agents over stimulants or osmotic laxatives
+      - _Referral_ - only if additional causes considered
+    - **Advice for simple constipation:**
+      - _Optimal bulk diet_ - eat food that provide bulk and rouphage, such as vegetables and salads, cereal, fresh and dried fruits, and wholemeal bread (fibre sufficient if converting stools that sink to stools that float)
+        - 
+        ![[Pasted image 20260512144608.png]]
+      - _Fluid intake_ - adequate hydration w/ water or fruit juices (e.g. prune juice)
+      - _Good habits for bowel opening_:
+        - Answer calls to defecate
+        - After breakfast habit (time for good relaxed breakfast and then sit on the toilet)
+        - Regular meals and do not miss meals (food stimulates GI motility)
+      - _Exercise_ - adequate exercise, esp. walking
+      - _Drugs_:
+        - Laxatives only prn (as can cause rebound constipation)
+        - Avoid drugs w/ anti-cholinergic effects
+    - **Pharmacological Mx:**
+      - **Selection of pharmacological agents:**
+        - 
+        ![[AdobeExpressPhotos_81cbd856a9d447a1bebaefda55e26544_CopyEdited.png]]
+      - **Approach to pharmacological Mx** - prefer bulk forming agents over stimulants or osmotic laxatives:
+        - _First line therapy_ - psyllium or ispaghula (agiolax) granules 1-2 teespoonsful PO od/ bid
+        - _Second-like therapy_ - osmotic or fibre-based stimulant laxatives:
+          - Lactulose syrup 15-30 mL PO od until response, then 10-20 mL daily
+          - Dried fruits w/ senna leaf (Nu-Lax) 10g nocte
+        - _Third line therapy_ - evaluate for specific pathology before proceeding:
+          - MgSO4 15 g in water od/ bid (ensure normal RFTs)
+          - Fleet enema
+          - Glycerin suppository

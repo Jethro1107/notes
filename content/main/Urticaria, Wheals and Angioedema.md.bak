@@ -1,0 +1,92 @@
+---
+id: 9bd5760b-b5e2-481f-b7b8-cd7c6b1387de
+title: Urticaria, Wheals and Angioedema
+---
+
+# Urticaria, Wheals and Angioedema
+
+- **Definition and terminology:**
+  - <u>Urticaria</u> - a condition characterised by the development of wheals (hives), angioedema, or both
+  - <u>Wheals</u> - skin lesion of a fleeting nature (\< 24h), a/w central swelling and pruritis
+  - <u>Angioedema</u> - swelling of the deep dermis or subcutaneous tissue, painful rather than pruritic, with slower resolution ~ up to 72h
+
+  
+  ![](../img/relationship_between_urticaria_angioedema_and_wheals.png)
+- **Two endotypes of angioedema** - different underlying pathomechanisms, with overlapping but distinct clinical features:
+  - **Histaminergic angioedema** - caused by <u>mast cell degranulation</u> in an allergic, or non-allergic manner:
+    - <u>Allergic vs non-allergic mast-cell degranulation</u>:
+      - **Allergic reaction** - caused by binding of allergen (e.g. food, drugs) to IgE on mast cells to induce mast cell degranulation
+      - **Non-allergic reaction** - mast cell degranulation by chemicals, drugs or other triggers
+    - <u>Effects of products of mast-cell degranulation</u> - dependent on site of degranulation:
+      - **Stimulation of sensory nerve** - manifesting as **pruritis**, occular itching or sneezing
+      - **Vasodilation and increased vascular permeability** - manifesting as **wheels** / angioedema in the skin, rhinorhea and sputum in the airways
+      - **Contraction of smooth muscles** - manifesting as wheezing due to bronchoconstriction or diarrhoea and abdominal pain due to increased peristalsis
+
+      
+      ![](../img/effects_of_mast_cell_degranulation.png)
+  - **Bradykinergic angioedema** - bradykinin generated from the Kallikrein-Bradykinin pathway:
+    - <u>Kallikrein-Bradykinin pathway</u> - plasma contact pathway regulated by **C1-esterase inhibitor**:
+      - C1 esterase inhibitor inhibits conversion of prekallikrein to kallikrein
+      - Kallikren responsible for conversion of HMWK to bradykinin
+      - ACE is responsible for inhibition of bradykinin production
+
+      
+      ![](../img/kallikrein_bradykinin_pathway.png)
+    - <u>Effects of bradykinin</u>:
+      - **Pain stimulus on sensory nerve** - results in pain
+      - **Vasodilation and increased vascular permeability** - causes angioedema
+- **Clinical classification of angioedema:**
+  - <u>Angioedema with wheals</u> (i.e. pruritis) - histaminergic angioedema
+  - <u>Angioedema w/o wheals</u> (i.e. absence of pruritis) - histaminergic or bradykinergic angioedema
+
+  
+  ![](../img/clinical_differentiation_between_histaminergic_or_bradykinergic_angioedema.png)
+- **DDx of angioedema** - classified by pathomechanism:
+  - **Histaminergic angioedema** - presentation w/ or w/o wheals:
+    - Allergic reaction (including anaphylaxis)
+    - Chronic spontaneous urticaria
+    - Inducible urticaria and angioedema
+    - Urticarial vasculitis
+    - Auto-inflammatory syndromes
+  - **Bradykinergic angioedema** - presentation w/o wheals:
+    - ACEi-associated angioedema
+    - Hereditary angioedema
+    - Acquired C1-esterase inhibitor deficiency
+
+  <!-- -->
+
+  - **Salient points of Hx:**
+    - **HPI** - site, onset, duration, quality, and associated exposures:
+      - <u>Site</u> - characterise site of eruption, as bradykinergic angioedema has a tendancy of developing over the face, upper extremities or around genitalia
+      - <u>Onset</u> - urticaria present for \< 6 weeks is considered to be acute, and chronic if \> 6 weeks (CSU is the most common cause of chronic urticaria)
+      - <u>Duration of eruption</u>:
+        - Individual wheals typically resolve within 24h
+        - Angioedema typically takes longer to resolver (24-72h)
+      - <u>Quality</u>:
+        - Wheals are typically pruritic w/ no pain
+        - Angioedema are typically painful, and not pruritic
+      - <u>Associated exposures</u> - note exposure within the last 24h:
+        - Food
+        - Medications
+        - Inhalants
+        - Cotact (e.g. latex)
+    - **Associated Sx:**
+      - <u>Swelling of the face</u> - note any swelling of the lips, face, tongue
+      - <u>Wheezing or SOB</u> - suggest respiratory comprimise
+      - <u>Abdominal pain</u> - suggest GI comprimise
+    - **Drug Hx**
+    - **FHx** - FHx of angioedema
+  - **P/E:**
+    - <u>Active wheals</u>: 
+    ![](../img/wheals.png)
+  - **Ix:**
+    - **Routine bloods** - CBC, LRFT, ESR, TFT, iron studies
+    - **Total IgE and specific IgE** - to possible allergens e.g. shellfish, peanutes, house dust mites
+    - **ANA** - +ve for SLE and urticarial vasculitis
+    - **C3/4** - consider C1 esterase inhibitor activity if low
+    - +/- **skin Bx** - if urticarial vasculitis suspected
+    - **+/- challenge test** - to confirm physical urticaria
+  - **Mx:**
+    - **Principles of Mx:**
+      - <u>Removal of trigger</u> - detailed allergic Hx to identify inciting allergen
+      - <u>Pharmacological therapy</u> - non-sedating antihistamines are first line, with mast cell stabilisers, leuktriene receptor antagonists, or even systemic therapy

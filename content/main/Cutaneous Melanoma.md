@@ -1,0 +1,54 @@
+---
+type: main
+---
+# Cutaneous Melanoma
+
+- **Definition** - a malignancy arising from epidermal melanocytes w/ metastatic potential
+- **Epidemiology:**
+	- Overall a rare skin tumour
+	- Steady rise in melanoma incidence in fair-skinned populations over recent decades, highest incidence in Australia
+	- Theoretically arises at any age and in either sex
+- **Risk factors of melanoma:**
+	- **Patient factors** - high genetic implication:
+		- _Skin phenotype_ - fair skin, freckles, red hair, number of naevi, presence of atypical naevi (dysplastic naevus syndrome)
+		- _Genetic association_ - +ve FHx increases risk; often a/w variant allele of melanocortin-1, p16 tumour suppressor gene and other susceptibility genes
+	- **Sunlight exposure** - often a/w burst, intermittent sunlight exposure, where _Hx of multiple sunburns_, and _use of sunbeds_ are known risk factors
+- **Classification of cutaneous malignant melanoma:**
+	- 
+	![[Pasted image 20260426152140.png]]
+- **Superficial spreading melanoma** (SSM) - most common type in caucations:
+	- A slowly enlarging, macular, pigmented lesions, w/ predictable growth patterns
+	- A/w assymetry, irregularity of shape (border), and pigmentation (colour)
+	- _Superficial, radial growth_ in the first two years, where lesion is typically not palpable
+	- _Vertical growth phase_ subsequently ensues, where the lesion becomes _palpable_ and suggests _invasion into dermis_
+- **Nodular melanoma** - most common in 5-6th decade of life, occuring in M and on the trunk, a/w poor prognosis:
+	- Presentation as a _rapidly growing_, raised _nodule_, arising de novo or from a pre-existing naevus or SSM
+	- Colour is _variable_, ranging from heavily pigmented to relatively amelanotic and erythematous (confused w/ hemangiomas)
+- **Lentigo maligna melanoma** - a biologically distinct pre-invasive phase:
+	- Common on photo-exposed head and neck sites of elderly patients
+	- Often presenting as a _slow growing_, _pigmented macule_ w/ histology reflecting in situ changes only
+- **Acral lentiginous or palmoplantar melanoma:**
+	- Uncommon in fair-skinned individuals but more common in dark-skinned individuals
+	- Likely unrelated to UVR exposure
+- **Subungal melanoma:**
+	- Proximal expanding streak of pigmentation arising from nail matrix
+	- Progression to nail dystrophy and involvement of adjacent nail folds
+- **Mx:**
+	- **Principles of Mx:**
+		- _Surgical Tx_ - wide local excision aiming at cure and reduced risk of local recurrence
+		- _Systemic therapy_ - chemotherapy palliative, but potential role of immunotherapy
+	- **Breslow thickness of tumour** - the maximal depth from granular cell layer to deepest tumour cells critical for surgical planning and prognosis:
+		- 
+		![[Pasted image 20260426153349.png]]
+	- **Surgical Tx:**
+		- _Wide local excision_ - excision margins based on Breslow thickness
+		- _Sentinal LN biopsy_ - offered when Breslow thickness > 1 mm:
+			- **Technique:**
+				- Radio-labelled dye injected at tumour bed and sentinel node identified by radioscintigraphy
+				- Sentinal node Bx and examined in detail by histology, IHC, or PCR for tumour deposits
+				- Guides decision for local lymphandenectomy
+			- **Clinical effiacy** - theoretically provide additional prognostic information, but no evidence that improves survival rates
+- **Prognosis** - highly dependent on Breslow thickness, but also a/w other indices such as mitotic rate and presence of ulceration:
+	- < 1 mm - > 95% 10y overall survival
+	- > 3.5 mm - 50% 10y overall survival
+	- Nodal or metastatic disease - 10% 10y overall survival

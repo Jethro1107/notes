@@ -1,0 +1,87 @@
+---
+id: 26464afc-ad93-4c5d-b5b5-70716083fae2
+title: Aortic Dissection
+---
+
+# Aortic Dissection
+
+- **Definition** - a breach in the integrity of the aortic wall enabling arterial blood to enter the media. which then splits into two layers, creating a false lumen along the existing or true lumen
+- **Epidemiology:**
+  - <u>Demographic</u>:
+    - Age - peak incidence in 6-7th decade of life (young presentation may complicate collagen disorders or pregnancy)
+    - Sex - male preponderance (M:F = 2:1)
+- **Pathophysiology of aortic dissection:**
+  - **Primary event resulting in creation of false lumen** - a primary insult resulting in extravastation of blood into the media of the aortic wall resulting in formation of <u>false lumen</u>:
+    - <u>Intimal tear of the aortic wall</u> - spontaneous or iatrogenic tear results in blood seeping into the media, where multiple tears and entry points are possible
+    - <u>Primary haemorrhage of the media</u> - direct bleeding from the **vasa vasorum**, which if confined, results in an intramural haematoma, but may rupture through the intima into the true lumen
+  - **Sequelae of aortic dissection:**
+    - <u>Occlusion of branches of the aorta</u> - depending on the extent of dissection resulting in ischaemic complications (including acute coronary syndrome)
+    - <u>Damage to aortic valve architecture</u> - may occur in type A dissection, resulting in acute aortic regurgitation
+    - <u>Rupture of false lumen into potential spaces</u> - resulting in left-sided pleural effusion (haemothorax), and pericardial tamponade
+    - <u>Aneurysmal formation within the aorta</u> - occurs in chronic dissection, however, dissection may complicate aortic aneurysms so the primary pathology is difficult to identify
+- **Risk factors of aortic dissection** - aortic disease and hypertension most important:
+  - <u>Hypertension</u> - present in 80% patients w/ AD
+  - <u>Aortic disease</u> - including aortic atherosclerosis, coarctation of aorta, aortic aneurysms, previous aortic surgery
+  - <u>Pregnancy</u> - usually in 3rd trimester
+  - <u>Connective tissue disorders</u> - Marfan's syndrome, Eh;ers-Danlos syndrome etc.
+
+  
+  ![](img/etiology_of_aortic_dissection.png)
+- **Clinical classification of aortic dissections** - based on sparing of the ascending aorta:
+  - <u>Type A dissection</u> (2/3 cases) - involvement of the ascending aorta (often frequently involving the descending aorta)
+  - <u>Type B dissection</u> (1/4 cases) - sparing of the ascending aorta
+
+  
+  ![](img/types_of_aortic_dissection.png)
+- **Clinical features of aortic dissections:**
+  - **Sudden pain** - abrupt onset of tearing pain to maximal intensity:
+    - <u>Site</u> - anterior chest pain if ascending aorta involvement; back/ interscapular pain if descending aorta involvement
+    - <u>Onset and progression</u> - abrupt onset to maximal intensity within seconds
+    - <u>Quality</u> - often described as a tearing pain
+    - <u>Severity</u> - severe resulting in collapse
+  - **Collapse** - very common attributable to pain, cerebral hypoperfusion as a result of carotid occlusion or acute AR
+  - **High blood pressure** - extremely high BP unless there is major compications
+  - **Complications as a result of acute occlusion of aortic branches:**
+    - <u>Myocardial infarction</u> - due to occlusion of coronary circulation in type A dissection
+    - <u>Stroke</u> - due to occlusion of the common carotid and subclavin artery if aortic arch involvement
+    - <u>Acute limb ischaemia</u> - ocassionally UL involvement in type A dissection, or lower limb involvement in both types
+    - <u>Acute renal infarction and pre-renal AKI</u> - as a result of renal artery involvement
+    - <u>Acute bowel ischaemia</u> - due to occlusion of the coeliac axis or superior mesenteric artery
+- **Signs** - asymetrical pulses raises suspicion of AD
+- **Ix:**
+  - **CXR** - absent findings in 10% of cases:
+    - <u>Findings suggestive of aortic dissection</u>:
+      - Widening of the upper mediastinum
+      - Distortion of the aortic knuckle
+    - <u>Associated findings</u>:
+      - Left-sided pleural effusion
+      - Cardiomegaly due to LVH from chronic HTN
+  - **ECG** - no-specific findings, look for concomittent MI:
+    - <u>Findings of associated MI</u> (usually inferior) - ST/T changes
+    - <u>Associated findings</u>:
+      - Left axis deviation and compatible findings of LVH reflecting chronic HTN
+  - **Echocardiogram** - may show:
+    - Concomittent AR
+    - Dilated aortic root
+    - Flap of dissection
+  - **Diagnostic vascular imaging** - CT or MRI angiography to identify false lumen: 
+  ![](img/angiogram_findings_in_ad.png)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Medical Mx</u> - reserved for haemodynamically stable type B dissection
+    - <u>Surgical Mx</u> - endoluminal stenting reserved for all type A dissection and those exhibiting features of impending rupture, or vital organ ischaemia
+  - **Medical therapy** - BP Mx aimed to avoid high-risk vascular surgery in haemodynamically stable type B dissection:
+    - **Target BP** - MAP 60-75 mmHg to reduce the force of ejection of blood from LV
+    - **Selection:**
+      - <u>First-line therapy</u> - beta-blockers (particularly w/ alpha-blocking properties like **labetalol**)
+      - <u>Subsequent therapy</u>:
+        - Rate-limiting CCBs - if beta-blocker contraindicated
+        - Sodium nitroprusside - considered if beta-blocker does not provide sufficient BP lowering
+  - **Surgical therapy:**
+    - <u>Indications</u>:
+      - Type A dissection
+      - Dissections a/w impending ruputure or vital organ or limb ischaemia
+    - <u>Procedures</u>:
+      - Endoluminal stenting
+      - Endoluminal repair (fenestration of intimal flap to decompress the false lumen)
+- **Prognosis** - early prognosis 1-5% per hour

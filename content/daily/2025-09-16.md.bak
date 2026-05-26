@@ -1,0 +1,171 @@
+---
+id: dac4d393-24d0-4d38-ac6e-97f89f438e29
+title: 2025-09-16
+---
+
+# GC105 Medically important microbes <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Approach to microbiology and ID:**
+  - Neat classification systems, which should be bidirectional
+  - Be able to classify microbes and know what infections they cause, and know what microbes are seen commonly in certain infection syndromes
+  - Classification of medically important bacteria:
+    - Based on gram stain status
+    - Based on morphology
+  - Classification by clinical syndromes - know the important etiology of each infection syndromes
+- **Approach to classification of bacteria** - classification by 1) G stain, and 2) morphology:
+  - <u>Classification by G stain</u> - into gram +ve (G +) bacteria (purple), and gram -ve (G -) bacteria (pink)
+  - <u>Classification by morphology</u>:
+    - Cocci (G+ cocci further classified into cocci in chains and cocci in clusteres)
+    - Rods/ bacilli (further classified by aerobic status)
+- **Medically important G+ cocci:**
+  - <u>Cocci in chains</u> (biochemically catalase +ve) - invariably refers to Staphylococcus species
+  - <u>Cocci in chains</u> (biochemically catalase -ve) - refers to streptococcus or enterococcus species
+
+  
+  ![](~/Documents/notes/img/medically_important_g_pos_cocci.png)
+- **Staphylococcus species** - suspected when microscopy returns G+ cocci in clusters:
+  - **Classification of staphylococcus species** - by biochemical reactions (coagulase):
+    - <u>Coagulase +ve staphylococcus</u> - S. aureus
+    - <u>Coagulase -ve staphylococcus</u> (CNS) - host of skin commensals, where medically important CNS include S. saprophyticus, S. epidermidis, and S. lugdunensis
+  - **Staphylococcus aureus** - extremely virulent organism with rising ABx resistance (MRSA vs MSSA), implicated in host of infectious syndromes and toxin
+  - **Coagulase -ve staphylococcus** (CNS) - retake blood culture w/ caution prior to initiation of ABx esp. in setting of absent focci of infection:
+    - <u>S. saprophyticus</u> - important cause of urinary tract infection
+    - <u>S. epidermidis</u> - a/w prosthesis or catheter-associated infections
+    - <u>S. lugdunesis</u> - CNS that behaves like S. aureus
+- **Streptococcus** - clinically important G+ cocci in chains a/w host of infections:
+  - **Classification of Streptococcus:**
+    - <u>By haemolysis status</u> - alpha-haemolytic, beta-haemolytic, and gamma-haemolytic (non-haemolytic) 
+    ![](~/Documents/notes/img/haemolysis_status_of_streptococcus.png)
+    - <u>By lancefield grouping</u> - classification of all streptococcus by biochemical properties irrespective of haemolysis status (however, only pertinent clinically for beta-haemolytic streptococci)
+  - **Medically important streptococcus:**
+    - <u>Alpha-/ Gamma-haemolytic streptococcus</u>:
+      - S. pneumoniae
+      - Viridan's streptococcus (common oral commensals a/w IE)
+      - S. anginosus/ milleri
+      - S. bovis (Group D streptococcus a/w GI malignancy)
+      - S. suis
+    - <u>Beta-haemolytic streptocuccs</u>:
+      - S. pyogenes
+      - S. agalactiae
+      - Group C and G streptococci
+  - **Antibiotic resistance**
+- **Enterococcus** - Lancefield group D species along w/ S. bovis:
+  - **Common sites** - part of <u>normal gut flora</u>, often causing opportunistic infections (e.g. biliary sepsis in cholangitis)
+  - **Medically important species:**
+    - E. faecalis (less ABx resistance)
+    - E. faecium
+  - **Clinical associations:**
+    - Catheter associated UTI
+    - Intra-abdominal/ biliary infections
+    - Line sepsis
+    - Endocarditis
+  - **ABx resistance** - all anterococcus are resistant to cephalosporin
+    - <u>E. faecalis</u> - resistant to cephalosporin, but may still be Sn to other beta-lactams
+    - <u>E. faecium</u> - typically Sn to big-gun drugs like vancomycin, but emerging resistance to vancomycin (Vancomycin resistant enterococcus \[VRE\]) requiring treatment w/ daptomycin, linezolid, tigecycline
+- **Classification of G+ cocci:**
+  - Cocci in clusters (also catalase +ve) - coagulase +ve (S. aureus) vs coagulase -ve staphylococcus
+  - Cocci in chains (also catalase -ve) - alpha haemolytic, beta-haemolytic streptococci and enterococcus
+- **Medically important G+ cocci:**
+  - GPC in clusters - staphylococcus (9 times out of 10 cases in clinically important infections)
+  - GPC in chain - streptococcus or enterococcus
+- **G+ cocci:**
+  - In clusters - staphylococcus:
+    - Coagulase +ve - S. aureus
+    - Coagulase -ve (CNS) - many species and many are comensals
+  - In chains:
+    - Streptococcus - classified by haemolysis pattern on blood agar and Lancefield grouping of beta-haemolysis
+    - Enterococcus
+- **S. aureus:**
+  - **Clinical manifestations** - quite virulent:
+    - <u>Invasive infections</u> - skin and soft tissue infections, abscesses, native/ prosthetic joint septic arthritis, osteomyelitis, pneumonia, infective endocarditis, surgical site infections, bacteraemia
+    - <u>Toxin-mediate disease</u> - food poisoning by staphylococcal enterotoxin, staphylococcus toxic shock syndrome, staphylococcal scalded skin syndrome
+  - **Further clinical classification** - based on ABx resistance patterns:
+    - MSSA - sensitive to most beta-lactams, except weak ABx such as ampicillin, penicillin (genereally Tx with cloxacillins, 1st-gen cephalosporins, 3rd-gen cephalosporins)
+    - HA-MRSA - resistant to beta-lactams except to one, and often resistant to other agents (Tx with vancomycin, linezolid, daptomycin, ceftaroline)
+    - CA-MRSA - resistant to beta-lactams, but less resistant to non-beta lactams
+    - VRSA - intermediate to full resistance agents to glycopeptides
+- **Coagulase negative staphylococcus** (CNS):
+  - Usually benign commensals of skin, hence single blood culture isolates of CNS should raise suspicion of improper collection technique
+  - **Virulent CNS:**
+    - S. saprophyticus - UTI
+    - S. lugdunensis - quite virulent and acts like SA
+    - S. epidermidis - prosthesis/ catheter-associated infections (biofilm formation resulting in chronic infections)
+- **Streptococcus** - G+ cocci in chains further classified based on haemolysis pattern and Lancefield grouping:
+  - **Principles of haemolytic patterns:**
+    - <u>Alpha haemolytic</u> - green discolouration w/ no rim of haemolysis
+    - <u>Beta-haemolysis</u> - actual haemolysis on blood agar
+    - <u>Gamma-haemolytic</u> - non-haemolytic
+  - **Alpha-haemolytic streptococci** - S. pneumoniae:
+    - Clinical manifestations:
+      - Pneumonia
+      - Meningitis
+      - Otitis media
+      - Sinusitis
+      - Septicaemia
+    - Strains intermediate resistant to penicillin
+    - Vaccination included in universal program
+  - **Other important alpha/ gamma streptococci:**
+    - Viridans streptococci (related to oral flora and IE)
+    - S. milleri (abscess formation)
+    - S. bovis (now known as gallolyticus, infantarius, pasteurianus and a/w underlying GI malignancy)
+    - S. suis (purulent meningitis)
+  - **Beta-haemolytic streptococci** (note most are sensitive to penicillin) - classified by Lancefield grouping:
+    - S. pyogenes (GAS) - a/w pharyngitis, scarlet fever, skin and soft tissue infection, necrotizing fasciitis, toxic shock syndrome, note a/w post-infectious syndrome
+    - S. agalactiae (GBS) - peripartum infections a/w child complications, but in fact also common in elderly/ immunocomprimised
+    - Group C&G streptococci - skin and soft tissue infections (note similar to GAS but less post-infectious syndrome)
+- **Enterococcus:**
+  - Normal gut flora, mainly a/w opportunistic infections
+  - Two important species - E. faecium and E. faecalis
+  - Clinical manifestation:
+    - Polymicrobial intra-abdominal biliary infections
+    - Line sepsis
+    - Catheter associated UTI
+    - Endocarditis
+  - Resistance - all resistant to cephalosporin:
+    - E. faecalis may still be Sn to other beta-lactams
+    - E. faecium requires vancomycin, but also often associated with VRE (vancomycin resistant enterococcus) and may need daptomycin, linezolid, tigecycline
+- **G+ rods** - less frequent, mainly classified into aerobic or anaerobic:
+  - <u>Aerobic G+ rods</u> - Bacillus (e.g. cereus, anthracis), Listeria monocytogenes, Corynebacterium, Nocardia and Rhodococcus equi, Mycobacterium
+  - <u>Anaerobic G+ rod</u> - clostridium (spore forming), actinomyces (non-spore forming)
+- **G- organisms:**
+  - G- rods
+  - G- cocci
+- **G- rods** - also classified by aerobic status:
+  - <u>Aerobic/ facultative anaerobic G- rods</u> - enterobacteriaceae, vibrio, non-fermenters, others and of clinical significance
+  - <u>Anaerobes</u> - bacterioides, fusobacterium
+- **Enterobacterales:**
+  - <u>Heterogenous group</u>:
+    - Within gut - E. coli, Klebsiella, proteus, enterobacter, citrobacter, morganella, serratia
+    - Acquired - Salmonella, Shigella, Yersinia
+  - <u>Clinical associations</u>:
+    - UTI
+    - Abdominal infections (e.g. biliary sepsis)
+    - Diarrheal syndromes
+    - Can spread distantly to other sites
+  - <u>ABx resistance</u>:
+    - ESBL producers - resistant to beta-lactams except carbapenems
+    - CPE (carbapenemase producing enterobacterales)
+- **Vibrionaceae and related genera:**
+  - Vibrio - diarrhoeal disease, vulnificus
+  - Aeromonas
+  - Plesiomonas
+- **Non-fermenters** - do not ferment glucose or other sugars, most are <u>environmental</u>:
+  - Pseudomonas aeruginosa
+  - Acinetobacter baumannii
+  - Stenotrophomonas maltophlia
+  - Burkholderia cepacia complex
+  - Burkholderia pseudomallei
+- **Other clinically significant aerobic/ facultatively aerobic G- rods:**
+  - Haemophilus influenzae
+  - Legionella pneumophilia
+  - Campylobacter
+  - H. pylori
+  - Brucella
+  - HACEK group
+- **Anaerobic G- rods** - add on <u>metronidazole</u>:
+  - Severe intra-abdominal sepsis and abscess formation when GI tract perforate
+  - Fusobacterium species (know a/w Lemierre's disease)
+  - Bacterioides
+- **G- cocci:**
+  - Moraella catarrhalis
+  - N. gonorrheae, meningitis

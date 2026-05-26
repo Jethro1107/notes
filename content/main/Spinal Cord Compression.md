@@ -1,0 +1,69 @@
+---
+id: 66ccb7e7-0b71-45fd-84e0-4a19c364a1f9
+roam_parent: 6C9166B3-557B-4575-A9F9-7E1BE7E001BD
+title: Spinal Cord Compression
+---
+
+# Spinal Cord Compression
+
+- **Definition** - clinical presentation of acute or subacute spinal cord compression caused by a neoplasm, further classified into epidural neoplasm, intradural neoplasm, or intrathecal neoplasm
+- **Etiology of neoplastic spinal cord compression:**
+    - <u>Epidural mass</u> - usually metastasis to the adjacent vertebral body (high proportion of marrow) from a distant primary, characteristically to the thoracic vertebrae:
+        - Prostate
+        - Breast
+        - Lung
+        - Kidney
+        - Ovary
+        - Lymphoma
+        - Myeloma
+    - <u>Intradural mass</u>:
+        - Common causes - meningioma, neurofibroma
+        - Uncommon causes - chordoma, lipoma, dermoid, or sarcoma
+- **Intramedullary spinal cord tumours** (intrathecal neoplasms) - non-compressive, usually presents as central cord syndrome or Brown-Sequard Syndrome:
+    - Ependymomas
+    - Hemangioblastomas
+    - Low-grade astrocytomas
+    - Secondary metastasis (usually in advanced metastatic disease but not nearly as frequent as brain metastasis)
+- **Common site of metastatic spinal cord compression:**
+    - <u>Thoracic spine</u> - most commonly inolved
+    - <u>Lumbar spine</u> - rarely involved in metastatic spinal cord compression except for **prostate cancer** and **ovarian cancer** possibly by venous drainage through the **Baxton's plexus**
+- **Clinical features of neoplastic spinal cord compression** - relatively rapid progression from antecedent Sx to acute presentation w/ compression:
+    - **Back pain** - usually an initial Sx of spinla metastasis (absence of pain is rare):
+        - <u>Site</u> - commonly over thoraci spine but lumbar spine for certain primries (see above)
+        - <u>Onset</u> - insiduous onset but rather rapidly progression, new onset of persistent non-mechanical back painespecially in thoracic spine should raise suspcion (?DDx TB)
+        - <u>Progression</u> - progressive pain
+        - <u>Provocating and relieving factors</u>:
+            - Provoked by movement, coughing, or sneezing
+            - Not relieved by rest (in fact characteristically awakens patients at night)
+        - <u>Quality</u> - non-mechanical, aching, sharp, radiating pain
+        - <u>Radiation</u> - localised to back, **radiating if a/w radiculopathy or myelopathy**
+        - <u>Severity</u> - rather persistent and severe affecting sleep, may be the predominant manifestation
+    - **Features of spinal cord compression** (myelopathy) - characteristically sensory Sx (e.g. parasthesia) before paralysis, and w/ early onset of 1) saddle parasthesia, 2) spastic paralysis, and 3) sphincteric disturbances:
+        - <u>Muscle weakness</u> - symmetrical, e.g. bilateral LL weakness with increased (or absent) jerks
+        - <u>Sensory deficits</u> - sensory level w/ sensory changes developing in dermatomes below the level of compression
+        - <u>Acute retention of urine</u> (AROU) - results in acute suprapubic pain and oliguria, risking post-renal AKI
+        - <u>Faecal incontence</u> - detected clinically by lost of anal tone
+- **Signs of neoplastic spinal cord compression:**
+    - <u>Sensory</u> - symmetrical w/ sensory level
+    - <u>Power</u> - symmetrical and profound loss
+    - <u>Reflexes</u> - increased (or absent) knee and ankle reflexes w/ extensor plantar reflex
+    - <u>Anal tone</u> - late loss
+
+  
+  ![](img/comparison_of_cord_compression_conus_and_equina.png)
+- **Ix:**
+    - **Plain radiographs of the spine** - limited role of diagnosis as misses up to 20% of vertebral metastasis
+    - **Bone scan** - limited role of diagnosis as misses up to 20% of vertebral metastasis, and will miss paravertebral masses extending through neuroforamina
+    - **MRI spine** - whole spine evaluated as 40% patients w/ metastatic cord compression are found to have asymptomatic epidermal metastasis elsewhere:
+        - <u>Characteristic findings</u>:
+            - Hypo-intensity on T1-weighted MRI - reduced signal relative to bone marrow signal signifies replacement by tumour
+            - Gandalonium enhancement on T1 weighted MRI - may become isointense, i.e. deceptive normalisation of appearance by increasing intensity to relative to that of normal marrow
+
+      
+      ![](../img/epidural_spinal_cord_compression_of_breast_carcinoma.png)
+        - <u>Role</u>:
+            - Excellent anatomical resolution to distinguish similar causes such as osteomyelitis (usually crosses disc space and involves adjacent VBs)
+            - Distinguish lesions from other masses (e.g. epidural abscess, tuberculoma, epidural haemorrhage)
+- **Mx:**
+    - **Principles of Mx** - medical emergency: 
+    ![](img/mx_of_suspected_cord_compression.png)

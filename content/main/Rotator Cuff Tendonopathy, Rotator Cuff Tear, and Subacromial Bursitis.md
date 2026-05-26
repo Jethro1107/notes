@@ -1,0 +1,60 @@
+---
+type: main
+tags:
+---
+# Rotator Cuff Tendonopathy, Rotator Cuff Tear, and Subacromial Bursitis
+
+- **Definition** - also referred to as shoulder impingement syndrome, is a cause of shoulder pain caused by inflammation, tear, or impingement under the acromion of one or more rotator cuff tendons (typically the supraspinatus)
+- **Epidemiology** - the most common cause of shoulder pain, usually seen in:
+	- Young people who engage in overhead activities
+	- > 50y (rotator cuff tears are most common)
+- **Associated pathology in rotator cuff tendinopathy:**
+	- Calcification of the tendon (calcific periarthritis)
+	- Subacromial bursitis
+- **Clinical features of supraspinatous tendonopathy:**
+	- ![[Pasted image 20260523172440.png]]
+- **Clinical features of other rotator cuff lesions:**
+	- Pain may be similar to that of supraspinatus tendonopathy
+	- May be a/w dominant signs of subscapularis or infraspinatus
+	- Milder lesions may mimick adhesive tendonitis
+- **Signs of rotator cuff lesions:**
+	- **Painful arc** - characteristic shoulder maximal at 60-120 degrees of shoulder abduction
+	- **Positive impingement test:**
+		- Neer's test
+		- Hawkin's test
+	- **Positive resisted movement tests:**
+		- _Resisted abduction_ - Jobe test
+		- _Resisted external rotation_ - infraspinatus test
+	- 
+- **Mx:**
+	- **Principles of Mx:**
+		- _Rest and education_ - patient education on the nature of disease
+		- _Advise_ - advise on rest during the acute painful phase to avoid aggravation of injury
+		- _Pharmacological therapy_ - analgesics and NSAIDs up to 4 weeks +/- peritendon/ subacromial injection (if no tear on USG)
+		- _USG_ - not typically required but may demonstrate tears (or differentiation w/ )
+		- _Referral for PT_ - active program including scapular stabilsing techniques and rotator cuff strengthening
+	- **Peritendon corticosteroid injection:**
+		- _Site and technique of injection_ - ideally onto the tendon rather than general infiltration into the subacromial space:
+			- Identify and mark the tendon based on insertion into greater tuberosity of the humorus
+			- Place patient arm in the back (in internal rotation position) w/ back of hand touching far waistline
+			- Needle inserted below the acromion along the line of tendon
+		- _Injection_ - recommended injection is w/ 1mL of soluble long-acting corticotsteroid w/ 5mL of 1% lignocaine
+- **Rotator cuff tear:**
+	- **Definition** - degenerative changes of rotator cuff tendon w/ age (misnomer and not a/w injuries)
+	- **Epidemiology** - asymptomatic rotator cuff tears are common but a significant number will become symptomatic over time:
+		- _Prevalence_ - asymptomatic rotator cuff tears are common but significant number will become symptomatic over time
+		- _Demographic_ - increasing incidence w/ age:
+			- Up to 4% in people under 40y
+			- > 50% of those over 60y
+	- **Clinical features of rotator cuff tears** - presentation w/ shoulder pain typical of rotator cuff tendinopathy w/ associated weakness:
+		- _Pain_ - impingement in external +/- internal rotation
+		- _Weakness_ - on abduction and external rotation
+	- **Diagnostic triad of rotator cuff tear** - >= 2/3 +ve signs in >60y has 98% specificity of rotator cuff tear:
+		- Supraspinatus weakness
+		- Weakness in external rotation
+		- Impingement (in external or internal rotation or both)
+- **Subacromial bursitis:**
+	- **Definition** - inflammation of the subacromial bursa often in association w/ a severe rotator cuff pathology
+	- **Mx:**
+		- Strong analgesics
+		- Injections of local anasthetics into bursa and corticosteroids onto the focus of the lesion

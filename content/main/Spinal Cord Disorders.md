@@ -1,0 +1,116 @@
+---
+id: 6C9166B3-557B-4575-A9F9-7E1BE7E001BD
+roam_parent: 8579b855-c25b-4b31-98bd-6208c01f1065
+title: Spinal Cord Disorders
+---
+
+# Spinal Cord Disorders
+
+- **Neuroanatomy:**
+    - **Physiological anatomy of the spinal cord** - tubular extension of the CNS contained within the bony spinal canal, extending from the medulla to the conus medullaris:
+        - White matter tracts containing ascending sensory tracts and descending sensory tracts located peripherally
+        - Cell bodies clustered in inner region in a four-leaf clover shape surrounding the central canal (extension of 4th ventricle)
+        - Surounded by leptomeninges, containing the pia, arachnoid, and dura matter (CSF found in between pia and arachnoid mater)
+        - Forms a long, oval tube expanded in the cervical and lumbar regions corresponding to dense innervation to the UL and LL respectively
+        - Contains 31 segments defined by an exiting ventral motor root and entering dorsal sensory root
+    - **Transverse anatomy of the spinal cord:** 
+    ![](../img/transverse_view_of_spinal_cord.png)
+    - **Longuitudinal tracts may traverse ipsilateral or contralateral to the side they innervate or supply:**
+        - Most longutidinal tracts traverse along the ipsilateral to the side they innervate, including the dorsal column and the descending corticospinal tracts (decussation occurs higher up)
+        - Afferent fibers mediating pain and temperature ascend in spinothalamic tract contralateral to the side they supply
+        - The anatomical configuration produces characteristic spinal cord syndromes providing clues to the underlying disease process (esp. Brown-Sequard Syndrome)
+    - **Relationship between spinal level and vertebral level** - growth of cord lacks behind that of spinal level during embryonic development and explains unique presentation of myelopathic disorders:
+        - Spinal cord terminates at T12/L1 junction, and by principle, <u>lower spinal nerves may lag take an increasing downward course to exit via their respective neuroforamina</u>
+        - C1-7 nerve roots exit above the same-numbered vertebrae, while the others exit below the same-numbered vertebrae (as there are 8 cervical roots but 7 cervical VBs)
+	    ![](../img/spinal_cord_level_corresponding_to_vertebral_body.png)
+- **Clnical manifestations of spinal cord diseases** - debellitating as small cross-section densely packed by longitudinal tracts:
+    - <u>Motor weakness</u> - quadriplegia or paraplegia
+    - <u>Sensory deficits</u> - usually a/w sensory level
+- **Suggestive findings of a spinal cord lesion** - sensory, motor and autonomic impairment explained by a transverse lesion:
+    - <u>Sensory level</u> - sought by asking assessing pinprick sensation fro proximal legs and lower trunk to the neck bilaterally:
+        - Unilateral cord lesion - clinical spinal level may be discrepent by 1-2 levels (usually below) as 1st order neurons may ascend 1-2 levels to the contralateral tract before synapsing
+        - Bilateral cord lesion - clinical spinal level usually at the level at the lesion
+    - <u>Motor weakness</u> - trasection of corticospinal and other motor tracts results in:
+        - Paraplegia or quadriplegia depending on the level of transection
+        - Hyperrefleixia (heightened deep tendon reflexes)
+        - Upgoing plantars (and other myelopathic signs such as inverted brachoradialis and Hoffman's sign)
+        - Spasicity (typically late but completes the UMN syndrome)
+    - <u>Autonomic disturbances</u>:
+        - Absent sweating below implicated cord level
+        - Bladder, bowel, and sexual dysfunction
+- **Assessment of the level of of spinal cord lesion** - uppermost level of spinal cord lesion can be localised by attension of segmental signs reflecting root involvement:
+    - Band of hyperalgesia or hyperpathia (Radicular pain) at the upper end of sensory disturbance
+    - LMN signs (fasciculation, atrophy, muted reflexes) corresponding to the sensory level
+- **Segmental signs are only useful in chronic myelopathies as:**
+    - State of spinal shock (days to weeks) during acute transverse lesions results in limbs to be flaccid rather than spastic, and may be mistakened for 1) acute polyneuropathy, or 2) widespread anterior horn disease
+    - Much more easier to interpret and delineate level of lesion when they occur w/ signs of long tract damage
+- **Features of cervical cord lesion** - 1) high cervical lesions results quadriplegia and diaphragmatic weakness, 2) mid-to-low cervical lesions results in paraplegia w/ myotomal involvement of the UL:
+    - <u>C5-C6 lesion</u> - weakness on flexion at elbow + hyporreflexia of bicep reflexes
+    - <u>C7 lesions</u> - weakness on extension at elbow, and extension of wrists and fingers (sparing the above) + hyporreflexia of triceps reflex
+    - <u>C8 lesions</u> - weakness of flexion of wrist and fingers (saring the above)
+    - <u>Horner syndrome</u> - miosis, ptosis, and hypohidrosis may accompany any C-spine lesion
+- **Features of thoracic cord lesion** - level determined by sensory level on the trunk:
+    - <u>T4 lesion</u> - sensory level at the nipples
+    - <u>T10 lesion</u> - sensory level of umbilicus (w/ Beevor sign, i.e. uppward movement on abdominal wall contraction as only lower abdominal muscles impaired)
+- **Features of lumbar cord lesion**:
+    - <u>L2-L4 lesion</u> - impaired flexion and extension of thigh, extension of knee + loss of patellar reflex
+    - <u>L5-S1 lesion</u> - impaired flexion of the knee, movement of the ankle (dorsi-flexion, plantar-flexion, inversion, and eversion) + loss of ankle jerks
+- **Features of conus medullaris syndrome** (S2-S5):
+    - Bilateral saddle anesthesia (S3-S5)
+    - Bladder (urinary retention), bowel (incontinence w/ laxed anal tone), and sexual (impotenence) dysfunction
+    - Loss of bulbocarvenosus (S2-S4) and anal (S4-S5) reflexes
+    - Muscle strength is usually preserved (unless mixed cauda equina sydnrome)
+- **Brown-Sequard Hemicord syndrome** - hemicord transection, most commonly partial forms rather than fully developed syndrome:
+    - Ipsilateral segmental signs including radicular pain, hyporreflexia etc, usually one or two levels below the lesion
+    - Ipsilateral weakness due to corticospinal tract involvement (flaccid acutely, and spastic in chronic phase)
+    - Ipsilateral loss of proprioception due to dorsal column involvement
+    - Contralateral loss of pain and temperature (below the level of segmental signs) due to spinothalamic tract involvement
+- **Central Cord Syndrome** - due to preferential damage to 1) gray matter cells, 2) decussating fibres to the spinothalamic tract:
+    - Quadriplegia with <u>arm weakness out of proportion to leg weakness</u>
+    - Dissociative sensory loss in cape distribution (shoulder, lower neck, upper trunk):
+        - Impaired pain and temperature sensation
+        - Preserved light touch and proproception
+    - Most commonly due to 1) C-spiine injury, 2) syringomyelia, or 3) intrinsic cord tumours
+- **Anterior Cord Syndrome** - invariably caused by <u>anterior spinal artery ischaemia</u>, with bilateral cord damage that spares the dorsal columns:
+    - Motor, sensory, and autonomic dyfunction below the level of the lesion
+    - Striking retained proprioception due to sparing of the dorsal columns
+- **Foramen Magnum Syndrome** - SOL near the foramen magnum interrupting decussating pyramidal tracts of the legs (N.B. caudal to decussation for the arms):
+    - Quadriplegia that progresses in an "around-the-clock" pattern beginning theoretically in any four limbs, most commonly progresses from ipsilateral UL, ipsilateral LL, contralateral LL, and contralateral UL
+    - Suboccipital pain/ headache radiating to neck and shoulders
+- **Intramedullary vs Extramedullary Syndromes** - differentiation based on the progression of Sx and Sx burden:
+    - <u>Extramedullary syndromes</u> - arises from outside the cord compressing the cord or its vascular supply:
+        - Prominent radicular pain as often a component of radiculopathy with compressive Sx
+        - Early sacral sensory loss (saddle parasthesia) due to the laminated configuraiton of the Spinothalamic tract (Sacral levels outer, Cervical levels inner)
+        - Early spastic weakness and autonomic dysfunction due to early involvement of the corticospinal tracts
+        - Further differentiation btween extradural (usu. malignant cord compression), and intradural mass (us. benign like neurofibroma) based on rate of progression of Sx (malignant masses progress more rapidly while benign mass progress indolently)
+    - <u>Intramedullary syndromes</u> - arises from substance of the cord:
+        - Pain is poorly localised and is usually burning in nature, rather than a radicular pain
+        - Relatively "sacral sparing" reflecting laminated configuration of spinothalamic tract
+        - Spastic weakness is late as the corticospinal tract occurs later
+- **Compressive vs non-compressive myelopathy:**
+    - <u>Compressive myelopathy</u> (esp. malignancy or abscess) - **antecedent warning signs** such as neck or back pain, bladder disturbances, and **sensory Sx preceeding development of paralysis** (rule does not necessary apply to acute processes such as subluxation or haemorrhage)
+    - <u>Noncompressive myelopathy</u> - full blown myelopathy without antecedent symptoms
+- **DDx of treatable spinal cord disorders** - VINDICATE approach: 
+	![](../img/treatable_spinal_cord_disorders.png)
+- **DDx of acute or subacute spinal cord disease** - compressive vs noncompressive myelopathy:
+    - **Compressive myelopathy** - traumatic vs non-traumatic:
+        - <u>Traumatic</u> - spinal cord injury
+        - <u>Non-traumatic</u>:
+            - Neoplastic spinal cord compression
+            - Spinal epidural abscess
+            - Spinal epidural haematoma
+            - Haematomyelia
+            - Acute spondylytic myelopathy
+    - **Noncompressive myelopathy:**
+        - Vascular - spinal cord infarction, AV malformation and dural fistula
+        - Inflammatory or immune-mediated myelopathies (i.e. myelitis) - MS, NOSD, other neuroinflammatory diseases (e.g. Anti-MOD, ADEM), acute infectious myelitis, post-infectious myelitis, sarcoidosis, systemic autoimmune disease (APLS and SLE, Sjogren's syndrome, Behchet's disease, vasculitis, CLIPPERS)
+- **Differentiation between vascular/ischaemic from inflammatory/infectious causes** - clinical impression important as MRI and LP findings show significant overlap:
+    - **Onset:**
+        - <u>Vascular/ischaemic</u> - hyperacute presentation w/ back or neck pain and neurological findings
+        - <u>Inflammatory/ infectious</u> - subacute presentation often a/w systemic Sx (e.g. fever)
+    - **Examination findings:**
+        - <u>Vascular/ ischaemic</u> - anterior pattern of SCI (striking retention of proprioceptive senses \[dissociative sensory loss\] due to sparing of dorsal columns)
+        - <u>Inflammatory/ infectious</u> - systemic findings, neurology reflects complete transection
+    - **Ix findings** - pleocytosis in CSF and focal enhancement on MRI are non-specific (oligoclonal bands and extensive longitudinal lesions are suggestive of inflammatory causes)
+- **Evaluation of Myelopathy:** 
+	![](../img/evaluation_of_myelopathy_harrisons.png)

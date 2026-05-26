@@ -1,0 +1,92 @@
+---
+id: 4aefb233-10e8-4a7a-b6de-45339487fb37
+title: Cytotoxic Chemotherapy
+---
+
+# Cytotoxic Chemotherapy
+
+- **Overview:**
+  - <u>Classification by mechanism of action</u> - classified into non-cell cycle specific and cell cycle specific drugs
+  - <u>Non-specific to cancer</u> - chemotherapaeutic drugs have greatest activity in proliferating cells, and this provides rationale for their use in Tx of cancer, but also its S/E profile
+- **Intent of chemotherapy:**
+  - <u>Palliative chemotherapy</u> - typically used to Tx patients w/ distant metastasis w/ goal of delaying disease progression, improving Sx and QOL (survival increments are secondary)
+  - <u>Adjuvant chemotherapy</u> - given after a primary therapy that is designed to cyto-reduce the tumour bulk and remove all macroscopic disease, with an intention of eradicating micrometastastic disease and improve DFS and OS
+  - <u>Neoadjuvant chemotherapy</u> - chemotherapy administered before a planned cyto-reductive procedure, increasing likelihood of successful debulking
+  - <u>Concurrent chemoirradiation</u> - chemotherapy for radio-sensitization
+  - <u>Curative chemotherapy</u> - as primary therapy in selected tumours (e.g. germ cell tumour)
+- **Cell cycle** - chemotherapy acts on one or all components of cell cycle:
+  - **Phases of cell cycle** - most cells remain in G0 (quiescent phase) in absence of cell signal or when they become confluent:
+    - <u>G1</u> (gap 1) - period of commitment into cell cycle, where cell is receptive to growth signals and prepares for DNA replication, but may arrest in response to anti-growth signals, but will be locked in S phase once past restriction point
+    - <u>S</u> (DNA synthesis) - DNA replication
+    - <u>G2</u> - further growth and DNA repair with checkpoints prior to commit to mitosis
+    - <u>M</u> (mitosis) - actual phase of cell regulation
+  - **Regulation of cell cycle:**
+    - <u>Cyclin and cyclin-dependent kinases</u> - kinases that are necessary in progression of cell cycle in checkpoints (G1/S, or G2/M transitions), where tumour suppressor genes (e.g. TP53, TP21, TP16) deactivate cyclin-CDK complexes when necessary
+  - **Stimulation of cell cycle** - dependent on growth-factor-receptor interaction
+- **Principles of cytotoxic chemotherapy** - targets <u>one or more phase of the cell cycle</u>:
+  - **Cytotoxic agents** have <u>greatest activity against rapidly deviding cells</u> (i.e. cancer cells), this forms the rationale for their use in anti-cancer therapy
+  - **Normal cells** have a <u>slower rate of cell division</u>, hence are less affected by cytotoxic agents
+  - **Myeloid cells, mucous membrane cells, skin, and hair cells** have <u>high proliferation rate</u>, hence are affected by chemotherapy irrespective of class of drug
+- **Classification of cytotoxic chemotherapy** - cell cycle specific vs cell cycle independent: 
+![](~/Documents/notes/img/overview_of_chemotherapy.png)
+  - **Cell-cycle independent cytotoxic agents:**
+    - <u>Anthracyclines</u> - e.g. daunorubicin, doxorubicin, epirubicin
+    - <u>Alkylating agents</u> - e.g. platinum-based compunds, nitrosurea, alkyl sulphonates
+  - **Cytotoxic agents acting against G1 phase** - e.g. dactinomycin
+  - **Cytotoxic agents acting against S phase** - antimetabolites:
+    - Cladribine and Cytarabine
+    - 5-FU
+    - Hydroxyurea
+    - Methotrexate
+    - Pentostatin
+    - Thiopurines
+  - **Cytotoxic agents acting against G2 phase** - topoisomerase inhibitor:
+    - <u>Topoisomerase inhibitors</u> - etoposide, teniposide, irinotecan, topotecan
+    - <u>Others</u> - bleomycin, bortezomib
+  - **Cytotoxic agents acting against M phase** - microtubule inhibitors:
+    - <u>Taxanes</u> - e.g. paclitaxel, docetaxel, cabezitaxel
+    - <u>Vinca alkaloids</u> - e.g. vinblastine, vincristine, vinorelbine
+- **Mode of administration of chemotherapy:**
+  - <u>Intravenous</u> - many are vesicant or locally irritant if there is extravastation and thus often given as an infusion to minimise the risk
+  - <u>Oral</u> - newly developed but not many have replaced their intravenous counterparts
+  - <u>Transarterial</u> - e.g. Transarterial chemoembolisation
+  - <u>Intraperitoneal</u>
+  - <u>Intrathecal</u> - e.g. for CNS prophylaxis in CLL
+- **Role of chemotherapy in current paradigm of cancer Tx** - combination w/ other modes of local and systemic therapy:
+  - **Role of combining chemotherapy and radiotherapy** - chemotherapy results in radiosensitization of the tumour
+  - **Role of combination chemotherapy:**
+    - <u>Increased therapeutic potential</u> - through targetting different parts of the cell cycle (e.g. Xeloda + oxaliplatin for mCRC)
+    - <u>Overcome drug resistance</u> - by targeting several pathways of the cell cycle
+    - <u>Limit S/E</u> - by minimizing the dose used, and enable time to recover from short-term toxicity before the next dose
+  - **Role of combining chemotherapy and targeted therapy** - synergistic effect
+  - **Role of combination chemoimmunotherapy** - chemotherapy has immunogenic effects
+- **Adverse effects of chemotherapy** - dose-dependent relationship and can be easily Mx by dose-reduction or dose-interruption, but some may be long lasting:
+  - **Common S/E for chemotherapy:**
+    - Myelotoxicity - e.g. anaemia, thrombocytopenia, neutropenia
+    - Dermatological toxicities - e.g. hand foot syndrome, alopecia
+    - GI toxicity - e.g. N/V, oral mucositis, diarrhoea
+    - Neurotixicity - e.g. neuropathy (may be long lasting)
+    - Nephrotoxicity - e.g. AKI
+    - Hepatotoxicity - e.g. derranged renal function
+    - Allergic reaction
+  - **Myelosuppression** - common to almost all cytotoxics due to suppression of HSC: - <u>Implications of myelosuppression</u>:
+    - Limits dosing of drug (or dose interruption)
+    - Increased risk of life-threatening infections
+    - <u>Timing of neutropenia</u> - nadir at 7-12d, and lasts for 5-7d
+    - <u>Precaution</u> - G-CSF prophylaxis in regimens that confer high rates of neutropenia (\> 20%) given 48-72h after dosing
+  - **Different cytotoxic agents have different toxicity profiles** - for example:
+    - <u>Platinum based compounds</u> - ototoxicity and nephrotoxicity
+    - <u>Bleomycin</u> - pulmonary fibrosis
+    - <u>Anthracyclines</u> - cardiotoxicity
+- **Chemotherapy resistance** - typically avoided by combination therapy:
+  - <u>Mechanisms</u> - not clinically significant:
+    - Drug efflux pumps
+    - Drug inactivation
+    - Mutation of drug target
+    - Increased DNA repair deficiency
+  - <u>Identification</u> - disease progrsesion despite receiving chemotherapy:
+  - <u>Approach</u> - change to another line of therapy (usually a drug w/ different MOA)
+- **Supportive measures during chemotherapy:**
+  - <u>Antiemetics</u> - dependent on emetic potential of the chemotherapy regimen: 
+  ![](~/Documents/notes/img/asco_guidelines_in_antiemetics_for_patients_on_chemotherapy.png)
+  - <u>Primary prophylaxis for neutropenia</u> - e.g. G-CSF if regimen high risk for neutropenia

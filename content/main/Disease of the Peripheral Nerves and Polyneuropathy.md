@@ -1,0 +1,146 @@
+---
+id: 0be385d1-e5ac-47db-9764-611076735ad1
+roam_parent: 8579b855-c25b-4b31-98bd-6208c01f1065
+title: Disease of the Peripheral Nerves and Polyneuropathy
+---
+
+# Disease of the Peripheral Nerves and Polyneuropathy
+
+- **Definition and terminology** - disease of the peripheral nerves may occur at different sites:
+    - <u>Radiculopathy</u> - nerve root involvement
+    - <u>Plexopathy</u> - plexial involvement
+    - <u>Neuropathy</u> - nerve involvement
+- **Classification of neuropathy** - based on number of nerve involvement:
+    - <u>Mononeuropathy</u> - single nerve involvement
+    - <u>Mononeuritis multiplex</u> - involvement of multiple nerves often in an asymmetrical pattern
+    - <u>Polyneuropathy</u> - involvement of many nerves often in a symmetrical pattern
+- **Clinical manifestations** - either in isolation or combination; acute or chronic:
+    - Motor dysfunction
+    - Sensory dysfunction
+    - Autonomic dysfunction
+- **Pathophysiology of neuropathies** - different pathological changes may result in different 1) pattern of manifestation, and 2) responsiveness to Tx:
+    - <u>Demyelinating neuropathies</u> - damage to the Schwann cell resulting in transient demyelination:
+        - Clinical manifestations in a **non-length-dependent manner**, i.e. haphazardly involve proximal and distal areas
+        - Usually **responsive** to Tx
+    - <u>Axonal neuropathies</u> - damage to the nerve cell body or axon, which is irreversible and not responsive to Tx:
+        - Clinical manifestations in a **length-dependent manner**, i.e. distal areas affected first
+        - Usually **unresponsive** to Tx
+- **Etiology of polyneuropathy:** 
+![](../img/causes_of_polyneuropathy.png)
+- **Etiology of chronic neuropathies classified by pathogenic mechanism:** 
+![](../img/ddx_of_chronic_polyneuropathy.png)
+    - **Axonal neuropathies:**
+        - <u>Metabolic disturbances</u> - chronic hyperglycaemia (DM), cirrhosis, uraemia, myxoedema, acromegaly
+        - <u>Deficiency states</u> - B12, pyridoxine, thiamine, vitamin E
+        - <u>Drugs</u> - e.g. ABx (isoniazid, metronidazole, ethambutol), chemotherapy (cisplatin, vincristine), phenytoin, amiodarone, antiretrovirals
+        - <u>Toxins</u> - alcohol, nitrous oxide, organophosphate poisoning, heavy metals (lead, arsenic, mercury)
+        - <u>Systemic infections</u> - HIV, leprosy, Brucellosis
+        - <u>Infiltrative</u> - e.g. amyloidosis, sarcoidosis
+        - <u>Hereditary</u> - e.g. CMT, HSN, HSAN, HNPP
+    - **Demyelinating chronic polyneuropathies:**
+        - Chronic inflammatory demyelinating polyradiculopathy (CIDP)
+        - Multifocal motor neuropathy
+        - Paraprotein-associated demyelinating neuropathy
+        - CMT disease type I and type X
+- **General approach** - 3 main goals:
+    - <u>Where is the lesion</u> - obtained through Hx and P/E (answer 7 main questions for pattern recognition), electrodiagnostic studies +/- laboratory studies
+    - <u>What is the cause</u> - from extensive Ix, although 50% w/ chronic peripheral neuropathies have no etiology identified, labelled as crytopgenic sensory and sensorimotor polyneuropathy (CSPN)
+    - <u>What is the proper treatment</u> - depends on whether there is a treatable underlying cause
+- **Seven key questions to answer from initial clinical assessment:** 
+![](../img/seven_key_questions_of_neuropathic_disorders.png)
+    - **System involvement** - sensory, motor, autonomic or combination of these:
+        - <u>DDx of isolated non-UMN weakness</u> - 1) motor neuropathy, 2) NMJ disorder, 3) myopathy, 4) anterior horn cell disease (consider motor multifocal neuropathy before)
+        - <u>DDx of autonomic neuropathy</u> - 1) diabetic autonomic neuropathy, 2) amyloid polyneuropathy, 3) pandysautonomic syndrome
+        - <u>DDx of sensory neuropathy</u> - most neuropathies are sensory in nature
+    - **Distribution of weakness** - if weakness is present, delineate whether 1) distal involvement, or involves both proximal and distal, and 2) symmetrical, or focal and asymmetrical:
+        - <u>DDx of symmetrical proximal and distal weakness</u> - hallmark of **acquired immune demyelinating polyneuropathies**, usually w/ sensory involvement, including 1) Acute GBS, or 2) CIDP
+        - <u>DDx of multifocal, asymmetrical weakness</u> (worisome for ALS if subacute and progressive over weeks or months in absence of sensory Sx):
+            - **With multiple nerve involvement:**
+                - Mononeuropathy multiplex (vasculitis, amyloidosis, infectious, malignancy)
+                - Multifocal motor neuropathy, multifocal acquired motor axonopathy
+                - Anterior horn cell disease (neck extensor weakness, bulbar Sx, SOB)
+                - NMJ disorders
+                - Certain myopathies
+            - **With single nerve/ regional involvement** - any of the above and:
+                - Radiculopathies and Plexopathies
+                - Nerve entrapment syndrome (compressive mononeuropathies)
+    - **Nature of sensory involvement** - small fibre vs large fibre involvement:
+        - <u>DDx of small-fibre neuropathy</u> - typically presents w/ 1) reduced pain and temperature, sensation, 2) preserved proprioception, 3) preserved muscle power and deep tendon reflexes:
+            - Diabetes mellitus or impaired glucose tolerance
+            - Amyloid neuropathy
+            - Cryptogenic sensory polyneuropathy (CSPN)
+        - <u>DDx of large-fibre neuropathy</u> - typically presents w/ 1) hyperpathia with numbness and 2) neuropathic/ protopathic pain (poorly localised burning, dull pain or lancinating pain), or 3) severe proprioceptive loss with imbalance:
+            - Sensory neuronopathy/ ganglinopathy (paraneoplastic, Sjogren's, B6 toxicity, HIV-related sensory neuropathy etc.)
+    - **Evidence of upper motor neuron involvement:**
+        - <u>DDx of distal sensory neuropathy w/ symmetrical UMN involvement</u> - combined system degeneration with neuropathy:
+            - Vitamin B12 deficiency (most common; combined subacute degeneration of the cord)
+            - Copper deficiency
+            - HIV infection
+            - Severe hepatic disease
+            - Adrenomyeloneuropathy
+            - Hereditary spastic paraplegia plus a neuropathy
+        - <u>DDx of distal sensory neuropathy w/o symmetrical UMN involvement</u> - wide
+    - **Temporal evolution** - 1) acute (\< 4 weeks) vs subacute (4-8 weeks) vs chronic (\> 8 weeks), and 2) monophasic/static vs progressive vs relapsing and remitting:
+        - <u>DDx of chronic and insidious progression of neuropathy</u> - most neuropathies
+        - <u>DDx of acute and subacute onset of neuropathy with progression</u>:
+            - GBS
+            - Vasculitis (if mononeuritis multiplex)
+            - Diabetic mononeuritis multiplex
+            - Radiculopathies related to Lyme disease
+        - <u>DDx of chronic neuropathy with relapsing and remitting course</u>:
+            - CIDP
+            - Porphyria
+    - **Evidence of hereditary neuropathy** - classical CMT disease shows the following:
+        - C/O of slowly progressive distal weakness over many years with <u>few sensory Sx yet significant sensory deficits on examination</u>
+        - Examination shows <u>Charcot neuropathic osteoarthropathy</u> (flat arches and hammer toes) and scoliosis
+        - Potentially positive family studies, and it may be necessary to perform neurologic and electrophysiologic studies on family members in addition to the patient
+    - **Relevant medical conditions:**
+        - Preceding or concurrent infections (e.g. diarrheal illness preceding GBS)
+        - Associated medical conditions (e.g. DM, SLE)
+        - Past surgieries (e.g. gastric bypass and nutritional neuropathies)
+        - Drug Hx (drug-induced neuropathy, including OTC B6 preperations)
+        - Dietary habits
+        - Use of dentures (zinc leading to Cu deficiency)
+- **Pattern recognition approach to neuropathic disorders:** 
+![](../img/pattern_recognition_approach_to_neuropathic_disorders.png)
+- **Ix:** 
+![](../img/ix_for_polyneuropathy.png)
+    - **Routine bloods** - CBC, LRFT, ESR/CRP, FBG/A1c TFT, B12, folate, ANA, ANCA, serum protein electrophoresis:
+        - <u>CBC</u> - megaloblastic anaemia if B12 deficiency; detect inflammatory process
+        - <u>LRFT</u> - detection of dLRFT or uraemia
+        - <u>Inflammatory markers</u> (ESR/CRP) - non-specifically elevated reflects inflammatory process
+        - <u>FBG/A1c</u> - diabetic
+        - <u>TFT</u> - hypothyroidism
+        - <u>B12, folate</u> - most common deficiency states
+        - <u>ANA, ANCA</u> - detect autoimmune disease including WG
+        - <u>SPE</u> - paraprotein-associated demyelinating neuropathy
+    - **CXR** - r/o chest malignancy or systemic conditions w/ chest involvements
+    - **Additional Ix:**
+        - <u>Nerve conduction study</u> - discriminating between axonal or demyelinating neuropathies (most are axonal)
+        - <u>Serum amyloid</u> - for amyloidosis
+        - <u>Serum ACE</u> - for sarcoidosis
+        - <u>Vitamin A and E assay</u> - for deficient states
+        - <u>Genetic testing</u> - e.g. for CMT, HNPP, HSN, HSAN and others
+- **Electrodiagnostic studies** (EDx) - consists of nerve conduction studies (NCS), and needle electromyography (EMG) +/- studies of autonomic function:
+    - 1\. To differentiate mononeuropathy, mononeuropathy multiplex, radiculopathy, plexopathy, or polyneuropathy
+    - 2\. To differentiate types of fibre involvement from sensory fibre, motor fibre, autonomic fibre
+    - 3\. To differentiate between axonopathies and myelinopathies
+
+  
+  ![](../img/electrophysiological_features_of_axonopathies_and_myelinopathies.png)
+- **Other important Ix** - esp. in a patient presenting w/ symmetrical peripheral neuropathy:
+    - **Routine bloods** - CBC, LRFT, FBG, HBA1c, TFT, B12 and folate, ESR, autoimmune markers (ANA, RF), SPE with immunofixation, serum/ urine free light chains and kappa/lambda ratios
+    - **Additional Ix based on predominant clinical picture:**
+        - <u>Patients w/ mononeuritis multiplex</u> - vasculitis workup (ANCAs, cryoglobulins, hepatitis serology, Western-blot for Lyme disease, HIV, CMV-titres)
+        - <u>Patients w/ symmetrical proximal and distal weakness</u> (suspected GBS or CIDP):
+            - LP for albuminocytologic dissociation
+            - Hepatitis, HIV, CMV, EBV serology if con-comittent dLFT
+            - IgG4 against neurofascin and contactin-2 (CIDP w/ sensory ataxia that does not respond to conventional immunotherapy but responds to rituximab)
+            - Porphyria screen if axonal GBS w/ suspicious coinciding Hx (e.g. unexplained abdominal pain, psychiatric illness, autonomic dysfunction)
+        - <u>Patients w/ severe proprioceptive loss, sensory ataxia suggestive of ganglionopathy</u>:
+            - Anti-Ro (SS-A), Anti-LA (SS-B) for Sjogren's syndrome
+            - Anti-Hu Ab for paraneoplastic neuropathy + malignancy screen for SCLC, CA breast, prostate, ovary, lymphoma etc.
+        - <u>Patients w/ suspected heavy metal poisoning</u> - heavy metal screen
+    - **Nerve and skin biopsies:**
+        - <u>Nerve Bx</u> - primary indications includes suspicion for 1) vasculitis, 2) amyloid
+        - <u>Skin Bx</u> - for suspected small-fber neuropathy, where immunological staining of punch Bx shows reduced density of small unmyelinated fibres

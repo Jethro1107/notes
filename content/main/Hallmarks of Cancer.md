@@ -1,0 +1,74 @@
+---
+id: 3ca32f7f-73bb-479e-b5e6-acc39547e512
+title: Hallmarks of Cancer
+---
+
+# Hallmarks of Cancer
+
+- **Hallmarks of cancer** (Hanahan & Weinberg) - characteristic features identified irrespective to cancer types:
+    - 1\. Genome instability and mutation
+    - 2\. Resisting apoptosis
+    - 3\. Sustaining proliferative signalling
+    - 4\. Evading growth suppressor
+    - 5\. Enabling replicative immortality
+    - 6\. Inducing angiogenesis
+    - 7\. Activating invasion and metastasis
+    - 8\. Reprogramming energy metabolism
+    - 9\. Tumour-promoting inflammation
+    - 10\. Evading immune destruction
+- **Genome instability and mutation** - genomic instability enables accelerated process of accumulating driver mutations:
+    - Although mutations occur continuously in all dividing cells of the body, under normal circumstances, surveillance system and <u>cellular DNA repair mechanisms</u> enable spontaneous mutations to be corrected, or induce apoptosis, such that <u>actual mutation rate is kept at low rate</u>
+    - Mutations that in itself <u>induce genetic instability</u>, by <u>comprimise surveillance system that maintains genomic integrity</u> can accelerate carcinogenesis
+- **Resisting apoptosis and cell death:**
+    - **Principle mechanisms of cell death in healthy tissue:**
+        - <u>Apoptosis</u> - **programmed cell death** through a cascade of proteolysis, cell disassembly with nuclear fragmentation, chromosomal condensation, shrinking of cell, formation of apoptosis and phagocytosis by neighbouring cells, is tightly regulated by **intrinsic** (p53) and **extrinsic** **pro-apoptotic signals**
+        - <u>Autophagy</u> - **internal catabolic process** during which cellular constituents are degraded by lysosomal machineries **in response to catabolic stress**, and are found as a **cytoprotective measure for malignant cells** (e.g. during RT/CT)
+    - <u>Necrosis</u> - **premature death of cells** that brings about an inflammatory response, and release of stimulatory factors that **promote proliferation of neighbouring cells** (i.e. promote rather than inhibit carcinogenesis)
+- **Sustaining proliferative signalling** - growth and proliferative response that is beyond what is expected in normal cells:
+    - **Normal cell cycle:** 
+    ![](img/cell_cycle_and_regulation.png)
+        - **Phases of cell cycle** - most cells remain in G0 (quiescent phase) in absence of cell signal or when they become confluent:
+            - <u>G1</u> (gap 1) - period of commitment into cell cycle, where cell is receptive to growth signals and prepares for DNA replication, but may arrest in response to anti-growth signals, but will be locked in S phase once past restriction point
+            - <u>S</u> (DNA synthesis) - DNA replication
+            - <u>G2</u> - further growth and DNA repair with checkpoints prior to commit to mitosis
+            - <u>M</u> (mitosis) - actual phase of cell regulation
+        - **Regulation of cell cycle:**
+            - <u>Cyclin and cyclin-dependent kinases</u> - kinases that are necessary in progression of cell cycle in checkpoints (G1/S, or G2/M transitions), where tumour suppressor genes (e.g. TP53, TP21, TP16) deactivate cyclin-CDK complexes when necessary
+        - **Stimulation of cell cycle** - dependent on growth-factor-receptor interaction
+    - **Mechanisms of acquiring sustained proliferative signals:**
+        - <u>Autokine release of growth factors</u> - +ve feedback release of TGF-alpha, and PDGF
+        - <u>Expression of constituitively active tyrosine kinase receptors</u> - e.g. acquisition of mutated EGFR (lung, GI) and HER2 (stomach, breast)
+        - <u>Mutation of downstream signalling proteins</u> - e.g. activation of RAS protein, P3CK etc.
+- **Evading growth suppressors:**
+    - **Normal inhibitory factor on priliferation:**
+        - <u>Cell-to-cell contact</u> - dense cell populations in healthy tissues acts as an inhibitory factor on proliferation (but contact inhibition is absent in cancer cell population)
+        - <u>Growth inhibitory factors</u> - factors that modulate the cell cycle regulators, particularly via activation of cyclin-depedent kinases (CDK)
+    - **Loss of tumour suppressor genes:**
+        - pRB regulation
+        - p21/ 27, p53
+- **Enabling replicative immortality** - immortality of cells necessary for cancer cells to develop into macroscopic tumours:
+    - **Normal limits of replicative potential by telomeres:**
+        - <u>Telomeric DNA sequences</u> - DNA sequences that protect and stabilise chromosomal ends, are progressively shortened as they are difficult to replicate
+        - <u>Loss of telomeres</u> - prevents cell replication when completely loss, akin to a 'mitotic hourglass'
+    - **Acquisition of immortality in cancer cells:**
+        - <u>Telomerase</u> - exclusively expressed in cancer cells at significant levels, enables adding of nucleotides to telomeres and <u>prevents premature arrest of cellular replication</u>
+- **Inducing angiogenesis** - tumour growth requires a functional vascular supply:
+    - <u>Increased expression of pro-angiogenic stimuli</u> - expression of **vascular endothelial growth factor** (VEGF), and **platelet derived growth factor** (PDGF)
+    - <u>Loss of anti-angiogenic stimuli</u> - loss of expression of thrombospondin-1 (TSP-1) inhibits suppressive signals on endothelial cells
+    - <u>Mutations of HIF-1 pathway</u> - see lecture slides
+- **Activating invasion and metastasis** - complex steps that enable transport of malignant cells to distant sites, which forms micrometastases that eventually develop into macroscopic metastatic lesions:
+    - **Normal barrier to invasion and metastasis:**
+        - <u>Presence of basement membrane</u> - intact basement membrane prevents haematogenous and lymphatic access
+        - <u>Cell-cell adhesion</u> - cell-cell adhesive glycoproteins (e.g. Cadherin-1 \[CDH1\]) enables organisation of cells into sheets of tissue, and increased expression is recognised as an **antagonist to invasion or metastasis**
+    - **Mechanisms for activating invasion and metastasis:**
+        - <u>Down-regulation of CDH1</u> - low CDH1 levels a/w down-regulation, or occasional mutational inactivation of CDH1 gene is observed in metastatic cancer, while in-situ tumours typically retain CDH1 production as evident by their organised architecture
+        - <u>Expression of protease</u> - increased secretion of protease, and tissue metalloproteinase (TMP) by macrophages at periphery is associated w/ local invasion and subsequent metastasis
+- **Reprogramming energy metabolism** - altered cellular energetics as to provide sufficient raw material for proliferation:
+    - <u>Preferred pathway of cellular metabolism</u> - **aerobic glycolysis**, i.e. limiting ATP production to glycolysis even in the presence of O2:
+        - 1\. Limit overall energy production (18-fold lower than in normal cells) as ATP is not typically necessary during carcinogenesis
+        - 2\. Increased glycolytic intermediates that is fed into other biosynthetic pathways (e.g. amino acids, nucleotides that are necessary for biosynthesis)
+    - <u>Mechanisms of altering cellular metabolism</u>:
+        - 1\. Upregulation of GLUT1
+        - 2\. Inhibition of downstream enzymes
+- **Tumour-promoting inflammation** - presence of immune cells on histology historically thought to represent an attempt to erradicate cancer, but now known that tumour-promiting inflammation <u>promotes tumour formation</u> and <u>cancer progression</u>
+- **Evading immune destruction** - disabling components of the immune system (e.g. immunosuppression against actions of cytotoxic lymphocytes)

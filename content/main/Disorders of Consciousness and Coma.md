@@ -1,0 +1,56 @@
+---
+id: ec4e68ff-04f5-4dbe-817d-710fb35f8563
+title: Disorders of Consciousness and Coma
+---
+
+# Disorders of Consciousness and Coma
+
+- **Definition of consciousness** - state of awareness of self and environment, crudely differentiated into two components, arousal and awareness:
+    - <u>Arousal</u> - awoken state enabled by the brainstem reticular activating system, enabling primitive set of responses (considered a preliminary condition for awareness)
+    - <u>Awareness</u> - process requiring high level integration of multiple sensory inputs by the cortex
+- **Disorders of consciousness** - different description of disorder of consciousness:
+    - <u>Coma</u> - arbitrarily defined as GCS \<= 8
+    - <u>Vegetative state</u> - a state with minimal brainstem function and cortical function, with loss of awareness of the environment, but **retained sleep-wake cycle**
+    - <u>Minimally conscious state</u> - inconsistent, partial, fluctuating conscious levels implying retention of awareness and intact brainstem function
+    - <u>'Locked-in' syndrome</u> - mimics disorders of consciousness with complete paralysis of the body except for eye movement, but with preserved hemispheric function and hence fully conscious
+    - <u>Altered mental status/ Delirium</u> - acute change in awareness, cognition, or attention
+
+  
+  ![](../img/classification_of_brain_death_and_reduced_conscious_states.png)
+- **Definition of Coma** - Persistence loss of consciousness (defined as GCS \<= 8) that occurs if the arousal mechanisms in the brainstem and diencephalon are disturbed, localising to either brainstem or both cerebral hemispheres
+- **Etiology of coma:**
+    - **Neurological disease** - structural or functional primary neurological disease resulting in brainstem damage, or sizable cortical lesion:
+        - <u>Traumatic brain injury</u> - cerebral contusion, epidural haematoma, subdural haematoma
+        - <u>Cerebrovascular disease</u> - ischaemic stroke (esp. brainstem infarction), haemorrhagic stroke (e.g. ICH, SAH), cerebral venous sinus thrombosis
+        - <u>CNS infections</u> - meningitis, encephalitis, brain abscess
+        - <u>Inflammation</u> - autoimmune encephalitis
+        - <u>Sizable mass lesion</u> - e.g. primary brain tumour or metastasis
+        - <u>Seizures/ status epilepticus</u> - e.g. epilepsy
+        - <u>Other causes of raised ICP</u> - e.g. hydrocephalus
+    - **Non-neurological disease** - non-neurological disease causing diffuse neurological function by causing 1) encephalopathy, or 2) cerebral hypoperfusion or hypoxia:
+        - **Disorders causing encephalopathy:**
+            - <u>Liver failure</u> - hepatic encephalopathy
+            - <u>Renal failure</u> - Uraemic encephalopathy
+            - <u>Electrolyte disturbances</u> - hyponatraemia, hypercalcaemia
+            - <u>Complications of DM</u> - hypoglycaemia, Hyperosmolar coma (DKA, HHS)
+            - <u>Endocrine diseases</u> - Addisonian crisis, Myxoedematous coma, thyroid storm
+            - <u>Systemic inflammation</u> - e.g. sepsis
+            - <u>Wernicke's encephalopathy</u> - thiamin deficiency
+            - <u>Toxic causes</u> - alcohol, substance abuse
+        - **Disorders causing global cerebral hypoperfusion** - syncope, shock
+        - **Disorders causing cerebral hypoxia** - respiratory failure
+- **Salient points of Hx** - obtain Hx from faily or other witnesses:
+    - <u>HPI</u> - mode of onset of coma, progression, any precipitating events (e.g. trauma)
+- **P/E** - rapid clinical assessment:
+    - <u>Resuscitation and stabilisation</u> - secure airway, breathing, and circulation
+    - <u>Assessment of level of consciousness</u> - GCS
+    - <u>General medical examination</u> - any **trauma**, needle sites suggestive of **drug abuse**, rashes, **fever** and focal signs of infection
+    - <u>Assessment of brainstem function</u> - pupillary reflexes
+    - <u>Assessment of meningism</u> - neck stiffness, Kernig sign, Brudzinski neck sign
+- **Initial Ix:**
+    - <u>Blood test</u> - routines (CBC, LRFT, ESR, CRP, clotting profile, TFT +/- morning cortisol), random glucose, toxicology
+    - <u>Neuroimaging</u>
+    - +/- LP, EEG
+- **Initial Mx:**
+    - <u>Resuscitation and stabilisation</u> - ABC + intubation if GCS \<= 8 (cannot protect airway)
+    - <u>Rapid diagnosis of cause</u> - specific Mx depending on cause

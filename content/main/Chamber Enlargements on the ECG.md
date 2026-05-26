@@ -1,0 +1,61 @@
+---
+id: D1278BAA-D114-497D-B72C-EC60ACD446D9
+roam_parent: D5288C77-085F-4E5F-A010-1EFA707CA81C
+title: Chamber Enlargements on the ECG
+---
+
+# Chamber Enlargements on the ECG
+
+- **Atrial chamber enlargements** - best <u>assessed on V1</u> by determining the relative contributions of RA and LA to the normally biphasic P wave:
+    - <u>Right atrial overload</u> (P-pulmonale) - increased P-wave amplitude, i.e. peaked P wave (\>= 2.5mm), dominating over the left-atrial component
+    - <u>Left atrial abnormality</u> (P-mitrale) - not always a/w LAE as can also be caused by intra-atrial block; increased prominence of bi-phasic P wave in V1 with **broad -ve component**, often a/w **broad, notched P waves in limb leads** (esp. lead II)
+
+  
+  ![](../img/changes_in_v1_lead_2_in_p_wave_with_atrial_enlargement.png)
+- **Right ventricular hypertrophy** - prototypical RVH ECG changes may not be applicable to lung pathologies (see below):
+    - <u>Diagnostic findings</u>:
+        - R \> S wave (relatively tall R wave) in V1, usually in context of RAD
+        - qR wave may also be seen in V1 or V3R
+    - <u>Additional findings supportive of RVH</u>:
+        - RV strain pattern - RVH + ST depression and TWI in right-to-mid precordial leads (V1-3)
+        - Prominent S wave in left precordial leads - reflecting RV mass reaching that of LV mass
+        - Counter-clockwise rotation (early transition zone; rightward QRS complex)
+        - RBBB morphology (usually w/ volume overload e.g. ASD)
+- **Acute cor pulmonale** (e.g. PE or ARDS) - sudden RV overload and RV dilatation:
+    - <u>Diagnostic findings</u> - S1Q3T3 pattern, but deoes not always manifest:
+        - S1 - S wave in lead I (i.e. RAD)
+        - Q3 - Q wave in lead III
+        - T3 - T wave in lead III
+    - <u>Additional findings</u>:
+        - RV strain pattern - ST depression and TWI in right-to-mid precordial leads (DDx acute anterior infarction)
+        - RBBB pattern
+        - Clockwise rotation (delayed transitional zone)
+- **Chronic cor pulmonale** - usually in chronic obstructive pulmonary disease, and does not produce the classic ECG pattern of RVH due to effects of hyper-inflation:
+    - **Defining features:**
+        - <u>Right axis deviation</u> - -ve or biphasiv lead I and +ve aVF. but in the absence of dominant right precordial R waves
+        - <u>RBBB</u> - typically related to underlying RVH
+        - <u>Absence of dominant R waves and slow R-wave progression</u> - due to downward displacement of the diaphragm and the heart
+        - <u>Low-voltage</u> - low-voltage complexes are commonly present due to hyperaeration
+    - **Additional findings:**
+        - <u>Rhythm</u> - sinus tachycardia or MAT
+
+  
+  ![](../img/ecg_features_of_copd.png)
+- **Left ventricular hyertrophy:**
+    - <u>Diagnostic findings</u> - various voltage criteria proposed:
+        - **Sokolow-Lyon criterion:**
+            - Based on presence of tall R waves in left precordial leads, and deep S waves in right precordial leads
+            - SV + \[RV5 or RV6\] \> 35 mm (7 big boxes)
+        - **Cornell voltage criterion:**
+            - On the basis that LVH can occur w/ increased limb lead voltage w/ or w/o increased pre-cordial voltage
+            - RaVL + SV3 \> 20 mm in F and 28 mm in M
+    - <u>Additional findings supportive of LVH</u>:
+        - Concurrent left atrial abnormalities (broad p wave in V1 w/ prominent -ve component)
+        - Concurrent LBBB as LVH often progresses to an incomplete or complete LBBBB
+        - LV strain pattern/ repolarisation abnormalities (ST depressions and TWI in left-sided leads, i.e. I, aVL, V5-6)
+    - <u>Limitations</u> - limited Sn and Sp; to be confirmed on echo or cardiac MRI:
+        - FP in slim, athletic or young individuals
+        - FN in obese, smokers (COPD), or older patients, as well as in concurrent RBBB
+
+  
+  ![](../img/lvh_rvh_in_precordial_leads.png)

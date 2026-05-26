@@ -1,0 +1,207 @@
+---
+type: literature
+tags:
+---
+# Ch32 Aphasia, Memory Loss, and Other Cognitive Disorders
+
+- **Cerebral cortex** - cortical areas further classified intoL
+	- _Primary sensory and motor areas_ (10%) - primary areas for receiving sensory information or initiating motor functions
+	- _Association cortex_ (90%) - subsumed by modality-selective, heteromodal, paralimbic, and limbic areas mediating an integrative process that subsumes 1) cognition, 2) emotion, and 3) comportment/ behaviour
+	- ![[Pasted image 20260524115436.png]]
+- **Primary sensory and motor areas:**
+	- _Primary visual cortex_ (Broadmann area 17)
+	- _Primary auditory cortex_ (Broadmann area 41-42)
+	- _Primary somatosensory cortex_ (Broadmann area 1-3)
+	- _Primary motor cortex_ (Broadmann area 4)
+- **Current hypothesis regarding cognitive, emotive, and behavioural functions:**
+	- No topographical areas in the brain for "hearing words", "perceiving space", or "storing memories"
+	- Coordinated by intersecting _large-scale neural networks_ that contain cortical and subcortical components
+- **Anatomically defined large-scale neural networks relevant to clinical assessment of cognition:**
+	- _Left-dominant perisylvian network_ - responsible for language
+	- _Right-dominant parietofrontal network_ - responsible for spatial orientation
+	- _Occipitotemporal network_ - responsible for face and object recognition
+	- _Limbic network_ - responsible for episodic memory and emotional modulation
+	- _Prefrontal network_ - responsible for comportment and executive control of cognition
+	- _Default mode network_ - activated when person engaged in specific tasks requiring attention to external events (not fully understood)
+## The Left Perisylvian Network for Language and Aphasias in Stroke and Dementia
+
+- **Language dominant hemispheres** - usually in the left hemisphere:
+	- _Right-handed individuals_ - 90% are left-dominant
+	- _Left-handed individuals_ - 60% are left-dominant 
+- **Traditional neuroanatomy of the left perisylvian network** - distributed along the perisylvian region of the language-dominant (usually left) hemisphere:
+	- _Broca's area_ (inferior frontal gyrus) - responsible for regulating **verbal fluency** and grammatical structure of sentences, impairment classically results in **expressive aphasia**
+	- _Wernicke's area_ (temporoparietal junction) - responsible for **language comprehension** (?both language and sentences), impairment typically results in **receptive aphasia** 
+- **Modern understanding regarding language comprehension** - in patients w/ primary progressive aphasia (PPA), sentence and work comprehension are dissociable:
+	- _Sentence comprehension_ - comprehension of form and morphology of a sentence is a widely distributed faculty **jointly subserved by Broca's and Wernicke's area**
+	- _Word comprehension_ - more closely associated w/ the **anterior temporal lobe** rather than Wernicke's area
+- **Connections between components of the perisylvial networks:**
+	- All components are interconnected w/ each other and connected to surrounding parts of the frontal, parietal, and temporal lobe
+	- Arcuate fasciculus serves as an important interconnecting pathway, historically known for interconnection between Broca's and Wernicke's area but modern neuroscience suggests additional connections
+- **Clinical manifestations of damaged perisylvian networks** - manifests as deficits in formal aspects of language, to be distinguished w/ dysarthria, apraxia of speech, or mutism:
+	- _Deficits w/ language expression_ - word finding, repetition, word choice, spelling or grammar
+	- _Deficits w/ language comprehension_ - difficulties comprehending sentences or words
+- **Clinical assessment of language functions:**
+	- Naming
+	- Spontaneous speech
+	- Comprehension
+	- Repetition
+	- Reading
+	- Writing
+- **Naming** (anomia) - manifestations of naming deficits include:
+	- **Circumlocutious description** - description of the object, w/o being able to name the object, likely reflects intact comprehension but difficulty w/ word finding (e.g. "the thing for writing" for pencil)
+	- **Paraphasia** - coming up w/ the wrong word:
+		- _Semantic paraphasia_ - offering an incorrect but related word
+		- _Phonemic paraphasia_ - word offered approximates the correct answer but is phonetically inaccurate
+	- **Bi-directionality of naming deficits:**
+		- _Retrieval-based naming deficits_ - unable to retrieve the appropriate name when shown an object but can appropriately point to the object when name is provided by the examiner
+		- _Comprehension-based naming deficits_ - unable to retrieve the appropriate name or point to the correct object when the name is provided
+- **Spontaneous speech:**
+	- **Fluency:**
+		- _Fluent spontaneous speech_ - appropriate output volume, phrase length, and melody
+		- _Non-fluent spontaneous speech_ - characterised by halting, sparse speech, or average utterance length < 4 words
+	- **Integrity** - integrity of grammer interms of word order (i.e. syntax), tenses, prefixes and suffixes, plurals, and possessives 
+- **Comprehension** - ability to follow the conversation:
+	- Answering simple questions (e.g. yes-no questions, pointing to appropriate objects)
+	- Decoding passive voice sentences
+	- Defining meaning of words
+- **Repetition** - assessment of the hypothetical phonological loop in the language network:
+	- Asking patient to repeat single words or short sentences (e.g. no ifs, ands, or buts)
+	- Avoid tongue twisters are better for assessing dysarthria or apraxia of speech
+	- Avoid lengthy sentences, which may be limited by attention span
+- **Reading** - deficits for reading aloud and comprehension (note literacy of patient):
+	- _Alexia_ - inability to either read aloud or comprehend written words or sentences
+	- _Agraphia_ - an acquired deficit in spelling
+### Stroke Aphasias
+
+- **Clinical features of classical stroke aphasias:**
+	- ![[Pasted image 20260524123358.png]]
+
+### Neurodegenerative Progressive Aphasias
+
+- **Aphasias in neurodegenerative dementias** - typically seen in 1) AD, and 2) FTD:
+	- _Ancillary component of the clinical syndrome_ - usually as an ancillary component to the primary cognitive deficit in the disorder w/ disease progression
+	- _Primary progressive aphasia_ (PPA) - where the language disorder (i.e. aphasia) arises in relative isolation, becomes the primary concern that brings the patient to medical attention, and remains the most salient deficit for 1-2 years
+- **Etiology of primary progressive dementia** - atypical manifestations of neurocognitive disorders where there is a _selective predilection for the language-dominant hemisphere_:
+	- Alzheimer's disease
+	- Frontotemporal dementia (either tauopathy or TDP-43 proteinopathy)
+	- Creutzfeldt-Jacob disease (usually w/ rapid progression)
+- **4 major subtypes of PPAs:**
+	- Agrammatic PPA
+	- Semantic PPA
+	- Logopenic PPA
+	- Mixed type PPA (similar to global amnesia)
+- **Agramatic PPA:**
+	- **Etiology** - most commonly caused by FTLD w/ tauopathy; atypically w/ AD
+	- **Neuropathology** - peak atrophy occurs in Broca's area as well as adjacent parts of the frontal lobe
+	- **Clinical manifestation of aggramatic PPA:**
+		- _Forms of language impairment_ - resembles Broca's aphasia or anterior transcortical aphasia:
+			- Naming - retrieval-based (one-way naming deficits)
+			- Repetition - impaired
+			- Fluency - often low fluency w/ impaired grammar (syntatical impairments more marked than those caused by CVAs)
+			- Comprehension - usually intact
+		- _Absence of focal neurological deficits_ - lacks right hemiparesis or dysarthria that is typically seen in anterior transcortical aphasia
+- **Semantic PPA:**
+	- **Etiology** - most commonly caused by FTLD w/ TDP-43 proteinopathy
+	- **Neuropathology** - peak atrophy occurs in anterior temporal lobe w/ sparing of the Wernicke's area (hence predominant manifestation of impaired word comprehension)
+	- **Clinical manifestations of semantic PPA** - impairment subtle in small talk as sentence comprehension is relatively preserved and patients can infer conversational gists from contextual cues:
+		- _Naming_ - profund two-way naming deficits (esp. if words are unfamiliar or difficult)
+		- _Repetition_ - preserved
+		- _Fluency_ - preserved fluency and syntax (conversations usually informative)
+		- _Comprehension_ - single-word comprehension identified in naming, but overall sentence comprehension relatively preserved due to sparing of the Wernicke's area
+- **Logopenic PPA:**
+	- **Etiology** - usually seen in typical AD
+	- **Neuropathology** - peak atrophjy seen in:
+		- Temporoparietal junction and posterior temporal lobe
+		- Slight overlap w/ Wernicke's area but comprehension grossly intact due to sparing of the subcortical components (cf Wernicke's aphasia in CVA)
+	- **Clinical manifestation of logopenic PPA:**
+		- _Naming_ - usually severe retrieval-based naming deficits, often has longer and more frequent word-finding pauses (cf anomic aphasia)
+		- _Repetition_ - impaired (ressembles conduction PPA), due to likely role of Wernicke's area for auditory working memory
+		- _Fluency_ - fluent and preserved syntax
+		- _Comprehension_ - preserved
+## The Parietofrontal Network for Spatial Orientation
+
+- **Neuroanatomy of the parietofrontal network for spatial orientation:**
+	- **Cortical components:**
+		- _Cigulate cortex_ - access to a motivational (?emotional) mapping of extrapersonal space
+		- _Posterior parietal cortex_ - access to a sensorimotor representation of salient extrapersonal events
+		- _Frontal eye field_ - access to motor strategies for attentional behaviour
+	- **Subcortical components** - thalamus and striatum
+- **Clinical manifestations of damage to parietofrontal network** - impaired distribution of attention within extrapersonal space, resulting in:
+	- Hemispatial neglect
+	- Simultanogosmia
+	- Navigation errors
+	- Object finding errors
+- **Hemispatial neglect:**
+	- **Physiology of distribution of attention to extrapersonal space:**
+		- _Right hemisphere_ - the parietofrontal network of the R hemisphere directs attention within the entire extra-personal space
+		- _Left hemisphere_ - the parietofrontal network of the L hemisphere only directs attention to the contralateral R extra-personal hemispace
+	- **Hemispatial neglect only arises from R parietal lesions** - and thus _severe neglect of R hemispace_ is rare:
+		- _L parietal lesions do not give rise to contralateral R hemispatial neglect_ - the global attention mechanism offered by the right hemisphere can compensate for the loss of the attention functions of the damaged L hemisphere
+		- _R parietal lesions gives rise to L hemispatial neglect_:
+			- Intact L hemisphere can direct attention to the contralateral R hemispace, hence **attention to the R hemispace is preserved**
+			- L hemisphere lacks ipsilateral attentional mechanisms to compensate for global loss of attention functions, resulting in **severe L hemispatial neglect**
+	- **Clinical examination of hemispatial neglect:**
+		- **General examination:**
+			- _Appearance_ - severe neglect may fail to dress, shave, or groom left side of body
+			- _Evidence of hemispatial neglect from bedside_:
+				- Inverted triangle sign - diagnonal posture w/ preference to steer towards the side of weakness
+				- Head tilt - head and trunk rotated away from side of wewakness
+				- Gaze - conjugate gaze away from side of weakness
+				- Meals - fail to eat food placed on the left side
+				- Reading and writing - failing to read left half of sentences; leaving wide left margins on the left side
+		- **Specific bedside tests used for assessing neglect** - 1) bilateral stimulation test, and 2) visual target cancellation:
+			- **Bilateral stimulation test:**
+				- _Procedures_ - provision of unilateral, and subsequently simultaneous bilateral stimulation in the visual, auditory, and tactile modlities
+				- _Interpretation_ - phenomenon known as extinction, reflecting the loss of sensory representational aspects of hemispatial neglect:
+					- No problems w/ localising unilateral stimuli
+					- Experiences bilateral stimuli from only common from the right
+			- **Visual target cancellation:**
+				- _Procedure_ - dispersing targets among foils on a sheet of paper, and asking the patient to circle out all the targets
+				- _Interpretation_ - failure to circle out left-sided target is manifestation of exploratory/ motor deficits in hemispatial neglect:
+					- ![[Pasted image 20260524150952.png]]
+- **Balint's syndrome and simultanagnosia:**
+	- **Definition** - severe spatial disorientation caused by bilateral involvement of parietofrontal network responsible for spatial attention
+	- **Clinical manifestations of Balient syndrome:**
+		- _Oculomotor apraxia_ - deficits in orderly visuomotor scanning of the y environment:
+			- Ocassionally may report that objects vanish suddenly, possibly indicating inability to compute oculomotor return to the fixed point after brief saccadic movements
+			- Hence movements and distracting stimuli greatly exacerbate difficulties
+		- _Optic apraxia_ - accurate manual reaching towards visual targets
+		- _Simultanagnosia_ - inability to integrate visual information at the center of gaze w/ more peripheral information ("missing forest from the trees")
+	- **Etiology of simultanagnosia:**
+		- Balint's syndrome (presence of oculomotor/ optic apraxia)
+		- Posterior cortical atrophy (atypical presentation of AD)
+	- **Modified visual target cancellation test for simultanagnosia:**
+		- _Procedures_ - targets dispersed among foils, where certain targets are much larger
+		- _Interpretation_ - simultanagnosia demonstrated by counterintuitive but characteristic tendancy to **identify small targets but miss large targets**:
+			- Larger objects cannot be identified in a single foveation and requires integration of visual information across multiple fixed points
+			- Must be differentiated from frontal network syndrome which may lead to omission of oversized letters
+- **Disorders of integration of egocentric and allocentric spatial coordinates:**
+	- _Dressing apraxia_ - difficulties w/ aligning axis of body w/ axis of the garment
+	- _Cosntruction apraxia_ -diffuclties to copying simple line drawing especially in 3-dimensional shape; isolated right parietal lesions results in drawing difficulties isolated to left side, where as bilateral posterior parietal lesions results in global difficulties 
+	- _Difficulties w/ route-finding_ - inability to irent self w/ respect to external objects and landmark
+- **3 clinical syndromes a/w spatial disorientation:**
+	- Isolated hemispatial neglect
+	- Bilateral dorsal parietal lesions
+	- Posterior cortical atrophy (PCA)
+- **Isolated hemispatial neglect:**
+	- **Etiology of isolated hemispatial neglects:**
+		- _Focal right hemispheric lesions_ - e.g. CVAs, head injuries, neoplasms, sagittal sinus thrombosis
+		- _Other non-specific disorders_ - watershed infarction, hypoglycaemia
+	- **Clinical features of hemispatial neglects** - typcally acute onset and static or w/ improvement:
+		- _Hemispatial neglect_ (primary Sx) - usually w/ considerable improvements over weeks
+		- _Left-sided focal neurological deficits_ - e.g. hemiparesis, hemihypesthesia, hemianopia
+- **Posterior cortical atrophy syndrome** - progressive form of spatial disorientation:
+	- _Etiology_:
+		- Variant AD - ususual concentration of neurofibrillary tangles in the parieto-occipital ocrtex and superior colliculus
+		- Other neurodegenerative disorders - LBD, CJD, FTLD (corticobasal type)
+	- _Clinical manifestations of PCA syndrome_:
+		- Progressive hemispatial neglect
+		- Balint syndrome
+		- Simultanagnosia
+		- Dressing and construction paraxia
+		- Route-finding impairments
+## The Occipitotemporal Network for Face and Object Recognition
+
+## The Limbic Network for Explicit Memory and Amnesia
+
+## The Prefrontal Network for Executive Function and Behaviour

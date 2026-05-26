@@ -1,0 +1,67 @@
+---
+id: 9f3e7562-0c7b-4043-a401-362a00f870e2
+title: Pyrexia of Unknown Origin
+---
+
+# Pyrexia of Unknown Origin
+
+- **Definition** - arbitrarily defined as a temperature persistently above 38 degrees for \> 3 weeks despite initial Ix during 3d of inpatient care or after \> 2 outpatient visits
+- **Context:**
+    - Further subset of PUO defined - HIV-related, immune-deficient, or nosocomial
+    - Up to 1/3 of PUO remain undiagnosed
+- **Etiology of PUO:**
+    - **Infections** (30%):
+        - <u>Specific locations</u>:
+            - Abscesses - hepatobiliary, diverticular, urinary tract, pulmonary, CNS
+            - Oral cavity (e.g. dental, sinuses, head and neck)
+            - Bones and joint infection
+            - Heart (IE)
+        - <u>Specific organisms</u>:
+            - TB (particularly extra-pulmonary)
+            - HIV
+            - Systemic viral infections (e.g. CMV, EBV)
+            - Fungal infections
+            - Infections w/ fastidious organisms (e.g. Bartonella hensellae, Tropheryma whipplei)
+        - <u>Specific populations</u>:
+            - Imported infections - e.g. malaria, brucella, amoeba, enteric fevers etc.
+            - Nosocomial infections - e.g. MRSA
+            - HIV positive individuals - acute retroviral syndrome, AIDS-defining infections
+    - **Malignancies** (20%):
+        - <u>Haematological malignancies</u> - lymphoma, leukaemia, myeloma
+        - <u>Solid tumours</u> - renal, liver, colon, stomach, pancreas
+    - **Connective tissue disorders** (15%):
+        - <u>Younger adults</u> - JIA, SLE, vasculitis, Polymyositis, Behcet's disease
+        - <u>Older adults</u> - GCA/PMR
+        - <u>Geographically restricted</u> - rheumatic fever
+    - **Miscellaneous:**
+        - <u>Periodic fever syndromes</u> - familial Mediterranean fever, Mevolonate kinase deficiency, TNF-receptor periodic syndrome
+        - <u>Cardiovascular disease</u> - aortitis, aortic dissection, atrial myxoma
+        - <u>Respiratory disease</u> - pulmonary embolism, extrinsic allergic alveolitis (Farmer's lung)
+        - <u>GI disease</u> - IBD, alcholic hepatitis, pancreatitis
+        - <u>Endocrine</u> - thyrotoxicosis, hypothalamic lesions, phaeochromocytoma
+        - <u>Haematological conditions</u> - haemolytic anaemia, TTP, MPN, graft-versus host disease
+        - <u>Others</u> - facticious anaemias, drug fevers
+
+  
+  ![](../img/etiology_of_pyrexia_of_unknown_origin.png)
+- **Clinical assessment:**
+    - **Repeat Hx and P/E** - see section on fever, to detect emerging features (e.g. rash, signs of IE)
+    - **Considerations:**
+        - <u>Young children</u> - viral infections, and haematological malignancies are most important causes
+        - <u>Male patients</u> - acute bacterial prostatitis resulting in urosepsis is a potential source of infections
+        - <u>Elderly and infirmed</u> - consider TB, intra-abdominal abscesses, complicated UTIs, infective endocarditis and GCA
+        - <u>FHx of fever disorders</u> - consider periodic fever syndromes
+        - <u>Facticious fever</u> - considered if temperature was never taken by healthcare individuals and disproportionate to physiological changes such as HR 
+        ![](../img/dx_of_factitious_fever.png)
+- **Ix** - if initial Ix as above are -ve:
+    - **Microbiology** - induced sputum/ BAL for mycobacterial stains and culture (+/- others): 
+    ![](../img/microbiological_ix_for_puo.png)
+    - **Serological tests for CTD** - Autoimmune pannel (ANA, RF), Complement level, Ig level and pattern, cryoglobulins
+    - **Echocardiography** - detection of IE
+    - **Imaging studies:**
+        - <u>Transabdominal USG</u> - detection of intra-abdominal abscesses
+        - <u>CT/ MRI of abdomen +/- thorax and brain</u> - detection of abscesses
+        - <u>Imaging of skeletal system</u> - plain radiographs, CT/ MRI spine, isotope bone scan
+        - <u>Scintigraphy</u> - PETCT or SPECT
+- **Prognosis** - poor (30-40% overall mortality) often attributed to malignancy:
+    - If no cause found, mortality paradoxically low and fever usually subsides

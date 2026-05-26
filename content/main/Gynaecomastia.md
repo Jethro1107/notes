@@ -1,0 +1,45 @@
+---
+id: 9f73fc0a-a5a4-4a72-8ab1-ee180ded4dfd
+title: Gynaecomastia
+---
+
+# Gynaecomastia
+
+- **Definition** - presence of glandular breast tissue in males
+- **Physiology of breast development in women** - dependent on estrogen-androgen balance:
+    - Estrogen stimulates normal breast development
+    - Androgens oppose breast development
+- **DDx of gynaecomastia** - reflects either 1) androgen deeficiency, or 2) estrogen excess:
+    - **Idiopathic**
+    - **Physiological gynaecomastia** - e.g. in newborn babies (maternal estrogen), prepubertal boys (estrogen rise prior to testosterone rise), and old age (androgen deficiency)
+    - **Drug-induced** - often through competitive androgen inhibition:
+        - Anti-androgens - e.g. spironolactone, androgen receptor blockers (enzalutamide), androgen deprivation therapy, exogenous anabolic steroids
+        - H2 antagonist - e.g. cimetidine
+        - Cannabis
+        - Digoxin
+    - **Hypogonadism** - either 1) hypergonadotrophic hypogonadism, or 2) hypogonadotrophic hypogonadism
+    - **Androgen resistance syndrome** (Androgen insensitivity syndrome)
+    - **Hyperestrogenic state:**
+        - Liver failure
+        - Estrogen-secreting tumours (e.g. certain testicular tumours)
+        - hCG-secreting tumours (e.g. testis or lung)
+- **Salient points of Hx:**
+    - **HPI** - onset, duration, tenderness
+    - **Associated Sx** - seek for Sx of male hypogonadism:
+        - <u>Hair loss</u> - e.g. reduced shaving frequency
+        - <u>Sexual dysfunction</u> - e.g. loss of libido, erectile dysfunction
+        - <u>Metabolic dysfunction</u> - e.g. muscle weakness, weight gain
+    - **PMH and drug Hx** - detailed drug Hx to identify drugs a/w gynaecomastia
+- **P/E** - confirmation of gynaecomastia and examination of testes:
+    - <u>Confirmation of gynaecomastia</u> - often asymmetrical and must be distinguished from adipose tissue around the nipple
+    - <u>Examination of testes</u> - r/o testicular tumour, atrophy, or cryptorchidism
+- **Ix:**
+    - <u>USG/ MMG</u> - to distinguish gynaecomastia from adipose tissue
+    - <u>Hormone profile</u> - Testosterone, LH, FSH, E2. prolactin, hCG
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Hormonal therapy</u> - dependent on underlying cause
+        - <u>Surgical Mx</u> - for cosmesis
+    - **Hormonal therapy:**
+        - <u>Androgen replacement therapy</u> - in hypogonadal male
+        - <u>Tamoxifen</u> - possible use in hyperestrogenic state

@@ -1,0 +1,87 @@
+---
+id: 6e9ba629-cc15-4d41-be8a-8b4bc004b33f
+title: Syncope and Presyncope
+---
+
+# Syncope and Presyncope
+
+- **Definition and terminology:**
+  - <u>Syncope</u> - sudden loss of consciousness due to global cerebral hypoperfusion, that is rapid in onset, brief, and a/w spontaeneous recovery of consciousness
+  - <u>Pre-syncope</u> - lightheadedness in which individual thinks he or she may black out
+- **Epidemiology:**
+  - <u>Prevalence</u> - up to 20% of individuals some time in their life
+  - <u>Burden</u> - accounts for \> 5% of hospital admissions
+- **Pathophysiology of recurrent presyncope or syncope:**
+  - <u>Cardiac syncope</u> - due to mechanical cardiac dysfunction or arrhythmia
+  - <u>Neurocardiogenic syncope</u> - due to an abnormal autonomic reflex resulting in bradycardia and/or hypotension
+  - <u>Postural hypotension</u> - impaired peripheral vasoconstriction on standing
+- **Features suggestive of syncope** - if these are elicited from Hx:
+  - <u>Potential triggers</u> - medication, exertion, posture
+  - <u>Features in premonitoring period</u> - often depends on underlying syncopal mechanism:
+    - **Cardiac syncope** (a/w haemodynamic comprimise) - lightheadedness, SOB, palpitations (non-specific and implicated elsewhere), chest pain
+    - **Neurocardiogenic syncope** (a/w anxiety) - flushing, N/V
+  - <u>Features when unconscious</u> - as acquired from collateral Hx:
+    - Pallor (death-like)
+    - Cold and clammy
+    - Brief and a/w rapid recovery (1-2 min)
+  - <u>Features after regaining of consciousness</u> - return of full consciousness
+- **DDx of syncope:**
+  - **Neurocardiogenic syncope** - vasovagal syncope, carotid sinus hypersensitivity syndrome, situational syncope
+  - **Cardiac syncope:**
+    - <u>Arrhythmia</u> - presyncope a/w all arrhythmias but blackouts (Stokes-Adams attack) are often as a result of malignant ventricular tachyarrhythmias or profund bradycardia
+    - <u>Structural heart disease</u> - LVOT obstruction (severe AS, hypertrophic obstructive cardiomyopathy), severe CAD (perhaps as a result of exertional arrhythmias rather than LV dysfunction)
+  - **Postural hypotension:**
+    - <u>Hypovolaemia</u> - any cause, most commonly as a result of diuretic therapy
+    - <u>Autonomic dysfunction</u>:
+      - Autonomic neuropathy (DM)
+      - Aging
+      - Parkinsonism
+    - <u>Drug therapy</u> - impaired vasoconstriction (e.g. CCBs), or reflex tachycardia (BBs)
+  - **Other causes of funny turns or blackouts:**
+    - <u>Traumatic</u> - e.g. post-concussive syndrome
+    - <u>Non-traumatic</u> - loss of balance, vertigo, hypoglycaemia, seizures
+
+    
+    ![](../img/ddx_of_syncope_and_presyncope.png)
+- **Arrhythmogenic syncope and pre-syncope** - frank black-outs often imply 1) profound bradycardia or 2) malignant ventricular tachyarrhythmias:
+  - <u>Pathophysiology</u> - fall in HR or SV
+  - <u>Principles of Dx</u> - requires detection of arrhythmia **while Sx is present** (haemodynamically insignificant rhythm disturbanecs are common)
+  - <u>Clinical suspicion of arrhythmogenic syncope</u>:
+    - Hx associated w/ cardiovascular disease that is known to be arrhythmogenic
+    - 12-lead ECG shows pro-arrhythmic state, e.g. sick sinus syndrome, AV block, Bundle Branch block, axis deviation or chamber enlargements
+    - Confirm the Dx through ambulatory ECG recordings
+- **Left ventricular outflow tract (LVOT) obstruction** - severe AS, HOCM:
+  - <u>Pathophysiology</u>:
+    - Cardiac output is fixed and cannot further be increased as a result of LVOT obstruction
+    - Failure to increase cardiac output during exertion, together with exercise-induced peripheral vasodilation is associated w/ presyncope and syncope
+  - <u>Clinical suspicion of LVOT</u>:
+    - Compatible demographic (e.g. AS suspicious in an old man)
+    - Compatible P/E
+    - Confirm Dx on 12-lead ECG (chamber enlargement and echocardiography)
+- **Neurocardiogenic syncope** - family of syndromes a/w abnormal autonomic responses resulting in bradycardia and/or hypotension:
+  - **Situational syncope** - syncope in the presence of an identifiable trigger (classically cough syncope or micturation syncope)
+  - **Vasovagal syncope:**
+    - <u>Pathophysiology</u> - a/w Bezold-Jarisch reflex:
+      - Reduction of venous return due to prolonged standing, excessive heat or a large meal
+      - Coordinated with sudden sympathetic activation, resulting in contraction of the under-filled ventricles
+      - Ventricular mechanoreceptors produces parasympathetic vagal activation and sympahtetic withdrawal, resulting in bradycardia and vasodilation
+    - <u>Dx</u> - head-up tilt table test\` aorf
+  - **Hypersensitivity carotid sinus syndrome** - baroreceptor reflex triggered by external pressure over the carotid arteries:
+    - <u>Pathophysiology</u> - baroreceptor reflex triggered by external pressure over carotid arteries
+    - <u>Dx</u> - by monitoring BP and ECG on carotid sinus pressure (never in patient w/ carotid bruits):
+      - Sinus pause for \> 3s (+ve cardioinhibitory response)
+      - Fall in SBP \> 50 mmHg (+ve vasodepressor response)
+- **Ix** - depends on whether Hx suggestive of a cardiac or neurological diagnosis: 
+![](../img/approach_to_syncope_and_presyncope.png)
+  - **12-lead ECG** - indicated to detect active arrhythmias or predisposing arrhythmogenic conditions
+  - **Echocardiogram** - assessment of structural heart disease
+  - **Ambulatory cardiac monitoring:**
+    - <u>Holter monitor</u> - continuous measurements for 24-48h
+    - <u>Continuous loop event monitoring</u> - records selected rhythms either triggered by ECG findings (e.g. bradycardia or tachycardia, or through command of the patient through a handheld device)
+  - **ECG with carotid sinus massage:**
+  - **Tilt table test** - a provacation test:
+    - <u>Procedure</u> - positioning the patient supine on a table that is then tilted to an angle of 60-70% for up to 45 min (ECG and BP responses recorded)
+    - <u>+ve findings</u> - onset of Sx a/w:
+      - Bradycardia (cardio-inhibitory response)
+      - Hypotension (vasodepressor response)
+    - <u>Dx</u> - considered diagnostic of vasovagal response or postural hypotension

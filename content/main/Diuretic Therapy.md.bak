@@ -1,0 +1,52 @@
+---
+id: b1e863a8-5254-4a25-a71e-58e88b5efd56
+title: Diuretic Therapy
+---
+
+# Diuretic Therapy
+
+- **Definition** - class of drugs that promote diuresis through inhibition of Na reabsorption along various parts of the nephron, used in Tx of sodium and water retention, as well as HTN
+- **Overview:** 
+![](../img/principle_transport_mechanisms_of_the_nephron_in_sodium_handling.png)
+- **Basic pharmacology of diuretic therapy:**
+  - **Bioavailability:**
+    - <u>Function requires transport into luminal side of nephron segments</u> - highly protein-bound thus not freely filtered, **bioavailability largely depends on active secretion in PCT**
+    - <u>Factors resulting in resistance to diuretic therapy</u> - drug-drug interaction, chronic renal failure, chronic liver failure (accumulation of organic anions)
+  - **Effects on K secretion:**
+    - <u>Increased K secretion in late DCT if Na reabsorption inhibition prior to late DCT</u> - increased delivery of Na to late distal/ cortical collecting ducts, where Na reabsorption is accompanied by K secretion (amplified if circulating aldosterone levels are high, which is often the case)
+    - <u>Diuretics targeting late DCT risk hyperK</u> - as it results in inhibition of concomittent inhibition of K secretion
+- **Carbonic anhydrase inhibitor** (acetazolamide):
+  - **MOA:**
+    - <u>Inhibition of CA</u> - reduced H+ production within PCT tubular cells
+    - <u>Inhibition of Na reabsorption</u> - inhibit fraction of Na reabsorption along PCT by reducing Na reabsorption in exchange for intracellular H+ via apical membrane NHE-3
+  - **Limitations:**
+    - Limited utility as this mechanism only accounts for small proportion of Na reabsorption
+- **Loop diuretics** (e.g. Furosemide):
+  - **MOA:**
+    - <u>Inhibition of triple contransporter</u> - inhibition of Na reabsorption along PCT via NKCC2 co-transporter
+  - **Potency** - highly potent diuretics (used in disease a/w significant oedema)
+  - **Clinical use:**
+    - Tx of significant oedema caused by Na retention
+- **Thiazide diuretics** (e.g. Bendroflumethiazide, cyclothiazide):
+  - **MOA:**
+    - <u>Inhibition of NaCl co-transportion</u> - inhibition of Na reabsorption along DCT
+  - **Potency** - less potent than loop diuretics
+  - **Clinical use:**
+    - Tx of HTN
+    - Tx of less significant oedema
+- **K-sparing diuretics:**
+  - **Selection:**
+    - <u>Minerocorticoid receptor antagonist</u> (MRA) - spironolactone, eplerenone
+    - <u>ENaC antagonist</u> - amiloride, triamterene
+  - **MOA:**
+    - <u>MRA</u> - inhibition of aldotserone-mediated Na reabsorption (and K/H+ secretion)
+    - <u>ENaC antagonist</u> - inhibition of Na reabsorption via ENaC in late distal/ cortical collecting duct segment (a/w reduced K secretion)
+- **Clinical use of diuretics:**
+  - <u>Dosing</u> - usage of minimum effective dose
+  - <u>Duration</u> - use for as short a period of time as necessary
+  - <u>Monitoring</u> - regular monitoring for adverse effects
+- **Common S/E of loop and thiazide diuretics:** 
+![](../img/adverse_s_e_of_loop_and_thiazide.png)
+- **Common S/E of K-sparing diuretics** - opposite renal S/E:
+  - Hyperkalaemia
+  - Metabolic acidosis

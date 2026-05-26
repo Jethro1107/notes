@@ -1,0 +1,112 @@
+---
+id: e5c5f2a1-1c96-4a01-b790-358ebe761817
+title: Psoriasis
+---
+
+# Psoriasis
+
+- **Definition** - chronic, inflammatory hyperproliferative skin disease characterised by <u>well-defined, erythematous scaly plaques</u>
+- **Epidemiology:**
+    - <u>Prevalence</u> - 1.5-3% of Caucasians and is less common in Asian, South American and Africal Populations
+    - <u>Demographic</u> - can occur in all ages and both sex:
+        - Age - age of onset follows a bimodal distribution with two peaks, one in **teenage or early adult years**, and another around **50-60y**
+        - Sex - no sex preponderance (M=F)
+- **Pathophysiology of psoriasis** - multifactorial:
+    - **Environmental trigger in a genetically predisposed individual:**
+        - <u>Genetic factor</u> - high monozygous concordance rate (65-75%) w/ similar nature of presentation and disease severity for familial cases; most implicated genes being PSORS1 within HLA Cw6 (accounts for half of the heritability)
+        - <u>Environmental triggers</u>:
+            - **Trauma** (Kobner isomorphic phenomenon) - psoriatic lesions can appear on sites of trauma
+            - **Sunlight** - due to Kobnerisation at sites of subburn
+            - **Infections** - association of beta-haemolytic streptococcal infections often precede guttate psoriasis
+            - **Drugs** - various drugs from NSAIDs, lithium, or beta-blockers known to exacerbate psoriasis
+            - **Stress** - controversial, especially as psoriasis exacerbations are a source of psychological stress
+            - 
+            ![](img/exacerbating_factors_of_psoriasis.png)
+    - **Pathological changes in psoriasis** - keratinocyte hyperproliferation traditionally thought to be the primary change although never confirmed:
+        - <u>Keratinocyte hyperproliferation</u> - also a/w abnormal differentiation, leading to retention of nuclei in the stratum corneum
+        - <u>Inflammation</u> - T-cell infiltraion w/ release of cytokines and adhesion molecules, such as interlucin, TNF-alpha, and ICAM-1
+        - <u>Increased angiogenesis</u> - release of VEGF results in tortuosity of dermal capillary loops
+        - 
+        ![](img/histology_of_psoriasis.png)
+    - **Keratinocyte hyperproliferation** - the transit time for keratinocytes from the basal layer to shedding from the stratum corneum is <u>shortened from 28 to 5d</u>, which explains the nature of skin lesions
+- **Clinical features of psoriasis** - follows a rellapsing and remitting course:
+    - **Cutaneous manifestations:** 
+	    - 
+	    ![](img/psoriasis_cutaneous_manifestations.png)
+		- **Plaque psoriasis** - most common presentation and usually represents more stable disease, characterised by well demarcated plaques of variable size (+/- scaling):
+			- <u>Site</u> - characteristically over the scalp and the extensor surfaces, most notably the elbows, knees and lower-back (although other sites are also described)
+			- <u>Other sites</u>:
+				- **Scalp** (60%) - usually easily palpable,erythematous scaly plaques evident within hair-bearing scalp with clear demarcation at or beyond the hair margin (ocassionally resulting in temporary hair loss that is not permanent)
+				- **Inverse psoriasis** - occuring at the plexures, particularly in the natal cleft, submammary and axillary folds, and is usually **symmetrical, erythematous, smooth and w/o scales**
+				- **Palm** - similar plaque lesions on the palms and is difficult to distinguish from eczema
+			- <u>Lesion characteristic</u>:
+				- Well-demarcated
+				- Erythematous
+				- Raised plaques
+				- Associated w/ sliver or white scales if left untreated
+		- **Erythodermic psoriasis** - life-threatening variant of psoriasis characterised by <u>widespread</u> (\> 75% TBSA) erythematous and scaling lesion, leading to dehydration and systemic inflammatory response
+		- **Guttate psoriasis** - usually the first presentation in children and adolescents and <u>heralds plaque psoriasis in adulthood</u>, <u>presenting after a streptococcal throat infection</u>, and rapidly evolves:
+			- <u>Sites</u> - over trunk, arms and legs
+			- <u>Lesion characteristics</u> - numerous:
+				- Droplet-shaped, small (\< 1cm)
+				- Erythematous
+				- Scaling lesions
+		- **Pustular psoriasis** - sterile pustulosis of lesions on a background of erythema, which may be localised (self-limiting), or generalised (life-threatening):
+			- <u>Sites</u> - occurs in the context of plaque psoriasis:
+				- Localised, often over a few digits (acro-pustulosis), palms and soles (palmoplantar psoriasis)
+				- Generalised, often sudden onset (often systemically unwell)
+			- <u>Lesion characteristic</u>:
+				- Sterile pustules on erythematous background
+				- May coelasce togethers into sheets with waves of new pustules if generalised
+	- **Nail involvement** - characteristically 4 lesions involving the nail:
+		- <u>Nail pitting</u> - thimble pitting, i.e. depressions on the surface of the nail
+		- <u>Onycholysis</u> - separation of the nail from the nail bed
+		- <u>Subungal hyperkeratosis</u> - excessive cells under the nail that lifts the nail (hence always associated w/ onycholysis)
+		- <u>Periungal involvement</u> - erythema and psoriaform lesions near the nail bed
+	- **Arthropathy** - occurs in 5-10% of patients a/w psoriatic arthritis, which occurs in different patterns:
+		- <u>Asymetrical inflammatory oligoarthritis</u> (40%) - abrupt onset of synovitis and peri-articular inflammation over the hands and feet, characteristically resulting in dactylitis, and ocassionally involving large joints (with large effusions)
+		- <u>Symmetrical polyarthritis</u> (25%) - typically manifests in F resembling RA, but has small and large joint involvement of UL and LL, and absent of nodules, and can be deforming due to tenosynovitis and soft tissue contractures
+		- <u>DIP joint arthritis</u> - uncommon pattern (characeterostic in men) affecting DIP joint and periarticular tissues, invariably associated with nail dystrophy
+		- <u>Psoriatic spondylitis</u> - typically unilateral or asymmetric sacroiliitis which may resemble AS, can occur in conjunction or alone with peripheral joint involvements
+		- <u>Arthritis mutilans</u> (5%) - deformiing arthritis of fingers and toes, with characteristic findings of 'main en lorgnette' where didgits can be telescoped or and pulled back to original length
+- **Clinical assessment:**
+    - **Skin Bx** - not required in typical cases but performed if there is diagnostic doubt
+    - **Assessment of cardiovascular risk** - due to association w/ insulin resistance:
+        - BP measurements
+        - RBG/ A1c
+        - Lipid profile
+    - +/- **HIV testing** - considered in severe or recalcitrant psoriasis, which may be first presentation of HIV
+- **Instrumental assessment** - assessment of disease activity and impact on QOL by instruments:
+    - <u>Dermatological Life Quality Index</u> (DLQI) - assessment of impact on life
+    - <u>Psoriasis Area and Severity Index</u> (PASI) - assessment of disease activity
+- **Mx:**
+    - **Principles of Mx:**
+        - **Goals of Mx:**
+            - Complete disease clearance may not be practical
+            - Self management of disease to an acceptable/ tolerable level based on benefit/risk profile of treatments and discussion w/ patients
+        - **Approach to Mx:**
+            - <u>Patient counselling</u> - patient education about the nature of diagnosis, associated co-morbidities (arthritis, cardiovascular disease), and understand impact of disease
+            - <u>Local therapy</u> - topical therapies first-line, followed by phototherapies if insufficient
+            - <u>Systemic therapy</u> - use of systemic retinoids, immunosuppression, and subsequently biologics
+            - 
+            ![](img/approach_to_mx_of_psoriasis.png)
+    - **Topical therapies:**
+        - **Selection:**
+            - Emollients
+            - Vitamin D agonists
+            - Retinoids
+            - Corticosteroids
+            - Tars
+            - Dithranol
+    - **Systemic retinoids:**
+    - **Immunosuppressants:**
+        - **Selection:**
+            - Methotrexate (first line)
+            - Cyclosporin
+            - Mycophenolate mofetil
+            - Hydroxycarbamide
+    - **Fumaric acid esters** (immunomodulators):
+    - **Biologics:**
+        - **Selection:**
+            - <u>anti-TNF-alpha</u> - adalimumab, infliximab, entanercept
+            - <u>IL2 inhibitor or IL23 inhibitor</u>

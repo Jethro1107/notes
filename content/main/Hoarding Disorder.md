@@ -1,0 +1,34 @@
+---
+type: main
+---
+# Hoarding Disorder
+
+- **Definition** - a persistent phenomenon of collecting items, possibly driven by emotional difficulties in parting with or discarding possessions, irrespective of their actual value
+- **Historical context:**
+	- _Anal personality_ - pathological hoarding behaviours initially recognised as a psychosexual trait under psychoanalytic traditions
+	- _Obsessive-compulsive personality disorder_ - prior to DSM-IV conventions, hoarding behaviours were characteristic of OCPD
+	- _Part of OCD_ - under DSM-IV conventions, hoarding behaviour were thought to be a manifestation of OCD
+- **Epidemiology:**
+	- _Prevalence_ - hoarding behaviour is relatively common in the general population, w/ life-time estimate of ~2-4% for pathological hoarding
+	- _Demographic_ (Samuels et al. 2010):
+		- Age - prevalence increases w/ age; usually arises in a middle-aged or elderly person
+		- Sex - female preponderance (F:M = 2:1)
+		- Socioeconomic status - more common in low SES status
+		- Associated comorbidities - alcohol dependence
+- **Collection of items in a normal individual:**
+	- Systematic and purposeful
+	- Does not interfere with the conduct of the individual's life
+- **Clinical features of hoarding disorder:**
+	- _Behaviour_ - towards a compulsive intensity:
+		- Hoarding irrespective of their intrinsic value (e.g. newspapers, magazines, paperwork)
+		- Congestion of living areas to the extent that their intended use is impossible, and could be unhygienic or unsafe for living
+	- _Cognition and affective components_ - non-obsessional, hence reflects more as OCPD rather than OCD:
+		- The thoughts of hoarding are not experienced as intrusive, repetitive/ persistent, nor egodystonic (senseless and inappropriate)
+		- However, it is the attempts to reduce accumulated clutter that results in anxiety, or anger
+- **Associations of OCPD:**
+	- Hoarding behaviour remains one of the diagnostic criteria for OCPD (DSM-5)
+	- However, presence of hoarding behaviour has low correlations w/ other symptoms of an obsessive-compulsive personality; most patients who hoard do not have evidence of a personality disorder (Mataix-Cols et al 2010)
+- **Mx:**
+	- **Principles of Mx:**
+		- _Psychological Tx_ - CBT along the same lines as OCD, with specific forms of CBT designed for hoarding behaviour w/ unequivocal gain in benefit
+		- _Pharmacological Tx_ - SSRIs and SNRIs showing benefits in open label trials

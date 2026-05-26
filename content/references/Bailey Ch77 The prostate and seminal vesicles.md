@@ -1,0 +1,176 @@
+---
+id: 8e886c43-7c6d-49c3-8881-e4c4566e4c52
+title: Bailey Ch77 The prostate and seminal vesicles
+---
+
+# Anatomy and Physiology
+
+# Lower urinary tract symptoms
+
+- **Definition of LUTS** - set of non-specific symptoms of bladder dysfunction occuring in storage and voiding phase of micturation (withdraw old term 'prostatism' because not all are attributed to BPH)
+- **Clinical features of LUTS:**
+    - Storage symptoms - experienced during storage phase of micturation:
+        - Urgency - sudden, compelling desire to pass urine that is difficult to defer
+        - Frequency (daytime) - voids too often by day
+        - Nocturia - the need to wake at night one or more times to void
+        - Incontinence - involuntary loss of urine, may be urge incontinence or enuresis
+    - Voiding symptoms - experienced during voiding phase of micturation:
+        - Weak streams - reduced urine flow, with splitting or spraying of the urine stream may be reported
+        - Hesitancy - difficult to initiate micturation
+        - Intermittent stream - urine flow starts and stops on one or more occassions during micturation
+        - Terminal dribbling - reduction of urine flow rate terminally to a dribble
+    - Postmicturation symptoms - experienced after voiding phase of micturation
+        - Incomplete emptying of urine
+        - Postmicturation dribbling
+- **Etiology of LUTS:**
+    - Bladder outlet obstruction (BOO) - prostate, bladder neck, urethral, neurogenic pathologies
+    - Idiopathic detrusor overactivity (DOA)
+    - Neuropathic bladder - result of DM, stroke, AD, PD etc.
+    - Detrusor instability - degeneration of bladder smooth muscles (gives rise to irritative Sx such as post-micturation dribbling)
+- **Clinical approach to LUTS:**
+    - **Salient points of Hx**:
+        - HPI - Onset, duration, time course, associated Sx, severity (International Prostate Severity Score IPSS)
+            - Associated Sx - related to causes of BOO and complications of BPH:
+                - Constitutional Sx and boin pain - metastatic CA prostate
+                - Gross haematuria
+                - Fever and dysuria - UTI
+                - Strangury - bladder/ urethral stone
+                - Uraemic Sx - renal insufficiency
+        - PMH:
+            - Drug Hx - BPH meds (alpha-blocade, 5-alpha reductase inhibitors), use of anticholinergics
+            - Surgical Hx - previous Hx of urethral instrumentation, TURP or prostate surgery
+            - Sexual Hx - past Hx of STD (especially urethritis)
+            - Neurological Hx - Hx of stroke, parkinsonism, spinal surgery
+    - **P/E:**
+        - General Exam - note uraemic status (hydration status, anaemia, features of CKD)
+        - Abdominal Exam (typically normal) - ocassionally palpable bladder if chronic retention
+        - Examination of external genitalia - inspection of external urinary ematus (strictures), epididymides (inflammation), phimosis
+        - DRE:
+            - Anal tone and perianal sensation
+            - Prostate estimate size - 2 fingerbreadths w/ median groove
+            - Features of suspicious CA prostate
+            - Tenderness of prostate
+            - Faecal impaction
+            - Painful perianal conditions
+        - Neurological examination - LL neurological defitis
+    - **Ix:**
+        - Routine urinalysis by dipstick - blood, glucose, protein, leukocytes
+        - CSU x C/ST - for infection (alternatively dipstick urine for rapid diagnosis)
+        - Routine bloods - RFT (obstructive uropathy), CBC (anaemia, leukocytosis)
+        - Uroflowmetry +/- urodynamic studies
+        - Additional Ix:
+            - PSA if indicated
+            - Pressure-flow studies
+
+# Benign Prostatic Hyperplasia
+
+- **Definition** - pathologically defined as epithelial and stromal proliferation to variable degrees
+- **Epidemiology of BPH:**
+    - Age of incidence - occurs in M \> 50y, by 60y, 50% will have histological evidence of BPH
+    - Most common cause of LUTS and BOO - in M . 70y
+- **Etio-pathophysiology of BPH:**
+    - Increased oestrogen-testosterone ratio - Rate of decline of estrogen level does not match testosterone, resulting in increased secretion of intermediate peptide growth factor
+    - **Pathological changes:**
+        - Glandular epithelium proliferation - adenosis, epitheliosis in the submucous group of glands in the <u>transitional zone</u> (TZ)
+        - Stromal proliferation - increased smooth muscle tone in response to alpha-adrenergic stimulation
+    - **Pathophysiological effects** - anatomical prostatic enlargement, LUTS, and urological evidence of BOO:
+        - Static obstruction - due to benign prostatic enlargement
+        - Dynamic obstruction - due to increased SM tone in response to alpha-adrenergic drive
+- **Clinical presentation of BPH:**
+    - **Asymptomatic** - no correlation between Sx severity and degree of prostatic enlargement
+    - **Lower urinary tract symptoms** - storage Sx more bothersome than voiding Sx, often graded as mild, moderate or severe by international prostate severity score (IPSS)
+    - **Complications:**
+        - <u>AROU</u> - painful retention of urine
+        - <u>Chronic retention of urine</u> - overflow incontinence, increased risk of UTI, stones, renal insufficiency
+        - <u>Hernia</u> - due to chronic straining to increase urine flow rate
+        - <u>Haematuria</u> - rupture of increased blood flow to veins in base of bladder
+- **Diagnosis** - typically presumed diagnosis from Hx and compatible P/E findings
+
+## Management of BPH
+
+- **Principles of Mx:**
+    - Conservative treatment (Watchful waiting) - indicated in men w/ mild Sx, reasonable flow rate (\> 10 ml/s) and good bladder emptying (\< 100 ml residual urine)
+    - Medical Tx - indicated for moderate to severe Sx but without definite indications of Mx
+    - Surgical Tx - complicated BPH, or severe symptoms and demonstrable low flow rates
+- **Conservative Mx:**
+    - Education and reassurance
+    - Avoid preciptating drugs:
+        - Decongestants and drug precipitating retention - e.g. cold medications, beta-blockers, anti-cholinergics
+        - Mild diuretics - caffeine, alcohol
+    - Change in fluid intake habits - limiting fluid intake when going out or in the evening to relieve nocturia
+- **Medical Mx:**
+    - **Alpha-blockers**:
+        - <u>Selection</u> - Prazosin, Doxazosin
+        - <u>MOA</u> - inhibits adrenergic stimulation of smooth muscles of the prostate, reducing dynamic obstruction
+    - **5-alpha reductase inhibitor:**
+        - <u>Selection</u> - Finasteride, Dutasteride
+        - <u>MOA</u> - inhibit activation of testosterone into DHT, resulting in shrinkage of prostate, reducing static obstruction
+- **Surgical Mx:**
+    - <u>Indications</u>:
+        - **Definite indications for surgical Tx of BPH** - complicaions of BPH:
+            - Acute retention with no identifiable precipitatants (e.g. drugs, constipation, recent spinal operation)
+            - Obstructive uropathy - renal impairments (raised Cr, Urea), Radiological evidence of hydronephrosis, and return of normal renal functions after relief
+            - Complications of BOO - recurrent stones, recurrent UTI, and diverticulum formation
+            - Bleeding BPH - venous bleeding from ruptured vein overlying prostate
+        - **Relative indications for surgical Tx of BPH:**
+            - Elective prostatectomy for severe Sx
+    - <u>Operations</u>:
+        - **Transurethral resection of the prostate** (TURP) - gold standard:
+        - **Transurethral incision of the prostate** (TUIP)
+        - **Ablative techniques** - e.g. PVP, RFA, microwave thermoplasty
+        - **Retropubic prostatectomy** (RPP)
+    - <u>Complications</u>:
+        - **Early complications:**
+            - Anaesthetic risk - cardio-respiratory complications
+            - Haemorrhage - surgical bleeding
+            - Infection and urosepsis - due to catheterisation
+            - Local complications:
+                - Perforation - of bladder or prosthatic capsule
+                - Incontinence - due to damage of external sphincter mechanism
+            - TUR syndrome - absorption of water due to irrigation during TURP, leading to haemolysis, hyponNa, and CHF
+        - **Late complications:**
+            - Bladder neck stenosis and urethral strictures
+            - Incontinence
+            - Treatment failure - i.e. reoperation (repeat prostatectomy in 15-18% after 8y)
+            - Sexual dysfunction:
+                - Retrograde ejaculation (\> 50%) - leads to impotence
+                - Erectile dysfunction - rare complication
+
+# Bladder outflow obstruction
+
+- **Hald's diagram** - LUTS (symptomatology), BPH (pathology) and BOO (urodynamic) are related but does not equate one another
+- **Definition** - urodynamic concept based on combination of 1) <u>low flow rates</u> in the presence of 2) <u>high voiding pressures</u>, definitively diagnosed on urodynamic (pressure-flow) studies
+- **Etiology of bladder outflow obstruction:**
+    - **Prostate pathologies** - Benign prostatic hyperplasia (BPH), CA prostate (ocassionally)
+    - **Bladder pathologies** - bladder neck stenosis, bladder neck hypertrophy
+    - **Urethral pathologies** - urethral strictures
+    - **Neuropathic bladder** - detrusor sphincter dyssinergia
+    - **Post operative** - e.g. after stress incontinence surgery in F
+- **Clinical features** - pain is not a LUTS unless BOO results in acute retention, urinary infection, stones, or is caused by CA
+    - **Lower urinary tract symptoms** (storage, voiding, post-micturation):
+        - Storage symptoms - experienced during storage phase of micturation:
+            - Urgency - sudden, compelling desire to pass urine that is difficult to defer
+            - Frequency (daytime) - voids too often by day
+            - Nocturia - the need to wake at night one or more times to void
+            - Incontinence - involuntary loss of urine, may be urge incontinence or enuresis
+        - Voiding symptoms - experienced during voiding phase of micturation:
+            - Weak streams - reduced urine flow, with splitting or spraying of the urine stream may be reported
+            - Hesitancy - difficult to initiate micturation
+            - Intermittent stream - urine flow starts and stops on one or more occassions during micturation
+            - Terminal dribbling - reduction of urine flow rate terminally to a dribble
+        - Postmicturation symptoms - experienced after voiding phase of micturation
+            - Incomplete emptying of urine
+            - Postmicturation dribbling
+- **Complications of BOO:**
+    - Retention of urine:
+        - Acute urinary retention - sudden onset and painful, may be the first clinical presentation of BOO
+        - Chronic urinary retention - gradual accumulation of large volume of urine resulting in increased resting and filling bladder pressures, results in bilateral hydroureters and hydronephrosis, predisposing w/ overflow incontinence, enuresis and renal insufficiency
+    - Recurrent UTI
+    - Bladder calculi
+    - Hydroureters and hydronephrosis
+    - ARF (Obstructive uropathy)
+- **Urodynamic changes in BOO:**
+    - Low urinary flow rates (N \> 15 ml/s) - 10-15 ml/s equivocal, \< 10 ml/s is definitively low
+    - High voiding pressures (N \< 60 cmH2O) - 60-80 cmH2O equivocal, \> 80 cmH2O is definitively high
+
+# Carcinoma of the prostate

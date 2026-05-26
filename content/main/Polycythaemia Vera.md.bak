@@ -1,0 +1,98 @@
+---
+id: eded2f46-38d7-4bd6-be22-afbd41699138
+title: Polycythaemia Vera
+---
+
+# Polycythaemia Vera
+
+- **Definition** - form of MPN characterised by excessive proliferation of marrow precursor cells resulting in trillineage expansion, characteristically presenting w/ polycythaemia and related Sx
+- **Epidemiology** - typically presents \> 40y
+- **Clinical features of PRV:**
+  - **Manifestations of hyperviscosity:**
+    - <u>Non-specific Sx</u> - lassitude, loss of concentration, headaches, dizziness, blackouts
+    - <u>Manifestation of arterial thrombosis</u> - Sx of peripheral arterial disease or ischaemic stroke/ TIA, amourosis fugax
+    - <u>Manifestation of venous thromboembolism</u> - e.g. unilateral leg pain and leg swelling
+  - **Manifestations of abnormal haemostasis** - bleeding (especially bleeding peptic ulcers and epistaxis)
+  - **Sx specific of PV:**
+    - <u>Aquagenic pruritis</u> - unbearable pruritis following warm bath or shower
+    - <u>Erythromelagia</u> - burning pain accompanied by colour changes in the presence of palpable pulses
+  - **Peptic ulcer** - common
+- **Signs of PRV:**
+  - <u>Facial plethora</u> - ruddy cyanosis, with plethoric skin but central cyanosis due to increased concentration of deoxy-Hb
+  - <u>Splenomegaly</u> - may be present at Dx
+- **Ix:**
+  - **CBC** - reflects trilineage expansion:
+    - <u>Hb, RBC, HCT</u> - polycythaemia demonstrated by high HCT and Hb concentration
+    - <u>WBC and differentials</u> - neutrophilic leucocytosis
+    - <u>PLT</u> - thrombocytosis present
+  - **BM examination:**
+    - Presence of JAK2 mutation in 90% cases (diagnostic, but in -ve cases, diagnosis can be made by r/o of other causes)
+    - Abnormal karyotype in marrow
+    - Autonomous growth of in vitro culture of marrow to show growth-factor independence
+- **Dx** - WHO diagnostic criteria of polycythaemia vera: 
+![](../img/dx_criteria_of_pv.png)
+- **Risk stratification** - risk stratification based on risk of <u>thrombotic events</u> (leading cause of preventable death in PV):
+  - <u>Low-risk</u> - age \<= 60y AND no Hx of thrombosis
+  - <u>High-risk</u> - age \> 60y OR Hx of thrombosis
+- **Mx:**
+  - **Principles of Mx:**
+    - **Goals of Mx:**
+      - <u>Control RBC mass</u> - targeting **HCT \< 45% and absence of Sx** by therapeutic phlebectomy +/- cytoreductive therapy
+      - <u>Prevent thrombotic events</u> - by aspirin +/- cytoreductive therapy
+      - <u>Control of cardiovascular RF</u> - reduce cardiovascular risk factors
+    - **Approach to Mx** - dependent on risk of patients:
+      - <u>Low-risk PV</u> - low-dose ASA + periodic phlbectomy
+      - <u>High-risk PV</u> - low-dose ASA + cytoreductive therapy (w/ therapeutic phlembectomy initially until HCT adequately controlled by cytoreductive therapy)
+
+      
+      ![](../img/tx_algo_for_pv.png)
+  - **Venesection** - prompt relief of hyperviscosity Sx:
+    - <u>Principles</u>:
+      - 400-500 mL of blood removed each time
+      - Repeated every 5-7d until HCT normalised
+      - Less frequent venesection to maintain this level until iron-deficiency ensues to keep Hb low
+  - **Low-dose aspirin therapy** (40-100 mg/d):
+    - <u>Indications</u> - for all PV patients
+    - <u>MOA</u> - antiplatelet therapy
+    - <u>Clinical efficacy</u>:
+      - Low dose a/w reduction in risk of combined endpoint of non-fatal myocardial infarction, nonfatal stroke, pulmonary embolism and major venous thrombosis (RR 0.40 \[95% CI 0.18-0.91\])
+    - <u>C/I for low-dose aspirin in MPN patients</u> - acquired von Willebrand syndrome
+    - <u>S/E</u>:
+      - GI bleeding
+  - **Cytoreductive therapy:**
+    - **Hydroxyurea:**
+      - <u>Indications</u> - typically first-line in patients w/ no potential for pregnancy due to favourable S/E profile
+      - <u>MOA</u> - inhibits DNA synthesis by inhibition of ribonucleotide reductase
+      - <u>Dosing and regimen</u> - 500 mg bid:
+        - Dose adjustment by weight, i.e. 15-20 mg bid
+        - Half-dose if eGFR \< 60 ml/min
+      - <u>S/E</u>:
+        - Mucositis (mucocutaneous ulcers, diarrhoea)
+        - Alopecia
+        - Marrow suppression (cytopenias)
+        - Peripheral neuropathy
+      - <u>Clinical efficacy</u>:
+        - Improved Sx and fewer thrombotic events
+        - Improved survival
+        - Complete response in 50% patients
+      - <u>C/I</u> (generally avoided in all women w/ pregnancy potential):
+        - Pregnancy
+        - Breast-feeding
+    - **Pegylated INF-alpha:**
+      - <u>Indications</u> - pregnant women
+      - <u>MOA</u>:
+        - Suppression of megakaryopoeisis
+        - Inhibition of proliferation of human Erythroid colonizing forming cells
+        - Decreases in human bone marrow fibroblasts
+      - <u>Dosing and regimen</u> - SC administration:
+        - 100 mcg every 2 weeks
+        - Dose increased by 50 mcg every 2 weeks until normalisation of haematological parameters
+        - Maximum dose of 500 mcg every 2 weeks
+      - <u>S/E</u>:
+        - Flu-like syndrome (myalgia and arthralgia)
+        - Injection site reactions
+        - Hepatotoxicity
+        - Depression
+- **Prognosis** - median OS \> 10y, however major morbidities include:
+  - Thrombotic events (60% experience CAD and CVA)
+  - Transformation into leukaemia and MF (25%)

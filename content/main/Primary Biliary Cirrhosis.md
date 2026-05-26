@@ -1,0 +1,34 @@
+---
+id: 3b970431-07dc-447d-ab68-528c1cfccce8
+title: Primary Biliary Cirrhosis
+---
+
+# Primary Biliary Cirrhosis
+
+- **Definition** - chronic progressive cholestatic liver disease caused by autoimmune-mediated inflammation of the portal tracts, leading to loss of small and middle-sized bile ducts
+- **Epidemiology** - typically affects middle-aged women of the West:
+    - Geographical variation - more common in Europe and North America, rare in Africa and Asia
+    - Demographic - strong female predominance (F:M = 9:1)
+    - Environmental risk factors - cigarrette smoking and other environmental risk factors
+- **Pathophysiology:**
+    - **Autoimmune mechanism in a genetically-predisposed individual** - HLA-DR8 +/- polymorphyism in immune gnes
+    - Production of auto-antibodies (typically IgM):
+        - Production of AMA - direted at pyruvate dehydrogenase complex
+        - ANA - selective binding to nuclear rim
+    - Chronic granulomatous inflammation of interlobular bile ducts - spread to liver parehcyma to cause cirrhosis
+- **Clinical features:**
+    - Systemic Sx precede Dx for years - e.g. fatigue
+    - Features of cholestasis - pruritis (severe causing scratch marks) is typically 1st complaint, typically worse on limbs, where jaundice presents late but becomes intense +/- Xanthelesma deposits
+    - Bone malabsorption - bone pain or fractures from osteomalacia, or osteoporosis (hepatic osteodystrophy)
+    - Associated diseases - autoimmune disease and CTD (esp. Sicca syndrome, SSc, coeliac and thyroid disease)
+- **Ix and Dx:**
+    - LFT - cholestatic pattern
+    - Lipid profile - hypercholesterolaemia (worsens on progression, but not diagnostic)
+    - US - r/o other cause of biliary obstruction
+    - Autoimmune markers - AMA (95% +ve), ANA, ASMA (15% +ve), +/- associated disease autoantibodies
+    - Cholangiography - r/o other biliary disease if AMA -ve
+    - +/- Liver Bx - only in diagnostic uncertainty
+- **Mx:**
+    - Ursodeoxycholic acid (UDCA) - a hydrophilic bile acid displacing toxic hydrophobic bile acid in bile acid pool, improving bile flow
+        - Dosage - 13-15 mg/kg/d
+        - Clinical effects - normalise LFT, slow histological progression

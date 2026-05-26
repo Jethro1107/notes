@@ -1,0 +1,45 @@
+---
+id: 12bc2da7-c738-4bd1-a223-a177703e4ee1
+title: Metabolic Acidosis
+---
+
+# Metabolic Acidosis
+
+- **Definition** - process of progressive acidification of plasma that occurs due to accumulation of H+ other than carbonic acid, or rarely loss of HCO3
+- **Pathophysiology of metabolic acidosis:**
+  - <u>Fall in plasma HCO3</u> - accumulation of H+ is buffered by fall in HCO3
+  - <u>Immediate hypertentilation</u> - respiratory compensation by **hyperventilation** to blunt the fall in pH by concurrent **reduction of PCO2** to a theoretical maximal extent of the respiratory system (i.e. fatigue)
+  - <u>Renal compensation</u> - if cause of acidosis is **not renal in origin**, renal compensation by **increasing acid secretion capacity** over days to weeks enables restoration of a new steady state
+- **Concept of the anion gap** - the body always aims to maintain a balance between cations and anions in the ECF:
+  - <u>Anion gap</u> - reflects unmeasured anions in ECF (e.g. PO4, SO4, -ve charged proteins) calculated as the difference between main measured cations (Na, K) and anions (Cl and HCO3) where normal ranges between **12-16 mmol/L**
+  - <u>Effects of Cl on HCO3</u> - to maintain **steady -ve charge**, changes in Cl will result in reciprocal changes in HCO3, and vice versa (maintained Cl: HCO3 ratio):
+    - **Increase in Cl** - results in increased urinary HCO3- loss, such that anion gap is preserved
+    - **Decreased Cl** - results in reduced urinary HCO3- loss, such that anion gap is preserved
+  - <u>Effects of accumulation of other anions</u> - anion gap will subsequently increase as Cl:HCO3 ratio remains unaffected
+- **Classification of metabolic acidosis:**
+  - <u>Normal anion gap metabolic acidosis</u> (NAGMA) - acidosis caused by 1) accumulation of Cl, 2) GI loss of HCO3-, or 3) type 1 and 2 renal tubular acidosis (renal accumulation of acid or reduced HCO3- secretion)
+  - <u>High anion gap metabolic acidosis</u> (HAGMA) - acidosis caused by organic acid load, which may be endogenous or exogenous
+- **Etiology of metabolic acidosis:**
+  - **NAGMA** - normal AG and Cl abnormal (too high or too low):
+    - <u>Hyperchloraemia</u> (hyperchloraemic metabolic acidosis) - complication of NS infusion, poisoning by NH4Cl, HCl
+    - <u>GI HCO3 loss</u> - in diarrhoea, fistula, or ureterosigmoidostomy for urinary diversion
+    - <u>Renal tubular acidosis</u>:
+      - Proximal (type 2) RTA - urinary loss of HCO3 in PCT
+      - Distal (type 2) RTA - impaired tubular acid secretion in distal RTA
+  - **HAGMA** - increased AG and Cl normal:
+    - **Endogenous acid load:**
+      - <u>Ketoacidosis</u> - diabetic ketoacidosis (ketoacidosis w/ hyperglycaemia), starvation ketoacidosis (ketoacidosis w/ hyperglycaemia)
+      - <u>Lactic acidosis</u> - type 1 lactic acidosis (excessive production of lactate due to shock), type 2 lactic acidosis (impaired lactate metabolism in liver failure or metformin)
+      - <u>Renal failure</u> - accumulation of organic acids
+    - **Exogenous acid load:**
+      - <u>Aspirin poisoning</u> - accumulation of salicylate
+      - <u>Methanol poisoning</u> - accumulation of formate
+      - <u>Ethylene glycol poisoning</u> - accumulation of glycolate, oxalate
+
+    
+    ![](../img/causes_of_metabolic_acidosis.png)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Dx and correct underlying cause</u> - e.g. glycaemic control, correcting shock, controlling diarrhoea, stopping drugs (e.g. ethanol for methanol poisoning)
+    - <u>IV fluid resuscitation</u> - as most causes of metabolic acidosis is a/w Na and water depletion (correlate with etiologies)
+    - <u>NaHCO3 infusion</u> - best reserved when underlying condition not immediately correctable, or if acidaemia severe (pH \< 7.0)

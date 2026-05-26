@@ -1,0 +1,64 @@
+---
+id: 16d57b3f-1fe6-434a-8bbb-b292d7bcda62
+title: 2025-05-01
+---
+
+# GC 233 Common Hand Injury <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+## Part 1 Pathology and Management Principlesof distal digital injuries
+
+- **Principles of hand pathologies** - most distal part prone to injury (i.e. digits), can be volar side or dorsal side
+- **Distal dorsal hand injuries** - crushed digits:
+    - **Salient of Hx** - when, how, where (dorsal vs volar)
+    - **P/E** - look, feel, move, sensory test, special test:
+        - Anatomical layer at this layer - nail plate, nail bed, distal phalanx:
+            - Nail plate laceration - can be outside-in (e.g. crush injury from outside and result in fracture) or inside-out injury (e.g. fracture fragment of D/P resulting in open fracture)
+    - **Ix** - AP, lateral view
+    - **Mx:**
+        - Reduction - depends on alligment
+        - Immobilisation and rehabilitation - dependent on the biomechanics of DIP joint for distal fractures (is base of DP affected?) –\> read slides
+            - Read biomechanics of DIP joints in distal fracture
+        - New nail plate - regrows progressively
+- **Hand injuries** - e.g. chopped injuries resulting in volar type distal digital injury
+    - **Need of operation** - dependent on whether deep tissues exposed (higher risk of complications)
+
+## Common bony injury of hand and wrist
+
+- Fracture of 5th metacarpal neck - Boxer's fracture
+    - Benign nature - despite angulated fragments –\> 5th CMC joint extremely mobile and hence ROM preserved
+    - Conservative Tx w/ early mobilisation
+    - Immobilisation –\> if pain, but active mobilisation after it heals
+- Proximal phalangeal basal fracture
+    - Can causes rotational deformity –\> unacceptable unable to form closed fist requring reduction
+    - Conservative Mx with immobilisation (splint) after reduction
+    - Ocassionally require operative tx by fixation
+- Colle's fracture - distal radial fracture with dorsally angulated and radially angulated (Dinner Fork deformity)
+    - Immobilisation:
+        - Conservative - cast if simple fracture
+        - Open reduction and Internal fixation w/ plataing if complicated fracture
+- Scaphoid fracture (read slides)
+
+## Common tendon innjury
+
+- Mallet finger deformity - most common extensor injury caused by hyperflexion injury at DIP (poke fishball?) –\> inability to extend DIP joint
+    - Mx - short mallet finger slint - allow tendon to oppose each other (6w time)
+- Buttonnaire deformity - ruptured central slip??
+- Flexor tendon injury –\> potentially tx for open tendon repair
+
+## Subungal haeatoma
+
+- Painful because no space to resorb
+- Small haematoma –\> will gradually resorb (if tolerable to the pain)
+- Big haematoma (extremely painful) - office procedure (read slides) to release blood
+
+## Principles of hand rehabilitation
+
+- Rehalbilitation - regain maximal function after injury or illness
+- Timeline:
+    - Early phase:
+        - Start at time of injury - prevent edema as edema fluid induces adhesion between tissue layers (good gliding to prevent adhesions) –\> adhesion will cause loss of ROM
+        - Passive and active mobilisation –\> whenever it is safe
+    - Later phase:
+        - Strengthening and work hardening
+        - Sensory motor re-education
+- Control oedema - boxing glove compression -\> functional position insid boxing glove

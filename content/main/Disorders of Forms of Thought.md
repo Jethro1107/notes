@@ -1,0 +1,25 @@
+---
+id: d56ee240-157e-4f7b-b808-67eca67d6714
+title: Disorders of Forms of Thought
+---
+
+# Disorders of Forms of Thought
+
+- **Definition and background** - formal thought disorders are disorders of conceptual or abstract thinking, w/ or w/o other co-existing congnitive deficits:
+    - <u>Bleuler's description</u> (1911) - disorder of association of thought, characterised by process of condensation, displacement and misuse of 'symbols'
+    - <u>Cameron's description</u> (1944) - describes as 'asyndesis', i.e. lack of adequate connections between successive thoughts
+    - <u>Goldstein's description</u> (1944) - emphasises the loss of abstract attitude, which leads to a 'concrete' style of thinking
+- **Schneider's three feature of healthy thinking:**
+    - <u>Constancy</u> - a completed thought does not change in content unless and until it is superseded by another consciously-derived thought
+    - <u>Organisation</u> - contents of thought are related to each other in consciousness and do not blend with each other, but are separated in organised ways
+    - <u>Continuity</u> - continuity of the sense continuum so that even the most heterogenous subsidiary thoughts, sudden ideas, or observations that emerge are arranged in order in the whole content of consciousness
+- **Schneider's five features of formal thought disorder:**
+    - <u>Derailment</u> (loose association) - the main thought slides onto a subsidiary thought that is loosely connected at best
+    - <u>Substitution</u> - the main thought is replaced by the subsidary one w/ abandonment of the main thought
+    - <u>Omission</u> - a thought, or part of the thought is senselessly omitted, leaving gaps in the thought process
+    - <u>Fusion</u> - heterogenous, and often unrelated thoughts are interwoven together resulting in a single incoherent thought
+    - <u>Drivelling</u> - components of a complex thought is mixed up, such that the internal structure of a single thought becomes chaotic and disorganised
+- **Schneider's three specific disorders of form of thinking** - corresponds to the 3 featuers of healthy thinking:
+    - <u>Transitory thinking</u> (disruption of constancy) - characterised by derailments, substitutions and omissions, and the grammatical and syntactical structures are often disrupted
+    - <u>Drivelling thinking</u> (disruption of organisation) - patient has a preliminary outline of complicated thought with all its necessary particulars, but loses preliminary organisation
+    - <u>Desultory thinking</u> (disruption of continuity) - appearance forcing ideas from time to time, differing from transitory thinking by the completion of a thought and preserved grammatical structure

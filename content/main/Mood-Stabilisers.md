@@ -1,0 +1,170 @@
+---
+id: 8EB6283C-52EE-4029-BA94-ADBD0A70DF4C
+roam_parent: c00ac4ea-6b5b-401c-bf58-8cacd89a72ea
+title: Mood-Stabilisers
+---
+# Mood-Stabilisers
+
+- **Commonly used mood-stabilizing drugs:**
+	- Lithium
+	- Anticonvulsants (e.g. carbamazepine, sodium valproate, lamotrigine)
+- **Role of mood-stabilizing drugs:**
+	- Prevention of recurrent affective illness
+	- Acute treatment of mania
+	- Augmentation of antideressant therapy (only for lithium as demonstrated antidepressive effects)
+- **S/E of commonly used mood-stabilzing drugs:** 
+![](../img/side_effects_of_commonly_used_mood_stabilisers.png)
+- **Lithium:**
+	- **Evidence for lithium established efficacy in:**
+		- Acute treatment of mania
+		- Prophylaxis of unipolar and bipolar mood disorders
+		- Augmentation therapy in resistant depression
+		- Prevention of aggressive behaviour in patients with learning disabilities
+	- **MOA:**
+	    - <u>Inhibition of secondary messanger production</u> - reduced formation of cAMP and formation of inositol lipid-derived mediators
+	    - <u>Modulation of neurotransmitter pathways</u>:
+			- Reduced effect of monoamine pathways
+			- Improved cell survival, synaptic plasticity (through inhibition of glucogen synthase kinase 3)
+	- **Pharmacokinetics:**
+		- <u>Absorption</u> - rapid absorption in the gut (rise by factor of 2-3 within 4h of oral dose)
+		- <u>Transport and distribution</u> - diffuse quickly throught the body tissue and cells, moving out of cells more slowly than sodium
+		- <u>Excretion</u> - biphasic:
+			- Rapid phase urinary excretion - excretion of lithium distributed in the plasma
+			- Slower phase urinary excretion - excretion of lithium that has entered the body cells, i.e. removal from the whole body pull
+		- <u>Renal handling of lithium</u>:
+			- Freely filtered and partly reabsorbed
+			- Reabsorption in the PCT is driven by water, hence increased water reabsorption results in increased lithium reabsorption (i.e. increased reabsorption w/ dehydration)
+			- Reabsorption in competition w/ Na, hence increased lithium reabsorption w/ hypoNa (e.g. w/ thiaide diuretics)
+	  - **S/E** - mild diuresis (Na excretion), tremors, dry mouth, metallic taste, weakness and fatigue are common:
+		- **Neurological disturbances:**
+			- Fine-tremors
+			- Muscle weakness
+			- Ataxia
+			- Impaired memory
+			- Seizures (severe toxicity)
+		- **Renal/ fluid disturbances:**
+			- <u>Impaired ADH function</u> - due to lithium blocking ADH effects on the collceting ducts, manifesting as mild thirst, polyuria, to frank nephrogenic DI (33% w/ chronic use)
+			- <u>Long-term effects on kidney</u> (increased risk of CKD) - irreversible decline in renal tubular concentration resulting in declining glomerular functions
+		- **Gastrointestinal disturbances:**
+			- Metallic taste
+			- N/V
+			- Diarrhoea
+			- Weight gain
+		- **Endocrine disturbances:**
+			- <u>Thyroid</u> - goitre (5%), primary hypothyroidism (20%; may account for fatigue and weight gain)
+			- <u>Parathyroid</u> - hyperparathyroidism
+		- **Other effects:**
+			- <u>Haematological</u> - (benign) leukocytosis
+			- <u>Dermatological</u> - exacerbation of psoriasis
+			- <u>Cardiovascular</u> - benign ECG changes
+	  - **Toxic effects of lithium** - dose-related:
+	    - <u>Clinical manifestations</u> - primarily neurological manifestations (permanent neurological damages have been reported):
+			- Ataxia, poor coordination of limb movements, and slurred speech
+			- Muscle twitching
+			- Seizures
+			- Confusion and coma
+	    - <u>Mx</u>:
+			- Stopping lithium at once
+			- Promoting renal excretion of lithium by 1) hydration, 2) NaCl supplementation to promote osmotic diuresis, 3) haemodialysis if impaired renal function
+	  - **Lithium in pregnancy:**
+	    - <u>Teratogenicity</u> - risk of fetal abnormalities especially involving the heart but magnitude of individual risk is low:
+		    - 1st trimester - Ebstein Anomaly (~1/1000)
+			- 2nd-3rd trimester - prematurity, polyhydraminos, non-toxic goitre, nephrogenic DI
+		- <u>Pregnancy planning</u>:
+			- Consider graded reduction of lithium if viable (complete cessation for 3 mo before pregnancy)
+			- Lithium should not be taken for 3 mo until 1st trimester over
+	    - <u>Considerations for lithium during pregnancy</u> - case-based decision:
+			  - Consider likelihood of affective relapse during pregnancy
+			  - Consider difficulty of Mx of an episode of affective illness
+	    - <u>Monitoring and further Mx</u>:
+			- Consider **atypical antipsychotic** (quetiapine) which is demonstrated to be non-teratogenic
+			- Serial measurements of serum lithium levels
+			- Fetal echocardiography
+			- Consider lithium prophylaxis post-partum to reduce risk of post-partum relapse
+			- Refrain from breast-feeding as significant concentrations of lithium can be measured in serum of breastfed infants
+	  - **Drug interactions of lithium** - must be considered given the narrow therapeutic index of lithium:
+	    - **Pharmacokinetic interactions** - mainly affecting renal excretion:
+	      - <u>Increased lithium levels</u> - diuretics (furosemide safest), NSAIDs (aspirin/ sulindac safest), RAAS blockade (ACEi/ ARB)
+	      - <u>Decreased lithium levels</u> - theophyline, sodium bicarbonate
+	    - **Pharmacodynamic interactions:**
+	      - <u>5-HT promoting agents</u> (e.g. SNRI, TCA, MAOI, but SSRI can be used safely w/ care) - potentiation of 5-HT effects resulting in **serotonin syndrome**
+	      - <u>Potentiating effects of CNS-acting drugs or physical treatments</u> - CCBs, carbamazepine, phenytoin ECT (hence lithium suspended during ECT), or muscle relaxants
+	  - **Contraindications:**
+	    - Renal failure or recent renal disease
+	    - Current heart failure or recent myocardial infarction
+	    - Chronic diarrhoea sufficient to alter electrolytes
+	  - **Management of the patient on lithium:**
+	    - **Preparation:**
+	      - <u>Assessment prior to initiation</u> - r/o absolute contraindications of lithium:
+	        - P/E - BP, body weight, BMI
+	        - Bloods - CBC, RFT, Ca, TFT
+	        - Others - ECG, pregnancy test
+	      - <u>Drug review</u> - review drugs that may interact w/ lithium: 
+	      ![](../img/drug_interactions_for_lithium.png)
+	      - <u>Patient education on conditions that may precipitate toxic effects</u> - printed guidelines provided to patient and family:
+	        - Intercurrent gastroenteritis
+	        - Dehydration secondary to fever
+	        - Renal diseases
+	    - **Initiation, continuation, and monitoring:**
+	      - <u>Initiation</u>:
+	        - Initial dosing dependent on indication
+	        - 200-400 mg od dosing used for prophylaxis, starting on the lower side if risking pharmacokinetic or pharmacodynamic interactions
+	        - OD dosing used, unless GI intolerance, in which divided doses (bid) can be given
+	      - <u>Monitoring</u> - monitor every 1-2 weeks until appropriate dose is found:
+	        - Bloods taken at **12h after last dose**
+	        - Target serum lithium levels of **0.4-0.7 mmol/L**, for prophylaxis, but higher (**0.8-0.9 mmol/L**) if predominant symptomatology is manic
+	        - May take **several months for full clinical effects to take place** even after therapeutic levels have been reached
+	      - <u>Continuation</u> - need for drug is reviewed q1y:
+	        - Blood for serum lithium levels taken at q12w after appropriate dose is found
+	        - Blood screening for complications (CBC, TFT, RFT, Ca) taken q6mo
+	        - Repeated drug reviews for other psychotropic or other medications
+	    - **Cessation:**
+	      - Slowly wtihdrawal over a number of moths if possible
+	      - Patient should be informed not to discontinue lithium suddenly on their own initiative
+- **Carbamazepine:**
+	- **Position of carbamazepine in the management of mania and bipolar disorders:**
+		- Initially introduced as an anticonvulsants, but found to have useful effects on mood in bipolar patients
+		- Reasonable evidence for use in management of acute mania and prophylaxis of bipolar disorders, although overall efficacy is probably less than that of lithium in treatment-naive patients (Goodwin et al 2016)
+		- However, found to be beneficial in bipolar patients who are refractory to lithium
+	- **MOA of carbamazepine:**
+		- Mechanistically known for <u>Na channel blockde</u>, but unsure if related to mood-stabilising effects
+		- Found to <u>facilitate 5-HT neurotransmission</u>, sharing similar effects as lithium
+	- **Pharmacokinetics:**
+		- <u>Absorption</u> - slowly, but completely absorbed
+			- <u>Distribution</u> - widely distributed in body tissues
+		- <u>Metabolism</u>:
+			  - Extensively metabolised into many metabolites
+			  - At least one metabolite, carbamazepine eposide, found to be therapeutically active
+			  - Strong inducer of CYP3A4, **auto-induction** resulting in shortened half-life w/ repeated dosing, and reduces plasma levels of other drugs (e.g. contraceptives, anticoagulants, antipsychotics, benzodiazepines, and TCAs)
+		- <u>Excretion</u> - T1/2 ~ 20h
+	- **Dosing and plasma concentrations:**
+		- <u>Dosing</u> - similar to that used for treatment of epilepsy:
+			- Within rages of 400-1600 mg daily, usually given bid to improve tolerance
+		- <u>Monitoring</u> - Plasma concentrations (12h after last dose) to maintain the usual anticonvulsant range as a precaution against toxicity
+	- **S/E of carbamazepine:**
+		- <u>Neurological S/E</u> - common at beginning of treatment:
+			  - Sedation
+			  - Dizziness
+			  - Ataxia
+			  - Diplopia
+		- <u>Renal S/E</u> - hyponatraemia, oedema
+		- <u>GI S/E</u> - N/V, anorexia, constipation
+		- <u>Endocrine S/E</u> - mild lowering of T3/4 but clinical hypothyrodism is rare
+		- <u>Haematological S/E</u> - relative leukopenia and agranulocytosis
+		- <u>Other effects</u>:
+			  - Rash (5%)
+			  - Hepatitis
+			  - Cardiac conduction abnormalities
+			  - Teratogenic
+	- **Clinical use of carbamazepine** - generally placed low down the list of therapeutic options, after lithium, valproate, lamotrigine, primarily due to <u>drug-drug interactions</u>, and <u>perceived poor tolerability</u>:
+		- <u>Prophylactic management of bipolar illness</u> for which lithium and valproate are ineffective or poorly tolerated
+		- Considered for <u>frequent mood swings</u> (rapid cyclers), and <u>mixed affective mood states</u>, for which may be more effective than lithium
+		- <u>Augmentation of lithium therapy</u>, keeping in mind of enhanced neurotoxicity
+		- Management of acute mania as alternatives or additions to lithium and valproate
+	- **Management of patient on carbamazepine:**
+		- <u>Initiation and titration</u> - only considered when other options are ineffective or unavailable:
+			- Initiated at doses of 100-200 mg/d, slowly titrating in steps of 100-200 mg twice-weekly
+			- Titration against S/E and clinical response rather than blood levels
+		- <u>Monitoring for S/E</u> - patients asked to seek help urgently if fever or S/S of infection:
+			- CBC - at 3mo and 6mo
+			- Other bloods - LFT, electrolytes

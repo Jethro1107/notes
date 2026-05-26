@@ -1,0 +1,54 @@
+---
+id: 235005eb-7d22-4b2b-99b8-ee4415ace9e7
+title: Chronic Arterial Insufficiency
+---
+
+# Chronic Arterial Insufficiency
+
+- **Epidemiology** - LL 8x more than UL
+- **Clinical entities of chronic arterial insufficiency** - difference in clinical presentation and Mx:
+    - <u>Intermittent claudication</u> - pain of muscles upon walking a certain distance caused by demand-driven ischaemia
+    - <u>Critical limb ischaemia</u> - pain detected in skin and subcutaneous tissue +/- tissue loss distally in the foot at rest due to critical stenosis (supply-led ischaemia)
+- **Sites of arterial occlusive diseases** - implicates <u>prognosis</u> (more proximal, better prognosis in Chronic arterial insufficiency, due to more collaterals and more treatment option), also affects clinical presentation:
+    - Aortoiliac disease - reduced/ absent femoral pulse
+    - Femoro-popliteal disease - strong femoral pulse and reduced popliteal pulse
+    - Distal/ Infra-popliteal/ small vessel diseases - strong femoral and popliteal pulse, and absent distal pulses
+- **Clinical features features of chronic LL arterial disease:**
+    - **Intermittent claudication** - ischaemic pain of muscles of the LL upon walking:
+        - <u>Pathophysiology</u> - ischaemic pain over muscle due to increase in demand after walking over a reproducible distance
+        - <u>Site</u> - dependent on artery affected:
+            - Calf - superficial femoral artery (70%)
+            - Thigh or buttock - aortoiliac disease (30%)
+        - <u>Exacerbating and reliefing factors</u> - exacerbated on walking a certain distance, and <u>rapidly relieved</u> by rest
+        - <u>Severity</u> - progressive shortening of 'claudication distance' (in fact, most patient report cyclical pattern of exacerbation and resolution due to progression of disease and subsequent development of collaterals)
+    - **Rest pain** - pain of the limb at rest and is typically felt at the foot:
+        - <u>Exacerbating factors</u> - exacerbated by lying down or elevation of the foot (Buerger's sign)
+        - <u>Releving factors</u> - relieved by hanging leg out of the bed, or sleeping in chair (temporarily, before pain caused by oedema)
+        - <u>Rationale for rest (sleep) pain</u> - suppressed CO and BP in sleep, and lost of beneficial effects on perfusion
+    - **Ulcerations and gangrene** - usually indicative of severe multi-level disease:
+        - <u>Ulcerations</u> - painful erosions between toes or shallow, non-healing ulcers on the dorsum of the feet
+        - <u>Gangrene</u> - blackened mummified tissue, which may be infected (wet gangrene), or not (dry gangrene)
+- **Signs of chronic arterial insufficiency:**
+    - <u>Inspection</u> - atrophic changes (hair, skin, nails), skin changes (ulcers, gangrene), muscle wasting
+    - <u>Palpation</u> - reduced capillary refill, reduced skin temperature, deminished or absent pulses
+    - <u>Auscultation</u> - bruits denotes turbulent flow but bears no relationship to severity
+    - <u>Buerger's test</u> (LL) - pain and pallor on elevation and rubor on dependency
+- **Ix and Dx of chronic arterial insufficiency:**
+    - **General Ix** - assessment of co-morbid conditions:
+        - <u>Blood tests</u> - CBC (anaemia, secondary polycythaemia), BG (DM), lipid profile (dyslipidaemia), RFT (angiography)
+        - <u>ECG</u> - potential IHD, LVH, and AF
+    - **Measurement of ankle-brachial pressure index** (ABPI) - ratio of systolic pressure at the ankle and brachial arm:
+        - <u>Procedure</u> - measure systolic pressure based on return of signal from doppler (at brachial, and ankle pulses) after inflation beyond, then deflation to the systolic pressure
+        - <u>Interpretation</u>:
+            - Noraml ABPI - 1 or \> 1
+            - Arterial occlusive disease - \< 0.9
+            - Rest pain - \< 0.5
+            - Imminent necrosis - \< 0.3
+    - **Duplex ultrasound** - B-mode US to provide image of vessels, but difficult to assess aorto-iliac disease
+    - **Angiography** - only indicated if surgery is contemplated, <u>not for diagnosis</u>:
+        - <u>Invasive modalities</u> - Digital subtraction angiography (DSA)
+            - Procedure - injection of radio-opaque contrast into arterial tree by percutaneous catheterisation (Seldinger tehnique) via <sub>femoral</sub> artery
+        - <u>Non-invasive modalities</u> - CT angiography (contrast exposure and ionising radiation) and MR angiography (non-ionising)
+- **Principles of Mx** - dependent on disease entity:
+    - <u>Intermittent claudication</u> - lifestyle modification and best medical therapy to **prevent progression of disease**
+    - <u>Chronic limb-threatening ischaemia</u> - revascularisation to **prevent amputation and mortality**

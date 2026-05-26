@@ -1,0 +1,43 @@
+---
+id: d4e17f29-cdbc-4fc5-9e2e-f6d84def5ff0
+title: Transient Ischaemic Attack
+---
+
+# Transient Ischaemic Attack
+
+- **Definition and terminology** - historically two definitions of TIA:
+  - <u>Classic time-based definition</u> - sudden onset of focal neurological S/S lasting \< 24h, that is likely brought on by a transient decrease in blood flow to a specific vascular territory and rendering the brain or retina ischaemic (arbitrary time cut-off w/ no biological explanation, where MRI demonstrates infarction could occur even w/ focal neurological S/S \< 1h)
+  - <u>Tissue-based definition</u> - transient episode of focal neurological S/S caused by focal brain or retinal ischaemia w/o evidence of acute infarction in neuroimaging/ clinical evidence (i.e. no persistence of S/S)
+- **No reliable correlation between symptom duration and infarction:**
+  - Non-absolute association between increasing duration of classically-defined TIA and probability of infarction on DWI
+  - Classically defined TIA w/ symptom lasting for as little as few minutes can be a/w infarction on DWI
+  - Spells that lasts for many hours may show non signs of infarction on DWI
+  - Furthermore, most patients seek medical attention once symptoms has resolved, not at the height of their symptoms
+- **Etiology of TIA** - classified into 1) embolic TIA, 2) lacunar or small vessel TIA, and 3) low-flow TIA:
+- **Risk of recurrence stroke** - risk of disabling stroke especially in the immediate days following the event, and also over subsequent years:
+  - **Factors affecting stroke risk:**
+    - <u>Time from index event</u> - greatest risk within the first 48h after TIA (1.5-3.5%), making up approximately 40% of 90d stroke risk
+    - <u>Etiology of TIA</u> - higher risk if if TIA caused by vascular pathologies (e.g. large artery atherosclerosis and small vessel disease), compared w/ cardioembolism
+  - **ABCD2 score** (applicable in primary care and emergency departments for urgency of specialist evaluation) - takes into account of Age, BP, Clinical Features, Duration of Symptoms and Diabetes to predict risk of ischaemic stroke in first 2 days after TIA: 
+  ![](~/Documents/notes/img/abcd_squared_score_for_predicting_risk_of_ischaemic_stroke_after_tia.png)
+    - **Interpretation** - clinically use a cut-off of \</\>= 4 to guide secondary stroke prevention:
+      - <u>Score 0-3</u> - low two-day stroke risk (1%)
+      - <u>Score 4-5</u> - moderate two-day stroke risk (4%)
+      - <u>Score 6-7</u> - high two-day stroke risk (7%)
+    - **Limitations** - poor performance in identifying patients in need of urgent intervention (including carotid stenosis and AF):
+      - A meta-analysis (Wardlaw et al 2015) (Sanders et al (demonstrated that ABCD2 score) (Sanders et al (does not reliably discriminate) (Sanders et al (those at low and) high risk of early recurrent stroke, where 1 in 5 patients have a treatable vascular pathology such as carotid stenosis or AF
+      - Another meta-analysis (Sanders et al 2012) showed that score performance was poor in setting of low baseline stroke risk
+      - The clinical features included in the scoring system do not adequately assess patients w/ posterior circulation symptoms, such as ataxia, or visual field deficits
+- **Ix:**
+  - **Neuroimaging** - CT/ MRI brain indicated \<= 24h:
+    - **Brain MRI w/ DWI** - preferred study as greatest Sn for detection of small infarcts
+    - **CT** - suboptimal alternative but effective in r/o of stroke mimics
+  - **Vascular imaging** - to assess TI subtype by determining whether TIA is of vascular origin:
+    - **CT angiography** - widely assessible and higher Sn for detection of intracranial stenosis and occlusions compared w/ MRA
+    - **Carotid duplex usltrasonography** - for evaluation of carotid stenosis
+  - **Cardiac evaluation** - to detect cardioembolic TIA:
+    - <u>12-lead ECG</u> - detection of ongoing AF
+    - <u>Cardiac monitoring</u> - observation unit telemetry or Holter monitor for at least 24h for detection of subclinical AF if initial 12-lead and neuroimaging does not reveal a clear etiology
+    - <u>Echocardiography</u> - detection of other non-arrhythmogenic sources of embolism within the heart and aorta
+- **Mx:**
+  - \*

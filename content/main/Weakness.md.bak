@@ -1,0 +1,258 @@
+---
+id: 7B89A33B-E5BE-4B8F-A0C2-99ACF12A3A6B
+roam_parent: 8579b855-c25b-4b31-98bd-6208c01f1065
+title: Weakness
+---
+
+# Weakness
+
+- **Definition** - reduced power over muscles
+- **Terminology:**
+  - **Weakness vs paralysis vs paresis:**
+    - <u>Weakness</u> - general term referring to reduction of power that can be exerted by one or more muscles
+    - <u>Paralysis</u> - weakness so severe that a muscle cannot contract at all
+    - <u>Paresis</u> (-plegia) - less severe form of weakness relative to paralysis
+  - **Quadraparesis vs hemiparesis vs paraparesis:**
+    - <u>Quadraparesis</u> - weakness of 4 limbs
+    - <u>Hemiparesis</u> - weakness lateralised to one-half of the body
+    - <u>Paraparesis</u> - weakness of both lower limbs
+- **Mimics of weakness to consider:**
+  - <u>Fatigability</u> - inability to sustain performance of an activity that should be normal for a person of the same age, sex, and size
+  - <u>Pain</u> - antalgia resulting in limitations of function
+  - <u>Articular stiffness</u> - results in limited ROM +/- peri-articular disuse atrophy
+  - <u>Severe proprioceptive sensory loss</u> - loss of feedback to provide the adequate information regarding direction and power of movement
+  - <u>Bradykinesia</u> - increased time required for full power to be exerted
+  - <u>Apraxia</u> - disorder of planning and initiating a skilled or learned movement unrelated to a significant motor or sensory loss
+- **Distribution of weakness** - level of lesion may affect presentation:
+  - <u>UMN lesions</u> - typically affects the extensors and abductors of the UL, and the flexors of the LL
+  - <u>LMN lesions</u> - more variable in presentation and depends whether involvement is at level of 1) anterior horn, 2) nerve root, 3) plexus, or 4) peripheral nerve
+  - <u>Myopathic weakness</u> - generally most marked in proximal muscles
+  - <u>Neuromuscular junction</u> - most variable has no specific pattern of involvement
+
+  
+  ![](../img/signs_that_distinguish_causes_of_weakness.png)
+- **Tone** - resistance to passive stretch:
+  - **Hypertonia** - may be of several types:
+    - <u>Spasticity</u> (UMN lesion) - increased tone that is velocity de-pendent, and has a sudden release after reaching a maximum ('clasp-knife' phenomenon)
+    - <u>Rigidity</u> (Extrapyramidal lesion) - increased tone throughout the range of motion ('lead pipe' or 'plastic' stiffness), with cogwheel quality enhanced by voluntary movement of the alternate limb (reinforcement)
+    - <u>Paratonia</u> (frontal lobe lesion) - increased tone that varies irregularly in a manner seemingly related to the degree of relatxation, typically present throughout the range of motion
+  - **Hypotonia or normotonia** - occurs w/ disorder of the motor unit, where a motor unit is defined by a LMN and all the muscle fibres it innervates 
+  ![](../img/level_of_lesion_based_on_tone_associated_with_weakness.png)
+- **Muscle bulk** (assessed by comparing both sides):
+  - <u>UMN lesions</u> - muscle bulk not affected although mild disuse atrophy eventually occurs
+  - <u>LMN lesions</u> - muscle atrophy often conspicious and is responsible for weakness
+  - <u>Myopathic lesions</u> - muscle atrophy often conspicious and is responsible for weakness
+- **Reflexes:**
+  - <u>UMN lesions</u> - characteristed by **hyperreflexia** which is often accompanied by lost of cutaneous reflexes (e.g. superificial abdominals), and an extensor plantar (Babinski) reflex
+  - <u>LMN lesions</u> - characterised by **hyporreflexia**
+  - <u>Myopathic weakness</u> - **reflexes generally preserved**, except in advanced diseases when they are attenuated
+  - <u>NMJ disorder</u> - reflex responses may be affected by preceding voluntary activity of affected muscles:
+    - Depression of initially normal reflexes suggestive of myasthenia gravis
+    - Enhancement of initially depressed reflexes suggestive of Lambert-Eaton myasthenic syndrome
+- **Patterns of weakness by level of lesion:**
+  - **UMN weakness** - lesions of UMN in cortex or their descending axons to the spinal cord:
+    - <u>Distribution of weakness</u> - principally:
+      - Distal muscle groups affected more severely than proximal muscle groups
+      - Axial movements (trunk) spared unless lesion is severe and bilateral
+      - Corticobulbar involvement typically affects the lower face and the tongue, while extra-occular, upper facial, pharyngeal, and jaw muscles are spaired
+      - **Pseudobulbar palsy** suggests bilateral corticobulbar lesions, with bulbar symptoms, emotional lability accompanied by bilateral facial weakness and brisk jaw jerk
+    - <u>Characteristic features of UMN weakness</u>:
+      - Spasticity is typical <u>only in the subacute or chronic phase</u>, absence in the acute phase (e.g. stroke, spinal cord compression) does not r/o an UMN lesion
+      - Reflexes are brisk only in the subacute or chronic phase in a similar manner
+      - An **extensor plantar response** is characteristic of an UMN lesion
+      - Repetitive movement are slow and course but are rhythmic and mainained (i.e. not a EPS lesion)
+    - <u>Differentiating EMG findings</u>:
+      - Weakness of UMN type
+      - Motor units show diminished maximal discharge frequency
+  - **LMN weakness** - loss of alpha-motor neurons in the brainstem motor nuclei and anterior horn of spinal cord, or from dysfunction of axons in nerves as they pass to skeletal muscles resulting in reduced recruitment of motor units:
+    - <u>Distribution of weakness</u> - neuropathic weakness is typically distal, as ?more motor units distally
+    - <u>Characteristic features of LMN weakness</u>:
+      - Profound early atrophy is characteristic in LMN weakness
+      - **Fasciculations** (or fibrillation potentials on EMG) occurs as denervated muscle fibres may discharge spontaneously
+      - **Hypotonia**, and **hyporeflexia** due to loss of gamma motor neurons (i.e. involvement of spindle afferent fibres)
+
+      
+      ![](../img/lmn_lesion_pathophysiology.png)
+    - <u>Differentiating EMG findings</u> - fibrillation potentials (single fiber discharges)
+  - **NMJ weakness:**
+    - <u>Distribution of weakness</u> - variable in degree and distribution, and depends on the state of rest of each NMJ
+    - <u>Characteristic features of NMJ weakness</u>:
+      - Weakness depends on the number of muscle fibres that are activated, which varies over time and is influenced by preceeding activity of the affected muscle
+      - Fatiguability, or paradoxical return of strength on repeated contractions corresponds to MG or LEMs respectively
+  - **Myopathic weakness** - decrease in the 1) number or 2) contractile forces of muscle fibres activated within motor units:
+    - <u>Distribution of weakness</u> - typically a symmetrical **proximal** weakness
+    - <u>Characteristic features of myopathic weakness</u>:
+      - **Tone and reflexes preserved** at least in initial disease states
+    - <u>Characteristic EMG findings</u>:
+      - Disorders of reduced muscle fibres results in 1) decreased size of each motor unit action potential, and 2) more rapid recruitment of motor units to produce desired power
+      - Disorders that affect contractile force are detected by discrepancy between electical activity and force of muscle
+  - **Psychogenic weakness** - occurs without a recognizable organic basis:
+    - <u>Distribution of weakness</u> - cannot be explained on a neuroanatomical basis
+    - <u>Characteristic features of psychogenic weakness</u>:
+      - Degree of weakness is variable and inconsistent
+      - Degree of weakness described or seen in P/E is out-of-portion to patient's daily activitie
+      - **Hoover's sign +ve** - return of power of affected limb when contralateral side testeds
+- **Distribution of weakness:**
+  - <u>Hemiparesis</u> - acute or episodic hemiparesis, subacute or chronic hemiparesis
+  - <u>Paraparesis</u> - acute paraparesis, subacute or chronic spastic paraparesis
+  - <u>Quadriparesis or generalised weakness</u> - quadriparesis typically refers to a common UMN cause, while generalized weakness typically refers to a disorder of the motor unit
+  - <u>Monoparesis</u> - acute monoparesis, subacute or chronic monoparesis
+  - <u>Distal weakness</u> - involvement of \>= 2 limbs distally
+  - <u>Proximal weakness</u> - often symmetrical proximal weakness of the pelvic or shoulder girdle
+  - <u>Weakness in restricted distribution</u> - consider LMN or peripheral nerve disease +/- NMJ or myopathic disorders
+
+  
+  ![](../img/initial_workup_for_the_patient_with_weakness.png)
+- **Hemiparesis** - UMN lesion mid-cervical (above C5) spinal cord, but most lesions reside above the foramen magnum, primarily in the 1) cerebral hemisphere, 2) internal capsule, 3) brainstem, and 4) high cervical cord:
+  - **Localisation of lesion in patient presenting w/ hemiparesis:**
+    - <u>Cerebral hemisphere</u> - associated w/ cortical signs including 1) aphasia/ language disorders, 2) neglect, 3) homonymous visual field defects (localises to cortex or subcortical regions)
+    - <u>Internal capsule</u> - usually a "pure motor" hemiparesis of the face, arms, and legs, however similar presentation may occur in midbrain lesions and pontine lesions
+    - <u>Brainstem</u> - charaterised by **crossed paralysis**, characterised by:
+      - Ipsilateral cranial nerve signs (+/- UMN facial weakness)
+      - Contralateral hemiparesis
+    - <u>High cervical cord</u> - absence of facial weakness or cranial nerve signs:
+      - Brown-Sequard Syndrome - a/w loss of proprioception ipsilateral to the weakness, and loss of pain and temperature sensation contralateral to the weakness
+  - **DDx of acute or episodic hemiparesis** - results from focal structural lesion esp. 1) <u>vascular etiologies</u>, 2) <u>rapidly expanding lesions</u>, and 3) <u>inflammatory processes</u>:
+    - <u>Vascular</u> - ischaemic stroke, ICH
+    - <u>Infective</u> - cerebral abscess, fungal granuloma, parasitic infections, toxoplasmosis (in HIV patients)
+    - <u>Inflammatory</u> - multiple sclerosis, sarcoidosis
+    - <u>Neoplasms</u> - primary or metastatic neoplasms, primary CNS lymphoma (in HIV patients)
+    - <u>Traumatic</u> - subdural haematoma
+  - **DDx of chronic hemiparesis** (weeks to months):
+    - <u>Vascular</u> - vascular malformation, chronic subdural haematoma
+    - <u>Neoplasms</u> - primary or metastatic neoplasms
+    - <u>Degenerative</u> - degenerative diseases
+  - **Ix:**
+    - <u>Routine bloods</u> - CBC, LRFT, clotting profile
+    - <u>Neuroimaging:</u>
+      - Plain CT brain +/- CTA
+      - MRI brain +/- MRA
+      - MRI of cervical spine
+- **Paraparesis** - site of lesions include 1) spinal cord and Cauda Equina, 2) peripheral nerves, or 3) peripheral muscles, and ocassionally 4) cerebral hemispheres:
+  - **Localisation of lesion in patient presenting w/ paraparesis:**
+    - <u>Intraspinal lesions</u> - usually **sensory loss w/ a spinal level** and **spastic paraplegia** w/ upgoing plantars and hyper-reflexia, although legs maybe **flaccid and arreflexic during spinal shock**
+      - Central cord syndrome - charaterised by <u>dissociative sensory loss</u> w/ loss of pain and temperature sensation but not touch and prioprioception
+      - Cauda equina syndrome - asymmetrical involvement, associated w/ sphincteric involvement, while hip flexion and sensation over anterolateral thighs is usually preserved
+    - <u>Peripheral nerves</u> - flaccid and arreflexic with downgoing plantars, associated w/ sensory loss
+    - <u>Myopathy</u> - proximal muscles affected predominantly, w/ no sensory deficits
+    - <u>Cerebral hemispheres</u> - presence of cortical signs
+  - **DDx of acute paraparesis:**
+    - **Spinal cord lesions:**
+      - <u>Traumatic</u> - spinal cord injury
+      - <u>Compression</u> - e.g. vertebral fractures, prolapsed disc, malignancy and spinal cord compression, AV fistula, AVM
+      - <u>Vascular</u> - anterior cord syndrome (dissociative sensory loss w/ preservation of proprioception)
+      - <u>Inflammatory</u> - transverse myelitis
+    - **Cerebral hemisphere lesions:**
+      - <u>Vascular</u> - acute cerebral aratery ischaemia (a/w shoulder shrug impairment), superior sagittal sinus thrombosis, cortical venous thrombosis
+      - <u>Acute hydrocephalus</u> - e.g. mass lesion
+    - **Anterior horn cell disease** - poliovirus (eradicated), West Nile Virus infection
+    - **Peripheral neuropathy** - Guillain-Barre Syndrome
+    - **Myopathy** - inflammatory myopathies, acquired myopathies etc.
+  - **DDx of subacute or chronic paraparesis** - depending whether spastic or flaccid paraplegia:
+    - **Spastic paraplegia** - denotes UMN disease which may be of spinal cord origin or cerebral cause:
+      - <u>Cerebral hemisphere</u> (hemispheric signs +ve) - e.g. parasagittal meningioma, chronic hydrocephalus
+      - <u>Spinal cord</u> (incontinence, sensory level) - compressive, vascular, inflammatory, infectious, developmental, metabolic
+    - **Flaccid paraplegia** - suggestive of 1) peripheral neuropathy, 2) myopathic diseases
+  - **Ix:**
+    - MRI Spine
+    - MRI brain if suspected cortical involvement (e.g. drowsiness, confusion, seizures, cortical signs)
+    - Electrophysiological studies if suspected neuromuscular disorders
+- **Quadriparesis or generalised weakness** - generalised weakness of 4 limbs may be a CNS disorder or a disorder of the motor unit:
+  - **Quadriparesis vs generalised weakness** - used interchangeably:
+    - <u>Quadriparesis</u> - commonly used if a UMN cause is suspected
+    - <u>Generalised weakness</u> - commonly used if a disease of the motor unit is suspected
+  - **Differentiation between quadriparesis and generalised weakness:**
+    - <u>Quadriparesis</u> (UMN) - associated w/ reduced GC, accompanied w/ spasticity, hyperreflexia, and sensory disturbance
+    - <u>Generalised weakness</u> (disease of motor unit) - associated w/ normal consciousness, accompanied w/ hypotonia, and hyporeflexia
+  - **DDx of acute quadriparesis or generalised weakness:**
+    - **Disorders of the UMN:**
+      - <u>Spinal cord</u> - C-spine injury, cervical cord ischaemia
+      - <u>Brain</u> - anoxia, hypotension, brainstem ischaemia, systemic metabolic disturbances (e.g. hypoglycaemia, Na)
+    - **Disorders of the motor unit:**
+      - <u>Muscles</u> - toxins, periodic paralysis, electrolytes (e.g. K, Mg, Ca), IEM, channelopathies
+      - <u>Peripheral nerves</u> - Guillain-Barre syndrome
+
+    
+    ![](../img/causes_of_gepisodic_generalised_weakness.png)
+- **Core differentiating features of neuropathic (LMN) and myopathic weaknesses** - difficulty to distinguish them clinically:
+  - <u>Pattern of weakness</u> - distal weakness more likely to be neuropathic, symmetrical proximal weakness more likely to by myopathic
+  - <u>Fasciculations</u> - visible or palpable twiches within a muscle due to spontaneous discharge of motor unit is pathognomonic of a neuropathic weakness
+  - <u>Early atrophy</u> - indicates neuropathic weakness
+- **Clinical approach to weakness** - answer the two salient questions of neurology?
+  - **Where is the lesion?**
+    - <u>Hx</u> - pattern and distribution of weakness, associated Sx:
+      - **Pattern and distribution of weakness:**
+        - Hemiparesis - hemispheric lesion, less likely unilateral cord or brainstem lesion
+        - Tetraparesis - brainstem, upper spinal cord lesion
+        - Paraparesis - spinal cord (esp. look for spinal levels)
+        - Over one limb - mononeuropathy, less likely small hemispheric lesion
+        - Proximal muscles - myasthenia gravis (look for fatiguability), endocrine disorders, disease of the muscles
+        - Distal muscles - peripheral neuropathy
+        - Isolated muscles - radiculopathy, mononeuropathy
+        - Bizarre, fluctuating, not following anatomical rules - functional symptoms
+
+        
+        ![](../img/pattern_of_motor_loss.png)
+      - **Associated Sx:**
+        - Absence of sensory involvement - motor neuron disease, MG, myopathies
+    - <u>P/E</u> - differentiation between upper and lower motor neuron weakness (see below):
+      - **UMN pattern** - brain and spinal cord
+      - **LMN pattern** - peripheral nervous system
+      - **Mixed pattern** - motor neuron disease
+
+      
+      ![](../img/umn_vs_lmn_lesion.png)
+  - **What is the lesion?**
+    - <u>Hx</u> - evolution of weakness, fatiguability:
+      - **Evolution of weakness:**
+        - <u>Sudden and improving</u> - stroke, TIA, nerve entrapment syndrome
+        - <u>Gradually worsen over days or weeks</u> - cerebral mass, demyelination
+        - <u>Gradually worsening over months or years</u> - meningioma, cervical myelopathy
+- **Salient points of Hx** - comprehensive Hx unlikely needed as long as lesion is localised:
+  - **Is it true weakness?**
+    - <u>Generalised fatigue</u> - may mimick weakness (but consider quadriparesis or generalised failure of the motor unit)
+    - <u>Antalgia</u> - may reduce movement thus mimicking weakness
+    - <u>Reduced sensation</u> - severe prioprioceptive losses can be perceived as weakness
+    - <u>Bradykinesia</u> - parkisonism may ocassionally mimick weakness
+    - <u>Apraxia</u> - power is normal but unable to coordinate learned movements
+  - **HPI** - onset, progression, pattern of weakness, effects on ADL:
+    - **Onset** - acute, subacute, chronic:
+      - <u>Acute</u> - stroke (until proven otherwise), TIA, trauma, nerve entrapment syndrome
+      - <u>Subacute</u> - inflammatory (e.g. GBS, inflammatory myelitis, encephalitis, MS), structural/ compressive lesion
+      - <u>Chronic</u> - degenerative, structural/ compressive
+    - **Progression:**
+      - <u>Intermittent/ fluctuatingSx</u> - consider MG but also other rarer causes of intermittent Sx
+      - <u>Static/ progressive Sx</u> - consider structural CNS disorders, while PNS disorders are generally progressive and non-fluctuating
+    - **Pattern of weakness** - localisation of the lesion (see above)
+    - **Effects on ADL** - compare w/ baseline:
+      - <u>Proximal UL weakness</u> - combing hair, reaching high shelves
+      - <u>Proximal LL weakness</u> - rise from chair, climbing stairs
+      - <u>Distal UL weakness</u> - open jars, button shirts
+      - <u>Distal LL weakness</u> - trip over rugs, heel slap on floor
+  - **Associated Sx of muscle weakness** - severity:
+    - <u>Bulbar Sx</u> - oropharyngeal dysphagia or dysarthria
+    - <u>Diplopia and ptosis</u> - any EOM involvement
+    - <u>Dsypnoea</u> - involvement of the accessory respiratory muscles (or a/w ILD in inflamatory myositis)
+  - **Associated neurological Sx:**
+    - <u>Sensory disturbances</u> - presence essentially r/o diseases of the muscle, NMJ, or anterior horn cells
+    - <u>Visual disturbances</u> - points towards a CNS problem (N.B. optic neuritis w/ focal weakness \[esp. paraplegia\] extremely suggestive of a neuroinflammatory disorder like **MS** or **NMOSD**)
+    - <u>Headaches</u> - non-specific, possibily a/w raised ICP
+    - <u>Sphincteric disturbances</u> (e.g. AROU, faecal incontinence) - localisation to the spine, esp. Cauda Equina Syndrome
+    - <u>Sadal parasthesia</u> - suggestive of Cauda Equina syndrome
+  - **Systemic Sx:**
+    - <u>Fever</u> - inflammatory/ infective process
+    - <u>Weight loss</u> - ?underlying systemic illness/ malignancy
+  - **Additional Hx** - dependent on likely site of lesion:
+    - <u>Acute onset of focal neurological deficits</u> - Atherosclerotic risk factors, known AF, FHx (+/- additional Hx if young stroke w/ no risk factors)
+    - <u>Localisation to the spinal cord</u> - prior trauma, active malignancy, known autoimmune disease or autoimmune Sx, prior optic neuritis etc.
+    - <u>Localisation to the peripheral nerves</u> - features of autonomic neuropathy, known DM, hypothyroidism, detailed drug Hx (e.g. chemotherapy), nitrous oxide use, heavy metal/ OP exposures, active malignancy, CTD, infections (HIV, leprosy, brucellosis), **prior events** (e.g. URTI/ diarrheal illness)
+    - <u>Generalised weakness w/o other Sx</u> (muscle, NMJ, anterior horn cell) - myalgia, muscle enlargement or atrophy, rash, arthralgia/ RP, endocrine disorders (thyroid, Cushing's, acromegaly), drug Hx (statins, ICIs, glucocorticoids), FHx of muscle dystrophies
+  - **Relevant PMH, SHx, FHx**
+  - **Systems review** - important for autoimmune screen and thyroid
+- **P/E:**
+  - <u>Observation</u> - observe for any pain, abnormal movements (e.g. Parkinsonism), or extrapyramidal signs
+  - <u>Formal examination of the motor system</u> - inspection, tone, power, reflexes, pathological reflexes
+  - <u>Hoover's sign</u> - demonstration of functional weakness:
+    - **Principles** - simuatneous hip extension when contralateral hip flexes
+    - **Interpretation:**
+      - Return of power of affected hip when testing contralateral hip - suggestive of functional weakness

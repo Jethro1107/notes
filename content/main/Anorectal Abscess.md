@@ -1,0 +1,29 @@
+---
+id: 26a05d27-b6e1-46e8-af35-3ea1d34e6e97
+title: Anorectal Abscess
+---
+
+# Anorectal Abscess
+
+- **Definition** - extension of infection in the cryptoglandular epithelium resulting in abscess developed near the peri-rectal regions
+- **Sites of anorectal abscesses:**
+    - <u>Perianal abscess</u> (20%) - abscess collection deep to the perianal skin
+    - <u>Intersphincteric abscess</u> (18%) - abscess collection in between the internal and external sphincter
+    - <u>Ischiorectal abscess</u> (60%) - abscess collection lateral to the sphincters in the ischiorectal fossa
+    - <u>Supralevator abscess</u> (2%) - abscess collection in the supralevator space
+
+  
+  ![](../img/sites_of_anorectal_abscess.png)
+- **Etio-pathophysiology of anorectal abscess:**
+    - <u>Origin from cryptoglandular infections</u> - infection of the cryptoglandular epithelium by local intestinal bacteria can subsequently pass through the internal sphincter and access the inter-sphincteric space
+    - <u>Extension of infection into peri-rectal spaces</u> - once entering the intersphincteric space, abscesses can be formed in each of the peri-rectal spaces
+    - <u>Rare etiology of anorectal abscess</u> - e.g. Crohn's Disease, TB, Actinomycosis, FB, surgery, malignancies
+- **Clinical features of anorectal abscesses:**
+    - **Perianal pain** - extreme perianal pain
+    - **Perianal swelling** - caused by mass effect of the abscess
+    - **Anal discharge** - mucous or purulent discharge
+    - **Fever** - due to potential bacteraemia
+- **Complications of anorectal absesses** - abscesses may rupture and cause fistulation
+- **Mx:**
+    - **Incision and drainage of abscess** - definitive Tx
+    - +/- **Systemic ABx** - in selected high risk patients, e.g. extensive cellulitis, VHD, prosthetic valves, immunosuppression

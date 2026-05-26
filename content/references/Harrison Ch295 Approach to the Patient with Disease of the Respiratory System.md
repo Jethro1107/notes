@@ -1,0 +1,122 @@
+---
+id: 23403902-3d7d-4e90-9f3e-72c8d802a0de
+title: Harrison Ch295 Approach to the Patient with Disease of the Respiratory System
+---
+
+# Ch295 Approach to the Patient with Disease of the Respiratory System
+
+- **Approach to classification of respiratory disorders:**
+    - <u>Based on pathophysiology</u> - obstructive pathophysiology, restrictive pathophysiology, vascular origin
+    - <u>Based on gas exchange abnormalities</u> (N.B. most disorders do not manifest as respiratory abnormalities) - isolated hypoxaemia (T1RF), hypercabia/ combined impairment (T2RF)
+- **Categorization of respiratory disorders by pathophysiology** - significant overlap in pathological manifestations esp. for infective and neoplastic conditions: 
+![](img/categories_of_respiratory_disease.png)
+- **Approach to the patient with a suspected respiratory disorder:**
+    - <u>Thorough Hx</u> - dyspnoea and cough, additional Sx, additional Hx (PMH and Drug Hx, SHx, systems review)
+    - <u>Focused P/E</u> - primary assessment, focused respiratory examination, systems review
+    - <u>Diagnostic evaluations</u> - blood tests, chest imaging, sputum analysis, serological or microbiologic studies, pulmonary function testing, invasive diagnostic procedures (e.g. bronchoscopy)
+
+## History and Physical Examination
+
+- **Salient points of Hx in a dyspnoeic patient:**
+    - **Onset and duration** - acute SOB vs chronic SOB:
+        - <u>Acute SOB</u> - associated w/ sudden physiological changes:
+            - Airway narrowing - upper airway narrowing (laryngeal oedema, FB aspiration), small airway narrowing (bronchospasm, mucus plugging)
+            - Acute hypoxaemia (e.g. from VQ mismatch) - pneumonia, pulmonary oedema, **pulmonary embolism**
+            - Sudden increased work of breathing - e.g. pneumothorax, pulmonary oedema
+        - <u>Chronic exertional dyspnoea</u> - e.g. COPD, IPF a/w gradual progression of dyspnoea punctated by acute SOB a/w specific triggers
+    - **Provocative and relieving factors:**
+        - Allergens
+        - Upper respiratory tract infections
+        - Exercise
+        - Weather
+        - Inhalers
+    - **Quality:**
+        - <u>Obstructive lung pathology</u> - often describes as experiencing **chest tightness**, or **inability to get a deep breath**
+        - <u>Parenchymal pathology</u> - often describes as **air hunger**, or sense of suffocation
+    - **Progression** (severity) - documentation of exercise tolerance:
+        - Objective measurements such as mMRC dyspnoea scale
+        - Comparison between flights of stairs tolerated between visits
+        - Inferring from activities in which patients engage in and the changes over time as most patients will adapt level of activity to accomodate to progressive limitation
+- **Salient points of Hx in a patient w/ cough:**
+    - **Onset and duration** - chronic cough (persistent for \> 8 weeks) is associated w/ more significant pathology:
+        - <u>Acute cough</u> - a/w phlegm often suggestive of infection of respiratory system, including upper airways (sinusitis, tracheitis), lower airways (bronchitis), or parenchyma (pneumonia)
+        - <u>Chronic cough</u> - a/w more significant respiratory pathologies (obstructive and restrictive), non-respiratory pathologies (e.g. GERD, post-nasal drip, cardiac disease, psychogenic cough)
+    - **Presence of sputum** - quantity and quality of sputum
+    - **Haemoptysis** - any amount warrants urgent evaluation
+    - **Triggers** - e.g. allergens, URTIs, exercises etc.
+- **Additional Sx:**
+    - <u>Wheezing</u> - suggestive of airway disease as in asthma
+    - <u>Haemoptysis</u> - variety of lung diseases including bronchial disorders, pulmonary vascular disorders (e.g. PE)
+    - <u>Chest pain</u> - pleuritic chest pain from either disease of pleura (e.g. pneumothorax), or pulmonary vascular disease (pulmonary HTN, PE)
+    - <u>Peripheral oedema</u> - ascites and LL oedema may be a/w cor pulmonale in context of respiratory disorders (N.B. unilateral pedal oedema raises suspicion of PE)
+    - <u>Fever and chills</u> - raises suspicion of infective etiologies both pulmonary and systemic
+- **Additional Hx:**
+    - **SHx:**
+        - <u>Cigarette smoking</u> (exposure delineated in terms of pack years) - increased risk of COPD bronchogenic carcinoma, selected parenchymal lung diseases (e.g. desquamative interstitial pneumonitis, pulmonary Langerhans cell histocytosis)
+        - <u>E-cigarette or vaping</u> - can lead to acute or subacute lung injury (i.e. E-cigarette or vaping-use-associated lung injury \[EVALI\])
+        - <u>Second hand smoking</u> - parents, spouses, housemates
+        - <u>Occupational exposure</u> - e.g. asbestos, silica
+        - <u>Home exposures</u> - house dust mites, animal dander, excretion from pet birds
+    - **TOCC Hx** - N.B. tuberculosis or exotic fungal infections (e.g. HIstoplasma capsulatum)
+    - **PMH and drug Hx:**
+        - <u>Irradiation</u> - prior irradiation to the chest for CA breast or lymphoproliferative disorders
+        - <u>Medications</u> - ACEi as most common cause of cough; amiodarone and bleomycin a/w parenchymal lung disease
+    - **Systems review:**
+        - <u>Rheumatological Sx</u> - joint pain, swelling, rashes, Sicca Sx, constitutional Sx to reveal autoimmune process w/ pulmonary involvement
+        - <u>Other systemic Sx</u> - lungs are common site of metastasis from other primaries
+- **Physical examination:**
+    - **Primary assessment** - RR, SpO2:
+        - <u>RR</u> - tachypnoea vs hypopnea
+        - <u>SpO2</u> - hypoxaemia at rest or exertion
+    - **Respiratory examination:**
+        - **Inspection:**
+            - <u>Respiratory distress</u> - e.g. use of accessory muscles of respiration, ability to complete sentence in conversation
+            - <u>Chest wall deformities</u> - severe kyphoscoliosis (restrictive), pectus excavatus, pectus carinatum
+            - <u>Laterality</u> - reduced chest wall expansion unilaterally vs bilaterally
+        - **Palpation** - adjunctive role in respiratory examination:
+            - <u>Chest wall expansion</u> - symmetry and degree of expansion assessed during deep inspiration by placing one's thumb at midline while grasping lateral rib cage
+            - <u>Subcutaneous emphysema</u> - in setting of barotrauma
+            - <u>Tactile fremitus</u> - adjunctive to delineate whether area od decreased breath sound is due to consolidation (increased tactile fremitus), or pleural effusion (reduced tactile fremetus)
+        - **Percussion:**
+            - <u>Dull to percussion</u> - suggests pleural effusion or consolidation
+            - <u>Hyper-resonant to percussion</u> - suggests pneumothorax
+        - **Auscultation:**
+            - <u>Wheeze</u> - suggestive of airway obstruction (N.B. peribronchial oedema in CHF can lead to wheeze as well):
+                - Unifocal vs diffuse - focal pathology vs diffuse pathology
+                - Polyphonic vs monophonic - involvement of different size airways (e.g. bronchospasm), vs involving one airway
+            - <u>Rhonchi</u> - suggestive of medium sized airway obstruction typically by secretions
+            - <u>Stridor</u> - high-pitched focal inspiratory wheeze suggestive of upper airway obstruction
+            - <u>Crackles</u> - suggestive of alveolar disease (e.g. pulmonary oedema, pneumonia), and pulmonary fibrosis
+        - **Egophony** - distinguish crackles between alveolar fluid and those a/w IPF:
+            - +ve Egophony (Pneumonia) - auscultation of sound "AH" instead of "EEE" when patient phonates "EEE" due to abnormal sound transmission through consolidation
+            - -ve Egophony (IPF) - auscultation of sound "EEE" as sound transmission is normal
+        - **Whispered pectoriloquy and bronchial breath sounds** - suggestive of consolidation
+    - **Review of systems:**
+        - <u>LL oedema</u> - cor pulmonale if symmetrical or DVT if asymetrical
+        - <u>JVP</u> - elevated suggestive of volume overload a/w RHF
+        - <u>Pulsus paradoxus</u> - a/w significant pleural pressures required for ventilation and impending respiratory failure in patient w/ obstructive lung disease
+
+## Diagnostic Evaluation
+
+- **Approach to diagnostic evaluation:**
+    - <u>Parallel testing (shotgun approach) in acute respiratory Sx</u> - aimed at Dx or r/o any life-threatening diseases (pulmonary embolism, multilobar pneumonia) rapidly
+    - <u>Serial testing in chronic respiratory Sx</u> - protracted, stepwise evaluation in chronic dyspnoea and cough
+- **Pulmonary function testing** - contains of spirometry, lung volume studies and diffusion capacity of lung for CO:
+    - <u>Spirometry</u> - effort-dependent test for assessing obstructive pathophysiology seen in asthma, COPD or bronchiectasis, defined by FEV1/FVC ratio \< 70%, and evaluation of flow-volume loops
+    - <u>Lung volume studies</u> - evaluation of restrictive pathology as defined by TLC \< 80%
+    - <u>DLCO</u> - evaluation of impaired gas exchange
+- **Additional pulmonary function studies:**
+    - Maximal inspiratory and expiratory pressures (for neuromuscular weakness)
+- **Arterial blood gas testing and measurement of alveolar gas and arterial blood oxygen tension difference** (\[A-a\]DO2):
+    - <u>Increased (A-a)DO2</u> - at rest suggestive of VQ mismatch or shunt physiology
+    - <u>Increased PaCO2</u> - hypercapnia suggestive of disorders of ventilation (including fatigue)
+- **Chest imaging:**
+    - <u>POCUS</u> - pneumothorax, pleural effusion, consolidation
+    - <u>Chest radiograph</u> - preferably w/ PA and lateral films with additional details including 1) opacity, 2) bluntng of CPA, 3) mass lesions, and 4) volume changes
+    - <u>CT</u> - delineation of parenchymal processes, pleural diseases, masses or nodules and pulmonary vasculature
+    - <u>PET</u> - evaluation of metabolic activity of masses/ nodules
+- **Further studies:**
+    - BAL
+    - Blood testing (e.g. hypercoagulable states in pulmonary vascular disease, serological markers for infections or rheumatological disease)
+    - Genetic testing
+    - Sputum analysis

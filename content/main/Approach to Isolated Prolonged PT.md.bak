@@ -1,0 +1,92 @@
+---
+id: 67e7d74c-bd0b-441b-8c7d-276839b21e69
+title: Coagulation Disorder
+---
+
+# Coagulation disorder
+
+- **Etiology of cogulopathies:**
+  - **Congenital**
+    - **X-linked** - **Haemophilia A** (Factor VIII deficiency), **Haemophilia B** (Factor IX deficiency)
+    - **Autosomal** - **Von Willebrand disease** (most common inherited bleeding disorder), rare coagulation factor deficiencies (II, V, VII, X, XI, XIII), Dysfibrinogenaemia, Hypofibrinogenaemia
+  - **Acquired**
+    - **Vitamin K deficiency** - Cholestasis, malnutrition, ABx use
+    - **Drug-induced coagulopathy** - Warfarin, Heparin, LMWH, fondaparinux, DOACs
+    - **Under production**
+      - Decompensated cirrhosis - decreased synthesis of factor V, VII, VIII, IX, X, XI
+    - **Excessive consumption**
+      - Consumptive coagulopathies - DIC, thrombotic microangiopathies
+    - **Acquired inhibitors of coagulation**
+      - Acquired haemophilia A - anti-VIII Ab
+      - Acquired von Willebrand syndrome (aVWS)
+
+# Clotting Profiles
+
+- **Clotting profiles** - PT (INR), aPTT +/- TT, Fibrinogen, D-dimer
+  - **PT** (prothrombin time) - typically reflects factor VII activity and common pathway when exposed to TF
+    - Method - measure time for plasma to clot when exposed to TF in vitro
+    - INR used to standardized PT assay for therapeutic monitoring (warfarin).
+  - **aPTT** (activated partial thromboplastin time) - typically reflects factor VIII, XI activity and common pathway
+    - Method - measure time for plasma to clot when exposed to thromboplastic material w/o TF and contact w/ negatively charge material, initiating XII activation in vitro
+    - aPTT is used for therapeutic monitoring of heparin therapy.
+  - **TT** (thrombin time) - typically a surrogate for fibrinogen (factor I) activity
+    - Method - measure time for plasma to clot when exposed to exogenous thrombin in vitro
+  - **Fibrinogen** - terminal coagulation factor
+    - Precautions - Acute phase reactant (prone to false +ve)
+    - Indications for measurement - when suspecting fibrinogen deficiency (liver disease, rare cause of hypofibrinogenemia), or consumptive coagulopathy (DIC, TMA)
+  - **D-dimer** - a fibrin degradation product after cleavage by plasmin
+    - Indications for measurement - a marker for thrombosis
+- Additional tests
+  - 1:1 Mixing test - differentiation between clotting factor deficiency or acquired coagulation inhibitor
+    - Principles - 50% of clotting factor activity sufficient for normal clotting time
+    - Procedure - 1:1 mixing of patient plasma
+  - Specific clotting factor assay
+  - vWF assay
+
+# Approach to Isolated Prolonged PT
+
+- **Isolated prolonged PT** - indicative of factor VII problem
+- **DDx of isolated prolonged PT:**
+  - Overwarfarinization (factor II, VII, IX, X inhibition)
+  - Vitamin K deficiency (factor II, VII, IX, X) - Cholestasis or malnutrition
+  - Decompensated cirrhosis (reduced synthesis)
+  - Inherited factor VII deficiency
+- **Evaluation and Mx:**
+  - Repeat and confirm
+  - Look for Hx of warfarin use
+  - Look for eatures of cholestasis (obstructive jaundice), liver disease and workup thoroughly
+  - Treatment:
+    - Parenteral vitamin K to correct coagulopathy
+    - Overwarfarinization - Parenteral vitamin K + FPP or Prothrombin complex concentrate (concentrate of vitamin K dependent coagulation factors)
+
+# Approach to Isolated Prolonged aPTT
+
+- **DDx of isolated prolonged aPTT:**
+  - Drug-induced coagulopathy -Heparin
+  - Congenital - Haemophilia A/B, Von Willebrand disease
+  - Acquired - Acquired haemophilia A
+- **Evaluation and Mx:**
+  - Repeat and confirm
+  - In the absence of clinical bleeding - consider heparin contamination (blood drawn from catheter) or lupus anticoagulant (APLS), or factor XII deficiency (10% of population)
+  - In the presence of clinical bleeding:
+    - Inherited causes - Von Willebrand disease (both sex) and haemophilias (men)
+    - Acquired causes - Acquired Haemophilia A (both sex)
+  - Management:
+    - Congenital haemophilia A/B - factor concentrates (plasma derived or recombinant)
+    - vWD - DDAVP
+
+# Approach to Prolonged PT and aPTT
+
+- **DDx of prolonged PT and aPTT:**
+  - Disseminated intravascular coagulopathy (DIC)
+  - Extreme liver decompensation w/ cholestatic component
+  - Extreme vitamin K deficiency
+  - Overwarfarinization
+  - Factor X deficiency and hypo/dys-fibrinogenemia (rare)
+- **Evaluation and Mx:**
+  - Repeat and confirm
+  - Consider and confirm DIC - test for fibrinogen, D-dimer, platelets +/- schistocytes
+    - Typical clotting profile (seldom fullblown, requires clinical suspicion) - ↑PT, ↑aPTT, ↓fibrinogen, ↓platelet + schistocytes
+  - Management:
+    - FFP in active bleeding
+    - Treat underlying cause

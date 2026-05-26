@@ -1,0 +1,51 @@
+---
+type: main
+---
+# Neuropathic Pain
+
+- **Definition** - pain a/w injury, disease, or surgical section of the peripheral or central nervous system
+- **Epidemiology** - common (~ 1%) although under-recognised condition
+- **Clinical features of neuropathic pain:**
+	- _Site_ - abnormal site characterised by:
+		- Absence of ongoing tissue damage
+		- An area of sensory loss (anasthesia dolorosa)
+	- _Onset_ - chronic, +/- delayed in onset of pain after nerve injury
+	- _Character_ - variable:
+		- Burning pain
+		- Shooting pain
+		- Electric pain
+		- Stabbing pain
+	- _Radiation_ - radiating electric shock-like pains in nerve distribution (i.e. Tinel's sign)
+	- _Associated symptoms_:
+		- Hyperalgesia - increased pain w/ minimal pain stimulation
+		- Allodynia - pain on light touch
+		- Dysaesthesia - e.g. ants crawling on skin
+		- Regional autonomic instability (reflex sympathetic dystrophy/ CRPS) - pallor or cyanosis, excessive warmth or cold, increased or decreased sweating
+- **Neuropathic pain states:**
+	- Post-herpetic neuralgia
+	- Spinal cord injury pain
+	- Plexus tumour infiltration (e.g. pancoust tumour)
+	- Diabetic/ alcoholic peripheral neuropathy
+	- Post-stroke pain
+	- Arachnoiditis
+	- Trigeminal neuralgia
+	- Atypical facial pain
+	- Phantom limb pain
+	- Complex regional pain syndrome I (refelx sympathetic dystrophy)
+	- Complex regional pain syndrome II (causalgia)
+- **Mx:**
+	- **Principles of Mx:**
+		- _Initial pain relief_ - traditional analgesics such as aspirin, paracetamol or an NSAID
+		- _Analgesic adjuvants for neuropathic pain_ - tricyclic antidepressants, anti-epileptics
+	- **Approach to analgesic adjuvants:**
+		- _Dosing_ - started in low dose and increased as necessary to maximum or maximally tolerated dose
+		- _Other clinical considerations_:
+			- Nature of pain - TCAs for burning pain, and anti-epileptics for sharp shooting pain
+			- Underlying condition - carbamazepine preferred for trigeminal neuralgia, duloxetine considered for diabetic neuropathy, gabapentin has evidence for post-herpatic neuralgia and diabetic neuropathy
+	- **Dosing of analgesic adjuvants:**
+		- _Amitriptyline_ - 10-25 mg PO nocte increase q7d to max 75-100 mg
+		- _Duloxetine_ - 30 mg PO od (max 60 mg/d)
+		- _Carbamazepine_ - 50-100 mg PO bd (max 400 mg bd max)
+		- _Gabapentin_ - 100-300 mg PO od increasing as tolerated to tds (max 2400 mg/d dose reduction in CKD)
+		- _Pregabalin_ - 75 mg PO od (max 300 mg bd)
+		- _Valproate_ - 200-600 mg PO bd

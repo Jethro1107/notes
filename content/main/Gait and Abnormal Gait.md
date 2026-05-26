@@ -1,0 +1,124 @@
+---
+id: fe396484-adbf-43d0-85d0-16eb4b6edf9a
+title: Gait and Abnormal Gait
+---
+
+# Gait and Abnormal Gait
+
+- **Definition** - abnormal gait may arise from neurological disorders or pain from skeletal abnormalities which must be distinguished
+- **Epidemiology** - gait and balance problems are common in elderly and contribute to fall risk and injuries:
+	- _Prevalence_ - 15% in all individuals > 65y (and increasing in age)
+	- _Demographic_ - increasing prevalence w/ age:
+		- Gait disorders seen in > 40% of those >= 85y
+		- 25% of those > 80y will require some form of walking aid to assist w/ ambulation
+	- _Morbidity_ - major risk factor for falls ad injuries
+- **Anatomy and physiology of the upright bipedal gait** - requires successful integration of 1) locomotion, 2) postural control:
+	- **Locomotion** - function widely distributed in the central nervous system:
+		- _Spinal/ central pattern generators_ (CPG) - e.g. locomotor centres in the pontine tegmentum, midbrain, and subthalamic region; locomotor synergies involved in generation of rhythmic movement such as stepping and walking w/ higher cortical input
+		- _Higher cerebral control_ - inputs from forebrain, cerebellum, brainstem modify the action of the CPG to provide the **goals and purposes of walking**, involved in avoidance of obstacles and adaptation of locomotor programes to context and terrains
+	- **Postural control** - maintenance of center of mass over the base of support during the gait cycle:
+		- _Sensory information for postural control_ - primarily provided by 1) **visual system**, 2) **vestibular system**, and 3) **proprioceptive receptors from muscles and joints**, which provides a **redundancy of sensory information**, but comprimise of 2/3 pathways is sufficient to comprimise standing balance (N.B. Rhomberg test)
+		- _Central processing for dynamic balance_ - poorly defined, but clinically requires vestibuar nucleus and midline cerebellum
+	- **Cognitive impairment**  - while walking appears to be an unconscious and autonomous task, there is a growing body of literature that complex attention and executive planning is required to manage gait and balance:
+		- Older patients w/ cognitive impairment appear to be particularly prone to falls and injury
+		- Dual task walking (e.g. walking while performing a congnitively demanding task) is comprimised in elderly
+		- Decline in gait speed and memory are increasingly associated w/ risk of dementia in older adults
+- **Classification of gait disorders** - often significant overlap often exists:
+	- _Neurological gait disorders_ - can occur in may neurological disease at every level, reflecting large network of neural systems involved in the task
+	- _Non-neurological gait disorders_ - antalgic gait, gait disorders due to orthopaedic deformities, gait adaptive to impaired vision
+- **Heterogeneity of gait disorders in clinical practice, but may look fundamentally similar:**
+	- Due to a common pattern of adpatation to threatened balance and declining performance
+	- Unique features of the failing gait will be overwhelmed by the adaptive response
+	- The gait disorder clinically must be viewed as _the product of a neurological deficit and functional adaptation_
+- **Assessment of gait:**
+	- Primarily observational in clinical settings
+	- Quantitative gait analysis (e.g. instrumented walkways, motion capture systems, wearables)
+- **Neurological gait disorders classified by etiology:**
+	- ![[Pasted image 20260516125421.png]]
+- **Cautious gait** - rather common in the elderly (> 1/3 of older patients w/ gait impairment):
+	- _Pathophysiology_ - an adaptation to a potential underlying gait disorder: 
+		- A non-specific adaptation to a perceived postural threat (the underlying disorder)
+		- May or may not be a/w a fear of falling
+	- _Features of gait_ - slowed gait as if walking on a slippery surface:
+		- **Stride length** - abbreviated
+		- **Base of support** - lowered centre of mass, wide-based
+		- **Arms** - abducted
+- **Stiff-legged gait** (Spastic gait and dystonic gait):
+	- _Pathophysiology_ - UMN lesion, reflecting a comprimise of corticospinal command and overactive spinal reflexes
+	- _Features of gait_:
+		- **Leg swing** - circumduction, scuffing of the feet +/- scissoring gait
+		- **Arms** - flexed position and ?adducted (if cerebral spasticity)
+	- _Causes of stiff-legged gait_:
+		- Cerebral disorders - e.g. stroke, multiple sclerosis, motor neuron disease, perinatal CNS injury
+		- Spinal cord disorders - compressive myelopathy (e.g. cervical myelopathy), non-compressive myelopathy
+		- Dystonia - rare and often has a genetic basis (ocassionally a/w parkinson's disease if assymetrical)
+- **Parkinsonism, freezing gait, and other movement disorders:**
+- **Frontal gait disorder** (higher level gait disorder):
+	- _Pathophysiology_ - higher level motor control disorder (not apraxia)
+	- _Features of gait_ - extremely resembles parkinsonism (hence termed 'lower-body parkinsonism'):
+		- **Base of support** - wide-based
+		- **Stride length** - short/ shuffling gait
+		- **Velocity** - very slow
+		- **Other features** - gait initiation failure (slipping crutch syndrome), reduced arm swing
+	- _Causes of frontal gait disorder_:
+		- Subcortical vascular disease (> 75% of subcortical vascular dementia have gait abnormalities, along w/ dysarthria, pseudobulbar affect, increased tone, and hyperreflexia of LL)
+		- Normal pressure hydrocephalus (presentation as a similar gait disorder w/ mental changes and incontinence)
+		- Other neurodegenerative disorders
+- **Cerebellar gait ataxia:**
+	- _Pathophysioogy_ - especially midline cerebellum disorders
+	- _Features of gait_:
+		- **Base of support** - wide-based (extreme imbalance if narrow/ tandem stance)
+		- **Stride length and velocity** - variable and appears drunken, w/ erratic foot placement (ocassionally short ocassionally long)
+		- **Other features:**
+			- Difficulties in turning
+			- Considerable variation in fall risk in later life
+	- _Causes of cerebellar gait ataxia_:
+		- Stroke
+		- Trauma
+		- MSA
+		- Alcohol
+- **Sensory ataxia:**
+	- _Pathophysiology_ - limited proprioceptive afferants
+	- _Features of gait_ - e.g. stomping gait
+	- _Causes of sensory ataxia_ - all sensory neuropathy (classically B12 deficiency or tabes dorsalis)
+- **Pyramidal gait** - <u>UMN lesion</u> resulting in characteristic <u>extension of the LL</u>:
+    - Inability to flex the knee joint on the affected side results in a <u>tendancy for the toes to strike the ground on walking</u>
+    - Compensatory <u>circumduction</u> of leg to swing outward of the hip is neccessary to clear the ground
+    - In **unilateral UMN lesion** (e.g. hemiparesis), <u>asymmetry between the two sides</u> when walking is obvious, while worn-out shoe on toe side may give clues as to where the lesion is
+    - In **bilateral UMN lesions** (e.g. paraparesis), both lower limbs circumduct slowly and are unable to clear the ground, and are dragged stiffly over the ground (<u>walking in mud</u>)
+- **Foot drop** - <u>LMN lesion of the leg</u> resulting in <u>severe weakness in ankle dorsiflexion</u>, which is necessary for <u>heel to strike the ground first in normal gait</u>:
+    - Weakness of ankle dorsiflexion results in <u>uncontrolled descent of the leg during swing phase</u>, resulting in a slapping noise when foot strikes the groud
+    - Compensatory <u>high stepping gait</u> enables foot to be lift higher at the knee, to allow for inadequately dorsiflexed foot to clear the ground
+- **Myopathic gait** - proximal muscle weakness results in <u>inadequate hip abduction</u> which is necessary for normal gait:
+    - **Rolling or waddling gait** manifests as <u>exagerated trunk movement</u> to swing the leg forward
+- **Ataxic gait** - gait arising from ataxia, due to disorders of the cerebellum, vestibular apparatus, or peripheral nerves (particularly in propioception):
+    - **Wide-based gait** (or inability for **heel-to-toe walk**) arises when the <u>vermis</u> (central portion of cerebellum) or its inputs from <u>vestibular apparatus</u> is comprimised
+    - **Stamping gait** arises in peripheral neuropathy resulting in <u>impairment of proprioception</u>, characterised by placing the ground w/ greater emphasis
+- **Apraxic gait** - inability to formulate motor act of walking despite normal neurological examination reflecting diffuse frontal lobe disease (e.g. NPH):
+    - Normal tone, power, reflexes, cerebellar function and prioprioception of the legs
+    - Inability to formulate motor act of walking due to higher cerebral dysfunction, feet hence appears <u>stuck to the ground</u> and cannot walk
+- **Marche a petis pas** - minor UMN lesions pressumed to originate from small-vessel cerebrovascular disease:
+    - <u>Slow, small steps w/ marked instability</u> but <u>differs from festination</u> by the absence of increasing pace (shuffling) or freezing (no problem w/ initiation)
+    - Presence of <u>UMN signs</u> suggests disease may be cerebral in origin
+- **Extrapyramidal gait** - due to basal ganglia dysfunction seen in parkinsonism (see details in notes on parkinsonisn)
+- **Antalgic gait** - due to skeletal abnormalities resulting in pain:
+    - <u>Shortened stance phase on affected side</u> as a result of pain
+- **Salient points of Hx:**
+	- **HPI** - characterise initial onset and progression of disease, as well as associated sequelae:
+		- _Onset and progression_:
+			- Stepwise evolution or sudden progression suggests vascular disease
+			- Slowly progressive instability may be noted retrospectively, but initial awareness usually occurs after falls
+		- _Sequelae_ - falls and injuries
+	- **Associated Sx:**
+		- _Focal neurological deficits_ - evaluation of weakness, numbness, incoordination etc.
+		- _Urinary Sx_ - urinary urgency or incontinence important w/ C-spine disorders and NPH
+		- _Bowel Sx_ - a/w C-spine disorders, and Parkinson's disease
+	- **Other contributory factors to falls** - esp. detailed drug and alcohol Hx
+- **P/E:**
+	- **Complete neurological examination** - localisation of lesion to help narrow the list of DDx
+	- **Gait observation** - begins when the patient enters the consultation room, and as patient rises from chair:
+		- _Rising from chair_ - good functional assessment of balance
+		- _Gait observation_ (note cadence, velocity, stride length) - characteristic abnormalities are sometimes seen although they may look fundamentally similar
+- **Ix** - MRI:
+	- Evaluation of white matter lesions, vascular, or demyelinating diseases
+	- Good screening test for subdural haematoma

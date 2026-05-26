@@ -1,0 +1,263 @@
+---
+id: aaf9092e-7896-4ce7-a887-f70827184189
+title: 2025-04-16
+---
+
+- [[Upper GI Endoscopy - Literature Search on UpToDate]]
+- [[Gastro-esophageal Reflux Disease and Barrett's Esophagus - Literature Search on UpToDate]]
+
+# GC201: Skin ulcers, skin and subcutaneous lesions, skin cancer <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span> <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- Diagnosis - can be spot diagnosis
+- Salient points of Hx:
+    - Normal HPI - Onset, progression, previous episodes etc.
+    - Associated Sx - Sx related to malignancy:
+        - Pain
+        - Discharge
+        - Contact bleeding
+        - Ulceration
+        - Pruritis
+- P/E:
+    - Examination of lumps and bumps - inspection, palpation
+        - Inspection - Site, size, shape, skin changes
+        - Palpation:
+            - Consistency - soft, firm, hard
+            - Surface - smooth, bumpy
+            - Border - regular or irregular
+            - Tenderness, temperature
+            - Pulsatility or thrills (suggestive of vascular)
+            - Emptying/ comppressibility - suggestive of venous malformation
+            - Mobility - skin or deep fixation:
+                - Cutaneous vs subcutaneous lesion –\> pinch test
+                - Deep fixation - tense muscle
+            - Transillumination
+- Mx - dependent on Ddx (see slides)
+
+## Skin anatomy
+
+- Epidermis - 3-5 cell thicks, with impermeable stratum corneus
+- Dermis - - 0.8-2.5 mm thick, fibrous and tough
+- Hypodermis - indistinct fibrofatty layer between dermis and subcutaneous lesions, containing adnexal structures
+- Subcutaneous fat
+
+## Common warts
+
+- HPV lesion, multiple spiculated lesions
+- Mx - conservative (benign), cauterisation/shaving/ ablation (cosmesis)
+
+## Corn and callouses
+
+- massive thickening of stratum corneum
+- Due to chronic trauma/ irritation
+- Corn - smaller, well defined edge (square-shouldered)
+- Callous - larger, more diffuse, slope-shouldered
+- Mx:
+    - Removal of irritation
+    - Curretage or keratolytic agent (10-20^ salicylic acid)
+
+## Common cystic lesion
+
+- Sebaceous (epidermoid) cyst:
+    - <u>Hemispheric, cystic cutaneous lesion with punctum</u>
+    - P/E - pinch test (typically cannot pinch up the skin)
+    - Site - everywhere except palm and plantar region
+    - Pathology - true cyst (i.e. epithelial lining) of hair follicle origin
+        - Content of cyst - cheesy, keratin material, not sebum
+        - My get infected - tender and erythematous
+        - If multiple - Gardner's syndrome, a/w osteoma, fibromas, intestinal fibromatoses, lipoma, leiomyomas, polyposis coli
+    - Mx - excision ?with elipticoid incision (ABx +/- I&D if infected)
+- Implantation dermoid - palm and hand region:
+    - Hx of trauma - epidermal fragment driven into dermis by penetrating injury
+    - Tensely cystic
+- Dermoid cyst:
+    - Site - congenital cystic lesion growing slowly over embryonic fusion lines, e.g. midline of scalp, external angle of eye, lower mandible
+    - Pathology:
+        - Keratin, hair, sebaceous glands
+    - Mx - Tx by excision
+
+## Keratotic lesions
+
+- Seborrheic keratosis:
+    - Plaque like lesion stuck on skin
+    - P/E - brownish-black, raised, well-marginated, feels wazy and irregular
+    - Pathology - basal cell proliferation
+    - Mx - cryotherapy, curettage, shaving, excision
+- Actinic keratosis - sun-damaged skins
+    - P/E - dry, scaly, crusty top over erythematous base
+    - Pathology - hyperkeratosis and acanthosis of sun-exposed areas, may be pre-malignant
+    - Mx:
+        - Incisional Bx - r/o malignancy
+        - Excision
+- Keratoacanthoma - unpigmented lesion with central dome of keratin
+    - Natural Hx - rapid progression for a few weeks and becomes static, followed by involution, mimicks SCC
+    - Treatment - excisional Bx
+
+## Naevi
+
+- Melanocytic naevi:
+    - Classification:
+        - Junctional vs compound vs intradermal
+        - Congenital vs dysplastic vs other
+    - Definition - ?moles
+    - Low risk of malignancy except in:
+        - Dysplastic naevus esp FHx and PMH
+        - Giant congenital melanocytic naevus
+        - new onset \> 50y, \>2mm size
+    - DDx - melanoma, BCC, seborrheic keratosis
+    - Mx - Bx if doubtful
+- Dysplastic naevi:
+    - Colour - non homogenous (speckled pigmentation), Border - irregular
+    - Two major groups:
+        - Sporadic vs familial
+- Dermatofibroma (read slide) and dermatofibrosarcoma protuberans
+- Neurofibroma:
+    - Solitary - subq
+    - Multiple - sessile and pedunculated
+- Neurofibromatosis - NF-1 vs NF-2 (self learn)
+- Lipoma:
+    - Soft lobulated subcutaneous lesion
+    - Pinch test - can pinch skin
+    - Mobility - test over horizontal and vertical dimension (test before and after muscle contraction, i.e. check for muscle involvement)
+    - Mx:
+        - Excision - with linear incision
+        - Liposuction
+    - Risk of malignant change (liposarcomatous changes) - e.g. pain, rapid enlarging, skin changes
+
+## Vascular anomaly
+
+- ISSVA classification:
+    - Vascular tumour (rapidly proliferating endothelium) vs vascular malformation
+    - For vascular malformation - based on site (i.e. capillary, AV, venous, lymphactic)
+- Hemangioma - read table in slides
+- Vascular malformation - AVM vs VM:
+    - Schobinger Staging of AVM
+
+## Skin tags
+
+- Skin tags - Loose connective tissue core w/ normal covering squamous epithelium (pigmented or keratinised)
+- Cutaneous horn
+- Pyogenic granuloma
+- Xanthelesma
+
+## Benign tumours of epidermal appendages
+
+## Pre-malignant skin lesions
+
+- Bowen's disease
+- Paget's disease of nipple
+- Extramammary Paget's disease - peno-scrotal/ axillary area
+- Xeroderma pigmentosa, albinism
+- Chronic unstable scar
+
+## Skin cancers
+
+- BCC - most common skin cancer:
+    - Pathophysiology - excessive sunlight exposure on sun-exposed areas (e.g. face, scalp, neck, dorsum of hand, forearm)
+    - Predisposing conditions - XP, Albinism, Gorlin syndrome, saebaceous naevus
+- SCC
+- Melanoma
+
+# GC190: I have a scald, Burn <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span> <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- Function of skin:
+    - Protect from infection and injury
+    - Prevent loss of body fluids
+    - Regulation of body temperature
+    - Sensory contact with environment
+- Pathophysiology of burns - Jackson's model
+    - Local tissue injury - Jackson's model:
+        - Coagulation (central) - coagulation necrosis of cells
+        - Stasis (middle) - injured cells with decreased blood flow
+        - Hyperaemia - area of minimal injury
+        - Principle of Mx - prevent zone ost stasis from progression to zone of coagulation
+    - Systemic inflammatory response syndrome - leakage of cytokines
+- Burns:
+    - Describe:
+        - Mechanism of injury - i.e. types of burns (flame, electric, scald, chemical, radiation)
+        - Extent and distribution
+        - Total body surface area
+- Clinical assessment:
+    - Initial assessment - ABCDE
+    - Burn wound assessment
+    - Associated injuries
+- Burn wound assessment:
+    - Extent - in terms of TSBA % (figure of 9 burn distribution to estimate % TSBA) 
+    ![](../img/figure_of_9_burns.png)
+    - Depth - 3-4 degrees (read table of slides)
+
+## Management of burn
+
+- Surgical debridement for full thickness burns and cover with partial thickness skin graft from thigh
+- Circumferential burns - i.e. causes outer layer of constricting skin
+    - Sites - limbs, chest wall and abdomen (affects respiration)
+    - Clinical features:
+        - Palpation
+        - Capillary refill and distal pulses
+        - Features of ischaemic lmb (?comparatment syndrome not a result of circumferential burn apparently) - numbness and tingling
+    - Mx of circumferential limb - escharotomy to enable soft tissue to swell
+        - Perform bedside w/ diathermy cautery, should be bloodless due to necrosis
+- +/- Amputation for 4th degree burn
+- Fluid resuscitation - least amount of fluid necessary to maintain adequate tissue and organ perfusion:
+    - Monitoring - keep UO 0.5ml/kg/hr
+    - Parkland formula:
+        - Crystalloid - NS or lactated ringers
+        - 2-4 ml x body weight x TBSA (coefficient dependent on comorbidities and then titrate against urine output)
+            - first half given within first 8h post injury - note the time of injury (not admission)
+            - 1/2 - given in next 16h
+    - Caution:
+        - Underesuscitation
+        - Overresuscitation - fluid creep
+- Inhalation injury - dysfunction of respiratory tract in first 5d after inhaling smoke and irritating products of incomplete combustion
+    - Pathophysiology - oedema and spasms –\> risk of airway obstruction
+    - Salient points of Hx:
+        - GCS
+        - Noxious chemicals closed space
+    - P/E:
+        - Singed facial hair
+        - Carbonaceous sputum
+        - Hoarseness
+    - Mx:
+        - Prophylactic airway protection
+        - Humified high flow O2 - mx of CO poisoning
+
+## Electric burn
+
+- Difficulty to Dx - grand masqueraders with limited skin involvement
+- Classification:
+    - Voltage - high vs low
+    - Current - AC vs DC
+    - Pathway of flow - arcing/ flash
+    - Duration of content
+    - Local tissue resistence
+- Read up pathophysiology –\> essentially least resistance in muscle –\> muscle ischaemia and oedema –\> rhabdomyolysis, compartment syndrome
+- Read up clinical assessment in slides
+
+## Chemical burns
+
+- Types:
+    - Alkali - causes liquefaction necrosis and protein denaturation
+    - Acids - coagulation necrosis and protein precipitation
+    - Organic compounds - fat solvent action +/- nephro- hepato- toxicity
+- Factors:
+    - Type of agent
+    - Volume
+    - Concentration
+    - Duration
+- Mx:
+    - removal of contaminated clothing
+    - immediated continuous irrigation w/ water (?dilution)
+    - early surgical debridement
+
+## Paediatric burn
+
+- Likely mechanism - scald injuries, flame burns, electric burns
+- Different pathophysiology:
+    - Relatively greater surface area per body weight - alters fluid resuscitation (not using table of 9)
+    - Thin dermal layer
+    - Impaired capacity for thermal regulation
+    - less metabolic reserve
+- Mx same as adult, but:
+    - Assessment of hypothermia
+    - Hypoglycaemia
+    - Monitoring by higher UO - 1ml/kg/h
+    - Different resuscitation and maintenace fluid (read slides)

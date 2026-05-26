@@ -1,0 +1,13 @@
+---
+id: 7f56a9dd-11ba-4e8b-bc25-b5af108bfc08
+title: Hyperglycaemia in Acute Myocardial Infarction
+---
+
+# Hyperglycaemia in Acute Myocardial Infarction
+
+- **Definition** - hyperglycaemia often found in patient who have sustained an acute myocardial infarction
+- **DDx of hyperglycaemia in AMI:**
+    - Stress hyperglycaemia - due to increased insulin resistance in physiological stress (i.e. catecholamine-mediated insulin resistance), and subsequent OGTT will reveal impaired glucose tolerance
+    - Undiagnosed DM - AMI is the first presentation of the patient with DM
+    - Known DM - previously documented DM
+- **Mx** - insulin therapy for <u>near normalisation of blood glucose</u> in peri-infarct period (evidence shows reduced long-term mortality from CAD)

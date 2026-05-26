@@ -1,0 +1,65 @@
+---
+id: 39719552-c32b-4875-9387-baa22947462d
+title: Cervical Intraepithelial Neoplasia
+---
+
+# Cervical Intraepithelial Neoplasia
+
+- **Definition and terminology** - in the Bethesda system, different terminology are used for cytological (Pap smear), and histological (on biopsy) findings:
+  - <u>Cervical intraepithelial neoplasia</u> (CIN) - defined histologically as a pre-malignant condition of the uterine cervix w/ squamous abnormalities, to be differentiated from atypical glandular cells on cervical smear, or cervical adenocarcinoma in situ
+  - <u>Squamous intraepithelial lesion</u> (SIL) - defined cytologically as the presence of dysplastic cells on pap smear
+
+  
+  ![](~/Documents/notes/img/terminology_and_histology_of_cervical_intraepithelial_neoplasia.png)
+- **Epidemiology:**
+  - <u>Incidence</u> (US data from screening) - 4% are CIN1 (LSIL), 5% are CIN2-3 (HSIL)
+- **Pathogenesis of cervical intra-epithelial neoplasia:**
+  - **Human papillomavirus infection** - major etiological <u>agent necessary, but not insufficient for carcinogenesis</u>; association is so strong, that most other behavioral, sexual, and socieoeconomic co-variables are <u>found to be dependent on HPV</u> and do not hold up as independent risk factors:
+    - <u>Low-risk genotypes</u> (HPV 6 and 11) - infection by low-risk genotypes do not integrate into the host genome, and only cause condyloma acuminatum (accounts for 90% of genital warts), and CIN1 (10% of LSIL on cytology)
+    - <u>High-risk genotypes</u> (HPV 16, 18, and many more) - strongly associated in development of high-grade lesions and invasive carcinomas, accounting for 25% of CIN1, 50-60% of CIN2-3, and 70% of cervical cancers
+  - **Persistence of HPV infections** - persistence of infections is necessary for development of CIN, with the likelihood of persistence being related to:
+    - <u>Older age</u> - 50% of those w/ high-risk HPV persist in patients \> 55y compared w/ 20% in those \< 25y
+    - <u>Duration of infection</u> - a strong predictor of persistence and time necessary to clear
+    - <u>HPV subtype</u> - high-risk HPV subtypes are more likely to persist than low-risk HPV subtypes
+  - **Co-factors of pathogenesis:**
+    - <u>Immunosuppression</u> - increased risk of CIN likely due to inability to clear the infection
+    - <u>Cigarette smoking</u> - appears to have a synergistic effect w/ HPV infections in development of CIN and carcinoma
+- **Mx:**
+  - **Principles of Mx:**
+    - **General appraoches to Mx** - observation vs definitive Mx:
+      - <u>Observation</u> - close observation w/ repeated cervical cytology, HPV testing +/- colposcopy as indicated
+      - <u>Definitive Tx</u> - excisional or ablative Tx of the cervical transformation zone
+    - **Considerations for appropriate Mx** - dependent on 1) risk for progression to cancer, 2) treatment-related morbidity, 3) likelihood of compliance:
+      - <u>Risk of cancer progression</u>:
+        - Age - \< 25y typically have a lower risk of developing cervical cancer than patients \> 25y (although it is rare for histological confirmation of CIN as cytology not performed)
+        - CIN grade - CIN1 is low-grade and has high potential for regression, while CIN2-3 is high-grade and has high potential for progression to malignancy
+      - <u>Treatment-related morbidities</u> - major S/E includes adverse pregnancy outcomes, and plans for pregnancy must be balanced w/ risk of progression
+      - <u>Likelihood of compliance</u> - patients unable to comply to repeated cytology, HPV testing and colposcopy should be referred to definitive Tx
+      - <u>Preceeding cytological results</u> - discordance between cytology and histology (e.g. ASC-H or HSIL but CIN1 on colposcopy) should lower threshold for definitive Tx as the concern is that an underlying high-grade lesion is missed on colposcopy
+    - **Mx of CIN1:**
+      - <u>CIN preceded by LSIL or less</u> - conservative Mx w/ repeat cytology and HPV testing
+      - <u>CIN preceded by ASC-H</u> - conservative Mx w/ repeat cytology and HPV testing preferred if entire SCJ is visible on colposcopy
+      - <u>CIN preceded by HSIL</u> - diagnostic excisional procedure is preferred, especially if not the entire SCJ and lesion is visible on colposcopy
+    - **Mx of CIN2,3** - definitive Tx is preferred
+  - **Excision vs eblation** - loop electrosurgical excision procedure (LEEP) has largely replaced practice of ablation as it provides histological specimen for review; considerations include:
+    - <u>Efficacy of Tx</u> - excision is a/w lower rates of treatment failure, lower rates of disease persistence in meta-analyses
+    - <u>Necessity of histological specimen</u> - often required for high-risk lesions, high risk of invasive disease, or when there is diagnostic uncertainty
+    - <u>Pregnancy-associated morbidity</u> - patients planning future pregnancy may choose to avoid excision as associated w/ increased risk of adverse obstetric outcomes
+  - **Loop electrosurgical excisional procedure** (LEEP) - also known as large loop excision of transformation zone:
+    - <u>Complications</u>:
+      - Early complications - intra-operative and post-operative bleeding, infections
+      - Late complications - cervical stenosis, cervical incompetence, adverse obstetrics outcome (PROM, premature labour, low-birth weight)
+- **Prevention:**
+  - <u>Primary prevention</u> - prophylactic vaccination against oncogenic HPV infections
+  - <u>Secondary prevention</u> - pap smear aimed at cervical cancer rather than CIN
+- **HPV vaccination** - prevention of high-risk HPV infection theoretically can prevent cervical cancer:
+  - <u>Different types of HPV vaccines</u>:
+    - Bivalent - 16 and 18
+    - Quadrivalent - 6, 11, 16, 18
+    - Nonavalent - 6, 11, 16, 18, 31, 33, 45, 52, 58
+  - <u>Scheduling</u> - 2-dose scheduling within 6-12mo apart is currently gold standard as recommended by WHO:
+    - Historically, a 3-dose vaccination schedule is used
+    - Currently, single-dose schedule is under investigations w/ suggested comparative efficacy, which may simplify vaccination programmes
+  - <u>Current recomendations</u> - HPV vaccination program for P5-6 girls started in 2019:
+    - 2-dose regimen for \< 15y
+    - 3-dose regimen for \> 15y

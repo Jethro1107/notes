@@ -1,0 +1,125 @@
+---
+id: 76c6eaa9-66e5-4f48-bcc6-1b1e48798465
+title: Breast Mass
+---
+
+# Breast Mass
+
+- **Definition** - a nodule or growth of tissue representing aggregation of coherent material, which may be benign or malignant
+- **Clinical manifestation of breast mass:**
+    - <u>Palpable breast mass</u> - discovered by patient incidentally, during routine examination, or by a clinician
+    - +/- <u>Presence of other features</u>:
+        - Skin changes
+        - Nipple discharge
+        - Mastalgia
+        - a/w trauma
+- **DDx of palpable breast mass** - classified into benign or malignant:
+    - **Benign breast mass:**
+        - <u>Non-proliferative lesions</u> - simple breast cyst, galactocele. papillary apocrine changes, mild hyperplasia of the usual type
+        - <u>Proliferative lesions</u> - usual ductal hyperplasia, intraductal papillomas,sclerosing adenosis, radial scars, fibroadenomas, adenomas, pseudoangiomatous stromal hyperplasia
+    - **Malignant breast mass** - CA breast (e.g. DCIS, Invasive ductal carcinoma, Invasive lobular carcinoma, rare histological subtypes etc.), other malignancies (e.g. phylloides tumour, lymphoma, sarcoma)
+- **Salient points of Hx** - HPI, associated Sx, and related risk factors for breast cancer:
+    - **HPI** - site, number, onset, progression, pain, timing of occurence, association with trauma:
+        - <u>Site</u> - unilateral vs bilateral, precise location
+        - <u>Number</u> - number of mass felt by patient
+        - <u>Onset</u> (Duration of Sx) - how long since the mass is first noticed? How is it initially detected?
+        - <u>Progression</u> - any changes in size such as progressive increase in size, no change or fluctuating size?
+        - <u>Pain</u> - is it associated with mastalgia, if so, whether it is symmetrical?
+        - <u>Timing occurence</u> - does the mass wax and wane with menstural cycle?
+        - <u>Trauma</u> - is there Hx of trauma to the breast (e.g. seat belt, direct injury)? Note that trauma may be the precipitating event to detection of an existing breast lesion, not causing the lesion itself.
+    - **Associated Sx:**
+        - <u>New nipple inversion</u> - has the patient noticed any new nipple inversion?
+        - <u>Nipple discharge</u> - if present, note the laterality, colour, consistency, frequency, timing, and sponteneity of discharge
+    - **Risk factor assessment:**
+        - <u>Genetic risks</u> - +ve FHx in 1st/ 2nd degree relatives (early age of onset suggestive of hereditary causes)
+        - <u>Hormonal risks</u> - lifetime estrogen exposure:
+            - **Menstrual Hx** - early menarche, late menopause
+            - **Gestational Hx** - parity, age of 1st pregnancy, breast feeding Hx
+            - **Drug Hx** - OC pills, HRT
+            - **Other malignancies** - e.g. functional ovarian tumours
+    - **Previous screening** - any mammographic screening performed in the past
+- **P/E** - examination of the breast, axilla, and neck
+- **Ix and Dx evaluation of breast mass** - triple assessment for suspected breast cancer:
+    - **Triple assessment** - combines clinical (Hx & P/E), radiological and pathological assessment, which achieves <u>\>= 99% diagnostic accuracy</u>:
+        - <u>Clinical assessment</u> - Hx, P/E suggestive lesion is malignant, and presence of risk factors
+        - <u>Radiological assessment</u> - varying modalities from mammography, USG, and MRI breast depending on indications, and risk for malignancy is expressed by the <u>BI-RADS categories</u>
+        - <u>Pathological assessment</u> - pathological assessment using core needle biopsy (preferred), FNAC, or surgical biopsy for histological correlation
+    - **Radiological assessment:**
+        - **Modalities:**
+            - <u>Mammography</u> - MLO and CC view of both breast taken via X Ray (often used as a screening tool)
+            - <u>Ultrasound</u> - breass ultrasound and axillary ultrasound
+            - <u>MRI breast</u> - indicated for selected patients only (see below)
+        - **Considerations:**
+            - <u>Age of patient</u> - younger patients have 1) denser breasts, and 2) higher chance of lesion to be benign:
+                - **Young age** (\< 30y) - <u>US breast</u> preferred as likely to have benign lesions (\< 1% risk of malignancy) which are often mammographically occult
+                - **Intermediate age** (30-39y) - usually initially start with <u>US breast</u>, followed by <u>mammography</u> as the former has higher Sn in this age group (96% vs 61%)
+                - **Older age** (\> 40y) - usually start with <u>mammography</u> followed by <u>US breast</u> as indicated
+        - **Mammography** - soft tissue radiographs of different views after compression to reduce artifects:
+            - **Role** - role in screening and diagnosis of breast cancer
+            - **Test properties** - Increasing Sn with age (since less dense)
+            - **Views** - breast compressed to reduce artefacts from overlapping tissues:
+                - <u>Mediolateral oblique (MLO) view</u> - breast positioned and compressed from the side at an onlique angle (i.e. view superolateral and inferomedial) to capture the axillary tail
+                - <u>Craniocaudal (CC) view</u> - breast positioned and compressed in verticle axis (i.e. view medial and lateral)
+            - **Breast compression** - adequate compression is necessary for 1) increasing contrast, 2) decreasing radiation dose:
+                - <u>Principles</u> - homogenous breast thickness enabling uniform x-ray penetration, thus increasing contrast
+                - <u>Adequate compression</u> - applied until breast held firm and immbobile (some will experience pain which can affect image quality)
+            - **Radiation dose** - kept minimal (0.7 mSV, equivalent to dose received from <u>natural background for 3mo</u>)
+            - **Interpretation:**
+                - <u>Orientation</u> - Superior vs inferior on MLO, Lateral vs medial on CC
+                - <u>Mass</u> - description of 1) site (by quadrant), 2) size, and 3) borders, 4) density of masses seen:
+                    - **Site** - e.g. upper outer quadrant of which breast
+                    - **Size** - rough estimate by size of greatest dimension
+                    - **Borders:**
+                        - <u>Benign lesions</u> (e.g. cysts) - oval, well-circumscribed lesions
+                        - <u>Malignant lesions</u> - spiculated (PPV 81%), or irregular border (PPV 73%)
+                    - **Density** - 70% of high-density lesions turn out to be malignant, and 22% of low-density lesions turn out to be malignant
+                - <u>Microcalcifications</u> - grouped radiodense calcifications of various size and shape represent **intraductal calcifications in areas of necrotic tumours**
+            - **Features suggestive of malignancy** 2 general categories of mammographic findings suggestive of malignancy:
+                - **Soft tissue mass/ asymmetry** (non-calcified cancer):
+                    - <u>Spiculated mass</u> (highest PPV) - seen in 33% of non-calcified cancers
+                    - <u>Irregular bordered mass</u> - seen in 25% of non-calcified cancers
+                    - <u>Non-specific lobulated mass</u> - seen in 10% of non-calcified cancers
+                    - <u>Well-bordered mass</u> - seen in 10% of non-calcified cancers
+                    - <u>No obvious mass but with intra-ductal calcification</u> - seen in 5% of non-calcified cancers
+                - **Microcalcifications** - histologically represent intraductal calcifications in necrotic tumour area (certain specific patterns of calcifications are more suggestive of malignancy)
+            - **Breast Imaging-Reporting and Data System** (BI-RADS) - standardisation for reporting for all imaging (e.g. mammogram, USG) guiding further management:
+                - **Assessment categories:**
+                    - <u>BIRADS 0</u> - incomplete asseessment, requiring additional evaluation
+                    - <u>BIRADS 1</u> - Negative (0%)
+                    - <u>BIRADS 2</u> - Benign (0%)
+                    - <u>BIRADS 3</u> - probably benign (0-2%)
+                    - <u>BIRADS 4</u> - Suspicious:
+                        - 4a - low suspicion for malignancy (2-10%)
+                        - 4b - moderate suspicion for malignancy (10-50%)
+                        - 4c - high suspicion of malignancy (50-95%)
+                    - <u>BIRADS 5</u> - Highly suggestive of malignancy
+
+          
+          ![](img/birads_assessment_categories.png)
+                - **Guidance for further management:**
+                    - <u>BIRADS 0</u> - further imaging characterisation required
+                    - <u>BIRADS 1-2</u> - continue routine mammographic screening
+                    - <u>BIRADS 3</u> - short interval FU (e.g. q6mo) or continued surveillance mammography
+                    - <u>BIRADS 4-5</u> - tissue biopsy necessary
+        - **Ultrasounography** - diagnostic adjunct to routine mammography, but is useful for younger patients:
+            - **Role of US:**
+                - 1\. Further characterisation of mammographically detected masses (e.g. role of downgrading lesions, and increased test properties in terms of Sn, Sp, PPV, NPV after combined approach)
+                - 2\. Characterisation of lesion if mammographically occult
+                - 3\. Axillary US for clinically suspicious LN for FNA or core biopsy
+                - 4\. US-guided biopsy of the mass for pathological diagnosis
+        - **Breast MRI** - not routinely performed for all patients:
+            - **Indications** - very specific scenarios where mammography is limited:
+                - Node +ve disease but clinically occult tumour - identification of occult breast tumour
+                - Pagets disease of the breast with negative P/E and mammography
+                - Disconcordance between clinical and radiological assessment (e.g. clinically larger than appreciated by mammography) - better delineate locoregional disease
+            - **Test propperties** - High Sn (88-100%), but Sp criticised (72%) due to theoretical enhancement of benign tissues
+    - **Pathological assessment** - tissue diagnosis:
+        - **Indications** - for patients with BIRADS 4-5 imaging (with exception of 4a, which can consider 6mo FU)
+        - **Modalities** - choose the least invasive approach to obtain diagnostic material:
+            - FNAC - not preferred because no architectural information (e.g. LCIS vs invasive lobular cancer)
+            - Core needle biopsy - preferred approach
+            - Surgical biopsy (e.g. excisional vs incisional biopsy) - enables histological diagnosis generally avoided
+        - **Guidance** - free-hand, USG-guided, MMG-guided (stereotactic), MRI-guided: 
+        ![](img/guidance_in_breast_tissue_biopsy.png)
+        - **Comparison between FNAC and core needle biopsy:** 
+        ![](img/fnac_vs_core_bx_in_breast_cancer_dx.png)

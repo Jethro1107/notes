@@ -1,0 +1,51 @@
+---
+id: 4ce13e44-f1c8-4ab0-b01c-de68e5951f4e
+title: Polycythaemia
+---
+
+# Polycythaemia
+
+- **Definition** - raised HCT (\> 0.52 for M, \> 0.48 for F) or high Hb, reflecting an increased red cell mass
+- **Classification of erythrocytosis:**
+    - <u>Absolute erythrocytosis</u> - characterised by excessive RBC mass
+    - <u>Relative erythrocytosis</u> - characterised by normal RBC mass but low intravascular volume (a/w Gaisbock's syndrome)
+- **DDx of absolute polycythaemia:**
+    - **Primary polycythaemia** - Polycythaemia rubra vera
+    - **Secondary polycythaemia:**
+        - <u>High EPO as a response of hypoxic kidneys</u> - high altitude, cardiorespiratory disease (esp. COPD), high affinity Hb (haemoglobinopathies)
+        - <u>Inappropriate secretion of EPO in normal O2 tension</u>:
+            - Renal diseases - hydronephrosis, renal cysts
+            - Renal tumours - e.g. RCC
+            - Other tumours - hepatoma, bronchogenic carcinoma, uterine fibroids, phaeochromocytoma, cerebellar haemangioblastoma
+        - <u>Exogenous EPO source</u> - performance-enhancing drugs for athletes
+
+  
+  ![](../img/causes_of_polycythaemia.png)
+- **Indications for working up polycythaemia:**
+    - <u>Essessively high HCT</u> - \> 0.6 for M, 0.56 for F (assumed to be absolute erythrocytosis)
+    - <u>Persistent polycythaemia</u> - e.g. persistent polycythaemia irrespective of cause
+- **Approach to polycythaemia:**
+    - <u>Hx and P/E</u> - identify S/S of PRV and other MPN (e.g. aquagenic pruritis is important a specific Sx of PRV)
+    - <u>Initial Ix</u>:
+        - Routine bloods and urinalysis
+        - CBC and PBS
+        - Pulse oximetry
+        - Serum EPO
+        - +/- BM examination
+- **Ix:**
+    - **Urinalysis** - detect of <u>haematuria</u> suggestive of renal tumour
+    - **Routine bloods** - LRFT, urate, LDH:
+        - <u>LRFT</u> - to detect <u>volume contraction</u> or <u>organ dysfunctions</u> by renal or liver tumours
+        - <u>Urate, LDH</u> - detect increased cellular turnover
+    - **CBC:**
+        - <u>Hb and HCT</u> - confirm polycythaemia
+        - <u>WBC and PLT</u> - detect abnormally high PLT and WBC seen in PRV
+    - **PBS** - look for <u>leukoerythroblastic picture</u>:
+        - Teardrop poikilocytes, polychromasia and nucleated red cells
+        - Abnormal WBCs (myelocytes)
+        - Large platelets
+    - **Pulse oximetry** - detect hypoxia
+    - **Serum EPO:**
+        - <u>Raised EPO</u> - suggestive of secondary polycythaemia
+        - <u>Suppressed EPO</u> - suggestive of primary polycythaemia
+    - **BM examination** - if extremely suggestive of PRV

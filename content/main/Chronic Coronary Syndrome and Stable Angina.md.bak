@@ -1,0 +1,208 @@
+---
+id: 94fe87d7-dd33-4bde-876d-e770ce100756
+roam_parent: 279f79b3-651f-4d60-98bb-1648f5f25444
+title: Chronic Coronary Syndrome and Stable Angina
+---
+
+- **index:** [[Cardiology]]
+
+# Chronic Coronary Syndrome and Stable Angina
+
+- **Definition and terminology:**
+  - <u>Angina pectoris</u> - Sx complex that reflects **transient myocardial ischaemia** occuring whenever there is an **imbalance between myocardial demand and coronary supply**
+  - <u>Stable angina</u> - clinical syndrome resulting in **reproducible, exertional related angina**, and may be a **manifestation of any heart disease**
+  - <u>Chronic coronary syndrome</u> - clinical syndrome caused by **fixed atherosclerotic plaque in the coronary artery** resulting in **demand-driven myocardial ischaemia**
+- **Etiology of stable angina:**
+  - <u>Coronary atheroma</u> - by far the **most common** cause of angina
+  - <u>Aortic valve disease</u> - due to LVH (and inability to increased CO during periods of increased demand)
+  - <u>Cardiomyopathy</u> - particularly hypertrophic cardiomyopathy (HCM)
+- **Clinical features of stable angina** - chest pain, discomfort or breathlessness that is <u>precipitated by exertion or other forms of stress</u>, and <u>promptly relieved by rest</u>:
+  - **Chest pain** - referred pain mediated by autonomic nerves stimulated when myocardial demand exeeds cornary supply, precipitated by exertion and promptly relieved by rest:
+    - <u>Site</u> - central, diffuse, and retrosternal
+    - <u>Onset</u> - gradual onset in proportion to the intensity of exertion and typically reaches maximal intensity in several minutes or even longer in MI
+    - <u>Precipitating and relieving factors</u> - occurs during (not after) a **predictable threshold of exertion**, and promptly relieved by rest or nitrates 
+    ![](../img/activities_precipitating_angina.png)
+    - <u>Quality</u> - dull, tight, squeezing, choking discomfort
+    - <u>Radiation</u> - to the neck, jaw, upper or even lower arm, occassionally to the back
+    - <u>Severity</u> - extremely variable
+    - <u>Timing</u> - during exertion
+  - **Breathlessness** - sense of laboured breathing that accompanies chest pain, and may be the only Sx secondary autonomic neuropathy
+- **Signs of CAD** - P/E typically unremarkable:
+  - <u>Evidence of risk factors</u> - e.g. HTN (measure BP), dyslipidaemia (xanthelesma, xanthoma), and DM (acanthosis nigricans), smoking (tar stains)
+  - <u>Evidence of valvular disease</u> - esp aortic valve (ESM at LUSB of AS, EDM at LLSB of AR, note peripheral signs)
+  - <u>Evidence of LV dysfunction</u> - e.g. cardiomegaly, gallop rhythm (S3)
+  - <u>Evidence of other manifestations of atherosclerosis</u> - e.g. carotid bruits, peripheral vascular disease
+  - <u>Evidence of unrelated conditions that may exacerbate angina</u> - e.g. anaemia, thyrotoxicosis
+- **Initial Ix** - Dx and risk factor assessment:
+  - **Routine bloods** - CBC, LRFT, TFT, FBG, A1c, lipid profile (including Lp(a)) +/- CRP/ fibrinogen, troponin, NT-proBNP:
+    - <u>CBC</u> - anaemia may exacerbate angina
+    - <u>LFT</u> - baseline for initiating statin
+    - <u>RFT</u>:
+      - Baseline renal function for CTTA
+      - CKD as an additional risk factor for cardiovascular disease
+    - <u>TFT</u> - thyrotoxicosis may exacerbate angina
+    - <u>FBG/ A1c</u> - for diagnosis of DM or assessment of glycaemic control
+    - <u>Lipid profile</u> - assessment of dyslipidaemia, Lp(a) is prognostic
+    - <u>CRP</u> - additional prognostic marker but limited utility compared w/ MACE, but useful in predicting prognosis of patients already on lipid-lowering therapy
+    - <u>Fibrinogen</u> - additional prognostic marker
+    - <u>Troponin</u> - if clinical suspicion of CAD instability
+    - <u>NT-proBNP</u> - if suspecting congestive HF
+  - **Baseline cardiac assessment** - resting ECG, +/- CXR, echocardiogram;
+    - **Resting 12-lead ECG** - usually normal:
+      - <u>Old MI</u> - pathological Q waves
+      - <u>Non-specific T wave changes</u> - T-wave flattening or inversion in some lead provides non-specific evidence for myocardial ischaemia or damage
+      - <u>ST-T changes</u> - ST depression w/ or w/o T-wave inversion is most convincing evidence of myocardial ischaemia only when patient experiencing Sx
+    - **CXR** - typically only required in the acute setting of chest pain for triple rule-out
+    - **Echocardiogram** - assessment of LV function (EF) and valvular status
+- **Subsequent Ix** - anatomical and functional (stress) testing depending on clinical likelihood of CAD:
+  - **Exercise tolerance test** (ETT; exercise ECG, exercise stress test) - to <u>detect myocardial ischaemia on ECG</u> when <sub>Sx</sub> are reproduced on exertion:
+    - **Procedure:**
+      - Performed on a standard trendmill or bicycle ergometer protocol
+      - Escalation of level of exertion objectively by <u>metabolic equivalents</u> (METs)
+      - Monitor patient's <u>ECG, BP and general condition/ symptomatology</u>
+    - **+ve Findings** - ECG changes upon Sx provoked by effort:
+      - <u>Plannar or down-sloping ST segment depression \> 1mm</u> is extremely indicative of of ischaemia
+      - Up-sloping ST segment depression is non-specific and can occur in normal individuals
+
+      ![](../img/st_depression_in_exercise_test.png) 
+      ![](../img/positive_exercise_test.png)
+    - **Role in risk stratification** - poor effort tolerance or high degree of ST changes denotes high-risk stable angina
+    - **Limitations:**
+      - <u>Risk of FP</u> - +ve test results only reflect myocardial ischaemia, but the cause is unknown and may not reflect coronary artery disease, particularly in presence of 1) digoxin therapy, 2) LVH, 3) conduction abnormalities (e.g. BBB, WPW), 4) valvular heart disease
+      - <u>Risk of FN</u> - predictive accuracy in F is lower in M
+      - <u>Risk of inconclusive studies</u> - patients may not tolerate the adequate level of exertion to reproduce Sx due to locomotor or other non-cardiac problems
+  - **Stress echocardiography** - considered if uninterpreble or inconclusive stress ECG test, to detect focal hypocontractile areas during pharmacological stress
+  - **Myocardial perfusion scan** - scintigraphic technique to detect changes in hypoperfusion from rest to stress:
+    - **Indications:**
+      - Inconclusive stress ECG
+      - Stress ECG cannot be performed as patient unable to exercise
+    - **Procedure:**
+      - Injection of <u>radioactive isotope</u> (e.g. technetium-99 tetrofosmin), which will be <u>taken up by viable perfused myocardium</u>
+      - Apply pharmacological stress (e.g. controlled infusion of dobutamine) to increase myocardial demand
+      - Take scintiscans of the myocardium at rest and during stress serially to depict myocardial perfusion
+    - **Interpretation:**
+      - <u>Old MI</u> - perfusion defect at rest and during stress
+      - <u>Myocardial ischaemia</u> - normal perfusion during rest but a perfusion defect during stress
+
+      
+      ![](../img/myocardial_perfusion_scan.png)
+  - **Coronary CT angiography** (CCTA) - detailed anatomical information of the extent and nature of CAD
+  - **Invasive coronary arteriography** - alternative to CCTA often indicated with a view of reperfusion by PCI or CABG surgery
+- **Mx:**
+  - **Principle of Mx:**
+    - <u>Lifestyle modifications</u> - e.g. smoking cessation, physical activity, weight control, advice on exercise and exertion
+    - <u>Symptomatic relief</u> - anti-anginal drugs for controlling Sx
+    - <u>Identification and Tx of risk factors</u> - HTN, DM, dyslipidaemia
+    - <u>Prognostic medical Tx</u> - anti-platelet therapy, lipid-lowering therapy (secondary prevention) is initiated for all patients, +/- RAAS blockade if LV dysfunction
+    - <u>Additional reperfusion strategies</u> - for high risk patients that are suitable for revascularisation after assessment by invasive coro
+  - **Anti-platelet therapy** - prognostic implication for <u>reducing MACE</u>:
+    - <u>Regimen</u>:
+      - Low-dose aspirin (75 mg/d)
+      - Low-dose Clopidogerl (76 mg/d)
+    - <u>Duration</u> - provided indefinitely
+
+    
+    ![](../img/aspirin_in_secondary_prevention_of_cad.png)
+  - **Anti-anginal therapy** - used to relieve or prevent Sx of angina (typically initiate sublingual TNG and beta-blockers):
+    - **Approach to initiating anti-anginal therapy** - none have prognostic implications or evidence of superiority:
+      - Aim is for <u>best Sx control</u> with <u>minimal S/E</u> with the <u>simplest regimen</u>
+      - Conventional to initiate sublingual nitrates and beta-blockers
+      - Add on CCB or long acting nitrates if initial therapy inadequate for symptom control
+      - No evidence for combination of multiple anti-anginal therapy, hence <u>consider revascularisation if appropriate combination of drugs fail to achieve acceptable symptomatic response</u>
+    - **Nitrates:**
+      - <u>Selection</u> - onset and duration of action differs (initiate sublingual TNG first, and add on long-acting TNG if unable to obtain Sx relief): 
+      ![](../img/duration_of_action_of_nitrates.png)
+        - **Sublingual TNG** - prescribed as metered dose aerosol (400 microgram), or tablet (300-500 microgram)
+        - **Buccal TNG** - 1-5 mg qid
+        - **Transdernal TNG** - 5-10 mg od
+        - **Isosorbide dinitrate** - 10-20 mg tid
+        - **Isosorbide mononitrate** - 20-60 mg bid
+      - <u>MOA</u> - NO mediated relaxation of VSMC, resulting in venous and arteriolar dilatation:
+        - **Coronary vasodilation** - results in increased coronary supply
+        - **Arterial vasodilation** - results in reduced afterload and myocardial demand
+        - **Venous vasodilation** - results in reduced preload and myocardial demand
+      - <u>S/E</u>:
+        - Headache
+        - Symptomatic hypotension
+        - Syncope
+      - <u>Caution</u> - can cause **pharmacological tolerance:**
+        - Can be avoided by maintaining daily 6-8h nitrate free period, usually at night if inactive
+    - **Beta-blockers** - cardioselective beta-1 blockers preferred over non-selective beta-blockers as the latter may exacerbate coronary vasospasm:
+      - <u>Selection</u>:
+        - Sustained release metoprolol 50-200 mg daily
+        - Bisprolol 5-15 mg daily
+      - <u>MOA</u> - reduced myocardial workload by reducing HR, BP and inotropy
+      - <u>S/E</u> - considered once manifests as MI as strong secondary preventitive role has strong evidence:
+        - Bronchospasm (avoid in asthma)
+        - Bradyarrhythmias - bradycardia, AV block
+        - Hypotension
+      - <u>Caution</u> - do not **withdraw suddenly**, which can result in **beta-blocker withdrawal syndrome:**
+        - Arrhythmias
+        - Worsening angina and MI
+    - **Calcium channel blockers:**
+      - <u>Selection</u>:
+        - DHP CCBs (must be initiated in conjunction w/ BBs due to worsening Sx by reflex tachycardia) - nifedipine, nicardipine, amlodipine
+        - Non-DHP CCBs (considered if BB intolerable due to bronchospasm) - verapamil, diltiazem
+
+        
+        ![](../img/ccbs_for_angina.png)
+      - <u>MOA</u>:
+        - DHP CCBs - arterial vasodilation, reduced afterload and myocardial workload
+        - Non-DHP CCBs - reduce HR by reducing SA node activity and AV nodal conduction
+      - <u>S/E</u>:
+        - DHP CCBs - peripheral oedema, flushing, headache, dizziness
+        - Non-DHP CCBs - heart failure, constipation for varepamil
+    - **Potassium channel activators** (Nicorandil):
+      - <u>Regimen</u> - 10-30 mg bid
+      - <u>MOA</u> - venodilator
+    - **Funny channel antagonists** (ivabradine) - appears safe in patient's w/ heart failure
+  - **Percutaneous coronary intervention:**
+    - **Procedure:**
+      - Interventional radiological technique by passing a fine guidewire across a coronary stenosis under radiographic control
+      - Inflation of <u>balloon</u> to dilate stenosis
+      - Insertion of <u>coronary stent</u> to maximise and maintain dilatation of a stenosed vessel (lower risk of post-PCI complications, re-stenosis and recurrent angina)
+
+      
+      ![](../img/evidence_for_intracoronary_stent_in_angina.png)
+    - **Indications for PCI in stable angina:**
+      - Single- or two-vessel disease with suboptimal symptomatic relief on medical therapy
+      - Some evidence for role in triple-vessel disease
+    - **Evidence for role of PCI in stable angina:**
+      - <u>Most effective symptomatic treatment</u> - more effective than medical therapy in aleviating angina pectoralis and improving exercise tolerance
+      - <u>Lacking evidence in improving prognosis</u> - no evidence of reducing mortality and carries risk of procedural complications (most notably MI)
+
+      
+      ![](../img/evidence_for_pci_in_stable_angina.png)
+    - **Complications of PCI:**
+      - <u>Acute complications</u> - post-op elevation of troponin occurs in <u>as high as 10% of cases</u>:
+        - Procedure-related MI (2-5%) - occlusion of the target vessel or side branch by thrombus
+        - Coronary artery dissection - loose flap of intima
+      - <u>Chronic complications</u> - often occurs, but reduced w/ use of intracoronary stent and drug-elluding stent:
+        - Re-stenosis (17-33%) - typically **within 3 mo** due to a combination of elastic recoil of, and neo-intimal hyperplasia (VSMC proliferation)
+        - Recurrent angina (15-20%) - at 6 mo and typically require repeat PCI or bypass
+    - **Factors influencing outcome of PCI:**
+      - <u>Morphology and site of stenosis</u> - e.g. complex, long, eccentric or calcified target lesion, presence of thrombus, occurs at branch, bend or a turtuous vessels
+      - <u>Comorbidities</u> - DM and PAD reduces likelihood of good outcome
+      - <u>Technician factor</u> - e.g. experience of operator
+    - **Pharmacological therapy after PCI** - redue risk of complications
+      - Dual antiplatelet therapy - aspirin and adjunctive anti-platelet such as clopidogrel or GpIIb/IIIa receptor antagonist
+      - Anticoagulant - e.g. heparin
+  - **Coronary artery bypass grafting** (CABG):
+    - **Procedure:**
+      - Bypass of coronary artery stenosis by using internal iliac artery, radial artery, or reversed segment of saphenous vein
+      - Major surgery requiring cardiopulmonary bypass
+    - **Indications for coronary bypass surgery in stable angina:**
+      - <u>High risk stenosis</u> - left main stem stenosis or tripple-vessel disease (i.e. LAD, CX, and right coronary arteries), or two-vessel disease involving proximal LAD coronary artery
+      - <u>Other high risk patients</u> - e.g. LV dysfunction, poor effort tolerance will demonstrate improved survival
+    - **Evidence for CABG in stable angina:**
+      - <u>Symptomatic relief</u> - 90% remain asymptomatic after 1y, but dependent on type of graft (e.g. arterial vs venous)
+      - <u>Prognostic improvements</u> - overall benefits to survival that deminishes after 10y, but most marked in those w/ left main artery, triple-vessel disease and impaired ventricular function
+
+      
+      ![](../img/evidence_for_cabg_in_stable_angina.png)
+    - **Complications:**
+      - **Acute complications:**
+        - Mortality (1.5%)
+        - Myocardial infarction (10%)
+        - Neurological complications - peri-operative stroke (1-5%), short-term cognitive impairments (30-80% at 6 mo), long-term cognitive decline (\> 30% at 5y)
+        - General surgical risks - infection, wound pain

@@ -1,0 +1,22 @@
+---
+id: 15634b96-1a85-4645-b6a6-358145618ed6
+title: Median Nerve Palsy
+---
+
+# Median Nerve Palsy
+
+- **Sites of injuries:**
+    - <u>Low median nerve palsy</u> (injury at carpal tunnel) - e.g. caused by cuts in front of the wrist or by carpal dislocation
+    - <u>High median nerve palsy</u> (elbow dislocation or forearm fractures)
+- **Differentiation between low lesions and high lesions:**
+    - <u>Low lesions</u> - thenar wasting, weak thumb abduction and opposition, sensory loss of radial 3.5 digits
+    - <u>High lesions</u> - features of low lesions, weak thumb flexion (FPL), weak flexion of index and middle finger (FDP)
+- **Clinical signs of low and high median nerve palsy:**
+    - Wasting of thenar eminence
+    - Characteristic sensory loss
+    - Weakness of thumb abduction
+- **Clinical signs specific for high median nerve palsy** - patient asked to hold fist w/ both hands:
+    - <u>Pointing index sign</u> - failure of flexion of thumb due to FPL denervation, and failure of flexion of index (+/- middle) finger due to FDP denervation
+
+
+![](img/median_nerve_signs.png)

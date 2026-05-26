@@ -1,0 +1,55 @@
+---
+id: 93eab9ae-62d5-4c5d-b93a-42f145b6357d
+roam_parent: 3249beda-c553-453f-a976-1d74b2d8b73d
+title: Glomerulonephritis and Acute Nephritic Syndrome
+---
+
+# Glomerulonephritis and Acute Nephritic Syndrome
+
+- **Definition and terminology:**
+  - <u>Glomerular haematuria</u> - presence of RBC in urine that is of glomerular origin, characterised by presence of dysmorphic RBCs w/ or w/o RBC casts
+  - <u>Nephritic syndrome</u> - presentation of glomerulonephritis, that is characterised by glomerular inflammation resulting in 1) haematuria, 2) varying degree of proteinuria, 3) accelerating hypertension, 4) renal impairments, which may reflect a localised or systemic pathology
+  - <u>Isolated glomerular haematuria</u> - presence of RBC in urine of glomerular origin w/ absence of proteinuria, elevated BP or renal impairments
+- **Modes of presentation of glomerulonephritis:**
+  - <u>Chronic kidney disease</u> - often a slow and indolent rise of SCr and proteinuria that is asymptomatic
+  - <u>Acute, transient course</u> - e.g. as isolated glomerular haematuria, or nephritic syndrome
+  - <u>Acute, fulminant course w/ progressively deteriorating kidney function</u> - rapidly progressive glomerulonephritis
+- **DDx of suspected glomerulonephritis:** ![](../img/major_pathological_types_of_gn.png) 
+![](../img/ddx_of_glomerulonephritis.png)
+- **Clinical assessment** - certain clinical findings suggests specific etiologies of GN:
+  - <u>Association w/ upper respiratory tract infection</u>:
+    - Latent period of 7-10d between infection and gross haematuria is suggestive of PSGN
+    - Gross haematuria concurrent with ongoing infection (i.e. synpharyngitic GN) is typical of IgA nephropathy
+  - <u>Skin lesions</u> - palpable purpura or petechial rash is suggestive of underlying small vessel vasculitis (e.g. ANCA-associated vasculitis, Henoch-Schonlein purpura, cryoglobulinaemia)
+  - <u>Pulmonary involvement</u> - haemoptysis or pulmonary haemorrhage is suggestive of Anti-GBM disease
+  - <u>Rheumatological involvement</u> (e.g. arthritis) - suggestive of autoimmune disease and lupus
+- **Ix:**
+  - **Urine:**
+    - <u>Dipstick</u> - for protein, blood, WBC (leukocyturia in absence of UTI)
+    - <u>Microscopy</u> - to confirm glomerular haematuria
+  - **Routine bloods** - CBC, LRFT, ESR/CRP, LDH, uric acid:
+    - <u>CBC</u>:
+      - Sudden drop of Hb may suggest pulmonary haemorrhage
+      - More commonly, NcNc anaemia may suggest anaemia of renal disease or an underlying systemic illness
+      - Presence of **thrombocytopenia**, and **macrocytic anaemia w/ high retic count** (i.e. MAHA) should <u>immediately raise suspicion of TMA</u>
+      - Eosinophilia may be suggestive of Churg-Strauss Syndrome
+    - <u>LFT</u>:
+      - Bilirubin to detect any MAHA
+      - Reverse AG ratio suggestive of a systemic autoimmune phenomenon
+      - Detection of hypoalbuminaemia
+    - <u>RFT</u> - characterise any renal derrangement (compare w/ previous studies to see whether acute)
+    - <u>ESR/CRP</u> - presence of active inflammation
+    - <u>LDH, uric acid</u> - haemolysis (+/- reduced haptoglobin to confirm intravascular haemolysis)
+  - **CXR:**
+    - <u>Features of volume overload</u> - e.g. Kerley B lines, Alveolar oedema
+    - <u>Batwing appearance</u> - may be associated w/ volume overload, but raises suspicion of **pulmonary haemorrhage** if a/w low Hb and normal heart size
+    - <u>Reticulonodular shadowing</u> - fibrotic changes in systemic inflammatory disease w/ lung and kidney involvements
+  - **Laboratory test for specific cause:**
+    - <u>Serology for autoimmune diseases</u>:
+      - ANA and anti-dsDNA - high titres suggestive of lupus nephritis
+      - C3/4 - good for differentiating cause (low in immune-complex mediated GN, normal in anti-GBM or pauci-immune disease)
+      - Anti-GBM - suggestive of anti-GBM disease
+      - ANCA - for vasculitis
+    - <u>Serology for infections</u> - ASLO, HCV, HBV, HIV
+    - <u>Ix for monoclonal gammopathies</u> - SPE w/ immunofixation + SFLC assay
+  - **Renal Bx** - usually pursued unless C/I

@@ -1,0 +1,22 @@
+---
+id: 966ba949-1221-4eca-bfc2-faa81964f680
+title: 2025-10-14
+---
+
+# Post-operative fever - Literature Search on UpToDate <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+- **Reference:**
+    - [UpToDate: Fever in the surgical patient](https://www.uptodate.com.eproxy.lib.hku.hk/contents/fever-in-the-surgical-patient?search=post-op%20fever&source=search_result&selectedTitle=1~62&usage_type=default&display_rank=1#H421377277)
+- **Definition and terminology:**
+    - <u>Immediate post-operative fever</u> - fever occuring within hours after surgery
+    - <u>Early post-operative fever</u> - fever occuring from D0-3 after surgery
+    - <u>Late post-operative fever</u> - fever occuring from D4-30 after surgery
+    - <u>Delayed post-operative fever</u> - fever occuring \> 30d after surgery
+- **Common causes of post-operative fever** - 5 Ws of post-operative fever:
+    - <u>Wind</u> - pulmonary causes including pneumonia, aspiration, pulmonary embolism +/- atelectasis
+    - <u>Water</u> - urinary tract infection
+    - <u>Wound</u> - surgical site infection
+    - <u>Walking</u> - venous thromboembolism
+    - <u>Wonder drugs</u> - drug-related fever
+- **Etiology of post-operative fever** - timing of post-op fever is the most important factors in generating a prioritized DDx: 
+![](~/Documents/notes/img/post_op_fever.png)

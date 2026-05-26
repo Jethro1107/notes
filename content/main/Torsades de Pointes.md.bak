@@ -1,0 +1,33 @@
+---
+id: 6a3d9cf5-bbe2-420e-bcc9-79cf53e9cc6e
+title: Torsades de Pointes
+---
+
+# Torsades de Pointes
+
+- **Definition** - a form of polymorphic VT that is a complication of prolonged ventricular repolarisation (long QT syndrome)
+- **Definition of QT prolongation** - prolonged QT after adjustment for HR:
+  - QTc \> 0.43s in M
+  - QTc \> 0.45s in F
+- **Etiology of TdP** - long QT syndrome:
+  - <u>Congenital syndromes</u> - LQTS (type 1-12)
+  - <u>Drug-induced</u>:
+    - **Class I anti-arrhythmic** - e.g. disopyramide, flecainide, procainamide
+    - **Class III anti-arrhythmic** - sotalol, amiodarone
+    - **ABx** - erythromycin (and other macrolides)
+    - **Antidepressants** - amitriptyline (and other TCAs)
+  - <u>Metabolic disturbances</u> - hypoK, hypoCa, hypoMg
+
+  
+  ![](img/causes_of_long_qt_and_tdp.png)
+- **ECG features of TdP** - twisting at the point:
+  - Oscillation from an upright to an inverted position, appearing as if <u>twisting around the baseline</u>
+  - This is caused by changes in the mean QRS complex
+
+  
+  ![](img/torsades_de_pointes.png)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Dx and Tx of underlying cause</u> - e.g. withdrawal of arrhythmogenic drug
+    - <u>Medical Tx</u> - Iv magnesium (8 mmol over 15 min, then 72 mmol over 24h) for all patients
+    - <u>Atrial pacing</u> - rate-dependent shortening of QT interval

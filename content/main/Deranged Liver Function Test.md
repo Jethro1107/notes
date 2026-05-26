@@ -1,0 +1,57 @@
+---
+id: E8115FCE-9AC0-4849-9FCD-03840E17DB6A
+roam_parent: 038344b7-fbba-417a-9bc1-3eddd3f4b81d
+title: Deranged Liver Function Test
+---
+
+# Deranged Liver Function Test
+
+- **Background:**
+    - LFTs are often routinely requiested for routine health checks, insurance medicals, and drug monitoring
+    - Those w/ chronic liver disease may have dLFT but are otherwise asymptomatic (or have very vague, non-specific Sx)
+    - Abnormal LFTs in otherwise asymptomatic individual is a common scenario and require structural evaluation
+- **Epidemiology:**
+    - <u>Prevalence</u> - up to 10% in some studies (3.5% of patients prior to elective surgery)
+    - <u>Most common etiology</u> - alcoholic hepatitis, MASLD
+- **DDx of hepatocellular pattern of dLFT:** 
+![](../img/causes_of_hepatocellular_pattern_of_dlft.png)
+- **DDx of cholestatic pattern of dLFT:** 
+![](../img/causes_of_cholestatic_jaundice.png)
+- **Salient points of Hx:**
+    - **HPI** - generally no chief complaint other than incidental finding of dLFT
+    - **Associated Sx:**
+        - <u>Jaundice</u> - icteric illness, tea colour urine etc.
+        - <u>Neurological Sx</u> - e.g. tremors or movement disorders in Wilson's disease
+    - **Risk factor assessment:**
+        - <u>Drug Hx</u> - prescription medications, OTC drugs, TCM, illicit drugs
+        - <u>Alcohol Hx</u> - thorough Hx of alcohol consumption (see notes on Alcoholic liver disease)
+        - <u>Risk factors for viral hepatitis</u> - tattoos, injection drug use, blood transfusions
+        - <u>Hx of autoimmune disease</u> - ulcerative colitis, hashimoto's thyroiditis, rheumatoid arthritis in personal Hx or FHx
+        - <u>Evidence of metabolic syndrome</u> - e.g. obesity, DM
+- **P/E** - look for stigmata of chronic liver disease (unreliable):
+    - Presence of stigmata of chronic liver disease is indicative of underlying liver disease
+    - Absence does not reliably rule out significant disease
+- **Approach to the asymptomatic dLFTs:** 
+![](../img/approach_to_asymptomatic_derranged_lft.png)
+- **Hepatocellular pattern of dLFT:**
+    - <u>Approach</u>:
+        - Mild elevation of serum transaminase (\< 2x ULN) - lifestyle modification (weight loss and alcohol abstinence), consider stopping hepatotoxic drugs, and **recheck LFT q3-6mo**
+        - Severe elevation of serum transaminase (\> 2x ULN) or persistent hepatocellular pattern - full Hx + liver screen
+    - <u>Ix</u>:
+        - **Liver screen:** 
+        ![](../img/screening_investigations_for_chronic_liver_disease.png)
+        - **USG of the hepatobiliary system** - for dilated intra-hepatic ducts
+        - **Additional Ix:**
+            - <u>MRCP</u> - if dilated intra-hepatic ducts on USG
+            - <u>Liver Bx</u> - if absence of dilated ducts and no identifiable causes
+- **Isolated raised GGT:**
+    - <u>Approach</u> - detailed Hx regarding alcohol, drugs, and risk factors of metabolic syndrome
+    - <u>Mx</u>:
+        - Alcohol abstinence
+        - Lifestyle modification
+- **Cholestatic pattern of dLFT** - USG of hepatobilliary system
+- **Isolated hyperbilirubinaemia:**
+    - <u>Approach</u>:
+        - r/o haemolysis (e.g. LDH)
+        - Recheck w/ conjugated bilirubin
+    - <u>Mx</u> - reassurence if conjugated hyperbilirubinaemia as likely Gilbert's syndrome

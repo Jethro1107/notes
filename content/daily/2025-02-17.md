@@ -1,0 +1,206 @@
+---
+id: 48a7d61e-ca04-413e-91e1-1172172baa47
+title: 2025-02-17
+---
+
+# GC228: Knee Osteoarthritis <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span> <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Epdimeology and clinical importance of KOA:**
+    - Global Burden of Disease (GBD) study - major cause of adult disability
+    - Local prevelance - by 2050, 40% will be elderly poperties
+    - Sequelae of KOA:
+        - Increased risk of CVS and resp diseaes
+        - Increased risk of psychological diseases
+        - Increased risk of sleep disturbance
+        - Increased risk of mortality
+- **Pathophysiology and risk factors of KOA:**
+    - OA as a whole joint disease - importance of exercise to maintain muscle w/ cyclical loading to maintain cartilage health
+    - Primary KOA - Aging, mechanical stress, heredity
+    - Secondary KOA - acute trauma, surgery, obesity, inflamatory joint disease (Gout, RA), diabetes or other hormone disorder, Septic arthritis
+    - Risk factors of OA:
+        - Obesity - excessive loading to LL joints
+        - Prior injury to knee joints
+        - Occupation - construction site worker (weight-bearing jobs)
+- **Clinical presentation of KOA:**
+    - Knee pain
+        - Site - anterior, medial, lateral, posterior (different DDx)
+    - Swelling
+    - Stiffness
+    - Mechanical disorders - locking, giving way, clicking
+    - Limp
+    - Deformity
+- **Principles of Mx of KOA:**
+    - OA Treatment pyramid:
+        - First line Mx - education, exercise and weight control
+        - Second line Mx - First line + Pharmacological pain relief, aids and passive Tx by physio
+        - Tird line Mx - Second line + Surgery
+- **Non-pharmacological Mx:**
+    - Physiotherapy:
+        - Passive modality - does not work in long run
+        - Active modality - more important
+        - Exercise requires - sufficient intensity, frequency and duration (i.e. sufficient dose)
+- **Pharmacological Mx:**
+    - **Glucosamine** - not recommended in NICE, ACR, OARSI guidelines (no strong evidence):
+        - Rationale - glucosamine required in synthesis of mucopolysaccharides, which is found in cartilage and synovial fluid
+        - Evidence - no statistically significant effects on pain relief and physical function (level 1 double-blind placebo RCT)
+    - **Intra-articular injections:**
+        - Corticosteroids - short term pain relief (onset in 2-4 w)
+            - Risks - Repeated injections predispose to further <u>cartilage and joint damage</u>, and increased risk of infection
+        - Viscosupplement (Hyaluronic acids) - no clinically meaningful benefits
+            - Risks - painful effusion, infections
+        - Platelet-rich plasma (PRP) - some evidence of benefit in pain relief
+    - **Analgesics** - Paracetamol, NSAID, Topical NSAID, Opiods, Analgesic Balm:
+        - Paracetamol (meta-analysis shows no benefits at any dose) - widely uesd for OA, but principally due to lack of effective or tolerable alternative treatments and their relative safety
+            - S/E - dLFT, impaired clearance
+        - Opioid - very limited benefits + significant side effects (abuse and adiction):
+            - S/E - sedation and dizziness (predispose to falls and fractures)
+            - Pre-operative opioid use - predicts opioid requirement post-surgery, longer LOS, greater risk of complications and earlier revision surgery
+        - Topical NSAID (not available in HA) - strong reccomendation, comparable efficacy to oral NSAIDs but lower GI side effects
+    - **Disease Modifying OA Drugs** (DMOAD) - potential drugs in phase 3 studies
+- **Surgical Interventions:**
+    - **Knee arthroscopy** - limited role, limited benefits in pain relief (0.14)
+        - Indications - Frequent locking symptoms (meniscal tear and loose bodies) -\> provides short term relief of locking symptoms
+        - Complications:
+            - Vascular outcomes (due to tournequet) - DVT (0.4%)m PE (0.1%)
+            - Increased rate of progression of OA
+            - Shorten time to joint replacement
+    - **Total Knee Replacement** (TKA) - for tri-compartmental KOA
+    - **Partial Knee Replacement** (UKA) - for single compartment KOA
+        - Advantages:
+            - Quicker rehabilitation
+            - Less perioperative complications
+            - Retained normal knee kinetics and proprioception
+            - Preserved bone stock
+            - Ability to convert to TKA if fail
+    - **High tibial osteotomy** - for young patients w/ considerations of longevity of joiint:
+        - Principles - shifts mechanical axis and stress from medial tibiofemoral joint to lateral tibiofemoral joint
+
+## Clinical approach to knee pain
+
+- **Salient points of Hx:**
+    - HPI - site, onset, character, radiation, associated symptoms, timing, exacerbating and relieving factors, severity:
+        - Site - Specific anatomical position of knee pain:
+            - Anterior knee pain - Patellar sublaxation/dislocation, Tibial apophysitis (Osgood-Schlatter lesion), Patellar tendonitis (Jumber's knee), Patellofemoral pain syndrome
+            - Medial knee pain - MCL sprain, Medial meniscus tear, Pes anserine bursitis, Medial plica syndrome
+            - Lateral knee pain - lateral collateral ligament sprain, lateral meniscal tear, iliotibial band tendonitis
+            - Posterior knee pain - PCL injury, Baker's cyst
+    - Trauma Hx - ask whether knee pain is caused by injury:
+        - ACL/PCL tears (causes instability) - immediate onset
+        - Meniscus (pain on twisting) - delayed onset
+        - Patella dislocation (pain with palpation of medial facet, lateral fremoral condyle) - immediate onset
+        - Fracture (unable to bear weight) - imediate onset
+- **Orthopedic P/E** - look, feel and move:
+    - Knee examination:
+        - Look - stand the patient up
+            - Knee deformity - valgus and varus deformity
+        - Feel - palpation of the knee anatomical sites for tenderness
+        - Move - active and passive flexion and extension:
+            - Fixed flexion deformity - limited knee extension range both actively and passively
+            - Extension Lag - lack of active knee extension with full passive knee extension
+            - Recurvatum - hyper-extersion of knee \> 5 degrees
+        - Assessment of gait - varus thrust (worsening of varus alighment when limb is bearing weight, with return to less varus as weight is transferred off the limb), caused by chronic stretching of the LCL
+        - Special test - ACL, PCL. MCL, LCL
+    - Hip examination - knee pain may be a result of referred pain from the ipsilateral hip
+- **Ix:**
+    - Standard XR Knee - Weight bearing AP, lateral, skyline (patello-femoral joint) view
+        - Hallmark of KOAs - joint splace narrowing, subchondral sclerosis, marginal osteophytes, subchondral cysts
+        - Grading - Kellgren and Lawrence Grading System (based on JSN and osteophytes)
+
+# GC229: Hip Arthritis <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span> <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span>
+
+## Hip pain
+
+- Salient points of hx:
+    - HPI:
+        - Function - walking tolerance (stairs), sitting tolerance, aids, limping, shoes and socks, cutting toe nails, getting on and off transport
+        - Harris Hip Score - assessment of hip function
+    - Trauma - prior femur or femoral neck fracture
+    - Social hx - Occupation, drugs (steroid), alcohol
+- P/E:
+    - Move - flexixon, FFD, Abduction, Adduction, external and internal rotation
+    - LLD
+
+## Avascular necrosis of the hip
+
+- Defintion - impairment circulation to the femoral head, and subsequent bone death and repair
+- Blood supply to femoral head:
+    - Ascending branch of medial circumflex A.
+    - Ligamentum teres A. from obturator A.
+    - Profunda femoris artery
+    - Medial femoral circumflex A.
+- **Radiological features:**
+    - Flattening of the femoral head
+    - Subchondral sclerosis
+    - Crescent sign - in subchondral bone
+    - Broken shanton's line - leg limb discontinuity reflected by between lower border of the superior medial pubic ramus and medial border of femoral neck
+- Etiology and risk factors:
+    - Trauma - femoral neck fractures
+    - Alcohol abuse
+    - Steroid (\>20 mg/d)
+    - Caisson disease - barrel trauma (pressure-decompression injury)
+    - Sickle cell anaemia
+- Ix:
+    - XR:
+        - Cysts - a result of resorption of dead bone with replacement with fibrous and granulation tissue
+        - Sclerosis - thickened trabeculae due to direct deposition of new bone onto dead bone
+        - Crescent sign - subchondral collapse (radioluscent) of the necrotic segment
+    - +/- MRI - 99% sensitivity and specificity (for early AVN or screening for contralateral side)
+- Ficat classification for AVN of hip - guides Rx:
+    - Stage 1 - normal XR, radiological changes on MRI (irregular surfaces, and hypo-intensities)
+    - Stage 2 - sclerotic and cystic changes +/- Crescent sign (femoral head intact)
+    - Stage 3 - Crescent sign with femoral head collapse
+    - Stage 4 - Secondary OA changes
+- Rx:
+    - Stage I/II - hip-preserving surgery (core decompression +/- vascularised bone graft)
+        - Risk factor control - alcohol, steroids, heavy weight bearing (including running), walking aids
+        - Pharmacological - bisphosphonates (evidence lacking)
+        - Core decompression - window over lateral side of trochenteric region and remove sclerotic dead bone, stimulate neovascularisation to promote bone healing +/- bone graft
+    - Stage III/IV - THR (quick and reliable)
+
+## Hip OA
+
+- Weight bearing Hx
+- Kelgren and Lawrence System to grade hip OA
+- Radiological features - JSN, osteophytes, subchondral sclerosis, subchondral cysts
+- Classification:
+    - Primary - uncommon in Chinese population
+    - Secondary - Trauma, Infection, Inflammatory joint disease, Crystal joint disease, neuropathic (Charcot), metabolic/ endocrine
+
+## Septic arthritis of the hip
+
+- Signs:
+    - Tenderness over joint
+    - Localised swelling +/- pseudoaneurysm (or sinus tract)
+    - Limited ROM with irritable and resisting ROM
+- Late complications:
+    - Secondary OA
+    - Pain - due to incongruency and chondral damage
+    - Stiffness - due to ankylosis and soft tissue contracture (flexion and adduction contracture)
+    - Deformity - angulation, coxa vara, shortening
+    - Instability, dislocation
+    - Leg length discrepency
+- Ix:
+    - WBC
+    - Inflammatory - ESR, CRP
+    - LRFT - baseline for ABx
+    - Image-guided Hip Aspiration - WBC and differentials, gram smear, C/ST (bacterial, fungal, AFB) +/- crystals
+    - Blood cultures
+    - Imaging:
+        - XR - soft tissue swelling +/- capsular distension (evident by widening joint space or even sublaxation) + radiographic features of osteomyelitis in proximal femoral metaphysis
+        - MRI - distingush osteomyelitis from septic arthritis
+        - Radio-isotope scans
+- Mx:
+    - ABx - after joint aspiration for culture unless haemodynamically unstable
+    - Surgical Tx:
+        - Anterior approach - in young to preserve blood supply
+        - Posterior approach - when hip destruction not salvagable and in need of replacement (surgical drainage with antibiotic cement spacer)
+
+## Hip dysplasia
+
+- Radiological features - coverage of acetabular surface over femoral head inadequate:
+    - Lateral Centre-Edge Angle of Wiberg (N \> 25 degrees) - dysplastic \< 20 degrees:
+        - Centre-edge line - from centre of femoral head and vertically up
+        - Lateral-edge - from centre of femoral head to the lateral edge of the acetabulum
+    - Tonnis Angle (N \< 10 degrees) - dysplasia (\> 10 degrees)
+- Hartofilakilis classification - dysplasia, low dislocation (still some contact), high dislocation
+- Crowe classification - quantifies broken shanton line, percentage of proximal migration of medial neck junction from inferior margin of acetabulum (tear drop) relative to femoral head height (assumes femoral head height is roughly 20% of pelvic height)

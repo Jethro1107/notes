@@ -1,0 +1,102 @@
+---
+id: 364a7106-aee9-45c1-b6c2-6ed6e99b65be
+title: 2025-06-12
+---
+
+# GC20 Understanding the person, family and social determinants of health <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Whole person care in family medicine** - biopsychosocial diagnosis
+- **Satir's Iceberg Model of internal psyche** - adopted to illustrate the complex interplay during patient presentation and interview: 
+![](~/Documents/notes/img/satirs_iceberg_model.png)
+    - Components:
+        - Self - to assert existence into the world (Hegellian Phenomenology of Spirit)
+        - Yearnings - universal concepts that drive desires, often achieved to satisfy a state of being
+        - Expectations
+        - Perceptions
+        - Feelings about feelings
+        - Feelings
+        - Coping
+        - Behaviour
+    - Implications:
+        - Perception dependent on expectations, and deeper yearnings
+        - How you think (e.g. ideas, values, believes, cognition, thoughts) - determines how you feel and your subjective opinion of your own feeling
+        - Feelings - influence the behaviour
+    - Different behaviours - different behaviour even if the perceptions, expectations and feelings are the same, because of different coping stances:
+        - Coping stances - protect their self worth, but ever changing stances in different context:
+        - Satir coping stances - different mechanisms to explain role of self, other and the greater context in the problem:
+            - Blamers - finding the scapegoat, discount the others and count only themselves and the context (belief that they are the strong ones, and harass accuse others for continually making things go wrong)
+            - Placators (Peace-makers) - view the others and context to hold more value than their own true feelings. taking up all the blame
+            - Super-reasonable (Scientist/ computer-minded) - discounts himself and the other, but solely respects the context, often works solely from a rational or objective perspective
+            - Irrelevant (Clown) - distract attention away from any stressful situation, where the internal dialogue will be anything other than the matter in hand (shallow and evasive from more meaningful dialogue)
+            - Congruent (self-actualized/ balance) - Satir's transformation growth model, holding equal balance in terms of the others and the context
+- **BATHE technique** - assess a patients psychosocial status to quickly expand the context of the consultation (esp. if unclear why, e.g. sudden ABx request, anxiolytics etc.):
+    - Background - What's going on in your life?
+    - Affect - How do you feel about that?
+    - Trouble - What troubles you the most?
+    - Handling - How are you handling that?
+    - Empathy - That must be very difficult for you
+- **Stressors in different stages of family life cycle:**
+    - Family genogram (an analytical tool) - family tree over generations thatreveals important life events as well as showing the ties betwenen children, parents, and grandparents, shows:
+        - Aliance and ruptures
+        - Generational repetitions of behaviour
+        - Of dependence or vulnerability
+    - Stages of family life cycle - emotional and second order adjustment at each stages (see slides):
+        - Leaving home as a single young adult
+        - Marriage (the new couple)
+        - Families with young children
+        - Families with adolescents
+        - Launching children and moving on
+        - Families in later life
+- **Social determinents of health and understand using 4-P factors of bio-psychosocial framework:**
+    - Definition - economic and social conditions that influences individual health status
+    - Affected by public policies that reflect prevailing political ideiologies
+- **4P models** - extension of biopsychosocial model by adding a temporal domain:
+    - Predisposing factor (why me)
+    - Precipitating factor (why now)
+    - Perpetuating (why does it continue)
+    - Protective factor (what can I rely on)
+
+# Mimesis and the Mirror of Human Behaviour <span class="tag" tag-name="Writing"><span class="smallcaps">Writing</span></span>
+
+The world is not a mere collection of objects, but a theatre of action, shaped by human behavior. Science excels at explaining what is - the metaphysical nature of our reality, yet it falters on what should be, leaving the driving forces behind our actions shrouded in mystery. Religion emerges from church-building and prayers; culture rests on rituals and prohibitions passed down through generations; science grows from inquiry and investigation; economies thrive on trade and profit-seeking; warfare festers in hunger and hatred. These domains, though abstract, are rooted in what we do. But what propels these behaviors?
+
+The rationalist argues that human behaviour is driven by logic, but general observation tells us that this simply is not true. There are times at which we view our friends as insane, or are told that we simply are not behaving like ourselves, and in retrospect, realise that what we did was completely irrational. In fact, the rationalist's view upon the matter is so irrational in their cliam (in a sense that they continue to abide by the principles of rationality despite contradicting evidence), that perhaps there are more drivers of human behaviour.
+
+Satir's personal iceberg metaphor provides a conceptual overview of what she believes form the basis of observable behaviour. From her experiences in family therapy, she hypothesized that behaviour are explained by a layered human psyche, at its core, an existential dread for being pulsating from the 'Self'. The Self asserts its existence through univeral yearnings, abstract concepts such as love, freedom, meaning, to re-affirm its existence. Yearnings materalise into beliefs, of the self, the other, and the world. Such beliefs form expectations and perceptions of the external world, which is internalised and subsequently feelings and emotions are formed. Feelings subsequently influence behaviour. Actions, and the story we tell ourselves, may be presented logical sometimes, but merely valid only if the a priori premises - our perceptions, expectations, beliefs, yearnings and sense of self are true. Logic, in this merely is a spokesperson for these deeper influences, not the driver itself.
+
+If rational thoughts are merely a cover for deeper currents, the quest for an equation for human behaviour lies upon resolving these a priori premises. Why do we yearn for abstract concepts? Why do we believe even if there is no proof? Is it simply a primal urge as demonstrated by Freud's work on the id, ego, and superego? Our is it because we are powered by the same collective unconscious that has rippled through culture without our awareness, as Jung proposes? I would like to resolve this tension through the lens of mimesis (Lacan and Girard), and again the following would be a hermaneutical proof.
+
+If you could humour me, what if we reduced all human behaviour as imitative? Could this perhaps explain all events of the world, from the inconsequential to an anthropological account of the human species? We act through play, and play is imitative in essence. We do not strictly imitate behaviour through play, but also feeling through empathy, perception and expectations through communication, beliefs, yearnings and desires through abstraction. In Hume's Treaties of Human Nature, he describes human tendancy for empathy as co-vibrating violin strings, where when one violin string is struck, its energy is reverberated onto the adjacent string, setting it in motion:
+
+"As in strings equally wound up, the motion of one communicates itself to the rest; so all the affections readily pass from one person to another, and beget correspondent movements in every human creature. When I see the effects of passion in the voice and gesture of any person, my mind immediately passes from these effects to their causes, and forms such a lively idea of the passion, as is presently converted into the passion itself." David Hume, A Treaties of Human Nature.
+
+While much of this is theoretical, there are empirical evidence, particularly through the discovery of 'mirror neurons': neurons found in primates and birds, and existence inferred in humans, where the same neurons fire when an animal performs an action and also when an animal observes the same action performed by another entity. Mirror neurons system are an embodied simulation system wherein we not only see action, emotion, or sensation, but form internal representation of such based on evocation of the same neural systems when we perform the same action or experience the same emotion.
+
+Dostoevsky's novels often revealed the profound truths through the psychological workings of his protagonist. This is succinctly illustrated in Crime and Punishment. Raskolnikov portrayed a pseudo-rational argument about how certain men are above morals and laws, that his murder was purely logical and justified. It made so much sense to him, What he could do with the money could bring much more happiness to the world than some old pawnbroker. He did it for the betterment of the world, not for self-interest. It was simply an expression of utilitarianism. His theory was impenetrable.
+
+Yet, after the murder (and possibly the unexpected appearance of the sister who he also had to murder), he was left with insurmmountable guilt. tThe psychological torture ruminated into a somatic response, puttting him into a feverish states for the common days. It was subsequently revealed in the Epilogue that all of his theories leading to his actions wasn't driven for the betterment of his community, but because of his glass-like ego. He was tormented by the gap between what he was, and what he should have been.All his actions and rationalisations were driven by a desire to imitate Napoleon. He wanted to leave a mark on the world.
+
+This imitative pulse beats beyond literature, threading through daily life. Look at advertising. Rarely do ads peddle products on their practical merits alone. Instead, they lean on idol culture—celebrities, influencers, aspirational scenes—to ignite our mimetic desires. A luxury car commercial doesn’t linger on horsepower or mileage; it paints a portrait of glamour—a sleek figure cruising through a glittering city, promising that this car will make you like them. We don’t just buy the vehicle; we buy the fantasy of becoming someone else. Mimesis sells, because it knows we’re wired to mirror.
+
+Yet, we are able to recognise this tendancy, at least in others, but rarely in ourselves. There is a curious hypocrisy in who we weild this lens. We're quick to spot imitation in others - mocking trend-chasers, scoffing at copycats - while shielding our own actions as pure and self-authored. "They're just following the crowd," we say, rarely turning the mimetic mirror inwards. This double standard is a shield, preserving our illusion of romanticism and originality. But it also blinds us to the mimetic threads weaving through our own choices, threads we'd rather not see.
+
+We are hypocrites perhaps because this perspective can unsettle us. There is a natural recoil against this idea. The romantic ideal of authenticity, the heroic "I am the author of my deeds", is a cultural bedrock. Must mimesis strip us bare of agency? Not quite. It’s a tendency, not a tyranny - one we can resist or redirect. It doesn’t erase free will; it shapes the stage on which we exercise it. Raskolnikov could have chosen otherwise, but his mimetic pull toward Napoleon tilted the scales. Mimesis offers a lens through which to view our actions. Mimesis can explain a great deal of human behaviour, but it is not a deterministic chain. It invites us to reflect, enabling us to peel back the lies we weave and ask: What am I echoing, and why? In that questioning lies the possibility of something truer - not a rejection of imitation, but a conscious dance with it.
+
+# Coquetry masked as a desire of a man with ambition <span class="tag" tag-name="Desire"><span class="smallcaps">Desire</span></span> <span class="tag" tag-name="Love"><span class="smallcaps">Love</span></span> <span class="tag" tag-name="Fleeting"><span class="smallcaps">Fleeting</span></span>
+
+- **Reference** - [淺談「￼上進心」 當一位女性表示「我想找一個有上進心的男生」，這句話聽起來似乎理所當然，甚至像是一項普遍且合理的擇偶標準，但在更深層的層次裏，這樣的表述往…](https://www.threads.com/@justice.tarot/post/DKXF2nJurRK)
+- **Misunderstanding of the concept of ambition** - ambition may be perceived shallowly as the observable behaviour of diligence, discipline, putting in the work:
+    - The fault of perceiving 'hard-working' as ambitious - work processes that amount to nothing due to poor orientation of the desires, the act of putting in the time, delaying pleasure does not indicate the neccessity of reaching the goal (think manic episodes where externally perceived of having lots of goal-directed activities and putting of other necessities like sleep, but rarely amounts to anything)
+    - Ambition as a state of mind - a self-propelling cycle of introspection and modification directed at any goal that is precisely defined
+    - "「上進」一詞，字面上的意思即是向上進取，帶有不斷努力、追求進步的涵義。這種努力並非僅僅是表面上的勤奮，而是一套內在遵循的法則，一種持續推動自己前行的動力"
+    - "從身心靈的角度出發，真正的「上進」並不只是表現在職涯的野心或成就，更是一種內在的生命態度。它是一種對生活仍懷有熱情、對自己誠實且不斷反思的狀態，是一種在困難中願意面對而非逃避、在關係中願意共同成長的能量。這樣的上進，並非社會標準化下的成功者專屬，而是任何真誠生活、努力成為更完整自己的靈魂所共有的特質。"
+    - Notes:
+        - Limited role of speaking upon such misunderstanding if the overall theme of thesis is an attack on the lack of reasoning behind the social phenomenon that chooses to be ambitious (The coquette can prey on a truely ambitious man as a means of achieving the recognition of her being as 'desirable')
+        - Ambition requires two things under such definition - failure to meet either two cannot amount to ambition:
+            - Correct orientation - requires 'being truthful to oneself', the end goal must "make sense"
+            - Correct path - action must be congruent with achieving the goal in mind
+        - Is correct orientation possible - given the all too universal pain of achieving something and immediately not being satisfied by it
+- **Desire for a man with ambition is in fact desire to be perceived as desirable** - the psychology of the coquetry:
+    - A projection of values - the ambitious man strives towards a goal that he finds desirable, if he ends up with me, that means he finds me desirable (N.B. notes on [[B - Deceit, Desire and the Novel, Rene Girard]])
+    - Notes:
+        - Agreeable valid claim - but need to try to break the nature of this claim (is it possible for a women to desire an ambitious man not to reaffirm that she in fact is precious?), need better understanding regarding Stendhalian Love and concept of luminence

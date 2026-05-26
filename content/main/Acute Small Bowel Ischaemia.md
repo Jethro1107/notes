@@ -1,0 +1,57 @@
+---
+id: c6f7970d-09f8-44be-9e3d-b1f6f55d3486
+title: Acute Small Bowel Ischaemia
+---
+
+# Acute Small Bowel Ischaemia
+
+- **Definition** - insufficient perfusion to the small bowel as a result of local disruption of perfusion or global hypoperfusion
+- **Etiology of acute small bowel ischaemia:**
+    - **Defects of local perfusion:**
+        - <u>Embolic complications to SMA</u> (40-50%) - cardioemboism (e.g. AF), embolic event from aorta (e.g. aortic aneurysm, atherosclerotic lesions of the aorta)
+        - <u>Local thrombotic complications</u> (25%) - underlying atherosclerotic disease of the SMA (often in a/w widespread atherosclerotic disease)
+        - <u>Vasculitis</u> - very rare cause of acute SB ischaemia
+    - **Defects of global perfusion:**
+        - <u>Shock</u> (25%) - e.g. acute MI, heart failure, arrhythmias, and sudden blood loss
+        - <u>Venous occlusion</u> - e.g. portal vein thrombosis resulting in backpressure into small bowel
+- **Clinical suspicion of acute SB ischaemia** - acute abdomen in elderly w/ widespread atherosclerotic disease or arrhythmia
+- **Clinical features of acute small bowel ischaemia** - clinical spectrum ranges from transient alterations of bowel function to transmural haemorrhagic necrosis, gangrene and peritonitis:
+    - **Abdominal pain** - acute onset of abdominal colicky pain characteristically more impressive and disconcordant w/ P/E findings:
+        - <u>Site</u> - periumbilical pain
+        - <u>Onset and progression</u> - acute and progressive
+        - <u>Quality</u> - initially colicky and non-specific, and subsequently becomes sharp well localised pain when peritonism ensues
+        - <u>Severity</u> - severe and disconcordant to P/E findings
+    - **PR bleeding** - as a result of haemorrhagic necrosis and gangrene
+    - **Peritonitis** - usually develops only later
+- **Signs** - minimal findings in early stage:
+    - **Early signs:**
+        - Mildly distended abdomen
+        - Silent or deminished bowel sounds
+        - Minimal tenderness and peritonism at onset
+    - **Late signs** - marked peritonitis and haemodynamic instability
+- **Ix:**
+    - **Routine bloods** - CBC, LRFT, PO4, amylase:
+        - <u>CBC</u> - leukocytosis
+        - <u>RFT</u> - metabolic acidosis (HAGMA/ lactic acidosis)
+        - <u>PO4</u> - hyperphosphataemia
+        - <u>Amylase</u> - hyperamylaseaemia
+    - **12-lead ECG or echocardiogram** - if suspicious of cardioembolism
+    - **AXR** - <u>thumbprinting</u> reflects underlying mucosal ischaemia:
+        - 
+    - **Angiography** - diagnostic, although most directly undergo diagnostic laparotomy before angiography performed:
+        - <u>Selection</u> - invasive mesenteric angiography or CT angiography
+        - <u>Findings</u>:
+            - Focal occluded or narrow major artery
+            - Spasm of the arterial arcades to prevent steal phenomenon
+    - **Diagnostic laparotomy** - identify ischaemic bowel w/ potential therapeutics (including embolectomy and vascular reconstruction)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>General measures</u> - resuscitation, Mx of cardiac disease, empirical IV ABx
+        - <u>Surgical Mx</u> - therapeutic interventions if caught early, ot resection of necrotic bowel
+        - <u>Medical Mx</u> - thrombolytics may be effective for non-surgical candidates
+        - <u>Mx of small bowel defects</u> - intensive nutritional support
+    - **Diagnostic and therapeutic laparotomy:**
+        - **Indications** - peritonism
+        - **Potential interventions:**
+            - <u>Early interventions</u> - embolectomy and vascular reconstruction to salvage ischaemic bowel
+            - <u>Later interventions</u> - resection of necrotic bowel (typically results in short bowel syndrome)

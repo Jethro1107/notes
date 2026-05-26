@@ -1,0 +1,61 @@
+---
+id: 5cc2d4fb-41a0-4c0a-a47d-109faf6761bc
+title: Specific Phobias
+---
+
+# Specific Phobias
+
+- **Epidemiology:**
+    - <u>Prevalence</u> - 7-9% in US (lower in Asian countries, e.g. 2-4%)
+    - <u>Demographic</u>:
+        - Age - more common in children (5%) and adolesence (16%), but rates lower in older patients (diminished severity to subclinical level possibly due to adaptation)
+        - Sex - female preponderance (M:F = 2:1), but rates vary across different phobic stimuli
+- **DSM-V diagnostic criteria for specific phobias:** ![](img/dsm-v_specific_phobia_diagnostic_criteria_part_1.png) 
+![](img/dsm-v_specific_phobia_diagnostic_criteria_part_2.png)
+- **Diagnostic features:**
+    - **Phobic stimulus** - fear or anxiety that is <u>immediately</u> circumscribed to presence of a particular situation or object, that does not <u>remind them of a past traumatic event</u>
+    - **Nature of fear response** - must differ from normal, transient fear that commonly occurs in normal socio-cultural context:
+        - <u>Intense and severe</u> (Criterion A) - the degree of anxiety posed may have a dose-response relationship and vary with proximity (e.g. in anticipation or in actual presence of object or situation)
+        - <u>Immediate</u> (Criterion B) - fear and anxiety occurs as soon as the phobic stimulus is encountered (i.e. immediate and not delayed)
+        - <u>Predictable</u> (Criterion C) - fear or anxiety is evoked **nearly every time** the individual comes into contact with the phobic stimulus, but degree may vary with each encounter due to various contextual factor (e.g. duration of exposure, other threatening factors)
+        - <u>Avoidance</u> (Criterion C) - individual actively avoids the situation if able to:
+            - **Active avoidance** - behaviour that are designed to prevent or minimise contact with phobic stimulus, or changed living environment to accomodate their fears, such that there may be the absence of overt anxiety
+            - **Passive avoidance** - behaviour to limit proximity to and duration w/ the exposure
+        - <u>Out-of-proportion</u> (Criterion D) - individual often overestimates the danger of the feared situations (which is deemed by the clinician), and often the individual often recognises their reaction as disproportionate
+    - **Persistence of fear and anxiety response** (Criterion E) - typically lasting for \> 6mo, but only serve as a general guide, especially has causing clinical distress
+    - **Distress and functional limitation** (Criterion F) - causes clinically significant distress or impairments in social, occulational or other importance areas of functioning (often as a result of active avoidance or the general incapacity upon encounter of phobic stumulus)
+- **Associated features:**
+    - **Autonomic arousal symptoms** - typically mild and variable, in anticipation of or during exposure of phobic stimulus as a result of SNS stimulation by the amygdyla
+- **Development and course:**
+    - **Age of onset** - typically developing in <u>early childhood</u> usually \< 10y (median age of onset between 7-11 y/o), but likely dependent on the phobic stimulus (e.g. situational specific phobias tend to have later stage of onset than natural environment, animals or blood-injection-injury)
+    - **Precipitating event** - many individuals are <u>unable to recall</u> the specific reason for the onset of phobia, but may develop:
+        - Following a <u>traumatic event</u> (e.g. being attacked by animal)
+        - Observation of <u>others going through a traumatic event</u> (e.g. watching someone drown)
+        - <u>Information transmission</u> (e.g. via social media of a plane crash)
+        - <u>Unexpected panic attack</u> in to be feared situation (e.g. unexpected panic attack in subway)
+    - **Clinical course** - typically wax and wane during childhood and adolescence, but may never remit if enabled to persist during childhood
+- **Risk and prognostic factors:**
+    - **Temperamental factors:**
+        - <u>Negative affectivity</u> - e.g. neuroticism
+        - <u>Behavioural inhibition</u>
+    - **Environmental factors:**
+        - <u>Previous negative encounters</u> - e.g. previous precipitating traumatic effects as above
+        - <u>Parental factors</u> - e.g. parental over protectiveness, parental loss and separation
+    - **Genetic and physiological factors:**
+        - <u>Genetic factors</u> - genetic susceptibility to a certain category of specific phobia which results in increased risk of developing the same specific phobia if present in first-degree relatives
+        - <u>Physiological factor</u> - excsesive physiological response to phobic stimulus may reinforce the 'learned' fear (e.g. propensity of blood-injection-injury phobia to have vasovagal syncope)
+- **Functional consequences of specific phobia** - similar pattern of impairment in psychosocial functioning and decreased QoL as other anxiety disorders:
+    - <u>Nature of functional limitation may be related to the specific phobia</u>:
+        - Individuals with blood-injection-injury specific phobias are often reluctant to obtain medical care even when a medical concern is present
+        - Fear of falling may result in reduced mobility and engagement in social activities
+    - <u>Degree of distress and impairment correlates to number of phobic stimulus</u> - possibly because there are more avoidance behaviour that leads to limited activities that do not result in fear and anxiety
+- **Psychiatric DDx of specific phobias:**
+    - **Other anxiety disorders:**
+        - <u>Agoraphobia</u> - situational specific phobias may resemble agoraphobia (e.g. fear of flying and elevators resemble fear of public transportation), hence probing for other phobias (e.g. of crowds), or reason for phobia (e.g. difficulty in escape) to identify agarophobia
+        - <u>Social anxiety disorder</u> - considered if reason for fear is explicitly because of -ve evaluation
+        - <u>Separation anxiety disorder</u> - if the situational specific phobia is separation from attachment figure
+        - <u>Panic disorder</u> - raises suspicion if panic attacks are unexpected and not response to the phobia stimulus
+        - <u>Obsessive-compulsive disorders</u> - considered if the fear is related to an obsessive thought
+    - **Trauma- and stressor-related disorders** - traumatic events can precede both trauma-related disorders or specific disorders, but if both diagnostic criteria, a diagnosis of PTSD should be assigned instead
+    - **Eating disorder** - if avoidance behaviours are related to avoidance of food and food-related cues
+    - **Schizophrenia spectrum and other psychotic disorders** - when the fear and avoidance are due to delusional thinking

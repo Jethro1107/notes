@@ -1,0 +1,55 @@
+---
+id: d9006644-8b4c-44c0-bb91-9427e863b348
+title: Post-Menopausal Bleeding
+---
+
+# Post-Menopausal Bleeding
+
+- **Definition** - any uterine uterine bleeding in a menopausal patient, except for those w/ withdrawal bleeding due to cyclic post-menopausal hormonal therapy
+- **Epidemiology:**
+    - <u>Prevalence</u> - occurs in 4-11% of post-menopausal bleeding
+- **Etiology of PMB** - list of DDx is less broad than that in pre-menopausal women:
+    - **Benign lesions:**
+        - <u>Endometrial polyps</u> - localised hyperplastic overgrowths of endometrial glands
+        - <u>Atrophic vaginitis</u> - hypoestrogenic changes in the endometrium and vagina where intracavitary friction results in micro-erosions resulting in minor bleeding or spotting
+        - <u>Fibroids</u> - typically resolve during menopause as leiomyomas are estrogen-sensitive tumours, but may be symptomatic in those on HRT
+        - <u>Adenomyosis</u> - esp. if Hx of dysmenorrhoea and HMB in pre-menopausal state, but are only symptomatic during post-menopausal phase in those on HRT
+    - **Pre-malignant and Malignant lesions:**
+        - <u>Endometrial hyperplasia</u> - w/ or w/o atypia, seen in perimenopausal and post-menopausal women
+        - <u>Endometrial carcinoma</u> - esp. in post-menopausal women w/ adequate risk factors (e.g. unopposed estrogen exposure)
+        - <u>Cervical cancer</u> - typically present w/ post-coital bleeding
+        - <u>Upper genital tract carcinoma</u> - rare mode of presentation in epithelial carcinomas of the ovary, fallopian tube and peritoneum
+- **Salient points of Hx:**
+    - **HPI** - onset, progression, quality, severity, timing:
+        - <u>Onset</u> - acute vs chronic
+        - <u>Progression</u> - static vs progressive
+        - <u>Quality and severity</u> - spotting vs bleeding
+        - <u>Timing</u> - a/w trauma, intercourse
+    - **Associated Sx:**
+        - <u>Fever</u> - suggestive of infective etiology
+        - <u>Pain</u> - note site and timing of pain (e.g. vaginal dryness, soreness w/ dyspareunia a/w atrophy)
+        - <u>Vaginal discharge</u> - seen in various gynaecological conditions
+        - <u>Urinary Sx</u> - points towards a pelvic mass
+        - <u>Bowel Sx</u> - points towards a pelvic mass
+    - **Menstrual Hx:**
+        - <u>Menarche and menopause</u> - estimate of duration of estrogen exposure (although not unopposed)
+        - <u>Cycle length and regularity</u> - irregularity suggestive of anovulatory cycle (e.g. by PCOS) which results in **unopposed estrogen cycle**
+        - <u>Previous menstrual flow</u> - any HMB, or AUB (e.g. PCB, IMB) in pre-menopausal state
+        - <u>Dysmenorrhoea</u> - secondary dysmenorrhoea a/w adenomyosis
+    - **Cervical smear Hx** - whether performed or any atypical findings
+    - **PMH:**
+        - <u>Breast cancer</u> - adjuvant hormonal therapy w/ tamoxifen is a risk factor for endometrial carcinoma
+        - <u>Gynaecological conditions</u> - Hx of ovulatory dysfunction a/w increased risk for endometrial carcinoma
+    - **Drug Hx** - antiplatelets, anticoagulants, HRT
+    - **SHx** - smoking, alcohol
+    - **FHx** - breast, endometrial and colorectal cancer (Lynch syndrome)
+- **P/E:**
+    - <u>General examination</u> - bleeding tendancy, BMI
+    - <u>Pelvic examination</u>:
+        - Speculum examination for any abnormal cervical lesion (Bx if visible), and pap-smear
+        - Bimanual examination for uterus size, mobility, and adnexal masses
+- **Ix:**
+    - **Cervical pap smear** - for evaluation of cervical cancer
+    - **Transvaginal USG** - usually initial Ix if suspected post-menopausal uterine bleeding
+    - **Endometrial sampling** - indicated even if TVUSS is inconclusive
+    - **Endometrial Bx** - enables histological Dx

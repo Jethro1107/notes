@@ -1,0 +1,88 @@
+---
+id: 9badbf56-f23a-49b9-9e40-9c0ba25995f2
+title: 2025-05-21
+---
+
+# Cirrhosis and related Complications - Literature Search on UpToDate <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+## Ascites
+
+- **Definition** - accumulation of fluid in the peritoneal cavity
+- **Etiology of ascites** - 95% due to portal HTN (from cirrhosis):
+    - **Portal HTN** - cirrhosis, HCC, alcoholic hepatitis, hepatic veno-occlusive disease (e.g. Budd-Chiari syndrome), Right heart failure (cardiac cirrhosis), constrictive pericarditis, haemodialysis-associated ascites
+    - **Hypoalbuminaemia** - nephrotic syndrome, protein-losing enteropathy, severe malnutition
+    - **Peritoneal disease:**
+        - <u>Peritoneal carcinomatosis</u> (malignant ascites) - e.g. ovarian cancer, mesothelioma, HCC, CRC, CA stomach, CA esophagus, CA pancreas etc.
+        - <u>Infectious peritonitis</u> - e.g. abdominal tuberculosis, fungal infections
+        - <u>Peritonial dialysis</u> - note that peritonitis can occur in PD
+        - <u>Rare peritoneal disease</u> - e.g. eosinophilic gastroenteritis, starch granulomatous peritonitis
+    - **Other etiologies:**
+        - <u>Chylous ascites</u> - malignancy related obstruction, acquired thoracic duct obstruction, chylothorax, congenital lymphangiectasia
+        - <u>Pancreatic ascites</u> - rare complication of acute pancreatitis due to disruption of the pancreatic duct causing leakage of pancreatic fluid into peritoneal cavity
+        - <u>Hypothyroidism</u> - myxoedematous coma
+        - <u>Urological injury</u> - traumatic vs iatrogenic
+- **Clinical features of ascites** - asymptomatic until significant amount of fluid collection:
+    - **Abdominal distension** - progressive abdominal distension, time course dependent on etiology:
+        - <u>Traumatic ascites</u> - rapid development over days
+        - <u>Ascites due to cirrhosis or portal HTN</u> - subacute development over weeks
+        - <u>Malignant ascites</u> - usually slow onset over months
+    - **Weight gain** - due to hypervolaemic status
+    - **Abdominal Sx** - e.g. early satiety, abdominal discomfort
+    - **Dyspnoea** - due to compressive effects on ventilation, hepatic hydrothorax, or hepato-pulmonary syndrome
+- **Signs of ascites:**
+    - <u>Abdominal distension</u> - classically bulging flanks w/ inversion of the umbilicus
+    - <u>+ve shifting dullness</u> - flank dullness that changes in level upon postural change due to the movement of the ascitic movement
+    - <u>Signs related to underlying cause</u>:
+        - **Stigmata of chronic liver disease** - cirrhosis (note disproportion of ascites relative to oedema if Alb is normal)
+        - **Splenomegaly** - suggestive of portal HTN
+        - **Sister Mary Joseph Nodule** - malignancy
+        - **Elevated JVP and pulmonary congestion** - cardiac failure
+        - **Generalised oedematous state** - hypoalbuminaemia
+- **DDx of abdominal distension** - 6 'Fs':
+    - Fat - abdominal obesity
+    - Flatus - intestinal obstruction
+    - Fetus - pregnancy
+    - Faeces - constipation
+    - Filthy big tumour - giant pelvic tumour or mesenteric cyst
+- **Ix and Dx evaluation** - confirmation of ascites and look for underlying cause:
+    - **Abdominal ultrasound** - confirmation of presence of ascites, look for potential etiology:
+        - **Confirmation of presence of ascites** - graded by different grading systems (not valdated):
+            - <u>International Ascites Club Grading System:</u>
+                - Grade 1 - Mild ascites detectable only by USG
+                - Grade 2 - Moderate ascites manifested by moderate symmetrical distension of the abdomen
+                - Grade 3 - Large or gross ascites with marked abdominal distension
+            - <u>Other grading systems:</u>
+                - 1+ - minimal and barely detectable
+                - 2+ - moderate
+                - 3+ - massive but not tense
+                - 4+ massive and tense
+        - **Assessment of etiology** - mainly for suspicion of cirrhosis and HCC (complete abdominal USG):
+            - <u>Findings suggestive of cirrhosis</u>:
+                - Liver changes - small fibrotic liver
+                - Features suggestive of portal HTN - 1) Splenomegaly, 2) Dilatation of Portal, Splenic, and Superior Mesenteric Veins, 3) Decreased portal venous blood flow velocity, 4) recanalization of umbilical vein
+            - <u>Findings suggestive of HCC</u> - focal lesion in the liver (further worked up w/ tri-phasic CT)
+    - **Diagnostic paracentesis** - determining cause of ascites and r/o SBP:
+        - **Indications of diagnostic paracentesis** - for every patient with new-onset ascites to evaluate the underlying cause (ascites is not assumed to be associated with cirrhosis)
+        - **Procedure:**
+            - USG tapping of ascitic fluid for analysis via a battery of tests (similar to the tests performed form pleural effusion).
+        - **Tests for ascitic fluid analysis:**
+            - **Appearance:**
+                - <u>Straw-coloured</u> - transudative process (portal HTN)
+                - <u>Cloudy</u> - points towards spontaneously infected fluid
+                - <u>Milky</u> - high triglyceride concentration reflecting chylous ascites
+                - <u>Bloody</u> - may originate from traumatic tap, but may reflect **malignancy**
+                - <u>Bile-staining</u> - biliary communication (e.g. ruptured GB, perforated DU)
+            - **WBC and differentials** - single most important test for evaluation of infection (SBP mortality correlated to time of delay from paracentesis \[3.3%/h\]):
+                - <u>Threshold for SBP</u> - WBC \> 500/mm3 or ANC \> 250 mm/3
+            - **Serum-ascites albumin gradient** (SAAG) - differentiation between exudative vs transudative ascites:
+                - <u>SAAG \> 11g/dL</u> - suggestive of portal HTN (97% accuracy), but not all attributed to cirrhosis
+                - <u>SAAG \< 11g/dL</u> - r/o portal HTN
+            - **Cytology** - for malignancies (low accuracy, \< 10% positive for malignant ascites
+            - **Microbiology:**
+                - Routine C/ST
+                - AFB staining and culture
+            - **Additional tests:**
+                - <u>Amylase</u> - elevated in pancreatitis or bowel perforation into ascites
+                - <u>Adenosine deaminase</u> - in suspected TB
+                - <u>Glucose concentration</u> - reduced in malignancy, or perforated viscus (as bacteria and bowel flora consume glucose)
+                - <u>LDH concentration</u> - increased in malignancy, peritonitis, or perforated viscus (high cellular turnover within peritoneal cavity)

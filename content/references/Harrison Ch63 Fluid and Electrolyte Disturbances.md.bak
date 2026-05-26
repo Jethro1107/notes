@@ -1,0 +1,179 @@
+---
+id: 737cbea0-9b0b-4f68-a5d4-5b7d8913bc45
+title: Harrison Ch63 Fluid and Electrolyte Disturbances
+---
+
+# Sodium and water
+
+## Sodium and water physiology
+
+- **Composition of body fluids** - accounts for 60% of total body weight:
+  - <u>Intracellular fluid</u> (ICF) - accounts for 75% of total body water (TBW)
+  - <u>Extracellular fluid</u> (ECF) - accounts for 25% of TBW:
+    - <u>Intravascular volume</u> - 25% of ECF
+    - <u>Extravascular volume</u> - 75% of ECF
+- **Ionic composition of body fluids:**
+  - ECF - Na+ and its accompanying anions (e.g. Cl-, HCO3-)
+  - ICF - K+ and organic phosphates (e.g. creatine phosphate, ADP)
+- **AVP-axis** - maintenance of body fluid osmolarity between 280-295 mOsm/kg:
+  - **AVP synthesis and secretion** - synthesised in the magnocellular neurons within hypothalamus, with axons projecting to the posterior pituitary, where AVP is released into circulation
+  - **Stimulation of AVP secretion:**
+    - <u>Increases in serum osmolarity</u> (\> 285 mOsm/kg) - activation of osmoreceptors (stretch-sensitive cation channels) in hypothalamus (including magnocellular neurons), resulting in AVP secretion
+    - <u>Changes in BP and intravascular volume</u> - strongly modify relationship between serum osmolarity and AVP secretion (hypovolaemia decreases threshold and increasess responsiveness to changes in osmolarity)
+
+    
+    ![](img/avp_levels_in_relation_to_osmolality_and_volume_status.png)
+  - **Effects of AVP** - stimulates retention of electrolyte free water:
+    - <u>Molecular mechanisms</u> - activation of V2 receptors causing PKA-dependent phosphorylation of AQP-2 water channels in principal cells
+    - <u>Effects on urine osmolarity</u>:
+      - **Maximal stimulation by AVP** - secretion of hypertonic urine (up to 1200 mOsm/kg)
+      - **Absence of AVP** - secretion of diluted urine (30-50 mOsm/kg)
+- **Maintenance of arterial circulatory integrity:**
+  - \_
+
+## Hypovolemia
+
+- **Definition** - state of combined salt and water loss, leading to a contraction of ECF volume
+- **Etiology of hypovolaemia:**
+  - **Renal causes** - excess loss of NaCl and water in urine:
+    - <u>Osmotic diuresis</u> - e.g. hyperglycaemia, mannitol
+    - <u>Pharmacologic diuresis</u> - e.g. acetazolamide (inhibit proximal NaCl reabsorption), trimethroprim (inhibition of distal ENaC)
+    - <u>Hereditary defects</u>
+    - <u>Mineralcorticoid deficiency</u>
+    - <u>Minerocorticoid resistance</u>
+    - <u>Tubulointerstitial injury</u> - interstitial nephritis, acute tubular injury, obstructive uropathy
+  - **Extra-renal causes** - fluid loss or 3rd spacing effect:
+    - <u>GI loss</u> - vomiting, diarrhoea
+    - <u>Skin loss</u> - profuse sweating, burns
+    - <u>Loss from respiratory system</u> - hyperventilation or invasive ventilation
+    - <u>3rd spacing</u> - from increased vascular permeability (e.g. sepsis, burns, peritonitis, pancreatitis), or hypoproteinaemia
+    - <u>Active bleeding</u>
+- **Clinical features of hypovolaemia:**
+  - <u>Initial Sx</u> - fatigue, weakness, thirst, postural dizziness
+  - <u>Subsequent severe Sx</u> - **oliguria**, cyanosis, abdominal pain, chest pain, confusion/ obtundation
+- **Signs of hypovolaemia:**
+  - <u>General examination</u> - diminished skin turgor, dry oral mucous membrane (poor markers of decreased ECFV), decreased JVP
+  - <u>Standing and sitting BP measurements</u> - orthostatic tachycardia (increase of 15-20 bpm upon standing), or orthostatic hypotension (drop of 10-20 mmHg upon standing)
+  - <u>Vital signs</u> - tachycardia, hypotension, oliguria
+- **Laboratory findings of hypovolaemia:**
+  - <u>RFT</u>:
+    - Urea and Cr - increase in Cr and Urea (less dependable due to increased tubular reabsorption or other states)
+    - Acid-base disorders revealing cause or as consequent of hypovolaemic shock
+  - <u>Urine osmolarity, Na and Cl-</u>:
+    - **Urine osmolarity** - typically \> 450 mOsm/kg
+    - **Urine sodium** - \< 20 mM in non-renal cause (\> 20mM in hypochloraemic alkalosis due to increased urinary secretion of HCO3), \> 20mM in renal cause
+- **Mx of hypovolaemia** - restore norovolaemia and replacing ongoing fluid loss:
+  - <u>IV fluid replacement</u> - selection of fluid guided by pathophysiology:
+    - **NormoNa or hypoNa** - NS
+    - **HyperNa** - D5 (if free water loss in DI), or hypotonic saline (if mixed water and salt loss)
+  - <u>Blood transfusion</u> - if severe haemorrhage or anaemia (titrate to HCT to \< 35%)
+
+# Sodium disorders
+
+- **Pathophysiology of sodium disorders** - abnormalities in water homeostasis, resulting in change in relative ratio of Na and water:
+  - <u>Two defense mechanisms of serum osmolality</u> - 1) water intake, 2) circulating AVP:
+    - **Water intake** - directly increases amount of water relative to Na
+    - **Circulating AVP** - levels of circulating AVP determines retention of free water
+  - <u>Volume status modulates release of AVP</u>:
+    - **Hypovolaemia** - increased AVP secretion at each level of serum osmolality, leading to water retention and hyponatraemia
+    - **Hypervolaemic states of arterial underfilling** - increased AVP secretion, leading to water retention and hyponatraemia
+- **Principles of sodium disorders:**
+  - \[Na\] tells one nothing about volume status of the patient
+
+## Hyponatraemia
+
+- **Definition** - plasma Na \< 135 mmol/L
+- **Epidemiology** - very common disorder:
+  - <u>Prevalence</u> - up to 22% of hospitalized patients
+- **Pathophysiology of hyponatraemia** - invariably caused by an increase in circulating AVP levels, increased renal sensitivity to ATP, and free water intake, +/- low solute intake in rare cases:
+  - <u>Increased circulating AVP levels</u> - can occur in hypovolaemic, euvolaemic and hypervolaemic status:
+    - **Hypovolaemia** - hypovolaemic state causes marked increase in circulating AVP levels, leading to increased water retention, and can lead to hypoNa in the setting of free water intake
+    - **Hypervolaemia** - arterial filling and circulatory integrity is decreased despite Na-avid edematous states (e.g. CHF and reduced cardiac output, cirrhosis and vasodilation, nephrotic syndrome), resulting in increased circulating AVP levels
+    - **Euvolaemia** - different disease states leads to increased sensitivity of circulatory AVP levels to serum osmolarity, increasing circulating AVP levels
+- **Etiology of HypoNa:** 
+![](img/diagnostic_approach_to_hypoNa.png)
+  - **Hypovolaemic hypoNa:**
+    - <u>Renal cause</u> - inappropriate loss of NaCl in urine leading to volume depletion states (UNa \> 20):
+      - **Minerocorticoid deficiency/ resistance** - Addison's disease, other causes of hypoaldosteronism
+      - **Diuretics** - esp. Thiazide diuretics because it does not impair renal concentrating mechanism, such that AVP retains full effect on water retention (cf loop diuretics, which blunt the countercurrent mechanism)
+      - **Salt-losing nephropathies** - e.g. Interstitial nephritis, recovery phase of ATN, refluxnephropathy, post-obstructive uropathy
+      - **Osmotic diuresis** - glycosuria, ketonuria (starvation), bicarbonaturia (e.g. metabolic alkalosis)
+      - **Cerebral salt wasting syndrome** (inappropriate natriuresis in association w/ intracranial disease)
+    - <u>Extra-renal cause</u> - extra-renal loss of water, in the setting of free water intake (UNa \> 20):
+      - **GI loss** - vomiting, diarrhoea
+      - **Skin loss** - excessive sweating
+      - **Respiratory loss** - invasive ventilation
+      - **3rd spacing** - e.g. burns, pancreatitis, peritonitis
+  - **Hypervolemic hypoNa:**
+    - <u>Renal cause</u> - acute or chronic renal failure (UNa \> 20)
+    - <u>Extra-renal causes</u> - congestive heart failure, cirrhosis, nephrotic syndrome (UNa \< 20)
+  - **Euvolaemic hypoNa** (UNa \> 20):
+    - <u>Severe hypothyroidism</u>
+    - <u>Glucocorticoid deficiency</u> (e.g. secondary adrenal insufficiency) - as glucocorticoid normally exerts -ve feedback on AVP secretion
+    - <u>Physiological stress</u>
+    - <u>Drugs</u>
+    - <u>Syndrome of inappropriate ADH secretion</u>
+- **Pathophysiology of Neurological deficits in HypoNa:**
+  - <u>Generalised cellular swelling</u> - water movement down osmotic gradient from hypotonic ECF into ICF, causing cerebral oedema in the rigid skull
+  - <u>Volume regulatory functions by neurons</u> - efflux of different intracellular osmolytes to control ICF volume:
+    - <u>Acute setting</u> - efflux of intracellular ions (Na+, K+, Cl-) into interstitial fluid, subsequently into CSF and into systemic circulation
+    - <u>Chronic setting</u> - efflux of organ osmolytes (e.g. creatine, etaine, gutamate, myoinositol, taurine) reducing intracellular osmoality (<u>complete in 48h</u>)
+- **Clinical Features of Hypovolaemia** - neurological sequelae dependent on rate of onset:
+  - **Acute symptomatic hypoNa** - rapid onset of neurological deficits as a result of acute hyponatraemic encephalopathy:
+    - Early symptoms - N/V, headaches
+    - Late, severe complications - brainstem herniation, comatosis, normocapneic or hypercapneic respirator failure (due to neurogenic pulmonary oedema)
+  - **Chronic hypoNa** - often considered 'asymptomatic' due to presence of cellular volume regulatory responses, but can manifest as subtle <u>gait and cognitive deficits</u> (**increased risk in falls and fractures**)
+- **Dx evaluation of hypoNa:**
+  - <u>Salient Hx</u> - detailed drug Hx
+  - <u>P/E and clinical assessment</u> - careful assessment of volume status
+  - <u>Radiological imaging</u> - r/o pulmonary or CNS causes of hypoNa
+  - <u>Laboratory Ix</u>:
+    - **Serum osmolality measurements** - r/o pseudohyponatraemia
+    - **Serum glucose** - glucose-related water efflux
+    - **RFT:**
+      - Urea and Cr - indicate renal dysfunction as potential cause of hypoNa
+      - HyperK - hyoaldosteronism as a potential cause
+    - **Serum uric acid** - hyperuricaemic in hypovolaemic patients, hypouricaemic in SIAD
+    - **Endocrine screen** - TFT, Morning Cortisol, and pitutiary screening
+    - **Urine electrolytes and osmolality**
+
+### Syndrome of inappropriate antidiuresis
+
+- **Definition** - Pathological anti-diuretic process despite hypo-osmolar state (i.e. inappropriate antidiuresis)
+- **Etiology of SIADH:**
+  - <u>Pulmonary diseases</u> - e.g. pneumonia, tuberculosis, pleural effusion
+  - <u>CNS disorders</u> - e,g, CNS infections, CNS mass effect (haematoma, tumours, hydrocephalus), other miscellaneous CNS disorders
+  - <u>Malignancies</u> - e.g. SCLC (75% of malignancy-associated SIAD), CA of GI tract, genitourinary tract etc.
+  - <u>Drugs</u> - SSRIs, TCAs, Anticholinergics etc.
+
+  
+  ![](img/etiology_SIAD.png)
+- **Pathophysiology of SIADH:**
+  - <u>4 pathological patterns of AVP secretion</u> - generally independent of the underlying cause of SIAD:
+    - 1\. Erratic AVP secretion - no corresponding relationship between serum osmolality and circulating AVP level
+    - 2\. Unsuppressed AVP secretion - failure to suppress AVP secretion at low serum osmolalities (i.e. \< 280 mOsm/kg), with normal response curve to hyperosmolar conditions
+    - 3\. 'Reset osmostat' - decreased osmolality threshold for AVP secretion, and a left-shifted osmotic response curve
+    - 4\. No detectable ADH - increased sensitivity to ADH, or a circulating antidiuretic substance distinct from ADH
+
+    ![](img/4_patterns_AVP_secretion_SIADH_curve.png) 
+    ![](img/types_of_AVP_secretion_SIADH_table.png)
+  - <u>Generation of hyponatraemia</u> - free water intake due to thirst as a result of elevated AVP/ anti-diuretic stimulation at a lower serum osmolality threshold
+  - <u>Maintenance of euvolaemic status</u> - strictly speaking should be volume expanded, but AVP limit distal renal tubular transport, preserving modestly hypervolemic steady state
+
+### Management of Hyponatraemia
+
+- **Principles of Mx of hypoNa:**
+  - <u>Correction of hypoNa</u> - urgency and rate of correction is dependent on 3 considerations (see below)
+  - <u>Treatment of reversible cause</u> - e.g. hypothyroidism, secondary adrenal insufficiency, or drug-induced
+- **3 considerations guding Mx of HypoNa:**
+  - <u>Chronicity and symptomatology</u> - Correction of hypoNa is concurrent to rate of development of hyponatraemia:
+    - **Acute hypoNa** (more symptomatic) - require urgent correction of Na
+    - **Chronic hypoNa** (less symptomatic) - less urgent correction of Na
+  - <u>Risk of ODS</u> - increased risk of ODS if correction of chronic hypoNa is too rapid (i.e. \> 8-10 mmol/L within 1st 24h or \> 18 mmol/L within 1st 48h)
+  - <u>Treatment responsiveness is umpredictable</u> - frequent monitoring of plasma Na is imperative
+- **Initial Mx of acute hyponatraemia** - hypertonic saline (3% NaCl):
+  - <u>Indications</u> - moderate-to-severe hypoNa (Na \< 130 mmol/L), or symptomatic hyponatraemia???
+
+## Hypernatraemia
+
+# Potassium disorders

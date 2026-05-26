@@ -1,0 +1,41 @@
+---
+id: e94de064-35a0-4943-9535-e84ac5a0f183
+title: Brain Metastasis
+---
+
+# Brain Metastasis
+
+- **Definition** - distant metastasis of a primary to the brain, being the most common brain tumours, and attribute to increasing morbidity
+- **Epidemiology:**
+    - 10-30% of adult cancer patients
+    - 6-10% of paediatric cancer patients
+- **Common primaries that metastasise to the brain:** 
+![](../img/primary_tumour_sites_that_metastasize_to_the_brain.png)
+- **Common sites of metastasis within the brain** - most commonly the cranial parenchyma:
+    - White matter of cerebral parenchyma
+    - Cranial nerves
+    - Intracranial vasculature
+- **Clinical features of brain metastasis:**
+    - <u>Headaches</u> (40-50%) - as a result of raised ICP from mass lesion +/- associated **vasogenic oedema** (maybe a/w N/V)
+    - <u>Focal neurological S/S</u> (20-40%) - dependent on site of tumour, but typically presents as -ve Sx
+    - <u>Cognitive dysfunction</u> (35%) - especially if affecting areas of cognitive function, memory etc.
+    - <u>Seizures</u> (10-20%) - may result in epilepsy
+    - <u>Papilloedema</u> (\< 10%) - frankly raised ICP
+- **Ix and Dx** - Dx confirmed by CT or MRI
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Mx of raised ICP</u> - immediate Mx of raised ICP if predominant feature
+        - <u>Tx of vasogenic oedema</u> - high-dose dexamethasone (4mg qid)
+        - <u>Tx of seizures</u> - anticonvulsants
+        - <u>Palliative Tx</u> - surgery and radiotherapy provides Sx relief but effects on OS is questionable
+    - **High-dose corticosteroids:**
+        - <u>Regimen</u> - Dexamethasone 4mg qid
+        - <u>MOA</u> - reduce tumour-related vasogenic oedema
+        - <u>Clinical efficacy</u>:
+            - Symptomatic improvement
+            - May improve survival for 2-3 mo
+    - **Surgery** (often w/ adjuvant RT) - may be deemed curative for single site diseae pending neurosurgical evaluation
+    - **Radiotherapy:**
+        - <u>Whole brain irradiation</u> - mild prognostic effects (3-6 mo) not proven in RCTs, and reserved for **advanced brain metastasis**
+        - <u>SBRT</u> - indicated for solitary disease where surgery is not possible
+- **Prognosis** - extremely poor prognosis (in terms of mo), but dependent on primary

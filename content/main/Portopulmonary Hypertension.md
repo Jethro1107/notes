@@ -1,0 +1,18 @@
+---
+id: A77F5D5B-D6E0-4077-9CCC-84234DB392F5
+roam_parent: 085f44df-58c4-4740-99ab-c0001a97dfc4
+title: Portopulmonary Hypertension
+---
+
+# Portopulmonary Hypertension
+
+- **Definition** - pulmonary HTN in a patient w/ portal HTN
+- **Epidemiology** - rare complication of cirrhosis (\< 5% of decompensated cirrhosis)
+- **Pathophysiology of PPHT** - production of vasoconstrictor in response to portal HTN affeecting the pulmonary artery
+- **Clinical features of PPHT:**
+    - Usually asymptomatic esp. in early disease
+    - Shortness of breath on exertion w/ fatigue
+- **Dx** - right heart cathterisation
+- **Mx:**
+    - Vasodilatory medications
+    - Liver transplantation

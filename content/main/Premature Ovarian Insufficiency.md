@@ -1,0 +1,23 @@
+---
+id: c59199ad-4239-4c81-a67b-4867965056b2
+title: Premature Ovarian Insufficiency
+---
+
+# Premature Ovarian Insufficiency
+
+- **Definition** - defined arbitrarily as occuring \< 40y of age, with congenital, iatrogenic, or autoimmune etiologies
+- **Etiology of premature ovarian insufficiency:**
+    - <u>Congenital</u> - gonadal agenesis/ dysgenesis:
+        - Chromosomal - e.g. Turner syndrome
+        - Non-chromosomal - fragile X premutation-associated primary ovarian insufficiency
+    - <u>Acquired gonadal damage</u> - e.g. infections, surgery, chemotherapy/ radiotherapy
+    - <u>Autoimmune</u> - autoimmune gonadal failure
+- **Ix** - confirm hypergonadotrophic hypogonadism and identify cause:
+    - **FSH** - \> 25 IU/L x2
+    - **Genetic testing:**
+        - <u>Karyotype</u> - for turner syndrome
+        - <u>Fragile X premutation</u>
+    - **Autoimmune Ab** - anti-thyroid and anti-adrenal Ab
+- **Dx of premature ovarian insufficiency** - based on FSH \> 25 IU/L twice at least 4 weeks apart
+- **Mx:**
+    - Maintenance HRT for prevention of osteoporosis until age 51

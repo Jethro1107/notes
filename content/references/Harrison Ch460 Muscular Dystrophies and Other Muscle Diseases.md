@@ -1,0 +1,123 @@
+---
+id: 47571B95-A702-40EA-8541-0A71C7226F59
+title: Harrison Ch460 Muscular Dystrophies and Other Muscle Diseases
+---
+
+# Ch460 Muscle Dystrophies and Other Myscle Diseases
+
+- **Groups of neuromuscular disorders presenting w/ muscle weakness** - disorders of the <u>motor unit</u>:
+    - Disease of the muscles
+    - Disease of the neuromuscular junction
+    - Disease of the peripheral nerves (very rarely)
+    - Disease of the lower motor neuron (i.e. anterior horn cell)
+- **Myopathies classified based on pattern of weakness or muscle involvement:** 
+![](../img/classification_of_myopathies_and_pattern_of_weakness.png)
+    - <u>Symmetrical proximal weakness w/ sparing of the facial muscles</u> (limb-girdle weakness) - DDx wide but includes 1) inflammatory myopathies, endocrine myopathies, drug-induced or toxic myopathies, and other hereditary myopathies
+    - <u>Facial weakness and scapular winging</u> - characteristic of facioscapulohumeral dystrophies (FSHD)
+    - <u>Facial weakness and distal limb weakness</u> - consider myotonic dystrophy type 1 esp if a/w hand grip myotonia
+    - <u>Ptosis, diplopia, and bulbar weakness</u> - consider NMJ disorders, occulopharyngeal muscular dystrophy, mitochondrial myopathies or some other congenital myopathies
+    - <u>Axial muscle weakness</u> - must consider myasthenia gravis, amyotrophic lateral sclerosis, SLONM, and late-onset RyR myopathies, myotonic dystrophy type 2, FSHD, hypoparathyroidism, focal myositis, or some form of inclusion body myopathy (sIBM and hlIBM)
+    - <u>Isolated distal myopathies</u> - rare MG, distal muscular dystrophies, congenital myopathies, oculopharyngeal distal myopathies etc.
+- **DDx of intermittent weakness** - beyond MG:
+    - <u>Delayed or unrelated to exercise</u>:
+        - NMJ disorders - MG, LEMS
+        - Periodic paralysis - hereditary hyper-/hypo-kalaemic periodic paralysis, thyrotoxic periodic paralysis, RTA
+    - <u>Related to exercise</u>:
+        - Disorders of muscle energy metabolism - e.g. McArdle disease (myophosphorylase deficiency), CPT deficiency
+        - Mitochondrial myopathies - e.g. cytochrome B deficiency
+- **Clinical features of myopathies:**
+    - **Muscle weakness:**
+    - **Muscle pain, cramps, and stiffness:**
+    - **Muscle hypertrophy, pseudohyertrophy, or atrophy:**
+- **Diagnostic evaluation of intermittent weakness:** 
+![](../img/diagnostic_evaluation_of_intermittent_weakness.png)
+- **Diagnostic evaluation of persistent weakness of suspected muscle origin:** 
+![](../img/diagnostic_evaluation_of_persistent_weakness.png)
+
+## Hereditary Myopathies
+
+### Duchenne and Becker Muscular Dystrophy
+
+### Limb-Girdle Muscular Dystrophy
+
+### Emery-Dreifuss Muscular Dystrophy
+
+### Myotonic Dystrophy
+
+### Fascioscapulohumeral Muscular Dystrophy
+
+### Occulopharyngeal Dystrophy
+
+### Occulopharyngeal Distal Myopathy
+
+### Distal Myopathies/ Dystrophies
+
+### Multisystem Proteinopathies
+
+### Sporadic Late-Onset Nemaline Myopathy
+
+## Disorders of Muscle Energly Metabolism
+
+## Mitochondrial Myopathies
+
+## Disorders of Muscle Membrane Excitability
+
+## Endocrine and metabolic Myopathies
+
+## Myopathies of Systemic Illness
+
+## Drug-induced or Toxic Myopathies
+
+- **Causes of toxic myopathies** - most common causes include 1) lipid-lowering agents, and 2) glucocorticoids: 
+![](../img/drug_induced_myopathies.png)
+
+### Myopathy from Lipid-Lowering Agents
+
+- **Definition** - muscle toxicity caused by lipid-lowering agents
+- **Lipid-lowering agents a/w myopathy** - classically statins, but all are implicated:
+    - Statins (most common)
+    - Ezetimibe
+    - Fibrates
+    - Niacin
+- **Risk factors for severe myopathies** - concomittent use of:
+    - Fibrates
+    - Cyclosporine
+- **Pathophysiology of statin-induced myopathy** - necrosis of muscle fibres in weak muscles
+- **Clinical manifestations of myopathy from lipid-lowering agents:**
+    - Myalgia or isolated elevated CK (most common presentation)
+    - Symmetrical proximal weakness (uncommon)
+    - Rhabdomyolysis and myoglobinuria (rare)
+- **Ix** - generally not pursued:
+    - <u>EMG</u> - muscle irritability
+    - <u>Muscle Bx</u> - necrotic muscle fibres
+- **Mx:**
+    - <u>Indications for drug cessation:</u>
+        - Asymptomatic rise in serum CK (\> 3-5 x ULN)
+        - Myalgia or demonstrable weakness
+        - Presence of myoglobulinaemia
+    - <u>Response to cessation of the offending agent:</u>
+        - Most patients will improve clinically and biochemically, ocassionally taking several weeks
+        - Ocassionally may persists, classically in the example of statin-induced anti-HMGCR myopathy which requires immunotherapy w/ IVIG
+
+### Glucocorticoid-related Myopathies
+
+- **Definition** - steroid-induced myopathy that may occur acutely w/ high-doses of IV glucocorticoids, or chronic administration of high-dose oral steroids
+- **Clinical features of steroid-related myopathies:**
+    - <u>Acute quadriplegic myopathy</u> - complete immobilisation in a **quadriplegic pattern** (mimicking a cervical lesion) secondary to high-dose IV glucocorticoid usage, ocassionally resulting in **ventilatory failure**
+    - <u>Chronic glucocorticoid myopathy</u> - much resembles that produces a **proximal weakness** invariably a/w other **Cushingoid manifestations**
+- **Risk factors for glucocorticoid-related myopathies:**
+    - <u>Patient factors requiring high-dose IV glucocorticoids</u> - usually severe generalised weakness (cirtical illness myopathy):
+        - Status asthmaticus or severe COPD
+        - Organ transplantation
+        - Sepsis
+    - <u>Use of fluorinaated glucocorticoids</u> - e.g. triamicinolone, betamethasone, dexamethasone
+    - <u>Dose and duration</u> - high-dose, chronic administration
+- **Ix:**
+    - <u>CK</u> - usually normal in chronic steroid myopathy
+    - <u>K</u> - hypoK (possibly a/w myopathy)
+    - <u>NCS</u> - reduced compound muscle action potential in setting of relatively normal sensory potentials
+    - <u>EMG</u> - abnormal insertional and spontaneous activity and early recruitment of myopathic appearing units
+- **Mx:**
+    - <u>Supportive care</u> - e.g. ventilatory support in the ICU
+    - <u>Withdrawal of glucocorticoids</u> - should be balanced w/ the underlying disease
+    - <u>Rehabilitaiton</u> - recovery is slow w/ physical therapy

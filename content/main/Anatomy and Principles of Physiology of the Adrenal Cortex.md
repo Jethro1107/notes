@@ -1,0 +1,34 @@
+---
+id: 0C616383-938B-4E47-B382-B34F025E2068
+roam_parent: c7026d4b-2cb0-4fb0-a526-a6d017e49259
+title: Anatomy and Principles of Physiology of the Adrenal Cortex
+---
+
+# Anatomy and Principles of Physiology of the Adrenal Cortex
+
+- **3 classes of corticosteroids:**
+    - <u>Glucocorticoids</u> - endogenous form is **cortisol**
+    - <u>Minerocorticoids</u> - endogenous form is **aldosterone**
+    - <u>Androgens</u> - pre-cursor produced by the adarenal glands, termed **dehydropiandrosterone** (DHEA)
+- **Adrenal anatomy:**
+    - <u>Normal site and size</u> - paired adrenal glands above the kidneys (6-11g each)
+    - <u>Arterial supply</u> - superior, middle and inferior **suprarenal arteries** penetrate the subcapsular region and meaders from the zona glomerulosa, through the zona fasciculata into the zona reticularis, subsequently into the medulla
+    - <u>Venous drainage</u>:
+        - Right adrenal glands - right suprarenal vein drains directly into the vena cava
+        - Left adrenal glands - left adrenal vein drains into the left renal vein
+- **Embryonic development of the adrenal glands** - arising from the <u>urogenital ridge</u> and separate from gonads and kidneys at 6th week of gestation:
+    - Formation of the embryonic adrenal glands is in concordance to sex differentiation (7-9th week of gestation), starting to produce cortisol and DHEA
+    - Initiation of steroidogenesis embryonically is drven by key receptors such as SF1, and DAX1
+- **Core regulatory axis of the 3 classes of corticosteroids:**
+    - <u>Glucocorticoids</u> - under control of the hypothalamic-pituitary-adrenal (HPA) axis
+    - <u>Minerocorticoids</u> - under control of the renin-angiotensin-aldosterone system (RAAS)
+    - <u>Adrenal androgen precursors</u> - under control of the hypothalamic-pituitary-adrenal (HPA) axis
+- **Principles of disorders of the adrenal cortex** - related to deficiency or excess of \>= 1 of the 3 major corticosteroid classes:
+    - <u>Hormone deficiency</u>:
+        - Inherited - inherited glandular problem or inherited enzymatic disorders
+        - Acquired:
+            - Hormonal suppression (glucocorticoid-induced adrenal insufficiency)
+            - Damage to adrenal glands by 1) autoimmunity, 2) infection, 3) infarction, or 4) iatrogenic events (radiation, surgery)
+    - <u>Hormone excess</u> - often resulting in neoplasia:
+        - Adrenal disorders - adrenal nodules, adrenal hyperplasia
+        - Pituitary or ectopic ACTH production - pituitary adenoma, neuro-endocrine ectopic ACTH-producing cells

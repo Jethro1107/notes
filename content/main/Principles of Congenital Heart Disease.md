@@ -1,0 +1,57 @@
+---
+id: 9cefd621-5070-41ae-9bf2-eb3386d47201
+title: Principles of Congenital Heart Disease
+---
+
+# Principles of Congenital Heart Disease
+
+- **Definition** - structural heart diseases that develop congenitally due to failure to switch from fetal to extrauterine circulation that usually manifests in childhood, but may pass unrecognised and not present in adult life
+- **Fetal circulation** - bypass pulmonary circulation by right-to-left shunting through:
+    - **Featal circulation bypasses pulmonary circulation by right-to-left shunting through:**
+        - <u>Foramen ovale</u> - shunting of placenteal oxygenated blood from RA to LA
+        - <u>Ductus arteriosis</u> - shunting of plancenteal oxygenated blood from pulmonary artery to aorta
+    - **Normal changes of fetal circulation at birth:**
+        - <u>Opening of pulmonary vasculature</u> - lung expands w/ air and **pulmonary vascular resistance falls**
+        - <u>Closure of foramen ovale</u> - flap valve closes foramen ovale as LA \> RA pressure with normal pulmonary circulation
+        - <u>Obliteration of uterine artery, vein, and ductus venosus</u> - abolishes placenteal circulation
+        - <u>Obliteration of ductus arteriosus</u> - over a few days under **hormonal changes** (prostaglandins)
+        - <u>Expansion of artic isthmus</u> - enables normal aortic flow
+
+    
+    ![](img/changes_in_circulation_at_birth.png)
+    - **Congenital heart disease is caused by congenital defects when changes from fetal to extrauterine circulation are incomplete:**
+        - ASD - failure of closure at sight of foramen ovale
+        - ASD/ VSD - failure of septation during embryonic development
+        - Patent ductus arteriosus - failure of closure of ductus arteriosus
+        - Coarctation of aorta - failure of aorta to develop at point where ductus arteriosus attaches
+        - Transposition of great arteries, tetralogy of fallot, truncus arteriosus - failure of allignment of great vessels with ventricles
+- **Etiology and incidence of congenital cardiac abnormalities:**
+    - <u>Incidence</u> - haemodynamically significant cogenital heart disease occurs in 0.8% of live birth (different relative frequencies)
+    - <u>Etiology</u>:
+        - **Chromosomal abnormalities** - e.g. Down syndrome a/w ASD, VSD, Turner syndrome a/w coarctation of aorta
+        - **Gene defects** - e.g. Marfan syndrome, Digeorge syndrome
+        - **Maternal infections** - maternal rubella infections a/w persistent ductus arteriosus, pulmonary valvular/ artery stenosis, and atrial septal defect
+        - **Maternal alcohol, drugs and toxin exposure** - alcohol a/w increased risk of septal defect, while toxin exposure increases risk of all congenital heart disease
+        - **Maternal lupus** - a/w congenital complete HB
+
+    
+    ![](img/relative_frequency_of_congenital_heart_disease.png)
+- **Clinical features of congenital heart disease** - varying stage of presentation depending on the size of defect:
+    - **Heart failure** - onset of <u>chronic, progressive exertional dyspnoea</u> (w/ associated S/S) that can present in an infant, child, adolescent or adult
+    - **Central cyanosis** - desaturation occurs as de-oxygenated blood bypasses the lungs and enter systemic circulation, presentation depends on the size of shunt:
+        - <u>Cyanosis in neonates</u> - implies extensive right-to-left shunt at birth, most likely a **transposition of great arteries w/ associated large ventricular defect**
+        - <u>Cyanosis in child</u> - implies gradual development of right-to-left shunt during childhood, most likely **VSD, tetralogy of fallot, or Eisenmenger syndrome**
+    - **Clubbing** - likely caused by increased pulmonary vascular resistance which is a/w prolonged cyanosis
+    - **Growth retardation** - lare left-to-right shunts and effects of other genetic Sx, resulting in <u>failure to thrive</u>, intellectual disabilities (from mild to major) due to comprimised cerebral perfusion
+    - **Syncope** - classically exertional syncope caused by cerebral hypoperfusion as a result of <u>failure to compensate for systemic vasodilation</u> due to increased pulmonary vascular resistance or presence of LVOT and RVOT obstruction
+    - **Pulmonary hypertension and Eisenmenger syndrome** - pulmonary HTN ensues where left-to-right shunt is reversed, resulting in right-to-left shunts
+- **Clinical presentation of congenital heart disease** - stage of presentation depends on size of defect:
+    - <u>Birth and neonatal period</u> - neonatal cyanosis, heart failure
+    - <u>Infancy and childhood</u> - cyanotic heart failure, failure to thrive, arrhythmia, incidental finding on CXR or P/E (murmur)
+    - <u>Adolescence and adulthood</u>:
+        - Heart failure
+        - Arrhythmia
+        - Cyanosis due to Eisenmenger's syndrome
+        - Incidental finding on CXR or P/E (murmur)
+        - Secondary HTN (e.g. coarctation of aorta)
+        - Late consequences of previous cardiac surgery (e.g. arrhythmia, heart failure)

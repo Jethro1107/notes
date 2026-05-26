@@ -1,0 +1,170 @@
+---
+type: literature
+tags:
+---
+# Ch31 Dementia
+
+- **Definition** - acquired deterioration in cognitive abilities that _impairs successful performances of activities of daily living_
+- **Domains of cognitive function deteriorated in dementia:**
+	- Memory (particularly episodic memory being the most commonly lost cognitive function)
+	- Language
+	- Visuospatial function
+	- Psychomotor functions (praxis)
+	- Executive functions (calculation, judgement, problem-s solving)
+- **Other clinical manifestations in dementia:**
+	- Neuropsychiatric manifestations
+	- Social deficits
+- **Clinical course of dementia syndromes** - variable and dependent on underlying cause:
+	- _Static_ - anoxic/ hypoxic encephaloopathy, neurological sequelae of MI
+	- _Flucuating_  - severe fluctuating levels of cognition in LBD
+	- _Progressive_ - as in AD, and VaD
+- **Terminologies for pre-syndromal stages of dementia:**
+	- _Subjective cognitive impairment_ - stage where individuals complain of cognitive decline, but are not objectively demonstrable, nor does it interfere w/ activities of daily living
+	- _Mild cognitive impairment_ - prodromal clinical stage where individuals experience objectively demonstrable cognitive decline, but remain independent in most daily activities
+	- _Pre-clinical AD_ - pre-clinical stage where neurobiological changes of AD are being observed in the absence of clinical manifestations
+## Functional Anatomy of the Dementias
+
+- **Neurochemistries regulating cognitive functions** - dementias differ in the underlying molecular pathology and relative neurotransmitter deficit profiles, guiding Tx:
+	- _Monoamines_ (serotonergic, noradrenergic, dopaminergic) - regulates behaviour, mood, and attention
+	- _Cholinergic signaling_ - critical for complex attention and memory functions
+- **Fronto-striatal pathways** - predictable changes in behaviour (+/ aphasias if dominant hemisphere involved):
+	- _Dorolateral prefrontal cortex_ (connections w/ caudate) - lesions results in **executive dysfunction**, including poor organisation and planning, decreased cognitive flexibility, and impaired working memory
+	- _Lateral orbital frontal cortex_ (connections to ventromedial caudate) - causes impulsiveness, distractibility, and **disinhibition**
+	- _Anterior cigulate cortex and medial prefrontal cortex_ (connects to nucleus accumbens) - produces apathy, poverty of speech, emotional blunting, or even akinetic mutism
+
+## Causes of Dementia
+
+- **DDx of dementia:**
+	- ![[AdobeExpressPhotos_26d186b4420348b4831c5c1150c15a3a_CopyEdited.png]]
+- **Reversible components of cognitive impairments** - in a study of 1000 attendees of memory clinic, 19% have a potentially reversible cause, while 23% have a reversible concomitant condition, the most common causes were:
+	- Depression
+	- Normal pressure hypdrocephalus
+	- Alcohol dependence
+- **Rapidly progressive dementia** - terminology applied to illnesses that progress from initial symptom onset to dementia where toxic and metabolic conditions were excluded:
+	- _Neurodegenerative diseases_ - AD or other neurodegenerative disorders (most common)
+	- _Other encephalopathies_ - autoimmune encephalitis
+	- _Chronic infections_ - Creutzfeldt-Jakob disease (CJD)
+- **Other terminologies reflecting cumulative decline in episodic memory:**
+	- _Benign forgetfulness of the elderly_ - the frustrating experience of decline in episodic memory described as benign in that it is not so progressive or serious that it impairs successful and protective daily functioning
+	- _Subjective cognitive decline_ - refers to individuals who experience a subjective decline from their cognitive baseline but perform within normal limits for their age and educational attainment
+	- _Mild behavioural impairment_ - refers to emergence of sustained and impactful neuropsychiatric symptoms in older adults (e.g. apathy, emotional dysregulation, impulse control social inappropriateness, delusions, hallucinations)
+- **Factors predicting progression from MCI to an AD dementia:**
+	- Prominent memory deficit (amnestic MCI)
+	- FHx of dementia
+	- Presence of ApoE4 allele
+	- Small hippocampal volumes on imaging
+	- +ve AD CSF/ neuroimaging biomarkers
+- **Major neurodegenerative dementias** - each associated w/ abnormal aggregation of a specific protein:
+	- ![[Pasted image 20260516222123.png]]
+## Approach to the Patient with Dementia
+
+- **Evaluation of the patient with dementia:**
+	- ![[Pasted image 20260516223544.png]]
+- **3 major issues when approaching the patient w/ suspected dementia:**
+	- 1) What is the clinical diagnosis?
+	- 2) What component of the dementia syndrome is treatable or reversible?
+	- 3) Can the physicial help to alleviate the burden on caregivers?
+- **Differentiation between major degenerative dementias** - based on 1) initial Sx, 2) neurocognitive and neuropsychiatric findings, 3) neurologic findings, 4) imaging and biomarkers:
+	- ![[Pasted image 20260519213441.png]]
+- **Salient points of Hx:**
+	- **HPI** - onset, progression, dominant symptomatology:
+		- _Onset_ - ask informant/ carer (or ocassionally the patient) when changes begin to be noticeable:
+			- Acute/ subacute - may suggest delirium esp if a/w confusion, where a search of trigger is warranted
+			- Chronic - slowly progressive cognitive impairment over years suggestive of dementia syndrome
+		- _Age of onset_:
+			- Most common causes of early-onset dementia - AD and FTD
+			- Most common causes of late-onset dementia - AD, DLB, VCID, mixed dementia
+		- _Progression_ - tempo of progression
+		-  _Dominant symptomatology_:
+			- **AD** - nearly 75% begin w/ **memory Sx**, but other early Sx includes executive dysfunction (e.g. managing money, driving, shhopping), visuospatial disturbances (e.g. navigating), or language (word finding)
+			- **LATE** - almost always presents w/ slowly progressive memory loss
+			- **FTD** - usually presents w/ personality change, disinhibition (including compulsive eating and weight gain), apathy, w/ **relative sparing of memory and visuospatial abilities**
+			- **DLB** - usually presents w/ early VH, parkisonism, and marked fluctuations of attention (e.g. **proneness to psychoactive medications**)
+			- **VCID** - characterised by Hx of stroke/ mark vasculopathic risk factors or AF, and irregular step-wise progression (classical but often lack such Hx)
+	- **PMH:**
+		- _TBI_ - recurrent head trauma could indicate chronic subdural haematoma, CTE, intracranial hypotension, or NPH
+		- _Malignancies_ - sudden onset of severe amnesia or psychosis w/ mesial temporal T2/FLAIR hyperintensities on MRI raises suspicion of autoimmune encephalitis
+		- _STI_ - distant STI infection should raise suspicion of HIV or neurosphilis
+		- _Alcohol use disorder_ - risk for malnutrition, hepatic encephalopathy, and thiamine deficiency
+		- _GI or bowel disorder_ - remote Hx of gastric surgery, chronic therapy w/ H2RA/ PPI, bowel irradiation, or pernicious anaemia raises suspicion for B12 deficiency
+		- _Depression_ - Hx of mood disorders, recent loss, or other depressive Sx (e.g. insomnia, or weight loss) raises suspicion of pseudodementia (i.e. depression-related cognitive mpairment)
+	- **Drug Hx** - careful review of medication intake especially for analgesics or sedatives
+	- **FHx** - for HD, and some familial forms of AD, FTD, DLB, or prion disease
+- **P/E:**
+	- **General examination:**
+		- _Features of hypothyroidism_ - e.g. dry cool skin, hair loss, bradycardic HTN
+	- **Neurological examination:**
+		- _Parkisonism_ - consider LBD although parkisonism may occur after onset of dementia in DLB
+		- _Hemiparesis/ focal neurological deficits_ - may suggest vascular dementia or braint tumour
+		- _Peripheral neuropathy_ - consider B12 deficiency, alcohol-related thiamine deficiency, heavy metal intoxication, Lyme disease, or vasculitis
+- **Cognitive testing:**
+	- **Brief screening tool:**
+		- Mini-mental state examination
+		- MOntreal Cognitive Assessment (MOCA)
+		- Clock drawing test
+- **Principles of Ix for dementia:**
+	- There are variable treatable causes and often requires screening w/ multiple tests, each has low yield
+	- Cost-benefit ratios of various screening algorithms are difficult to assess
+	- However, a tendancy that even a 1-2% positive rate for a screen is worth undertaking if the alternative is missing a treatable component for dementia
+- **American Academy of Neurology recommendations for screening in dementia:**
+	- _Bloods_ - CBC, LRFT, U&E, glucose, TFT, B12
+	- _Neuroimaging_ - MRI +/- CT
+- **Neuroimaging for dementia:**
+	- _Assessment of neuroimaging for dementia_:
+		- Mass lesion - e.g. primary/ metastatic neoplasms
+		- Vascular lesions - subdural haematoma, focal areas of infarction, micro-infarcts, lacunar infarcts, micro-bleeds, diffuse white matter disease
+		- Inflammatory lesion - various autoimmune/ infectious etiology
+		- Ventriculomegaly - e.g. in neurodegenerative dementias or NPH (communicating hydrocephalus w/ vertex effacement, gaping Sylvian fissures despite minimal cortical atrophy)
+		- Areas of atrophy - regional patterns of atrophy supportive of Dx of certain neurodegenerative dementias
+	- _Regions of atrophy and neurodegenerative dementias_:
+		- AD - hippocampal atrophy and posterior-dominant cortical atrophy
+		- LATE - hippocampal and medial temporal atrophy
+		- FTD - focal fronta, insular +/- anterior temporal atrophy
+		- DLB - minimal atrophy w/ prominent involvement of amygdala over the hippocampus
+- **Functional imaging:**
+	- _FDG-PET_ - demonstrates regional hypometabolism differentiating different neurodegenerative dementias
+	- _SPECT_ - demonstrates spatial patterns of hypoperfusion that mirrors FDG hypometabolic patterns
+	- _Amyloid PET_ - use of 3 amylloid PET ligands that detect diffuse and neuritic amyloid plaques and vascular amyloid deposition, however as amyloid neuropathology is non-specific, main use is to exclude AD as likely cause of dementia (e.g. LATE)
+	- _Tau PET_ - detection  of tau binding to neurofibrillary tangles specific to AD
+- **Additional role of amyloid and Tau PET:**
+	- Amyloid PET is useful to identify candidates for novel anti-amyloid-beta MAbs (e.g. lecanemab) to reduce amyloid plaque loads and slow cognitive decline
+	- Tau PET is more tightly linked to cognitive state, thus useful for ruling in PET and disease staging
+	- Both modalities assist w/ prognosis, where patients who are +ve for both show the most rapid decline in cognition and function
+- **LP in dementia:**
+	- Detection of CNS infection or inflammation
+	- Assess molecular biomarkers for AD in lieu of PET imaging - low Aβ42 (or low /Aβ40 ratio), or elevated total/ phosphorylated tau (pTau-181/217)
+- **Blood-based AD biomarkers:**
+	- Plasma Aβ42/Aβ40 ratio
+	- Plasma p-Tau181
+	- Plasma p-Tau217
+- **Tests for alpha-synuclein pathology** (LBD; PD; PDD; DLB) - may be indicated in clinically diagnosed PD patients or at risk patients (e.g. RBD, anosmia):
+	- CSF seed-amplification assay (SAA) for alpha-synuclein
+	- Skin biopsy for IMF for phosphorylated alpha-synuclein colocalizing w/ nerve fiber bundles (in early development)
+	- Alpha-synuclein PET (in development)
+## Treatment of Dementia
+
+- **Goals of Mx:**
+	- _Tx of reversible causes_ - identify and Tx reversible cuases
+	- _Comfort and support to patient and carers_ - pharmacological therapies (some are disease-modifying), and non-pharmacological therapies 
+- **Mx of behavioural and psychological symptoms** (BPSD):
+	- _Search for reversible causes_ - e.g. hunger, lack of exercise, pain (toothache, constipation), infection (UTI/ URTI), electrolyte imbalance, drug toxicity
+	- _Pharmacological therapies_:
+		- Up-titration of cholinesterase inhibitors - may relieve apathy, hallcuinations, depressions especially in DLB, obviating more toxic therapies
+		- Anti-psychotics - low-dose quetiapine/ respiridone used for severe agitation, aggression and psychosis (but documented increased risk of mortality w/ dementia); brexipiprazole considered due to clinical efficacy and relative safety
+		- Benzodiazepines - may ameliorate behaviour problems but have untoward S/E including paradoxical disinhibition
+		- Antidepressants - low-dose SSRIs
+- **Pharmacological therapy:**
+	- **Symptomatic cognitive enhancers:**
+		- _Cholinesterase inhibitor_ (donepezil, reviastigmine) - mainstay for AD +/- vascular dementia; rivastigmine also sed in PDD
+		- _NMDA antagonists_ (memantine) - used for moderate-to-severe AD, w/ primary benefit in reducing caregiver burden
+	- **Disease-modifying therapy** - anti-amyloid monoclonal Ab:
+		- _Indications_ - early clinical stages of AD (MCI or mild dementia) w/ confirmed amyloid pathology
+		- _S/E_ - amyloid-related imaging abnormalties, e.g. edema (ARIA-E), haemorrhages (ARIE-H):
+			- Most are asymptomatic or mildly symptomatic (e.g. a/w headaches, dizziness, increased confusion)
+			- Severe episodes include seizures or stroke-like episodes
+		- _C/I_ - use of thrombolytic agents (due to reports of catastrophic ICH)
+- **Non-drug behavioural therapy and environmental Mx:**
+	- **Cognitive support:**
+		- _Reminders_ - use of lists, calendars, labels in early stage
+		- _Routines_ - emphasise familiar routines, walks, and simple physical exercises and leverage preserved abilities for hobbies
+		- 

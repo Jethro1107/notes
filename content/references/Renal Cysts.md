@@ -1,0 +1,66 @@
+---
+id: 0e0f444d-21d9-40a5-b366-edbba0c3911e
+title: Renal Cysts
+---
+
+# Renal Cysts
+
+- **DDx of cystic kidney mass:**
+    - <u>Simple kidney cysts</u>
+    - <u>Polycystic kidney disease</u> - overtly polycystic kidney with +ve family Hx and associated clinical features (e.g. gross haematuria, cyst infection, flank pain, renal insufficiency)
+    - <u>Malignancy</u> - e.g. RCC
+    - <u>Unusual causes of kidney cysts</u> - von Hippel-Lindau disease, tuberous sclerosis complex, Fabrey disease, nephronophthisis
+- **Simple vs complex kidney cysts:**
+    - <u>Simple kidney cysts</u> - benign cystic kidney lesions that are asymptomatic, and are commonly observed in normal kidneys, with an increasing incidence as indivudal ages
+    - <u>Complex kidney cysts</u> - cystic kidney lesions that are a/w an increase in risk of malignancy (primarily seen in cat. III and IV in the Bosniak classification)
+- **Bosniak classification of kidney cysts** - classification of a kidney cyst (\> 1 cm) based upon specific morphologic and enhancement characteristics with contrast CT:
+    - **Category I** - simple benign cysts:
+        - <u>Morphology</u> - hairline-thin walls w/o septa, calcifications or solid components (HU ~ 20, similar to water)
+        - <u>Enhancement</u> - does not enhance
+    - **Category II** - cystic lesions with few hairline septa:
+        - <u>Morphology</u> - few hairline-thin septa
+        - <u>Enhancement</u> - 'perceived' enhancement may be present but there are no measurable contrast enhancement
+    - **Category IIF** - minimally complicated cysts that do not neatly fall into category II
+    - **Category III** - typically undergoing surgical evaluation with risk of malignancy (40-60%):
+        - <u>Morphology</u> - thickened, irregular, or smooth walls or septa
+        - <u>Enhancement</u> - measurable (\> 10-15 HU) on walls and septa
+    - **Category IV** - mostly malignant lesions (\> 85%):
+        - <u>Morphology</u> - all of category III criteria
+        - <u>Enhancement</u> - enhancing soft-tissue component, adjacent to, but independent of the wall or septum
+
+  
+  ![](img/Bosniak_classification.png)
+- **Mx of kidney cysts** - dependent on Bosniak classification:
+    - **Principles of Mx:**
+        - <u>Bosniak I and II</u> - no follow-up required
+        - <u>Bosniak IIF</u> - contrast MRI with gadolinium and surveillance CT if remain Bosniak IIF in 6mo then q1y for at least 5y to **demonstrate stability**
+        - <u>Bosniak III or IV</u> - urological consultation for surgical Mx
+
+    
+    ![](img/Mx_of_kidney_cysts.png)
+    - **Urological Mx of Bosniak III or IV cystic masses:**
+        - <u>Mx options</u> - partial nephrectomy, thermal ablation (cryo-therapy or RFA) or active active surveillance
+- **Simple renal cysts:**
+    - **Definition** - solitary or multiple cysts frequently observed in normal kidneys (solitary or multiple)
+    - **Epidemiology** - most common cause of kidney cysts (60-70% of cases):
+        - <u>Demographic</u> - Increasing incidence w/ age (Age \> 50y), Male preponderance
+    - **Pathology and histopathology:**
+        - <u>Pathology</u> - oval or round shape of varying size
+        - <u>Histopathology</u> - simple epithelial layer encasing straw-colored fluid w/o renal tissue
+    - **Clinical features of simple kidney cysts** - may be solitary, multiple or bilateral:
+        - **Asymptomatic** - typically produce no S/S and are incidentally detected on radiographical studies (no clinical significance)
+        - **Complications is extremely uncommon:**
+            - <u>Ruptured cysts</u> - causes loin pain or haematuria
+            - <u>Infection</u> - manifests as kidney abscess
+            - <u>HTN</u> - very rarely compression of renal parenchyma causes ang-II dependent HTN
+    - **Ix and Dx evaluation of simple kidney cysts:**
+        - **USG kidneys** - **3 major criteria** for Dx of simple kidney cyst on USG (no additional evalution required):
+            - <u>Morphology</u> - round and sharply demarcated with smooth walls
+            - <u>Echogenicity</u> - no echoes within the mass (completely anechoic)
+            - <u>Acoustic enhancement</u> - strong posterior wall ecnho, indicating good transmission through the cyst and enhanced transmission beyond the cyst
+
+      
+      ![](img/simple_renal_cyst_on_usg.png)
+        - **Contrast CT** - characterisation of cyst by Bosniak classification (Bosniak I or II)
+        - **Contrast MRI** - performed if contrast CT C/I
+    - **Mx** - no Tx required as clinically insignificant

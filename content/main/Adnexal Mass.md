@@ -1,0 +1,72 @@
+---
+id: 0a894ec4-2cd8-440c-883b-4e47f2c4dddf
+title: Adnexal Mass
+---
+
+# Adnexal Mass
+
+- **DDx of adnexal mass** - benign vs malignant:
+    - **Benign:**
+        - <u>Functional</u> - follicular cyst, corpus luteal cysttheca luteal cyst
+        - <u>Inflammatory</u> - endometrioma, tubo-ovarian abscess
+        - <u>Germ cell</u> - mature teratoma
+        - <u>Epithelial</u> - serous cystadenoma, mucinous cystadenoma, clear cell cystadenoma
+        - <u>Sex cord stromal</u> - fibroma, theocoma
+        - <u>Others</u> - **ovarian ectopic pregnancy**
+    - **Malignant** - primary vs metastatic:
+        - <u>Epithelial tumours</u> (arising in ovaries, fallopian tube) - serous, mucinous, endometrioid, clear cells
+        - <u>Germ cell tumours</u> - e.g. dysgerminoma, yolk sac tumour, immature teratoma
+        - <u>Sex-cord stroma tumour</u> - granulosa cell tumour, sertoli-leydig cell
+
+    
+    ![](~/Documents/notes/img/types_of_malignant_ovarian_tumours.png)
+- **Clinical presentation** - typically on detection of pelvic mass clinically in the presence of absence of abdominal pain
+- **Pelvic USG** - sonographic evaluation of the adnexal mass:
+    - <u>Sonographic features of an adnexal mass</u>:
+        - Size
+        - Laterality (bilateral vs unilateral)
+        - Cyst content
+        - Septations
+        - Presence of ascites
+        - Doppler flow
+    - <u>Echogenicity</u>:
+        - Anechoic
+        - Homogenous hypoechogenicity
+        - Homogenous hyperechogenicity
+        - Hterogenous echogenicity - may be haemorrhagic, mixed fluid (blood or fat), abscess, or as seen in teratoma
+    - <u>Cyst contents</u> - may be solid or cystic
+    - <u>International ovarian tumor analysis ultrasound rules to classify mass as benign or malignant</u> - 95% Sn, 91% Sp: 
+    ![](img/b_rule_and_m_rule_for_ovarian_tumour.png)
+        - **Classify malignant if** - \>= 1 M feature in absence of B feature
+        - **Classify benign if** - \>= 1 B feature in absence of M feature
+        - **Inconclusive if** - no B or M features present, or if both B or M features are present
+    - <u>Risk of malignancy index</u> - based on sonographic featueres, post-menopausal state, and CA 125: 
+    ![](img/rmi_for_ovarian_tumour.png)
+- **CA-125** (tumour marker) - celomic epithelium related glycoprotein that is present in most serous, endometrioid and clear cell ovarian carcinomas (less common in mucinous tumours):
+    - <u>Cutoff</u> - 35 u/ml
+    - <u>Test properties</u>:
+        - Low Sp
+        - More Sn and Sp in post-menopausal women
+    - <u>Limitations</u> - elevated in:
+        - Menstruating and pregnant women
+        - Benign ovarian tumours (10%)
+        - Endometriosis (20-30%)
+        - Fibroids
+        - Acute PID
+        - Liver cirrhosis (60-70%)
+        - Pancreatitis (30%)
+    - <u>Role</u> - non diagnstic; mainly utilised for assessment of Tx response or recurrence
+- **ROMA** (Risk of Ovarian Malignancy) - predictive scoring system by differentiating low-risk and high-risk patients, and incorporates 1) menopausal state, 2) CA-125, 3) HE4 (adjunct tumour marker):
+    - <u>Score calculation</u>: 
+    ![](img/roma_for_ovarian_malignancy.png)
+    - <u>Test-properties</u>: 
+    ![](img/roma_performance_in_differentiating_patients_with_ovarian_malignancy.png)
+- **ADNEX model** - predictive model for ovarian cancer based on sonographic features, and serum CA-125 (N.B. BMJ systematic review Barrenada 2024)
+- **Mx:**
+    - **Principles of Mx** - dependent on 1) menopausal state, 2) symptoms, 3) risk of malignancy:
+        - **Pre-menopausal:**
+            - <u>Asymptomatic and unlikely malignancy</u> - observe and repeat USG 3-6 mo (consider surgical removal and Dx if persistent)
+            - <u>Symptomatic</u> - consider surgiacl removal
+            - <u>High risk of malignancy</u> - refer to oncology and exclude secondary from colon, stomach, and breast
+        - **Post-menopausal** - conservative only if very low risk (e.g. asymptomatic, RMI I \< 200, unilocular cyst \< 5cm, unchanged after serial evaluation): 
+        ![](img/approach_to_postmenopausal_ovarian_cyst.png)

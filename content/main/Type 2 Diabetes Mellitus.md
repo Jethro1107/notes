@@ -1,0 +1,29 @@
+---
+id: 0386b956-906b-4fe8-b357-2c207754ef47
+title: Type 2 Diabetes Mellitus
+---
+
+# Type 2 Diabetes Mellitus
+
+- **Definition of DM** - clinical syndrome characterised by an increase in plasma glucose level (hyperglycaemia), resulting in acute, and chronic problems
+- **Epidemiology:**
+    - <u>Prevalence</u> - 8.3% worldwide in 2011 (366 million people affected and rising)
+    - <u>Incidence</u> - 3 new cases every 10s globally
+    - <u>Geographical variation</u> - a/w genetic and environmental differences (e.g. obesity, diet, lifestyle, urbanisation): 
+    ![](../img/prevalence_of_dm.png)
+    - <u>Burden</u> - major cause of mortality and burden on healthcare expenditure
+- **Etiological classification of DM:** 
+![](../img/etiological_classification_of_diabetes.png)
+- **Pathophysiology of T2DM:**
+    - **Environmental trigger in a genetically predisposed individual:**
+        - <u>Genetic predisposition</u> - marked difference in ethnic groups and high monozygous concordance rates in twin studies
+        - <u>Obesity and physical inactivity</u> - 10-fold increased risk of T2DM in those where BMI \> 30 kg/m2, but not all obesed individuals develop DM as they do not have genetically impaired beta-cell functions
+    - **Insulin resistance as the central pathological process** - onset of progressively worsening insulin resistance of unclear etiology underlying impaired glucose tolerance and to some extent :
+        - **Adipocyte theory** - appealing theory as obesity is a major cause of insulin resistance:
+            - <u>Excessive lipolysis</u> - release of excessive amounts of FFA to compete w/ glucose as fuel source, thus inducing insulin resistance
+            - <u>Adipokines</u> - peptides released by adipocytes that alter sensitivity to insulin of other tissues
+            - <u>Highest concentration of FFA and adipokines in portal vein</u> - central obesiity has potent influence on insulin sensitivity of the liver, adversely affecting gluconeogenesis and hepatic fat metabolism (NAFLD and cirrhosis)
+        - **Role of physical activity** - physical inactivity down-regulates insulin-sensative kinases and promotes FFA accumulation within skeletal muscles
+    - **Metabolic syndrome as the other metabolic consequences of insulin resistance** - HTN, Increased TC:HDL ratio, and NAFLD and PCOS a/w insulin resistance
+    - **Pancreatic beta-cell failure** - toxic effects of glucose and FFA against pancreatic cells, resulting in progressive in progressive insulin deficiency: 
+    ![](../img/natural_hx_of_t2dm.png)

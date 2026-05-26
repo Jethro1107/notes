@@ -1,0 +1,104 @@
+---
+id: a32c1038-fb1a-4c3b-9710-9e38af439d31
+title: Allergic Rhinitis
+type: main
+---
+
+# Allergic Rhinitis
+
+- **Definition of rhinitis** - inflammatory response of the mucous membrane of the nose, which may be intermittent or persistent
+- **Etio-classification of rhinitis:**
+    - <u>Allergic rhinitis</u> - seasonal allergens, perennial allergens, occupational allergens
+    - <u>Infective rhinitis</u> - viral or bacterial infection
+    - <u>Vasomotor rhinitis</u> - caused by autonomic nervous system abnormalities
+	  ![](img/classification_of_rhinitis.png)
+- **Definition of allergic rhinitis** - symtpom complex caused by type 1 hypersensitivity reaction at the mucosal linings of the nasal cavity
+- **Epidemiology:**
+	- _Prevalence_ - 20% of adult population and up to 40% oin children
+	- _Demographic_:
+		- Age - usually begins in childhood w/ 50% having the problem at 15y, and 90% have the problem by 30y
+		- Known FHx - occurs in 60% of those w/ +ve FHx of atopy or allergic rhinitis
+		- Comorbid atopy - 20% suffer from asthma
+- **Comorbid conditions of allergic rhinosinusitis:**
+	- Atopic conditions (asthma, eczema)
+	- Nasal polyps
+- **Classification of allergic rhinitis:**
+	- Seasonal vs perennial
+	- Intermittent (< 4d of the week or < 4 weeks) vs persistent (> 4d of the week or > 4 weeks)
+- **Pathophysiology of allergic rhinitis:**
+    - <u>Background of atopy</u> - Evidence of atopy such as asthma, eczema, allergic dermatitis, aspirin sensitivity etc.
+    - <u>Exposure to allergens</u> - various allergens are implicated:
+        - **Seasonal allergens** (hay fever) - pollens, grasses and weeds
+        - **Perennial allergens** - house dust mites, feathers, annimal danders
+        - **Ingested allergens** (concomittent GI Sx) - wheat, dairy products, nuts
+    - <u>Mast cell degranulation</u> - binding of allergen to IgE on mast cells results in release of histamine, leukotrienes and slow-reacting substance of anaphylaxis (SRSA)
+- **Clinical features of allergic rhinitis:**
+    - <u>Nasal obstruction</u> - bilateral nasal obstruction due to mucosal vasodilatation and oedema
+    - <u>Rhinorrhoea</u> - watery nasal discharge due to enhanced activity of gland<sub>ular</sub> elements
+    - <u>Sneezing</u> - paroxysms of sneezing due to mucosal stimulation
+- **Severity of symptoms:**
+	- Mild - normal functioning including sleep and only slightly troublesome symptoms
+	- Moderate/ severe - troublesome symptoms with impairment of activities
+- **Signs of allergic rhinitis:**
+    - <u>Anterior rhinoscopic findings</u>:
+        - Nasal mucosa - boggy and oedematous in apperance, covered by a film of watery secretion
+- **Ix and Dx evaluation** - clinical Dx but identification of allergen is important:
+    - <u>Skin-prick test</u> - identify offending allergen to guide allergen avoidance
+- **Mx:**
+	- **Principles of Mx:**
+		- _Reassurance and education_ - appropriate explanation of causes and reassurance
+		- _Advice_ - allergen avoidance along w/ other Sx-based advices
+		- _Pharmacotherapy_ - consider antihistamines, mast cell stabilisers, decongestants, and corticosteroids; hyposensitisation considered if refractory
+		- _Referral_ - when surgical intervention is required, or for immunotherapy
+		![[Pasted image 20260420213302.png]]
+	- **General advices for patients w/ allergic rhinosinusitis:**
+		- _General measures_ - live sensibly w/ balanced exercise, rest, recreation, and maintain a well-balanced diet
+		- _Allergen avoidance_ - dependent on the likely allergen (e.g. animal dander, house-dust mites in beddings):
+			- Animal dander - keep pets outside and do not allow pets on then bed
+			- House dust mites - weekly washing of beddings with warm water
+		- _Bothersome eye symptoms_ - avoid rubbing eyes, contact lenses, and wear sunglasses to avoid contact w/ allergens
+		- _Bothersome nasal symptoms_ - avoid using decongestants due to risk of rebound rhinosinusitis medicantos
+	- **Approach to pharmacological therapy** - selected based on patient's preference and S/E profiles:
+		- _Antihistamines_ - oral, intranasal spray, ophthalmic drops
+		- _Decongestants_ - oral or topical
+		- _Sodium cromoglycate_ - intranasal powder insufflation/ spray, ophthalmic drops
+		- _Corticosteroids_ - intranasal (not effective for non-eosinophilic vasomotor rhinitis), oral, ophthalmic drops
+	- **Antihistamines:**
+		- _Indications_ - first line of treatment for seasonal allergic rhinosinusitis:
+			- Used prn when symptoms are intermittent
+			- Prophylactic use before periods of high pollen exposure
+		- _Selection_ - generally prefer second-generation 'non-sedating' antihistamine that do not cross the blood brain barrier:
+			- First-generation antihistamines (if overnight sedation is preferred) - chlorphenamine, diphenhydramine (Benadryl)
+			- Second-generation antihistamines - loratadine, cetirizine, fexofenadine, levocetirizine
+			![[Pasted image 20260420210313.png]]
+	- **Oral decongestants:**
+		- _Selection_ - oral sympathomimetics:
+			- Pseudoephedrine HCl 60 mg po tds (max 240 mg/d) or 120 mg controlled release po bd
+		- _S/E_:
+			- Palpitations
+			- Anxiety/ nervousness
+			- Insomnia
+		- _Caution_ - used cautiously in patients w/:
+			- Hypertension
+			- Cardiac disease
+			- Hyperthyroidism
+			- Glaucoma
+			- Prostatic hypertrophy
+	- **Intranasal therapy:**
+		- _Intranasal antihistamines_ - azelastine and levocabastine are extremely effective in relieving sneezing and itching
+		- _Intranasal sodium cromoglycate_ - usually useful in perennial allergic rhinitis but not as effective as intranasal corticosteroids for springtime hay fever
+		- _Intranasal corticosteroid sprays_ (Budesonide, Beclomethasone, Fluticasone) - most effective agents for treatment of seasonal allergic rhinitis but slow onset of action (10-14d for peak effect)
+		- _Intranasal ipratropium bromide_ - most effective when rhinorrhoea is the major problem
+		- ![[Pasted image 20260420212733.png]]
+	- **Other pharmacological Mx:**
+		- _Oral corticosteroids_ - 6-10d rescue tapering course (starting from P25-30) effective when other treatments have failed
+		- _Oral leukotriene receptor antagonist_ - equivalent to oral antihistamines, w/ special role in Mx of childhood asthma and hay fever
+    - **Surgical Tx** - indicated only if refractory to medical therapy:
+        - <u>Procedures</u> - turbinate resection, cautary or outfracture
+        - <u>Efficacy</u> - effective for obstructive Sx, but rhinorrhoea and sneezing unaffected as local inflammation persists
+- **Rhinitis medicamentosa:**
+    - **Definition** - reactive vasodilatation of the nasal mucosa from discontinuation after prolonged use of local sympathomimetic decongestants
+    - **Mx** - prophylactic:
+        - <u>Prescription of local decongestants</u> - only prescribed as short, sharp courses of therapies **not intended for long term use**
+        - <u>Drug substitution</u> - switch to steroid-based local decongestant, or systemic decongestant
+        - <u>Partial turbinate resection</u> - if swelling becomes irreversible

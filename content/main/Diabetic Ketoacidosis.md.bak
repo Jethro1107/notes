@@ -1,0 +1,100 @@
+---
+id: fa41a8a5-bcd7-434d-883d-a7cd13e941f4
+title: Diabetic Ketoacidosis
+---
+
+# Diabetic Ketoacidosis
+
+- **Definition** - medical emergency precipitated by an intercurrent illness principally seen in T1DM, but also in late-stages of T2DM caused by absolute insulin deficiency to compensate for a stress response
+- **Clinical presentation in T1DM vs T2DM** - often precipitated by an intercurrent illness, but ocassionally there is no precipitating factor:
+  - <u>T1DM</u> - DKA is characteristic for T1DM and is often the presenting problem in newly diagnosed patients
+  - <u>T2DM</u> - increasing number of patients presenting with DKA having underlying T2DM (estremely prevalent in african-American and Hispanic populations)
+- **Pathophysiology of DKA:**
+  - **Precipitated by an intercurrent illness** (e.g. infection) - absolute insulin deficiency when pancreatic beta cells fail to secrete sufficient insulin to compensate for the stress response, resulting in <u>marked hyperglycaemia</u> and exacerbation of Sx of hyperglycaemia
+  - **Excessive fluid and electrolyte loss** - driven by hyperglycaemia:
+    - <u>Dehydration and hypovolaemia</u> - driven by osmotic diuresis where total body water loss (~ 6L) is initially intracellular, followed by extracellular:
+      - **Intracellular water loss** (50%) - contraction of ICF volume driven by <u>osmotic effects of hyperglycaemia</u> manifesting with little clinical features except reduced skin turgor, and <u>'pseudohyponatraemia'</u> biochemically
+      - **Extracellular water loss** (50%) - contraction of extracellular volume driven by <u>osmotic diuresis</u> and <u>Na depletion</u> - manifesting as reflex tachycardia, haemoconcentration, hypotension, poor purfusion and oliguria
+    - <u>Hypokalaemia</u> - every patient is K-depleted due to **secondary hyperaldosteronism** in response to poor renal perfusion and dehydration, but may not manifest biochemically due to 1) intravascular volume contraction, 2) displacement of K from intracellular compartment due to ketoacidosis
+    - <u>Hyponatraemia</u> - due to pseudohyponatraemia in response to hyperosmolar state, and some degree of renal Na depletion
+  - **Ketoacidosis and metabolic acidosis** - driven by profound insulin deficiency and exacerbated by catecholamines and other stress hormones (acute illness) resulting in <u>unrestricted lipolysis and hepatic ketogenesis</u>
+- **Cardinal biochemical features of DKA:**
+  - Hyperglycaemia - RBG \>= 11 mmol/L
+  - Hyperketonaemia (\>= 3 mmol/L) or ketonuria (\>= 2+)
+  - Metabolic acidosis - HCO3- \< 15 mmol/L or venous pH \< 7.3
+- **Causes of morbidity and mortality:**
+  - Cerebral oedema (typically in children)
+  - Hypokalaemia (typically in adults)
+  - Acute respiratory distress syndrome
+  - Comorbid conditions - e.g. AMI, sepsis, pneumonia
+- **Clinical features of DKA:**
+  - **Symptoms of hyperglycaemia** - reported prodrome of polyuria, polydipsia, and recent weight loss
+  - **Features of dehydration** - loss of skin turgor, furred tongue, cracked lips, tachycardia, hypotension and reduced intra-occular pressure (blurred vission)
+  - **Altered mental status** - mental apathy, confusion or reduced GC due to cererbal oedema
+  - **GI Sx** - abdominal pain and N/V particularly in children likely due to splanchnic hypoperfusion (amylase mildly elevated)
+
+  
+  ![](../img/clinical_features_of_dka.png)
+- **Ix** - should not delay the institution of IV fluid and insulin replacement therapy:
+  - **Urinalysis** - dipstick for glycosuria and ketonuria (\>= 2+)
+  - **Diagnostic blood tests** - RBG, RFT:
+    - <u>RBG</u> - reveals hyperglycaemia (\>= 11.1 mmol/L)
+    - <u>RFT</u>:
+      - Urea/ sCr - reflects dehydration
+      - Na - pseudohypnoatraemia
+      - K - initially normal or raised due to volume contraction and extracellular shift, but likely to fall due to dilution, and intracellular shift driven by insulin
+  - **12-lead ECG** - look for precipitants e.g. AMI, or arrhythmias caused by profound hypovolaemia
+  - **Septic workup** - CBC (leukocytosis may be a stress response and does not infer infection), inflammatory markers, CXR, blood culture, urine culture
+- **Mx:**
+  - **Principles of Mx** - Tx in high-dependancy areas with involvement of diabetic specialist teams:
+    - <u>Insulin replacement</u> - given immediately if biochemically evident of DKA titrated against biochemical response
+    - <u>Fluid replacement</u> - titrated against markers of dehydration, particularly SBP (monitor for cerebral oedema in children)
+    - <u>Treat other metabolic abnormalities</u> - K replacement (little role of IV bicarbonate therapy)
+    - <u>Treat precipitating cause</u> - e.g. Tx of infection
+  - **Overview of Mx** - initial Mx and routine clinical and biochemical assessment over 24h: 
+  ![](../img/mx_of_dka_davidson.png)
+  - **Monitoring:**
+    - <u>Vital signs</u> - BP/P, RR, SpO2, urine output +/- ECG q1h
+    - <u>Glucose and ketones</u> - capillary blood glucose and ketone testing q1h
+    - <u>HCO3 and K</u> - RFT at 1h and 2h, subsequently q2h
+    - <u>Electrolytes</u> - q4h
+  - **Insulin replacement therapy:**
+    - <u>Regimen</u>:
+      - 50U human soluble insulin infused - fixed rate IV infusion at 0.1U/kg/h
+      - IM injection (alternative route if no IV access) - loading dose of 10-20U followed by 5U hourly
+      - SC injection of fast-acting insulin analogue - initially 0.3U/kg followed by 0.1U/kg/h
+    - <u>Rate of correction</u> - controlled rate, **rapid reduction avoided** as it might precipitate **hypoglycaemia** and **cerebral oedema**:
+      - Rate of blood glucose reduction - 3-6 mmol/L/h
+      - Rate of blood ketones reduction - 0.5 mmol/L/h
+    - <u>Failure of blood glucose correction</u>:
+      - Insulin resistance induced by ketosis, dehydration, acidaemia, infection and physiological stress
+      - failure for blood glucose to fall within 1h at proposed rate may require higher dose of insulin regimen
+    - <u>Complications</u>:
+      - **Failure to correct hyperglycaemia** (insulin resistance as a stress response may require higher dose)
+      - **Cerebral oedema** (rapid rate avoided as it results in a hypo-osmolar state that results in cerebral oedema)
+      - **Hypokalaemia** (insulin drives K intracellularly and can result in hypoK if K not replenished sufficiently)
+    - <u>Concommitent dextrose infusion</u> - initiate 10% dextrose infusion at 125ml/h once RBG \< 14 mmol/L along with insulin replacement to **replenish intravascular volume**
+    - <u>Restoration of normal insulin regimen</u> (SC injection) - after clinically stabilised and able to eat and drink normally
+  - **Fluid replacement** - replacement of intracellular and extracellular volume:
+    - **Replacement of extracellular volume** - 0.9% NS (0.45% NaCl considered if Na \> 155 mmol/L):
+      - <u>Regimen</u>:
+        - **Initial bolus** - 1L given over 90 min (SBP \> 90 mmHg) or over 10-15 min with reassessment (SBP \< 90 mmHg)
+        - **Subsequent replacement** - IV infusion of 0.9% with K replacement:
+          - 1L over 2h
+          - 1L over 2h
+          - 1L over 4h
+          - 1L over 4h
+          - 1L over 6h
+    - **Replacement of intracellular volume** - 10% dextrose infusion at 125 ml/h after RBG \< 14 mmol/L
+    - **Caution:**
+      - Risk of cerebral oedema (esp. children and young adults)
+      - Risk of volume overload (esp. elederly or comorbid with heart failure or renal failure)
+  - **K replacement** - careful monitoring as Mx can lead to both hypoK or hyperK:
+    - <u>Initial 1L of fluid replacement</u> - K replacement not recommended because pre-renal AKI may be present secondary to dehydration (at risk of hyperK)
+    - <u>Indications of K replacement in subsequent fluid replacement</u>:
+      - Titrated against K levels - 40 mmol of KCl per L of NS if K 3.5-5.5 mmol/L
+      - Urine output present (ensures renal loss of K)
+    - <u>Indications for review of K replacement regimen</u> - K \< 3.5 mmol/L
+  - **No role of bicarbonate** - insulin and fluid adequate to correct acidosis:
+    - Acidosis triggers increased ventilation as an adaptive response to improve DO2 during dehydration
+    - Respiratory suppression thus results in paradoxical CSF acidosis and has been implicated in the pathogenesis of cerebral oedema in children and young adults

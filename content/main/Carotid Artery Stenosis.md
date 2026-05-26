@@ -1,0 +1,101 @@
+---
+id: f60d14c9-5dc0-4858-b2c2-e36277f257c6
+title: Carotid Artery Stenosis
+---
+
+# Carotid Artery Stenosis
+
+- **Definition** - atherosclerotic disease of the internal carotid artery a/w an increased risk of stroke
+- **Epdeimiology** - accounts for 10-12% of ischaemic stroke:
+    - <u>Prevalence</u> - not known due to absence of screening in healthy population (but assumed to be age-dependent)
+    - <u>Demographic</u>:
+        - Age - increases incidence w/ age (7.5% in M and 5% in F \> 80y)
+        - Sex - male preponderance
+- **Clinical features of carotid artery stenosis:**
+    - **Asymptomatic** - asymptomatically detected on P/E, or evaluation through carotid imaging for an unrelated condition:
+        - <u>P/E</u> - +ve carotid bruit
+        - <u>Carotid imaging</u> - detection of carotid imaging for an unrelated stroke/ TIA of another vascular territory (e.g. posterior circulation stroke, contralateral anterior circulation stroke)
+    - **Symptomatic** - TIA/ ischaemic stroke of the <u>ipsilateral anterior circulation territory</u> (N.B. strokes presenting w/ vertigo, ataxia, cranial nerve syndromes, occipital blindness are not caused by carotid stenosis)
+- **Imaging modalities for evaluation of carotid artery stenosis:**
+    - Carotid duplex ultrasound (CDUS)
+    - Magnetic resonance angiography (MRA)
+    - Computed tomography angiography (CTA)
+    - Digital subtraction angiography (DSA)
+- **Goals of imaging:**
+    - <u>Assessment of degree of stenosis</u> - critical implications on Mx
+    - <u>Identification of complete occlusion</u> - surgical Tx has no benefits for those w/ complete occlusion
+    - <u>Evaluation of carotid plaque characteristics</u> - may be useful in identifying patients w/ higher risk of stroke and therefore are likely to benefit from carotid revascularisation
+    - <u>Identification of other arteriopathies</u>:
+        - Dissection
+        - Fibromuscular dysplasia
+        - Carotid web
+        - Carotid aneurysm
+- **Measurement of stenosis by angiography** - standardised method of reporting as RCTs evaluating role of endarterectomy in symptomatic patients utilise these measurements:
+    - **NASCET** (North American Symptomatic Carotid Endarterectomy Trial) - measures residual lumen diameter at <u>most stenotic portion of vessel</u> relative to <u>lumen diameter in the normal internal carotid artery distal to the stenosis</u>
+    - **ECST** (European Carotid Surgery Trial) - measures the lumen diameter at the <u>most stenotic portion of the vessel</u> and compares this w/ the <u>estimated probable original diameter at the site of maximal stenosis</u>
+
+  
+  ![](../img/nascet_vs_ecst.png)
+- **Measurements of stenosis by CDUS** - based on <u>blood flow velocity</u> as proxy as apposed to anatomical measurements of luminal narrowing, and has been correlated to specific degrees of angiographically-confirmed stenotic levels (\< 50% vs 50-69% vs \> 70%)
+- **Approach to selection of initial testing** - dependent on <u>clinical presentation</u>:
+    - <u>Symptomatic patients</u> (Hx of stroke or TIA) - CTA/ MRA for evaluation of the extracranial and intracranial circulation
+    - <u>Asymptomatic</u> (audible carotid bruit) - CDUS as an accurate and cost-effective initial imaging test
+- **Confirmation of stenosis** - by means of different initial studies:
+    - <u>\< 50% stenosis</u> - generally rules out significant atherosclerotic stenosis that requires revascularisation
+    - <u>Symptomatic 50-99% stenosis</u> - potential role of surgery, and is often subsequently evaluated by CTA or MRA for pre-operative evaluation
+    - <u>Asymptomatic 50-99% stenosis</u> - potential role of surgery, and is often subsequently evaluated by CTA or MRA for pre-operative evaluation
+    - <u>Complete occlusion</u> - although concordant results from CDUS and CTA/MRA highly Sn and Sp, confirmation of complete occlusion by DSA
+- **CT angiography** - provides anatomical depiction of carotid artery lumen in relation s/ adjacent soft tissue and bony structures, for <u>relatively accurate measurements of residual lumen diamter</u>:
+    - <u>Findings</u> - narrowed lumen w/ calculation of stenosis by NASCET/ ECST method: 
+    ![](../img/cta_showing_carotid_stenosis.png)
+    - <u>Test properties</u>:
+        - Extremely high diagnostic accuracy for complete occlusion - 97% Sn, 99% Sp
+        - High diagnostic accuracy for severe stenosis (70-99% stenosis) - 77% Sn, 95% Sp
+        - Moderate diagnostic accuracy moderate stenosis (50-69% stenosis) - 67% Sn, 79% Sp
+    - <u>Advantages</u>:
+        - Allows for evaluation of intracranial and extracranial circulation (i.e. in symptomatic patients)
+        - More useful in difficult anatomy (e.g. severe kinking, short neck, high bifurcation)
+        - Rapid duration
+    - <u>Disadvantages</u>:
+        - Accuracy may be limited by severe calcifications
+        - Contrast nephropathy (esp. for those w/ DM, congestive heart failure, pre-existing kidney disease)
+        - Contrast allergy (may be bypassed by pre-medication if mild)
+        - High radiation exposure
+- **MR angiography** (MRA) - three-dimensional reconstruction of carotid bifurcation by time-of-flight (TOF) MRA or gadolinium enhanced MRA (CEMRA):
+    - <u>Findings</u> - narrowed lumen w/ calculation of stenosis by NASCET/ ECST method: 
+    ![](../img/mra_showing_carotid_stenosis.png)
+    - <u>Test properties</u>:
+        - High accuracy for severe stenosis - 91-95% Sn, 88-92% Sp
+        - Moderate accuracy for moderate stenosis - 66% Sn, 94% Sp
+    - <u>Advantages</u>:
+        - Bypasses contrast toxicity in CTA
+        - Less operative dependent than CDUS
+    - <u>Disadvantages of MRA</u>:
+        - Time consuming and expensive
+        - Susceptible to artefacts by patient movements
+        - Not suitable for patients w/ pacemakers or ferromagnetic implants
+- **Carotid duplex ultrasound** (CDUS) - B-mode USG imaging and Doppler USG to detect focal increases in blood flow velocity, which <u>correlates w/ degree of stenosis</u>:
+    - <u>Interpretation</u> - primarily assess ICA peak systolic velocity (w/ some additional parameters) as a proxy of severity of stenosis: 
+    ![](../img/consensus_velocity_criteria_for_cdus_evaluation_of_carotid_stenosis.png)
+    - <u>Test properties</u> - in general, increases in ICA PSV is associated w/ higher specificity of high grade stenosis (i.e. velocity of 500 more specific than 250), results from a 2022 Cochrane review concludes:
+        - Detection of clinically significant carotid stenosis (50-99%) - 97% Sn, 70% Sp
+        - Detection of severe stenosis (70-99%) - 85% Sn, 98% Sp
+        - Detection of complete occlusion - 91% Sn, 95% Sp
+    - <u>Advantages</u>:
+        - Non-invasive, safe and inexpensive
+        - High Sn and Sp using published consensus velocity criteria to stratify patients
+    - <u>Disadvantages</u>:
+        - Operator dependent
+        - Difficult to differentiate between complete lumen occlusion and small hairline residual lumens
+        - Overestimates degree of stenosis
+- **Mx:**
+    - **Principles of Mx** - asymptomatic carotid atherosclerosis is a risk equivalent for cardiovascular disease and should be Tx w/ intensive medical therapy:
+        - <u>General measures</u> - lifestyle modifications, e.g. smoking cessation, weight reduction, healthy diet and exercise
+        - <u>Prognostic Tx</u> - antiplatelet therapy (ASA) and aggressive lipid lowering
+        - <u>Additional measures</u> - Tx of comorbidities (e.g. HTN, DM)
+        - <u>Imaging surveillance</u> - annual CDUS (MRA or CTA are acceptable alternatives but expensive)
+        - <u>Surgical Tx</u> - endarterectomy may be indicated for those w/ asymptomatic severe stenosis (70-99%), and is an indication for most symptomatic cases
+    - **Carotid endarterectomy:**
+        - <u>Indications</u> - may be considered for patients w/ severe carotid stenosis (70-99%) but controversial
+        - <u>Evidence for CEA in asymptomatic patients</u> - 3 landmark trials (VA, ACAS, ACST) and subsequent meta-analysis compared medical therapy vs CEA:
+            - Outcomes of any stroke or mortality - insignificant reduced risk (RR 0.92, 95% CI 0.83-1.02)

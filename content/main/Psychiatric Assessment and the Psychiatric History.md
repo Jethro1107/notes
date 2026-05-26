@@ -1,0 +1,70 @@
+---
+id: 9051c8bf-41d8-4c44-acb3-578d504bfe88
+title: Psychiatric Assessment and the Psychiatric History
+---
+
+# Psychiatric Assessment and the Psychiatric History
+
+- **Aims of psychiatric assessment:**
+    - <u>Diagnosis</u> - to seek a best-fit explanation to clinical presentation based on the limited, standardised classification systems (e.g. DSM-V) to provide the basis for rational, evidence-based approaches to treatment and prognosis
+    - <u>Context of diagnosis</u> - identification of predisposing, precipitating and perpectuating factors, elicit sufficient information regarding patient's life history, current circumstances, and personality, and understand why the disorder has occured <u>in this person at this time</u>, which bears significance on Mx and prognosis
+    - <u>Establish a therapeutic relationship</u> - ensure good therapeutic relationship such that the patient feels able and willing to give an accurate and full history, engage fully in discussion on management, and adhere to treatment decisions agreed upon
+- **Process of psychiatric assessment** - structured psychiatric interview:
+    - <u>Preparation</u> - acquiring as much background information regarding the referral (e.g. from the informant)
+    - <u>Colecting the information</u> - addressed by series of headings covering the psychiatric history, mental state examination and other components (see details below)
+    - <u>Evaluating the information</u> - arriving at a diagnosis or differential diagnosis
+    - <u>Using the information</u> - make Tx decisions and form prognostic opinions
+    - <u>Recording and communicating the information collected, and the conclusions drawn</u> - sharing of information between psychiatrist and the patient in a personalised manner (with regards to its nature and level of detail)
+- **Components of the psychatric assessment:**
+    - <u>Psychiatric history</u> - collection of sufficient information regarding patient's life history, current circumstances, personality to understand the context regarding why the patient developed the disorder at this particular time
+    - <u>Mental state examination</u> - collection of the symptoms and signs presen during the interview
+- **Schema of psychiatric history** - similar to template of Hx in clinical medicine, presented as a list of headings and items pertaining 1) eliciting diagnostic symptoms, 2) eliciting information regarding th ep patients life and background, 3) establishing rapport:
+    - <u>Patient particulars</u> - name, age, +/- address of the patient
+    - <u>Informants</u> - names of informant(s) and their relationship to the patient
+    - <u>Chief complaints</u> - in patient's words rather than psychiatric jargons
+    - <u>History of presenting condition</u> (HPI) - onset, duration, severity and fluctuation of presenting symptoms, associated symptoms, nature and severity of functional impairments, co-existing physical, psychological or social problems
+    - <u>Past psychiatric Hx</u> - other psychiatric conditions
+    - <u>Past medical Hx</u> - medical conditions with neuropsychiatric manifestations (e.g. thyroid), drug Hx
+    - <u>Family Hx</u> - age, current health, occupation, personality, relationship with patients, as well as psychiatric and medical family Hx
+    - <u>Personal Hx</u> - detailed Hx from perinatal period to current social circumstances
+    - <u>Premorbid personality</u> - key domains regarding relationship, leisure activities, prevailing mood and emotional tone, character, attitudes and standards, 'Ultimate concerns'
+- **Hx regarding informant** - if the principal informatn is not the patient:
+    - <u>Informant particulars</u> - name, age, relationship with patient, length of acquaintance of any other persons interviewed
+    - <u>Reason for referral</u> - what one is worried about?
+- **Chief Complaint** - ver batim description of the patients complaint (i.e. hearing voices, but not AH)
+- **HPI** - 1) detailed description of illness, 2) Nature and duration of any functional impairment, 3) temporal association with physical disorders, psychosocial problems, 4) treatments received:
+    - **Detailed description of illness** - onset, duration, severity, fluctuations/ progression, associated Sx, precipitating or perpectuating factors:
+        - <u>Onset</u> - acute vs chronic, and rate of onset (sudden or gradual)
+        - <u>Duration</u> - duration of current episode
+        - <u>Fluctuations and progression</u> - characterise longitudinal course of episode (progressive, static, fluctuating, seasonal etc.)
+        - <u>Severity</u> - best note in a self-rated quantitative manner for future assessment of treatment responsiveness
+        - <u>Patient perceived precipitating factors or perpetuating factors</u> - e.g. psychosocial stressors
+        - <u>Associated Sx</u> - tailored to the DDx, e.g.:
+            - Sucidal ideations for a patient with low mood
+            - First rank symptoms of schizophrenia for patient with delusions or hallucinations
+    - **Nature and duration of functional impairments** - emotional distress (e.g. thinking patterns, dysfunctions (self care, role functioning, social relationships, immediate social networks, extended social networks etc..)
+    - **Temporal relationship with medical conditions, or psychosocial stressors**
+- **Past psychiatric Hx** - any past psychiatric comorbidities, similar episodes etc:
+    - <u>Any similar episodes</u> - note nature, duration and similarity to current episode
+    - <u>Past psychiatric diagnosis</u> - nature, duration, any severe complications (e.g. self-harm, hospitalisation) and outcomes of Tx
+    - <u>Tx adeherance record</u> - assess compliance based on past precedance
+    - <u>Functioning and Sx control in between episodes</u> - characterise functional recovery during remission states
+- **PMH** - current illness, operation, accidents and drug Tx
+- **Personal Hx** - variable (e.g. may be extensive in young person with disorders suspected to have origin early in life, and limited questioning in older patients):
+    - <u>Pregnancy and birth Hx</u> - premature birth, infections, perinatal complications, problems with labour
+    - <u>Developmental Hx</u> - walking and talking, any previous psychological assessment for ASD, ADHD, learning disabilities etc.
+    - <u>Childhood upbringing</u> - parenting styles, any prolonged separation to parents and patients reactions, any emotional problems, serious illness in childhood
+    - <u>Schooling and higher education</u> - types, qualifications, academic development, extracurriculars, interpersonal relationships with peers and students (note any bullying or school exclusions)
+    - <u>Occupations</u> - present job (duration, duties, performance, satisfaction), earlier jobs (reasons for change)
+    - <u>Significant relationship</u> - duration and nature of relationship, partners attitude to patients illness, nature and number of previous relationship
+    - <u>Sexual Hx</u> - attitude towards sex, sexualdifficulties etc.
+    - <u>Children</u> - number of children, date of abbortion or stillbirths, temperament, emotional development, mental and physical health, child carer roles
+    - <u>Social circumstance</u> - accomodation, household composition, financial situations
+    - <u>Substance Hx</u> - details of alcohol, smoking and illicit drug use, and associated problems arising from substance use
+    - <u>Foresenic Hx</u> - arrest, convictions, imprisonment
+- **Personality** - inferred from patients manner and description of Hx, but specific focus is necessary:
+    - <u>Relationships</u> - freindships (few or many, superficial or close, with own or opposite sex), relationship with work colleagues and superiors
+    - <u>Leisure activities</u> - hobbies and interest
+    - <u>Predominent mood</u> - e.g. anxious, despondent, optimistic vs pessimistic, self-depracating vs overconfident, stable vs fluctuating, controlled vs demonstrative
+    - <u>Attitudes and standards</u> - e.g. moral or religious, attitudes towards health
+    - <u>Ultimate concern</u> - what or who matters most in their life?

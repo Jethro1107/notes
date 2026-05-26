@@ -1,0 +1,68 @@
+---
+id: ea6f2fd9-6424-4586-b853-070a78054343
+title: Dysphagia
+---
+
+# Dysphagia
+
+- **Definition** - difficulty in swallowing
+- **Etiology of dysphagia:** 
+![](../img/etiology_and_clinical_features_of_dysphagia.png)
+    - **Oropharyngeal dysphagia** - neurological diseases (e.g. stroke, bulbar palsy, pseudobulbar palsy, MG)
+    - **Esophageal dysphagia:**
+        - <u>Esophagitis</u> - erosive GERD, candidiasis, eosinophilic esophagitis
+        - <u>Esophageal strictures</u> - peptic strictures, fibrous rings, eosinophilic esophagitis, bisphosphonates
+        - <u>Esophageal motility disorders</u> - achalasia and other motility disorders
+        - <u>Malignant dysphagia</u> - CA esophagus, CA stomach at fundus, external compression
+- **Salient points of Hx:**
+    - <u>HPI</u> - onset, progression, quality, severity, timing:
+        - **Onset** - acute vs chronic
+        - **Quality:**
+            - <u>Is it true dysphagia</u>?
+                - Globus sensation - feeling a lump in throught w/o organic cause
+                - Odynophagia - pain during swallowing, typically from GERD or other causes of esophagitis (e.g. candidiasis)
+            - <u>Is it orophagryngeal or esophageal dysphagia?</u>
+                - Oropharyngeal dysphagia - difficulty in initial swallowing, often resulting in frequent choking or aspiration
+                - Esophageal dysphagia - food sticking after swallowing with delayed passage from esophagus to stomach, often results in regurgitation
+            - <u>Type of bolus - Is it worse with solid, liquid or both?</u>
+                - Mechanical obstruction - worse on solids initially, followed by liquids (strictures are severe)
+                - Functional disorders - worse on solid and liquid from the onset of disease
+            - <u>What is the response to bolus?</u>
+                - Mechanical obstruction - often regurgitation
+                - Functional disorders - usually passes w/ drinking liquid or repeated swallowing
+            - <u>Any associations with temperatures of food?</u>
+                - Mechanical obstruction - no associations
+                - Functional disorders - variable dysphagia w/ temperature of food
+        - **Progression:**
+            - Mechanical obstruction - often progressive (rapidly progressive is concerning for malignancy)
+            - Functional disorders - variable
+        - **Severity** - ability to continue take in food?
+    - <u>Associated Sx</u>:
+        - **Heartburn** - points towards Hx of GERD and related complications
+        - **Odynophagia** - inflammatory process (e.g. reflux esophagitis, eosinophilic esophagitis, candidiasis)
+        - **Vomiting** - points towards mechanical obstruction or severe motility disorders
+        - **UGIB** - esophagitis or upper GI malignancy
+        - **Anaemia** (fatigue, SOBOE etc) - occult UGIB suggestive of upper GI malignancy
+        - **Weight loss** - rapid weight loss is suggestive of upper GI malignancy
+        - **Respiratory Sx** - aspiration risk
+    - <u>PMH</u>:
+        - **Hx of neurological disease** - stroke, Parkinson's disease, MG, muscular dystrophy, multiple sclerosis
+        - **Hx of GERD** - chronic heartburn Sx and previous endoscopy (may be monitoring for Barett's esophagus)
+        - **Hx of connective tissue disease** - Sjogren's syndrome, LCSS
+        - **Prior irradiation to the chest**
+        - **Other systemic diseases** - e.g. DM
+        - **Drug Hx** (pill esophagus) - KCl tablets, bisphosphonates, iron tablets (ferrous sulfate), NSAIDs
+    - <u>SHx</u>:
+        - Smoking - RF of upper GI malignancy
+        - Alcohol - RF of upper GI malignancy
+    - <u>FHx</u> - FHx of upper GI malignancies
+- **P/E** - typically unremarkable:
+    - General examination - cachexia, pallor, cervical LN
+    - Abdominal examination - often unremarkable
+- **Ix:**
+    - <u>Endoscopy</u> - 1st line as it aims for Bx (r/o malignancy) and allows therapeutics (e.g. dilatation of strictures)
+    - <u>High resolution manometry</u> / <u>timed barium esophogram</u> - detection and classification of esophageal motility disorders
+    - <u>EndoFLIP</u> - indicated if manometry is inconclusive
+
+  
+  ![](../img/workup_for_dysphagia.png)

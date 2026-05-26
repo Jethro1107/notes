@@ -1,0 +1,28 @@
+---
+id: 05519e6b-1145-47df-b249-54c727265c6e
+title: B - Maps of Meaning, Jordan Peterson
+---
+
+# Because the ongoing quest of scientific morality can appease the perception of most people, we tend to forget that mythic stories also heavily influence our belief system
+
+- **Related:**
+
+    - [[Mimetic nature of desire is expressed in its geometry]]
+
+- The scientific revolution has led to our beliefs that the it could, and possibly will explain everything in the world, and should be the basis of our belief system. The power of empiricism and science may have killed the stories that govern our daily life.
+
+- However, mythic rules persist, at a subconscious level. It guides our everyday thought.
+
+- **Fleeting Notes:**
+
+    - Science describes what is. It removes subjectivity from the viewer. Empiricism is the quest to find objectivity, something that is true to every single one of us.
+        - The rose is red. The temperature is 17 degrees Celsius. Our heart beats.
+        - It is the description of things at the plainest sense, and that's the definition of objectivity!
+            - But the view of the world from a scientist is merely just a place of things. All knowledge acquired, which is assimilated into our belief system (moral/ value system) is non-actionable.
+    - But there is also something that contributes greatly to our belief system, those are myths, that take the medium of stories and literature.
+        - None of this is empirical, how do we vet of its value?
+            - It may be not as meticulously tried and tested.
+        - But yet, they informs us of many things. The moral of the story, when we accept it becomes part of our values.
+            - It may not be logically sound, but it still becomes part of us.
+    - However, the dawn of empiricism has caused us to disregard the mythic influence on the beliefs we construct.
+        - We started to see the world as a place of things, and forget it is also a forum of action.

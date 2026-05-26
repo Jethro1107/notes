@@ -1,0 +1,141 @@
+---
+id: e425d689-1521-45d7-aa57-9f172b510a9e
+title: Vertigo
+type: main
+---
+# Vertigo
+
+- **Key facts and  checkpoints:**
+	- 
+	![[Pasted image 20260508220442.png]]
+
+- **Approach to classification of dizziness:**
+	- 
+	![[Pasted image 20260508220408.png]]
+- **Definition and terminology:**
+	- **Vertigo** - defined as an episodic sudden sensation of circular motion of the body or its surroundings or an illusion of motion, usually a rotatory sensation:
+		- _Pathophysiology_ - disturbed function of the peripheral vestibular system or its central connections:
+			- 
+			![[Pasted image 20260508220907.png]]
+		- _Quality_ - Described by patients as "everything spins", "head spinning", "room spinning", whirling, reeling, swaying, pitching, and rocking
+		- _Exacerbating factors_ - Precipitated by standing, movement, or turning of the head
+		- _Associated features_:
+			- Often results in pronounced unsteadiness and fear of falling, thus vertiginous patients usually stay immobile during attacked
+			- _Nystagmus_ often accompanies vertigo
+			- Often accompanied by _autonomic symptoms_ due to reflex autonomic discharge - including nausea, retching, and vomiting, pallor, or sweating
+			- Peripheral vertigo is a/w ear symptoms, including _tinnitus_ and _SNHL_
+	- **Giddiness** - a psychoneurotic symptoms characterised by non-specific lightheadedness:
+		- Often described by patients using non-specific terms, including "a swimming sensation", "walking on air", "ground going beneath me", "?slight alcohol intoxication"
+		- Usually absence of features that support true vertigo, such as elements of rotation, impulsion, N/V, belching, tinnitus, or SNHL
+		- Sx are often persistent and thought as debilitating, but patietns can nonetheless walk w/o difficulties if forced to (i.e. no fall risk)
+	- **Syncope** - transient loss of consciousness due to global cerebral hypoperfusion w/ spontaneous return of consciousness
+	- **Disequilibrium** - a neurological condition w/ loss of balance or instability while walking w/o any associated sensations of spinning
+- **Murtaugh's diagnostic approach to dizziness or vertigo:**
+	- 
+	![[Pasted image 20260508221644.png]]
+	- 
+- **Probability diagnosis** - cardiogenic syncope or central vertigo are uncommon in common practice:
+	- _Non-specific dizziness_ - Hyperventilation, Postural hypotension, Vasovagal syncope, cervical spondylosis
+	- _Vertigo_ - Acute vestibulopathy, Benign paroxysmal positional vertigo, Motion sickness, Vestibular migraine (N.B. DDx of recurrent vertigo includes Menierre's syndrome and vestibular migraine)
+- **Serious disorders not to be missed:**
+	- _Intracranial neoplasia_ - consider if +ve neurological signs (e.g. ataxia, nystagmus, EOM abnormalities) especially if out-of-proportion to described vertigo:
+		- Primary malignancies - e.gg. acoustic neuroma (characterised by diagnostic triad of tinnitus, unilateral SNHL, and unsteady gait) , medulloblastoma, other posterior fossa tumours (e.g. meningioma)
+		- Secondary malignancies - most common is a metastatic deposit from lung cancer
+	- _Syncope_ - further classified into cardiogenic, and neurocardiogenic syncope:
+		- Cardiogenic - arrhythmias, myocardial ischaemia, structural heart disease
+		- Neurocardiogenic - e.g. vasovagal syncope, carotid hypersensitivity syndrome
+	- _Cerebrovascular disorders_ - e.g. vestibular insufficiency, posterior circulation stroke
+	- _Other neurological disorders_:
+		- Multiple sclerosis - suggon onset of vertigo w/ abnormal vision but spared ear Sx in young patients should be considered to be MS (5% of MS present w/ vertigo)
+		- Focal aware seizures - rare presentation of complex partial seizures as dizziness
+- **Pitfalls** - see table above, Menierre's syndrome often over-diagnosed
+- **Seven-masquerades checklist:**
+	- _Depression_ - especially if w/ mixed anxious distress and hyperventilation resulting in depressive Sx
+	- _Diabetes_ - dizziness can occur w/ hypoglycaemia, but also complicates chronic hyperglycaemia from an autonomic neuropathy
+	- _Drugs_ - various drugs inducing arrhythmias, postural hypotension, or sedative effects on the CNS:
+		- 
+		![[Pasted image 20260508222917.png]]
+	- _Anaemia_ - chronic anaemia may present w/ non-specific dizziness
+	- _Spinal dysfunction_ - postulated upper spine lesions resulting in abnormal proprioceptor responses or by osteophytes compressing on vertebral arteries
+- **Psychogenic considerations** - important aspect to consider in the patient presenting w/ dizzienss:
+	- May be a dominant component if the complaint is giddiness or lightheadedness, as may reflect underlying anxiety, particularly agoraphobia or panic disorders
+	- Persistent dizzines may result in fear of a serious disorder such as a brain tumour or stroke
+- **Salient points of Hx:**
+	- **HPI** - onset, progression, quality, provacation, severity:
+		- _Onset_ - acute vs chronic
+		- _Progression_ - paroxysmal or continuous (if paroxysmal clarify Sx before, during, and after the attack)
+		- _Quality_ - patient's own description of nature of Sx to distinguish between true vertigo and pseudovertigo:
+			- Sense of rotation
+			- Impulsion
+			- Features of autonomic discharge (e.g. nausea, belching, vomiting, sweating)
+		- _Provacation_ - effects of position and changes in posture
+		- _Severity_ - e.g. falls or fear of falling
+	- **Associated Sx:**
+		- _Aural Sx_ - tinnitus, unlateral hearing loss, aural fullness suggestive of a peripheral cause of vertigo
+		- _Autonomic Sx_ - marked accompaniments of N/V, and sweating
+		- _Visual Sx_ - other than spinning sensation, identify other visual Sx such as BOV, diplopia that contributes to dizziness (N.B. BOV in young patient in absent of aural Sx points towards MS)
+		- _Neurological Sx_ - clarifying 1) ataxia, 2) weakness (including slurring of speech), and 3) numbness which points towards a central cause
+		- _Cardiac Sx_ - characterise
+	- **Associated events:**
+		- _Recent URTI_  - recent recovery from URTI may result in acute labyrinthitis
+		- _Trauma_ - documentation of recent TBI (even trivial)
+	- **PMH and drug Hx:**
+		- _Atherosclerotic risk factors_ - key in acute vestibular failure, including, HTN, HL, DM, smoking, FHx of cardiovascular/ cerebrovascular events
+		- _Cardiovascular diseases_ - consider Hx of cardiovascular diseases for DDx of pre-syncope and syncope
+		- _Neurological disorders_ - migraines, epilepsy, multiple sclerosis
+		- _Chronic suppurative otitis media_ - cholesteatoma  may erode into inner ear causing a perilymphatic fistula
+		- _Drug Hx_:
+			- Recent ABx - exp. aminoglycosides (e.g. streptomycin, gentamycin), and tetracyclines
+			- Anti-epileptics - e.g. phenytoin (cerebellar dysfunction)
+			- Drugs causing postural hypotension - antihypertensives, anti-anginal medications, diuretics
+			- Psychotropic medications - BZD, hypnotics, alcohol
+			- Others - sedating agents (e.g. antihistamines), withdrawal from illicit drugs (e.g. cocaine, marijuuana)
+	- **Menstrual Hx** - if applicable:
+		- Menstrual flow - for anaemia
+		- Menopause/ Perimenopause - vasomotor instability
+- **P/E:**
+	- _General examination_ - evidence for anaemia, polycythaemia, and alcohol dependence
+	- _Cardiovascular examination_ - standing/ sitting BP for postural hypotension, pulse for arrhythmias, examination of precordium for structural heart diseases, carotid bruits
+	- _Neurological examination_:
+		- Cranial nerves - evaluation of VA, EOM (nystagmus), CN7-8 for central causes
+		- Cerebellum - for ataxia/ past-pointing
+	- _Examination of the ear_:
+		- Otoscopy - for wax, TM
+		- Hearing - Weber and Rhinne test
+	- _Other tests_:
+		- Ask patient to perform manoeuvre that may provoke Sx
+		- Dix Hallpike manoeuvre to induce vertigo +/- nystagmus
+			- 
+			![[Pasted image 20260509134048.png]]
+		- Hyperventilation
+- **Ix** - targeted:
+	- _Blood tests_ - Hb, RBG
+	- _Cardiac Ix_ - CXR, ECG, Holter monitoring, echocardiography, tilt table test
+	- _Neurological Ix_ - neuroimaging, pure tone audiometry, brain-stem evoked audiometry, caloric test, visual evoked potentials, electrochochleography, electro-nystagmopgrahy, rotational test
+	- 
+	![[Pasted image 20260508224422.png]]
+- **Demographic informs the DDx of dizziness:**
+	- **Children** - dizziness and vertigo is not a common Sx in children and may imply sinister causes:
+		- _Causes of central vertigo_ - trauma and concussions (temporal region), temporal lobe seizures, vestibular migraines, **medulloblastoma** (in young children), CNS infections
+		- _Causes of peripheral vertigo_ - labyrinthitis (mumps, measles, influenza), BPPV (preceeds adulthood migraine)
+		- _Cardiac causes_ - cardiac arrhythmias
+		- _Others_ - alcohol toxicity (pitfalls), illicit drugs, hyperventilation
+	- **Young adults** - usually more benign causes:
+		- _Following URTI_ - suggestive of acute labyrinthitis/ vestibular neuronitis, usually ocurring in young adults or middle age
+		- _Girls in late teens_ - likely due to postural hypotension due to BP fluctuations and settles w/ age
+		- _Other pitfalls_ - alcohol toxicities, illicit drugs
+	- **Older adults and elderly:**
+		- _Perimenopausal women_ - consider perimenopausal state if other features of vasomotor instability is present
+		- _Atherosclerotic risk factors_ - consider cerebrovascular disease, or other causes of postural hypotension (e.g. drug-induced, autonomic neuropathy from DM)
+		- _Syncopal-like presentation_ - consider cardiac arrhythmias and structural heart diseases which increases in prevalence w/ age
+		- _Hx of middle-ear disorder_ - cholesteatoma may cause vertigo alone, but is often accompanied by disorders of auditory nerve, inner ear, cerebellum, brainstem, and C-spine
+		- _Malignancy_ - esp. secondary malignancy as a possibility in elderly
+- **Indications for referral:**
+	- Uncertain diagnosis, esp. children
+	- Possibility of severe bacterial infections or tumours
+	- Vertigo in presence of suppurative otitis media
+	- Presumed viral labyrinthitis not abating for after 3 mo
+	- Vertigo following trauma
+	- Presumed Meniere syndrome not responding to conservative medical Mx
+	- Evidence of vertebrobasilar insufficiency
+	- BPPV persisting for > 12 mo despite Tx w/ particle repositioning exercise

@@ -1,0 +1,34 @@
+---
+id: d35591d6-2c43-4986-8b4e-161c60bab6d9
+title: Sodium Retention and ECF Expansion
+---
+
+# Sodium Retention and ECF Expansion
+
+- **Definition** - excessive total body Na that is caused by insufficient Na excretion, due to cardiac, renal, or hepatic disease
+- **Etiology of Na and water retention:**
+    - <u>Impaired renal function</u> (reduced GFR) - primary renal disease
+    - <u>Primary hyperaldosteronism</u> - Conn's syndrome
+    - <u>Secondary hyperaldosteronism</u> - Congestive heart failure, cirrhotic liver disease, nephrotic syndrome, protein-losing enteropathy, malnutrition, renal artery stenosis
+
+  
+  ![](../img/etiology_of_na_and_water_retention.png)
+- **Pathophysiology of Na and water retention:**
+    - <u>Altered physiology resulting in activation of RAAS and SNS</u> - impaired renal function, primary hyperaldosteronism, secondary hyperaldosteronism: 
+    ![](../img/secondary_hyperaldosteronism.png)
+    - <u>Equal distribution of across ECF compartments</u> - expansion of ECF volume does not necessarily involve an increased plasma volume, since the excess fluid often leaks out of the capillary to expand interstitial component of ECF
+    - <u>Effects of hypoalbuminaemia</u> - hypoalbuminaemia results in reduced capillary oncotic pressure resulting in further peripheral oedema
+- **Clinical features of Na and water retention:**
+    - Ankle swelling (pitting ankle oedema)
+    - Abdominal distension (ascites)
+    - Breathlessness (pleural effusion or pulmonary oedema)
+- **Signs of hypervolaemia:**
+    - <u>Vital signs</u> - Hypertension (ocassionally)
+    - <u>Hydration status</u> - peripheral oedema, pleural effusion, ascites, pulmonary crepitations, weight gain
+    - <u>JVP</u> - raised JVP
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Tx of underlying cause</u> - e.g. ACEi for CHF, corticosteroids for MCD
+        - <u>Dietary Na restriction</u> - to 50-80 mmo/d to **match the diminished excretory capacity**
+        - <u>Diuretics</u> - increased natriuresis and diuresis
+    - **Diuretic therapy** - see notes on diuretic therapy

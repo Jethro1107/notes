@@ -1,0 +1,26 @@
+---
+id: e09f7d8d-25b7-4b3c-82fa-9aee2af0e364
+title: Drug-induced Renal Dysfunction
+---
+
+# Drug-induced Renal Dysfunction
+
+- **Processing of drugs by the kidneys** - the kidney is susceptible to damage by drugs because it is the route of excretion of many drugs:
+    - <u>Filtration</u> - many drugs and metabolites are freely filtered in the glomerulus in the Bowman's capsule
+    - <u>PCT secretion</u> - drugs and their metabolites may reach high concentrations in the renal cortex as a result of proximal tubular transport mechanisms
+    - <u>DCT water reabsorption</u> - DCT counter-current mechanism results in water reabsorption, causing concentration of drugs in the medulla
+- **Mechanisms of nephrotoxicity:**
+    - <u>Haemodynamic effects</u> - global renal hypoperfusion and may contribute to acute tubular necrosis (see below)
+    - <u>Glomerulonephritis</u> - immune-mediated damage by glomerulonephritis from certain drugs
+    - <u>Acute tubular necrosis</u> - ischaemic or drug induced:
+        - From direct toxicity to the drugs
+        - Due to renal hypoperfusion
+        - May be due to precipitation in tubules (e.g. contrast)
+    - <u>Acute interstitial nephritis</u>:
+        - Direct toxicity resulting in local inflammation - often lithium or cytotoxic agents (particularly calcinurin inhibitors)
+        - Immune-mediated inflammation - common drugs such as NSAIDs, penicillin, PPIs and many others
+    - <u>Tubular obstruction</u> - e.g. acyclovir, indanavir, all chemotherapy (tumour lysis syndrome)
+    - <u>Loss of tubular function</u> - loss of tubular function such as reabsorption and secretion resulting in metabolic disturbances
+
+  
+  ![](../img/mechanisms_of_drug_toxicity_against_the_kidneys.png)

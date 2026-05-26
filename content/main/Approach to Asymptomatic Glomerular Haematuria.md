@@ -1,0 +1,32 @@
+---
+id: 7456e339-23a3-46e1-b4b7-542d6ca66fb3
+roam_parent: 3249beda-c553-453f-a976-1d74b2d8b73d
+title: Approach to Asymptomatic Glomerular Haematuria
+---
+
+# Approach to Asymptomatic Glomerular Haematuria
+
+- **Definition** - asymptomatic haematuria (which may be microscopic or macroscopic) of glomerular origin confirmed on microscopy
+- **Asymptomatic** - haematuria is not associated w/:
+    - Loin pain
+    - Dysuria or other urinary Sx
+    - Accelerating HTN
+    - Renal impairments
+    - Fluid retention
+- **Haematuria is of assumed glomerular origin if:**
+    - Urine microscopy is characterised by dysmorphic RBCs and RBC cast formation
+    - In macroscopic glomerular haematuria, it is often painless, brown-smoky urine
+- **Clinical suspicion** - typically on workup for Haematuria (see notes on [[Haematuria]])
+- **DDx of asymptomatic glomerular haematuria:**
+    - IgA nephropathy
+    - Alport Syndrome
+    - Thin Basement Membrane disease
+- **Salient points of Hx:**
+    - <u>Visible haematuria</u> - common in IgA nephropathy and Alport syndrome, but unusual in TBMD
+    - <u>FHx</u> - haematuria, CKD, deafness:
+        - Alport syndrome - a/w Hx of CKD and deafness in M of the family
+        - IgA nephropathy - may be familial but no identifiable mode of inheritence
+- **P/E** - BP measurement
+- **Additional Ix** - if isolated glomerular haematuria:
+    - Pure-tone audiogram - Alport syndrome
+    - Renal biopsy - typically preserved if concomitant significant proteinuria or progressive disease

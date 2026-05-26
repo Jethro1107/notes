@@ -1,0 +1,40 @@
+---
+id: e58ae1ed-1e0a-4495-937f-29e1fadbadd2
+title: Hypercalcaemia of Malignancy
+---
+
+# Hypercalcaemia of Malignancy
+
+- **Definition** - most common metabolic disturbance in patients w/ cancer often caused by bone metastasis (and ocassionally as a paraneoplastic phenomenon)
+- **Epidemiology** - most common metabolic disturbance in patient's w/ cancer (and most common cause of hypercalcaemia overall):
+  - <u>Prevalence</u> - 15-20/100000 in overall population
+  - <u>Incidence</u> - variable among different cancers:
+    - **Cancers w/ highest risk** (up to 40% patients) - multiple myeloma, breast cancer
+    - **Cancers w/ intermediate risk** - NSCLC
+    - **Cancers w/ relatively low risk** - CRC, prostate cancer, SCLC
+- **Pathophysiology of hypercalcaemia of malignancy** - most commonly caused by bone-metastasis:
+  - <u>Bone metastasis</u> - bone resorption resulting in release of Ca into blood
+  - <u>Over-production of PTHrP</u> - results in elevated Ca by 1) stimulating osteoclastic bone resorption, and 2) increasing tubular resorption of Ca
+  - <u>Lymphokine production for osteoclastic activation</u> - release of RANKL to stimulate osteoclast activation, a mechanism that is commonly involved in **multiple-myeloma**
+  - <u>Extra-renal activation of vitamin D</u> - occurs in adult T-cell lymphomas
+- **Clinical features of hypercalcaemia of malignancy** - note clinical presentation may be dominated by that of the underlying malignancy:
+  - <u>Non-specific Sx</u> - fatigue, drowsiness, confusion
+  - <u>GI Sx</u> - constipation due to functional ileus
+  - <u>Nephrogenic diabetes insipidus</u> - polyuria, polydipsia, and dehydration
+- **Ix** - note that total Ca on laboratory report may be <u>falsely low</u> due to <u>underlying cachexia</u>:
+  - **LFT** - hypoalbuminaemia if cachexic with poor feeding
+  - **Ca** - elevated and often underestimated (may require correlation w/ Alb):
+    - Adjusted Ca = Ca level + 0.02 x \[40 - Alb\]
+  - **RFT** - derranged especially if dehydrated
+  - **Additional Ix** - Ix of cause esp. presenting w/ skeletal Sx:
+    - Skeletal survey +/- XR of C-spine
+    - +/- MRI spine (if suspecting cord compression)
+    - +/- SPE (if suspecting myeloma)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Rehydration</u> - restore renal function and increase urinary Ca excretion
+    - <u>Medical therapy</u> - IV zoledronic acid +/- calcitonin for life-threatening hypercalcaemia
+    - <u>Assess disease progression</u> - HyperCa is often a frequent sign of disease progression hence further workup and review of anti-cancer therapy is required
+
+    
+    ![](img/immediate_mx_of_hypercalcaemia_of_malignancy.png)

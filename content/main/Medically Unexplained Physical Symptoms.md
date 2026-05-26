@@ -1,0 +1,114 @@
+---
+type: main
+---
+# Medically Unexplained Physical Symptoms
+
+- **Definition** - complaints of physical S/S for which there is no objective pathophysiological evidence
+- **Other terminologies:**
+	- Non-disease
+	- Hypochondriasis
+	- Somatisation
+	- Medically unexplained physical symptoms
+	- Somatoform disorders
+	- Functional somatic syndromes
+	- Medically unexplained symptoms
+	- Somatic symptom disorder
+	- Persistent unexplained physical symptoms
+- **Epidemiology:**
+	- _Prevalence_ - absence of unifying diagnosis is common in both primary and secondary care setting:
+		
+		![[Pasted image 20260415191327.png]]
+	- _Demographic_:
+		- Age - common presenting MUPS differ by page (e.g. diarrhoea in younger populations vs constipation in older populations)
+			
+			![[Pasted image 20260415191349.png]]
+		- Sex - ?
+		- Culture - no systematic cultural differences regarding MUPS, but specific functional syndromes appear to be more common in different cultures and settings (Fritzsche 2013)
+- **Bio-psycho-social and healthcare aspects of MUPS:**
+	
+	![[Pasted image 20260415191830.png]]
+- **MUPS in Chinese culture:**
+	- _Illness perception_:
+		- Symptoms are indicators of physical diseases
+		- Diseases should be treated early
+		- There is a pill for every ill
+	- _Psychological influence_:
+		- Tendancy to psychosomatize
+		- High anxiety from unexplained symptoms resulting in self-perpetuating vicious cycle
+- **Nature of MUPS:**
+	- Acute vs chronic
+	- Single vs multiple
+- **Common functional symptoms and syndromes:**
+	- _Neurological_ - tension headache, atypical facial pain, dizziness, chronic fatigue, insomnia
+	- _Cardiovascular_ - palpitations, non-cardiac chest pain
+	- _Gastrointestinal_ - abdominal pain, non-ulcer dyspepsia
+	- _Musculoskeletal_ - muscle and joint pain
+- **Medicalisation of MUPS:**
+	- _Neurological_ - tension headache, chronic fatigue syndrome, vertiginous syndrome, sleep disorder
+	- _Gastrointestinal_ - irritable bowel syndrome, globus syndrome, functional dyspepsia
+	- _Musculoskeletal_ - fibromyalgia
+	- _Others_ - chronic pelvic pain, multiple chemical sensitivity
+- **Clinical suspicion of MUPS:**
+	- _Non-specific symptoms_ - fatigue, dizziness, headache, atypical facial pain, subjective bloating
+	- _Frequent consulters_ - especially for patients who cannot be reassured by investigations
+	- _Unrelated symptoms_ - somatic symptoms that are unrelated clinically lowers likelihood that they are caused by diseases
+	- _Non-response_ - somatic symptoms that have not been responding to treatment
+- **Assessment when suspecting MUPS:**
+	- _Assessment of psychosocial stressors_ - BATHE technique
+	- _Assessment of psychiatric symptoms_ - mood, anxiety, sleep, appetite
+- **BATHE technique:**
+	- _Background_ - "what's going on in your life?"
+		- Describe the situation in a few sentences
+		- Details of stressors are not overly important compared to the affect, trouble, and handling of the situation
+	- _Affect_ - "how does that make you feel?"
+		- Let the patient describe the emotion
+		- If necessary help them name an emotion
+	- _Trouble_ - "what troubles you the most about the situation?"
+		- Often the real reason behind the emotion
+		- May not be what you expect, hence the need to ask
+	- _Handling_ - "how are you handling that?"
+		- Assessment of current coping strategies, whether helpful or possibly maladaptive
+		- Guides management
+	- _Empathy_ - "that must be difficult for you"
+- **Mx:**
+	- **Principles of Mx of MUPS** (RAPRIOP model):
+		- _Reassurance and explanation_ - often goes beyond  presenting unremarkable investigations and authorative rejection of the clinical significance of Sx as fears tend to recur in many patients within months (Dowrick 2004); approach to connecting physical symptoms to psychosocial stressors using the **re-attribution technique**
+		- _Advice_ - addressing misconceptions, and general advices stressful situations
+		- _Prescription_ - non-pharmacological and pharmacological prescription
+		- _Referral_ - referral for both the physical symptoms and the psychosocial stressors:
+			- Physical symptoms - specialist referrals if complete workup not otherwise done (esp if unaware of the diagnosis), PT, OT
+			- Psychosocial distress - medical social workers (assessing social resources), clinical psychologists for talk therapies
+		- _Investigations_ - used judiciously, as negative results may paradoxically cause more worry
+		- _Observation and follow up_ - ensure **patient not abandoned**, using **time-based** rather than symptom based instructions to ensure return to normality
+		- _Prevention_ - addressing bio-psycho-social factors to avoid relapse
+	- **Re-attribution technique** (Goldberg and Gask 1989):
+		- Aim is to help patient gain insight into the relationship between stress and physical symptoms
+		- Pertains 3 phases, including 1) feeling understood, 2) broadening the agenda, and 3) making the link
+	- **3 phases to re-attribution technique:**
+		- _Phase 1_ - feeling understood:
+			- Understanding the reality of the patient's symptoms (HPI is less important but significance and impact is very real)
+			- Understanding the patients psychosocial background
+		- _Phase 2_ - broading the agenda:
+			- Providing feedback on your findings on Hx, P/E, and Ix regarding your hypothesis of the problem
+			- Try to reframe the chief complaint from being focused on the physical aspect, but also include psycho-social aspects
+			- Probe how the patient views a possible link between psychosocial stressors and their physical symptoms
+		- _Phase 3_ - making the link by offering an explanation:
+			- Using temporal link
+			- Using normalisation
+			- Use of explanation
+	- **Making the link between the mind and body:**
+		- _Relating to daily experiences_:
+			- Thoughts, feelings, and stresses play a part in making changes in our body
+			- How we think and feel can make us physically ill
+		- _Pathophysiological explanation in lay language_:
+			- Two way communication between our brain and bodies
+			- Hormonal hypothesis
+	- **Observation and follow-up** - ensure patient not abandoned:
+		- _Limitations of symptom-based (open) advice_:
+			- Puts the patient in charge in deciding whether they are ready to return to normal life, using subjective signals like Sx as the gate
+			- Patient-centred but non-productive as re-inforces avoidance behaviour and prolongs disability
+		- _Advantages of time-based (closed) works_:
+			- Concrete, external framework that the patient could follow
+			- Teaches patient that persistent symptom may occur but is not a reason for not functioning
+		
+		![[Pasted image 20260415204348.png]]

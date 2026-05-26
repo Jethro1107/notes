@@ -1,0 +1,134 @@
+---
+id: 8E1FD726-F2FD-498E-9B13-3145EDCAC800
+title: Harrison Ch301 Bronchiectasis
+---
+
+# Ch301 Bronchiectasis
+
+- **Definition** - irreversible airway dilatation that involves the lung in a focal or diffuse mannar, categorized as cylindrical (or tubular), varicose, or cystic
+- **Epidemiology:**
+    - <u>Prevalence</u> - increasing in the USA
+    - <u>Demographic</u> - variable and dependent on the underlying etiology
+- **Etiology** - arises from infective and non-infective causes: 
+![](../img/harrisons_major_causes_of_bronchiectasis.png)
+    - **Focal bronchiectasis** - caused by focal obstruction of the airway:
+        - <u>Congenital</u> - congenital underdevelopment of the airway
+        - <u>Acquired</u> - foreign body aspiration, tumour mass
+    - **Diffuse bronchiectasis** - bronchiectatic changes throughout the lungs often suggestive of an underlying systemic or infectious process:
+        - **Congenital** - cystic fibrosis, primary ciliary dyskinesia, Kartagener's syndrome, alpha-1 anti-trypsin deficiency
+        - **Acquired** - up to 50% cases are have <u>idiopathic</u> disease:
+            - <u>Infection</u> - bacterial infection (esp. in childhood), pulmonary tuberculosis, NTM infections (usu. MAC)
+            - <u>Immunodeficiency states</u> - hypogammaglobulinaemia, HIV infection, bronchiolitis obliterans after lung transplant
+            - <u>Autoimmune or immune-mediated disorders</u> - rheumatoid arthritis, Sjogren's syndrome, inflammatory bowel disease, **allergic bronchopulmonary aspergillosis**
+            - <u>Recurrent aspiration</u> - caused by alcoholism, bulbar weakness etc.
+            - <u>Miscellaneous</u> - yellow nail syndrome, tractional bronchiectasis from lung fibrosis
+- **DDx of bronchiectasis based on pattern of involvement:**
+    - <u>Upper lung field involvement</u> - cystic fibrosis, post-radiation fibrosis (if Hx of radiation to the corresponding lung region)
+    - <u>Lower lung field involvement</u>:
+        - Recurrent aspiration - alcoholism and recurrent pneumonia, esophageal motility disorder (e.g. scleroderma)
+        - Tractional bronchiectasis - from end-stage idiopathic pulmonary fibrosis
+        - Immunodeficiency states (predisposes to infection) - hypogammaglobulinaemia
+    - <u>Middle lung field involvement</u>:
+        - Congenital causes - dyskinetic/ immotile cilia syndrome
+        - NTM infection - esp. mycobacterium avium complex
+    - <u>Central airway involvement</u>:
+        - Congenital causes - tracheobronchomegaly, Williams-Campbell syndrome
+        - Acquired causes - allergic bronchopulmonary aspergillosis
+- **Patahomechanism of TB-associated bronchiectasis:**
+- **Pathophysiology of bronchiecasis:**
+    - **Viscious cycle hypothesis** - most widely-accepted hypothesis involving infection and obstruction:
+- **Clinical features of bronchiectasis** - background of persistent respiratory symptoms punctated by acute exacerbations:
+    - **Cough** - persistent productive cough w/ ongoing production of thick, tenacious sputum
+    - **Haemoptysis**
+    - **Complications of bronchiectasis:**
+        - <u>Airflow obstruction</u> - typically mild-to-moderate on lung function studies, overlapping that seen in COPD, but may implicate on the functional limitation of the patient
+        - <u>Acute exacerbations of bronchiectasis</u> - usually w/ increase in volume and purulence of sputum and worsening cough, however typical features such as dyspnoea, fever, or pulmonary infiltrates may be absent
+- **Signs of bronchiectasis:**
+    - **General examination** - clubbing may be present
+    - **Respiratory examination:**
+        - <u>Auscultation</u> - wheeze; coarse crackles that changes in quality w/ posture or cough
+- **Ix and Dx:**
+    - **CXR:**
+        - <u>Test properties</u> - limited Sn
+        - <u>Diagnostic findings</u> - "tram track" sign suggestive of airway dilatations
+    - **HRCT:**
+        - <u>Test properties</u> - higher Sn and Sp
+        - <u>Diagnostic findings</u>:
+            - Parallel tram tracks
+            - Signet rign sign (cross-section area of airway w/ diameter \> 1.5x of adjacent vessel)
+            - Lack of bronchial tapering (presence of tubular structures within 1cm of the pleural surface
+            - Bronchial wall thickening in dilated airways
+            - Tree-inibud pattern (inspissated secretions)
+            - Cysts emanating from bronchial walls (usually in cystic bronchiectasis)
+
+      
+      ![](../img/severe_bronchiectasis_ct.png)
+    - **Lung function studies:**
+        - <u>Role</u> - important component of functional assessment of patient
+        - <u>Common findings</u> - compatible w/ obstruction pattern:
+            - Slightly reduced FEV1/FVC ratio suggestive of airflow obstruction
+            - Lung volumes and DLCO not typically affected
+    - **Ix for underlying causes** - dependent on distribution and likely etiology: 
+    ![](../img/harrisons_major_causes_of_bronchiectasis.png)
+- **Complications:**
+    - <u>Antimicrobial resistance</u> - due to recurrent infections and repeated courses of ABx, often resulting need for combination therapy w/ increased toxicities
+    - <u>Massive haemoptysis</u> - due to injury to superficial mucosal vessels resulting in intubation to protect the airway, bronchial artery embolisation or surgery
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Goals of Mx</u> - ultimate goal of reducing exacerbation risks by targetting the precipitating cause, along w/ Sx relief
+        - <u>Approach to Mx</u> - ABx prophylaxis, bronchial hygiene, anti-inflammatory therapy
+    - **ABx therapy for acute exacerbations:**
+        - <u>Principles</u>:
+            - **Coverage:**
+                - Presumptive agent similar to those as in CAP (H. influenzae is cultured commonly)
+                - Pseudomonas aeruginosa coverage should be considered in those previously cultured Pseudomonas spp.
+                - Consideration for NTM infections (MAC) requires demonstration of active infection (not just colonisation), and the intolerance to prolonged ABx course
+            - **Duration** - usually a minimum of 7-10 ays, and perhaps as long as 14 days
+    - **Long-term macrolides:**
+        - <u>Indications</u> - selected cases of severe bronchiectasis w/ recurrent exacerbations
+        - <u>Regimen</u> - 6-12 mo of azithromycin or erythromycin
+        - <u>MOA</u> - unlikely related to antimicrobial effects:
+            - Anti-inflammatory effects
+            - Possibly reduces G- bacilli biofilms
+        - <u>Clinical efficacy and limitations</u>:
+            - Number of double-blind, placebo-controlled RCTs support benefit in terms of decreasing rates of exacerbations, mucus production, and decline in lung function, but no data on mortality
+            - Meta-analysis shows increased risk of macrolide resistance (w/ particular concerns for macrolide-resistance NTMs)
+            - Unsure whether benefits from long-term macrolide outweigh risk of emergence of ABx resistance
+        - <u>C/I</u>:
+            - QT prolongation
+            - Rule out NTM infections
+    - **Bronchial hygiene:**
+        - Hydration and mucolytic administration
+        - Aerosolization of bronchodilators
+        - Chest physiotherapy
+        - Pulmonary rehabilitation
+    - **Anti-inflammatory therapy:**
+        - <u>Rationale</u> - controlling the "inflamatory phenotype":
+            - Likely important for certain etiologies such as allergic bronchopulmonary aspergillosis or due to connective tissue disorders
+            - Less likely to benefit from infectious bronchiectasis
+        - <u>Clinical efficacy</u>:
+            - Small trials have yielded efficacy of alleviating dyspneoa, decrease need for SABA, and reduced sputum production w/ inhaled corticosteroids
+            - However, no significant reduction in exacerbation risks is reported
+    - **Surgery** - selected cases w/ focal area of suppuration; lung transplantation may be considered
+- **Prognosis** - extremely variable depending on underlying etiology:
+    - <u>Morbidity</u> - one study demonstrates decline in lung function in non-CF bronchiectasis similar to that of COPD
+    - <u>Factors influencing prognosis</u>:
+        - Underlying condition
+        - Frequency of exacerbations
+        - Pathogen resulting in infection (worse outcomes a/w P. aeruginosa colonisation)
+        - Other radiographic, clinical, and microbial features
+- **Prevention:**
+    - **General measures:**
+        - <u>Reversal of immunodeficiency state</u> - e.g. administration of gamma globulins for hypogammaglobulinaemia
+        - <u>Vaccination</u> - for influenza, pneumococcal, COVID, and RSV vaccines
+        - <u>Smoking cessation</u> - as a general rule to reduce the risk of chest infections
+    - **ABx prophylaxis** - suppressive ABx to minimise the microbial load and reduce frequency of exacerbations for those w/ frequent recurrences (e.g. \>= 3 episodes per year):
+        - <u>Principles and concerns</u>:
+            - Has been associated in small studies and some RCTs that in fact reduces the risk of frequent exacerbations
+            - Invariably associated w/ ABx resistance, such that "breakthrough exacerbations" may be more difficult to treat
+        - <u>Proposed regimens</u>:
+            - Oral ciprofloxacin daily for 1-2 weeks per month
+            - Rotating schedule of oral ABx
+            - Long-term macrolide for 6-12 mo (related to anti-inflammatory effect)
+            - Inhalation of aerosolized ABx in rotating schedule (e.g. tobramycin inhalation solution 30 days on, 30 days off)
+            - Intermittent administration of IV ABx for "clean-outs"

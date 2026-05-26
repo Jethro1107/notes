@@ -1,0 +1,195 @@
+---
+type: main
+tags:
+---
+# Knee Pain
+
+- **Key facts and checkpoints:**
+	- ![[Pasted image 20260522161629.png]]
+- **Physiological etiologies of knee pain** - peripheral nociceptors responds to a variety of stimuli:
+	- _Inflammation_ - due to inflammatory disorders (including septic arthritis) or chemical irritation (e.g. crystal synovitis)
+	- _Traction pain_ - e.g. trapped meniscus stretching the capsule
+	- _Tension on synovium capsule_ - any source of effusion, or haemarthrosis
+	- _Mechanical loading on subchondral bone_ - any erosive diseases (e.g. OA knee, or RA w/ knee involvement)
+- **Pain from the knee joints:**
+	- Knee pathologies often give rise to pain _well-localised to the knee_, often at some particular part of the joint and invariably the anterior aspect and seldom the posterior aspect
+	- _Loose bodies complicating OA or radial tear of lateral meniscus_ are specific disorders where pain may not be felt in the knee but radiate proximally/ distally
+- **Pain referred to the knee:**
+	- _Referred pain from the hip joint_ (L3 innervation) - referred from the groin down in the anteromedial aspects of the thigh of the knee, ocassionally only experienced in the anteromedial aspects of the knee only
+	- _Referred pain from the lubosacral spine_ (L3-S1) - often w/ lubar spine dysfunction characterised by **absence of pain when walking**, while pain exacerbated by **sitting**, **coughing**, or **straining**
+	- _Radicular pain_:
+		- L3-4 nerve root irritation - anteromedial knee pain
+		- L5 nerve root irritation - anterolateral knee pain
+		- S1 nerve root irritation - posterior knee pain
+	- ![[Pasted image 20260522162433.png|248]]
+- **Clinical approach to DDx of knee pain:**
+	- _Referred vs local_ - differentiated based on provocating factors
+	- _Intra-articular vs periarticular_ - intra-articular pathologies may result in more diffuse and mechanical pain, while periarticular pathologies are well-localised to the structure
+	- _Mechanical vs inflammatory_ - differentiate by features of inflammation (e.g. stiffness/ swelling, erythema, heat); note locking/ catching sensation as a red flag of mechanical knee pain
+- **Murtagh's diagnostic model of knee pain:**
+	- ![[Pasted image 20260522162512.png]]
+- **Probability diagnosis:**
+	- _Ligamentous strains/ sprains +/- traumatic synovitis_ - most common cause of acute injury typically preceded by overstress of knees and minor traumas, w/ various described syndromes including 1) synovial plica syndrome, 2) patellar tendonopathy, 3) infra-patellar fat pad inflammation:
+		![[Pasted image 20260522164014.png]]
+	- _Pre-patellar bursitis_ (housemaid's knee) - tenderness and fluctuant swelling well localised to the patella a/w frequent kneeling
+	- _Superficial or deep infra-patellar bursitis_ (clergyman's knee) - tenderness and fluctuant swelling superficial or deep to the patellar tendon a/w frequent kneeing
+	- _Anserine bursitis_ - tenderness and fluctuant swelling over upper medial tibia often seen in adults/ elderly w/ OA
+	- _Pre-patellar bursitis_ (housemaid's knee) or _infrapatellar bursitis_ (clergyman's knee) - overuse syndrome w/ repeated low-grade trauma a/w frequent kneeling
+	- _Osteoarthritis of the knee_ - most common chronic condition of the knee which may arise spontaenously or be secondary to previous trauma w/ associated internal derangement or disability
+	- _Patello-femoral syndrome_ (chondromalacia patellae) - characterised by overuse of quadriceps
+- **Serious disorders not to be missed:**
+	- **Orthopaedic pathologies:**
+		- _Cruciate ligament tear_ - characteristically occurs w/ sports injury w/ popping sound and inability to weight bear
+		- _Meniscal tears_ - characteristically a/w radiating pain outside the knee
+	- **Septic arthritis** - arising from blood-bourne infections:
+		- _Common bacterial etiology_ - S. aureus, H. influenzae (children)
+		- _Atypical bacterial etiology_ - Gonococcal arthritis
+	- **Malignancies** - bony metastasis more common than primary tumours:
+		- _Secondary malignancies_ - CA breast, lungs, kidneys, thyroid, prostate
+		- _Primary bone malignancies_ - osteosarcoma, Ewing's tumour
+	- **Inflammatory disorders:**
+		- _Seronegative spndyloarthropathies_ - may be a/w non-erosive large joint arthritis
+		- _Crystal-induced arthritis_ - gout, or chondrocalcinosis
+		- _Rheumatoid arthritis_ - ocassionally manifests atypically w/ bilateral knee manifestations
+		- _Other rarer inflammatory conditions_ - JIA, sarcoidosis
+- **Pitfalls:**
+	- _Referred pain_ - various pain patterns based on referred pain from the back or hip
+	- _Baker's cyst_ - charactirised by painful, reducible (on mid flexion) swelling on posterior aspect of the knee; rupture may cause severe pain in the posterior aspect of the knee, and can be confused w/ DVT
+- **Seven masquerades checklist:**
+	- _Spinal dysfunction_ - prime association due to referred pain from lubospinal disorders
+	- _Drugs_ - e..g. diuretics causing gout in elderly
+	- _Diabetes_ - causing pain through a complicating neuropathy
+- **Psychogenic considerations** - consider over-exageration of knee pain especially if compensation for injury involved
+- **General pitfalls:**
+	- Overlooking referred pain from the hip or lumbosacral spine
+	- Failing to realise that meniscal tear can develop spontaneously due to degeneration
+- **DDx of knee pain by anatomical site:**
+	- ![[Pasted image 20260524211937.png]]
+- **Age-related causes of knee pain:**
+	- _Children and adolescents_ - Osgood Schlatter disease, osteochondritis dessicans, patellofemoral syndrome
+	- _Adults_:
+		- Periarticular diseases - bursitis, patellar tendinopathies, ligamentous sprains
+		- Intra-articular diseases - osteoarthritis, crystal-induced arthritis, meniscal tear
+	- ![[Pasted image 20260522174323.png]]
+- **Salient points of Hx:**
+	- **HPI** - onset, progression, provocation, quality, radiation, severity:
+		- _Site_ - anterior, medial, lateral, or posterior
+		- _Onset and duration_ - rapid vs insiduous onset (noting a/w injuries if present)
+		- _Progression_ - static, continuous, recurring, progressive
+		- _Provocation_ - N.B. absence of provocation by knee movement and weight bearing raises suspicion of a referred pain:
+			- **Weight bearing activities** - e.g. walking, climbing stairs
+			- **Jumping** - suggestive of patellar tendinopathy (i.e.jumper's knees) 
+			- **Prolonged sitting or squatting** (movie theatre sign) - prolonged knee flexion results in aggravation of pain suggestive of patellofemoral pain syndrome
+			- **Repetitive knee flexion** (e.g. running downhill or cycling) - suggestive of illiotibial band syndrome (ITBS) 
+			- **Straining** - e.g. coughing suggests underlying spinal dysfunction
+		- _Quality_ - dull, sharp, aching pain
+		- _Radiation_ - from back or hip joints
+		- _Relieving factors_ - response to prior pharmacological and non-pharmacological Tx
+		- _Timing_:
+			- Rest pain
+			- Nocturnal pain
+	- **Injury Hx:**
+		- _Mechanism of injury_ - ask patient to explain in detail how the injury happened:
+			- Landing awkwardly mid air
+			- Direct blow (note direction)
+			- Twisting
+		- _Onset of pain and swelling_ - duration of onset of pain an swelling denotes etiology
+		- _Associated Sx_:
+			- Popping/ snapping sound
+			- Swelling
+			- Unsteadiness/ Wobbly sensation
+			- Locking sensation
+		- _Weight bearing_ - whether immediate weight bearing can be performed or requires getting carried off the ground (N.B. Ottawa knee rules)
+	- **Additional Hx in absence of injury:**
+		- _Correlation w/ exercise_ - whether pain comes on after walking, jogging or othera ctivity
+		- _Correlation w/ kneeling_ - e.g. scrubbing floors, clearning carpets (ask whether pins and needles)
+		- _Correlation w/ rest_ - whether pain comes on at rest and if there is morning stiffness
+	- **Associated Sx:**
+		- _Morning stiffness_ - may be present in OA, but usually < 30 min
+		- _Swelling_ - if present:
+			- Characterised whether static, recurrent, and progression
+			- Note temporal relationship w/ injuries (haemarthrosis if immediate; traumatic synovitis if delayed)
+			- Note other inflammatory Sx (e.g. erythema and hotness)
+		- _Mechanical knee Sx_:
+			- Locking/ catching - caused by presence of loose bodies within joint space (e.g. OA, meniscal tears, osteochondritis dessicans)
+			- Giving way - due to ligament injury or patella instability, but patients w/ patellofemoral pain syndrome may also complain of giving way due to transient inhibition of quadriceps from deconditioning
+			- Instability - due to ligament injury, or patella subluxation
+		- _Other joint pain_ - r/o polyarthritis
+		- _Systemic Sx_ - fever, weight loss, skin rash
+	- **Assessment on impact:**
+		- _Functional impact_ - impacts on walking and squatting; impacts on work, leisure, and ADLs
+		- _Mood impact_ - e.g. depressed mood, and reflection of most troubling aspects of the disease
+	- **FHx** - of inflammatory arthritis
+	- **SHx** - contributors to long-term overuse:
+		- _Occupation_ - excessive weight bearing on the job/ sedantary lifestyle
+		- _Sports_ - form and amounts +/- any Hx of injuries
+		- _Leisures and other activities_ - may result in excessive weight bearing (N.B. hiking may result in tick bites and Lyme disease)
+- **Swelling after injury:**
+	- _Sudden onset of swelling after injury_ (< 60 minutes) - typical of haemarthrosis, which correlates w/ ACL tears (75% cases)
+	- _Delayed swelling fter injury_ (hours to days) - likely traumatic synovitis, meniscal tears, or other milder ligamentous injuries
+- **Recurrent or chronic swelling** - suggestive of itnra-articular pathologes:
+	- Patellofemoral pain syndrome
+	- Osteochondritis dissecans
+	- Degenerative joint diseases (including meniscal tears)
+	- Arthritic conditions
+- **Locking** - sudden inability to extend knee fully (usually at 10-45 degrees) but able to flex fully:
+	- **True locking:**
+		- Torn meniscus (nucket handle)
+		- Loose body (e.g. OA knee, bony fragments from osteochondritis dissecans)
+		- Torn ACL remnant
+		- Flap of articular cartilage
+		- Avulsed anterior tibial spine
+		- Dislocated patella
+		- Synovial osteochondromatosis
+	- **Pseudo-locking:**
+		- Patellofemoral disorders
+		- First or second degree medial ligament tear
+		- Strain of ACL
+		- Gross effusion
+		- Pain and spasm of hamstrings
+- **P/E:**
+	- **General examinations** - temperature, BMI, examination of gait for weight bearing, antalgic gait etc.
+	- **Knee examination:**
+		- _Look_ - for deformities and effusions
+		- _Feel_ - for point tenderness, effusions
+		- _Move_ - active/ passive ROM, crepitus:
+			- Painful active ROM w/ pain-free passive ROM suggests soft-tissue disorders (e.g. tendinopathies)
+			- Painful active and passive ROM likely suggests an intra-articular process
+		- _Special tests_:
+			- Noble test - if ITBS suspected
+			- Mediopatellar plica test - if medial plica syndrome suspected
+			- Foucher's sign - if popliteal cyst systpected
+			- Measurement of Q angle - predisposition for patella subluxation
+	- **Other examinations:**
+		- Examination of feet for pes planus and excessive subtalar pronation
+		- Examination of hip for referred pain
+		- Examination of the back for referred pain
+- **Ix:**
+	- **Blood tests** - CBC, ESR +/- RF, ANA, HLA-B27
+	- **Additional serology:**
+		- _Lyme serology_ - if suspected Lyme disease
+		- _Arbovirus serology_ - if suspected arbovirus infection
+	- **Plain X-ray:**
+		- _Normal views_ - AP/ lateral
+		- _Special views_:
+			- Intercondylar view - for loose bodies or osteochondritis dissecans
+			- Skyline view - for patella pathologies
+			- Oblique view - for defining condyles and patella
+			- Weight bearing view - for osteoarthritis
+	- **Additional imaging:**
+		- _Bone scan_ - for suspected tumour, stress fracture, osteonecrosis, or osteochondritis dissecans
+		- _MRI_ - for diagnosis of cartilage, menisci or ligamentous disorders
+		- _USG_ - POCUS for assessment of patellar tendon and effusion
+	- **Other invasive Ix:**
+		- Knee joint aspiration
+		- Arthroscopy
+- **Ottawa knee for X-ray of an injured knee:**
+	- _Age_ - >= 55y
+	- _Specific P/E findings_:
+		- Isolated tenderness of the patella
+		- Tenderness at the head of the fibula
+		- Inability to flex to 90 degrees
+		- Immediate inability to weight-bear (four steps: unable to transfer weight twice regardless of limping)
+	- _Mechanism of injury_ - blunt trauma or a fall-type injury esp if:
+		- < 12y or > 50y
+		- Unable to take weight-bearing steps

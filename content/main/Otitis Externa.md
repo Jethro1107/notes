@@ -1,0 +1,61 @@
+---
+type: main
+---
+
+# Otitis Externa
+
+- **Definition** - also known as "swimmer's ear", "surfer's ear", and "tropical ear", is the infection of the external auditory canal
+- **Predisposing factors of otitis externa:**
+    - Allergic skin conditions
+    - Earl canal trauma
+    - Water penetration (swimming, humidity, showering)
+    - Water and debris retention (wax, dermatitis, exostosis)
+    - Foreign bodies
+    - Contamination from swimming water including spas
+    - Use of Q tips
+    - Use of hearing aids
+- **Etiological agents of otitis externa:**
+    - _Bacteria_ - S. aureus, E. coli, Preteus, spp., Klebseilla spp, Pseudomonas spp.
+    - _Fungi_ - Candida albicans, Aspergillus spp.
+- **Clinical features of otitis externa:**
+    - _Pruritis_ - typically the initial presenting features prior to onset of otalgia
+    - _Otalgia_ - only in 70% patients:
+    - Site - typically described as pain within the ear (w/ sparing of the pinna)
+    - Provacation - increased pain w/ movement of the pinna or the TMJ
+    - Severity - variable from mild to intense
+    - _Discharge_ - typically scant
+    - _Hearing loss_ - CHL may occur in the affected ear
+- **Signs:**
+    - **Inspection on otoscopy:**
+    - Oedema (mild to extensive)
+    - Discharge (offensive if coliform)
+    - Black spores of aspergillus nigra
+    - Pale cream 'wet blotting paper debris' of C. albicans
+    - **Palpation** - mild **tragal tenderness** elicited when lifting the pinna
+- **Mx:**
+    - **Principles of Mx:**
+    - **Aural toilet:**
+    - Gentle suction and dry mopping of the ear cannal w/ a wisp of cotton wool on a fine broach
+    - Ensures topical medications to applied into the skin
+    - **Syringing** - generally not recommended
+    - **Dressing** - insertion of a wick may be required in severe otitis media:
+    - A wick soaked in an astringent (e.g. aluminium acetate 4% or glycerin and 10% ichthammol) +/- steroids and antibiotic ointment to reduce swelling and pain
+    - Daily replacement of the wick until the swelling has subsided
+    - **Topical antimicrobials** - the most effective being an antibacterial, antifungal and corticosteroid preparation:
+    - _Selection_:
+      - Kenacomb drops 2-3 drops tds
+      - Sofradex drops 2-3 drops tds
+      - Locacorten-Vioform drops tds
+    - **Other measures:**
+    - Strong analgesics
+    - Oral ABx only if spreading ellulitis
+    - **General advices:**
+    - _Hygiene_ - keep ears dry, especially thos involved in water sports by water-proofing methods:
+      - Cotton wool coated w/ petrolium jelly
+      - Antiseptic drying agents after swimming and showering
+      - Tailor made ear plugs
+      - Bathing caps
+    - _Avoid contamination_ - avoid poking objects such as hair-pins and cotton buds for cleaning the canal
+    - **Referral** - considered if:
+    - Necrotising otitis externa
+    - Septic manifestations (e.g. fever)

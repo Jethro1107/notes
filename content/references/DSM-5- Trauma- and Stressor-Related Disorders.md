@@ -1,0 +1,108 @@
+---
+id: 138f041e-a7df-49ce-9589-454594d91f00
+title: "DSM-5: Trauma- and Stressor-Related Disorders"
+---
+
+# DSM-5: Trauma- and Stressor-Related Disorders
+
+## Reactive Attachment Disorder
+
+## Disinhibited Social Engagement Disorder
+
+## Posttraumatic Stress Disorder
+
+- **DSM-5 diagnostic criteria of PTSD:**
+	
+	![[Pasted image 20260408212524.png]]
+	
+	![[Pasted image 20260408212542.png]]
+- **Variable clinical presentations of PTSD:**
+	- Predominant fear-based arousal, emotional, and behavioural symptoms
+	- Predominant dissociative symptoms
+	- Combination of various symptoms
+- **Diagnostic features of PTSD** - must follow exposure to a traumatic event and persists for more than 1 mo (Criterion A):
+	- **Intrusive symptoms** - recurrent, involuntary reminders that are associated with the traumatic events:
+		- _Intrusive memories_ (B1) - recurrent, involuntary, and intrusive distressing recollections of the traumatic events, usually including the sensory, emotional, or physiological components
+		- _Intrusive dreams_ (B2) - recurrent, distressing dreams in which the content and/or affect of the dream are related to the traumatic event
+		- _Dissociative states_ (B3) - lasting for **seconds to hours**, where the individual behaves or believes as the traumatic event, existing in a continuum, from brief visual or sensory intrusions or complete loss of reality orientations and awareness to surroundings (**flashbacks**)
+		- _Psychological distress upon triggers_ (B4) - intense psychological distress at exposure to internal or external cues that symbolize or resemble aspect of the traumatic events
+		- _Physiological reactions upon trigger_ (B5) - physiological responses (e.g. anxiety symptoms) to internal or external cues that symbolize or resemble aspect of the traumatic events
+	- **Avoidance** - directly avoiding the thought itself, and the triggers of the thought:
+		- _Deliberate suppression_ (C1) - deliberate efforts to avoid thoughts, memories, feelings, or talking about the traumatic events (e.g. switching topics, distraction techniques to avoid internal reminders)
+		- _Avoidance of triggers_ (C2) - avoiding activities, objects, situations, or people who arouse recollections of it
+	- **Negative alternations in cognition and mood:**
+		- _Dissociative amnesia_ - unable to recall important details of the traumatic experiences and is not due to head injury, alcohol, or drugs
+		- _Exagerated negative beliefs or expectations_ - overgeneralisation abstracted from the traumatic event towards oneself (I have always bad judgement), others (people in authority cannot be trusted), or the world (the world is dangerous)
+		- _Abnormal cognition regarding responsibility_ - attributing the cause of the event leading to blaming themselves or others
+		- _Persistent negative mood state_ - not only include depression, but also fear, horror, anger, guilt, or shame
+		- _Anhedonia_ - markedly deminished interest or participation in previously enjoyed activities
+		- _Inability for positive emotions_ - a persistent inability to feel positive emotions (especially happiness, joy, satisfaction, or emotions associated w/ intimacy, tenderness, and sexuality)
+	- **Marked alterations in arousal and reactivity:**
+		- _Irritable behaviour_ - often quick tempered w/ angry outbursts w/ little or no provocation, usually expressed as verbal or physical aggression towards people or objects
+		- _Recklessness_ - includes unintentionally putting oneself in harm (e.g. excessive alcohol or drug use, dangerous driving), or engage in self-harm or suicidal behaviour
+		- _Hypervigilence_ - heightened sensitivity to potential threats including those related to traumatic experience (e.g. awareness of vehicles if following RTA), but also those unrelated to traumatic events
+		- _Easily startled_ - reactive to unexpected stimulus such as loud noises or unexpected movements, described as jumpiness
+		- _Difficulties with concentration_ - difficulty in remembering daily events or attending focused tasks
+		- _Insomnia_ - primarily difficulties in sleep initiation and maintenance
+## Acute Stress Disorder
+
+## Adjustment Disorders
+
+- **DSM-5 diagnostic criteria of adjustment disorders:** 
+![](../img/dsm_5_dx_criteria_adjustment_disorders.png)
+- **Diagnostic features of adjustment disorders** - by definition the presence of significant emotional or behavioural symptoms in response to an identifiable stressor being the essential feature:
+    - **Emotional or behavioural symptoms in response to an identifiable stressor** (Criteria A):
+        - <u>Temporal nature of stressor</u> - nature is variable but implicated on Mx and prognosis:
+            - Single - e.g. termination of a romantic relationship
+            - Multiple - e.g. marked business difficulties and marital problems
+            - Recurrent - e.g. seasonal business crises, unfulfilling sexual relationships
+            - Continuous - e.g. persistent painful illness, out of money, living in a crime-ridden neighborhood
+        - <u>Stressors may be related to specific developmental events</u>:
+            - Childhood - e.g. going to school, big exams
+            - Young adulthood - leaving a parenal home
+            - Adulthood - getting barried, becoming a parent, failing to attain occupational goals
+            - Late adulthood - re-entering a parental home, retirements
+        - <u>Correlation of Sx with stressors</u>:
+            - Onset occuring within 3mo of the onset of stressors (usu. immediate)
+            - Sx usually abate and do not persist for more than 6 mo once stressor is terminated
+        - <u>Nature of emotional or behavioural response</u> - deemed 1) out of proportion to severity of the stressor under the cultural context (B1), or 2) significant impairment of functioning (B2):
+            - Emotional Sx - depression, anxiety, mixed depression and anxiety, irritability
+            - Behavioural Sx - disturbance of conduct, maladaptive reactions to stress (e.g. alcohol use)
+    - **Functional impairment** (B2) - significant impact on 1) social, 2) occupational, or 3) other important areas of functioning
+    - **Suicide** - a/w an increased risk of suicide attempts and completed suicide
+- **Epidemiology:**
+    - <u>Prevalence</u> - thought to be common:
+        - Actual prevalence varies widely based on population studied and assessment methods used
+        - Most common diagnosis in a hospital psychiatric consultation setting (up to 50%)
+        - Accounts for 5-20% of principal diagnoses in outpatient mental health clinic setting
+- **Development and course:**
+    - <u>Onset</u> - by definition occurs within 3mo of the onset of stressor:
+        - For single, acute events, onset is usually immediate (e.g. within few days of being fired from a job)
+        - Onset may be more indolent for recurrent or multiple subclinical stressors
+    - <u>Progression and termination</u> - depends on whether stressor can be terminated:
+        - For single stressors, duration is usually brief, usually lasting for no more than a few months (by definition \< 6mo)
+        - For stressors that persist or have consequences, the disorder may become persistent and do not remit
+- **Risk and prognostic factors** - primarily environmental:
+    - Disadvantaged life circumstances
+    - Experiencing high rates of stressors
+- **Culture-related diagnostic issues:**
+    - Nature, meaning, and experience of the same stressor may differ across culture, such that emotional and behavioural responses may differ greatly
+    - The response to stressors may differ across culture
+    - Individual assessment to determine whether 1) response is maladaptive, and 2) whether in excess of what would be expected
+- **Functional consequences of adjustment disorders:**
+    - <u>Social</u> - temporary changes in social relationships
+    - <u>Occupational</u> - decreased performance at work
+    - <u>Medical</u> - complication of the course of illness in individuals w/ a general medical condition (e.g. decreased medication compliance; increased length of stay)
+- **Differential diagnosis of adjustment disorder:**
+    - <u>Major depressive disorder/ major depressive episode</u> - a Dx of MDD or MDE should be made if it meets the criteria for MDD
+    - <u>Post-traumatic stress disorder and acute stress disorder</u> - in adjustment disorder, **stressor can be of any severity and type** rather than being limited by criteria A of acute stress disorder and PTSD; **duration**, **temporal factors in relation to exposure to traumatic event**, and **symptom severity** also influence the diagnosis (e.g. adjustment disorder can be diagnosed if full Sx profile of PTSD is present but has not by definition been exposed to a traumatic event)
+    - <u>Personality disorder</u> - based on longitudinal evaluation of vulnerability to situational distress; however adjustment disorder diagnosis can be made if stress-related disturbanace exceeds what may be attributable to maladaptive personality disorder Sx (criteria C)
+    - <u>Psychological factor affecting other medical conditions</u> - to be confused as a medical condition being a stressor for an adjustment disorder
+    - <u>Normative stres reaction</u> - if the degree of emotional and behavioural Sx and functional impairment is deemed appropriate for the level of stressor
+- **Comorbidities** - can accompany many mental disorders and any medical disorders:
+    - <u>Medical disorders</u> - as the major psychological response to the diagnosis of a medical disorder
+    - <u>Mental disorders</u> - co-existence of depressive disorder or bipolar disorder as long as both diagnostic criteria is met
+
+## Other Specified Trauma- and Stressor-Related Disorder
+
+## Unspecified Trauma- and Stressor-Related Disorder

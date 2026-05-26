@@ -1,0 +1,21 @@
+---
+id: 7af89b35-e1c1-40c8-be2f-83da038b6e99
+title: Murtagh Chapter 1 The Nature and Content of General Practice
+---
+# Chapter 1 The Nature and Content of General Practice
+
+- **Definitions of general practice and primary care** - CCCP model (Royal Australian College of General Practictioners):
+    - General practice is defined as a component of the health care system which provides initial (first point of contact), continuing, comprehensive, and preventive primary care for all individuals, families and communities and which integrates the current biomedical, psychological and social understandings of health
+- **Unique features of general practice** - features that separate them from hospital- or specialist-based medical practices:
+    - <u>Primary care</u> - 1st point of contact
+    - <u>Holistic diagnostic methodology</u> - Murtaugh approach in generating differential diagnoses avoids missing certain disorders that warrant medical attention
+    - <u>Continuity</u> - availability of continuing care
+    - <u>Personalised</u> - personalised care offered based on social background
+    - <u>Primary prevention</u> - preventive care and scope for health promotion
+    - <u>Holistic approach</u> - making a whole-person diagnosis and management of the whole person
+- **Holistic approach to management** - establishing a whole-person diagnosis, comprises on:
+    - <u>Disease-centred diagnosis</u> - Pathological condition identified based on traditional medical model of Hx, P/E, and specific Ix, irrespective of patient's feelings
+    - <u>Patient-centred diagnosis</u> - identification of psychosocial hallmarks of the disease that may be relevant to the medical diagnosis (e.g. the patient as a person, emotional reaction, family, relationships, work and leisure, lifestyle, living environment)
+- **Continuing care:**
+    - <u>Doctor-patient relationship</u> - unique in a sense that covers a span of time not restricted to a specific major illness, evolving between separate episodes of illness
+    - <u>Profile building</u> - opportunity for doctor to have holistic understanding of the patient, the family, and its stresses, work, and leisure

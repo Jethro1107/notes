@@ -1,0 +1,20 @@
+---
+id: 88C657BC-8B3B-4E1F-8050-81F3E2025AF7
+roam_parent: 038344b7-fbba-417a-9bc1-3eddd3f4b81d
+title: Ulcerations of the Small Bowel
+---
+
+# Ulcerations of the Small Bowel
+
+- **Definition** - an uncommon condition characterised by loss of mucosa w/ varial submucosal involement in the small bowel
+- **Causes of small intestinal ulcers** - typically seen in the ileum: 
+![](../img/small_bowel_ulcers.png)
+    - <u>Malignancy</u> - lymphoma, rarely carcinoma
+    - <u>Infection</u> - TB enteritis, typhoid, Yersinia enterolitica
+    - <u>Disease of the small bowel</u> - Crohn's disease w/ ileal involvement, Coeliac disease (ulcerative jejuno-ileitis)
+    - <u>Others</u> - **NSAIDs**, radiation enteritis, vasculitis
+- **Clinical manifestations of small intestinal ulcers:**
+    - Obscure GI bleeding
+    - Strictures and obstruction
+    - Perforation
+- **Dx** - enteroscopy

@@ -1,0 +1,74 @@
+---
+id: FE6FFEA5-FB4D-408B-9465-E091F2D681FD
+roam_parent: 6C9166B3-557B-4575-A9F9-7E1BE7E001BD
+title: Spinal Epidural Abscess
+---
+
+# Spinal Epidural Abscess
+
+- **Definition** - abscess formation in the epidural space w/ the propensity of rapidly progressing into spinal cord compression which results in permanent sequelae
+- **Etiology of spinal epidural abscess:**
+  - **Haematogenous spread from infections of other tissues:**
+    - <u>Skin infection</u> - classically a/w furunculosis
+    - <u>Soft tissue infection</u> - dental abscesses, pharyngeal abscesses, chronic sinusitis
+    - <u>Others</u> - infective endocarditis, tuberculosis (Pott's disease)
+  - **Direct extension of local infections:**
+    - <u>Local predisposing conditions</u> - vertebral osteomyelitis, decubitus ulcers
+    - <u>Predisposing procedures resulting in direct inoculation</u> - spinal surgery, lumbar puncture, epidural anaesthesia
+- **Risk factors of spinal epidural abscess:**
+  - <u>Increased risk of transient bacteremia</u> - IVDU, active skin and soft tissue infection
+  - <u>Increased risk of developing an infection</u> - i.e. immunocomprimised states:
+    - HIV
+    - Diabetes mellitus
+    - CKD
+    - Alcoholism
+    - Malignancy
+- **Common microbial agents causing spinal epidural abscess:**
+  - <u>GPC</u> - Staphylococcus aureus (including MRSA), Streptococcus
+  - <u>GNB</u> - aerobes (e.g. enterobacter), anaerobes
+  - <u>Others</u> - fungal or TB
+- **Clinical features of spinal epidural abscess:**
+  - **Fever** - typical but not invariably present, but elevated WCC, ESR/CRP should raise suspicion
+  - **Pain** - midline, aching back or neck pain is invariably present:
+    - <u>Site</u> - back or neck +/- radicular pain (depending on site)
+    - <u>Onset and progression</u> - usually acute or subacute (\< 2 weeks), but may occassionally be present for months or longer
+    - <u>Provacating and relieving factors</u>:
+      - Provoked by movement, coughing, or sneezing
+      - Not relieved by rest (in fact characteristically awakens patients at night)
+    - <u>Quality</u> - non-mechanical, aching quality
+    - <u>Radiation</u> - midline and non-radiating, radiation occurs in concomitant radiculopathy
+  - **Features of spinal cord compression** (myelopathy) - characteristically sensory Sx (e.g. parasthesia) before paralysis, and w/ early onset of 1) saddle parasthesia, 2) spastic paralysis, and 3) sphincteric disturbances:
+    - Irreversible damage ensues once weakness and other myelopathic signs occur
+    - Irreversible damage is partly due to abscess expansion but also venous congestion and thrombosis resulting in ischaemia
+- **Chronic sterile granulomatous abscess:**
+  - Usually after treatment of acute epidural infection
+  - Suspected w/ progression of compression despite initiation of Tx
+- **Ix:**
+  - **Septic workup** - elevated WCC, ESR/CRP, and +ve blood culture in 50% cases (definitive microbiolgoical Dx through aspiration of abscess during surgery)
+  - **MRI:**
+    - <u>Role</u> - localisation of abscess and exclusion of other causes
+    - <u>Characteristic findings</u>:
+      - Diffuse gandalonium enhancement of epidural process in T1-weighted imaging
+      - Hypointensity on T2-weighted imaging
+  - **LP** - only indicated if suspected concomittent meningitis (\< 25%) or signs of encephalopathy:
+    - <u>Risks</u> - iatrogenic meningitis (level of puncture planned to minimise passage of infected tissue into subdural space)
+    - <u>Findings</u>:
+      - WBC - neutrophylic pleocytosis
+      - Protein - elevated
+      - Glucose - reduced
+      - Microbiology - cannot be cultured unless associated meningitis
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Spine intervetions</u> - decompressive laminectomy with aspiration for microbiological diagnosis and debridement
+    - <u>Long-duration broad spectrum ABx</u> - empirical therapy requires coverage of GPC, GNB, and anaerobes
+  - **Role of spine interventions** - main Tx of choice if not C/I unless abscess limited by spine or does not cause neurological impairment:
+    - May prevent development of paralysis and improve or reverse paralysis in evolution
+    - Unlikely to improve fixed deficits for more than several days
+  - **Long duration broad spectrum ABx:**
+    - <u>Duration</u> - up to 6-8 weeks
+    - <u>Empirical ABx</u> - coverage of 1) GPC (Staphylococcus \[incl. MRSA\], streptococcus), 2) GNB, 3) anaerobes:
+      - GPC coverage - vancomycin (15-20 mg/kg q12h)
+      - GNR coverage - ceftriaxone (2g q12h)
+      - Anaerobe coverage - metronidazole (30 mg/kg/d divided dose into q6h)
+    - <u>Modification of ABx regimen</u> - guided by culture results (blood or surgical specimen)
+- **Prognosis** - significant recovery in two-thirds of patients w/ prompt Dx and Tx

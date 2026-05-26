@@ -1,0 +1,78 @@
+---
+id: 4ff0ff83-71c4-4385-8865-f72dd53c96ec
+title: Bell's Palsy
+---
+
+# Bell's Palsy
+
+- **Definition** - Idiopathic facial nerve palsy, accounting for the most common type of spontaneous peripheral facial nerve palsy
+- **Epidemiology** - \> 50% cases of ipsilateral peripheral facial nerve palsy:
+    - <u>Incidence</u> - 12-50/100,000/y
+    - <u>Demographic</u> - no age, sex, and geographical predilection
+- **Pathophysiology of Bell's palsy:**
+    - <u>Herpes virus re-activation</u> - HSV reactivation along the facial nerve is the most commonly accepted theory of acute facial nerve neuropraxia in the setting of Bell's palsy, hence some role of antivirals in mx
+    - <u>Inflammation of the facial nerve</u> - inflammatory and oedematous changes in the perineurium, resulting in entrapment of the facial nerve within the facial canal, esp. the labyrinthine compartment where it is most narrow
+- **Clinical features of Bell's palsy:**
+    - **Ipsilateral facial weakness** - sudden onset (wihtin h) of ipisilateral upper and lower facial weakness or paralysis +/- associations w/ certain minor symptoms of facial nerve palsy:
+        - <u>Site</u> - ipsilateral upper and lower facial weakness (cf ipsilateral lower facial weakness w/ sparing of upper face in acute stroke)
+        - <u>Onset</u> - sudden onset within few hours
+        - <u>Progression</u> - sudden onset, with progression of facial weakness over days, up to 3 weeks, with stabilisation and respolution suddenly (Natural Hx of Bell's Palsy informs the Dx)
+    - **Decreased lacrimation and salivation** - if lesion is proximal to or at the geniculate ganglion
+    - **Hyperacusis** - if lesion is proximal to or at the nerve to stapedius
+    - **Loss of taste** - in the anterior 2/3 of the tongue (if lesion is proximal to or at the chorda tympani)
+- **DDx of acute facial nerve palsy:**
+    - <u>Stroke</u> - most important DDx to r/o, but readily ruled out as cortical strokes present w/ sparing of the upper face (note that pontine strokes may mimic Bell's palsy but is likely to present w/ other cranial neuropathies)
+    - <u>Ramsey hunt syndrome</u> - suggestive of acute ipsilateral facial paralysis if there is otalgia and vesicles in EAM
+    - <u>Lyme disease</u> - more often bilateral than unilateral, in the presence of systemic features (e.g. headaches, arthralgias, fatigue, lymphadenopathy)
+    - <u>Middle ear infections</u> (AOM, CSOM, mastoiditis, cholesteatoma) - diagnosis is made through otoscopy and inspection of the tympanic membrane
+    - <u>Parotid tumours</u> - often a/w a parotid mass, ocassionally if weakness is restricted to 1-2 branches of the facial nerve
+    - <u>Guillain-Barre syndrome</u> - typically bilateral and symmetrical motor weakness with limb involvement (however prominent facial diplegia w/ little to no limb weakness can be an atypical presentation of Guillain-Barre)
+    - <u>Multiple sclerosis</u> - typically cortical demyelinating lesions can result in central pattern of facial nerve palsy, but pontine demyelinating lesions (rare) can mimick Bell's palsy
+    - <u>Other intracranial tumours</u> (CPA, IAM, or middle ear tumours) - additional neurological deficits present
+- **Dx of Bell's palsy** - clinical Dx by exclusion of important causes in patient w/ compatible Hx:
+    - **Dx by exlcusion** - exclude CVA (esp. pontine CVA), parotid tumor, Ramsey Hunt syndrome otitis media
+    - **Features compatible w/ Dx of Bell's Palsy:**
+        - <u>Typical pattern of facial weakness</u> - ipsilateral upper and lower facial weakness +/- other features suggestive of facial nerve palsy
+        - <u>Typical disease course</u> - acute onset, with progressive worsening in the first 3 weeks, with stabilisation and improvement
+    - **Features incompatible w/ Dx of Bell's Palsy** - suggest additional workup:
+        - <u>Atypical pattern of facial weakness</u>:
+            - Ipsilateral lower facial weakness with sparring of the upper face - suggests cortical lesion (watch out for stroke)
+            - Bilateral facial weakness - pontine lesion, bilateral parotid disease, or pathologies not attributed to facial nerve (e.g. MG, myopathies)
+        - <u>Presence of other clinical features</u>:
+            - Other focal neurological Sx - e.g. limb weakness, sensory loss, additional cranial neuropathies
+            - Vesicles or scarring in facial nerve dermatome (Ramsey Hunt syndrome)
+            - Other systemic features - e.g. headache, neck stiffness, fever
+        - <u>Atypical temporal pattern</u>:
+            - Sudden onset at maximal severity - no subsequent worsening of Sx
+            - Insiduous onset (e.g. over weeks or months)
+            - Continuous deterioration beyond 3 weeks
+    - **Additional Ix for alternative causes of facial nerve palsy** - dependent on clinical picture: 
+    ![](~/Documents/notes/img/evaluation_of_bells_palsy.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Supportive care</u> - e.g. eye care and physiotherapy
+        - <u>Medical Tx</u> - e.g. high-dose steroids for all patients, antiviral therapy for selected patients
+        - <u>Surgical decompression</u> - no demonstrable benefits in the Mx of Bell's palsy
+    - **Supportive care:**
+        - <u>General eye care</u> - eye protection and eye drops to prevent corneal injury
+        - <u>Facial nerve physiotherapy</u> - to maintain muscle tone and hasten recovery
+    - **Glucocorticoids** - beneficial if Tx within 3d of Sx onset:
+        - <u>Rationale</u> - reduce swelling of facial nerve to prevent nerve entrapment
+        - <u>Regimen</u> - 5d high dose prednisolone (1mg/kg/d up to 80 mg/d), followed by 5d taper by 10mg/d
+        - <u>S/E</u> - generally well tolerated (note risk of hyperglycaemia in DM patients)
+        - <u>Efficacy</u> - reduced risk of incomplete recovery (RR 0.63, 95% CI 0.5-0.8)
+    - **Antiviral therapy:**
+        - <u>Rationale</u> - pathogenesis may be related to HSV reactivation
+        - <u>Regimen</u> - 5d acyclovir, famiciclovir, or valacyclovir
+        - <u>Indications</u> - reserved for severe facial nerve paralysis (H-B grade IV or above)
+    - **Surgical decompression** - not recommended for Bell's palsy as no demonstrable benefits (even if ENoG shows \> 90% degeneration)
+- **Prognosis** - generally good prognosis:
+    - <u>Time for spontaneous recovery</u> - 70% patients expected to recover spontaneously by 3-6 mo
+    - <u>Rate of complete recovery</u> - 80-85% with glucocorticoid Tx
+    - <u>Prognostic factors of recovery</u>:
+        - Severity of facial paralysis at presentation - rate of complete recovery decreases w/ increasing House-Brackmann grade
+        - Pregnancy - lower rates of complete recovery in pregnant patients as they tend to develop more severe paralysis and are less likely treated with glucocorticoids
+        - Baseline co-morbidities - age \> 40y, DM, uncontrolled HTN
+- **Mx of incomplete or aberrant recovery:**
+    - <u>Mx of synkinesia</u> - targeted botulinum toxin injection may benefit w/ synkinesis, facial spasm or crocodile tears
+    - <u>Mx of incomplete recovery of eye closure</u> - eyelid weights (gold or platinum) for severe lagophtlamos, or tarsorrhaphy

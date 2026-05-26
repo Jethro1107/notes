@@ -1,0 +1,88 @@
+---
+id: 4d6d6011-6440-4670-b3f2-687487a65b9b
+title: Myasthenia Gravis
+---
+
+# Myasthenia Gravis
+
+- **Definition** - autoimmune disease of the NMJ manifesting as acutely evolving, fatigable weakness preferentially affecting occular, facial and bulbar muscles
+- **Epidemiology:**
+  - <u>Incidence</u> - most common cause of acutely evolving fatigable weakness
+  - <u>Demographic</u> - peak incidence in 15-50y, F preponderance in younger patients while M preponderance in older patients
+- **Associated conditions:**
+  - <u>Thymic disorder</u> - thymoma (15%, particularly in late onset MG), thymic follicular hyperplasia
+  - <u>Organ-specific autoimmune disorders</u>:
+    - T1DM
+    - AIH
+    - Autoimmune thyroid disease
+- **Pathophysiology of MG:**
+  - **Triggers for autoimmune processes** - not usually evident:
+    - <u>Drugs</u> - e.g. penicillamine can Ab-mediated myasthenic syndrome that persists after drug removal
+  - **Autoantibodies against acetycholine receptor function** - Ab against AChR (detectable in 80% of patients), while other Ab produces similar clinical pictures (e.g. Anti-MuSK)
+  - **Effects of autoimmunity:**
+    - 1\. Blockage of neuromuscular transmission
+    - 2\. Complement-mediated inflammatory response reduces number of AChR and damages motor end plates
+
+    
+    ![](../img/mg_and_lems_pathophysiology.png)
+- **Clinical features of MG** - relapsing and remitting course as in many autoimmune disorders:
+  - **Fatiguable weakness** - movement is initially strong but rapidly weakens as muscle use continues:
+    - <u>Site</u> - can affect any muscle theoretically but classically preferentially affects **occular, facial and bulbar muscles**:
+      - **EOM** - manifests as intermittent ptosis or diplopia
+      - **Bulbar Sx** - dysphagia and dysarthria reported as weakness in chewing, swallowing and speech
+      - **Limbs** - commonly shoulder girdle and unable to complete tasks above shoulder level (e.g. combing hair)
+      - **Respiratory muscles** - results in type 2 (ventilatory) respiratory failure
+    - <u>Onset and progression</u> - usually acute onset with rapid evolvement
+    - <u>Timing</u> - **fatiguability** demonstrated as weakening towards the end of the day or following exercise
+  - **Absence of sensory Sx** - no numbness or parasthesia confirmed on P/E
+  - **Absence of CNS involvement** - as confirmed on P/E
+- **Signs of MG:**
+  - <u>Examination of EOM</u> - ptosis, and diplopia
+  - <u>Examination of CN VII</u> - facial weakness
+  - <u>Limb examination</u> - weakness on prolonged testing of power, reflex normal/ hyporeflexic
+- **Ix and Dx:**
+  - **Tensilon test** (historical interest) - demonstrate improvement of Sx on IV anti-cholinesterase but lacks objectivity:
+    - <u>Test properties</u> - lacks objectivity (moderate Sn and Sp)
+    - <u>Technique</u>:
+      - Assessment beforehand to allow for objectivity
+      - IV injection of short-acting anti-cholinesterase (Edrophonium bromide)
+      - IV atropine to avoid bradycardia
+      - Detect Sx improvement
+    - <u>Diagnostic findings</u> - improvement in muscle function within 30s and persists for 2-3 min
+  - **Nerve conduction studies with repetitive stimulation:**
+    - <u>Diagnostic findings</u> - characteristic **decremental response**
+  - **Autoantibodies:**
+    - Anti-AChR (present in 80% patients)
+    - Anti-MuSK (common in Anti-AChR -ve patients w/ prominent bulbar Sx)
+    - Thyroid Ab (screening for autoimmune thyroid disease)
+  - **CT thorax** - exclude thymoma especially in Anti-AChR -ve patients
+- **Mx:**
+  - **Principles of Mx:**
+    - **Acute Tx:**
+      - <u>Supportive care</u> - e.g. ventilatory support if T2RF
+      - <u>Rapid suppression of autoimmunity</u> - IVIG or plasma exchange
+    - **Long-term Tx:**
+      - <u>Maximise activity of ACh on remaining AChR</u> - through inhibition of acetylcholinesterase (AChE) by a long-acting anticholinesterase (e.g. pyrigdostigmine)
+      - <u>Limit autoimmune destruction of motor endplates</u> - immunosuppression by corticosteroids, steroid-sparing therapy, or thymectomy
+
+    
+    ![](../img/immunological_tx_of_mg.png)
+  - **Anti-cholinesterase:**
+    - <u>Selection</u> - pyridostigmine, neostigmine
+    - <u>MOA</u> - inhibition of AChE, and maximise activity of ACh on remaining AChR
+    - <u>S/E</u>:
+      - GI disturbance - diarrhoea and colic (controlled by propantheline)
+      - Cholinergic crisis if overdose - muscle fasciculation, paralysis, pallor, sweating, salivation and small pupils
+  - **Immunological Tx:**
+    - **Corticosteroid Tx** - necessary to continue Tx for mo to y before switching to steroid-sparing agent:
+      - <u>S/E</u> - extremely common and needs monitoring (risk adverse effects)
+      - <u>Caution</u> - initiate in hospitals as improvement commonly preceded by marked exacerbation of myasthenic crisis
+    - **Azathioprine** - 2.5 mg/kg/d allows for steroid-sparing in long run
+  - **Thymectomy** - may be considered in the presence or absence of thymoma:
+    - <u>Indications</u>:
+      - Thymoma (esp. if Anti-AChR -ve patients)
+      - Considered in Ab +ve patients \< 45y with Sx not confined to EOM (unless established for \> 7y)
+    - <u>Clinical efficacy</u> - may improve prognosis (awaiting clinical trials), but may not induce remission in older patients
+- **Prognosis:**
+  - Excellent if entirely occular
+  - Rapid progression of disease after 5y of onset uncommon

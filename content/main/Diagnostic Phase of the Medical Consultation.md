@@ -1,0 +1,55 @@
+---
+type: main
+---
+# Diagnostic Phase of the Medical Consultation
+
+- **Aims of the history taking phase:**
+    - <u>Reason</u> - the patient's stated reason for attending, and why now (at this particular time in the illness course)
+    - <u>Detailed Hx</u> - characterise HPI, including relavent associated Sx (+ve and -ve), relevant PMH, FHx, SHx, systems review
+    - <u>Subtext</u> - Ideas, concerns and expectations, which are often initially unspoken and may be hidden reasons for attending (e.g. fear of cancer)
+- **Good open-ended analytical questions** - helps determine whether there is any underlying agenda or significant psychosocial problems (apply as necessary):
+    - **Ideas:**
+        - Why have you come to see me today?
+        - Do you have any ideas as to what caused your illness?
+        - What do you really think deep down is the cause of your problems?
+    - **Concerns:**
+        - Do you have any particular concerns about your health?
+        - What is it that's really upsetting or bothering you?
+        - Where would you put your real feelings between 0 and 100%?
+        - Are you afraid that something bad is going to happen to you?
+    - **Assessment of significant psychosocial problems:**
+        - Tell me about things at home.
+        - Tell me about work.
+        - Is your relationship with any particular loved one/ person causing you stress?
+        - Do you experience any bullying?
+        - Are you basically satisfied with your life?
+        - Is there anything in your life that you would like to change?
+    - **Concerns with not opening up:**
+        - Is there anything that I haven't asked you and that you should tell me about?
+        - I'm concerned about what you are not telling me.
+- **Basic interviewing techniques** - principally use the least controlling interview techniques before embarking on direct questioning:
+    - **Questions** - different types of questions applied at different times:
+        - <u>Open-ended question</u> (patient control to outline problems and concerns) - e.g. tell me about the pain
+        - <u>Close-ended question</u> (doctor control often important to Dx and Mx) - e.g. do you experience shortness of breath
+        - <u>Leading question</u> (framed in a manner where the expected answer is suggested) - there is no pain right?
+        - <u>Reflective question</u> (best applied to ICE)
+    - **Listening and silence** - means of encouraging communication only if you appear to be attentive
+    - **Facilitation** - Encourages communication by using manners, gestures or words tahat is being sought
+    - **Confrontation** - direct description where interviewer desciribes to the patient something striking about his or her non-verbal behaviour (empathy)
+    - **Support and re-assurance** - supportive staetements to restore patient's sense of well-being, worthiness or confidence
+    - **Summarising** - ensure accuracy of problem lst and concerns
+- **Problem definition** - requires orderly approach:
+    - <u>Prioritisation</u> - all problems is to be listed in a priority order based on patient's concern, distressing, threat to life etc.
+    - <u>Nature of problems</u> - biological, psychological, social
+- **P/E** - relavent general and systems examination based on presentation:
+    - <u>Reason</u> - explain nature and purpose of P/E (esp. rectal, pelvic, breast, genitalia)
+    - <u>Warning</u> - warn about uncomfortable and ask the patient to advise if you are causing pain
+    - <u>Privacy and dignity</u> - modesty preserved but should not affect proper exposure (and do not lock the doors to enable patient confidence to leave if uncomfortable)
+- **Ix** - dependent on clinical presentation and is rather selective in GP:
+    - <u>Questions before ordering Ix</u>:
+        - Is this investigation necessary - the why, the expected result, the effect on diagnosis
+        - Will it change my management - does this ultimately benefit the patient
+    - <u>General criterias for order Ix</u>:
+        - Consequence of results of the Ix could not be obtained by cheaper less intrusive method
+        - Risk of the investigation should relate to the value of the information likely to be gained
+        - The result will directly assist diagnosis or have an effect on subsequent benefit

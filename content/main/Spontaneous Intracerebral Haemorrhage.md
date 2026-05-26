@@ -1,0 +1,59 @@
+---
+id: 7c375bf2-9a71-4e3e-9061-65c95f333cfd
+title: Spontaneous Intracerebral Haemorrhage
+---
+
+# Spontaneous Intracerebral Haemorrhage
+
+- **Definition** - also known as haemorrhage stroke, involves spontaneous haemorrhage into the brain perenchyma
+- **Epidemiology** - accounts for ~ 10% of all strokes:
+    - <u>Demographic</u> - increased risk and incidence w/ age (degenerative disease), but occurs in younger patients w/ certain risk factors (e.g. vascular malformations, drug abuse)
+    - <u>Mortality</u> - poorer prognosis than ischaemic stroke (i.e. accounts for greater morbidity and mortality than ischaemic stroke despite lower incidence)
+    - Chronic systemic HTN - causes degenerative changes in cerebral vasculature
+- **Risk factors of spotaneous ICH:**
+    - <u>Medical disease</u> - **chronic systemic HTN** (hypertensive vasculopathy), coagulopathy/ **bleeding tendancy**, **cerebral amyloid angiopathy**
+    - <u>Vascular malformations</u> - e.g. cerebral aneursysms, Arteriovenous malformations (AVMs), vavernous malformations (CMs)
+    - <u>Other cerebrovascular diseases</u> - Haemorrhagic transformation of infarction, cerebral venous thrombosis
+    - <u>Tumours</u> - primary brain tumour or metastatic tumour
+    - <u>Drug abuse</u> - e.g. concaine, sympathomimetic abuse
+    - <u>Others</u> - Arterial dissection, cerebral vasculitis, moyamoya disease
+- **Pathophysiology of spontaneous ICH:**
+    - **Charcot-Bouchard aneurysms** - Small pseudoaneurysms, commonly in small perforator vessels (e.g. lenticostriate vessels), due to degenerative changes secondary of chronic systemic HTN
+    - **Haemorrhage in spontaneous ICH** - spontaneous rupture of small degenerative aneurysms resulting in intracerebral haematoma formation
+    - **Mechanism of brain injury:**
+        - <u>Primary brain injury</u> - loss of function of brain parenchyma due to haematoma expansion and perilesional oedema, raising ICH, resulting in cerebral ischaemia and in extremes, herniation
+        - <u>Seconadry brain injury</u> - breakdown of BBB after initial haemorrhage after inflammatory process
+- **Clinical presentation of spontaneous ICH** - acute onset of neurological S/S, headache, and loss of consciousness:
+    - **Focal neurological S/S** - sudden onset of neurological S/S which may be progressive over minutes to hours, corresponding to area of brain affected
+    - **Headache** (more common than in ischaemic stroke) - due to effects of raised ICP (large haematoma) +/- meningeal irritation (esp. with intraventricular haemorrhage)
+    - **Deterioration of consciousness** - late feature due to brainstem or cortical failure, but the <u>presence of headache and LOC simultaneously points to a Dx of CVA until proven otherwise</u>
+- **Ix and Dx evaluation** - Dx made in A&E setting by urgent brain CT:
+    - **Non-contrast CT brain:**
+        - <u>Findings suggestive of spontaneous ICH</u>:
+            - **Haematoma formation** - <u>hyperdense lesion</u> (ocassionally isodense) relative to brain parenchyma that is classically found in the putamen, thalamus, cerebellum or pons
+            - **Other suggestive features** - mid-line shift, hydrocephalus
+    - +/- **Contrast MRI** - provides information regarding age of haemorrhage and alternative causes (e.g. AVM or aneurysms)
+- **Mx** - most cases of spontaneous ICH do not require surgical intervention:
+    - **Principles of Mx:**
+        - <u>Routine neurosurgical monitoring</u> - patients who obey commands can be routinely monitored by changes in neurological examination for 5-7d (when peak swelling and decompensation is most likely)
+        - <u>Conservative Mx</u> - **resuscitation** (ABC) necessary before initiation of other conservation Mx:
+        - <u>Neurosurgical evaculation</u> - patient selection based on:
+            - 1\) ICH factors - size and location predicts functional outcomes
+            - 2\) Patient factors - age of patient affects tolerance because of different brain compliance (i.e. younger patients have lower tolerance to mass effect due to smaller ventricles and subarachnoid space)
+            - 3\) Clinical factors - responsiveness to conservative Tx (i.e. any clinical deterioration)
+    - **Conservative Tx:**
+        - **Reverse bleeding tendancy** - discontinue anticoagulant and antiplatelet drugs and give reversal agents
+        - **Trenaxemic acid** - evidence is controversial, but consensus is that it may help
+        - **Blood presure Mx** - essential to avoid re-haemorrhage, but avoid over-management and causing cerebral hypoperfusion
+        - **ICP management and maintenance of CBF**
+        - **Steroids** - no role of steroids in spontaneous ICH (cf other causes of raised ICP)
+    - **Neurosurgical intervention** - Surgical Trial in Intracerebral Haemorrhage noted <u>lack of difference in clinical outcome</u> comparing conservative Mx andearly surgery:
+        - **Principles of neurosurgical intervention** - craniotomy for decompression rather than complete removal
+        - **Indications** - intermediate-sized haemorrhage in accessible location who initially tolerate the haematoma but deteriorate in delayed fashion (due to oedema) despite medical therapy (except for cerebellar haemorrhage)
+        - **Considerations for clot evacuation** - functional prognosis, depending on site and extent (size) of haemorrhage:
+            - **Deep intracerebral haemorrhages** (e.g. Putamen haemorrhage) - poor functional outcome due to primary injury → often managed conservatively unless young
+            - **Lobar haemorrhages** - good functional outcomes as deep nuclei and brainstem are compressed but not primarily injured → clot evacuation may be life-saving
+            - **Cerebellar haemorrhage** - good functional outcome if timely surgery as S/S are related to meningism and not brainstem failure (however rapidly fatal)
+        - **Early surgical intervention for cerebellar haemorrhage** - subocipital craniotomy for clot evaculation:
+            - Good functional outcome even with extensive cerebellar damage
+            - Sudden deterioration due to high risk of brainstem compression

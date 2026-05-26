@@ -1,0 +1,64 @@
+---
+id: ac2ee318-f300-4d51-a293-aec2ed568dcc
+title: Comprehensive Geriatric Assessment
+---
+
+# Comprehensive Geriatric Assessment
+
+- **Definition** - CGA is a multidmensional, interdisciplinary diagnostic process intended to determine a frail eldery person's medical, psychosocial, and functional capacities and problems with the objective of developing an overall plan for treatment and long-term follow-up (Rubenstein)
+- **Evidence for CGA:**
+    - **Rubenstein et al 1984** - landmark RCT demonstrating efficacy of CGA:
+        - RCT for randomly assigning frail elderly inpatients to geriatric evaluation unit and control group
+        - Those in geriatric unit demonstrated:
+            - Lower 1y mortality (23.8% vs 48.3%, P \< 0.005)
+            - Less likely been discharge to a nursing home (12.7% vs 30.0%, P \< 0.05)
+            - Less time spent in a nursing home (26.9% vs 46.7%, P \< 0.05)
+            - Improved functional status and morale (P \< 0.05)
+    - **Ellis et al 2011** - Systemic Review and Meta-analysis for CGA: 
+    ![](~/Documents/notes/img/ellis_2011_meta_analysis_on_cga_demonstrating_greater_odds_for_living_at_home.png)
+- **Purpose of CGA:**
+    - For diagnostic work-up to develop plan of therapy
+    - For monitoring of progress
+    - For screening or early detection of potential disability
+    - For determine the level or setting of long-term care required by a patient
+    - For education and research
+- **Characteristic of CGA:**
+    - Multidisciplinary approach
+    - Utilization of one or more sets of measuring instruments
+    - Use of interdisciplinary teams to poop expertise
+    - Attempt to couple measurements with interventional programs, such as rehabilitation, counselling or placement
+    - Flexibility is the rule to gear towards the need of a particular setting, purpose and society
+- **Domains of CGA:**
+    - Physical health
+    - Mental function - cognitive and psychiatric symptoms
+    - Functional-ADL and instrumental ADL
+    - Social resources
+    - Environmental resources
+    - Economic resources
+- **Division of labour in MDT during CGA:**
+    - <u>Physiotherapist</u> - assess motor function, mobility and balance
+    - <u>Occupational therapist</u> - cognitive assessment (AMT, MoCA), functional assessment (basic ADL, instrumental ADL, Advanced ADL), home environment and care needs
+    - <u>Medical social worker</u> - geriatric depression scale, home circumstances, address care needs and discharge planning, including organisation of institutional care
+    - <u>Dietitian</u> - nutrition
+    - <u>Speech therapist</u> - communication and swallowing
+- **Common geriatric assessment instruments** - used for 1) functional assessment, 2) cognitive assessment, 3) motor assessment, and 4) deprsesion assessment:
+    - **Functional assessment** - determines capacity to cope with basic, instrumental and advanced activities of daily living (ADL):
+        - <u>Barthel Idex</u> (Mahoney and Barthel 1965) - scoring system to assess patient's independence in performing ADL in different areas, with a simplified Barthel 20, and a more comprehensive Barthel 100
+        - <u>Katz Index of ADL</u> (Katz and Akpom 1976) - simple assessment of indepence in performing ADL in 6 areas
+        - <u>Five-item IADL Questionaire</u> (Fillembaum et al 1985) - 5 item assessment of instrumental ADL
+        - <u>Advanced ADL</u> (Reuben and Solomon) - additional assessment of recreational, occupational, and community service function
+        - <u>Functional Independence Measure</u> - complex scoring system (max: 126) in assessing level of independence in 6 functional categories
+    - **Cognitive assessment** - assessment of cognitive function to identify mild cognitive impairments and dementia:
+        - <u>Abbreviated mental test</u> (AMT) - first line screening tool in assessment of cognitive function
+        - <u>Montreal Cognitive Assessment</u> (MoCA) - comprehensive, validated one-page 30 point test for assessing different cognitive domains
+        - <u>Clock drawing test</u> - ancillary test by asking patient to draw a clock on a piece of paper
+        - <u>Mini Mental State Examination</u> (MMSE) - 30-point questionaire with 11 questions to screen for cognitive impairment and dementia
+    - **Motor assessment** - assessment of mobility, balance, and motor functions:
+        - <u>Berg Balance Scale</u> (BBS) - specific items to determine balance
+        - <u>Time up and go test</u> (TUGT) - assessment of balance, gait, and mobility
+        - <u>Elderly Mobility scale</u> (EMS) - 20-point scoring tool for assessment of mobility in geriatric patients
+    - **Depression scale** - screening for depression:
+        - Geriatric depression scale
+        - Hamilton Rating Scale for Depression
+        - Selfcare (D)
+        - Zung Self-rating Depression Scale

@@ -1,0 +1,35 @@
+---
+id: 7a480465-5b30-4e5b-8e90-97284bf20f51
+title: Hypernatraemia
+---
+
+# Hypernatraemia
+
+- **Definition** - plasma Na above the ULN (\> 145 mmol/L) that reflects a <u>relative deficiency of water relative to total body Na</u> (more precisely Na in ECF), not Na retention
+- **Clinical features of Hypernatraemia:**
+  - <u>Polydipsia</u> - in the presence of an intact thirst mechanism, and preserved capacitity to obtain and ingest water, one may compensate for the relative water deficiency, and **hyperNa may not progress too far**
+  - <u>Profound disturbances in cerebral function</u> - if water intake inadequate to compensate to the failure of concentration of urine, rsulting in neuronal dehydration and brain shrinkage:
+    - Dizziness
+    - Confusion
+    - Weakness
+    - Coma and death
+- **Etiology of hypernatraemia** - grouped by hydration status: 
+![](../img/ddx_of_hypernatraemia.png)
+  - **Hypovolaemic hypernatraemia** - failure of concentration of urine as a result of <u>failed medullar concentration in loop of Henle</u> as a result of Na and water depletion (low GFR, diuretics), often further exacerbated by **inadequate water intake**:
+    - <u>Renal Na loss</u> - diuretic therapy (esp. loop/ osmotic diuretics during water restriction)
+    - <u>Renal water loss</u> - glycosuria (e.g. during DKA/ HHS)
+    - <u>GI Na and water loss</u> - colonic diarrhoea
+    - <u>Skin Na and water loss</u> - e.g. excessive sweating
+  - **Euvolaemic hypernatraemia** - state of inability to concentrate urine due to failure of ADH axis (<u>diabetes insipidus</u>)
+  - **Hypervolaemic hypernatraemia** - Na retention that is usually salt loading w/ less water retention:
+    - <u>Ingestion of hypertonic solution</u> - e.g. inappropriate use of hypertonic saline, ingestion of sea water, IV or oral salt administration
+    - <u>CKD</u> - caused by inability to compensate for the increased osmotic load resulting in free water loss
+- **Mx:**
+  - **Principles of Mx** - dependent on 1) rate of development and 2) underlying cause:
+    - <u>Rate of development</u> - rapid development can be Tx w/ infusion of IV fluids, while slower development must be Tx w/ extreme caution to avoid hypoNa
+    - <u>Tx of underlying cause</u> - e.g. Tx of DI
+  - **Hypotonic fluid replacement** - at initial rate of 50-70 ml/h:
+    - <u>Indications</u> - if evident neuronal shrinkage or if condition has developed rapidly
+    - <u>Type of fluid administered</u>:
+      - Isotonic D5
+      - hypotonic saline (0.45% NaCl)

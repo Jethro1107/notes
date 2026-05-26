@@ -1,0 +1,400 @@
+---
+id: e1e95b7c-83ac-467e-8f95-c7733421ee11
+title: 2025-08-30
+---
+
+# Gc161: Alcohol and the Brain From Psychiatric to Neuropsychiatric Perspectives <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Overview:**
+    - Alcohol-related addictive problems
+    - Alcohol-related medical conditions and brain changes
+    - Alcohol-related psychiatric disorders
+    - Relationships between alcohol and psychiatric disorders
+    - 6 causes of confusion in alcoholism
+
+## Alcohol-related Addictive Problems
+
+- Essentially addictive disorders in DSM-V definitions are similar, reflecting a prolonged problematic pattern with functional impairment:
+    - Problem with tolerance - increasing usage to scratch the itch
+    - Unsuccessful efforts to cut down
+    - Great deal of time
+    - Craving
+    - Failure to fulfill major role of obligations in work, school or home
+    - Exacerbating interpersonal problems
+    - Given up activities for the addiction
+- **DSM5 definition of Alcohol use disorders** (see slide) - consists of a problematic pattern (2 features) resulting in functional limitation and physical manifestations (pathology like falls and subdural, GI bleed, tolerance, withdrawal)
+- **Pathogenesis of addictive pattern:**
+    - Increased Sn of GABA receptors - increased inhibitory action
+    - Inhibition of NMDA receptors - reduced excitatory action of glutamatergic neutrotransmission
+    - Indirect alter the release of other neutransmitters (serotonin, dopamine, norepinephrine) - hence can result in mood disorders
+- **Alcohol intoxification** - DSM V criteria (see slides)
+- **Impairment at different alcohol concentrations** - Breathalyzer 0,1 mg/L = blood level 21 mg/dL
+    - 20-30 mg/dL - slowed motor performance and decreased thinking ability
+    - 30-80 mg/dL - increases in motor and cognitive problems
+    - 80-200 mg/dL - increases in incoordination, judgment errors, mood lability, deterioration in cognition
+    - 200-300 mg/dL - nystagmus, marked slurring or speech, and alcoholic blackouts
+    - \> 300 mg/dL - impaired vital signs and possible death
+- **Alcoholic blackout** - not defined in DSM V:
+    - Transient amnesia
+    - Last hours
+    - Memory impairment
+    - No impairment of conscious level
+    - Caused by inhibition of NMDA receptors in hippocampus (failure of <u>long term potentiation</u> if chronic)
+- **Alcohol withdrawal syndrome** - occurs 6-24h after last drink, but disappears in 2-7d:
+    - Sx:
+        - Autonomic hyperactivity - swewating, N/V, tachycardia, agitation, HTN, hyperthermia
+        - Neurological - hyperreflexia, insomnia, nightmares, seizure
+    - Pathophysiology:
+        - Down regulation of GABA receptor in chronic alcoholics
+        - Reversal of inhibition of NMDA receptors
+
+## Alcohol-related medical conditions and brain changes
+
+- **Delirium tremens** - severe form of alcohol withdrawal w/ severe neurological manifestations (see slides)
+- **Wernicke's encephalopathy** - syndrome seen in chronic alcoholics related to thiamine deficiency:
+    - Sx:
+        - Memory impairment
+        - Hallucination (LTP related)
+        - Incoordination and nystagmus
+        - Peripheral neuropathy
+    - Mx - IM/ IV thiamine replacement
+    - Prognosis (20% mortality) - known for progression to korsakaoff's psychosis (84%)
+- **Korsakoff's syndrome:**
+    - Severe irreversible loss of short term memory and inability to learn and later recall new information
+    - Cofabulation (cf dementia with difficulty in word finding, korsakoff's syndrome is associated with increased articulation albeit often using wrong words)
+    - But no clouding of cousciousness, and general impairment of other cognitive functions(cf dementia)
+- Note that Wernicke-Korsakoff syndrome is not caused by alcohol but by thiamine deficiency:
+    - Hyperemesis gravidum
+    - Systemic malignancy
+    - GI surgery
+    - HD/ PD
+    - Prolonged IV feeding, refeeding after prolonged fasting or starvation
+    - Anorexia nervosa/ dieting/ starvation
+    - Gastric plication
+    - AIDS
+
+## Alcohol-related psychiatric comorbidities
+
+- **Amnesic syndromes** - read slides:
+    - Korsakoff's psychosis - psychosis caused by neuronal loss in temporal lesion but usually not thiamine related
+- **Hepatic encephalopathy**
+- Foetal alcohol syndrome (forget about it)
+- Cerebellar degeneration
+- Marchiafava bignami disease - frontal lobe disorder resulting in motor dysfunction and disinhibition/ personality changes
+- Central pontine myelonolysis
+- Suicide
+- Alcoholic hallucinosis
+- Schizophrenia-like psychosis
+- Mood and anxiety disorders
+- Antisocial personality disorder
+
+# GC Cancer Block Week 6: Breast Cancer <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+## Epidemiology of Breast Cancer
+
+## Imaging in Breast Cancer
+
+## Breast Cancer Pathology
+
+- Pathological diagnosis as part of triple Dx, where core Bx is an important pre-operative tool
+- Specify clinical context where core Bx is taken:
+    - Symptomatic palpable mass
+    - Screen detected lesion
+    - Presence of microcalcification
+    - Clinical and radiological assessment for correlation
+    - Importance of sampling
+- Essential information in request:
+    - Operative procedure
+    - Specimen laterality and tumour site
+    - Prior neo-adjuvant Tx
+    - Non-palpable tumor
+- Essential information contained in the report:
+    - Tumor site and focality (unifocal vs multifocal)
+    - Tumour dimensions - e.g. micro- vs macroinvasion
+    - Histological type:
+        - Invasive breast cancer, NST (what we used to call invasive ductal carcinoma)
+        - Invasive lobular carcinoma
+        - Invasive lobular, pleomorphic carcinoma
+        - Histological tumour types of excellent prognosis:
+            - Tubular carcinomas
+            - Cribiform carcinomas
+            - Mucinous carcinomas
+        - Histological tumour types of poor prognosis:
+            - Invasive micropapillary carcinoma
+            - Carcinoma with apocrine differentiation
+            - Metaplastic carcinoma
+    - Histological tumour grade - assessed on tubule formation, nuclear grade, mitotic rate (each scored out of 3):
+        - Grade 1 - score 3-5
+        - Grade 2 - score 6-7
+        - Grade 3 - score 8-9
+    - Presence or absence of carcinoma in situ:
+        - Types:
+            - DCIS
+            - Paget's disease of nipple
+            - Encapsulated papillary carcinoma
+            - Solid papillary carcinoma in situ
+            - LCIS
+        - DCIS nuclear grade - low, intermediate or high
+        - Classification of LCIS - classical vs pleomorphic
+    - Margin status - for wide local excision
+    - Tumour extension and lymphovascular invasion
+    - LN status:
+        - Number of LN examined
+        - Number of LN w/ metastatic carcinoma (including macrometastasis \> 2mm vs micrometastasis (0.2-2mm))
+    - Stage
+    - Predictive markers - ER, PR, Ki67 proliferative index, HER2 expression
+
+## Clinical Presentation and Diagnosis of Breast Cancer
+
+## The Role of Surgery in Breast Cancer Management
+
+## Introduction of Radiotherapy for Breast Cancer
+
+- **4 different intentions:**
+    - Radical - curative intent and as (at least part of) primary therapy (w/ systemic Tx)
+    - Neoadjuvant - prior to urative surgery
+    - Adjuvant - local control
+    - Palliative - to help w/ Sx control
+- **Indications of RT in breast cancer** - mainly applied in the adjuvant and palliative setting:
+    - **Adjuvant setting:**
+        - <u>As part of BCT</u> - either for DCIS or invasive breast carcinoma viable for BCT (?remember studies uses 4cm but other patient and tumour factors):
+            - DCIS - adjuvant WBI 50Gy/25# vs no RT in DCIS \< 5cm a/w lower risk of local recurrence for either pure DCIS or invasive carcinoma, but no significant difference in survival, especially in high risk setting (Donker etl al 2013):
+                - Young age (\< 40y)
+                - Palpable DCIS
+                - Solid or cribriform growth patterns
+                - Margins not clear
+            - Invasive breast carcinoma - BCT (BCS + RT) vs BCS alone a/w reduced local recurrence and increases OS, <u>benefits present irrespective of N stage</u> (EBCTCG 2011)
+        - <u>Post-mastectomy</u> - indicated in pN+ disease, where reduced local recurrence and increased OS in those w/ adjuvant RT after mastectomy vs mastectomy alone, benefit not seen in pN0 (EBCTCG 2014)
+    - **Palliative setting:**
+        - Local control
+        - Symptoms (bleeding, pain, or ulcerations)
+- **Common techniques:**
+    - Dose fractionated - 40.05 Gy in 15#, 26Gy in 5# (FAST FORWARD TRIAL demonstrates this 26Gy)
+    - Immobilisation by breast board and keep arms in supine position to prevent blocking therapy
+    - Modalities:
+        - 3D CRT
+        - IMRT
+        - VMAT
+    - Sparing normal tissues - e.g. heart, lung especially for left-sided breast irradiation:
+        - Deep inspiration breath hold
+        - Respiratory gating
+        - Prone position
+        - Partial breast irradiation
+        - Proton therapy
+- **Common S/E:**
+    - **Short-term:**
+        - Fatigue
+        - Local hair loss, skin soreness, itching, blistering, colour change, dryness
+        - Breast swelling, chain in breast texture
+        - Sore throat
+        - Pneumonitis
+    - **Long-term:**
+        - Shoulder stiffness
+        - Skin colour change
+        - Breast/ chest discomfort
+        - Change in breast appearance
+        - Worsening cosmetic outcome after reconstructive surgery
+        - Lympoedema
+        - Telangiectasia
+        - Rib fracture
+        - Lung fibrosis
+        - Increased risk of cardiac disease
+        - Brachial plexopathy
+        - Secondary malignancy risk
+
+## Systemic Treatment in Hormone Positive, HER2 Negative Breast Cancer
+
+- Context of systemic treatment in breast cancer - may be given in:
+    - Adjuvant setting in early breast cancer for prevention of disease recurrence
+    - In metastatic setting for palliative treatment in advanced breast cancer for disease control w/ relief of symptoms
+- HR+ HER2 -ve breast cancer also known as **luminal breast cancer**
+- HR+ breast cancer - 65-75% are HR+ breast cancer:
+    - ER +ve and/or PR +ve
+    - By pathological definition - \>= 1% tumour cell stain intensely on IHC for ER and or PR, hence expressed in terms of %:
+        - Conventionally ER 1-10% are considered as low ER +ve disease
+    - Allred score system - combines % of positive cells and intensity of reaction to give total score of 8:
+        - HR -ve breast cancer - by definition Allred 0-2
+        - HR +ve breast cancer - by definition Allred 3-8
+
+### Systemic therapy for HR+, HER2- Early Breast Cancer
+
+- **Setting** - currently adopted in the adjuvant setting after primary surgery:
+    - May be considered in the neoadjuvant setting if high predictive good response
+- **Options for systemic therapy for HR+, HER2- EBC:**
+    - <u>Endocrine therapy</u> - tamoxifen, aromatase inhibitor (+/- OFS)
+    - <u>Chemotherapy</u> - anthracycline-based vs taxane-based chemotherapy
+    - <u>Biologics</u> - CDK4/6 inhibitors 
+    ![](~/Documents/notes/img/adjuvant_endocrine_therapy.png)
+- **Approach to systemic therapy for HR+, HER2- EBC** - dependent on 1) prognosis of disease, and 2) predictive factors for Tx response:
+    - **Factors to consider when determining endocrine therapy** - menopausal status
+    - **Factors to consider when determining adjuvant chemotherapy:**
+        - <u>Traditional prognostic factors</u> - e.g. pathological stage (e.g. N and T stage) determines need for adjuvant chemotherapy
+        - <u>Novel recurrence by molecular subtyping</u> - e.g. 21 oncotype Dx assay (Recurrence score), PAM 50 Prosigna Assay (Risk of recurrence score)
+        - <u>Predictive markers for Tx response</u> - e.g. HR positivity
+- **Adjuvant chemotherapy** - in the setting of upfront surgery:
+    - <u>Indications</u> - may be spared for tumour \< 0.5 mm and pN0:
+        - High RS or unknown recurrence score (different thresholds for menopausal status)
+        - Node +ve disease (esp. pN2/pN3)
+
+    ![](~/Documents/notes/img/indications_for_adjuvant_chemotherapy_for_her2_neg_hr_pos_ebc_in_preM.png) 
+    ![](~/Documents/notes/img/indications_for_adjuvant_chemotherapy_in_hr_pos_her2_neg_ebc.png)
+    - <u>Rigemens</u>:
+        - **N- disease:**
+            - Anthracycline-based therapy - Adriamycin-cyclophosphamide (AC) x 4, Epirubicin-cyclophosphamide (EC) x 4
+            - Taxane-based therapy - Docetaxel-Cyclophosphamide (TT-C) x 4
+        - **N+ disease** - anthracycline-based therapy followed by taxane-based therapy (i.e. AC x 4 followed by TT-C x 4)
+    - <u>S/E</u>:
+        - **General S/E of chemotherapy** - marrow suppression, alopecia
+        - **S/E of adriamycin** - cardiotoxicity, N/V
+        - **S/E of docetaxel** - acute hypersensitivity, peripheral neuropathy, hepatotoxicity
+- **Endocrine therapy** - for all EBC:
+    - **Approach to adjuvant chemotherapy** - 5y minimal, but joint decision w/ patient to consider extended therapy:
+    - **Tamoxifen** - SERM:
+        - <u>Indications</u> - for both pre- and post-menopausal women
+        - <u>Duration</u> - 5y of tamoxifen or extended therapy (10y) for selected patients
+        - <u>Evidence</u>:
+            - ATLAS trial demonstrated significant reduction in recurrence and death from breast cancer with 10y versus 5y of tamoxifen
+        - <u>S/E</u> - most important S/E include:
+            - Increased risk of **endometrial carcinoma**
+            - Increased risk of DVT and P/E
+    - **Aromatase inhibitor** (AI):
+        - <u>Selection</u> - letrazole, anastrozole, exemestane
+        - <u>S/E</u>:
+            - Musculoskeletal symptoms
+            - Osteoporosis and bone fractures
+- **Targeted therapy** - CDK4/6i:
+    - <u>Abemacilib</u> (MONARCHE study) - indicated for \> 4 +ve LN on LN dissection, or high proliferative index
+    - <u>Ribociclib</u> (NATALEE study) - indicated for stage IIA, IIB and III disease
+
+### Systemic therapy for HR+, HER2- MBC
+
+- **Metastatic disease** - can be recurrent or de novo:
+    - Solitary metastasis - e.g. bone only
+    - Oligometastatic - low volume disease, just a few metastatic lesions, with bone and node
+    - Dissemniated disease
+- **Principles of Mx of HR+, HER2- MBC:**
+    - **Tx dependent on presence of visceral crisis** - presence of comprimised organ function reflected on biochemistries:
+        - <u>Absence of visceral crisis</u> - upfront endocrine therapy w/ CDK4/6i
+        - <u>Presence of visceral crisis</u> - upfront systemic chemotherapy +/- antibody drug conjugate (TDXd) or Ribociclib plus + endocrine therapy (Right choice study)
+    - **Tx dependent on molecular status:**
+        - <u>HER2 low disease</u> - viable for T-DXd in FISH -ve but IHC HER2 1-2+
+        - <u>Drugable mutations</u> - e.g. PIK3CA mutation, ESR mutation, gBRCA mutation
+
+  
+  ![](~/Documents/notes/img/tx_approach_for_hr_positive_her2_negative_abc.png)
+- **Endocrine therapy** - mainstay in the absence of visceral crisis:
+    - <u>Pre-menopausal women</u> - TMX w/ CDK4/6i (OFS w/ AI acceptable alternative)
+    - <u>Post-menopausal women</u> - AI w/ CDK4/6i
+- **Systemic chemotherapy** - in the presence of visceral crisis:
+    - <u>Regimen</u>:
+        - Oral - capcitabine, vinorelbine
+        - IV - anthracyclines if not exposed, taxanes, gemcitabine, carboplatin etc.
+- **Tx strategy for MBC** - based on presence of vsceral crisis:
+    - Absence of visceral crisis - upfront endocrine therapy w/ CDK4/6 inhibitors:
+        - Pre-M - upfront TMX w/ CDK4/6i or OFS w/ AI
+        - Post-M - upfront AI w/ CDK4/6i
+
+    
+    ![](~/Documents/notes/img/principles_of_mx_of_hr_positive_abc_in_absence_of_visceral_crisis.png)
+    - Presence of visceral crisis - upfront systemic chemotherapy or sometimes CDK4/6 inhibitors alone (Right Choice study):
+        - Capecitabine vinorelbine
+        - IV chemotherapy - anthracycline if not exposed, taxanes, gemcitabine, carboplatin, eribulin
+        - Consider TDxD for HER2 low disease
+- Visceral crisis:
+    - Presence of compomise of organ function especially with reflection from blood biochemistry:
+
+## Systemic Treatment in HER2 Positive Breast Cancer
+
+- **HER2 positivity in breast cancer** - irrespective of whether HR +ve or HR -ve:
+    - <u>Prognosis</u> - poorer than HER2 -ve (see Ross, Fletcher JA 1998):
+        - Those w/ HER2 amplified have poorer survival than those w/o HER2 amplified ? irrespective of stage
+    - <u>Detected by IHC</u> - subsetted into HER2 3+, 2+, 1+
+    - <u>Detected by ISH</u> - applied to HER2 2+ to identify FISH+ or FISH-
+    - HER2 positivity defined by:
+        - HER2 3+ or FISH +
+- **Pathophysiology of HER2 in sustaining proliferative signalling** - ErbB family:
+    - Dimerisation of HER2 w/ HER1-4 - activation of of signal transduction
+- **Overview of Tx:**
+    - <u>Tx in HER2 +ve early breast cancer</u>:
+    - <u>Tx in HER2 +ve metastatic breast cancer</u>:
+
+  ![](~/Documents/notes/img/overview_of_tx_of_her_pos_mbc.png) 
+  ![](~/Documents/notes/img/overview_of_tx_of_her_pos_ebc.png)
+- **Transtuzumab** - key in Mx of HER2+ breast cancer:
+    - <u>MOA</u> - binds to **domain IV** of HER2 receptor:
+        - Transtuzumab blocks dimierisation of HER2 receptor to block signal transduction
+        - Transtuzumab blocks cleavage of extracellular domain to block signal transduction
+        - Fc component of transtuzumab are recognised by immune cells leading to Ab-dependent cell-mediated cytotoxicity
+        - Down regulation of HER2 by endocytosis - whereby HER2 degradation gives rise to HER2 epitopes which are recognised by immune cells
+    - <u>Clinical efficacy of transtuzumab first demonstrated in metastatic stage, followed by in early breast cancer</u>:
+        - Slamon D et al 2001 demonstrated Herceptin improves PFS when added to chemotherapy in **metastatic setting**
+        - Ramond et al 2005 demonstrated Herceptin role in **EBC**
+    - <u>S/E</u>:
+        - Cardiotoxicity (2-4%) - requires every 3mo of echo (HER2 has regulatory functions for cardiomyocytes), but is reversible
+- **Pertuzumab** - adding pertuzumab to transtuzumab and docetaxel has become standard of care in HER2+ MBC:
+    - <u>MOA</u> - binds to **domain II** of HER2 receptor
+    - <u>Clinical efficacy of adding transtuzumab and pertuzumab to chemo in HER2+ MBC</u>:
+        - Swain et al 2015 demonstrated that in setting of HER+ MBC, dual targeted therapy (transtuzumab + pertuzumab) + taxane based chemotherapy improves OS compared w/ transtuzumab and docetaxel alone (median OS benefit of 15.7)
+    - <u>Clinical efficacy of PTD in neoadjuvant setting of HER2+ MBC</u>:
+        - Gianni et al 2012 demonstrated better **complete pathological response** in PTD arm (doubled from TD)
+        - Subgroup analysis shows that best response is shown in subgroup with HR-
+- **Rina's tangent on role of neoadjuvant therapy in setting of EBC** - 3 folds:
+    - Induce pCR enabling easier surgery and better cosmesis
+    - Eradicate micrometastasis before surgery
+    - As a proxy of sensitivity of tumour to anti-HER2 treatment, pCR translates to longest survival
+- **Transtuzumab Emtansine** (T-DM1) - Ab drug conjugate:
+    - <u>MOA</u> - release emtansine after endocytosis:
+        - Emtansine is a microtubule inhibitor
+    - <u>Role of T-DM1 in current paradigm</u> - for those who did not achieve pCR after standard neoadjuvant therapy:
+        - Von Mickwitz et al 2019 demonstrates T-DM1 offers better invasive DFS compared to transtuzumab in this non-pCR patients
+- **Laptinib:**
+    - <u>MOA</u> - small molecule inhibiting intracellular domain for HER1 and HER2
+    - <u>Initial role of lapatinib</u> - 2nd line therapy for HER2+ MBC progressing on transtuzumab (Geyer et al 2006)
+        - Subsequently dethroned by TDM1 (Verma et al 2012)
+- **Trastuzumab Deruxtecan** (T-Dxd) - new second line therapy:
+    - New Ab drug conjugate - but carries a more potent chemotherapy at a higher drug to Ab payload (8 in T-Dxd vs 3 in T-DM1)… see slides for detail
+    - <u>MOA</u>:
+        - As Ab drug conjugate
+        - Some bystander antitumor effect
+    - <u>Clinical efficacy</u> - Cortes et al 2022 demonstrated that in the second line setting, T-DXd out performs T-DM1
+    - <u>S/E</u> - DESTINY-Breast03 toxicity profile of TDxd:
+        - Pneumonitis, ILD, pneumonia
+- **Neratinib:**
+    - <u>MOA</u> - small molecule, irreversible pan-HER TKI (HER1,2,4)
+    - <u>Clinical efficacy</u> - adding neratinib after adjuvant transtuzumab in HER2 positive EBC:
+        - Bigger magnitude if also ER +ve patients, but no benefit if ER -ve
+        - Effective inhibition of cross talk between HER2 and ER signalling pathways
+    - <u>S/E</u> - Diarrhoea is common
+- **Tucatinib** - oral TKI:
+    - <u>MOA</u> - highly selective of HER2 hence much less SE
+    - <u>Clinical efficacy</u>:
+        - Lin et al 2020 demonstrates adding tucatinib to HER +ve MBC with brain metastasis (better penetration through BBB due to small molecule)
+
+## Systemic Treatment in Triple Negative Breast Cancer
+
+- **TNBC:**
+    - <u>Definition</u> - HR -ve and HER2 -ve
+    - <u>Prognosis</u> - worst irrespective of stage
+    - <u>Behaviour</u> - more aggressive (risk of death is highest in first 5y)
+    - Florid inflammatory reactions to aggressive tnbc - role of immunotherapy
+- **Role of immunotherapy in metastatic TNBC:**
+    - Monotherapy pembrolizumab not effective unless CPS \>= 20 (only 18% patients)
+    - Chemoimmunotherapy (pembro + chemo) effective when CPS \>= 10 (Cortes et al 2020) - becomes standard of care if CPS \>= 10
+- **Role of immunotherapy in early TNBC** (Scmid et al 2023):
+    - Neoadjuvant chemoimmunotherapy with adjuvant pembrolizumab regardless in PDL1 status (see Schmid et al 2023)
+    - Benefit seen in stage II-III disease, node +ve, and even T2N0
+    - Better pCR rates also, and pCR is a/w better event-free survival
+    - Perioperative pembrolizumab then also improves EFS in those who did not attain pCR
+- **Potential advantage of neoadjuvant Tx:**
+    - Reduce tumour size and increase the rate of breast conservation
+    - Evaluate chemo-responsiveness
+    - Early control of subclinical micrometastatic disease
+    - Induce pCR response
+    - Consider additional adjuvant Tx for non-pCR
+- **Sacituzumab Govitecan** - ADC for metastatic TNBC:
+    - Ab targeting Trop 2 (human trophoblastic cell surface Ag II highly expressed in TNBC)
+    - Govitecan (Topo I inhibitor)
+    - Currently first line - Bardia et al 2021
+- **HER2 low disease** - FISH- but HER1-2+ may be viable for T-Dxd:
+    - Modi et al 2022 only for HER2 low irrespective of ER status (only 11% TNBC)
+- **PARP inhibitor** - for germline BRCA metastatic or early setting

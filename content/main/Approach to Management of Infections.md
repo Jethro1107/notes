@@ -1,0 +1,11 @@
+---
+id: cf4b3621-e02a-4287-bed1-482a6bde5776
+title: Approach to Management of Infections
+---
+
+# Approach to Management of Infections
+
+- **Principles of Mx:**
+    - <u>Antimicrobial therapy</u> - initiate empirical antimicrobial therapy (e.g. ABx, antivirals, antifungals) for the most likely causative pathogens of the diagnostic syndrome
+    - <u>Mx of predisposing factors</u> - e.g. gycaemic control, and addressing known immune deficits (HIV, neutropenia)
+    - <u>Removal of source of infection</u> - e.g. removal of indwelling catheter, abscess drainage

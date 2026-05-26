@@ -1,0 +1,277 @@
+---
+id: 0190e5fc-472b-4243-a1af-bd9804c8560b
+title: 2025-08-15
+---
+
+# GC01 How would you anaesthetise me? <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Types of anaesthesia:**
+    - <u>General anaesthesia</u> (GA) - reduced level of consciousness and response to stimuli
+    - <u>Regional anaesthesia</u> (RA) - loss of sensation to a body part or region, where patient can be fully awak, sedated or unconscious
+    - <u>Monitored anaesthetic care</u> (MAC) - patient sedated but self-ventilating, where anaesthesiologist is present at all times to monitor the response of the patient
+- **Definition of anaesthesia** - without sensation, however the role of the anaesthetist involves more than just deprivation of sensation, but to address goals of both patient and surgeon
+- **Purpose of anaesthesia** (important!):
+    - <u>Patient-driven goals</u> - hypnosis, amnesia, analgesia
+    - <u>Surgeon-driven goals</u> - areflexia, +/- muscle relaxation
+- **Perioperative events for patient:**
+    - Preoperative assessment - determining and explaining anaesthetic plan
+    - Preparation
+    - Undergoing general anaesthesia
+    - Post-operative care
+- **Pre-operative assessment** - see other lecture (important):
+    - <u>Hx</u> - general and anaesthetic Hx
+    - <u>P/E</u> - cardiovascular, respiratory, airway examination, and other relevant body parts
+    - <u>Ix</u> - tailored to patient comorbidities
+- **Patient preparation:**
+    - Medications and other medications (e.g. CPAP to hospital) for comorbidities
+    - Fasting instructions
+- **Reason for fasting:**
+    - <u>Rationale</u> - minimize chance of aspiration during **induction** and **emergence** from anaesthesia
+    - <u>Fasting guidelines</u>:
+        - Clear fluids (e.g. water, fruit juices w/o pulp, carbonated beverages, tea, black coffee) - 2h
+        - Breast milk - 4h
+        - Infant formula - 6h
+        - Solids and non-human milk - 6h
+- **Sequence of general anaesthesia** - induction, maintenance, emergence and recovery: 
+![](~/Documents/notes/img/three_phases_of_general_anaesthesia.png)
+    - **Typical sequence of events for GA:**
+        - <u>Establish monitoring</u> - SpO2, BP, ECG, ETCO2 after induction
+        - <u>Establish IV access</u> - for induction of anaesthesia
+        - <u>Induction of anaesthesia</u> - use of pharmacological induction agents (induction agents, opioid, muscle relaxant) which is provided via IV or inhalation route
+        - <u>Instrumentate airway</u> - establish airway protection by intubation and provide ventilation (**add details from slides**)
+        - <u>Maintenance of anasthesia</u> - continuous administration of maintenance anaesthetic agent usually in combination w/ an analgesic agent via inhalation or IV route
+        - <u>Monitoring, fluid and drug Mx</u> - monitor vitals and ETCO2
+        - <u>Emergency +/- reversal agents</u> - for reversal of neuromuscular blockade, not hypnosis (titrated against nerve stimulator used to assess degree of neuromuscular blockade)
+        - <u>Post-operative care</u> - recovery in post-anaesthetia care unit or ICU
+- **Induction of anaesthesia:**
+    - **Common induction agents:**
+        - <u>IV induction agent</u> - propofol, thiopentone, etomidate, ketamine
+        - <u>Gas induction volatile agents</u> - sevoflurane, nitrous oxide
+    - **Common muscle relaxants:**
+        - <u>Non-depolarising NMB agents</u>:
+            - Short acting - mivacurium
+            - Intermediate acting - atracurium, cisatracurium, rocuronium, vecuronium
+            - Long acting - pancuronium
+        - <u>Depolarising NMB agents</u>:
+            - Suxamethonium
+- **Maintenance anaesthesia and analgesics:**
+    - **Maintenance agents:**
+        - IV - propofol
+        - Volatile - isoflurane, sevoflurane, desflurane, +/- nitrous oxide
+    - **Analgesia:**
+        - Simple analgesia - pracetamol PO, IV, PR
+        - NSAIDs and COx2 inhibitors
+        - Opioids - Fentanyl (IV,SC), Morphine (IV,PO), Oxycodone (IV,PO), Pethidine (IV)
+        - Others - e.g. tramadol, gabapentinoids, ketamine
+        - Regional techniques
+- **Post-operative Mx:**
+    - Analgesia - oral, perenteral or continuation of regional blockade
+    - Disposition - home, ward, HDU, ICU etc.
+- **Regional anaesthesia:**
+    - <u>Definition</u> - established by the deposition of local anaesthetic in close proximity to a nerve or group of nerve fibres, reducing sensation to the anatomical area supplied by the blocked nerves
+    - <u>Role</u> - provided alone or in combination w/ sedation or general anaesthesia:
+        - Nerve plockade provides anaesthesia and pain relieve
+        - Hypnosis is provided by a sedative agent
+    - <u>Forms of regional anaesthesia</u>:
+        - Neuroaxial blocks - spinal, epidural
+        - Plexus blocks
+        - Nerve blocks
+        - Local infiltration
+        - Topical anesthesia
+        - Intravenous regional technique
+    - <u>Pre-operative preparation</u> - does not change preparation if RA is employed, this goes for fasting (as need to anticipate conversion to GA immediately)
+    - <u>Reasons for conversion to GA immediately</u>:
+        - Total or partial failure of block - operator factor, drug factor, patient factor
+        - Complications from the regional techniques
+        - Prolonged surgery - duration of surgery exceeds duration of block, or if patient becomes restless or uncooperative
+    - <u>Complications from RA</u>:
+        - Local anaesthetic toxicity - e.g. inadvertant intravascular injection, OD, adverse reaction to adjuvants, systemic manifestations
+        - Severe haemodynamic disturances (usually from neuroaxial blocks):
+            - Bradycardia - blockade of cardiac sympathetic nerves
+            - Hypotension - due to 1) inadequate fluid replacement, or 2) sympathectomy, or 3) inappropriate patient choice (cardiac comorbidities, especially LVOT obstruction preventing increased CO)
+        - Excessive block:
+            - Excessive rostral spread of LA
+            - Respiratory distress - blockade of intercostal nerves and muscles
+            - Total spinal blockade - supraspinal neurons blocked by local anaesthetic
+
+# GC02 Is the patient fit for surgery? <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Consequences of surgery:**
+    - Acute sterile inflammation - i.e. systemic inflammatory response syndrome
+    - Metabolic and neuroendocrine disturbances - stress hormones, fasting, or functional GI disturbances (e.g. post-op ileus)
+    - Intra-operative pertubances - e.g. bleeding, haemodynamic instability, changes to respiratory mechanics
+    - Post-operative - wound healing, pain, infections etc.
+- **Role of anaesthesia in determining physiological response to surgery** - can actually alleviate stress:
+    - Apart from several moments during induction and emergence (e.g. airway instrumentation)
+- **Pre-operative consultation:**
+    - Assessment of patient - e.g. identification and optimisation of co-morbidities and assessment of risk
+    - Plan anaesthetic and perioperative care
+    - Provide explanations and instructions to patients
+- **Influence of anaesthesia and comorbidities:**
+    - <u>Diseased organs</u> - more susceptible to the adverse effects of anaesthetic drugs
+    - <u>Systemic illness</u> - affects pharmacokinetics and pharmacodynamics
+    - <u>Drug-drug interaction</u> - patient existing medications may interact w/ drug administered
+    - <u>Delivery technique</u> - certain anaesthetic techniques may be contraindicated
+- **Impact of surgery and anaesthesia in different organ functions:**
+    - <u>Respiratory system</u> - anaesthetic agents may adversely affect respiratory system at every level:
+    - <u>Cardiovascular function</u> - higher risk of myocardial ischaemia or perioperative cardiac failure:
+        - **Effects of anaesthetic drugs** - vasodilation, negative chronotropy and inotropy
+        - **Effects of surgical stress** - increased metabolic demands for healing, w/ reduced cardiac output (+/- reduced effective circulating volume)
+        - **Effects of underlying comorbidities** - e.g. aortic valvular diseases, general increased risk of arrhythmia
+    - <u>Hepatic function</u>:
+        - Reduced synthetic function
+        - Reduced metabolic function
+        - Circulatory disturbances
+    - <u>Renal dysfunction</u>:
+        - Results in reduced drug excretion and electrolyte abnormalities
+        - Results in platelet dysfunction
+    - <u>Endocrine dysfunction</u> - due to fasting and stress response:
+        - Both hyperglycaemia and hypoglycaemia may occur
+- **Drug Hx in pre-operative assessment:**
+    - Identify:
+        - Drugs that need to be stopped
+        - Drugs that should not be stopped
+        - Drugs that may need to be measured
+        - Recreational drug use
+        - Oral contraceptives
+    - Anti-thrombotics - anticoagulants and antiplatelets (know how to stop these pre-operatively)
+    - SGLT2i (stopped 48h before surgery)
+    - Insulin - regime modified depending on fasting requirements
+- ASA classification system - simple method to determine patient comorbid status and helpful in predicting perioperative risks
+
+# GC Anaesthesiology: Pre-operative assessment <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- **Setting:**
+    - Pre-op assessment clinic (PAC)
+- **Objectives of pre-operative assessment clinic:**
+    - Hx, P/E, appropriate Ix - proper pre-operatie assessment
+    - From pre-operative assessment:
+        - Establish rapport
+        - Determine fitness for surgery
+        - Formulate anaesthetic plan and regimen
+        - Decide post-op placement
+        - Plan fasting and premedications
+    - Explain anasthetic plan to patient
+    - Explain anaesthetic risk and obtain consent
+- **Approach to anaesthetic Hx taking:**
+    - **Assessment of CVS** - equire Sx of IHD, HF, HTN, valvular heart disease, conduction defects, arrhythmias, PVD, previous DVT and PE:
+        - **Ischaemic heart disease** - note onset, timing, frequency, severity and predictability of <u>anginal Sx</u>:
+            - Previous history of MI are at greater risk of further infarction, w/ peri-operative risk decreasing as time elapsed from index event
+            - Uncomplicated MI w/ normal ET-elective surgery may need to be delayed by 6-8 weeks
+            - Complicated MI (e.g. sizable infarct, residual angina, or complication w/ arrhythmias) require formal cardiac assessemnt
+            - Note for prior PCI, pacemaker, anticoagulation
+        - **Heart failure** - assess severity by NYHA classification of HF:
+            - Heart failure increases risk of peri-operative cardiac morbidity and mortality
+        - **Valvular heart disease** - esp. look for AS in elderly
+        - **Arrhythmias** - e.g. AF
+        - **Periphereal vascular disease** - prior strokes, intermittent claudication
+        - **Hx of DVT and PE**
+        - **HTN** - require Tx for BP lowering for elective surgery; if unchanged, close monitoring required to avoid swings during surgery and anaesthesia
+            - Mild HTN (140-159/90-99 mmHg) - no evidence for delaying surgery to optimise condition
+            - Moderate HTN (160-179/ 100-108 mmHg) - some evidence for optimising Tx (close monitoring)
+            - Severe HTN (\> 180/110 mmHg) - postpone all elective surgery due to unacceptable risk for myocardial ischaemia, arrhythmia, and intracranial haemorrhage
+    - **Assessment of respiratory function** - equire about Sx of respiratory disease (e.g. cough, SOBOE, haemoptysis, chest pain) to detail presence of asthma, COPD, infection, restrictive lung disease, as increased risk of perioperative chest infections (esp. if upper abdominal/ thoracic surgery):
+        - <u>Assess current ET</u> - ask subjective questions:
+            - Catching the bus
+            - Walking uphill
+            - How many FOS
+            - Doing housework
+            - Are you able to to take care of yourselves
+        - <u>More objective assessement</u> - the following specific activity scale:
+            - Metabolic equivalents (MET)
+            - NYHA classification of HF
+    - **Other comorbidities:**
+        - <u>Indigestion and heartburn</u> - possibility of hiatal hernia (increased risk of regurgitation and aspiration by lying flat)
+        - <u>Rheumatoid arhtritis</u>:
+            - Limit positioning
+            - C1-2 subluxation, TM joint complicate airway Mx
+            - Many drug use
+        - <u>DM</u> - increased risk of peripheral complications
+        - <u>Neuromuscular disorder</u>:
+            - especially if poor FVC (e.g. \<1L), which predisposes to chest infection and increases chance of needing respiratory support post-op
+            - Higher aspiration risk
+            - Irreversibility of block
+        - <u>Chronic renal failure</u> - altered pharmacokinetics, electrolyte abnormalities
+        - <u>Hepatic dysfunction</u> - altered drug metabolism (esp. opioids), risk of coagulopathy
+    - **Past anaesthetic Hx** - check previous anaesthetic record if available:
+        - <u>Problems w/ airway</u> - difficult intubation
+        - <u>Problems w/ preparation</u> - difficult IV access, bleeding etc\>
+        - <u>Problems with anaesthesia</u> - side affects including N/V, awareness, jaundiced, delayed recovery, prolonged hypotension
+        - <u>Problems w/ recovery</u> - e.g. delayed recovery
+    - **FHx** - inheritable anaesthetic complications:
+        - Malignant hyperthermia (MH)
+        - Pseudocholinesterase deficiency
+        - Previous ICU admission of family members
+    - **Detailed drug Hx:**
+    - **Social Hx:**
+        - <u>Smoking</u> - advise (temporary) smoking cessation to reduce peri-operative complications:
+            - Stopping 8 weeks prior surgery improves airway
+            - Stopping 2 weeks prior surgery decreases airway irritability
+            - Stopping 2 days prior surgery decreases carbon monoxide level
+        - <u>Alcohol</u> - assess amount, as:
+            - Alcohol results in enzyme induction-drug tolerance
+            - Risk of post-operative alcohol withdrawal syndrome
+        - <u>Drug abuse</u>:
+            - 1\. Difficult IV access
+            - 2\. Risk of blood-bourne infections (e.g. HIV, HBV, HCV carrier)
+            - 3\. Risk of post-operative drug withdrawal syndrome
+- **American society of anaesthesiologist classification** - reflects comorbid status of patients, and correlates well with risk of peri-operative morbidity and mortality:
+    - <u>Class I</u> - a normal healthy patient
+    - <u>Class II</u> - a patient with mild systemic disease
+    - <u>Class III</u> - a patient with severe systemic disease that limits activity
+    - <u>Class IV</u> - a patient with severe systemic disease that is a constant threat to life
+    - <u>Class V</u> - a moribound patient who is not expected to survive without the operation
+    - <u>E suffix</u> - indicates emergent operation
+
+  
+  ![](../img/asa_physical_scale_correlates_with_mortality.png)
+- **P/E:**
+    - <u>Assesssment of cardiopulmonary function</u> - cardiovascular examination, respiratory examination
+    - <u>Airway assessment</u> - general airway assessment to predict difficult airway
+    - <u>Additional examination</u> - based on problems identified in Hx
+- **Ix** - no routine Ix in anaesthesiology:
+    - Ordered only if outcome affects patients management
+    - Dependent on patient's comorbidities and type of surgery planned
+- **Pre-operative Mx:**
+    - Fasting
+    - Inform patient on anaesthetic plan and obtain informed consent
+    - Pre-operative medications
+    - Post-operative placement
+- **Fasting:**
+    - <u>Rationale</u> - reduce volume of astric contents to reduce risk of pulmonary aspiration, consequence dependent on:
+        - Gastric volume
+        - Gastric content (e.g. solid vs liquid)
+        - Acidity (role of pre-medication)
+    - <u>Approach to fasting</u>:
+        - Clear fluids - 2h
+        - Breast milk - 4h
+        - Light meals - 6h
+- **Pre-medication:**
+    - Pain relief
+    - Sedation/ anxiolytic
+    - DVT prophylaxis
+    - Regurgitation and aspiration prophylaxis (e.g. acid-lowering drugs)
+    - Drugs for pre-existing disease
+    - Pace maker
+    - EMLA cream for paediatric patients
+- **Anaesthetic risks** - royal college of anaesthetist:
+    - **Common** (1 in 10-100):
+        - Bruising and multiple attempts at IV access
+        - Sore throat
+        - Headache
+        - Dizziness
+        - PONV
+        - Itching (opioids)
+        - Retention of urine
+    - **Uncommon** (1 in 1000):
+        - Dental damage
+        - Chest infection
+        - Muscle pain (usually due to malpositioning, and rarely due to Suxamethonium)
+        - Worsening of an existing condition (e.g. HF)
+        - Awareness during GA
+    - **Rare** (\< 1 in 10000):
+        - Allergy to anaesthetic drugs
+        - Eye injury (particularly if prone)
+        - Nerve damage
+        - Hypoxic brain damage
+        - Death

@@ -1,0 +1,33 @@
+---
+id: b71a9588-37b1-42ed-99c4-6c4cd6bf55ac
+title: Management of HCC
+---
+
+# Management of HCC
+
+- **Principles of Mx** - different for patients w/ cirrhosis and those w/o:
+    - Cirrhosis - modality of Tx dependent on HKLC or BCLC staging system:
+        - Tx of curative intent - hepatic resection, liver transplantation, thermal ablation
+        - Loco-regional Tx (paliative) - TACE, TARE, SCRT
+        - Chemotherapy (paliative) - targeted and immunotherapy
+    - w/o cirrhosis -
+- **Hepatic Resection** - treatment of choice for non-cirrhotic patients and subset of cirrhotic patients:
+    - <u>Procedure</u> - hepedectomy of the lobe with HCC involvement
+    - <u>Indications</u> - most non-cirrhotic patients w/ localised disease, selected cirrhotic patients w/ very early stage HCC (PST 0, Child's A w/ no pHTN)
+    - <u>C/I</u> - most cirrhotic patients (risk of insufficient functional liver remnant and decompesated liver function)
+    - <u>Outcomes</u> - 5y survival (50%), 5y recurrence (50%)
+- **Liver transplantation** - currative for underlying cirrhosis and removing risk of second, de-novo individual:
+    - <u>Indications</u> (Milan Criteria) - good survival for small tumours (\< 5cm) or \<4 nodules (each \< 3cm)
+    - <u>Outcomes</u> - 5y survival \> 75% for selected individuals
+    - <u>Risk of recurrence</u> - complicated by necessary immunosuppression
+- **Percutaneous therapy**
+- **Trans-arterial chemo-embolisation**
+    - <u>Procedure</u> - combined chemotherapy and embolisation of the lesion via hepatic artery:
+        - Lipiodol - contrast selectively uptake by liver (then why not use it for CT)
+        - Cisplatin - chemotherapy
+        - Gelfoam - embolisation to block off arterial supply
+    - <u>C/I</u> - decomensated cirrhosis, multifocal HCC
+    - <u>Outcomes</u> - 2y survival approx 60% in cirrhotic patient w/ good LFT
+- **Chemotherapy** - paliative for advanced stage diseases:
+    - Targeted therapy - Sorafenib (multikinase inhibitor inhibiting VEGF), Levitinib, Bevalizumab
+    - Immunotherapy - Atezolizumab

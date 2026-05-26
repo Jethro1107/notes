@@ -1,0 +1,29 @@
+---
+id: 08142f96-fe89-4329-bfc4-07f8e055b5db
+title: B - On Love, Stendhal
+---
+
+- 4 kinds of love:
+    1.  Passion love - the most intense kind
+    2.  Gallent love - predominant type of love up to 1760s
+    3.  Physical love - aimed at only physical pleasures, not dependent on the person
+    4.  Vanity love - vast majority of men in France, driven by the pervasive image of what it means to be a man who is loved
+- **The birth of Love** - sequence of events that occur within the soul:
+    1.  Admiration - through observation
+    2.  Pleasure - realisation that the presence of the lover is undenialy 'pleasurable' ('What pleasure to kiss, to be kissed')
+    3.  Hope - conceived at the first sign of the reciprocation of the greatest possible pleasure
+    4.  Birth of Love - an object to be loved and that loves us, pleasure perceived through all senses, and the urge to close the distance
+    5.  First Crystalisation - mental process characterised by the idealisation of the lover, to see perfection in the lover under romanticised light
+    6.  Birth of Doubt - uncertainty will almost always arise within a man of passion even in a state of euphoria, for a man of passion changes his moods ten times a day:
+    7.  Second Crystalisation - how to obtain the greatest proof of her love?
+- Crystalisation of Salzburg
+- Difference in the birth of love between two sex:
+    - Intensity of crystalisation determines the degree of passion - is puppy love or mature love more passionate?
+    - Difference in risk and hence nature of approach:
+        - Men - genuinely no risk, simply ask: what can I do to prove of her love… hope depends simply on the lover's action…
+        - Women - thousand of thoughts races through the mind, for them public opinion and image means much more.. it is natural for her to be more mistrustful, more timid
+    - Men are incapable of understanding the inmost hearts of women of passion - unlike the conquet and men, both have senses and driven by vanity
+- Crystalisation:
+    - Deification of object - to see the beloved as perfect is the first necessity in the genesis of love, perfect not in the metaphysical sense that is all good and all powerful (literally perfect in all aspects), but perfect in the aspects which were revealed in that time (i.e. no faults revealed yet)
+    - Role of beuty - vs obstruction by ugliness (?to be seen as beutiful, imagined as perfect, even though objectively to others not really, cf the idea of units of happiness)
+    - The deification of object may be mimetic - see gallant love and initial period of passion love –\> infer the quality of the beloved through how he/she is seen by others (rather to the way seen by oneself)

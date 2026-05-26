@@ -1,0 +1,317 @@
+---
+id: be16b163-dbb3-4099-a2e7-e04112a75a55
+title: AHA Advanced Cardiac Life Support Manual
+---
+
+# Part 1: Overview of ACLS
+
+Designed for healthcare providers who either direct or participate in the management of cardiopulmonary arrest or other cardiovascular emergencies.
+
+- **ACLS covers recognition and initial intervention for:**
+  - Cardiopulmonary arrest
+  - Immediate post-cardiac arrest
+  - Acute dysrhythmia
+  - Stroke
+  - Acute Coronary Syndrome
+- **Challenge for BLS and ACLS providers** -
+- **Optimizing ACLS** - Team Leaders optmise ACLS by integrating:
+  - High-quality CPR and minimal interruptions of chest compression (high CCF)
+  - Advanced life support strategies (e.g. defibrillation, medications, advanced airway)
+- **Systems of care** - intedependent components (SPSO) in a framework of continuous quality improvement:
+  - Provides the links for the Chain of Survival
+  - Determines the strength of each link and of the chain
+  - Determines the ultimate outcome
+  - Provides collective support and identified deficiencies
+- **Systematic approach** - optimal care provided by applying a systematic approach to assess and treat arrest and acutely ill or injured patients:
+  - Initial assessment - visualization (of consciousness) and scene safety for further assessment
+  - BLS Assessment - focuses of maintenance of oxygenation, ventilation and circulation by CPR, simple airway management and defibrillation and targets the intermediate goal of <u>ROSC</u> or advanced provider intervention
+  - Primary Assessment (A-E)
+  - Secondary Assessment (SAMPLE, H's and T's)
+
+  
+  ![](img/expanded_systematic_approach_to_acutely_ill_or_injured_acls.png)
+- **BLS assessment** - focuses on high-quality CPR, early defibrillation, and simple airway and ventilation management:
+  - **Aim** - until return of spontaneous conscioussness (ROSC) or advanced providers intervene
+  - **Physiology of CPR** - ROSC is most likely when performing <u>high-quality CPR</u> while <u>minimizing interruptions</u>:
+    - **Sufficient coronary perfusion pressure** (CPP) - aortic diastolic pressure minus RA diastolic pressure, and positively correlates with myocardial perfusion and ROSC, illustrating the need to minimize interruptions (human study demonstrates that ROSC was only achievable through CPR if CPP \> 15 mmHg) 
+    ![](img/correlation_betwen_CPP_and_rosc.png)
+    - **Relationship with ETCO2** - relation with cardiac output with chest compressions (ROSC unlikely with persistent ETCO2 of \< 10 mmHg)
+- **Primary Assessment** - assessment of patient and perform appropriate actions until patient is transferred to next level of care:
+  - <u>Timing</u>:
+    - Unconscious patient in arrest - complete BLS before primary assessment
+    - Conscious patient - primary assessment by ABCDE
+  - <u>Components</u>: 
+  ![](img/primary_assessment_components_and_actions.png)
+- **Secondary assessment** - focused Hx and searching for and treating reversible causes:
+  - **Focused Hx** - SAMPLE mneomnic:
+    - <u>Signs and Symptoms</u>:
+      - Breathing difficulty or dyspnoea
+      - Tachypnoea or tachycardia
+      - Fever and headache
+      - Abdominal pain
+      - Bleeding
+    - <u>Allergies</u>:
+      - Type of allergy - e.g. medications, food, latex
+      - Associated reactions
+    - <u>Medications</u>:
+      - List of medications - including OTC, vitamens, inhalers, TCM, herbal supplements
+      - Last dose and time of recent medications
+      - Medications that can be found in patients home
+    - <u>Past medical history</u> - esp. related to suspected current illness:
+      - Health Hx - previous illnesses, hospitalisations
+      - Family health history - applicable to previous illnesses, hospitalisation
+      - Significant underlying medical problems - e.g. HTN, DM, dyslipidaemia, COPD
+      - Past surgeries
+      - Immunisation status
+    - <u>Last meal consumed</u> - time and nature of last intake of liquid and food
+    - <u>Events</u>:
+      - Detailed HPI - events leading to current illness (OPQRST), including estimated time of onset
+      - Hazard at scene
+      - Treatment during interval from onset of disease or injury until evaluation
+  - **H's and T's** - reversible causes of cardiac arrest and emergency cardiopulmonary conditions:
+    - <u>H's</u>:
+      - Hypovolaemia
+      - Hypoxia
+      - Hydrogen ion (acidosis)
+      - Hypo-/ hyper-kalaemia
+      - Hypothermia
+    - <u>T's</u>:
+      - Tension pneumothorax
+      - Tamponade (cardiac)
+      - Toxins
+      - Thrombosis (pulmonary embolism)
+      - Thrombosis (ACS)
+  - **Hypovolaemia** - a common cause of PEA:
+    - <u>Classical features of hypovolaemia</u>:
+      - Hydration status - reduced skin turgor, dry oral mucosa
+      - Physiological response to hypovolaemia:
+        - Sinus tachycardia (most early) - a rapid, narrow-complex tachycardia
+        - Narrowed pulse pressute (increased diastolic and decreased systolic pressure) - physiological vasoconstriction resulting in cold peripheries
+        - Orthostatic hypotension and supine hypotension
+        - Pulseless electrical activity - BP undetectable but the narrow complex tachycardia persists
+    - <u>Common causes of hypovolaemia</u>:
+      - Occult internal haemorrhage
+      - Severe dehydration
+    - <u>Mx</u> - volume infusion for PEA a/w NCT
+  - **Acute coronary syndrome** - type 3 AMI involving left main or proximal LAD can present as cardiac arrest (PEA, VF, pVT, asystole):
+    - <u>Diagnostic features</u> - STEMI ECG changes
+  - **Pulmonary embolism**
+  - **Tension pneumothorax**
+  - **Cardiac tamponade**
+
+# Part 2: Preventing Arrest
+
+## Recognition: Signs of Clinical Deterioration
+
+- **Criteria for clinical deterioration** - S/S that should result in activation of the rapid response system in hospital:
+  - Airway comprimise
+  - Respiratory rate - \< 6/min or \> 30/min
+  - Heart rate - \< 40 bpm or \> 140 bpm
+  - Systolic BP - \< 90 mmHg
+  - Symptomatic hypertension
+  - Unexpected decrease in level of consciousness
+  - Unexplained agitation
+  - Seizure
+  - Significant decrease in urine output
+  - Subjective concern about the patient
+- **Most common cause of IHCA** - respiratory failure, hypovolaemic shock etc.
+- **Earliest signs preceeding cardiac arrest** - tachycardia, tachypnoea, hypotension
+- **RRTs and METs:**
+  - <u>Indications</u> - see any patients who are identified as deteriorating no matter who reports the deterioration (e.g. patient, family members, nurse)
+  - <u>Roles</u> - early intervention in clinically deteriorating patients with <u>goal of prevent IHCA</u>
+  - <u>Agents</u> - all have skills to intervene in life-treatening situations:
+    - Physicians
+    - Nurses
+    - Respiratory therapise with critical care experience
+  - <u>Actions</u>:
+    - Bring monitor and resuscitation equipments
+    - Perform rapid patient assessment
+    - Initiate appropriate treatment and drug therapies to reverse physiological deterioration and prevent poor outcomes
+  - <u>Outcomes</u> - ideal composition still not known:
+    - Decreased unplanned emergency transfers to ICU
+    - Decreased ICU and hospital length of stay
+    - Reduced postoperative morbidity and mortality rates
+    - Improved rates of survival from cardiac arrest
+
+## Acute Coronary Syndromes
+
+- **Initial ECG** - provisional diagnosis into 1 of 2 categories of MI with different strategies of care and management needs:
+  - ST-segment elevation (STEMI)
+  - Non-ST-segment elevation ECS (NSTE-ACS)
+- **Goals for ACS patient:**
+  - Prevention of major adverse cardiovascular event (MACE) such as death, nonvatal MI, need for urgent postinfarction revascularisation
+  - Identification of patients with STEMI and triage for early reperfusion therapy
+  - Relief of ischaemic chest discomfort
+  - Treatment of acute lifethreatening complications of ACS:
+    - Arrhythmias - VF/vPT, unstable bradycardia, other unstable tachycardias
+    - Mechanical complications - ventricular wall rupture, papillary muscle rupture
+    - Decompensated cardiogenic shock
+- **Rhythms for ACS** - arrhythmia complicating acute ischaemia may require Mx:
+  - Hypotensive bradycardia
+  - VF/pVT
+  - Sudden cardiac death
+- **Overview of ACS algorithm:**
+  - 
+
+## Acute Stroke
+
+## Bradycardia
+
+- **Definition** - rhythm disorder with heart rate less than 60bpm, but for assessment and management of patient w/ symptomatic bradycardia, it is typically defined as having a heart rate of \< 50 bpm
+- **Rhythms of bradycardia:**
+  - Sinus bradycardia
+  - 1st-degree AV block - reduced conduction velocity resulting in prolonged PQ interval with no dropped beat
+  - 2nd-degree AV block - reduced conduction velocity resulting in some blocked conduction:
+    - Mobitz type I AV block (Wenkebach phenomenon) - successive prolongation of the PR interval culminating into a dropped ventricular conduction, with the cycle of progressive lengthening of PR interval repeating after failure of conduction of the atrial impulse
+    - Mobitz type II AV block - intermittent non-conduction of P waves with constant PR interval or conducted beat
+  - 3rd-degree AV block - complete AV dissociation
+  - Escape rhythms
+- **Assessment of symptomatic bradycardia** - unstable bradycardia exists clinically when the following 3 criteria is met:
+  - <u>Inappropriately low heart rate</u> - heart rate is slow for a given context (e.g. relative bradycardia of 70bpm is insufficient for a patient with shock)
+  - <u>Symptomatic</u> - the patients have S/S that suggest low CO, including 1) Hypotension, 2) Altered mental status, 3) Signs of shock, 4) Ischaemic chest discomfort, 5) Acute pulmonary oedema
+- **Adult Bradycardia Algorithm** - steps for assessing the Mx of patient presenting w/ unstable bradycardia w/ a pulse: 
+![](img/acls_adult_bradycardia_algorithm.png)
+  - **Identification of bradycardia:**
+    - HR \< 50 bpm
+    - Inadequate or inapropriate for patient's condition (relative bradycardia)
+    - Attributable for S/S
+  - **Identification and Tx of reversible causes** - O2, IV access, cardiac monitoring:
+    - <u>O2 therapy</u> - bradycardia can be a sign of life-threatening hypoxia
+    - <u>IV access</u> - establish IV access for medications
+    - <u>Establish monitoring</u> - cardiac monitoring (BP/P, rhythm), pulse oximetry (SpO2). += 12-lead ECG if available
+    - <u>Primary assessment</u>:
+      - **Airway** - maintain patent airway (check if patient can speak in words)
+      - **Breathing** - monitor SpO2, give O2 if hypoxia, assist breathing as necessary
+      - **Circulation** - cardiac monitor for BP/P, SpO2; obtain and review 12-lead ECG; establish IV access
+      - **Disability and exposure** - focused P/E to look for reversible causes (e.g. hypoxia, toxicology causes)
+  - **Identification of consequences of bradycardia** - S/S may be caused by, or reflect cause of bradycardia:
+    - <u>Symptoms</u> - delirium, ischaemic chest discomfort, SOB
+    - <u>Signs</u> - Acute heart failure (basal creps), hypotension, signs of shock (hypoperfusion)
+  - **Determine the need to correct bradycardia:**
+    - <u>Adequate perfusion</u> (completely asymptomatic) - monitor and observe
+    - <u>Poor perfusion</u> (asymptomatic as above) - commence pharmacological and non-pharmacological Tx
+  - **Treatment sequence:**
+    - <u>1st line Tx</u> - 1mg atropine (max 3mg)
+    - <u>Escalation of Tx</u>:
+      - Transcutaneous pacing +/- dopamine or epinephrine infusion
+      - Expert consultation and transvenous pacing
+- **Drugs used in Tx of bradycardia:**
+  - **Atropine** - indicated for symptomatic bradycardia with no immediate cause:
+    - <u>Dosing</u> - 1mg bolus IV push (except heart transplant patients), repeat every 3-5 min
+    - <u>Maximum dose</u> - 3mg (i.e. 3x push)
+    - <u>MOA</u> - parasympathetic antagonism to increase HR and conduction velocity of AV node (no effect on infranodal tissue conduction)
+    - <u>Caution</u>:
+      - 1\. Low dose atropine (\< 0.5 mg IV) may have -ve chronotropic effects
+      - 2\. Caution use in presence of myocardial ischaemia or MI as reflex tachycardia may result in increased myocardial demand and worsen ischaemia
+      - 3\. Limited utility if in 2nd or 3rd-degree AV block with wide QRS complex, as pathology is found in infranodal tissue
+      - 4\. Atropine administration should not delay TCP or beta-adrenergic infusion especially for patients with impending cardiac arrest
+      - 5\. No role of atropine in overdose of rate limiting agents (BBs, CCBs), and are often skipped
+    - <u>Complications</u>:
+      - VF precipitation for unstable heart transplant patients (CLASS III evidence in ECS guidelines)
+      - Worsening myocardial ischaemi
+  - **Dopamine** (infusion):
+    - <u>MOA</u> - adrenergic activity at different doses:
+      - **Beta-1 adrenergic activity at lower doses** (\< 10 mcg/kg/min) - more selective inotropic effect
+      - **Alpha-1 adrenergic activity at higher doses** (\> 10 mcg/kg/min) - causes vasoconstriction and increased afterload
+    - <u>Dosing</u> - 5-20 mcg/kg/min titrated to patient response
+  - **Adrenaline** (infusion):
+    - <u>MOA</u> - adrenergic activity:
+      - Beta-1 adrenergic activity - inotropic effect
+      - Alpha-1 adrenergic activity - vasoconstrictive effect
+- **Transcutaneous pacing** (TCP):
+  - <u>Principles</u> - device that delivers electrical stimulus cutaneously to pace the heart
+  - <u>Indications</u>:
+    - Haemodynamically unstable bradycardia - e.g. hypotension, acute altered mental status, signs of shock, ischaemic chest discomfort, acute heart failure
+    - Bradycardia with stable ventricular escape rhythms
+  - <u>Precautions and considerations</u>:
+    - Contraindicated in severe hypothermia
+    - Conscious patients require analgesia for discomfort unless delay in sedation will cause or contribute to deterioration
+    - Carotid pulse is not useful for confirming mechanical capture as muscular jerking after electrical stimulation may mimic the carotid pulse
+  - <u>Sedation for pacing</u> - most conscious patient should be sedated before pacing unless rapidly deteiriorating:
+    - Give parenteral narcotic for analgesia
+    - Give parenteral benzodiazepine for anxiety and muscle contraction
+  - <u>Technique</u>:
+    - 1\. Place electrodes on chest according to package instruction
+    - 2\. Turn the pacer on
+    - 3\. Set demand rate to **60-80 bpm**, adjustable subsequently based on patient's clinical response once pacing is established
+    - 4\. Set current as **2mA above dose at which consistent capture is observed** (on 12-lead ECG) 
+    ![](img/electrical_capture_of_tcp_on_ecg.png)
+- **Standby pacing in patients with ACS** - clinically stable ACS patients may decompensate suddenly due to bradyarrhythmias, initiate pacing when:
+  - Symptomatic sinus node dysfunction with severe and symptomatic sinus bradycardia
+  - Asymptomatic Mobitz type II second-degree AV block
+  - Asymptomatic 3rd-degree AV block
+  - Newly acquired left, right or alternating BBB or bifascicular block in setting of AMI
+
+## Tachycardia: Stable and Unstable
+
+- **Definition and terminology:**
+  - <u>Tachycardia</u> - an arrhythmia with a heart rate \>= 100/min (takes on clinical significance if HR \>= 150 bpm)
+  - <u>Symptomatic tachycardia</u> - S/S due to the rapid heart rate (unlikely causing haemodynamically instability if \< 150 bpm unless patient has ventricular dysfunction)
+- **Rhythms for unstable tachycardia:**
+  - Sinus tachycardia
+  - Atrial fibrillation
+  - Atrial flutter
+  - Supraventricular tachycardia (SVT)
+  - Monomorphic VT
+  - Polymorphic VT
+  - Wide-complex tachycardia of uncertain type
+- **Pathophysiology of unstable tachycardia:**
+  - <u>Excessively fast heart rate</u> - shortened time for diastolic filling of ventricles resulting in overall reduction in cardiac output
+  - <u>Ineffective contraction</u> - coordination between atria and ventricles or the ventricles themselves reduce cardiac output
+- **Clinical features of unstable tachycardia:**
+  - <u>Symptoms</u> - acute altered mental status, ischaemic chest discomfort, SOB
+  - <u>Signs</u> - Hypotension, signs of shock (hypoperfusion), acute heart failure
+- **Cardioversion:**
+  - **Indications for immediate cardioversion:**
+- **Adult tachycardia with a pulse algorithm** - steps for assessing the Mx of patient presenting w/ unstable tachycardia w/ a pulse: 
+![](img/acls_adult_tachycardia_algorithm.png)
+  - **Assessment of clinical condition** - appropriate sinus tachycardia can be seen in critically ill patients, however HR \> 150 bpm typically indicates tachyarrhythmia
+  - **Identification and Tx of reversible causes** - O2, IV access, cardiac monitoring:
+    - <u>Give O2</u> - correct hypoxaemia as a potential cause tachycardia
+    - <u>IV access</u> - establish IV access for medications
+    - <u>Establish monitoring</u> - cardiac monitoring (BP/P, rhythm), pulse oximetry (SpO2), +/- 12-lead ECG if available
+    - <u>Primary assessment</u>:
+      - **Airway** - maintain patent airway (check if patient can speak in words)
+      - **Breathing** - monitor SpO2, give O2 if hypoxia, assist breathing as necessary
+      - **Circulation** - cardiac monitor for BP/P, SpO2; obtain and review 12-lead ECG; establish IV access
+      - **Disability and exposure** - focused P/E to look for reversible causes (e.g. hypoxia, toxicology causes)
+    - **Assess stability** - assess the patient's degree of instability and determine if it is related to tachycardia, guiding subsequent steps taken:
+      - **Unstable tachycardia:**
+        - <u>Definition</u> - rate-related cardiovascular compromise with serious S/S (usually rate \> 150 bpm unless significant CVD)
+        - <u>Subsequent Mx</u> - immediate synchronized cardioversion
+      - **Stable tachycardia:**
+        - <u>Definition</u> - absence of rate-related cardiovascular compromise
+        - <u>Subsequent Mx</u> - obtain 12-lead ECG to determine rhythm, QRS width, and determine treatment options
+  - **Immediate synchronized cardioversion** - for all unstable tachycardia:
+    - **Indications for immediate synchronized cardioverion** - recommended for all unstable patients w/ pulse and following rhythms:
+      - Unstable SVT
+      - Unstable AF
+      - Unstable AFlu
+      - Unstable regular monomorphic tachycardia
+    - **Indications for unsynchronised shock** - only considered if:
+      - Polymorphic VT
+      - Patients w/o a pulse (VF/ pVT)
+      - Pre-arrest
+    - **Pre-medication** - effective regimens include sedative +/- analgesic or anaesthetic agent if available:
+      - <u>Sedatives</u> - diazapem, midazolam, etomidate, methohexital, propofol
+      - <u>Analgesic</u> - fentanyl, morphine
+    - **Steps for synchronised cardioversion:**
+      - 1\. Pre-mediacate all conscious patients unless unstable or rapidly deteriorating
+      - 2\. Turn on defibrillator (monophasic or biphasic)
+      - 3\. Attach monitor leads to patient and ensure proper display of the patients rhythm (position adhesive electrode pads on patient)
+      - 4\. Engage synchronisation mode
+      - 5.Look for markers on R wave indicating sync mode
+      - 6\. Adjust monitor gain if necessary until sync markers occur with each R wave
+      - 7\. Select appropriate energy level according to device recommendations to maximize success of first shock
+      - 8\. Announce to team members "Chargiing defibrillator - stand clear!"
+      - 9\. Press the shock button
+      - 10\. Check monitor - if tachycardia persist increase the energy level based on device recommendations (resynchronisation might be necessary as most defibrillators defaults to unsynchronised modes to enable immediate shock if produces VF)
+    - **Consider unsynchronised shocks** - if condition critical
+  - **Approach to stable tachycardia** - if absence of rate-related cardiac compromise:
+    - <u>Obtain 12-lead ECG</u> - assessment of regularity and QRS complex to better define the rhythm
+    - <u>Determine Mx pathway</u>:
+      - **Wide complex tachycardia** - adenosine only if regular and mono-morphic, antiarrhythmic infusion for stable WCT
+      - **Regular narrow complex tachycardia** - vagal maneuvers, adenosine, rate control with BBs or CCBs
+      - **Irregular narrow complex tachycardia** - rate control with BBs or CCBs
+
+# Part 3: High-Performance Teams

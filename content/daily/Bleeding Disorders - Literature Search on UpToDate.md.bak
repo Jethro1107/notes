@@ -1,0 +1,208 @@
+---
+id: 69958a32-a278-4c95-8395-72ca67345724
+title: 2025-08-21
+---
+
+# Bleeding Disorders - Literature Search on UpToDate <span class="tag" tag-name="Reference"><span class="smallcaps">Reference</span></span>
+
+- **Reference:**
+  - [UpToDate: Approach to the adults with a suspected bleeding disorder](https://www.uptodate.com.eproxy.lib.hku.hk/contents/approach-to-the-adult-with-a-suspected-bleeding-disorder?search=Bleeding&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1)
+  - [UpToDate: Clinical use of coagulation tests](https://www.uptodate.com.eproxy.lib.hku.hk/contents/clinical-use-of-coagulation-tests?search=Bleeding&topicRef=1367&source=see_link)
+
+## Initial approach to the adult with a suspected bleeding disorder
+
+- **Definition and terminology** - bleeding diathesis refers to an inherited or acquired disorder affecting primary or secondary haemostasis, manifesting as:
+  - <u>Petechiae</u> - small, flat, red discrete areas of skin bleeding, typically \< 2mm in diameter, and are non-blanching and non-palpable
+  - <u>Purpura</u> - coaelesced petechiae which may be due to thrombocytopenia, or vasculitis
+  - <u>Ecchymosis</u> - subcutaneous accumulation of extravastated blood where skin is flat, which evolves over time from puplish blue to reddish brown to greenish yellow, reflecting breakdown of haemoglobin to biliverdin and bilirubin
+  - <u>Haematoma</u> - collection of blood in extravascular space, such as subcutaneously, in soft tissue, or joints, and are more typical of coagulation disorder
+- **Approach to evaluation of patient w/ suspected bleeding disorder** - depends on whether patient is actively bleeding:
+  - <u>Actively bleeding patient</u> - initial Ix w/ additional tests depending on clinical scenario, with interventions as required
+  - <u>Non-actively bleeding patient</u> - detailed Hx, P/E, bleeding score, and screening laboratory testing
+- **Salient points of Hx:**
+  - **HPI** - characterise onset, duration and bleeding manifestation of current episode:
+    - <u>Menstrual bleeding</u> - note if menstrual bleeding is present, consider anatomical causes as well as a generalised bleeding disorder
+    - <u>Mucocutaneous bleeding</u> (including epistaxis) - reflects a platelet or vascular defect, especially if immediate bleeding after a bleeding challenge
+    - <u>Deep-seated bleeding</u> (e.g. muscle haematoma and haemarthrosis) - reflects coagulation defect, especially if **delayed bleeding** after a bleeding challenge
+    - <u>Delayed surgical bleeding</u> - disorders of fibrnolysis tend to show delayed bleeding after bleeding challenge
+  - **Bleeding Hx** - onset, manifestation, previous episodes, Hx of iron-deficiency anaemia, oucomes of bleeing challenge:
+    - <u>Onset</u> - from infancy, childhood, or new-onset bleeding:
+      - **Childhood presentation** - suggestive of an <u>severe inherited disorders</u>
+      - **Adult presentation** - suggestive of an acquired disorder, but can be the first manifestation of an mild bleeding disorder
+    - <u>Prior bleeding events</u> - Hx of previous bleeding diathesis is suggestive of an inherited condition:
+      - Bleeding in infancy (e.g. umbilical stump bleeding) and childhood (e.g. trauma or excessive bleeding w/ loss of deciduous teeth)
+      - Bleeding during adolesecence and adulthood (not any precipitating factors and severity of bleeding)
+      - Any severe bleeding episodes requiring non-standard interventions (e.g. blood transfusions, nasal packing and cautery or surgical intervention)
+    - <u>Hx of iron-deficiency anaemia</u> - previous Hx of iron-responsive anaemia supports the suspicion of an **underlying bleeding disorder**
+    - <u>Outcomes of bleeding challenges</u> - surgery, dental, trauma:
+      - **Surgery** - ask about timing and site of bleeding (diffuse or localised to bleeding site), and need for transfusion
+      - **Dental procedures** - ask about timing, site of bleeding, need for packing or additional interventions
+      - **Trauma** - note severity of bleeding, need for surgical intervention and need for transfusion
+  - **Menstrual Hx** - identify any Hx of heavy menstrual bleeding, which is particularly significant if:
+    - Use of excessive number of pads or tampons (subjective)
+    - Prolonged duration of menses (e.g. \> 8d)
+    - Presence of blood clots
+    - Development of iron-deficiency anaemia
+    - HMB resulting in hysterectomy at young age
+  - **Obstetrics Hx:**
+    - Note any early pregnancy loss
+    - Note any Hx of post-partum haemorrhage (vWF disease is a/w post-partum bleeding rather than bleeding during pregnancy as raised estrogen level can raise circulating bWF levels)
+  - **PMH** - underlying medical conditions may predispose to bleeding:
+    - <u>Malignancy</u> - may be attributed to malignancy itself (e.g. DIC in APML, CA pancreas), treatment (cytotoxic chemotherapy), or an autoimmune phenomenon (acquired haemophilia A due to B cell lymphoproliferative disorders)
+    - <u>Alcoholism</u> - **thrombocytopenia** with varying contributions such as direct cytotoxicity to megakaryocytes, hypersplenism from alcoholic cirrhosis, or liver-disease induced reduction of thrombopoietin
+    - <u>Liver and biliary disease</u> - defects in both primary and secondary haemostasis
+    - <u>Kidney disease</u> - defects of primary haemostasis due to uraemic platelt dysfunction
+    - <u>Connective tissue disease</u> - esp. immune mediated thrombocytopenia in SLE
+    - <u>Hypothyroidism</u> - acquired von Willebrand syndrome during hypothyroidism
+    - <u>Malabsorptive Sx</u> - can cause vitamin K deficiency
+  - **Drug Hx** - detailed including OTC medications as these may also exacerbate bleeding tendancy:
+    - <u>Antiplatelet therapy</u> - e.g. Aspirin, Clopidogrel, GpIIIa/IIb antagonists
+    - <u>Anticoagulants</u> - warfarin, heparin, DOACs
+    - <u>NSAIDs</u> - conventional NSAIDs will increase risk of bleeding
+  - **FHx:**
+    - <u>+ve FHx</u> - increases likelyhood of inherited bleeding disorder
+    - <u>-ve FHx</u> - does not eliminate possibility of inherited condition (e.g. AR conditions do not manifest in parents, haemophilia A may be a result of de novo germline mutations)
+- **Bleeding score** - standardized bleeding assessment tool (BAT) to codify the bleeding history:
+  - <u>Historical interest</u>:
+    - Initially devised for Dx and Mx of VWD which is based on molecular, clinical and interventional markers
+    - Subsequently international society of thrombosis and haemostasis released BATs which is validated in varying populations
+  - <u>ISTH Bleeding Assessment Tool</u>: 
+  ![](~/Documents/notes/img/itss_bats.png)
+  - <u>Validation</u>:
+    - Von Willebrand disease
+    - General bleeding evaluation
+    - Heavy menstrual bleeding with no structural or drug-cause
+    - Platelet disorders
+  - <u>Interpretation</u>:
+    - Low BAT score - predicts absence of bleeding disorder and can help limit Ix in individual w/ low likelihood of abnormal findings
+    - High BAT score - predicts presence of bleeding disorder and may predict increased risk of subsequent bleeding
+- **P/E** - targeted general inspection, abdominal or cardiac examination:
+  - **Cutaneous findings:**
+    - <u>Telangiectasia</u> - around lips, oral mucosa and finger tips suggestive of HHT
+    - <u>Bruises</u> - assess age of bruise by colour and risk of self-inflicted injury
+    - <u>Petechiae</u> - small, non-raised red spots especially in dependent areas (e.g. leg, sacrum) may be suggestive of thrombocytopenia (presence in arms, i.e. solar purpura are findings related to aging and not related to bleeding disorder)
+    - <u>Hair follicle changes</u> - perifolicular haemorrhage are seen in scurvy
+  - **Splenomegaly** - may reflect:
+    - Underlying portal HTN due to liver disease (check stigmata of chronic liver disease)
+    - Lymphoma
+    - Myeloproliferative neoplasm
+  - **Aortic stenosis** - cause of AVWS a/w GI AVMs
+- **Ix:**
+  - **Initial blood tests** - CBC, PBS, PT, aPTT
+  - **Additional tests for defectsi of secondary haemostasis:**
+    - Thrombin time (TT) and reptilase time (RT)
+    - Specific clotting factor assays
+    - 1:1 mixing test
+  - **Additional tests for defects of primary haemostasis:**
+    - <u>Testing for VWD</u> - vWF antigen, vWF function, factor VIII activity
+    - <u>Testing for platelet function</u> - platelet aggregation studies, PFA-100
+- **Approach to further Ix and workup** - dependent on presence of abnormal screening tests:
+  - **Abnormal initial screening test** - further assessment based on type of abnormalities
+    - <u>Thrombocytopenia</u> - details on evaluation discussed separately
+    - <u>Prolonged PT and aPTT</u> - suggests deficiency (or inhibitor) in common pathway, or combination of deficiencies affecting both intrinsic and extrinsic pathway
+    - <u>Prolonged PT and normal aPTT</u> - suggests deficiency (or inhibitor) in the extrinsic pathway, where mixing study is required to differentiate between a deficiency and an inhibitor
+    - <u>Prolonged aPTT and normal PT</u> - suggests deficiency (or inhibitor) in the intrinsic pathway
+  - **Normal initial screening test** - requires assessment for von Willebrand disease, platelet function disorders, vascular and connective tissue disorders
+
+## Subsequent testing based on initial clinical and laboratory features
+
+- **Approach to further Ix and workup** - dependent on presence of abnormal screening tests:
+  - **Abnormal initial screening test** - further assessment based on type of abnormalities
+    - <u>Thrombocytopenia</u> - diagnostic evaluation of thrombocytopenia
+    - <u>Prolonged PT and aPTT</u> - suggests deficiency (or inhibitor) in common pathway, or combination of deficiencies affecting both intrinsic and extrinsic pathway
+    - <u>Prolonged PT and normal aPTT</u> - suggests deficiency (or inhibitor) in the extrinsic pathway, where mixing study is required to differentiate between a deficiency and an inhibitor
+    - <u>Prolonged aPTT and normal PT</u> - suggests deficiency (or inhibitor) in the intrinsic pathway
+  - **Normal initial screening test** - requires assessment for von Willebrand disease, platelet function disorders, vascular and connective tissue disorders
+
+### Positive bleeding history and abnormal clotting profiles
+
+1.  Prolonged PT and aPTT
+
+    - **Definition** - prolonged PT and aPTT reflects:
+      - <u>Deficiency or inhibitor in the common pathway</u> - e.g. X, V, II (prothrombin) or I (fibrinogen)
+      - <u>Combined deficiency or inhibitor affecting both intrinsic and extrinsic pathways</u> - e.g. severe vitamin K deficiency, liver disease, Acute DIC
+    - **DDx of prolonged PT and aPTT:**
+      - **Inherited disorders** (rare) - deficiency of factor X, V, prothrombin and fibrinogen (afibrinogenaemia)
+      - **Acquired disorder:**
+        - <u>Deficiency of the common pathway</u>:
+          - Amyloidosis-related factor X deficiency
+        - <u>Inhibitors of the common pathway</u>:
+          - DOACs - direct thrombin inhibitors (dabigatran), direct Xa inhibitors (apixaban, edoxaban, rivaroxaban)
+          - Acquired inhibitors of the common pathway (a/w pregnancy, malignancy or connective tissue disorder)
+        - <u>Combined deficiency of intrinsic, extrinsic and common pathway</u>:
+          - Decompensated liver failure (deficiency in II, V, VII, IX, X, XI)
+          - Severe vitamin K deficiency (required in activation of II, VII, IX and X)
+          - Warfarin (some assays may produce isolated prolonged PT, while some will cause prolongation in both PT and aPTT)
+          - Disseminated intravascular coagulopathy (DIC)
+    - **Approach to prolonged PT and aPTT** - further Ix to assess for liver disease, DIC +/- deficiency of the common pathway:
+      - LFT
+      - Fibrinogen level and D-dimer
+      - Mixing test
+      - Specific clotting factor assay (X, V, II, fibrinogen)
+
+2.  Isolated prolonged PT
+
+    - **Definition** - prolonged PT reflects deficiency or inhibitor of the extrinsic pathway, particularly factor VII
+    - **DDx of isolated prolonged PT:**
+      - **Inherited disorders** (extremely rare) - congenital factor VII deficiency
+      - **Acquired disorder:**
+        - <u>Acquired factor VII deficiency</u> - often precedes deficiency of other coagulation factor in common and intrinsic pathway as **factor VII has the shortest halflife**:
+          - Decompensated liver disease
+          - Mild vitamin K deficiency
+          - Warfarin use
+          - Disseminated intravascular coagulopathy
+        - <u>Acquired inhibitors of factor VII</u> - extremely rare, but r/o by mixing studies
+    - **Approach to prolonged PT and aPTT:**
+      - 1:1 mixing studies (r/o inhibitors)
+
+3.  Isolated prolonged aPTT
+
+    - **Definition** - isolated prolonged aPTT reflects deficiency or inhibitor of intrinsic pathway
+    - **DDx of isolated prolonged aPTT:**
+      - **Inherited disorders:**
+        - <u>Inherited haemophilia A</u> (X-linked) - congenital factor VIII deficiency
+        - <u>Haemophilia B</u> (X-linked) - congenital factor VIII deficiency
+        - <u>Factor XI deficiency</u> - rare AD disorder in Ashkenazi Jewish ancestry
+        - <u>Von Willebrand disease</u> (Autosomal dominant) - generally a/w normal aPTT but slightly elevated aPTT may be seen in severe disease or type 2N disease
+      - **Acquired disorders:**
+        - <u>Anticoagulant</u> - heparin typically causes isolated prolonged aPTT, as can certain DOACs though less reliably
+        - <u>Acquired haemophilia A</u> - acquired factor VIII diseaes may be seen in pregnancy, malignancy, CTD or in older individuals
+        - <u>Lupus anticoagulant</u> - anti-phospholipid syndrome a/w lupus anticoagulant that results in prolonged aPTT, but is **a/w a thrombotic tendancy**
+        - <u>Malignancies</u> - resulting in production of heparin-like anti-coagulants
+    - **Approach to isolated prolonged aPTT:**
+      - 1:1 mixing test
+      - If mixing corrects:
+        - Assay for factor VIII, IX, XI, XII
+      - If mixing does not correct:
+        - Lupus anticoagulant
+        - Factor VIII activity
+
+### Positive bleeding history and normal initial screening testing
+
+- **Definition** - clinically suspected bleeding disorder despite having normal PLT, PT and aPTT
+- **DDx of patients w/ bleeding tendancy but normal initial screening** - up to 30-60% of patients sent to tertiary centres will have a negative evaluation:
+  - <u>Von Willebrand disease</u> - inherited von Willebrand disease (most common) or acquired von-Willebrand syndrome
+  - <u>Platelet function disorders</u> - acquired (esp. drug use), or congenital
+  - <u>Disorders of fibrin cross-link formation and fibrinolysis</u>:
+    - Inherited factor XIII deficiency
+    - Disorders of fibrinolysis - congenital (e.g. deficiency of anti-fibrinolytic agents) or acquired (e.g. hyperfibrinosis in APML, DIC or prostate cancer)
+  - <u>Vascular or connective tissue disorders</u> - e.g. HHT, Scurvy, Vascular Ehlers-Danlos syndrome, osteogenesis imperfecta
+- **Ix:**
+  - **VWD testing** - including plasma VWF antigen, plasma VWF activity, plasma factor VIII activity, analysis of multimers:
+    - **Components of WVD testing:**
+      - <u>Plasma VWF Ag</u> (VWF:Ag)
+      - <u>Plasma VWF activity</u> (VWF:RCo, Gp1b binding activity, or VWF:CB) - assess binding actiivity of vWF to collagen or glycoprotein
+      - <u>Plasma factor VII activity</u> - impaired protection of factor VIII results in reduced levels of factor VIII despite normal aPTT
+      - <u>Analysis of monomers</u> - indicated if VWF:RCo to VWF:Ag ratio \< 0.7, i.e. suggestive of a dysfunctional VWF
+
+      
+      ![](~/Documents/notes/img/assays_for_diagnosis_of_vwd.png)
+    - **Interpretations** - level of VWF dependent on blood group, estrogen, stress, exercise, inflammation or ongoing bleeding, hence repeated assays may be required
+  - **Platelet function testing** - usually no drug-induced or acquired causes identified:
+    - <u>Platelet aggregation studies</u> - platelet aggregation studies measure platelet aggregation induced by known agonists (e.g. ADP, collagen, thrombin, epinephrine), useful in distinguishing congenital disorders
+    - <u>PFA-100</u> - platelet function analyser measures time taken for blood flow to stop under shear stress in tube containing agonists for haemostasis
+    - <u>Genetic testing</u> - for known platelt function disorders
+    - <u>Electron microscopy</u> - visualisation of ultrastructure of platelet granules in suspected platelet storage pool diseases
+  - **Ix for disorders of fibrin cross link and fibrinolysis:**
+    - Factor XIII assay
+    - D dimer and fibrinogen assay for hyperfibrinolysis

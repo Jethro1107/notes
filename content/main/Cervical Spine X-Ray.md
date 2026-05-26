@@ -1,0 +1,57 @@
+---
+id: 17011fbf-b182-4102-ae26-d6ed23697579
+title: Cervical Spine X-Ray
+---
+
+# Cervical Spine X-Ray
+
+- **Approach to interpretation of Cervical X-Ray:**
+    - Patient details, date taken
+    - Views
+    - Coverage and adequacy
+    - Systematic interpretation of cervical X-ray
+- **Coverage and adequacy:**
+    - Ensure coverage from skull-base to C7/T1 junction (C7/T1 junction common site of injury due to transition from flexible C-spine to rigid T-spine)
+    - Swimmer's view by abduction and flexion of shoulder for evaluation of C7/T1 junction
+- **Systematic interpretation of cervical X-Ray:**
+    - Allignment
+    - Bone (height, contour, fractures, radio-opacity)
+    - Collapse of vertebrae
+    - Disc space
+    - End plates
+    - Facet joints
+- **Alligment** - detection of olisthesis:
+    - **Interpretation of allignment** - ensure continuity of 4 lines:
+        - <u>Anterior vertebral line</u> - anterior aspect of VB
+        - <u>Posterior vertebral line</u> - posterior aspect of VB
+        - <u>Spinolaminar line</u> - posterior extent of spinal canal
+        - <u>Spinous process tip</u> - along spinous processes
+    - **Causes of broken allignment** - olisthesis, which may be:
+        - Degenerative
+        - Traumatic
+- **Measurement of cervical alignment** - to detect abnormal kyphosis or lordosis:
+    - <u>Required films</u> - lateral weight-bearing films (e.g. standing or sitting)
+    - <u>Technique</u> - measure C2-C7 angle, which is angle between:
+        - Perpendicular line from inferior endplate of C2
+        - Perpendicular line from inferior endplate of C7
+    - <u>Normal cervical lordosis</u> - around 15-20%
+- **Bone evaluation** - evaluation of height, contour and radio-opacity of each vertebrae:
+    - <u>Bone height</u> - each cervical VB equal height except for C2 dens (which is elongated)
+    - <u>Bone contour and radio-opacity</u> - detection of destructive lesions
+- **Disc space evaluation** - assessment of the height of disc spaces on lateral +/- facilitation by oblique view:
+    - **Lateral view** - assessment of <u>disc space</u>:
+        - In normal view, disc between each vertebrae should be roughly equal
+        - Disc space narrowing or collapse may arise from focal pathology
+    - **Oblique view** - assessment of <u>neuroforamina</u> if evident disc-space collapse to account for Sx
+- **Paravertebral soft tissue evaluation** - evaluation of <u>paravertebral soft tissue swelling</u>:
+    - **Normal paravertebral soft tissue thickness:**
+        - <u>At level of C2</u> - 6mm, or \< 1/2 vertebral depth
+        - <u>At level of C6</u> - 22mm, or \< 1 vertebral depth
+- **Assessment of cervical stenosis** - causes of narrowing of the cervical canal:
+    - <u>Mid sagittal diameter</u> - distance between posterior surface of VB and anterior surface of lamina
+    - <u>Dynamic stenosis</u> - distance between popstero-inferior corner of VB, to anterosuperior edge of lamina
+    - <u>Olisthesis</u> - loss of continuity of the posterior vertebral line
+- **Roles of dynamic C-spine views** - obtain flexion and extension views to assess dynamic instability:
+    - <u>Translation</u> - \> 3.5 mm of anterior-posterior movement between vertebrae is considered unstable
+    - <u>Angulation</u> - \> 11 degree change in angulation between adjacent vertebrae is abnormal
+    - <u>Assessment of stenosis</u> - narrowing on dyamic views may indicate risk of atlantoaxial instability

@@ -1,0 +1,186 @@
+---
+id: 33d1e4f6-6618-457d-a105-388cb82735c5
+title: 2025-06-23
+---
+
+# Advanced Cardiac Life Support - Literature Search on UpToDate
+
+- **Reference:**
+  - [Advanced Cardiac Life Support (ACLS) in Adults](https://www.uptodate.com.eproxy.lib.hku.hk/contents/advanced-cardiac-life-support-acls-in-adults?search=advanced%20cardiac%20life%20support&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1)
+- **Nature of evidence** - few evidence is supported based on randomised control trials due to nature of resuscitation:
+  - Observational studies
+  - Animal studies
+  - Expert Consensus
+- **Principles of management:**
+  - <u>Basis on excellent BLS</u> - excellent cardiopulmonary resuscitationand early defibrillation for shockable rhythms remain the cornerstone in ACLS, with additional roles of medications and monitoring that enable advanced-life support within hospital scenario
+  - <u>Resuscitation team management</u> - principles of Crisis Resource Management (CRM) adapted from aviation industry and introduced into medical care by anaesthesiologists providse algorithmic pathways that **decrease disorgniation and improves patient outcomes**
+
+## Management of cardiac arrest
+
+- **Definition of cardiac arrest** - unresponsiveness and loss of pulse
+- **Principles of Mx of cardiac arrest:**
+  - <u>Order of importance during resuscitation</u> - circulation assumes more prominent role over airway and breathing (C-A-B) in initial Mx of cardiac arrest as DO2 is primarily limited by absence of cardiac output
+  - <u>Circulation</u> - High-quality CPR and defibrillation takes presedence over medications contrary to common belief in their role to achieving ROSC
+  - <u>Airway and breathing</u> - airway opening and rescue breathing can initially be achieved through bag-valve-mask ventilation (BVM) or supraglottic airway (SGA) after initiation of excellent CPR; **ET intubation is generally deferred after ROSC during post-arrest care**
+- **Airway management:**
+  - **Approach to airway Mx:**
+    - <u>Bag-valve-mask device</u> (BVM) - compression to ventilation is 30:2 (mechanics of BVM is unable to maintain adequate tidal volume during active compressions)
+    - <u>Advanced airway Mx</u> - supraglottic airways (SGA) such as naso-laryngeal and oro-laryngeal airways can be inserted to allow for **non-synchronised ventilation** at rate of 10 breaths per minute (6s per breath)
+  - **Effects of over-ventilation:**
+    - <u>Gastric inflation</u> - increased risk of regurgitation and aspiration
+    - <u>Elevation of intra-thoracic pressure</u> - impedes venous return, ventricular filling and CO by compressions, resulting in inadequate cerebral perfusion (circulation takes precedence)
+  - **O2 delivery:**
+    - <u>During resuscitation</u> - reasonable to give 100%
+    - <u>During post-cardiac arrest care after ROSC</u> - titrated to keep SpO2 \>= 94% (hyperoxia theoretically increase risk of oxidative brain injury after ROSC but observational studies are in favour of titrating to higher SpO2)
+- **Medications used during CPR:**
+  - **Epinephrine** (Adrenaline) - IV/IO 1 mg:
+    - <u>Indications</u> - indicated for all cardiac arrest irrespective of rhythm
+    - <u>Timing</u> - every 3-5 min:
+      - PEA/ Asystole - 1st dose ASAP
+      - VF/pVT - 1st dose after 2 min of CPR in shockable rhythms
+    - <u>MOA</u> - vasoconstriction via alpha-1 agonism (increased diastolic BP to maintain coronary and cerebral perfusion at cost of peripheral perfusion)
+  - **Antiarrhythmic agent** - amiodarone and lidocaine:
+    - <u>Dosing</u>:
+      - **Amiodarone** - IV/IO bolus 300mg, with repeated dose of 150mg as indicated
+      - **Lidocaine** - Iv/IO bolus 1-1.5mgkg, with repeated dose 0.5-0.75mg/kg
+    - <u>Indications</u> - for refractory VF/ pVT
+    - <u>Timing</u> - given after 2nd unsuccessful defibrillation in anticipation of 3rd shock (esp. in those w/ witnessed arrest due to shorter time to administration)
+  - **Magnesium** - IV/IO bolus 2g, repeated once, followed by maintenance infusion:
+    - <u>Indications</u> - routine use not recommended, only inducated for polymorphic VT consistent with torsade de pointes
+
+## Management of symptomatic bradycardia with a pulse
+
+- **Definition and terminology:**
+  - <u>Bradycardia</u> - defined as HR \< 60bpm
+  - <u>Symptomatic bradycardia</u> - defined as bradycardia that causes patient to exhibit evidence of inadequate perfusion, usually entails HR \< 50bpm:
+    - Hypotension
+    - Altered mental status - including lightheadedness, pre-syncopal sensation and syncope
+    - Signs of shock
+    - Ongoing ischaemic chest pains
+    - Acute heart failure - evidence of acute pulmonary oedema
+  - <u>Etiology of bradycardia</u> - H's and T's:
+    - Hypoxia
+    - Hyperkalaemia
+    - Toxicologic - overdose of beta-blockers, calcium-channel blckers, digoxin
+    - Inferior myocardial ischaemia
+- **Clinical approach to bradycardia:**
+  - <u>General measures</u> - Establish monitoring (Oximetry, cardiac monitoring), O2 if hypoxaemia, vascular access (IV/IO)
+  - <u>Focused assessment of haemodynamic instability</u> - check pulse:
+    - **Sx** - ongoing ischaemic chest discomfort, lightheadedness, presyncope, syncope, dyspnoea (APO)
+    - **Signs** - hypotension, signs of shock (e.g. deminished capillary refill), APO (basal crepitations)
+  - <u>Mx options</u> - immediate synchronised cardioversion or 12-lead ECG (see below)
+- **Approach to Mx of bradycardia:**
+  - <u>Stable bradycardia</u> - monitor and observe
+  - <u>Symptomatic bradycardia</u> - atropine, transcutaneous pacing +/- chronotropic agents
+- **Atropine:**
+  - <u>Dosing</u> - IV 1mg, repeated every 3-5 min to a total dose of 3mg
+  - <u>Absolute indications</u> - symptomatic bradycardia due to:
+    - High vagal tone - e.g. inferior myocardial ischaemia due to ACS
+    - Medication-induced bradycardia - e.g. overdose of beta-blockers, calcium channel blockers, digitalis
+    - High-degree AV block with narrow QRS complex - thought to emanate at or above the AV node as suggested by the QRS width
+  - <u>Limitations</u>:
+    - Mobitz-II or 3rd-degree AV block - pathology resides below AV node and is not subjected to vagal control
+- **Transcutaneous pacing:**
+  - <u>Indications</u> - initiated if persistent symptomatic bradycardia after atropine
+  - <u>Precaution</u> - appropriate sedation and analgesia for conscious patients
+- **Chronotropic agents** - IV dopamine vs epinephrine indicated if atropine administration and pacing not successful in alleviating Sx:
+  - **Dopamine:**
+    - <u>MOA</u>:
+      - beta-1 agonism (selective at lower doses) - positive chronotrophic effect
+      - alpha-1 agonism (occurs at higher doses) - vasoconstrictive effect (note initial vasodilatory effects at lower doses)
+    - <u>Dosing</u> - 5-20 mcg/kg/min titrated against patient's clinical response
+    - <u>Precaution</u> - low dose may precipate hypotension
+  - **Epinephrine** - preferred over dopamine in concomittant hypotension:
+    - <u>MOA</u> - beta-1 and alpha-1 agonist
+    - <u>Dosing</u> - 2-10 mcg/min IV infusion
+
+## Management of symptomatic tachycardia with a pulse
+
+- **Definition and terminology:**
+  - <u>Tachycardia</u> - defined as HR \> 100 bpm
+  - <u>Symptomatic tachycardia</u> - defined as tachycardia that causes patient to exhibit evidence of inadequate perfusion, usually entails HR \> 150 bpm:
+    - Hypotension
+    - Altered mental status - including lightheadedness, pre-syncopal sensation and syncope
+    - Signs of shock
+    - Ongoing ischaemic chest pains
+    - Acute heart failure - evidence of acute pulmonary oedema
+- **Clinical approach to tachycardia:**
+  - <u>General measures</u> - Establish monitoring (Oximetry, cardiac monitoring), O2 if hypoxaemia, vascular access (IV/IO)
+  - <u>Focused assessment of haemodynamic instability</u> - check pulse:
+    - **Sx** - ongoing ischaemic chest discomfort, lightheadedness, presyncope, syncope, dyspnoea (APO)
+    - **Signs** - hypotension, signs of shock (e.g. deminished capillary refill), APO (basal crepitations)
+  - <u>Mx options</u> - immediate synchronised cardioversion or 12-lead ECG (see below)
+
+  
+  ![](~/Documents/notes/img/acls_approach_to_tachycardia.png)
+- **Approach to Mx of tachycardia** - based on haemodynamic instability of patient:
+  - <u>Unstable tachycardia</u> - treated with immediate synchronized cardioversion unless sinus tachycarida; IV 6mg adenosine for some cases of SVT
+  - <u>Stable tachycardia</u> - rhythm analysis on ECG to determine best course of action
+- **Approach to unstable tachycardia** - <u>immediate synchronised cardioversion</u>:
+  - <u>Indications</u> - all unstable tachycardia that is not sinus tachycardia:
+    - Unstable SVT (consider adenosine for SVT)
+    - Unstable AF
+    - Unstable AFlu
+    - Unstable WCT
+  - <u>Precaution</u> - pre-medication with sedatives and analgesics for all conscious patients
+- **12-lead ECG interpretation** - 3 questions must be answered to guide subsequent Mx:
+  - <u>Is the patient in sinus rhythm</u> - no targeted Tx for sinus tachycardia with focus on treating underlying cause
+  - <u>Is the QRS complex wide or narrow</u> - decision point between Tx as SVT or WCT
+  - <u>Is the rhythm regular or irregular</u> - reflects potential underlying etiology
+- **Mx of stable regular NCT:**
+  - <u>Etiology of regular NCT</u>:
+    - Sinus tachycardia
+    - Paroxysmal SVT
+    - Non-re-entrant SVT
+  - **Trial of vagal maneuvers** - employed on appropriate patients while other therapies are prepared:
+    - <u>Efficacy</u> - 25% of SVTs converted to sinus rhythm
+    - <u>Types of vagal maneuver</u>:
+      - Valsalva maneuver - forced exhalation against a closed clottis (nose pinched, mouth closed, bear down)
+      - Carotid sinus massage
+  - **Adenosine** - indicated if failed vagal maneuvers:
+    - <u>Dosing</u> - lower doses into central vein for heart transplant patients (3mg):
+      - 1st dose - IV bolus 6mg followed by 20ml saline flush (+/- elevation of extremity to ensure drug enters central circulation)
+      - 2nd dose - IV bolus 12mg
+    - <u>S/E</u> - brief but distressing and requires warning the patient:
+      - Dysphoria
+      - Dyspnoea
+      - Chest discomfort
+      - Flushing
+    - <u>Continuous ECG monitoring after administration</u>:
+      - Assessment if SVT is aborted
+      - Reveals underlying rhythm (e.g. AFlu) after nodal blockade
+  - **Rate control** - non-DHP CCB or BBs:
+    - <u>Indications</u> - rate control if adenosine does not convert SVT
+    - <u>Selection and Dosing</u>:
+      - **Non-DHP CCBs** - diltiazem (10-20mg IV over 2 min, repeat 20-25 mg IV after 15 min), verapamil (2.5-5mg IV over 2 min, repeat 5-10mg IV every 15-30 minutes)
+      - **BBs** - metoprolol (5mg IV every 2-5 min for 3 doses, 200mg oral q12h), atenolol, esmolol, blabetalol
+    - <u>Precaution</u> - ensure patient remains haemodynamically stable (not in APO)
+- **Mx of stable irregular NCT** - most commonly new-onset AF:
+  - **No role of vagal maneuvers and adenosine** - these cannot abort rhythm through inducing nodal blockade
+  - **Rate control** - non-DHP CCB or BBs:
+    - <u>Indications</u> - rate control if adenosine does not convert SVT
+    - <u>Selection and Dosing</u>:
+      - **Non-DHP CCBs** - diltiazem (10-20mg IV over 2 min, repeat 20-25 mg IV after 15 min), verapamil (2.5-5mg IV over 2 min, repeat 5-10mg IV every 15-30 minutes)
+      - **BBs** - metoprolol (5mg IV every 2-5 min for 3 doses, 200mg oral q12h), atenolol, esmolol, blabetalol
+    - <u>Precaution</u> - ensure patient remains haemodynamically stable (not in APO)
+    - <u>Monitoring</u> - monitor for hypotension (consider lower doses)
+- **Mx of regular WCT:**
+  - **Adenosine:**
+    - <u>Indications</u> - stable, regular, monomorphic WCT (never give if unstable, irregular or polymorphic)
+  - **Anti-arrhythmic infustion:**
+    - **Procainamide** - Class I anti-arrhythmic:
+      - <u>Dosing</u>:
+        - 20-50 mg/min until:
+          - Arrhythmia suppressed
+          - Hypotension
+          - QRS duration \> 50%
+          - Maximum dose 17 mg/kg
+        - 1-4mg/min maintenance infusion
+      - <u>Caution</u> - avoid if prolonged QTc, or CHF
+    - **Amiodarone** - Class III anti-arrhythmic:
+      - <u>Dosing</u>:
+        - First dose - 150mg over 10 min (repeat as needed if VT reccurs)
+        - Maintenance infusion - 1mg/min for first 6h
+    - **Sotalol:**
+      - <u>Dosing</u> - 100mg (1.5mg/kg) over 5 min
+      - <u>Caution</u> - avoid if prolonged QT

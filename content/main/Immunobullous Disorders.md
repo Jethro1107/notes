@@ -1,0 +1,18 @@
+---
+id: 4a81a5cd-981f-40d3-93b6-2897783fa333
+title: Immunobullous Disorders
+---
+
+# Immunobullous Disorders
+
+- **Definition** - heterogenous group of blistering disorders w/ an immunological basis
+- **Common immunobullous diseases** - differentiated by clinical features, serology and age of onset:
+    - Bullous pemphigoid
+    - Pemphigus
+    - Dermatitis herpetiformis
+    - Linear IgA disease
+    - Epidermolysis bullous
+    - Bullous lupus erythromatosus
+
+  ![](../img/age_of_onset_of_immunobullous_disorders.png) 
+  ![](../img/clinical_features_and_ix_findings_of_immunobullous_disorders.png)

@@ -1,0 +1,134 @@
+---
+id: b78b82fe-df80-403b-80be-490261d13f30
+title: Plasma Cell Dyscrasia
+---
+
+# Plasma cell dyscrasia
+
+## Monoclonal Gammopathy of Uncertain Significance
+
+- MGUS - typically an asymptomatic paraproteinaemia caused by pre-malignant clone of plasma cell or lymphoproliferative disorders, but with the absence of features of multiple myeloma, Waldenstrom macroglobulinaemia or lymphomas.
+- **Epidemiology:**
+  - Incidence - 5% of population \> 50y, incidence increases with age
+- **Clinical definition:**
+  - Paraproteinaemia - \< 3g/dL
+  - BM plasma cell \< 10% of BM cellularity
+  - Absence of target organ damage and defining biomarkers - Hypercalcaemia, renal impairments, anaemia, bone lytic lesions
+  - r/o differentials of paraproteinaemia - lymphoma, and AL amyloidosis
+- **Types of MGUS:**
+  - Non-IgM MGUS (IgG, IgA, IgD) - typically progresses into smouldering myeloma and symptomatic myeloma (1%/y), and less frequently into AL amyloidosis, light chain deposition disease or lymphoproliferative diseases
+  - IgM MGUS - typically progresses into Waldenstrom macroglobulinemia, and less frequently lymphomas, AL amyloidosis, and very rarely IgM MM
+  - Light chain MGUS - typically progresses into MM and AL amyloidosis
+- **Initial evaluation of MGUS** (r/o other ddx):
+  - CBC
+  - LRFT
+  - CaPO4
+  - SPE +/- Immunofixation
+  - FLC assay
+  - Ig Pattern (look for immunoparesis)
+- **Risk of progression to MM** - 1%/y
+  - Size of paraproteinaemia
+  - Type of paraprotein - IgA \> light chain \> IgG
+  - FLC ratio - Approaching 100 (bad prognostic marker)
+  - Rate of rise of paraproteinaemia - typically requires reassessment of disease
+  - Bone marrow morphology
+
+## Multiple myeloma
+
+- **Epidemiology:**
+  - 1% of all malignancies, 10% of haematological malignancies
+  - Incidence - 4/100000/y
+  - Demographic - Median age of Dx 6-7th decade of life, M:F = 2:1
+- **Pathogenesis of MM**
+  - **Neoplasm of plasma cells** - neoplastic proliferation of a single clone of terminally differentiated plasma cells (post-GC plasma cells that have undergone class switching and somatic hypermutation)
+    - Clonal expansion of plasma cells produce:
+      - Monoclonal Ig - paraproteins in serum and urine
+        - Paraprotein - detected by serum protein electrophoresis
+        - Underlies cast nephropathy
+      - Cytokines (?RANKL) - causing osteolytic bone lesions and hyperCa
+      - Cytokines that suppress haematopoesis
+  - **Many genetic events within B cells predispose to mutations** - VDJ rearrangement, somatic hypermutation, class switching
+  - **Primary genetic change results in formation of MGUS** - causes clonal expansion of plasma cells
+    - IGH translocation on chromosome 14q32 (40-50% cases) - causes juxtaposition of IGH locus with oncogene:
+      - 11q13 – cyclin D1 (<u><u>CCND1</u></u>)
+      - 6p21 – cyclin D3 (<u><u>CCND3</u></u>)
+      - 4p16.3 – multiple myeloma set domain (<u><u>MMSET</u>\_/\_<sub>WHSC1</sub>\_</u>)
+      - 16q23 – musculoaponeurotic fibrosarcoma (<u><u>C-MAF</u></u>)
+      - 20q11 – musculoaponeurotic fibrosarcoma oncology family, protein B (<u><u>MAFB</u></u>)
+    - Hyperdiploidy with trisomies involving odd chromosomes (3, 5, 7, 9, 11, 15, 19)
+  - **Secondary genetic changes results in progression of MGUS into MM:**
+    - Secondary mutations required (secondary translocations, p16 methylation, Myc abnormalities, NF-kappaB activation mutations) - immortilization of plasma cells
+  - Bone marrow environment plays key role in development of MM
+    - Cytokines from osteoblast/ osteoclast may play a role in myeloma cell growth.
+      - Implications - extra-medullary MM are difficult to treat, becomes independent to bone-derived cytokines
+  - **Pathogenesis of end-organ damage**
+    - **Osteolytic bone lesions and hypercalcaemia** - caused by stimulation of osteoclast activity (increased RANKL expression and decreased OPG expression) and suppression of osteoblast (increased IL-3, IL7, DKK1)
+    - **Renal Insufficiency**:
+      - Cast nephropathy (most common mechanism) - precipitation of light chain casts in renal tubules, inducing interstitial nephritis
+      - Hypercalcaemia - dehydration and pre-renal AKI
+      - Nephrotic syndrome - due to deposition of light/ heavy chains onto glomeruli
+    - **NcNc Anaemia** - due to 1) Marrow infiltration, 2) Reduced erythropoietin stimulation, and 3) Haemodilution (characterised by Rouleaux formation)
+- **Clinical features of MM**
+  - **Myeloma-defining features**
+    - **NcNc Anaemia** (73% at presentation, 97% in natural Hx) - ocassionally a/w pancytopenia due to marrow suppression
+    - **Bone pain** (58%) - osteolytic bone disease can cause bone pain and pathological fracture
+      - **Site** - Typically axial skeleton rather than extremites
+      - **Exacerbating factors** - movement, but relieved by rest (less common at night during sleep)
+      - **Severity** - typically mild to moderate
+    - **Renal insufficiency** (50%) - Varying degree of impairment, only 20% meet myeloma-defining renal impairments (SCr \> 177 micromol/L or eGFR \< 40 ml/min)
+    - **HyperCa** (28%) - facticious hyperCa can occur due to binding of Ca to paraproteins, recheck ionised Ca if asymptomatic
+  - Other clinical manifestations:
+    - **Neurological manifestations**
+      - Spinal cord compression (5%) - Severe back pain, bilateral LL weakness, sensory level and autonomic dysfunction, rom 1) vertebral collapse, or 2) extradural mass, likely an extramedullary plasmacytoma
+      - Hyperviscosity (due to IgM MM) - oronasal bleeding. blurred vision due to retinal bleeding, HF, and cerebral ischaemia
+      - Radiculopathy (most common neurological complications) - caused by paravertebral plasmacytoma or vertebral collapse
+      - Peripheral neuropathy - typically co-existing AL amyloidosis, or POEMS syndrome
+    - **Infections** - typically due to immunoparesis
+- **Evaluation of suspected MM**
+  - Hx - Hx eliciting information regarding potential malignancy and end organ damage
+  - P/E - detailed neurological exam
+  - Ix - see below
+- **Ix in MM**
+  - **Routine Blood Test**
+    - **CBC** - NcNc anaemia (rarely macrocytic) +/- Pancytopenia
+    - **PBS** - Rouleaux formation (\> 50%), indicative of paraproteinaemia
+    - **LFT** - reversed A:G ratio, ALP (indication of fractures), Albumin (adjsuted Ca, and poor prognostic factors)
+    - **RFT** - increased SCr, BUN, reduced eGFR, electroolytes
+    - **ESR** - non-specifically elevated
+    - **CaPO4** - hyperCa
+    - **Ig pattern** - Monoclonal increase in one class, and reduced normal serum Ig levels
+  - **Detection and quantification of M-protein**:
+    - **Serum protein electrophoresis +/- immunofixation** - SPE for identification of paraproteinaemia and immunofixation for subtype (IgG 52%, IgA 21%, Bence Jones 16%, IgD, Biclonal, IgM, non-secretory MM)
+    - **Serum free light chain (FLC) assay** - measurement of kappa and lambda light chains unbounded to heavy chains, detection of kappa- or lambda- restricted MM
+    - **Urine protein electrophoresis +/- immunofixation** - 24h urine collection for UPE, immunofixation, and quantification.
+  - **Bone Marrow Examination**
+    - Clonal BM plasma cell \>= 10% (diagnostic) - not necessary if biopsy proven extramedullary plasmacytoma
+      - **Immunophenotyping** (FISH) - +ve for markers of plasma cells e.g. CD38, CD45, CD138
+      - **Cytogenetics** - trisomies, IGH translocation
+  - **Radiological assessment**
+    - **Skeletal survey** - conventional modality of imaging but are replaced by more advanced imaging techniques, now reserved for individuals C/I for other modalities
+      - **X Ray at different sites** - PA chest, AP and lateral view of C-spine, thoracic spine, lumbar spine, humeri, femora, AP and lateral view of skull (salt and pepper lesions)
+      - **Findings** - punched-out lytic lesions (salt and pepper lesion of skull), Diffuse osteopenia, pathological fractures
+    - **Cross-Sectional Imaging** - WB PET-CT, WB MRI, WB low-dose CT (now preferred due to increased sensitivity)
+  - **Prognostic markers** at diagnosis (ISS staging):
+    - Serum beta-2 microglobulin
+    - LDH
+    - Albumin
+- **Diagnostic criteria of multiple myeloma**
+  - **Evidence of paraproteinaemia** - serum and/or urinary M-protein (\>= 3g/dL)
+  - **Clonal BM plasma cell expansion** - \>= 10% of BM cellularity is diagnostic, or biopsy proven extramedullary plasmacytoma
+  - **\>= 1 myeloma defining events**:
+    - **Hypercalcaemia** - \> 0.25 mmol above ULN
+    - **Renal insufficiency** - SCr \> 177 micromol/L or eGFR \< 40ml/min
+    - **Anaemia** (NcNc) - \< 10g/dL or 2g/dL below LLN
+    - **Bone lesions** - Osteolytic bone disease demonstrated on radiological assessment (PET-CT, MRI, CT, skeletal survey)
+  - **Myeloma-defining biomarkers** (if no evidence of target organ damage):
+    - BM plasma cell \> 60% BM cellularity
+    - FLC ratio \>= 100 w/ involved free light chain \>= 100 mg/L
+    - One or more focal lesions (\>= 5mm) on MRI
+- **Staging** (R-ISS)
+  - ISS staging - integrates laboratory findings (beta-2 microglobulin and albumin) only
+  - R-ISS staging - integrates laboratory (with addition of LDH), cytogenetic findings
+    - Stage I (5yOS 82%) - ISS stage I, normal LDH and standard risk mutations
+    - Stage II (5yOS 62%) - Not R-ISS stage I or III
+    - Stage III (5yOS 40%) - ISS stage 3 and either high LDH or high-risk mutations on FISH

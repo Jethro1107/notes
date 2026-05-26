@@ -1,0 +1,26 @@
+---
+id: 7411d67b-ffc2-496f-b75b-cca59832baf9
+title: Turner's Syndrome
+---
+
+# Turner's Syndrome
+
+- **Definition** - clinical syndrome w/ host of features classically a/w 45XO karyotype, but other mosaics form are possible
+- **Epidemiology** - 1 in 2500 female
+- **Clinical features of Trner syndrome:**
+    - **Short stature** - proportional short stature often a presenting symptom from early age, attributable to <u>haploinsufficiency of SHOX gene</u> on both X and Y chromosomes
+    - **Hypergonadotrophic hypogonadism** - variable <u>ovarian dysgenesis</u> from the 3rd mo of gestation with accelerated degeneration of oocytes and increased ovarian stromal fibrosis, the severity depends on the underlying cytogenetic abnormality
+    - **Gonadoblastoma** - increased risk of this rare mixed germ cell-sex cord-stromal tumour as gonadal dysgenesis
+    - **Associated somatic abnormalities** - severity depends on the underlying somatic abnormalitie:
+        - <u>Structural heart disease</u> - e.g. coarctation of aorta, aortic root dilatation, bicuspid aortic valve
+        - <u>Other endocrinopathies</u> - e.g. autoimmune thyroid disease (20%), T2DM/ IGT (10-30%)
+
+    
+    ![](../img/clinical_features_of_turner_syndrome.png)
+- **Ix and Dx** - confirmed by karyotyping
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Mx of growth stature</u> - may respond to high doses of growth hormone
+        - <u>Induction of puberty and maintenance estrogen</u> - induced pubertal development w/ estrogen therapy **timed carefully** as will result in fusion of epiphysis, with maintenance estrogen therapy during adulthood
+        - <u>Prophylactic gonadectomy</u> - recommended for individuals with 45XO/46XY mosaicism due to increased risk of gonadoblastoma
+        - <u>Monitoring for somatic complications</u> - esp. monitor for cardiac complications and hearing loss

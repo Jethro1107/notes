@@ -1,0 +1,159 @@
+---
+id: 42b7a7e9-153f-426f-a3b8-1f43c36dea0e
+title: 2025-02-13
+---
+
+# GC212 Weight loss and vomitng, gastric cancer, abdominal imaging <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span> <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span>
+
+- ****3 concepts of mechanical GI obstruction:****
+    - Obstruction of a tubular structure - intra-luminal, mural, extramural
+    - Clinical presentation:
+        - Sequence of presentation differs for different level of obstruction
+        - Nature of vomitus (bie-stained or not) dipends on relation to ampulla of vater
+- ****Clinical presentation of upper GI obstruction:****
+    - Vomiting - depending on relations w/ D2 and ampulla of vater:
+        - Billous - distal to ampulla of vater
+        - Non-billous - proximal to ampulla of vater
+    - Bulge in epigastrium (distention)
+    - Clinical sign - Succussion splash
+
+## Gastric adenocarcinoma
+
+- ****Epidemiology:****
+    - Incidence - declining incidence (but prevalent in asia) 6th in mortality locally (3rd worldwide)
+    - Demographic - increases w/ age (but flatter distribution in F)
+    - Geographic variation - high incidence in Asia
+- ****Risk factors:****
+    - Dietary factors - protective and harmful:
+        - Harmful - N-nitroso comound, preserved, smoked, salted food
+        - Protective - trace elements, vitamin C, fresh fruits and vegetables (increase uptake of micronutrients)
+    - Medical conditions - Type A (atrophic) gastritis (a/w pernicious anaemia), adenomatous polyps, Menetrier;s disease, prior partial gastrectomy (\>20y), CVID, E-cadherin mutation
+    - Exposure - Smoking (11%), EBV, Industrial exposure
+    - Helicobacter pylori infection (WHO class 1 carcinogen)
+- ****Pathology:****
+    - ****Linitis plastica**** - leather bottle stomach appearing normal on endoscopy (but ?lost of rugae), rigid and cannot be distended by air
+        - CT - thickened gastric wall (N \< 5mm)
+    - Mode of spread:
+        - Direct invasion - liver (anterior), spleen (greater curvature), pancreas (posterior), transverse mesocolon (inferior part of greater curvature)
+        - Lymphatic - lymphatics of stomach follow that of arterial supply, involvement dependent on curvature affected (advances to coeliac axis and left SCN, i.e. Troisier's sign)
+        - Transcoelomic - peritoneal seedling (2-3mm), may not be picked up by PET-CT (1/3 of peritoneal spread present w/ malignant ascites), Krukenberg tumour (peritoneal spread to ovaries)
+        - Haematogenous - liver, lung (including ? <u>carcinomatosis</u>), bones
+    - Molecular subtypes - guides systemic therapy:
+        - Chromosmal instability (CIN)
+        - Genomically stable (GS)
+        - EBV
+        - Microsatellite instability (MSI)
+- ****Clinical presentation**** - typically presents late:
+    - Notoriously difficult to make an early diagnosis (since asymptomatic) - screening only justified in endemic regions (e.g. Japan)
+    - Clinical features:
+        - Non-specific - anorexia, weight loss, weakness and malaise
+        - Dysphagia - neoplasm of cardia
+        - Abdominal mass - primary, omental, Krukenberg
+        - Acanthosis nigricans
+        - Paraneoplastic syndrome - e.g nephrotic syndrome
+    - Presentation w/ complications:
+        - Gastric outlet obstruction (large distal tumours) - gradual onset of vomiting (post-prandial), distending discomfort, succession splash
+        - UGIB - acute (melaena, haematemesis), chronic (anaemia)
+        - Perforation - presents w/ acute peritonitis (rare)
+        - Epigastric pain - different in nature than ulcer pain, but allieviated by antacids or ulcer-healing drugs
+    - Clinical presentation w/ metastatic disease:
+        - Abdominal distension - ascites
+        - Jaundice - typically due to MBO instead of liver metastasis
+        - Troisier's sign (palpable Virchow's node known to be a/w GI malignancy) +/- Irish's node (left axillary node)
+        - Dyspnoea - malignant pleural effusion due to lung metastasis, lymphangitis carcinomatosis
+        - Hepatomegaly - liver metastasis
+        - Sister Joseph's nodule - umbilical nodule due to intra-medullary spread
+        - Hydronephrosis/ obstructive uropathy - due to extramural compression of ureters
+        - Rectal shelf on PR
+- Ix:
+    - Routine bloods - CBC, LFT, RFT
+    - CXR
+    - Upper endoscopy and Bx - diagnostic
+    - Tumour markers - CEA, CA19-9 (for follow-up as monitor of Tx responsiveness and recurrent disease)
+- Staging and clinical assessment:
+    - Clinical staging:
+        - Hx + P/E
+        - Bloods (LFT) - ?liver metastasis
+        - Assessment of haematogenous spread - CXR, CT abdomen, US abdomen, PET/CT
+        - Assessment of local invasion - EUS (if suspected early disease)
+        - Assessment of peritoneal spread - laparoscopy
+    - EUS - for assessment of extent of tumour invasion, LN involvement, and ascites
+    - General assessment of fitness
+- Mx:
+    - Early cancers - endoscopic Tx:
+        - Endoscopic mucosal resection (EMR) - elevate lesion then resect
+        - Endoscopic submucosal dissection (ESD)
+    - Resectable gastric cancer:
+        - D2 LN dissection
+        - Distal resection for distal lesions - read up on different procedures
+        - Total gastrectomy for proximal lesions
+        - Post-op adjuvant chemotherapy - for advanced cancers
+        - Pre-op neoadjuvant chemotherapy - for selected patients
+
+# GC177 A thyroid nodule, benign thyroid nodule, thyroid cancer <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span> <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- ****Classification of goitre:****
+    - Simple goitre (endemic or sporadic) - diffuse or nodular
+    - Toxic goitre - Graves', toxic nodular (Plummer's), functioning adenoma
+    - Neoplastic goitre - benign or malignant
+    - Thyroiditis - bacterial, subacute (viral), Hashimoto
+
+## Benign thyroid nodule
+
+- ****Epidemiology**** - extremely common:
+    - Dependent on - age, sex, locality (iodine deficiency, radiation exposure), and method of detection (palpation vs USG)
+- ****Causes of thyroid nodule:****
+    - Nodular goitre (70%) - colloid, haemorrhagic, cystic, complex, hyperplastic, adenomatous
+    - Benign follicular adenoma (15%) - usually non-toxic (90% of adenoma)
+    - Well-differentiated thyroid carcinoma (10%)
+    - Miscellaneous - other thyroid malignancies, thyroiditis
+- ****Clinical presentation of thyroid nodule:****
+    - Neck mass/ swelling
+    - Associated w/ Sx:
+        - Pain and discomfort
+        - Local pressure Sx - dysphagia, SOB, vocal cord palsy (typically a locally advanced thyroid cancer)
+        - Associated thyroid dysfunction
+    - Incidental finding - on routine P/E or US neck (e.g. carotid)
+- ****Ix:****
+    - Blood Test - Thyroid function test, thyroid antibodies
+    - US thyroid - investigation and characterisation of thyroid nodule
+    - FNAC +/- molecular testing
+    - Other Ix - Radioisotope scan, CT/ MRI/ PET
+    - Endoscopy
+    - ESR, thyroid antibodies, calcitonin (medullary thyroid carcinoma), genetic tests
+- USG assessment - indicated for all palpable/ visible goitre:
+    - TIRAD - classification by suspicion of thyroid neoplasm (guides FNA for intermediate or high suspicion nodules)
+        - Assessment of - Composition, Echogenicity, Calcification, Configuration, Margin
+    - ATA Nodule Sonographic Pattern risk of malignancy
+- FNAC - dependent on size of nodule:
+    - Bethesda classification - 6 diagnostic category for risk of malignancies
+- Molecular testing:
+    - Somatic mutations (high PPV) - BRAF, panel of mutation
+    - Gene expression evaluation and miRNA classifier (high NPV) - for intermediate nodules to avoid diagnostic thyroidectomy
+- Indications of Tx of benign thyroid nodule:
+    - Symptomatic - compressive Sx, Progressive increase in goitre size
+    - Clinical signs - trachea compression or deviation, retrosternal extension, suspected malignancy
+    - Patient factors - cometic consideration
+- Tx:
+    - Surgical Tx - unilateral lobectomy (hemithyroidectomy). total/ near-total thyroidectomy, partial subtotal thyroidectomy
+    - Ablative Tx:
+        - Ethanol- (for cystic nodules) - percutaneous PEI:
+            - Mechanism - cytoplasmic protein dehydration and coagulation decrosis
+        - Energy based (for complex or solid nodules) - High-intensity focused US (HIFU), Radiofrequency ablation (RFA), Percutaneous laser ablation (LA), Microwave ablation (MWA)
+            - Mechanism - thermal necrosis
+
+## Thyroid cancer
+
+- ****Epidemiology**** - rare neoplasm:
+    - 5% of thyroid nodule
+    - Increasing incidence - due to associated increase in papillary histological subtype (and T1 tumour, hence mortality does not change)
+- Pathology:
+    - Histological subtypes:
+        - Well differentiated (90%) - papillary (90%), follicular
+        - Poorly differentiated (\< 5%) - insular
+        - Undifferentiated (\<5%) - anaplastic
+        - Medullary carcinoma (\< 5%) - from parafollicular C cells (NET)
+- Management considerations - dependent on risk group:
+    - Extent of thyroidectomy - lobectomy vs total/near-total
+    - LN dissection extent - prophylactic or therapeutic
+    - Post-op adjuvant therapy - e.g. radio-iodine ablation, external beam irradiation, T4 suppressive therapy (principally based on suppression on TSH of subclinical hyperT4)

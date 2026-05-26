@@ -1,0 +1,87 @@
+---
+type: main
+---
+# Counselling
+
+- **Definition and terminology** - slightly different:
+	- _Counselling in the general sense_ - giving advice, i.e. opinion or advice that is given in directing the judgement or conduct of another
+	- _Counselling in the clinical context_ - the therapeutic process of helping a patient to explore the nature of his or her problem in such a way that he or she determines his or her decisions about what to do, without direct advice of reassurance from the counsellor
+- **The therapeutic effect of the doctor as the basis of counselling:**
+	- Medicine progressively losing touch with its humanitarian pursuits in view of scientific or economical ones; yet there is an enormous and ever-increasing need for people in the community to have their psychosocial problems addressed by a healthcare professional
+	- Public perception that the GP is able to, and should counse people as evident by many people going to GP for advice than to other groups (e.g. psychologists, social workers, marriage guidance counsellors etc.)
+- **Factors allowing the GP to be an effective counsellor:**
+	- _The right context and opportunity for observation_ - capable of observing and understanding the patient and their extended environment (including family and family dynamics), and are placed under the context to treat the patient as the whole person
+	- _Generalists providing holistic care_ - training to be a generalists enables GPs to have a broad grasp of a patient's problems and a multifaceted approach to treatment
+	- _Continuing care_ - through organise 'contracts', with patients, w/ appropriate follow-up treatment programs
+	- _Comfort_ - treatment administered in a comfortable and familiar surroundings (including home visits)
+- **The spectrum in which counselling can be administered** - an activity in general practice that moves between two extremes:
+	- _Directed psychotherapy_ (doctor-centred) - more authoratative, advice-giving
+	- _Expressive psychotherapy_ (patient-centred) - non-directive, where the patient does most of the talking and decision making
+	
+	![[Pasted image 20260414165624.png]]
+- **Features of counselling:**
+	- _Therapeutic_ - considered a clear-cut treatment option, like a course of antibiotics
+	- _A goal-directed activity mediating a change/ problem-solving process_ - a sensitive response to problems within a caring relationship; motivating and lifting patient morale; seen as a co-operative problem-solving process that provokes a change, i.e. moving a patient from a 'stuck state' to some-place better
+	- _Educational_ - aimed at patients to learn about new information and new activities
+- **Counselling is not:**
+	- Giving information
+	- Giving advice
+	- Being judgemental
+	- Imposing one's own values, behaviour, and practice
+	- The same as interviewing
+	- Handing out patient education 
+- **Basis of counselling:**
+	- Listening, empathy and good communication (verbal and non-verbal) serves the basis of good counselling
+	- Trust, from good rapport and confidentiality makes counselling easier
+	- Non-judgemental, and non-authorative
+	- Principles of ?transference and counter-transference; important for therapist to handle and monitor own feelings and emotions, and should tolerate and be comfortable with what the patient says
+	- Versatility and capable to adapt counselling style to the clinical situation
+- **A problem-solving approach:**
+	- _Listening to the problem_ - using communication skills rather than basic questioning, trying to uncover the entire reality of the problem (i.e. the issue, events, experiences, and distress)
+	- _Problem definition_ - getting at what the matter realy is, if possible in behavioural terms:
+		> Beneath the feeling is the experience, beneath the experience is the event, the event is related to a problem.
+	- _Contract_ - a contract for counselling, e.g. with number of visits
+	- _Goal setting_ - define short-term and long-term goals for action
+	- _Action-Evaluation Loop_ - experimentation with actions in attaining the goals, building an action program (e.g. homework between visits); frequent evaluation of progress during visits
+	- _Termination or referral_ - terminate if problem solved; refer if problem outside one's capabilities
+- **Counselling models:**
+	- **The PLISSIT model** (Annon 1974) - initially an aid in therapy for sexual problems, found as a _useful model for problems with features including 1) presenting as feelings, 2) limited scope for intervention_:
+		- _P_ - permission giving (basic)
+		- _LI_ - limited information (basic)
+		- _SS_ - specific suggestion (advanced and problem dependent)
+		- _IT_ - intensive therapy (advanced, and may require non-generalist knowledge)
+	- **The Colagiuri and Craig model** - useful tool initially designed for teaching contraceptives, abortion and serilisation counselling, but can be applied to most situations where patient empowerment and self-determination is preferred:
+		
+		![[Pasted image 20260414171109.png]]
+- **Limitations and cautions for counselling:**
+	- Individual doctors cannot be useful to all patients, so be selective
+	- We cannot solve patients’ problems for them
+	- Patients’ problems belong to them and not to their counsellors
+	- If a counselling relationship is no longer productive, then terminate and refer
+	- Most patients in primary care need information, support and a lift in morale, not long-term psychotherapy
+- **Patients unlikely to benefit** (relative contraindications):
+	- Psychotic patients
+	- Patients with chronic psychosomatic tendancies who are willing to do almost anything to maiintain the relationship
+	- Patients who had an unrewarding experience with psychiatrists and other psychotherapists
+	- Patients with intractable life situations who are unable or unwilling to change
+	- People who are antagonistic to the notion of a psychosocial diagnosis, subsequently found to be organic
+	- Patients with little awareness or language to express emotional difficulty
+	- Patients who do not believe doctors can treat psychosocial problems
+	- Patients with a vested interest in remaining unwell who are therefore resistant to change
+- **Examples of areas of counselling:**
+	- Any crisis situation
+	- Breaking bad news
+	- Breeavement or grief
+	- Terminal illness/ palliative care
+	- Marital problems
+	- Family problems
+	- Sexual dysfunction
+	- Chronic pain
+	- Anxiety and stress
+	- Depression
+	- Intellectual handicap in a child
+	- Infertility
+	- Any disease or illness
+	- Sexual abuse/ child abuse
+	- Domestic violence
+	- Insomnia and other sleep disturbances

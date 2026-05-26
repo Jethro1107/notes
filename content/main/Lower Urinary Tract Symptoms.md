@@ -1,0 +1,87 @@
+---
+id: da5d7070-74a7-4781-9125-037d5c8d2747
+roam_refs: "\"Bailey and Love\""
+title: Lower Urinary Tract Symptoms
+---
+
+# Lower Urinary Tract Symptoms
+
+- **Definition** - non-specific set of symptoms of bladder dysfunction occuring in storage or voiding phases
+- **Epidemiology of LUTS:**
+    - <u>Prevalence</u> - increases w/ age in M (\> 70% of M \> 80y)
+- **Clinical features of LUTS** - classified into storage Sx and voiding Sx:
+    - **Storage Sx** - Sx experienced during storage phase of micturation (during <u>bladder filling</u>):
+        - <u>Frequency</u> - Subjective perception of frequent voiding during daytime
+        - <u>Urgency</u> - A sudden, compelling desire to pass uring that is difficult to defer
+        - <u>Nocturia</u> - The need to wake at night \>= 1 times to void
+        - <u>Incontinence</u> - Involuntary leakage of urine (usually related to urge incontinence)
+    - **Voiding Sx** - Sx experienced during voiding phase of micturation (during <u>urine flow</u>):
+        - <u>Weak streams</u> - Subjective perception of reduced urinary flow rate, **splitting or spraying of urine** may ocassionally be reported
+        - <u>Intermittency</u> - Urine flow starts and stops at \>= 1 times during micturation
+        - <u>Hesitancy</u> - Difficulty to initiate micturation, with delay in onset of voiding after individual is ready to void
+        - <u>Straining</u> - An abdominal muscular effort to initiate, maintain, or improve urine stream
+        - <u>Terminal dribbling</u> - prolongation of the final parts of micturation when the flow rate slows to a trickle
+        - <u>Incomplete emptying</u> - a sensation of incomplete emptying after passing urine
+        - <u>Post-micturation dribbling</u> - Involuntary loss of urine shortly following urination usually after leaving the toilet
+- **Etiology of LUTS** - traditionally attributed to BPH and consequent BOO, but in fact has other causes:
+    - **Bladder outlet obstruction** (<u>voiding Sx predominant</u>) - urodynamic evidence of poor urine flow rate at high voiding pressures due to prostate, bladder neck, urethral, and neurological pathologies:
+        - <u>Prostate pathologies</u> - **Benign Prostatic Hyperplasia** (most common), CA prostate
+        - <u>Bladder neck pathologies</u> - bladder neck stenosis, bladder neck hypertrophy
+        - <u>Urethral pathologies</u> - urethral strictures, meatal stenosis
+        - <u>Neurological pathologies</u> - Neurogenic bladder (e.g. detrussor-sphincter dyssynergia)
+    - **Detrusor overactivity** (<u>storage Sx predominant</u>) - syndrome of urgency +/- urge incontinence, usually accompanied by daytime frequency and nocturia:
+        - <u>Neurological causes</u> - stroke, Parkinson disease, multiple sclerosis, spinal cord injury
+        - <u>Non-neurological causes</u> - idiopathic detrussor overactivity (DOA), pelvic surgery, bladder stones or other foreign bodies, **long standing BOO**
+    - **Combination of OAB and BOO** - occurs in 30-60% in reality
+    - **Urinary tract infections** - urgency and frequency with associated dysuria
+- **Salient points of Hx:**
+    - **HPI** - onset and duration, progression, severity, effects of QoL:
+        - <u>Onset, duration and progression</u> - Disease may often be long-standing prior to presentation as it may be attributed to 'normal aging'
+        - <u>Severity</u> - quantitative measure of LUTS based on the <u>international prostate symptom score</u> (IPSS), containing 7 questions and a QoL score, **guiding Mx** (see below)
+        - <u>Effects on QoL</u> - dependent on lifestyle of patient (e.g. stay at home vs currently working)
+    - **Associated Sx** - r/o stones, UTIs, and other more sinister pathologies:
+        - <u>Fever and dysuria</u> - points towards urinary tract infection
+        - <u>Strangury</u> - points towards bladder/ urethral stones
+        - <u>Haematuria</u> - red flag Sx suggestive of neoplasm (e.g. CA bladder, prostate) especially if painless
+        - <u>Neurological Sx</u> (e.g. LL weakness) - suggestive of SCI or disease
+        - <u>Constitutional Sx</u> (e.g. weight loss and back pain) - suggestive of malignancy
+    - **PMH:**
+        - <u>Prior neurological disease</u> - Hx of stroke, PD, SCI, spinal surgery
+        - <u>Prior surgical Hx</u> - TURP, past urethral instrumentations
+        - <u>Medical diseases esp. DM</u> - autonomic neuropathy and polyuria exacerbates symptomatology
+        - <u>Review of medications</u>:
+            - **Diuretics** - causes LUTS to present more symptomatic due to increased urine outpu
+            - **Drugs w/ anti-cholinergic activities** - Antihistamines, antidepressants, antipsychotics
+            - **Drugs w/ beta-adrenergic activities** - bronchodilators
+            - **Drugs for dementia** - use of anti-muscarinic agents for OAB may reduce clinical efficacy of cholinesterase inhibitors
+    - **Sexual Hx** - if suspicious of STIs
+    - **Relevant SHx and FHx**
+- **P/E:**
+    - <u>Examination of the abdomen</u> - usually normal
+    - <u>Digital rectal examination</u> - perianal sensation and tone, estimation of prostate size and features suggestive of malignancy
+    - <u>Targeted neurological examination</u> - guided by Hx
+- **Initial Ix:**
+    - **Routine bloods** - CBC (anaemia, leukocytosis), RFT, RBG
+    - **Urinalysis:**
+        - <u>Dipstick tests</u> - haematuria, proteinuria, glucosira, pyuria, bacteriuria
+        - <u>Urine C/ST</u> - not routinely performed unless dipstick test reflects bacteriuria or if clinically suspect UTI
+    - **PSA** - if suspicious of CA prostate
+    - +/- **Other urodynamic Ix** (for persistent and complicated cases) - uroflowmetry, urodynamic studies etc.
+- **Initial Mx** - lifestyle and behavioral interventions and presumptive Dx of BPH in most male patients (see notes on BPH)
+- **Ix and diagnostic evaluation** - considered optional and only reserved for selected complicated cases:
+    - **Overview of diagnostic Ix:**
+        - <u>Non-invasive studies</u> - Uroflowmetry, Postvoid residual (PVR), Transabdominal ultrasound (TAUS)
+        - <u>Invasive studies</u> - Pressure-flow studies, cystoscopy, transrectal US-guided measurement of prostate volume
+    - **Uroflowmetry** - most useful simple, non-invasive urodynamic measurement:
+        - <u>Procedure</u> - patient urinates into device that measures the volume/time of urine accumulation
+        - <u>Measurements</u> - 1) voided volume, 2) voiding time, 3) average flow rate, and 4) Qmax: 
+        ![](img/normal_and_abnormal_uroflowmetry.png)
+            - Note - obstructive pattern characterised by flattened curve with low Qmax, and prolonged voiding time and slow time to maximal flow
+        - <u>Limitations</u> - urine flow is dependent not only on patency of outflow tract, and detrussor strength, hence <u>non-diagnostic of BOO</u>, and <u>no information regarding presence of OAB</u>:
+            - **Low QMax non-diagnostic of BOO** - can be either due to BOO or detrusor underactivity (DUA)
+            - **Normal QMax cannot exclude BOO** - can be normal initially due to compensatory increase in detrusor contractility (increased <u>voiding presure</u>)
+    - **Postvoid residual** (PVR):
+        - <u>Procedure</u> - non-invasive measurement of post-void residual volume by bladder USG
+        - <u>Clinical implications</u> chronic retention, often due to detrusor decompensation can lead to upper tract impairments
+        - <u>Limitations</u> - does not distinguish between BOO or DUA, and no diagnostic information regarding OAB
+    - **Pressure-flow studies** (urodynamics) - important for differentiating BOO and detrussor overactivity

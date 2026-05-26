@@ -1,0 +1,155 @@
+---
+id: EE752169-E3D1-4C90-8C88-075B84BB54B2
+title: Antidepressants
+---
+
+# Antidepressants
+
+- **Classification of antidepressant drugs into 3 main classes depending on acute pharmacological properties** - in a broad sense they are of <u>equivalent efficacy</u>, differing only in safety and adverse activities:
+	- <u>Monoamine reuptake inhibitors</u> (TCAs, SSRIs, SNRIs, NARIs) - inhibit the reuptake of noradrenaline and/or 5-HT
+	- <u>Monoamine oxidase inhibitors</u> (MAOIs) - deactivation of monoamine oxidase irreversibly (phenelzine, tranylcypromine) or reversibly (moclobemide)
+	- <u>5-HT2 receptor antagonists</u> (trazadone, mirtazapine) - complex effects on monoamine mechanisms but share ability to block 5-HT2 receptors
+	
+	
+	![](../img/antidepressants_advantages_and_disadvantages.png)
+- **MOA of monoamine reuptake inhibitors and MAOIs** - early effects are usually described but usually does not translate to clinical effects:
+	- <u>Early effects of monoamine reuptake inhibitors and MAOIs</u> (within hours of use) - increased functional activity of noradrenaline and/or 5-HT:
+		- Monoamine reuptake inhibitors - reduced reuptake of monoamines to increase synaptic availability
+		- Monoamine oxidase inhibitors - reduced breakdown of monoamines by MAO to increase synaptic availability
+	- <u>Reasons for delayed onset of action</u> - full antidepressant effects of drug treatment can be delayed for weeks, and suggested that \>= 6 weeks before assessing effects:
+		- Pharmacokinetic factors - half-life of most ADs are 24h, such that steady-state drug levels reached after 5-7d (i.e. 5 half-lifes)
+		- Neuroadaptive changes in brain to acute potentiation of monoamine functions - animal studies showed various mechanisms including decreased desensitization of inhibitory autoreceptors on 5-HT and noradrenalines, increased BDNF, and increased synaptogenesis
+		- Neuropsychological mechanisms - single doses produce positive biases in emotional processing in the absence of changes in subjective mood, where delayed onset of action reflects culmination of improved emotional processing (relearning) to be experienced as subjective change in mood
+- **Selective serotonin reuptake inhibitors** - now preferred to TCAs as first-line treatment of depression as moderately better tolerated and markedly less toxic in overdose w/ comparable efficacy:
+	- **Selection**:
+	    - Sertraline
+	    - Fluoxetine
+	    - Paroxetine
+	    - Fluvoxamine
+	    - Citalopram
+	    - Escitalopram
+	- **Pharmacodynamic properties and MOA**:
+	    - High potency and selectivity for 5-HT reuptake transporters
+	    - Much less affinity for noradrenaline reuptake transporters or other monoamines
+	- **Pharmacokinetics of SSRIs**:
+	    - <u>Absorption</u> - slow, reaching peak plasma levels after 4-8h, although citalopram and escitalopram are absorbed faster
+	    - <u>Metabolism</u> - most undergo extensive hepatic metabolism, but the metabolites are also bioactive:
+			- Fluoxetine - metabolised into norfluoxetine which also serves as a potent 5-HT reuptake blocker w/ T1/2 of 7-9d
+			- Sertraline - metabolised to desmethylsertraline, which is 5-10 less potent than sertaline and has a T1/2 of 2-3d (antidepressant effects unclear)
+	    - <u>Excretion</u> - renal excretion, overall half-lives around 24h but fluoxetine is 48-72h:
+			- Fluoxetine - 48-72h
+			- Others - 20-30h
+  - **Efficacy of SSRIs in depression** - extensively compared w/ placebo and TCAs:
+	- Generally suerior to placebo and as effective as TCAs in the treatment of MDDs
+	- Concerns that SSRIs may be less effective than conventional TCAs for more severely depressed patients
+  - **S/E**:
+    - <u>GI discomfort</u> - N/V (20% but resolves w/ continuous administratino), dyspepsia, bloating, flatulence, and diarrhoea
+    - <u>Weight gain</u> - over longer term Tx, most significantly w/ paroxetine
+    - <u>Neuropsychiatric effects:</u>
+		- Sleep disturbances such as insomnia or daytime somnolence
+		- Agitations, tremors, restlessness and irritability
+		- Seizures
+		- Mania if underlying bipolarity
+		- Seizures
+    - <u>Other effects:</u>
+		- Sexual dysfunction (e.g. ejaculation delay, anorgasmia)
+		- Sweating
+		- Dry mouth
+		- QT prolongation (e.g. citalopram and escitalopram)
+		- SIADH and hyponatraemia (esp. in elderly)
+		- UGIB (esp if combined w/ NSAID)
+  - **SSRIs and violence and suicidal behaviour** - anecdotal reports where SSRI treatment may be a/w hostile and suicidal behaviour but a meta-analysis shows:
+    - Small increased risk of self-harm relative to placebo (Gunnell et al 2005: 789 number-needed-to-harm vs 4 number-needed-to-treat)
+    - Overall no significant increase of completed suicides and non-fatal suicidal behaviour between patients taking SSRI and those taking TCAs
+    - However, risk of self harm w/ SSRIs might be greater in children and adolescents (Bridge et al 2010)
+    - Statistically significant risk of self harm may be time dependent, suicide risk appears greatest at initiation of SSRIs (40x risk in first 9d), but becomes non-significant after 90d (Jick et al 2004); interestingly not possibly linked to SSRIs as also observed in early stages of psycholocal Tx (Simon and Savarino 2007)
+    - Possibly because improvements of psychomotor retardations precedes resolution of depressed mood
+  - **Drug interactions for SSRIs**:
+    - <u>Pharmacokinetic interactions</u> - precipitating serotonin syndrome (hyperpyrexia, w/ mental and motor manifestations) through interacting w/ drugs that increase 5-HT function:
+		- MAOIs
+		- Lithium and tryptophan
+		- Tramadol
+		- Linezolid
+		- Sumatriptan (5-HT receptor agonist)
+	- <u>Pharmacokinetic interactions</u> - fluoxetine and paroxetine produce <u>substantial inhibition of P450 enzymes</u>, increasing drug levels of other drugs: 
+	![](../img/pharmacokinetic_interactions_of_ssris.png)
+  - **Practical issues in the clinical use of SSRIs in Tx of depression**:
+    - <u>Selection of antidepressants</u> - based on tolerability, and S/E profiles:
+		- Fluoxetine has the most activating effects and distinct pharmacokinetics
+		- Fluvoxamine is often the least tolerable and a/w highest drop-out rates in studies
+		- Paroxetine has the most troublesome withdrawal symptoms
+		- Escitalopram and citalporam tend to risk QTc prolongation
+		
+		
+		![](../img/differences_in_ssri.png)
+    - <u>Initiation of antidepressants:</u>
+		- Warn patients of common early S/E such as GI disturbances, agitaiton or insomnia, to explain that this does not mean the underlying depression is worsening, as to improve compliance
+		- Initial cover w/ benzodiazepines may be helpful if sleep disturbances is a problem
+	- <u>Monitoring of antidepressant use:</u>
+		- Frequent review in the initial weeks and education on S/E and ensure compliance
+		- As to detect improvements in rapport and initiative in patients as well
+	- <u>Continuation of antidepressant use:</u>
+		- Good evidence for continuing treatment for at least 6 mo to lower rate of relapse
+		- SSRI prophylaxis shown to be effective for recurrent depressive episodes
+	- <u>Stopping antidepressant use</u> - graded reduction rather than stopping suddenly:
+		- To prevent withdrawal reactions and antidepressant discontinuation syndrome (insomnia, agitation, nausea, dizziness) especially w/ paroxetine
+		- Withdrawal reactions are likely less mild with fluoxetine due to pharmacokinetic properties, and switch to fluoxetine as to slow withdrawal is acceptable
+- **Tricyclic antidepressants** - although no longer first line, still remains useful in treatment-refractory illness and those w/ severe depression (Cowen and Anderson 2015):
+	- **Selection** - useful distinction between those that have a terminal methyl group side chain (tertiary amines), and those that do not:
+	    - <u>Tertiary amines</u> (more potent alpha-1 and muscarinic receptor antagonism) - e.g. amitriptyline, clomipramine, imipramine, lofepramine
+	    - <u>Secondary amine</u> (less potent antagonism of other receptors) - desipramine, nortriptyline, dosulepin, doxepin
+	- **MOA** - three-ringed structure attached to side chains:
+	    - Inhibition of reuptake of 5-HT and noradrenaline
+	    - Antagonistic effects of variety of neurotransmitter receptors (alpha-1 adrenoreceptor, muscarinic cholinergic receptors) accounting for S/E
+	    - 5-HT2 receptor antagonism potentially explaining therapeutic effects
+	    - Quinidine-like membrane stabilising effects (cardio-toxic in overdose)
+	- **Pharmacokinetics of TCAs**:
+	    - <u>Absorption</u> - well absorbed in GI tract; peak plasma levels 2-4h after ingestion
+	    - <u>Transport, circulation and distribution:</u>
+			- Subjected to significant first pass metaboism (N.B. tertiary amine structures will give rise to secondary amine structures in the liver through demethylation but w/ substantial differences)
+			- Highly protein-bounded, but free fraction widely distributed to body tissues
+	    - <u>Excretion</u> - half-life long enough to allow for od dosing
+	  - **S/E**:
+		- <u>Anticholinergic effects</u> - dry mouth, and blurry vision are most common; most important being acute closed-angle glaucoma and acute urinary retention:
+			- Dry mouth
+			- Blurry vision (disturbances of accomodation)
+			- Urinary hesitancy or retention
+			- Constipation
+		- <u>Psychiatric effects:</u>
+			- Sedation (w/ amitryptaline)
+			- Insomnia (lofepramine, desipramine)
+			- Mania in underlying bipolarity
+		- <u>Cardiovascular effects:</u>
+			- Rhythm abnormalities - prolongation of PR and QT intervals, heart blocks, tachycardias
+			- Postural hypotension - due to alpha-1 adrenergic receptor blockade
+		- <u>Neurological effects:</u>
+			- Fine tremor (common)
+			- Incoordination
+			- Epileptic seizures in predisposed individuals
+			- Peripheral neuropathy
+		- <u>Other effects:</u>
+			- Weight gain
+			- Sexual dysfunction
+			- Rashes
+			- Cholestatic jaundice
+			- Agranulocytosis
+		- <u>Withdrawal effects</u> - N/V, agitation/ anxiety, sweating, GI Sx, insomnia and vivid dreaming
+	  - **Toxic effects in TCA overdose** - corresponds to S/E, but most being:
+		- Cardiovascular effects - conduction abnormalities, and ventricular fibrillation, hypotensive episodes
+		- Sedation and Coma - results in respiratory depression (hypoxia predisposes to arrhythmas), aspiration pneumonia
+	- **Contraindications**:
+		- Agranulocytosis
+		- Severe liver disease
+		- Glaucoma
+		- Prostate hypertrophy
+		- Uncontrolled epilepsy
+		- Significantt cardiovascular disease
+	  - **Practical considerations in the clinical use of TCAs**:
+		- <u>Selection of TCAs</u> - based on 1) sedation, 2) considerations of overdose, and 3) comorbid conditions:
+			- Sedation - sedating compounds (e.g. amitriptyline), and less-sedating compounds (nortriptyline)
+			- Considerations of overdose - lofepramine used for patients for risk of overdose
+			- Comorbidities - chlomipramine reserved for comorbid OCDs
+		- <u>Dosing and monitoring</u> - start low and go slow:
+			- Initial dose dependent on age, weight, phhysical condition, history of previous exposure to TCAs
+			- Titrate to targetable doses based on clinical responses and S/E
+			- Consider ECG for monitoring at higher doses for S/E

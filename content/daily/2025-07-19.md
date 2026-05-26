@@ -1,0 +1,185 @@
+---
+id: 7a7e763c-d359-47cc-b4d5-967dee743923
+title: 2025-07-19
+---
+
+# GC141: A child with cough, acute and chronic cough in children <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- See pathophysiology of cough (slides p2)
+- DDx of cough in children:
+    - Respiratory:
+        - Upper respiratory tract infection
+        - Postnasal drip syndrome
+        - Asthma
+        - Aspiration
+        - Pneumonia/ pneumonitis
+        - Bronchiectasis
+    - Non-respiratory:
+        - Heart failure
+        - GERD
+        - ACEi?
+        - Psychogenic or habit cough (not common in children)
+- **Approach to cough in a child:**
+    - Consider onset - chronic cough in child should raise suspicion more sinister etiologies
+    - Consider timing - think asthma (weather change, exposure to smokes, allergens), or aspiration (after feeding)
+    - Consider age of onset - different differential diagnosis based on age of onset
+- **Salient points of Hx:**
+    - **HPI** - onset, progression, quality, severity, timing:
+        - <u>Onset</u> - acute (\< 4 weeks) or chronic (\> 4 weeks):
+            - Acute cough - most likely an acute respiratory tract infection (URTI vs LRTI), or exacerbation of a chest condition (e.g. asthma, bronchiectasis)
+            - Chronic cough
+        - <u>Progression</u> - requires differentiating between:
+            - Static
+            - Progressive
+            - Variability between days and diurnal variation
+        - <u>Quality</u>:
+            - **Dry cough** - consider simple URTI, but may be early feature of LRTI, and habitual cough
+            - **Productive cough** - consider LRTIs (e.g. pneumonia) if acute, consider chronic suppurative lung diseases (e.g. bronchiectasis) if chronic
+            - **Wheezing cough** - consider asthma or FB obstruction
+            - **Barking or brassy cough** - include croup syndrome within differential diagnosis
+            - **Paroxysmal spasmodic cough** (a/w whoop) - suggestive of pertussis
+            - **Haemoptysis** - consider AV malformations, bronchiectasis, or TB
+        - <u>Timing</u> - assess temporal associations and timing w/ :
+            - **Temporal variations** - e.g. worse at night and upon waking up a/w asthma
+            - **Variations w/ exposure:**
+                - <u>Asthma</u> - typically a/w cold weather, exercise, early mornings, or exposure to particular allergen
+                - <u>Aspiration</u> - if a/w feeding or immediately after choking
+    - **Associated Sx:**
+        - <u>Fever</u> - consider infective causes (URTI, LRTI, croup syndrome)
+        - <u>Sorethroat</u> - a/w upper respiratory distress syndrome
+        - <u>Runny nose</u> - consider URTI, or a/w post-nasal drip syndrome a/w allergic rhinitis
+    - **Impact of illness** - esp. for very young patients:
+        - <u>General activity and playfulness</u> - ask parents to compare w/ before
+        - <u>Feeding</u> - change in diet (quantification of feeds, and types of feeding important)
+        - <u>Behaviour</u> - irritable (consolable vs non-consolable), drowsy and confused, clingy and miserable for older children
+        - <u>Growth</u> - failure to thrive is suggestive of chronic cardiorespiratory illness
+    - **Ideas, concerns and expectations** - to identify reason for consultation by parents
+    - **Birth and perinatal and developmental Hx:**
+        - <u>Birth and perinatal Hx</u> - consider any maternal transmission of infections (GBS, chlamydia), congenital defects or cogenital heart disease
+        - <u>Developmental Hx</u> - as opportunistic screening
+    - **PMH:**
+        - <u>Known atopy</u> (e.g. eczema, allergic rhinitis in childhood) - consider the first presentation of asthma
+        - <u>Past Hx of chest infections leading to hospitalisation</u> - recurrent pneumonia may be a result of congenital anomalies, or immunodeficiency
+        - <u>Past health</u> - note any immunocomprimisation, and neurological impairment predisposing to aspiration
+    - **Immunisation Hx** - susceptible pathogens
+    - **Appropriate FHx and SHx:**
+        - <u>Passive smoking</u> - as potential trigger of asthma
+        - <u>General home environment</u> - to understand level of care
+- **P/E:**
+    - **Primary assessment** - airway, breathing, circulation, temperature:
+        - <u>Airway</u> - consider patency of airway by general inspection of airway (unexpected drooling, toxic looking, or inability to form words are signs of impending airway obstruction)
+        - <u>Breathing</u> - assess RR, recruitment of accessory muscles, dyspnoea, cyanosis and mottling (ask parents if different than usual)
+        - <u>Circulation</u> - assess BP/P
+        - <u>Temperature</u> - febrile illness
+    - **General examination:**
+        - <u>Cyanosis</u> - suggestive of severe respiratory illness, or cyanotic heart disease
+        - <u>Clubbing</u> - chronic suppurative lung disease such as bronchiectasis
+        - <u>Neurodevelopmental abnormalities</u> - predisposes to aspiration
+    - **Respiratory examination** - detailed auscultation of the chest for:
+        - <u>Wheeze</u> - focal wheeze suggestive of foreign body, while diffuse wheeze suggestive of asthma
+        - <u>Crackles</u> - coarse crackles suggestive of pneumonia or bronchiectasis, fine crackles may suggest pulmonary oedema
+- **Ix:**
+    - **CXR** - indicated if lower respiratory tract involvement:
+        - Lower respiratory tract signs (e.g. wheeze or crackles)
+        - Relentless progressive cough past 2 weeks
+        - Alarming symptoms (e.g. haemoptysis, failure to thrive)
+    - **Additional Ix** - guided by top DDx:
+        - <u>Routine bloods</u> - CBC, LRFT
+        - <u>Imaging</u> - HRCT (bronchiectasis)
+        - <u>Pulmonary function</u> - PEFR +/- lung function study
+        - <u>Microbiology</u> - TB work-up (Mantoux test), NPA, sputum for microscopy or culture, blood cultures (often -ve)
+- **Chronic cough:**
+    - **Definition** - defined by ACCP as daily cough lasting for \> 4 weeks in paediatric population (N.B. different definition in adults)
+    - **Approach to chronic cough** - differentiate cough into:
+        - <u>Specific cough</u> - cough in which a particular etiology (infective on non-infective) based on risk factors, descriptors of the nature of cough, temporal associations and other findings discovered during Hx and P/E
+        - <u>Non-specific cough</u> - dry cough in absence of an identifiable respiratory disease of known etiology
+    - **Common causes of non-specific chronic cough** - generally resolve without specific Tx esp. if impact of cough is not significant other than mild irritation:
+        - Post-viral cough (10% of preschool children still coughing 25d after URTI)
+        - Another episode of acute infection
+        - Asthma
+        - GERD
+        - Foreign body
+    - **Mx of chronic cough:**
+        - Address parental expectations and concerns
+        - Conservative management and will likely resolve without specific Tx
+        - Follow up and assessment of child's activity and playfulness and repeated examination for any specific cough pointers
+- Salient points of Hx:
+    - Demographic - age, previously healthy, immunocomprimised, neurological, atopic, living at home or institutions
+    - HPI - onset, quality, timing:
+        - onset - acute vs chronic
+        - Duration and progression - different temporal cough: 
+        ![](~/Documents/notes/img/characterisation_of_duration_of_cough.png)
+        - quality - dry vs wet, presence of haemoptysis, sound (barking, wheezy)
+        - Precipitants - think asthma
+        - timing - daytime, night time etc:
+            - after feeding - aspiration or choking
+            - In the middle of night - think asthma (characteristically worse in middle of night and upon waking up)
+            - Posture (lying down) - think allergic rhinitis resulting in post-nasal drip
+            - Weather cold
+            - Association w/ exertion
+            - Assoication w/ smokes
+        - Exacerbating and relieving factors:
+            - Bronchodilators
+        - Previous episodes - consider variability
+    - Associated Sx:
+        - Fever
+        - Runny nose
+        - Sore throat
+- DDx of acute cough:
+    - Viral URTI - think de novo or exacerbation of pre-existing conditions
+    - Croup
+    - Pneumonia or LRTI - S. pneumoniae, H. influenzae, pseudomonas if immunocomprised or rare lung disease, GBS, chlamydia in neonates
+    - Exacerbation of pre-existing condition - e.g. asthma, bronchiectasis
+- DDx of chronic cough (Paediatrics arbitrarily defined by \> 4 weeks):
+    - Retained FB important in paediatrics
+    - Post-viral cough/ post-nasasl drip
+    - Aspiration
+    - Congenital malformations
+    - Cystic fibrosis, primary ciliary dyskinesia
+    - Bronchiectasis
+    - TB
+    - AV malformation
+    - Psychogenic/ habit cough
+    - Asthma
+- P/E - assess 1) severity (supportive Tx), 2) etiology:
+    - Temperature (fever?)
+    - Vital signs
+    - General appearance - respiratory distress
+    - Respiratory distress:
+        - High RR
+        - Dyspnoea
+        - Retraction or use of accessory muscles
+        - SpO2, cyanosis, HR
+    - Chest examination:
+        - Inspection - deformity (think hyperinflation signs such as Harrison sulcus)
+        - Percussion
+        - Auscultation - wheeze and crepitations
+    - Associated findings:
+        - Eczema
+        - Tonsils
+        - LN
+        - Rhinorrhoea
+- Key S/S:
+    - Wheeze - asthma or bronchiolitis if generalised, FB if localised
+    - Crepitations - parenchymal disease (e.g. pneumonia, pneumonitis)
+    - Chest pain - pleuritic in pneumonia or chest tightness in asthma, but only elicited in older children
+    - Chest wall deformity - chronic airway or parenchymal disease
+    - Digital clubbing - chronic suppurative lung disease (e.g. bronchiectasis), ?cyanotic heart disease
+    - Failure to thrive - serious chronic systemic illness
+    - Feeding difficulties - serious illness
+    - Cyanosis
+    - Neurodevelopmental abnormality - e.g. aspiration lung disease
+    - Recurrent pneumonia - immunodeficiency, congenital malformations
+- Ix:
+    - No fever, tachypnoea and chest signs - r/o lower respiratory involvement (no need additional Ix)
+    - CXR considered if:
+        - Chest signs
+        - Relentless progressive cough (e.g. 2 weeks)
+        - Haemoptysis
+    - Addition Ix:
+        - CBC
+        - NPA
+        - Sputum (may be induced by PT or BAL)
+        - Blood culture (low detection rate)
+- Non-specific cough - see slide 24
+- Role of cough suppressant - no good evidence for use in children

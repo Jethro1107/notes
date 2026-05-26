@@ -1,0 +1,97 @@
+---
+id: 9779cd64-7b23-4db2-a63a-5fc456ee4ead
+title: Cushing's Syndrome
+---
+
+# Cushing's Syndrome
+
+- **Definition** - syndrome characterised by excessive activation of glucocorticoid receptors
+- **Etiology of Cushing's syndrome:**
+    - **Exogenous Cushing's syndrome** (most common cause) - prolonged administration of synthetic glucocorticoids (e.g. prednisolone)
+    - **Endogenous Cushing's syndrome** - classified into ACTH-dependent Cushing's syndrome, and ACTH-independent Cushing's syndrome:
+        - <u>ACTH-dependent</u> (80%):
+            - Cushing's disease (70%) - i.e. ACTH-secreting pituitary adenoma
+            - Ectopic ACTH syndrome (10%) - from bronchial carcinoid, SCLC, and other NETs
+        - <u>Non-ACTH-dependent</u> (20%):
+            - Adrenal adenoma (15%)
+            - Adrenal carcinoma (5%)
+            - Others (e.g. Mcbrine-Albright syndrome; ACTH-independent macronodular hyperplasia, primary pigmented nodular adrenal disease)
+- **Etiology of hypercortisolism** (i.e. Pseudo-Cushing's syndrome):
+    - Alcohol excess
+    - Major depressive illness
+    - Primary obesity
+- **Principles of clinical manifestations of Cushing's syndrome:**
+    - Most features are <u>non-specific</u> and subjective, and as endogenous Cushing's syndrome is rare, they have low PPV
+    - <u>Cushing's syndrome is typically diagnosed through workup of a particular abnormality</u>:
+        - Workup for secondary hypertension
+        - Short stature in children
+        - Unexplained hypokalaemia and metabolic alklaosis
+    - <u>Cause of Cushing's disease greatly influence the dominant clinical picture</u>:
+        - Ectopic ACTH syndrome is a/w malignancy such that cachexia may mask Cushingoid features, however, clinical presentation is often w/ **proximal muscle weakness** due to concomitent hypoK and muscle wasting, and **hyperpigmentaiton** (as ACTH secretion is not subjected to CRH control)
+        - Cushing's disease is a/w more indolent course, less pigmentation, but **Cushingoid features are more prominent**
+- **Clinical features of Cushing's syndrome:** 
+![](../img/clinical_features_of_Cushings_syndrome.png)
+    - **Weight gain and associated Cushingoid features** - dued to altered fat and protein metabolism resulting in re-distribution centrally:
+        - Moon face (w/ acne and plethora)
+        - Buffalo hump
+        - Centripedal obesity w/ disproportionately thin peripheries (muscle wasting)
+        - Purple striae (rather specific for Cushing's syndrome)
+    - **Hypertension** - important DDx of secondary HTN resistant to Tx (possibly due to permissive effects to catacholamines)
+    - **Associated endogrine and metabolic changes:**
+        - <u>Impaired glucose tolerance or DM</u> - due to insulin resistance as imposed by excessive cortisol
+        - <u>Hypokalaemic alkalosis</u> - due to **excessive minerocorticoid receptor stimulation** (due to overcoming 11 beta-HSD2 inactivation by kidneys), may precipitate <u>proximal muscle weakness</u> along with the muscle wasting
+        - <u>Osteoporosis</u> - secondary osteoporosis predisposing to vertebral fractures (loss of heigh and back pain) and hip fractures (acute hip pain)
+        - <u>Hypogonadotrophic hypogonadism</u> - manifests as abnormal <u>irregular menses</u>, and subsequently <u>amenorrhoea</u>
+    - **Haematological abnormalities:**
+        - <u>Infections</u> - tendancy to infection, with poor wound healing and little inflammatory response
+        - <u>Bruising</u> - due to capillary fragility
+    - **Features specific to ACTH-dependent Cushing's disease:**
+        - <u>Pigmentation</u> - due to excessive stimulation of melanocortin 1 receptors on melanocytes in the skin
+        - <u>Hirsutism</u> - presence of acne, hair-thinning (e.g. male-pattern alopecia)
+- **Approach to clinical assessment of Cushing's syndrome:**
+    - <u>Hx</u> - detailed drug Hx to exclude iatrogenic causes of Cushing's syndrome (include both inhaled and oral corticosteroids)
+    - <u>P/E</u> - assess Cushingoid features
+    - <u>Ix</u> - aimed at 1) diagnosis of Cushing's Syndrome (2 +ve screening test), and 2) Determine underlying cause
+- **Ix:**
+    - **Routine bloods** - RFT, RBG, A1c:
+        - <u>RFT</u> - hypokalaemic alkalosis (excessive MR activation)
+        - <u>RBG/ A1c</u> - hyperglycaemia/ frank DM
+    - **Ix to confirm cause of Cushing's syndrome** - requires <u>\>= 2 concordant abnormal tests</u>: 
+    ![](../img/cushings_syndrome_diagnosis.png)
+        - **Late-night salivary cortisol** - elevated values suggest lost of normal circadian rhythm
+        - **24h urine-free cortisol** - demonstrate abnormally high cortisol release throughout the day
+        - **Overnight Dexamethasone suppression test** - demonstrate <u>failed suppression of cortisol</u>:
+            - <u>Procedure</u>:
+                - Administration of 1 mg dexamethasone at 2300h
+                - Measurement of serum cortisol at 0900h the next day
+            - <u>Precautions</u> - stop all estrogen-containing therapy for 6 weeks to allow for corticosteroid-binding globulin levels to fall back to normal
+            - <u>Limitations</u> - prone to FP w/:
+                - **Pseudo-Cushing's State** - obesity, chronic alcoholism, depression, physiological stress (hospitalisation, trauma, malnutrition)
+                - **Increased circulating CBG** - pregnancy, COC pills
+                - **Increased drug metabolism** - inducters of CYP3A4, e.g. phenytoin, phenobarbital, rifampicin
+    - **Ix to determine the underlying cause:** 
+    ![](../img/establishing_cause_of_cushings_syndrome.png)
+        - **Plasma ACTH level:**
+            - <u>ACTH \< 1.1 pmol/L</u> (u.d) - indicates an ACTH-independent Cushing's syndrome (i.e. localises to the adrenals)
+            - <u>ACTH \> 3.3 pmol/L</u> - indicates an ACTH-dependent Cushing's syndrome
+        - **CT adrenals** - if suspecting adrenal pathology
+        - **MRI pituitary** - if suspecting pituitary pathology
+        - **CRH stimulation test:**
+            - <u>Principles</u> - varying response to corticotrophin-releasing hormone (CRH):
+                - Secretion of ACTH by pituitary tumour is still under influence of CRH
+                - Secretion of ACTH by ectopic tumour is not under influence of CRH
+            - <u>Procedure</u> - IV hCRH 100 mg
+            - <u>Interpretation</u>:
+                - \> 20% rise in cortisol/ \> 50% rise in ACTH - suggestive of Cushing's disease
+                - Failed stimulation - suggestive of ectopic ACTH
+        - **High-dose dexamethaxone suppression test** - enables <u>differentiation between ectopic ACTH syndrome and Cushing's disease</u>:
+            - <u>Principles</u> - suppression of corticotrophin-releasing hormone (CRH):
+                - Secretion of ACTH by pituitary tumour is still under influence of CRH
+                - Secretion of ACTH by ectopic tumour is not under influence of CRH
+            - <u>Procedure</u> - serum cortisol measured before and after administration of 2mg DMX q6h for 48h
+            - <u>Interpretation</u>:
+                - \> 50% suppression from baseline - suggestive of Cushing's disease
+                - Failed suppression from baseline - suggestive of Ectopic ACTH
+        - **Additional Ix:**
+            - Bilateral inferior petrosal sinus sampling
+            - Malignancy screen - CT T+A+P, somatostatin scintigraphy

@@ -1,0 +1,106 @@
+---
+id: 59392DAA-11D9-4F49-8ED8-F8EF309EF313
+roam_parent: D5288C77-085F-4E5F-A010-1EFA707CA81C
+title: Cardiac Axis and Axis Deviation on the ECG
+---
+
+# Cardiac Axis and Axis Deviation on the ECG
+
+- **Definition** - refers to the main direction of depolarisation of the heart, determined by the main ventricular vector
+
+- **Electrical vectors of the heart** - vector rotation w/ time:
+
+  - <u>Small septal vector</u> - created during activation of the interventricular septum, where depolarisation normally occurs from **left to right**, accounts for the Q wave in the limb leads (and possible R wave in the right precordial leads)
+  - <u>Large main ventricular vector</u> - created during activations of both LV and RV, but is predominantly driven towards the left and inferiorly due to the greater LV mass compared to RV mass, accounts for R wave in the limb leads
+  - <u>Small terminal ventricular septum</u> - created by depolarisation of the base onf the LV, accounts for S wave in the limb leads (negligible)
+
+  
+  ![](../img/ventricular_vectors_ecg_book.png)
+
+- **Normal cardiac axis** - between -30 to +90 degrees:
+
+  - Lead aVL is the boundary between normal and LAD
+  - Lead I must be positive in normal axis, but aVF may be +ve (LLQ) or -ve (LUQ)
+  - lead II is used to distinguish between whether noraml axis or LAD
+
+- **3 step algorithm for determining the electrical axis of the heart** - for actual determination of the cardiac axis to the nearest 10 degrees:
+
+  - <u>Determinating the quadrant</u> - based on lead I and aVF
+  - <u>Identifying the highest R deflection</u> - gives a rough estimation of the exact vector
+  - <u>Biphasic QRS complex</u> - identification of the lead perpendicular to the vector
+
+- **Simple approach to axis deviation:**
+
+  - <u>Determination of quadrant</u> - lead I and aVF
+  - <u>Lead II</u> - used to distinguish between normal axis or LAD
+
+- **Determination of the quadrant** - screening based on lead I and aVF: 
+![](../img/determination_of_quadrants_of_cardiac_axis.png)
+
+  - <u>LLQ</u> (normal cardiac axis) - I +ve; aVF +ve
+  - <u>RLQ</u> (RAD) - I -ve; aVF +ve
+  - <u>LUQ</u> (normal or LAD) - I +ve; aVF -ve (distinguished by biphasic QRS in lead II)
+  - <u>RUQ</u> (extreme axis) - I -ve; aVF -ve
+
+- **Simple rules for r/o of axis deviation:**
+
+  - <u>-ve lead I</u> - r/o normal axis or LAD
+  - <u>-ve aVF</u> - r/o RAD
+
+- **Distinguishing between normal axis and LAD** - in the presence of I +ve, aVF -ve:
+
+  - <u>Biphasic lead II predominantly +ve</u> - normal cardiac axis
+  - <u>Biphasic lead II predominatly -ve</u> - LAD
+  - <u>Equiphasic lead II</u> - exactly -30 degrees
+
+  
+  ![](../img/lead_2_and_axis_deviation.png)
+
+- **Right axis deviation** (I -ve; aVF +ve) - +90 to +180 degrees:
+
+  - **DDx of -ve Lead I:**
+    - RAD or extreme axis deviation
+    - Transposition of arm leads
+    - Dextrocardia
+  - **ECG findings supportive of RAD:**
+  - Lead I -ve, aVF +ve (LLQ)
+  - aVR is -ve
+  - R wave comparison between lead III and aVF gives the vector axis
+
+  
+  ![](../img/ecg_findings_off_right_axis_deviation.png)
+
+  - **Causes of RAD:**
+  - <u>RVH</u> - Dominant R wave in V1, Dominant S wave in V5/6 +/- evidence of right heart strain
+  - <u>Lateral STEMI</u> - a/w ST/T changes in V5/6
+  - <u>Pulmonary embolism</u> (acute RV overload) - accounts for S1 in S1Q3T3 pattern, right heart strain, and clockwise rotation of heart (S in V6)
+  - <u>COPD</u> - due to low diaphragm position, causing apex to shift downward and to the right affecting the main vector (a/w RVH, right heart strain, and MAT in patient w/ COPD)
+  - <u>Hyperkalaemia</u> - a/w peaked T waves (T \> R in most leads)
+  - <u>Others</u> - juvenile ECG pattern, normal variant (verticle heart position in slim and tall individuals), TCA intoxication
+
+- **Left axis deviation** (I +ve; II -ve; aVF -ve) - -30 to -90 degrees:
+
+  - **ECG findings supportive of LAD:**
+    - Lead I +ve, aVF +ve (RUQ)
+    - Lead II -ve (recall lead II is perpendicular to aVL, i.e. the border of the normal cardiac axis)
+    - Lead III is also -ve
+
+    
+    ![](../img/left_axis_deviation.png)
+  - **Causes of LAD:**
+    - <u>LVH</u> - deep S wave in V1, tall R wave in V5/6 (+ve Sokolow index)
+    - <u>Inferior STEMI</u> - STE in II, III, aVF
+    - <u>Others</u> - left anterior fascicular block, left tawara branch block
+
+- **Extreme axis deviation** (I -ve; aVF -ve):
+
+  - **ECG findings supportive of extreme axis deviation:**
+    - II, III, aVF -ve (definitive)
+    - Lead I usually also -ve (equiphase QRS in lead I if vector axis ~ -90 degrees)
+
+    
+    ![](../img/extreme_axis_deviation.png)
+  - **Causes of extreme axis deviation:**
+    - VT
+    - HyperK
+    - Severe RVH

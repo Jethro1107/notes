@@ -1,0 +1,242 @@
+---
+id: 3520bbff-2954-4467-8808-f93e75b2a56b
+title: Breast Mass, Benign Breast Conditions, Breast Cancer - Literature Search on UpToDate
+---
+
+- **Reference:**
+    - [UpToDate: Clinical manifestations and differential diagnosis and clinical evaluation of a palpable breast mass](https://www.uptodate.com.eproxy.lib.hku.hk/contents/clinical-manifestations-differential-diagnosis-and-clinical-evaluation-of-a-palpable-breast-mass?search=evaluation%20of%20breast%20mass&source=search_result&selectedTitle=1%7E92&usage_type=default&display_rank=1#H1657977)
+    - [UpToDate: Diagnostic evaluation of suspected breast cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/diagnostic-evaluation-of-suspected-breast-cancer?search=evaluation+of+breast+mass&source=search_result&selectedTitle=2%7E92&usage_type=default&display_rank=2)
+    - [UpToDate: Clinical features, diagnosis and staging of newly diagnosed breast cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/clinical-features-diagnosis-and-staging-of-newly-diagnosed-breast-cancer?search=breast+cancer&topicRef=737&source=see_link)
+    - [UpToDate: Overview of the approach to metastatic breast cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/overview-of-the-treatment-of-newly-diagnosed-invasive-non-metastatic-breast-cancer?search=breast+cancer&topicRef=744&source=see_link)
+    - [UpToDate: Overview of the treatment of newly diagnosed, invasive, non-metastatic breast cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/overview-of-the-treatment-of-newly-diagnosed-invasive-non-metastatic-breast-cancer?search=breast+cancer&topicRef=744&source=see_link)
+
+# Breast cancer
+
+- **Epidemiology** - most commonly diagnosed cancer worldwide:
+    - <u>Prevalence</u> - lifetime risk of CA breast in HK is 1 in 16
+    - <u>Incidence</u> (HK cancer registry) - 1st in incidence, 3rd in mortality
+- **Pathology of Breast cancer** - depending on histological appearance and biological behaviour:
+    - **In situ cancer** - ductal carcinoma-in-situ/ DCIS, (lobular carcinoma in citu considered a pre-malignant lesion)
+    - **Invasive cancer:**
+        - <u>Invasive ductal carcinoma</u> (70%) - w/ or w/o DCIS
+        - <u>Invasive lobular carcinoma</u> (20%)
+        - <u>Mixed ductal/ lobular carcinoma</u>
+        - <u>Inflammatory breast carcinoma</u>
+        - <u>Rare histological subtypes</u> - e.g. colloid, medullary, tubular. papillary
+- **Clinical features of breast cancer** - increasing number of patients diagnosed when asymptomatic due to abnormal findings on screening:
+    - **Features of local disease:**
+        - <u>Palpable breast lump</u> - noted on self-palpation, classic characteristics of a cancerous lesion include a hard, immovable, unilateral, single dominant lesion with irregular borders
+    - **Features of locally-advamced disease** - overlying nipple changes, skin changes or axillary LN:
+        - <u>Nipple changes</u> - unilateral nipple retraction, bloody nipple discharge
+        - <u>Overlying skin changes</u> - thickening, erythema, ulcerations or dimpling of overlying skin (Peau d'orange), suggestive of the less common inflammatory breast disease
+        - <u>Axillary LN</u> - 40% have node +ve disease
+    - **Features of metastatic disease** - depending on the location:
+        - <u>Bones</u> - bone or back pain
+        - <u>Liver</u> - abdominal pain, N/V, jaundice
+        - <u>Lungs</u> - cough, SOB etc.
+- **Ix:**
+    - **Diagnostic mamography** - mammography of both breast particularly important:
+        - <u>Findings suggestive of invasive breast carcinoma</u>:
+            - 
+- **DDx of CA breast:**
+    - <u>Benign breast disease</u> - cysts, intraductal papilloma, radial scars, breast lesionsfibroadenomas etc.
+    - <u>Other malignancies</u> - e.g. DCIS, microinvasive breast cancer (DCIS with microinvasions), breast sarcoma, Paget disease, phylloides tumour, lymphoma
+- **Dx** - triple assessment (clinical + radiological + pathological):
+- **Staging system** - AJCC TNM staging 8th edition:
+    - Clinical vs pathological staging - T, N, and M stages can be evaluated and reported either clinically or pathologically (i.e. after ressection): 
+    ![](img/ajcc_8th_edition_TNM_staging_breast.png)
+    - Anatomical staging - based on clinical T, N, and M stages: ![](img/breast_cancer_anatomical_staging.png) 
+    ![](img/breast_cancer_anatomical_staging_summary.png)
+    - Prognostic staging - based on T, N, M stages, HER2 status, and hormone receptor status - classified into clinical and pathological prognostic stages
+- **Post-diagnostic evaluation:**
+    - <u>Molecular classification</u> - ER, PR and HER2 status testing for prognostic and therapeutic purposes
+    - <u>Staging evaluation</u> - indicated based on clinical suspicion of metastasis, or clinical stage 3 cancer, or inflammatory breast cancer
+- **Molecular classification of breast cancer:**
+    - **Hormonal receptor status** - ER and PR positivity defined as those who have receptor positivity in \> 1% of cells:
+        - <u>Implications on Tx</u> - ER- and/or PR-positive Ca breast are treated w/ endocrine therapy irrespective of stage
+        - <u>Implications on prognosis</u> - ER positivity a/w better outcomes, while PR appears to have overall poorer prognosis (singly +ve tumours are a/w poorer outcomes than ER and PR +ve tumours)
+    - **HER2 overexpression** - HER2 overexpression is defined as \> 10% of cells intensively stained on IHC, or presence of gene amplification on ISH
+- **Staging Ix:**
+    - <u>Bone scan/ MRI</u> - if unexplained isolated ALP rise on LFT, symptomatic, or T4c disease
+    - <u>CT A+P</u> - if unexplained abdomianl Sx
+    - <u>CT thorax</u> - if presenting with pulmonary compaints
+    - <u>CT T+A+P and PET-CT</u> - for T4c disease (inflammatory carcinoma)
+- **Mx of breast cancer:**
+    - **Principles of Mx:**
+        - **Outcomes** - Oncological outcomes (e.g. 5y survival, recurrence) +/- cosmetic outcome
+        - **Patient stratification** - early, locally-advanced, or metastatic disease:
+            - Eary disease (\< T2N1) - upfront surgery and axillary LN Mx +/- adjuvant RT and systemic Tx
+            - Locally advanced (T3N0, and all stage 3 disease) - downstaging of disease before surgery, followed by surgery, axillary LN Mx and adjuvant therapy
+            - Metastatic disease - systemic Tx
+    - **Mastectomy** -
+
+# Overview of the treatment of newly diagnosed, invasive, non-metastatic breast cancer
+
+- **Planning type and timing of surgery** - surgery as the primary therapy non-metastatic breast cancer:
+    - **Breast-conservative therapy vs mastectomy:**
+        - <u>Breast-conservative therapy</u> - composed of breast-conserving surgery (i.e. lumpectomy) plus radiation therapy
+        - <u>Mastectomy</u> - involves removal of the entire breast
+    - **NCCN absolute C/I for BCT:**
+        - Multicentric disease a/w one of the following criteria - BCS becomes technically difficult to provide adequate oncological outcomes:
+            - Any individual lesions \> 5cm
+            - \> 2 lesions in \> 2 quadrants on breast MRI
+            - Inability to achieve negative surgical margins
+            - cN2 to cN3 disease
+            - Age \< 40y
+            - Triple -ve breast cancer
+            - BRCA mutation carrier
+            - Recipeipt of neoadjuvant chemotherapy or endocrine therapy
+            - Any reason precluding the delivery of adjuvant whole breast RT plus boost
+            - Patient diagnosed w/ gestational breast cancer who cannot receive RT within 12-16 weeks
+        - Inflammatory breast cancer or invasive breast cancer w/ extensive skin or dermal lymphatic involvement
+        - Diffuse suspicious or malignant-appearing microcalcification
+        - Inability to clear multiple +ve-pathologic margins after one or more re-excision attempts
+        - Homozyogous ataxia-telangiectasia mutation (leading to ataxia-telangiectasia syndrome)
+    - **NCCN relative contraindications for BCT:**
+        - Prior RT to affected areas (knowledge of doses and volumes involvement)
+        - Active connective tissue disease involving the skin (Scleroderma or lupus)
+        - Germline p53 mutation (Li-Fraumeni syndrome)
+        - Known genetic predisposition to breast cancer
+    - **Neoadjuvant therapy vs upfront surgery** - neoadjuvant therapy may be indicated for:
+        - Triple -ve cancers \> 2cm and or node-positive
+        - HER2 +ve cancers \> 2cm and/or node-positive
+        - Stage III breast cancer
+        - Selected cases of N1 disease (downstage the axilla)
+- **Neoadjuvant therapy:**
+    - <u>Indications</u>:
+        - Locally advanced breast cancer
+        - Triple-negative or HER2 +ve disease
+    - <u>Regimen</u> - dependent on receptor status:
+        - Hormone receptor +ve - neoadjuvant chemotherapy preferred over hormonal therapy (although hormonal therpay is an appropriate alternative if serious comorbidities)
+        - Triple -ve disease - neoadjuvant chemotherapy +/- immunotherapy for selected high risk disease (\> 2cm, or node +ve disease)
+- **Adjuvant therapy** - indications dependent on 1) hormonal status, 2) whether patient received neoadjuvant therapy:
+    - **Adjuvant systemic therapy in those who had neoadjuvant therapy** - dependent on patients receptor status:
+        - Hormone receptor-positive breast cancer - selection is dependent to 1) menopausal status, and 2) risk of recurrence (high risk, node-positive ER-positive, HER-negative breast cancers are candidates for CDK4/6 inhibitors)
+        - Triple-negative breast cancer - chemoimmunotherapy or monotherapy w/ immunotherapy depending on whether pathological complete response is achieved in neoadjuvant setting
+        - HER2 positive breast cancer - transtuzumab or ado-transtuzumab emtansine depending on whether complete pathological response achieved in neoadjuvant setting
+    - **Adjuvant systemic therapy in those who proceeded w/ upfront surgery:**
+        - HER2-positive breast cancer - adjuvant chemotherapy with transtuzumab indicated for patients w/ tumours larger than 1cm
+        - Triple negative breast cancer - adjuvant chemotherapy
+        - Hormone receptor positive breast cancer - endocrine therapy +/- adjuvant chemotherapy depending on patient and tumour characteristics and gene expression profiling
+
+# Palpable Breast Mass
+
+- **Definition** - a nodule or growth of tissue representing aggregation of coherent material, which may be benign or malignant
+- **Clinical manifestation of breast mass:**
+    - <u>Palpable breast mass</u> - discovered by patient incidentally, during routine examination, or by a clinician
+    - +/- <u>Presence of other features</u>:
+        - Skin changes
+        - Nipple discharge
+        - Mastalgia
+        - a/w trauma
+- **DDx of palpable breast mass** - classified into benign or malignant:
+    - **Benign breast mass:**
+        - <u>Non-proliferative lesions</u> - simple breast cyst, galactocele. papillary apocrine changes, mild hyperplasia of the usual type
+        - <u>Proliferative lesions</u> - usual ductal hyperplasia, intraductal papillomas,sclerosing adenosis, radial scars, fibroadenomas, adenomas, pseudoangiomatous stromal hyperplasia
+    - **Malignant breast mass** - CA breast (e.g. DCIS, Invasive ductal carcinoma, Invasive lobular carcinoma, rare histological subtypes etc.), other malignancies (e.g. phylloides tumour, lymphoma, sarcoma)
+- **Salient points of Hx** - HPI, associated Sx, and related risk factors for breast cancer:
+    - **HPI** - site, number, onset, progression, pain, timing of occurence, association with trauma:
+        - <u>Site</u> - unilateral vs bilateral, precise location
+        - <u>Number</u> - number of mass felt by patient
+        - <u>Onset</u> (Duration of Sx) - how long since the mass is first noticed? How is it initially detected?
+        - <u>Progression</u> - any changes in size such as progressive increase in size, no change or fluctuating size?
+        - <u>Pain</u> - is it associated with mastalgia, if so, whether it is symmetrical?
+        - <u>Timing occurence</u> - does the mass wax and wane with menstural cycle?
+        - <u>Trauma</u> - is there Hx of trauma to the breast (e.g. seat belt, direct injury)? Note that trauma may be the precipitating event to detection of an existing breast lesion, not causing the lesion itself.
+    - **Associated Sx:**
+        - <u>New nipple inversion</u> - has the patient noticed any new nipple inversion?
+        - <u>Nipple discharge</u> - if present, note the laterality, colour, consistency, frequency, timing, and sponteneity of discharge
+        - <u>Features suggestive of malignancy</u> - back/ bone pain, abdominal pain, respiratory Sx
+    - **Risk factor assessment:**
+        - <u>Genetic risks</u> - +ve FHx in 1st/ 2nd degree relatives (early age of onset suggestive of hereditary causes)
+        - <u>Hormonal risks</u> - lifetime estrogen exposure:
+            - **Menstrual Hx** - early menarche, late menopause
+            - **Gestational Hx** - parity, age of 1st pregnancy, breast feeding Hx
+            - **Drug Hx** - OC pills, HRT
+            - **Other malignancies** - e.g. functional ovarian tumours
+    - **Previous screening** - any mammographic screening performed in the past
+- **P/E** - examination of the breast, axilla, and neck
+- **Ix and Dx evaluation of breast mass** - triple assessment for suspected breast cancer:
+    - **Triple assessment** - combines clinical (Hx & P/E), radiological and pathological assessment, which achieves <u>\>= 99% diagnostic accuracy</u>:
+        - <u>Clinical assessment</u> - Hx, P/E suggestive lesion is malignant, and presence of risk factors
+        - <u>Radiological assessment</u> - varying modalities from mammography, USG, and MRI breast depending on indications, and risk for malignancy is expressed by the <u>BI-RADS categories</u>
+        - <u>Pathological assessment</u> - pathological assessment using core needle biopsy (preferred), FNAC, or surgical biopsy for histological correlation
+    - **Radiological assessment:**
+        - **Modalities:**
+            - <u>Mammography</u> - MLO and CC view of both breast taken via X Ray (often used as a screening tool)
+            - <u>Ultrasound</u> - breass ultrasound and axillary ultrasound
+            - <u>MRI breast</u> - indicated for selected patients only (see below)
+        - **Considerations:**
+            - <u>Age of patient</u> - younger patients have 1) denser breasts, and 2) higher chance of lesion to be benign:
+                - **Young age** (\< 30y) - <u>US breast</u> preferred as likely to have benign lesions (\< 1% risk of malignancy) which are often mammographically occult
+                - **Intermediate age** (30-39y) - usually initially start with <u>US breast</u>, followed by <u>mammography</u> as the former has higher Sn in this age group (96% vs 61%)
+                - **Older age** (\> 40y) - usually start with <u>mammography</u> followed by <u>US breast</u> as indicated
+        - **Mammography** - soft tissue radiographs of different views after compression to reduce artifects:
+            - **Role** - role in screening and diagnosis of breast cancer
+            - **Test properties** - Increasing Sn with age (since less dense)
+            - **Views** - breast compressed to reduce artefacts from overlapping tissues:
+                - <u>Mediolateral oblique (MLO) view</u> - breast positioned and compressed from the side at an onlique angle (i.e. view superolateral and inferomedial) to capture the axillary tail
+                - <u>Craniocaudal (CC) view</u> - breast positioned and compressed in verticle axis (i.e. view medial and lateral)
+            - **Breast compression** - adequate compression is necessary for 1) increasing contrast, 2) decreasing radiation dose:
+                - <u>Principles</u> - homogenous breast thickness enabling uniform x-ray penetration, thus increasing contrast
+                - <u>Adequate compression</u> - applied until breast held firm and immbobile (some will experience pain which can affect image quality)
+            - **Radiation dose** - kept minimal (0.7 mSV, equivalent to dose received from <u>natural background for 3mo</u>)
+            - **Interpretation:**
+                - <u>Orientation</u> - Superior vs inferior on MLO, Lateral vs medial on CC
+                - <u>Mass</u> - description of 1) site (by quadrant), 2) size, and 3) borders, 4) density of masses seen:
+                    - **Site** - e.g. upper outer quadrant of which breast
+                    - **Size** - rough estimate by size of greatest dimension
+                    - **Borders:**
+                        - <u>Benign lesions</u> (e.g. cysts) - oval, well-circumscribed lesions
+                        - <u>Malignant lesions</u> - spiculated (PPV 81%), or irregular border (PPV 73%)
+                    - **Density** - 70% of high-density lesions turn out to be malignant, and 22% of low-density lesions turn out to be malignant
+                - <u>Microcalcifications</u> - grouped radiodense calcifications of various size and shape represent **intraductal calcifications in areas of necrotic tumours**
+            - **Features suggestive of malignancy** 2 general categories of mammographic findings suggestive of malignancy:
+                - **Soft tissue mass/ asymmetry** (non-calcified cancer):
+                    - <u>Spiculated mass</u> (highest PPV) - seen in 33% of non-calcified cancers
+                    - <u>Irregular bordered mass</u> - seen in 25% of non-calcified cancers
+                    - <u>Non-specific lobulated mass</u> - seen in 10% of non-calcified cancers
+                    - <u>Well-bordered mass</u> - seen in 10% of non-calcified cancers
+                    - <u>No obvious mass but with intra-ductal calcification</u> - seen in 5% of non-calcified cancers
+                - **Microcalcifications** - histologically represent intraductal calcifications in necrotic tumour area (certain specific patterns of calcifications are more suggestive of malignancy)
+            - **Breast Imaging-Reporting and Data System** (BI-RADS) - standardisation for reporting for all imaging (e.g. mammogram, USG) guiding further management:
+                - **Assessment categories:**
+                    - <u>BIRADS 0</u> - incomplete asseessment, requiring additional evaluation
+                    - <u>BIRADS 1</u> - Negative (0%)
+                    - <u>BIRADS 2</u> - Benign (0%)
+                    - <u>BIRADS 3</u> - probably benign (0-2%)
+                    - <u>BIRADS 4</u> - Suspicious:
+                        - 4a - low suspicion for malignancy (2-10%)
+                        - 4b - moderate suspicion for malignancy (10-50%)
+                        - 4c - high suspicion of malignancy (50-95%)
+                    - <u>BIRADS 5</u> - Highly suggestive of malignancy
+
+          
+          ![](img/birads_assessment_categories.png)
+                - **Guidance for further management:**
+                    - <u>BIRADS 0</u> - further imaging characterisation required
+                    - <u>BIRADS 1-2</u> - continue routine mammographic screening
+                    - <u>BIRADS 3</u> - short interval FU (e.g. q6mo) or continued surveillance mammography
+                    - <u>BIRADS 4-5</u> - tissue biopsy necessary
+        - **Ultrasounography** - diagnostic adjunct to routine mammography, but is useful for younger patients:
+            - **Role of US:**
+                - 1\. Further characterisation of mammographically detected masses (e.g. role of downgrading lesions, and increased test properties in terms of Sn, Sp, PPV, NPV after combined approach)
+                - 2\. Characterisation of lesion if mammographically occult
+                - 3\. Axillary US for clinically suspicious LN for FNA or core biopsy
+                - 4\. US-guided biopsy of the mass for pathological diagnosis
+        - **Breast MRI** - not routinely performed for all patients:
+            - **Indications** - very specific scenarios where mammography is limited:
+                - Node +ve disease but clinically occult tumour - identification of occult breast tumour
+                - Pagets disease of the breast with negative P/E and mammography
+                - Disconcordance between clinical and radiological assessment (e.g. clinically larger than appreciated by mammography) - better delineate locoregional disease
+            - **Test propperties** - High Sn (88-100%), but Sp criticised (72%) due to theoretical enhancement of benign tissues
+    - **Pathological assessment** - tissue diagnosis:
+        - **Indications** - for patients with BIRADS 4-5 imaging (with exception of 4a, which can consider 6mo FU)
+        - **Modalities** - choose the least invasive approach to obtain diagnostic material:
+            - FNAC - not preferred because no architectural information (e.g. LCIS vs invasive lobular cancer)
+            - Core needle biopsy - preferred approach
+            - Surgical biopsy (e.g. excisional vs incisional biopsy) - enables histological diagnosis generally avoided
+        - **Guidance** - free-hand, USG-guided, MMG-guided (stereotactic), MRI-guided: 
+        ![](img/guidance_in_breast_tissue_biopsy.png)
+        - **Comparison between FNAC and core needle biopsy:** 
+        ![](img/fnac_vs_core_bx_in_breast_cancer_dx.png)

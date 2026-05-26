@@ -1,0 +1,47 @@
+---
+id: c0812507-804d-4c0e-94be-b28b7e4fe49c
+title: Viral Encephalitis
+---
+
+# Viral Encephalitis
+
+- **Definition** - infection of the cerebral parenchyma by viruses
+- **Etiology of viral encaphalitis:**
+  - <u>Herpesviridae</u> - HSV-1 (most common), HSV-2, VZV, CMV, EBV
+  - <u>Enteroviruses</u> - Coxackie virus, echovirus, poliovirus
+  - <u>Respiratory viruses</u> - influenza virus, adenovirus
+  - <u>Flaviviruses</u> - e.g. Japanese encephalitis virus
+  - <u>Others</u> - Rabies virus, HIV
+- **Pathophysiology of viral encephalitis:**
+  - **Viral infection of the brain parenchyma** - viruses may reach the brain via the olfactory nerves
+  - **Inflammatory response of brain parenchyma** - distribution of lesions varies for type of viruses, but can essentially affect cortex, white matter, subcortical nuclei, and brainstem:
+    - <u>Herpes simplex encephalitis</u> - temporal lobe is primary affected
+    - <u>Cytomegalovirus</u> - area adjacent to the ventricles typically affected (ventriculitis)
+    - <u>Japanese encephalitis virus</u> - bilateral thalamus involvement
+  - **Effects of inflammatory response:**
+    - Neuronal degeneration and diffuse glial proliferation
+    - Cerebral oedema
+- **Clinical features of viral encephalitis** - acute onset of Sx:
+  - <u>Fever</u> - pyrexia points towards an infection
+  - <u>Headache</u> - attributable to viral infection, meningeal irritation +/- cerebral oedema
+  - <u>Focal neurological Sx</u> - e.g. aphasia, hemiplegia and visual field defects and may mimick stroke
+  - <u>Seizures</u> - occurs as a result of acute brain injury
+  - <u>Disturbed consciousness</u> - ranges from drowsiness to deep coma
+- **Ix:**
+  - **CT brain** - may show hypodense lesions in the affected area (mainly to r/o mass lesion resulting in focal neurological Sx): 
+  ![](../img/neuroimaging_in_viral_encephalitis.png)
+  - **LP** (normal in 10%) - performed once imaging has excluded a mass lesion:
+    - <u>WBC and differentials</u> - lymphocytic pleocytosis (although PMN may dominate in early stages or in selected viral infections \[e.g. West Nile Virus\])
+    - <u>Protein</u> - elevated
+    - <u>Glucose</u> - normal
+    - <u>Virological Ix</u> - PCR for viral DNA for microbiological Dx
+  - **EEG** - characteristically abnormal (esp. periodic slow waves in temporal lobes for HSV)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>General measures</u>:
+      - Anticonvulsants may be needed if presents w/ seizures
+      - Dexamethasone may be needed if presents w/ raised ICP
+    - <u>Empirical antiviral therapy</u> - initiate acyclovir early for all patients suspected to suffer from viral encephalitis
+  - **Empirical IV aciclovir** - initiated for all patients:
+    - <u>Dosing</u> - 10mg/kg IV tid for 2-3 weeks
+    - <u>Efficacy</u> - reduces mortality from 70% to 10%

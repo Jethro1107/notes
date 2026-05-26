@@ -1,0 +1,142 @@
+---
+id: 1D204017-2F1D-4AA9-BCE3-339CDB7E58BA
+title: "Harrison Ch252 The Bradyarrhythmias: Disorders of the Atrioventricular Node"
+---
+
+# Ch252 The Bradyarrhythmias: Disorders of the Atrioventricular Node
+
+- **Mechanisms for AV node to serve as the electrical "gatekeeper to the ventricles** - delays conduction between atrial and ventricular activation:
+  - <u>Arrangement of gap junctions and expression of connexins</u> - results in weak electrical coupling in the center of the node to slow conduction and protect it from the peripehery
+  - <u>Non-conductive peripheral tissues</u> - due to lack of conductance in adjacent valvular tissue and surrounding extracellular matrix and fibroblasts
+- **Normal rate of pacemaker activity of AV node:**
+  - Normal automaticity rate of 20-60 bpm (cf SA node at 60-100 bpm)
+  - Normally overriden by higher intrinsic rate of the SA node but has the potential to take over pacemaker activity should SA node fail to depolarise
+  - Much faster intrinsic rate relative to Bundle fof His and Purkinje fibers to ensure unidirectional flow of impulses through the conduction system
+- **Electrophysiological response to AV nodal dysfunction:**
+  - <u>Decreased conduction velocity</u> - results in slowed conduction to ventricles and hence bradycardia (reduced ventricular rates), and hence S/S of haemodynamic comprimise
+  - <u>Escape rhythm</u> - usually a reliable escape ventricular rhythm emerges and serves as the pace-maker, but **asystole** and **cardiac arrest** occurs if no escape rhythm emerges
+
+## Structure and Physiology of the AV Node
+
+- **Anatomy of the AV junctional area** - classified based on electrophysiological phenotypes:
+  - <u>Transition cell zone</u> - approaching from the atrium to the compact AV node
+  - <u>Compact AV node</u> - bulk of pace-making cells (1 x 3 x 5 mm) receiving activity from SA node and discharging via the Bundle of His
+  - <u>Lower nodal bundle</u> - penetrating part of the His Bundle, receives conduction from the AV node
+- **Site of the compact AV node** - compact region beneath the right atrial endocardium at the apex of the <u>triangle of Koch</u>, defined by 3 landmarks:
+  - Coronary sinus ostium posteriorly
+  - Septal tricuspid valve annulus anteriorly
+  - Tendon of Todaro superiorly
+- **Orientation of the compact AV node:**
+  - Continues anteriorly and superiorly as the penetrating AV bundle
+  - Traversal of the central fibrous body in close proximety to the aortic, mitral, and tricuspid valve anulus
+- **Orientation of the lower nodal bundle** - passes through the annulus fibrosis and becomes the Bundle of His in the interventricular septum
+- **Electrophysiological profiles of the AV junctional area:**
+  - <u>Transition cell zone</u> (atrio-nodal cells) - electrical phenotype between that of atrial myocytes and the cells of the compact node, showing **decremental conduction** (i.e. slowing of conduction w/ incereasing sitimulation rates)
+  - <u>Compact AV node</u> - similar to SA node w/ resting membrane potential of -60 mV:
+    - Slow phase 0 depolarisation by L-type Ca channels
+    - Phase 4 depolarisation reflects composite activities of depolarising (funny currents, Ca channels) and repolarising currents (ACh-gated K channels, delayed rectifier K channels)
+    - **Electical coupling is tenuous** due to relatively sparse gap junctions and increased extracellular volume
+- **Blood supply of the penetrating AV bundle:**
+  - AV nodal artery (90% arises from RCA; 10% arises from LCX)
+  - Septal perforator of the LAD artery
+- **Innervation of AV node** - highly modulated by sympathetic and parasympathetic nerves (cf Bundle of His and more distal components are not influenced by autonomic tone)
+
+## Electrocardiographic Definitions of AV Conduction Block
+
+- **Electrocardiographic definitions of AV conduction block** - based on ECG morphology (rhythm and interval analysis) but also reflects location of block along AV conduction axis: 
+![](../img/electrocardiographic_definition_of_av_block.png)
+  - <u>1st-degree AV block</u> - conduction delay occuring in the compact AV node, but all impulses are conducted to the ventricle:
+    - Ocassionally atrium or His bundle affected
+    - Prolonged PR interval (\> 200 ms)
+    - Narrow QRS complex
+  - <u>2nd-degree AV block</u> - intermittent failure of conduction between atria and ventricles: 
+  ![](../img/mobitz_1_vs_2_block.png)
+  - <u>3rd-degree AV block</u> - complete heart block w/ AV dissociation where V rate \< A rate
+
+## Etiology of AV Conduction Disease
+
+- **Etiology of AV block:** 
+![](../img/causes_of_av_bllock_harrisons.png)
+- **Idiopathic fibrosis and degeneration of the conduction system:**
+  - <u>Lev's disease</u> - senile degeneration of the conduction system, particularly resulting in **proximal bundle branch fibrosis**
+  - <u>Lenegre's disease</u> - sclerodegenerative process in younger patients, typically involving more **distal portions of the bundle branhces**
+  - <u>Calcificaiton of the valvular annulus</u> - often associated w/ aortic valve annulus, while mitral valve annulus involvement is less common
+- **Iatrogenic cause of AV block:**
+  - <u>Rate limting surgeries</u> (N.B. most have underlying AV block) - beta-blockers, non-DHP CCBs, digoxin
+  - <u>Transcatheter interventions</u> - percutaneous TAVR, alcohol septal ablation, septal myectomy, ablation for AVNRTs
+  - <u>Surgical interventions</u> - valvular surgeries, septal myectomy, surgical repairs of septal defects and transposition of the great arteries
+- **AV block in the setting of myocardial ischaemia** - due to 1) direct ischaemia of the conduction system, and 2) enhanced vagal tone (Bezold-Jarisch reflex), where type of block may be a/w different coronary territories:
+  - <u>Inferior MI</u> - level of block proximal to bundle of His (90%), often w/ reliable stable junctional escape rhythms (narrow complexes)
+  - <u>Anterior AI</u> - level of block distal involving His bundle and bundle branches (CHB possibly preceeded by RBBB due to ischaemia), often w/ less reliable ventricular escape rhythms (wide complex)
+- **Infectious causes of AV block:**
+  - <u>Lyme carditis</u> (Borrelia burgdorferi) - typically at level of AV node w/ junctional escape rhythm at \> 40 bpm, typically resolves after 1 week of ABx therapy
+  - <u>Infective endocarditis</u> - presence often indicates **perivalvular abscess**, which requires urgent surgical intervention
+  - <u>Other infectious disorders</u> - Chagas' disease, toxoplasmosis, viral myocarditis
+- **Infiltrative causes of AV block:**
+  - <u>Rheumatological disorders</u> - **systemic sclerosis** (conduction system fibrosis), other CTDs (e.g. SLE, RA, mCTD)
+  - <u>Other infiltrative diseases</u>:
+    - Sarcoidosis
+    - Cardiac amyloidosis
+    - Haemochromatosis
+- **Functional causes of AV block:**
+  - <u>Electrolyte disturbances</u> - **hyperK**, hypoK, hypoMg
+  - <u>Endocrinopathies</u> - severe hypothyroidism, hypoaldosteronism
+  - <u>Cardioneurogenic syncopes</u> (increased vagal tone) - vasovagal syncope, carotid sinus hypersensitivity, situational syncope
+  - <u>Other excessive vagal tones</u> - sleep apnea
+- **Neuromuscular disorders a/w AV block** - accelerated muscule loss and fibrosis:
+  - Nucleotide repeat disease myotonic dystrophy
+  - Mitochondrial myopathy Kearns-Sayre syndrome
+  - Other monogenic muscular dystrophies
+- **Congenital causes of AV block:**
+  - <u>Maternal lupus</u> - typically a/w maternal anti-Ro +ve disease
+  - <u>Complex congenital hearat diseases</u> - transposition of great arteries, ostium primum ASDs, VSDs, endocardial cushion defects, single ventricle defects
+  - <u>Others</u> - idiopathic congenital AV block in structurally normal heart
+
+## Diagnostic Testing
+
+- **AV nodal or infranodal blocks** - level of block guides prognosis and the need for pacing (esp. in asymptomatic patients):
+  - <u>Difference in pathophysiology</u>:
+    - Vagal maneuvers - increased vagal tone mmay slow conduction in the AV node but have less of an effect on the infranodal tissues
+- **Approach to the patient w/ known AV block:** 
+![](../img/evaluation_of_patient_with_suspected_av_block.png)
+  - <u>Hx</u> - evidence of haemodynamic comprimise, known reversible causes (e.g. medications, sleep apnea)
+  - <u>P/E</u> - evaluation of the presence or absence of strucural heart disease
+  - <u>Initial Ix</u> - ECG and echocardiography for detection of other conduction abnormalities and structural heart disease
+  - <u>Additional evaluation</u>:
+    - Advanced imaging - Cardiac CT, cardiac MRI, PET for infiltrative heart disease
+    - Ischaemia workup - driven by clinical suspicion at presentation (e.g. Sx and ECG of ischaemia)
+    - Execise testing and electrophysiology studies - delineate the level of block
+
+## Acute Management of AV Conduction Block
+
+- **Principles of Mx:**
+  - <u>Determine the rhythm</u> - 1st-degree block, 2nd-degree block, CHB
+  - <u>Identify and eliminate reversible causes</u> - e.g. drugs, ischaemia, electrolytes, and excessive vagal tone
+  - <u>Evaluation of the safety and reliability of escape rhythms</u> - guides the need for pacing; as rule of thumb, the lower the escape rhythm, the less reliable it is
+  - <u>Pharmacological therapy</u> - only for low-level blocks likely originate from AV node
+  - <u>Temporary pacing</u> - trancutaneous/ transvenous pacing based on 1) Sx, 2) haemodynamic status, and 3) estimated level of the block
+  - <u>Permanent pacing</u> - typically required if irreversible infranodal AV blocks
+
+  
+  ![](../img/approach_to_mx_of_av_block.png)
+- **Identify and eliminate reversible causes:**
+  - <u>Unnecessary medications known to delay AV conduction</u> - beta-blockers, diltiaem, verapamil, digoxin
+  - <u>Electrolyte disturbances</u> - hyperK, hypoK, hypoMg
+  - <u>Ischaemia</u> - principally reversal of the ischaemia will reverse AV block, but certain MIs are a/w more significant AV blocks:
+    - Inferior MI - narrow complex junctional rhythm; haemodynamically stable
+    - Anterior MI - wide complex ventricular rhythm; haemodynamically unstable often requires temporary pacing
+  - <u>Infiltrative diseases</u> - immunosuppression improves cardiac sarcoidosis
+- **Transcutaneous pacing** - patches over cardiac apex (cathode), and above right nipple (anode):
+  - Highly effective once electrical and mechanical capture attained
+  - Duration of Tx limited to patient discomfort and longer-term failre to capture the ventricle due to changes in lead impedance
+- **Transvenous pacing:**
+  - Advanced pacing wire via jugular, subclavian, or femoral venous system
+  - Permits stable temprary pacing for haemodynamically significant reversible blocks
+- **Pacemaker innplantation:**
+  - **Indications** - principally if 1) Sx, 2) high-degree block, or 3) expected progression of conduction system disease (see details above):
+    - <u>Low-degree AV block</u> - Sx or known condunction system disease (e.g. neuromuscular disease, Lamin A/C cardiomyopathy)
+    - <u>High-degree AV block</u> (CHB, mobitz II) - indicated for all, irrespective of Sx (if irreversible)
+  - **Selection of pacing mode and system** - mode that maintains AV synchrony and reduces complications of pacing:
+    - <u>Physiological ventricular pacing</u> (cardiac resynchronization therapy \[CRT\]):
+      - Additional pacing lead in lateral or anterolateral branch of coronary sinus or a single lead in His position (individualsed to the diseased conduction system)
+      - Simultaneous RV and lateral LV pacing leading to more physiological LV contraction

@@ -1,0 +1,85 @@
+---
+id: 714b74d5-5a4f-45c0-9478-11a64f2c6e8c
+title: Neutropenic Fever
+---
+
+# Neutropenic Fever
+
+- **Definitions and terminology:**
+  - **Neutropenia** - defined as an absolute neutrophil count \< 1.5 x 10<sup>9</sup>/L, predisposing to clinically important infections, classified by severity:
+    - <u>Neutropenia</u> - ANC \< 1.5 x 10<sup>9</sup>/L
+    - <u>Severe neutropenia</u> - ANC \< 0.5 x 10<sup>9</sup>/L
+    - <u>Profound neutropenia</u> - ANC \< 0.1 x 10<sup>9</sup>/L
+  - **Fever in neutropenic patients** - defined as a single oral temperature \>= 38.3 degrees Celsius, or a temperature of \>= 38 degrees Celsius that persists over 1h period
+  - **Neutropenic fever syndromes** - International Immunocomprimised Host Society recognises the 3 modes of clinical presentation of a pateint w/ neutropenic fever:
+    - <u>Neutropenic fever with microbiologically documented infection</u> - neutropenic fever with a clinical focus and associated pathogen
+    - <u>Neutropenic fever with clinically documented infection</u> - neutropenic fever with a clinical focus, but without the isolation of an associated pathogen
+    - <u>Unexplained neutropenic fever</u> - neutropenic fever with neither a clinical focus of infection nor an associated pathogen, where fever is the only clinical manifestations
+  - **Meyloid reconstitution syndrome** - defined by fever and new inflammatory focus, or progression of pre-existing inflammatory focus in <u>temporal relationship to neutrophil recovery from neutropenia</u>, akin to immune reconstitution inflammatory syndromes following initiation of anti-retroviral therapy in a HIV-+ve patient
+- **Etiology of neutropenic fever** - noting last dose of chemotherapy in Hx is important:
+  - <u>Chemotherapy</u> - neutropenia reaches a nadir in 7-10d which is when patient is most susceptable to infection
+  - <u>Radiotherapy</u> - possible especially if large amounts of marrow irradiated
+  - <u>Bone marrow metastasis</u> - manifests as part of pancytopenia due to bone marrow infiltration (more common in haematological malignancies compared w/ carcinomas)
+- **Pathophysiology of neutropenia:**
+  - **Initiation of neutropenia** - as a result of an <u>imbalance in neutrophil kinetics</u>:
+    - <u>Insult on mitotic reserves</u> - suppressed mitosis of the myeloid lineage in the synthesis of neutrophils as a result of drug-induced suppression, autoimmune disease, haematological disease, infection etc:
+    - <u>Initial compensation by release of non-mitotic reserve</u> - bone marrow typically has a reserve of neutrophils, such that ANC does not drop at onset of bone marrow suppression unless neutrophilic reserve has been depleted (<u>Nadir 7-14d</u> \[median 10d\]): 
+    ![](../img/neutrophil_kinetics.png)
+  - **Risk of infections is a/w severity and duration of neutropenia** - as a rule of thumb, 100% of post-chemoRx patients develop fever if neutropenic for \> 3 weeks: 
+  ![](../img/risk_of_neutropenic_fever_increases_with_duration_and_severity_of_neutropenia.png)
+  - **Counfounding effects predisposing to infection in a neutropenic agent:**
+    - <u>Chemotherapy-induced mucositis</u> - physiological trauma in the narrowest part of the GI tract (e.g. CPJ, GEJ, ICJ, anus) cannot be heal properly as a result of mucositis, predisposing to entrance of **G- rods** into blood residing within the GI tract
+    - <u>Hickman's catheter</u> - chemotherapy in patients w/ leukaemia is delivered via a central venous catheter, which can be a source of colonisation of **G+ cocci** (skin flora), with **access to haematogenous spread**
+    - <u>Use of empirical ABx</u> - use of empirical or prophylactic ABx is common, which affects the normal commensal flora and predisposes to **selection of potential pathogen**
+
+    
+    ![](../img/model_to_explain_origins_of_infections_in_neutropenic_patients.png)
+- **Natural Hx of neutropenia:** 
+![](../img/sequence_of_events_of_chemo_induced_neutropenia.png)
+- **Clinical features of neutropenic fever:**
+  - <u>Fever</u> - often high and unremitting w/ marked systemic upset
+  - <u>Localising Sx</u> - Sx may be non-specific with no foci of infection
+- **Etiological agents of neutropenic fever:**
+  - **Bacteria:**
+    - <u>G- rods</u> (GI) - E. coli, K. pneumoniae, P. aeruginosa
+    - <u>G+ cocci</u> (skin) - coagulase -ve staphylococcus (S. aureus, S. epidermidis), Viridans streptococci, enterococcus species
+  - **Yeasts** - candida spp, Trichosporin spp.
+  - **Mounds** - Aspergillus, Mucoraceae, Fusarium spp.
+- **Approach to neutropenic fever:**
+  - <u>Initial risk assessment</u> - patients are trained to inform first contact of health care system about recent chemotherapy and risk of neutropenia
+  - <u>Timing of ABx</u> - **empirical broad-spectrum ABx** initiated immediately <u>after blood cultures are obtained</u> and before any other Ix have been completed (\< 60 min of presentation)
+  - <u>Dx evaluation</u> - detailed Hx, P/E, Ix should be performed after empirical ABx therapy has been initiated
+- **Salient points of Hx and P/E** - performed daily to identify a focus of infection:
+  - <u>Common source of infections</u> - skin, oral, sinuses, lungs (consider aspergillosis), GE or intra-abdominal abscess, perianal, Hickman exit, BM Bx site
+  - <u>Determine nature of immunesuppression</u> - e.g. use of other immunosuppressants, transplants etc.
+- **Ix:**
+  - **Blood culture** (before initiation of empirical ABx) - 2x blood cultures from both ports of Hickman's +/- peripheral venipuncture if suspected infeted cathecter:
+    - <u>Indications of CVC infection</u> - based on time to positivity:
+      - +ve culture in central venous blood 1-2h prior to peripheral venous blood is indicative of CVC infection
+  - **Urine** - urine microscopy, C/ST for UTIs
+  - **Routine bloods** - CBC, LRFT, ESR/CRP:
+    - <u>CBC</u> - lymphopenia
+    - <u>LRFT</u> - baseline
+    - <u>ESR/CRP</u> - non-specifically elevated
+  - **Imaging** - CXR, CT thorax, CT abdomen:
+    - <u>CXR</u> - if low risk for complications, and absence of respiratory Sx
+    - <u>CT lung</u> - if high risk for complications, or presence of respiratory Sx
+    - <u>CT abdomen</u> - if dairhoea, abdominal pain and tenderness +ve
+  - **Additional microbiological Ix** - depending on clinical presentation:
+    - <u>Respiratory infections</u> - throat swab, sputum culture, BAL +/- galactomannan or 1,3 beta-D glucan for IPA
+    - <u>Skin fections</u> - skin swab for suspicious lesions
+    - <u>GI infections</u> - stool for microscopy, culture +/- C-diff assay
+    - <u>Cather-related infections</u> - swab skin near lines
+  - **Microbiological Ix** - sputum culture, BAL, urine, skin swab, stool +/- galactomannan/1,3 beta-D glucan for pulmonary aspergillosis
+  - Sepsis and septic shock (Hypotension at presentation is an adverse prognostic factor)
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Other supportive therapy</u> - e.g. IV fluids, inotropes, ventilation, haemofiltrations etc.
+    - <u>Empirical IV ABx to cover most likely organisms</u> - options include:
+      - Broad-spectrum Cephalosporin (ceftazidime, cefotaxime)
+      - Meropenem
+      - Combination of anti-pseudomonal penicllin w/ aminoglycoside
+      - Metronidazole if suspected anaerobic infection
+      - Vancomycin if suspected G+ infection (esp. wound or central line infections)
+    - <u>Consider antifungal if no clinical response after 36-48h</u> - amphotericin B or voriconazole
+- **Complications of neutropenic fever:**

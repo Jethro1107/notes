@@ -1,0 +1,353 @@
+---
+id: 8d8d6c9f-24dc-4c49-9829-a04a16a4a522
+title: 2025-03-20
+---
+
+# Prostate cancer and elevated PSA - Literature Search on UpToDate
+
+- **Reference:**
+    - [UpToDate: Clinical presentation and diagnosis of prostate caner](https://www.uptodate.com.eproxy.lib.hku.hk/contents/clinical-presentation-and-diagnosis-of-prostate-cancer?search=prostate%20cancer&source=search_result&selectedTitle=1%7E150&usage_type=default&display_rank=1#H74636051)
+    - [UpToDate: Initial staging and evaluation of males with newly diagnosed prostate cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/initial-staging-and-evaluation-of-males-with-newly-diagnosed-prostate-cancer?sectionName=INTRODUCTION&search=prostate+cancer&topicRef=6939&anchor=H686719695&source=see_link#H686719695)
+    - [UpToDate: Localized prostate cancer risk stratification and choice of initial treatment](https://www.uptodate.com.eproxy.lib.hku.hk/contents/localized-prostate-cancer-risk-stratification-and-choice-of-initial-treatment?search=prostate%20cancer&topicRef=16992&source=see_link#H308212840 )
+    - [UpToDate: Overview of low- and very low-risk clinically localized prostate cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/overview-of-low-and-very-low-risk-clinically-localized-prostate-cancer?search=prostate+cancer&topicRef=6939&source=see_link)
+    - [UpToDate: Initial management of regionally localized intermediate-, high- and very high-risk prostate cancer and those with clinical lymph node involvement](https://www.uptodate.com.eproxy.lib.hku.hk/contents/initial-management-of-regionally-localized-intermediate-high-and-very-high-risk-prostate-cancer-and-those-with-clinical-lymph-node-involvement?search=prostate+cancer&topicRef=6939&source=see_link)
+    - [UpToDate: Overview of systemic treatment for recurrent or metastatic castration-sensitive prostate cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/overview-of-systemic-treatment-for-recurrent-or-metastatic-castration-sensitive-prostate-cancer?search=prostate+cancer&topicRef=6947&source=see_link)
+    - [UpToDate: Overview of the treatment of castration-resistant prostate cancer](https://www.uptodate.com.eproxy.lib.hku.hk/contents/overview-of-the-treatment-of-castration-resistant-prostate-cancer-crpc?search=prostate+cancer&topicRef=6941&source=see_link)
+
+## Clinical presentation and diagnosis of prostate cancer
+
+- **Clinical features of prostate cancer** - most prostate cancer are detected at asymptomatic stage:
+    - **Asymptomatic** - prostate cancer may be identified based on elevated PSA or abnormal findings on digital rectal examination
+    - **Features of local tumours** - 78% of patients have localised cancers at presentation:
+        - <u>Lower urinary tract symptoms</u> (LUTS) - often non-specific and more commonly caused by non-malignant conditions such as benign prostatic hyperplasia, prostatitis etc.
+        - <u>Haematuria and haematospermia</u> - classically transient haematuria at beginning of urination due to urinary source, but often requires complete workup for haematuria
+    - **Features of nodal metastasis** - 12% at presentation, although typically not a reason for presentation as not detectable for patients
+    - **Features of distant metastasis** - 6% of patients have metastatic prostate cancer at presentation, where bone metastasis is most common:
+        - **Bone pain** - gradual onset of rest pain typically to the vertebrae hence localised to the back:
+            - <u>Onset</u> - insiduous onset
+            - <u>Progression</u> - gradual increase in intensity over weeks or months
+            - <u>Quality</u> - aching pain; or burning, lancinating pain if causing radiculopathy
+            - <u>Severity</u> - variable
+        - **Pathological fractures** - sudden onset of backp pain a/w vertebral collapse
+        - **Spinal cord compression** - onset of backpain preceding onset of severe neurological deficits (see section on cord compression)
+- **Signs of prostate cancer** - only palpable for T2+ tumour in the posterolateral aspects of the prostate gland:
+    - Assymetry on DRE
+    - Nodularity of the prostate gland
+    - Induration
+    - Obliteration of the median groove
+- **Raised PSA in prostate cancer** - there is single threshold for defining abnormal PSA value:
+    - **Traditional cutoff for raised PSA** - classically 4 ng/mL (although age-specific cutoffs are proposed)
+    - **DDx of raised PSA** - also occurs in a number of benign conditions:
+        - <u>Transient raised PSA</u> - prostatitis, perineal trauma, bicycle riding, ejaculation etc.
+        - <u>Peristent rise in PSA</u> - BPH, prostate cancer
+    - **Approach to raised PSA** - generally repeat PSA testing to r/o transient cause:
+        - <u>PSA normalised</u> - no urological workup unless clinically abnormal prostate on DRE
+        - <u>Persistently raised PSA</u> - urological workup for prostate cancer even if absent findings on DRE
+    - **Advances in PSA testing** - see details on section of elevated PSA (phi currently in use as an adjunct to standard PSA levels)
+- **Principles of urological evaluation** - determine for decision of Bx for histological confirmation:
+    - **Patient factors** - Bx typically pursued if life expectancy \> 10y
+    - **Clinical factors** - raised PSA level and abnormal DRE
+    - **Adjunctive Ix** - adjunctive PSA-based tests and prostate imaging can better <u>define clinical likelihood of PCa</u>:
+        - <u>Adjunctive PSA testing</u> - e.g. PSA density, f/t PSA, p2PSA, phi, 4K score, STHLM3 model
+        - <u>Multiparametric MRI</u> - adjunctive tool for refining risk status for clinically meaningful PCa and to inform decisions for performing Bx
+- **Ix:**
+    - **TRUS-guided Bx** - obtain tissue for histological Dx:
+        - <u>Approach</u>:
+            - Transrectal route - a/w less pain but a higher rate of infection
+            - Transperineal route - a/w more pain but a lower rate of infection
+        - <u>Template Bx vs targeted Bx</u>:
+            - Systematic template TRUS-guided Bx - systematic Bx of the prostate of variable number of cores
+            - MRI/TRUS-fusion targeted Bx - fusion of MRI images onto TRUS images to enable targeted Bx of suspicious lesions by PI-RADS system
+- **Dx** - principally a histological Dx, but approach to Dx may depend on stage at presentation:
+    - <u>Non-metastatic disease</u> - Dx based on histological assessment of prostate Bx
+    - <u>Metastatic disease</u> - Dx can be clinical (i.e. compatible metastatic pattern + raised PSA levels), or better w/ Bx of metastatic site
+
+## Initial staging and evaluation of males with newly diagnosed prostate cancer
+
+- **Gleason grading system** - assessment of primary (most common) and secondary (second most common) histological architecture upon prostate Bx prior to Tx which predicts likelihood of non-organ confined disease and outcomes after local Tx:
+    - <u>Compression of gleason scoring system into Grade Groups</u> - may be incorporated into overall prognostic group (see below): 
+    ![](~/Documents/notes/img/isup_grade_group_classification_system_for_pca.png)
+- **Staging system** - AJCC 8th edition TNM staging (2017):
+    - **Principles of TNM staging:**
+        - **T-staging** - classified into clinical T-staging (cT staging), and pathological T-staging (pT staging):
+            - <u>Clinical T staging</u> - based on DRE, TRUS-Bx findings +/- imaging studies:
+                - T1 - impalpable, tumour cells identifiable on resected tissue (TURP), or on needle Bx
+                - T2 - palpable but appears to be confined to the prostate
+                - T3 - extra-prostatic extension +/- seminal vesicles involvement
+                - T4 - fixed or invades adjacent structures
+            - <u>Pathological T staging</u> - based on extent of disease in specimen obtained during radical prostatectomy:
+                - T2 - organ confined
+                - T3 - extra-prostatic extension
+                - T4 - fixed or invades adjacent structures
+        - **N-staging** - based on involvement of regional LN in the true pelvis (below bifurcation of the common iliac arteries):
+            - NX - node not assessed
+            - N0 - node negative
+            - N1 - node positive
+        - **M-staging** - based on presence of distant metastasis (non-regional LN, bone metastasis, other sites)
+    - **TNM staging for prostate cancer:** ![](~/Documents/notes/img/ajcc_8e_tnm_staging_for_pca_t_stage.png) 
+    ![](~/Documents/notes/img/ajcc_8e_tnm_staging_for_pca_n_m_stage.png)
+    - **AJCC 8e prognostic stage groups** - dependent on 1) TNM staging, 2) PSA levels, and 3) Gleason Grade Group: 
+    ![](~/Documents/notes/img/prostate_cancer_prognostic_grade_group.png)
+- **Risk stratification based on nomogram** - informs further 1) staging evaluation and 2) Mx of localised disease:
+    - **Principles of risk stratification:**
+        - <u>Guides staging Ix</u> - higher risks on nomograms a/w higher risk of distant metastasis
+        - <u>Guides Mx</u> - lower-risks on nomograms are less likely to progress into clinically meaningful disease during patient's lifetime such that watchful waiting and active surveillance becomes viable
+    - **Risk stratification systems for PCa** - all based on 1) clinical grade, 2) PSA and 3) Gleason score/ Gleason Grade Group:
+        - D' Amico stratification system (historical interest and superceded)
+        - NCCN risk stratification system (6-tiered system to guide staging studies)
+        - ESMO risk stratification system (3-tiered system)
+    - **D' Amico stratification sytem:**
+        - <u>Low risk</u> - cT1-T2a, PSA \< 10 ng/mL, Gleason score \<= 6
+        - <u>Intermediate risk</u> - T2b and Gleason score 7, and/or PSA 10-20 ng/ml
+        - <u>High risk</u> - cT2c or Gleason score 8-10 or PSA \> 20 ng/ml
+    - **NCCN risk stratification system** (preferred): 
+    ![](~/Documents/notes/img/nccn_risk_stratification_system_for_clinically_localised_pca.png)
+    - **ESMO risk stratification system** - similar to D' Amico stratification system:
+        - <u>Low risk</u> - cT1-T2a and ISUP grade group 1 and PSA \< 10 ng/mL
+        - <u>Intermediate risk</u> - anything between low or high risk
+        - <u>High-risk</u> - \>=cT2c or ISUP 4/5 or PSA \> 20 ng/mL
+- **Principles of staging Ix** - based on risk stratification:
+    - <u>High or very high-risk disease</u> - bone and soft-tissue imaging for complete staging of disease
+    - <u>Very low, low or favourable intermediate disease</u> - additional staging Ix not required and can be considered for active surveillance
+- **Staging Ix** - MRI for all, but <u>detection for distant metastasis</u> typically indicated for <u>symptomatic or high-risk disease</u>:
+    - **Multiparametric prostate MRI** - may have been performed prior to prostate Bx under current paradigm w/ role of
+        - <u>Interpretation</u> - characterise focal intraglandular prostate nodules on MRI based on PI-RADS system and predicts likelihood of clinically significant cancer (ISUP Grade Group 2+):
+            - PIRADS 1 - Clinically significant cancer is highly unlikely present
+            - PIRADS 2 - Clinically significant cancer is unlikely present
+            - PIRDAS 3 - Presence of clinically significant cancer is equivocal
+            - PIRADS 4 - Clinically significant cancer is likely to be present
+            - PIRADS 5 - Clinically significant cancer is highly likely present
+        - <u>Value of multiparametric MRI</u> - added benefits irrespective of risk and hence **recommended for all patients** (esp. if not performed prior to Bx):
+            - **Very low- or low- or favourable intermediate-risk disease** - ensure that high-grade disease has not been overlooked, to ensure the <u>elligibility for watchful waiting or active surveillance</u>
+            - **Higher risk disease** - anatomical information for RP and RT planning
+    - **PSMA-based PET-CT** - current standard of care for locoregional staging and detection of distant metastasis:
+        - <u>Indications</u> - for high- or very-high risk disease to detect regional metastasis and distant metastasis
+        - <u>Role</u>:
+            - **Evaluation of pelvic LN metastasis** - PSMA-preRP trial demonstrated possible in PSMA-based imaging due to nature of uptake (cf FDG taken up in bladder ureters), although at a low Sn and high Sp (Sn 40%, Sp 95%)
+            - **Evaluation of distant metastasis** - better diagnostic accuracy compared w/ other imaging techniques
+    - **Bone scan** - Technetium-99 bone scan:
+        - <u>Indications</u> - for high- or very-high risk patients (esp. those w/ symptomatic bone pain):
+            - Yield is low for those w/ lower-grade disease (i.e. low cT stage, low PSA level, and low Grade-group)
+            - Yield proportionally increased in higher risk diseases
+        - <u>Test properties</u> - high Sn for bone metastasis
+        - <u>Limitations</u> - FP in the presence of:
+            - Trauma
+            - Arthritis
+
+## Localized prostate cancer risk stratification and choice of initial treatment
+
+- **Principles of risk stratification** - not only guides staging Ix, but also guides initial Mx:
+    - <u>NCCN risk stratification schema</u> - see above
+    - <u>TNM staging, pre-treatment PSA and Gleason Grade Grouping</u> - additional prognostic grouping to guide optimal Tx
+    - <u>Percentage of positive Bx</u> - estimated tumour volume and percent of Gleason pattern 4 yields additional information, hence similar information is incorporated to stratify intermediate risk groups in NCCN guidelines:
+        - \>= 50% biopsy cores +ve - a/w poorer prognosis and disease control (11% PSA control at 4y)
+        - \<= 34% biopsy core +ve - a/w better prognosis and disease control (86% PSA control at 4y)
+    - <u>Germline testing</u> - considered for those w/ +ve FHx for an inherited cancer syndrome:
+        - Germline mutations for BRCA1/2, ATM, CHEK2 a/w lethal prostate cancers
+        - Germline mutations w/ BRCA or ATM mutations a/w higher risk of grade-reclassification during active surveillance
+    - <u>Tissue-based molecular assay</u> - use of comercial tests (e.g. Oncotype Dx, Prolaris, ProMark) may improve risk stratification
+- **Principles of Mx** - risk stratification approach to guide Mx of clinically localised disease, but ultimately a shared-decision making:
+    - <u>NCCN very low risk</u> - active surveillance recommended for patients w/ very low-risk disease and life expectancy \> 10y
+    - <u>NCCN low risk</u> - active surveillance remains the preferred approach, although radical Tx (e.g. RT, RP) may be considered if presence of high risk features for progression on active surveillance (e.g. germline mutations)
+    - <u>NCCN intermediate risk</u> - radical Tx preferred over active surveillance:
+        - Unfavourable intermediate risk - active surveillance not an option; radical Tx offered either as RP w/ pelvic LN dissection (+/- adjuvant RT) or radical RT with adjuvant ADT
+        - Favourable intermediate risk - active surveillance is an option, but a/w higher risk of developing metastatic disease
+    - <u>NCCN high risk</u> - RT + adjuvant ADT, RP w/ pelvic LN dissection +/- adjuvant RT or ADT deneind on pathological features, or primary ADT if radical Tx not feasible
+    - <u>NCCN very-high risk disease</u> (most will have N+ disease) - radical RT w/ long-term ADT is preferred option
+
+## Overview of very low- or low-risk clinically localised prostate cancer
+
+- **Mx of very low-risk disease:**
+    - <u>Life expectancy \> 10y</u> - active surveillance pursued for post-ponent of immediate definitive therapy; however immediate radical therapy is also acceptable out of patient-preference
+    - <u>Life expectancy \< 10y</u> - watchful waiting and initiate palliative Tx once symptomatic
+- **Mx of low-risk disease:**
+    - **Role of tissue-based molecular assessment** - NCCN states that molecular testing should be considered in men where active surveillance is preferred
+    - **Active surveillance** - indicated for most patients w/ absence of high-risk gene expression and/or histopathologies (e.g. cribiform/ intraductal pathology)
+    - **Radical Tx** - radical prostatectomy or radical RT pursued if:
+        - <u>Molecular profiling</u> - reveals high-risk molecular expression profiles on tissue-based molecular assays
+        - <u>Histological assessment</u> - high-risk histological features such as intraductal or cribriform histology on biopsy
+        - <u>Patient preference</u> - strict active surveillance not feasible for patient, or if patient feels unease or anxious about undergoing surveillance
+- **Radical external beam rdiation therapy** (EBRT):
+    - <u>Principles</u> - external source of radiation to treat prostate gland and a margin of normal tissue
+    - <u>Role of adjuvant therapy</u>:
+        - Typically as monotherapy in low-risk, clinically localised prostate cancer (i.e. w/o adjuvant ADT)
+    - <u>Techniques</u> - 3D-CRT w/ IMRT w/ CT or MRI planning
+    - <u>S/E</u>:
+        - **Gastrointestinal** - radiation proctitis (20%), radiation enteritis (if pelvic LN included)
+        - **Urinary** - exacerbation of LUTs, due to cystitis, urethritis or both
+        - **Erectile dysfunction** - 60-70% present w/ severe ED
+- **Brachytherapy** - another viable option for very-low or low-risk disease although limited by operative risk of implantation, and suboptimal anatomy
+- **Radical prostatectomy** - surgical Tx most established in prostate cancer, and maybe preferred in those w/ BOO and are surgical candidates
+- **Approach to selection between active surveillance and radical Tx** - evidence from ProtecT trial:
+    - **Study design:**
+        - A 15-year RCT for <u>localised prostate cancer</u> (irrespective of risk stratification) randomised into 1) active surveillance arm, 2) radical prostatectomy arm, 3) radical radiotherapy arm
+        - Clinical outcome measures include:
+            - Cancer-specific mortality
+            - Overall mortality
+            - Metastasis (as confirmed on imaging or PSA \> 100 ng/mL)
+            - Clinical progression (composite of metastasis, progression to cT3-T4 disease, initiation of long-term androgen deprivation therapy, ureteric obstruction, rectal fistula, or catheterisation)
+            - Long-term ADT alone
+        - Subgroup analysis of differential effects on prostate-cancer specific mortality:
+            - Age - \< 65y or \>= 65y
+            - Gleason grade group - Grade 1 vs Grade 2 vs Grade \>=3
+            - PSA level - \< 10 ng/mL vs 10-19.9 ng/mL
+            - Aggregate tumour length in biopsy - \< 4mm or \>= 4mm)
+            - Maximum tumor length on single biopsy - \< 2mm vs \>= 2mm
+            - Risk stratification scores
+    - **Outcomes:** 
+    ![](../img/evidence_for_protecT_trial_for_localised_pca.png)
+    - **Interpretations:**
+        - Radical therapy provides <u>no survival benefits</u>, hence the intent of Tx is not to improve survival
+        - Radical therapy <u>prevents metastasis, clinical progression, and initiation of ADT</u>, which can prevent suffering from metastatic disease
+
+## Initial management of regionally localized intermediate-, high- and very high-risk prostate cancer and those with clinical lymph node involvement
+
+- **Overview of approach to intermediate-, high- and very high-risk prostate cancer and those w/ N+ disease** - generally prefer definitive therapy:
+    - <u>Intermediate disease</u> - upfront definitive local therapy (RT or RP) rather than active surveillance
+    - <u>High-or very-high risk disease</u> - upfront definitive therapy
+- **Role of neoadjuvant ADT:**
+    - Demonstrated benefits for unfavourable intermediate risk, high or very high risk in patients w/ opting for RT
+    - No evidence pointing to improved OS, biochemical RFS or improvement in rate of LN metastasis in patients opting for RP
+- **Selection of definitive therapy:** 
+![](~/Documents/notes/img/comparison_between_prostatectomy_and_rt_in_prostate_cancer.png)
+
+## Overview of systemic treatment for recurrent or metastatic castration-sensitive prostate cancer
+
+### Patients with metastatic disease
+
+- **Principles of Mx:**
+    - <u>Determine disease extent</u> - dependent on risk and volume of disease
+    - <u>ADT backbone for all patients</u> - ADT is indicated for all patients with castration-sensitive prostate cancer
+    - <u>Early intensification of mHSPC</u> - newer evidence demonstrated that early intensification with novel hormonal agents is a/w better disease control
+    - <u>Addition of chemotherapy</u> - add taxane-based chemotherapy for high-risk or high-volume disease
+- **Definition of high-risk/ high volume disease:**
+    - <u>High-risk disease defined as \>= 2 of the following</u>:
+        - Presence of visceral metastasis
+        - Gleason score \>= 8 disease
+        - \>= 3 bone lesions
+    - <u>High-volume disease defined as</u>:
+        - Presence of visceral metastasis
+        - \>= 4 bone metastasis including one outside the vertebral bodies and pelvis
+- **Approach to systemic therapy for metastatic disease:**
+    - <u>High-risk and high-volume disease</u> - **triplet therapy** with ADT plus docetaxel and novel hormonal therapy
+    - <u>Other patients</u> - **doublet therapy** with ADT backbone with novel hormonal therapy
+
+  
+  ![](~/Documents/notes/img/initial_mx_for_patients_with_recurrence_or_metastatic_castration_sensitive_prostate_cancer.png)
+- **ADT therapy** - androgen deprivation by medical or surgical means to pre-pubertal level as mHSPC is an androgen-sensitive tumour:
+    - **Selection:**
+        - <u>Surgical castration</u> - bilateral orchidectomy
+        - <u>Medical castration</u> - GnRH agonist, GnRH antagonist
+- **Novel hormonal therapy** - evidence points to early intensification hence indicated in 1L mHSPC:
+    - **Abiraterone:**
+        - <u>MOA</u> - androgen synthesis inhibitor in:
+            - Testes (major physiological source of testosterone)
+            - Adrenal glands (minor physiological source of testosterone)
+            - Prostatic tumour tissue (acquired mutation for endogenous synthesis of androgen in tumour microenvironment resulting in mCRPC)
+        - <u>Evidence</u> - STAMPEDE trial demonstrates benefits of ADT and abiraterone over ADT alone regardless of risk and disease volume status
+    - **Androgen receptor blockers** - Enzalutamide, Apalutamide:
+        - <u>MOA</u> - competitive inhibition of androgen receptors
+        - <u>Evidence</u> - TITAN study showed benefits of ADT and enzalutamide over ADT alone in mHSPC, regardless of extent of disease burden
+- **Chemotherapy** - taxane-based chemotherapy (e.g. docetaxel) for high-risk/ high-volume disease
+
+## Initial systemic therapy for advanced, recurrent, and metastatic castration-sensitive prostate cancer
+
+- **Androgen deprivation therapy** (ADT) - lowering of serum testosterone levels to castrate levels:
+    - **Approach** - decision depends on patient preference and cost:
+        - <u>Surgical castration</u> - bilateral orchidectomy
+        - <u>Medical castration</u> - GnRH agonist, GnRH antagonist
+    - **Historical interest** - estrogen as medical castration:
+        - <u>Oestrogen</u> was once used for medical castration by suppression of endogenous GnRH synthesis
+        - However, dose for effective castration is a/w unacceptable increased risk of cardiovascular disease and stroke, such that <u>added PFS did not translate to OS</u>
+    - **Bilateral orchidectomy** - simple and cost-effective procedure:
+        - <u>Principles</u> - rapid decrease of serum testosterone levels to castrate levels through surgical removal of testes
+        - <u>Relative indications</u> - most patient prefer medical castration if possible:
+            - Cost to medical therapy is an issue
+            - Adherance to medical therapy is an issue
+    - **GnRH agonist:**
+        - <u>Selection</u> - leuprolide, goserelin, triptorelin, buserelin
+        - <u>MOA</u>:
+            - Excessive stimulation of pituitary gonadotrophs, resulting in FSH, LH, and subsequently **testosterone surge** in the <u>first week</u>
+            - Down regulation of GnRH receptors by gonadotrophs resulting in FSH, LH, and subsequently testosterone decline within <u>3-4 week</u>
+        - <u>Flare phenomenon</u> - transient rise causes a surge in serum testosterone:
+            - May promote tumour growth and increase Sx of metastasis
+            - Combated by short course (i.e. 2 weeks) of anti-androgen therapy
+    - **GnRH antagonists** - demonstrated more efficacious compared w/ leuprolide in multiple RCTs:
+        - <u>Selection</u> - Degarelix (parenteral), Relugolix (oral)
+        - <u>MOA</u> - direct inhibition of GnRH receptors, avoiding surge phenomenon
+    - **S/E of ADT** - Sx of male hypogonadism:
+        - <u>General Sx</u> - fatigue, muscle weakness and reduced muscle mass
+        - <u>Vasomor Sx</u> - hot flushes, night sweats
+        - <u>Sexual dysfunction</u> - loss of libido, infertility, gynaecomastia
+        - <u>Hair loss</u> - most prominent in facial hair (reduced shaving frequency), pubic hair
+        - <u>Chronic effects</u> - secondary osteoporosis, cardiovascular and thromboembolic events
+- **Abiraterone** - 1st-generation anti-androgen therapy:
+    - <u>MOA</u> - androgen synthesis inhibitor:
+        - Loss of efficacy of ADT in controlling prostate cancer may be mediated by intracellular conversion of steroid precursors to androgenic steroids within the prostate cell
+        - Abiraterone inhibits intracellular conversion, reducing availability of androgen
+    - <u>Steroid cover</u> - mitigate the cause of secondary hyperaldosteronism caused by abiraterone
+    - <u>Dosing regimen</u>:
+        - PO 1000 mg/d with prednisolone 5mg/d
+- **Androgen receptor blockers** - 2nd-generation blocker:
+    - <u>Selection</u>:
+        - Apalutamide
+        - Enzalutamide
+    - <u>S/E</u>:
+        - CNS toxicity (more marked w/ enzalutamide)
+
+## Overview of treatment for castration-resistant prostate cancer
+
+- **Definition of castration resistance** - evidence of disease progression clinically, biochemically or radiologically despite castrate levels of serum testosterone (\< 1.7 nmol/dL \[50 ng/dL\])
+- **Overview of Mx of MCRPC:**
+    - <u>Radioligand therapy</u> - Lu-177 PSMA
+    - <u>Targeted therapy</u> - PARP inhibitors for germline BRCA mutation
+    - <u>Immmunotherapy</u> - pembrolizumab for MSI-H prostate cancer (2-3% of cases)
+
+# Dysphagia - Literature Search on UpToDate
+
+## Dysphagia
+
+- **Definition** - subjective sensation of difficulty or abnormality of swallowing
+- **Salient points of Hx:**
+    - <u>HPI</u> - onset, progression, quality, severity, timing:
+        - **Onset** - acute vs chronic
+        - **Quality:**
+            - <u>Is it true dysphagia</u>?
+                - Globus sensation - feeling a lump in throught w/o organic cause
+                - Odynophagia - pain during swallowing, typically from GERD or other causes of esophagitis (e.g. candidiasis)
+            - <u>Is it orophagryngeal or esophageal dysphagia?</u>
+                - Oropharyngeal dysphagia - difficulty in initial swallowing, often resulting in frequent choing or aspiration
+                - Esophageal dysphagia - food sticking after swallowing with delayed passage from esophagus to stomach, often results in regurgitation
+            - <u>Type of bolus - Is it worse with solid, liquid or both?</u>
+                - Mechanical obstruction - worse on solids initially, followed by liquids (strictures are severe)
+                - Functional disorders - worse on solid and liquid from the onset of disease
+            - <u>What is the response to bolus?</u>
+                - Mechanical obstruction - often regurgitation
+                - Functional disorders - usually passes w/ drinking liquid or repeated swallowing
+            - <u>Any associations with temperatures of food?</u>
+                - Mechanical obstruction - no associations
+                - Functional disorders - variable dysphagia w/ temperature of food
+        - **Progression:**
+            - Mechanical obstruction - often progressive (rapidly progressive is concerning for malignancy)
+            - Functional disorders - variable
+        - **Severity** - ability to continue take in food?
+    - <u>Associated Sx</u>:
+        - **Heartburn** - points towards Hx of GERD and related complications
+        - **Odynophagia** - inflammatory process (e.g. reflux esophagitis, eosinophilic esophagitis, candidiasis)
+        - **Vomiting** - points towards mechanical obstruction or severe motility disorders
+        - **UGIB** - esophagitis or upper GI malignancy
+        - **Anaemia** (fatigue, SOBOE etc) - occult UGIB suggestive of upper GI malignancy
+        - **Respiratory Sx** - aspiration risk
+    - <u>PMH</u>:
+        - **Hx of neurological disease** - stroke, Parkinson's disease, MG, muscular dystrophy, multiple sclerosis
+        - **Hx of GERD** - chronic heartburn Sx and previous endoscopy (may be monitoring for Barett's esophagus)
+        - **Hx of connective tissue disease** - Sjogren's syndrome, LCSS
+        - **Prior irradiation to the chest**
+        - **Other systemic diseases** - e.g. DM
+        - **Drug Hx** (pill esophagus) - KCl tablets, bisphosphonates, iron tablets (ferrous sulfate), NSAIDs
+    - <u>SHx</u>:
+        - Smoking - RF of upper GI malignancy
+        - Alcohol - RF of upper GI malignancy
+    - <u>FHx</u> - FHx of upper GI malignancies
+
+## Esophageal Carcinoma

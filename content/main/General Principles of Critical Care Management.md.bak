@@ -1,0 +1,64 @@
+---
+id: 90d1186a-ad4d-464a-86da-9389654aacd9
+title: General Principles of Critical Care Management
+---
+
+# General Principles of Critical Care Management
+
+- **Management of patients on admission to ICU:**
+  - <u>Handover</u> - transferring team to ICU staff with review of medical and social history
+  - <u>Clinical assessment</u> - complete clinical assessment
+  - <u>Stabilisation</u> - ongoing resuscitation
+  - <u>Monitoring</u> - establishment of monitoring
+  - <u>Workup</u> - investigation to establish or confirm definitive diagnosis
+  - <u>Management</u> - formulation and implementation of management care
+  - <u>Communication</u> - communication with and explanation to relatives
+- **Daily clinical management in the ICU** - regular clinical assessment aat least daily and ward rounds:
+  - **Role of ward rounds:**
+    - <u>Detailed clinical assessment systematic assessment</u> - at least twice daily to detect changes in patient condition
+    - <u>Revise Mx</u> - alter management based on patient's condition and application of evidence-based measures to reduce complications (FAST HUG)
+  - **Evidence-based measures to reduce complications** - FAST HUG:
+    - Feeding
+    - Analgesia
+    - Sedation
+    - Thromboprohylaxis
+    - Head of bed elevation
+    - Ulcer prophylaxis
+    - Glucose control
+  - **Daily clinical assessment** - patient review should include:
+    - <u>Progress notes</u> - review of progress reports from nursing and medical staff, and any specialist opnion
+    - <u>Review hourly charts</u> - vital signs, GCS etc.
+    - <u>Physical examination</u> - general (skin, line site, wounds etc.), system examinations
+    - <u>System reviews</u>:
+      - Cardiovascular - haemodynamics, volume status, fluids and inotropes
+      - Respiratory - ventilation settings, ABG
+      - Gastrointestinal - nutrition, NG aspirate, bowel function
+      - Renal - urine output, volume status, RFTs, RRT
+      - Neurological - sedation, GCS, pupil response
+    - <u>Laboratory results</u> - haematology, coagulation, LRFTs
+    - <u>Microbiology</u> - temprature, WBC, line sites, and other possible sources of infection, resultes of cultures, antibiotic therapy
+    - <u>Drug therapy</u> - consider adverse effects, drug drug interactions, discontinue unecessary medications
+    - <u>Imaging</u> - review X-rays and other imaging investigations
+    - <u>Monitoring</u> - ensure that all measures are measured (remove CVP catheter, A-line and peripheral venous catheters soon if not needed)
+    - <u>Management</u> - formulate an integrated plan
+- **Sedation and analgesia:**
+  - **Reasons for sedation in critically ill patient:**
+    - <u>Comfort</u> - ensure comfort and relieve anxiety to reduce pain, and increase tolerance for invasive procedures
+    - <u>Reduced metabolic demand</u> - e.g. in conditions of raise dICP that require deep sedation and reduce tissue oxygen requirements and prevent ischaemic damage
+  - **Complications of excessive sedation** - common in ICU patients:
+    - Longer ICU stays
+    - Higher prevalence of delirium
+    - Prolonged requirement for mechanical ventilation
+    - More ICU-acquired infections
+  - **Selection for sedation** - continuous infusion of seadative and/or analgesic drugs:
+    - <u>Sedative</u> - propofol (short acting IV agent with predictable half life not affected by liver and renal impairment)
+    - <u>Analgesia</u> - morphine (caution in AKI/CKD), fentanyl, alfentanil
+  - **Monitoring of sedation** - patient should be comfortable and tolerate Tx, but is awake and lucid:
+    - <u>Richmond Agitation Sedation Scale</u> (RASS): 
+    ![](img/richmond_agitation_sedation_scale.png)
+    - <u>Advantages of regular monitoring</u> - a/w shorter ICU stays
+  - **Sedation break** - daily period when all sedation is stopped for re-assessment of patient (reduces over-sedation and shortens ICU stay)
+  - **Muscle relaxants** - limited utility as high prevalence of precipitating critical illness neuropathy and myopathy:
+    - <u>Indications for muscle relaxants</u>:
+      - Rapid sequence induction for ET intubation (e.g. succinylcholine)
+      - Raised ICP for prevention of cough (e.g. atracurium)

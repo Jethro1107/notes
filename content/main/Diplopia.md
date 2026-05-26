@@ -1,0 +1,27 @@
+---
+id: 77ee47e5-8bb3-4d53-bfcb-dee99fffd304
+title: Diplopia
+---
+
+# Diplopia
+
+- **Definition** - double vision, occassionally reported by patients as blurred vision, most commonly arising from misalignment of the eyes
+- **Differentiation between monocular diplopia and binocular diplopia:**
+    - <u>Monocular diplopia</u> (rare) - diplopia cannot be aborted by closing the unaffected eye and points towards an ocular disease
+    - <u>Binocular diplopia</u> - diplopia can be aborted by closing either eye and points towards a neurological disease
+- **Pathophysiology of binocular diplopia:**
+    - <u>Impaired eye movement</u> - image is not projected onto the same point on the two retinae
+- **Clinical assessment** - the exact defect may be affected based on:
+    - 1\. Determining whether diplopia is maximal in any particular direction of gaze
+    - 2\. Whether images are separated horizontally and vertically
+    - 3\. Additional features of diplopia (e.g. fatigability in myasthenia)
+    - 4\. Whether there are any associated S/S (e.g. pupillary disturbances, ptosis, pain)
+- **DDx of diplopia:**
+    - <u>UMN lesion</u> - e.g. brainstem pathologies
+    - <u>LMN lesions</u>:
+        - Intrameningeal
+        - Carvenous sinus
+        - Superior orbital fissure
+        - Orbit
+    - <u>Disease of NMJ</u> - classical in myasthenia gravis
+    - <u>Disease of the muscles</u> - Graves' opthalmopathy

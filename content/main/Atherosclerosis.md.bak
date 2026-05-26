@@ -1,0 +1,74 @@
+---
+id: e95f376f-a469-4d85-838c-7b17d9f86603
+title: Atherosclerosis
+---
+
+# Atherosclerosis
+
+- **Definition** - progressive inflammatory disorder of the of the intimal wall characterised by focal lupud-rich deposits of atheroma, and can affect any artery in the body
+- **Sites of atherosclerosis** - presence of clinically significant atherosclerosis disease (e.g. PAD) is often a/w occult CAD which attributes to important morbidity and mortality:
+  - <u>Arteries of the lower limb</u> - peripheral artery disease (e.g. intermittent claudication, critical limb-threatening ischaemia)
+  - <u>Arteries of the brain</u> - tansient ischaemic attack (TIA) or ischaemic stroke (ISS)
+  - <u>Arteries of the heart</u> - coronary artery disease (e.g. chronic coronary syndrome, acute coronary syndrome)
+- **Pathophysiology of atherosclerosis:**
+  - <u>Progressive pathological changes begining early in life</u> - clinically occult, and clinical manifestations do not occur until the 6-8th decade:
+    - **Early atherosclerosis** - fatty streak formation a/w endothelial dysfunction
+    - **Advanced atherosclerosis** - macrophage mediated chronic inflammation and smooth muscle mediated repair results in extracellular lipid core surrounded by calcified, fibrotic layer
+
+    
+    ![](img/six_stages_of_atherosclerosis.png)
+  - <u>Complicated atherosclerosis</u> - ulceration of fibrous cap exposes underlying content and will trigger thrombosis that extends into arterial lumen, underlying acute manifestations of atherosclerosis
+- **Risk factors of atherosclerosis** - unknown factors may account to up to 40% of variation in risk between two individuals:
+  - **Non-modifiable risk factors:**
+    - <u>Age</u> - most powerful independent risk factor for atherosclerosis
+    - <u>Sex</u> - premenopausal women have lower rates of atherosclerosis than men of similar age (M\>F), but **sex difference dissapears after menopause**, but not fully attributable to hormonal changes (HRT and oestrogen therapy a/w increased cardiovascular risks)
+    - <u>FHx</u> - atherosclerotic vascular diseases often run in families due to combination of genetics, environmental and lifestyle factors (and inherited risk for comorbidities), where +FHx is present when there is a **first-degreee relative encountering clinical problems at young age** (M \< 50y; F \< 55y)
+    - <u>Genetics</u> - illustrated by twin studies where monozygotic twins and dizygotic twin have 8x and 4x risk respectively relative to general population
+  - **Modifiable risk factors:**
+    - <u>Smoking</u> - most important modifiable risk factor exhibiting strong, consistent, **dose-response relationship** w/ CAD (esp. in \< 70y individuals)
+    - <u>Hypertension</u> - increase in SBP, DBP and pulse pressure a/w increased risk of atherosclerosis, where antihypertensive therapy reduces CV mortality, stroke and heart failure
+    - <u>Hypercholesterolaemia</u> - risk demonstrates a **dose-response relationship**, where lowering serum TC and LDL-C is a/w reduction in risk of MACE, including death, MI, stroke and coronary revascularisation
+    - <u>Diabetes mellitus</u> - potent risk factor for all forms of atherosclerosis and often related w/ diffuse disease
+    - <u>Physical activity</u> - physical activity a/w 2x risk of coronary CAD and is a major risk factor for stroke (regular exercise per WHO guidelines have protective effects through increase in HDL-C, BP lowering, and collateral vessel development)
+    - <u>Obesity</u> - independent risk factor after accounting for higher prevalence of comorbidities such as HTN, DM, and physical inactivity
+    - <u>Alcohol</u> - alcohol a/w lower rates of CAD, but paradoxically a/w increased risk of HTN and cerebrovascular disease
+    - <u>Haemostatic factors</u> - hypercoagulability a/w recurrent arterial thrombosis (e.g. APLS)
+    - <u>Other dietary factors</u> - only a mediterranean-style diet shown to be a/w reduced risk of MACE
+    - <u>Personality</u> - certain personality traits a/w increased risk of CAD, but little-to-no evidence in the role of stress
+- **Mx:**
+  - **Principles of Mx:**
+    - <u>Primary prevention</u> - population and targeted strategies
+    - <u>Secondary prevention</u> - prevention of future MACE to patients who already have evidence of atheromatous vascular disease
+  - **Primary prevention at population level** - modification of risk factors through diet and lifestyle effect through entire population:
+    - <u>Rationale</u> - small reduction in modifiable risk factors (see examples below) may produce worthwhile effects
+    - <u>Modifiable risk factors targeted</u>:
+      - Smoking - advice for smoking cessation; legislation restricting smoking in public places (demonstrated to lower the rates of AMI)
+      - Physical inactivity - take regular exercise
+      - Obesity - maintain ideal body weight
+      - Diet - mixed diet rich in fresh fruit and vegetables; aim to get \< 10% of energy intake from sturated fats
+
+      
+      ![](img/primary_prevention_of_atherosclerosis_at_population_level.png)
+  - **Primary prevention for high-risk individuals** - targeted strategy to identify and Tx high-risk individuals using composite scoring systems:
+    - **Approach to ASCVD assessment** - those with \>= 2 risk factors a/w raised ASCVD risk should undergo ASCVD risk assessment:
+      - **Traditional scoring systems** - considers 1) age, 2) sex, 3) SBP, 4) TC:HDL, 5) smoking status in <u>non-diabetic individual</u> (DM as a ASCVD equivalent and is automatically elligible for secondary prevention):
+        - Framingham Risk Chart
+        - PROCAM Risk Chart
+        - European Coronary Risk Chart
+        - Joint British Societies Coronary Prediction Risk Chart
+        - New Zealand Cardiovascular Risk Prediction Risk Chart
+        - SCORE Risk Chart
+
+        
+        ![](img/jbc_cardiovascular_risk_chart.png)
+      - **Indications for primary prevention** - 10y CVD risk \>= 20%
+    - **Risk factor modification** - initiate antihypertensivesor lipid-lowering therapy per guidelines
+  - **Secondary prevention** - prevention of MACE in individuals with evidence of atherosclerotic disease:
+    - **Lipid-lowering therapy** - statins for all patients with documented atherosclerotic vascular disease irrespective of serum cholesterol level: 
+    ![](img/evidence_for_lipid_lowering_therapy_for_established_cad.png)
+    - **Anti-hypertensive therapy** - BP lowerl to target or 140/85 mmHg or lower dependent on population
+    - **Anti-thrombotic therapy** (ASA) - demonstrated to reduce risk of morbidity and CVD mortality in patients with established atherosclerotic vascualr disease: 
+    ![](img/aspirin_in_secondary_prevention_of_cad.png)
+    - **Cardiorenal protection** - ACEi reduces mortality, MACE in patients w/ atherosclerotic vascular disease irrespective of LV function and presence of HF: 
+    ![](img/evidence_for_acei_in_secondary_prevention_of_atherosclerosis.png)
+    - **Beta-blockers** - selective improvement in survival in selective cases (e.g. post-MI and heart failure)

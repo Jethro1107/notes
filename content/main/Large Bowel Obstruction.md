@@ -1,0 +1,64 @@
+---
+id: 6f627ca5-fc0c-4315-ae00-9ced0f98e507
+title: Large Bowel Obstruction
+---
+
+# Large Bowel Obstruction
+
+- **Definition** - intestinal obstruction distal to the IC valve
+- **Epidemiology** - accounts for 15% of IOs
+- **Clinical features of LBO** - dependent on competence of IC valve:
+- **Etiology of LBO:**
+    - **Mechanical obstruction:**
+        - <u>Intraluminal</u> - faecal impaction
+        - <u>Mural</u> - **obstructing colorectal carcinoma**, volvulus, strictures (diverticulitis, radiation, anastamotic, endometriotic)
+        - <u>Extramural</u> - metastasis, pelvic/ extraperitoneal tumours
+    - **Functional** - ileus, pseudo-obstruction
+- **Clinical features of LBO:**
+- **Ix and Dx evaluation:**
+    - **Routine bloods** - same rationale as above
+    - **Abdominal X-Ray** - diagnosis and localisation of obstruction, assessment of competency of IC valve:
+        - <u>Findings suggestive of LBO</u>:
+    - <u>Water soluble and IV Contrast CT abdomen</u> - precise localisation of obstruction, assess etiology of obstruction, and provide clues regarding bowel status (ischaemia, impending perforation)
+    - <u>Flexible colonoscopy</u> - enables Bx of lesion and potential therapeutic procedures
+- **Mx:**
+    - **Principles of Mx** - dependent on on etiology, site of obstruction, suspicion of strangulation, and patient factors:
+        - **Mx dependent on etiology:**
+            - <u>Malignant obstruction</u> - surgical (+/- prior endoscopic) Tx dependent on site of obstruction (see below)
+            - <u>Sigmoid volvulus</u> - endoscopic decompression with placement of rectal tube to point of torsion (Hartmann procedure if unsuccessful)
+        - **Timing of surgery** - urgent surgery if peritonitis, signs of perforation or strangulation
+    - **Role of endoscopy Tx in LBO:**
+        - <u>Sigmoid volvolus</u> - endoscopic decompression (50% recurrence rate)
+        - <u>Malignancy</u> - endoscopic stenting (see below)
+    - **Endoscopic Mx of obstructive CRC:**
+        - <u>MOA</u> - insertion of metallic stent w/ self expanding mechanism deployed under endoscopic guidance
+        - <u>Role</u>:
+            - **As bridge to surgery** - avoids emergency surgery:
+                - More time to stage the disease
+                - Elective operation w/ bowel preparation
+                - Lower operative mortality and morbidity (including reduced stoma rate)
+            - **As definitive palliation for unresectable disease** - avoids operation and stoma creation
+    - **Surgical Mx of obstructive CRC:**
+        - **Choice of operations for obstructive CRC:**
+            - <u>Resection with margins</u> - resection w/ primary anastamosis or w/o anastamosis
+            - <u>Non-resection</u> - proximal stoma or bypass surgery
+        - **Considerations for selection of procedure:**
+            - <u>Patient factors</u> (risk of anastamotic leaks) - general condition and co-morbidities, haemodynamic status, conditions of remaining bowel
+            - <u>Tumour factors</u> - site of lesion (see below), local extent (e.g. invasion to adjacent structures), perforation
+            - <u>Surgeon factor</u> - esperience in emergency bowel resection and anastamosis
+        - **Selection of operations based on site of lesion:**
+            - **Sigmoid or left-sided CRC:**
+                - <u>N.B.</u> - left-sided CRC can be treated initially with endoscopic stenting if uncomplicated (e.g. no suspected peritonitis, strangulation or perforation) or initial surgery
+                - <u>Factors to consider</u> - competency of IC valve, bacterial and faecal load in proximal colon, viability of proximal bowel, patient factors (comorbidities and haemodynamic status)
+                - <u>Surgical options</u>:
+                    - **Single-stage operation** - segmental resection or subtotal colostomy (dependent on bowel viability) and primary anastamosis +/- temporary diverting stoma
+                    - **Two-stage operation** (<u>Hartmann's proceure</u>) - segmental resection with end-colostomy and closure of the rectal stump
+                    - **Three-stage operation** (rare) - transverse colostomy, resection and anastamosis, closure of colostomy
+            - **Right-sided CRC:**
+                - <u>Considerations</u> - risk for anastamotic risk
+                - <u>Surgical options</u>:
+                    - Right hemicolectomy or extended right hemicolectomy with primary anastamosis or diverting stoma
+                    - Bypass surgery
+            - **Rectal cancer** - diverting stoma before staging assessment, neoadjuvant treatment, and definitive surgery
+- **Prognosis of colonic obstruction** - higher mortality than SBO:
+    - <u>Mortality</u> - \> 10% (dependeing on comorbidity)

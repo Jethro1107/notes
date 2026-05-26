@@ -1,0 +1,85 @@
+---
+id: 5fe3c990-be9e-4c5a-a33f-39a1a5c1fda1
+title: Amenorrhoea
+---
+
+# Amenorrhoea
+
+- **Definition and terminology** - absence of menses:
+    - <u>Primary amenorrhoea</u> - condition in female patient who has never menstruated
+    - <u>Secondary amenorrheoa</u> - condition in female patient who has menstruated before, but experiences cessation of menstruation
+- **Etiology of secondary amenorrhoea:**
+    - **Physiological:**
+        - Pregnancy
+        - Breastfeeding
+        - Menopause
+    - **Hypogonadotrophic hypogonadism:**
+        - <u>Structural hypothalamic/ pituitary disease</u> - e.g. neoplastic (adenoma, meningioma), infiltrative (e.g. haemosiderosis, Langher's cell histiocytosis histiocytosis, hypophysitis), traumatic (TBI/ parasellar surgery)
+        - <u>Functional gonadotrophin deficiency</u>:
+            - Anorexia nervosa
+            - Excessive physical exercise
+            - Psychological stress
+            - Other endocrinopathies - e.g. **primary hypothyroidism**, Cushing's syndrome, Hyperprolactinaemia
+            - Chronic systemic illness (e.g. malabsorption, renal failure)
+        - <u>Isolated gonadotrophic deficiency</u> - e.g. Kallmann's syndrome
+    - **Ovarian dysfunction:**
+        - <u>Hypergonadotrophic hypogonadism</u> - acquired or congenital gonadal disorders
+        - <u>Polycystic ovary syndrome</u> - characterised by sonographic features of the polycystic ovaries and biochemical/clinical hyperandrogenism
+        - <u>Androgen-secreting tumour</u>
+    - **Uterine dysfunction** - e.g. Asherman syndrome (endometrial adhesions)
+- **Salient points of Hx:**
+    - **HPI** - onset, duration, presence of menstruation before, likelihood of pregnancy in women of reproductive age:
+        - <u>Onset and duration</u> - secondary amenorrhoea defined as absence of menstruation for 6 mo
+        - <u>Previous menstruation</u> - confirm presence of prior menstruation to differentiate between primary and secondary amenorrhoea
+        - <u>Possibility of pregnancy</u> - excluded in Hx and Ix
+    - **Associated Sx** - assessment of the level of disease:
+        - <u>Sx of oestrogen deficiency</u> (menopausal Sx) - correlates to hypergonadotrophic hypogonadism or premature ovarian failure: 
+        ![](../img/sx_of_estrogen_deficiency.png)
+        - <u>Galactorrhoea</u> - suggestive to underlying hyperprolactinaemia, which may be suggestive of pituitary or non-pituitary causes
+        - <u>Weight changes</u> - weight gain may suggest hypothyroidism, Cushing's syndrome, or rarely a hypothalamic disorder; weight loss may be a cause of hypogonadotrophic hypogonadism itself
+        - <u>Sx of hypothyroidism</u> (cold intolerance, fatigue) - an important cause of amenorrhoea
+        - <u>Sx of pituitary tumour</u> (headache, visual field defects) - localises to structural hypothalamic or pituitary lesion
+        - <u>Sx of hirsutism</u> (e.g. acne) - consider PCOS
+    - **Menstrual Hx** - document LMP, prior frequency and regularity:
+        - <u>Document LMP</u> - if pregnant
+        - <u>Prior frequency and regularity</u> - long-standing irregular periods suggestive of PCOS
+- **P/E** - body height and weight, general examination, neck examination, examination of visual fields
+- **Ix:**
+    - **Urine pregnancy test** - should be excluded in women of reproductive age
+    - **Hormone profiles** - serum FSH, LH, E2, prolactin, T4, TSH:
+        - **Serum FSH, LH, E2** - differentiation of the different WHO types of anovulation:
+            - <u>Hypogonadotrophic hypogonadism</u> - low/ inappropriate normal FSH/LH, low E2
+            - <u>Normogonadotrophic hypogonadism</u> - normal FSH/LH, E2
+            - <u>Hypergonadotrophic hypogonadism</u> - high FSH/LH, low E2 (primary ovarian failure)
+        - **TFT** (T4, TSH) - detection of primary hypothyroidism (low T4, raised TSH)
+        - **Prolactin** - detection of hyperprolactinaemia
+        - **Testosterone** - biochemical evidence of hyperandrogenism for diagnosis of PCOS (often accompanying elevated LH, prolactin)
+    - **Pituitary imaging** - MRI pituitary indicated if initial hormone profiles suggestive of hypogonadotrophic hypogonadism with no identifiable functional cause
+    - **Trial of oral progestogen** - role in differentiation between hypogonadotrophic hypogonadism and PCOS:
+        - <u>Rigimen</u> - 5d treatment of medroxyprogesterone acetate 10 mg bid
+        - <u>Interpretation</u>:
+            - PCOS - return of menstruation a few days after cesssation of progestogen
+            - Hypogonadotrophic hypogonadism - remains amenorrhoeic after progesteron withdrawal
+    - **DEXA** - assessment of bone mineral density indicated for patients w/ <u>low androgen and low estrogen levels</u>
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Dx and Tx of underlying cause</u> - e.g. regain weight if low weight, reduce exercise if excessive exercise, Mx of structural hypothalamic pituitary disease, Tx of hypothyroidism
+        - <u>Hormone replacement therapy</u> - cyclical HRT regimens w/ combined estrogen/progestogen therapy indicated for estrogen-deficient women for Sx relief +/- prevention of osteoporosis
+    - **Hormone replacement therapy** (HRT) - combined estrogen/progestogen pills over estrogen alone to avoid unopposed estrogen exposure increasing risk of cervical cancer:
+        - <u>Indications</u> - indicated for premature menopause and continued up to 50y
+        - <u>Regimen</u> - cyclincal hormone replacement therap includes:
+            - Estrogen on D1-21
+            - Progestogen on D14-21
+        - <u>Dosing and RoA</u> - conveniently administered as COCP (but lower oral doses or transdermal patches may be utilised if S/E intolerable)
+        - <u>S/E</u>:
+            - **Mild S/E:**
+                - Fluid retention
+                - Hypertension
+                - Weight gain
+            - **Major S/E:**
+                - Coronary artery disease and stroke
+                - Pulmonary embolism
+                - Breast cancer
+
+        
+        ![](../img/complications_of_hrt_in_postmenopausal_women.png)

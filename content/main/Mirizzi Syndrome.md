@@ -1,0 +1,37 @@
+---
+id: c4b61703-6b1d-4284-8b27-04c8febbc110
+title: Mirizzi Syndrome
+---
+
+# Mirizzi Syndrome
+
+- **Definition** - common hepatic duct obstruction caused by extrinsic compression from an impacted stone in the cystic duct
+- **Clinical significance of Mirizzi syndrome** - typically not recognised pre-operatively in patients undergoing cholecystectomy, leading to significant morbidity and biliary injury
+- **Epidemiology** - estimated 0.05-4% patients undergoing surgery for gallstone disease
+- **Pathophysiology of Mirizzi syndrome:**
+    - <u>Impaction of gallstone in Hartmann's pouch</u> - i.e. in neck or infundibulum of GB
+    - <u>Extrinsic compression of common hepatic duct</u> - results in bile stasis, secondary bacterial infection, and cholangitis
+    - <u>Fistula formation from erosion of CBD by impacted stones</u> - cholecystohepatic or cholecystocholedochal fistula secondary to anterior or lateral wall necrosis
+
+  
+  ![](../img/mirizzi_syndrome.png)
+- **Classification of Mirizzi syndrome** - based on extent of cholecystobiliary fistula:
+    - <u>Type I</u> (11%) - external compression of CHD
+    - <u>Type II</u> (41%) - fistula involves \< 1/3 of circumference of CBD
+    - <u>Type III</u> (44%) - fistula involves 1-2/3 of circumference of CBD
+    - <u>Type IV</u> (4%) - destruction of the entire wall of CBD
+- **Clinical features** - clinically indistinguishable from cholangitis (44-71% present w/ complete Charcot's Triad):
+    - <u>Pain</u> (54-100%) - biliary colic type pain
+    - <u>Obstructive jaundice</u> (24-100%) - due to common hepatic duct compression
+    - <u>Fever and cholangitis</u> (6-35%) - due to bile stasis
+- **Ix and Dx evaluation:**
+    - **Routine bloods** - cholestatic pattern on LFT +/- leukocytosis if cholangitis
+    - **Abdominal USG** (Sn 23-46%) - suggestive features include dilatation of biliary system at level of GB neck, presence of impacted stone, abrupt change w/ normal width of common duct below the stone
+    - **Abdominal CT** - typically to r/o MBO
+    - **T2-weighted MRCP** - high Sn for Mirizzi syndrome
+- **Principles of Mx:**
+    - <u>ERCP</u> - diagnostic and therapeutic ERCP if impacted stone can be removed (no need for ECBD in interval cholecystectomy)
+    - <u>Surgical Mx</u> - dependent on degree of cholecystobiliary fistula (ECBD performed to r/o choledolithiasis prior to closure of fistula):
+        - Class I - cholecystectomy
+        - Class II - cholecystectomy and closure of fistula (suture repair, T-tube placement or choledochoplasty)
+        - Class III and IV - bilioenteric anastamosis

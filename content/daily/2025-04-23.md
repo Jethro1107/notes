@@ -1,0 +1,285 @@
+---
+id: 5f266c56-edcc-48fc-8a76-14091cad71b0
+title: 2025-04-23
+---
+
+- [[Disorders of the Spinal Cord, Spinal Cord Injury - Literature Search on UpToDate]]
+
+# GC188 Hit by a Van, in shock with internal bleeding: Abdominal Injury
+
+- **Golden hour management** - Trimodal death distribution –\> golden hour to prevent early deaths medically (during second peak)
+- **Primary survey:**
+    - ABC –\> laid out to greatest threat to life
+    - Airway and C-spine control
+    - Breathing
+    - Circulation
+    - Disability - GCS, pupilliary responses
+    - Exposure and environmental control
+
+# GC109 Headache and loss of consciousness - Haemorrhagic stroke <span class="tag" tag-name="Surgery"><span class="smallcaps">Surgery</span></span> <span class="tag" tag-name="Lecture"><span class="smallcaps">Lecture</span></span>
+
+- Monro-Kelly Doctrine –\> buffered ICP initially
+- Consciousness - arousal and awareness:
+    - Arousal (awake and alert) –\> brainstem reticular activating system
+    - Awareness –\> cerebral cortex
+- Coma when GCS \<= 8:
+    - Unarousable
+    - Coannot protect airway and inadequate breathing
+- Common causes of coma - intracranial vs extra-cranial:
+    - Intracranial - trauma, vascular, hydrocephalus, tumour, infection/ inflammation
+    - Extracranial - metabolic, drug&toxin, respiratory insufficiency, cardiac insufficency
+- Sudden onset of headache with deterioration in consciousness is cerebrovascular event
+- Cerebrovascular events:
+    - Onset - abrupt onset
+    - Types ischaemic or haemorrhagic
+    - Traumatic vs spontaneous haemorrhage:
+        - Mostly traumatic - extradural vs subdural haemorrhage
+        - Mostly spontaneous - intraventricular, deep ICH
+        - Traummatic or spontaneous - subarachnoid, lobar ICH
+    - Clinical features:
+        - Headaches - due to raised ICP +/- meningeal irritation
+        - LOC - due to brainstem/ cortical failure
+        - Focal deficits –\> depending on location (severely disability but potential reversibility)
+
+## Acute haemorrhagic stroke
+
+- **Haemorrhagic strokes** - also referred as spontaneous intracranial haemorrhage, accounts for 10% of strokes/ CVA
+- **Etiology of haemorrhagic stroke** - often multifactorial in patients:
+    - Chronic systemic HTN - causes degenerative changes in cerebral vasculature
+    - Amyloid angiopathy - degenerative changes due to amyloid deposition on cerebral vessels
+    - Haemorrhagic transformation of ischaemic stroke
+    - Coagulopathy - esp. in anti-coagulated patients
+    - Vascular anomalies:
+        - Cerebral aneurysms
+        - Arteriovenous malformation
+        - Carvenoma
+    - Tumours - tumor bleeding
+    - Drug abuse - e.g. concaine, sympathomimetic abuse
+    - Others - Arterial dissection, vasculitis, moyamoya disease
+- **Site of spontaneous ICH** - can occur anywhere in cerebral circulation or brainstem, but classically in association w/ small degenerative aneurysms:
+    - **Basal ganglia haemorrhage** +/- intraventricular extension
+    - **Caudate haemorrhage**
+    - **Internal capsule haemorrhage**
+    - **Thalamic haemorrhage**
+    - **Lobar haemorrhage** (most commonly in parietal and occipital lobes)
+    - **Cerebellar or brainstem haemorrhage**
+- **Clinical features of spontaneous ICH** - abrupt onset of Sx:
+    - Headache and other ICP symptoms - more likely related to headache than ischaemic stroke, due to raised ICP and meningeal irritation, especially if haemorrhage is large
+    - Deterioration of consciousness - occurs when there is cortical or brainstem failure
+    - Focal neurological S/S - corresponding to area affected
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>General measures</u> - Resuscitation and ICP control
+        - <u>Conservative Tx</u> - Tranexamic acid, reverse bleeding tendancy, maintenance of CBF (no role of steroids)
+        - <u>Neurosurgical decompression</u> (CSF drainage or clot evaculation) - patient selection dependent on patient factors (e.g. age, co-morbidities), and stroke factors (e.g. location, neurological status, etiology etc.)
+    - **Conservative Tx:**
+        - **Reverse bleeding tendancy** - discontinue anticoagulant and antiplatelet drugs and give reversal agents
+        - **Trenaxemic acid** - evidence is controversial, but consensus is that it may help
+        - **Steroids** - no role of steroids in spontaneous ICH (cf other causes of raised ICP)
+        - **ICP management and maintenance of CBF**
+    - **Clot evacuation** - life-saving procedure for selected patients that deteriorate despite optimal medical therapy, but does not affect the primary injury:
+        - <u>Considerations for clot evacuation</u> - functional prognosis, depending on site and extent (size) of haemorrhage:
+            - **Deep intracerebral haemorrhages** (e.g. Putamen haemorrhage) - poor functional outcome due to primary injury → often managed conservatively unless young
+            - **Lobar haemorrhages** - good functional outcomes as deep nuclei and brainstem are compressed but not primarily injured → clot evacuation may be life-saving
+            - **Cerebellar haemorrhage** - good functional outcome if timely surgery as S/S are related to meningism and not brainstem failure (however rapidly fatal)
+- Haemorrhagic stroke - refered as spontaneous intracerebral haemorrhages (ICH):
+    - Most commonly - BG area, lenticostriate area of MCA
+    - Poor prognosis
+    - Pathophysiology:
+        - LOF due to BG
+        - Haematoma causes raised ICP
+        - Rebleeding can occur
+    - Etiology/ RFs:
+        - Systemic HTN –\> BG bleed
+        - Bleeding tendancy
+        - Amyloid angiopathy (elderly)
+        - Haemorrhagic transformation of infarction
+        - Tumour bleeding, and others (read slides)
+    - Principle of Management:
+        - Resuscitation and control ICP
+        - Important notes:
+            - No role of steroids
+            - Tranexamic acid may help
+            - Reverse bleeding tendancy
+            - Principles of maintaining CBF apply
+        - Intervention (surgical depression) - patient selection (age, co-morbidities, haemorrhage location) for clot evacuation but does not affect primary injury (functional prognosis depend on location and extent haematoma):
+            - Haemorrhagic location:
+                - Deep seated bleeding - primary injury extensive, no role of aggressive Mx
+                - Lobar ICH - limited primary injury, more aggressive evacuation
+                - Hence poor prognostic strokes - BG stroke, BG + IVH, thalamic stroke, brainstem stroke (all often managed conservativel y and have poor functional outcome)
+
+## Acute ischaemic stroke
+
+- Etiology:
+    - Cardioembolism
+    - Caarotid stenosis
+    - Arteial dissection
+- Presentation:
+    - Can be painful - despite raised ICP
+    - LOC - depending on location and extent
+    - Focal neurological deficits
+- Read up workup - angiogram and neuroimaging
+- Principles of Mx - save the penumbra (i.e. tissue at risk) by timely restoration of perfusion
+    - Intravenous tPA thrombolysis - small vessel ucclusion therapeutic window (3-4.5h from last known well)
+    - Acute LVO - endovascular mechanical thrombectomy within 6h of symptom onset after confirmed LVO with urgent CT angiography (beyond 6h increased risk of haemorrhagic transformation)
+    - Decompressive craniectomy for established infarction –\> ICP control to avoid clinical deterioration:
+        - Most deteriorate in next 24-48h
+        - No effects on deficit –\> just present death
+- Haemorrhagic transformation:
+    - Due to disturbed BBB and vascular reactivity, resulting in reperfusion haemorrhage, especially if delayed perfusion
+
+## SAH
+
+- Site - subarachnoid space (deep to dura)
+- Etiology - traumatic vs spontaneous:
+    - Traumatic
+    - Spontaneous - Saccular or dissecting aneurysm, mycotic aneurysm, vascular malformation, cocaine
+- Headache before LOC –\> likely spontaneous
+- Trauma before LOC –\> likely traumatic
+- How to differentiate between two if patient not conscious?
+- Site of aneurysms:
+    - Circle of willis - ACA, ICA
+- RFs:
+    - Connective tissue disease
+    - ADPKD
+    - Smoking, HTN, Age \> 40, FHx, female
+- Risk of rupture - related to size, but timing unpredictable
+- Principles of Mx of aneurysm –\> threshold 4-5mm
+- Impending aneurysmal rupture:
+    - PComA aneurysm compresses on CN III causing partial/ surgical 3rd nerve palsy (cf 3rd nerve palsy):
+        - Peripheral (parasympathetic fibres) –\> ptosis and dilated pupils
+        - Central (motor fibrse) preserved –\> preserved eye movement (medical due to ischaemia is reversed presentation)
+    - Urgent angiogram and intervention before rupture
+- Clinical presentation of aneurysmal rupture and SAH:
+    - Thunderclap headache
+    - Meningism
+    - Photophobia
+    - LOC
+- DDx - meningitis
+- Dx of SAH:
+    - CT - star sign (blood fills up basal cistern, since near circle of willis), but can be subtle or even normal
+    - LP - if CT negative (flushed away from CSF flow):
+        - Blood stained CSF
+        - 3 bottle test to differentiate SAH vs traumatic tap
+        - Xanthochromia - yellow colouring od CSF after few hour
+    - MRI - FN at acute stage
+- Initial Mx:
+    - Tranexemic acid
+    - Anticonvulsant
+    - Consult neurosurgery
+- Neurosurgical Mx:
+    - CT angiography
+    - DSA if CTA negative - 1% ischaemic stroke risk
+    - Prevent re-bleeding and new rupture - clip vs endovascular intervention
+- Know potential pitfalls
+    - MRA
+- Complications:
+    - Rerupture
+    - Post-SAH vasospasm - after 4th day
+    - Post-SAH hydrocephalus - impaired CSF obstruction
+
+## AVM
+
+- Four types of cerebrovascular malformation:
+    - AVM (highest bleeding risk)
+    - Carvenous angioma
+    - Venous angioma
+    - Capillary telangiectasia
+- Cerebral AVM:
+    - Abnormal development of arteries and veins
+    - No intervening capillary between A and V
+    - Arterialisation of cerebral veins, causing rupture, and vascular steal phenomenon (ischaemia)
+    - Clinical presentation:
+        - Haemorrhage
+        - Ischaemia
+        - Headaches
+        - Seizures
+        - Others - bruit, hydrocephalus, ?HF
+    - Mx:
+        - Surgical excision, radiosurgery, embolisation
+- Moyamoya disease - congential ICA stenosis, causing compensation vascular collaterals (puff of smoke):
+    - Hyperventilation –\> ischaemia in youngs
+    - Bleeding in older patients
+
+# GC182 Chopped and stabbed wound in gang fight, nerve and vascular injuries, classification of injuries
+
+- Multiple injuries:
+    - Correct priority
+    - Penetrating injury vs blunt injury
+
+## Principles of emergency management of multiplle inuries
+
+- ATLS gudelines - systematic and concise standardized approach, management of acute trauma cases to treat the greatest threats of life
+- Primary management - often with lack of full history:
+    - Initial assessment
+    - Life-saving intervention
+- Phase I - primary survey and resuscitation:
+    - Aim - identify and treat life-threatening conditions first
+    - Primary survey:
+        - A - airway maintenance and C-spine protection -\> main patent airway and neck collar (lack of Hx for mechanism of injury) (haematoma can cause airway compression):
+        - B - Breathing and ventilations -\> equal breathsounds on both sides, assess rib fractires and frailed segments
+        - C - Circulation and haemorrhage control –\> maintain BP/P and stop haemorrhage (compression)
+        - D - disability, particularly to CNS (i.e. CNS)
+        - E - exposure –\> full exposure but prevent hypothermia (hypothermia can precipirate coagulopathy)
+        - Airway (read diagram in slides):
+            - Common pitfalls:
+                - Failure to recognise inadequate airway
+                - Failure to establish clear airway
+                - Incorrect placement
+                - Displacement of previous established airway
+                - Failure for need for ventilation
+                - Aspiration
+    - Resuscitation - O2, ventilation, shock management - large bore IV lines and infusion of warmed IV fluid
+    - Adjuncts to phase 1:
+        - CXR, pelvis XRay, C-spine X Ray
+        - Focused assessment with sonography for trauma (FAST scan)/ diagnostic peritoneal lavage (DPL)
+        - NG tube and foley for monitor urine outcome
+        - Simple monitoring:
+            - VItals
+            - Oximetry
+            - ECG
+            - GCS
+- Phase 2 - secondary survey:
+    - Begins when:
+        - ABCDE - complete and secured
+        - Resuscitation efforts - well established
+        - Vitals stable
+    - Examination of patient from head to toe, front to back –\> requires cut off of clothes:
+        - Log roll with neck collar on to access the back –\> include assessment of spinal injury (DRE), thinking spinal shock
+    - Assimilate the history - AMPLE:
+        - Allergies - e.g. penicillin
+        - Medications currently use - esp. antithrombotics, BB (masking shock) etc.
+        - Past illness
+        - Last meal - when to operate
+        - Events leading to injuries
+
+## Biomechanics of injury
+
+- Blunt trauma - force dissipated over wide areas (minimising energy transfer at one spot):
+    - 3 types of forces:
+        - Shearing - i.e. 2 forces acting in opposite direction:
+            - e.g. different parts of body stop moving at different times and speed –\> e.g. acceleration-deceleration (resulting in rupture spleen)
+        - Tension - acting \< 90 degree to surface
+        - Compression - crush/ contusion, haematoma, causing raised visceral pressure suddenly and rupture
+- Penetrating - presence of wound, diccepation of kinetic energy along tract
+    - 3 consequences:
+        - Functional and mechanical disruption of neighbouring tissue
+        - Core of overing clothing carried into wound and causing contamination
+        - GSW - fragments
+    - Know chopped vs stabbed wound
+- Burns - scalds, chemicals
+- Blast - bombs
+- Stab wound to chest - assumed injuried if blunt or penetrating trauma to chest:
+    - Cardiac tamponade, open pneumothorax, massive haemothorax
+- Penetrating injury to the neck:
+    - Exanguinating external bleeding
+    - Expanding haematoma - compression of airway
+    - Requires exploratory operation –\> esp. if unsure dx and wound deeper than platysma
+- Penetrating injury to the abdomen - dependent on the site on surface anatomy (but unreliable):
+    - If stable after resuscitation –\> CT +/- local wound exploration, laparotomy, larparoscopy
+    - Unstable - immediate lapartomy
+- Blunt injury to pelvis –\> pelvic and LL fractures
+- Chopped wound of the limb –\> identify aforementioned injury (to trunk) before limb salvage:
+    - Principles of arterial injury:
+        - Partial injury - incomplete contraction causing massive bleeding immediately
+        - Complete severed - extreme spasm at both ends limiting bleeding

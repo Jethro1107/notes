@@ -1,0 +1,127 @@
+---
+id: 2A5AE529-E0EB-4E22-BFC8-766008BD7A49
+title: Harrison Ch261 Sustained Ventricular Tachycardia
+---
+
+# Ch261 Sustained Ventricular Tachycardia
+
+- **Definition** - ventricular arrhythmia w/ a wide QRS, each resembling the other, lasting for at least 30s or requiring intervention such as anti-tachycardia pacing, defibrillator, or a cardioversion for termination
+- **Factors influencing clinical presentation:**
+    - Rate of arrhythmia
+    - Underlying cardiac function
+    - Autonomic adaptation in response to arrhythmia
+- **Clinical manifestations of sustained VT** - dependent on the factors above:
+    - <u>Palpitations</u> - may be well-tolerated in patients w/ normal ventricular functions and experienced only a sudden onset of sustained rapid heart beat
+    - <u>Syncope</u> - as rapid VT can result in hypotension especially w/ ventricular dysfunction
+    - <u>Cardiac arrest</u> - degeneration of sustained VT into VF esp in those w/ VTs a/w structural heart disease
+- **Pathophysiology of sustained VT:**
+    - <u>Focal increased automaticity</u> - usually the dominant cause of benign idiopathic VT
+    - <u>Re-entrant circuits</u>:
+        - Due to focal infarction, fibrosis, inflammation in those w/ structural heart disease
+        - May be a/w diseased distal conduction system
+        - Re-entry in Purkinje system may implicate some benign idiopathic VTs
+- **DDx of sustained VT** - other causes of wide-complex tachycardia:
+    - SVT w/ left or right bundle-branch aberrant conduction
+    - SVT conducted via an accessory pathway
+    - Rapid cardiac pacing by ventricular pacemaker or defibrilator
+- **ECG suggestive of sustained VT:** 
+![](../img/ecg_of_sustained_vt_harrisons.png)
+- **Monomorphic VT vs SVT w/ abberency:** 
+![](../img/algorithm_for_vt_and_svt_with_abberency.png)
+- **Causes of sustained VT:**
+    - **Idiopathic VT** - in the absence of structural heart disease, may be of 1) outflow tract origin, 2) LV fascicular origin, and 3) papillary muscle origin:
+        - <u>RVOT origin VT</u> - associated w/ LBBB pattern in V1, w/ inferior frontal axis (+ve inferior leads) and late transition of the precordial leads (clockwise rotation)
+        - <u>LVOT origin VT</u> - associated w/ RBBB pattern, w/ inferior frontal axis and early transition of precordial leads (counter-clockwise rotation)
+        - <u>LV fascicular VT</u> - association w/ RBBB pattern in V1 w/ sharp intrisicoid deflection and LAD
+        - <u>Papillary muscle VT</u>:
+            - Posteromedial - atypical RBBB pattern inV1 and monophasic R wave w/ RAD
+            - Anterolateral - atypical RBBB pattern in V1 and positive deflection in lead III, and negative deflection in lead I
+    - **Ischaemic cardiomyopathy:**
+        - <u>Monomorphic VT</u> - common in prior large myocardial infarction resulting in scarring and re-entrant pathway
+        - <u>Polymorphic VT</u> - raises suspicion of **ongoing ischaemia and risk of degeneration into VF**, requiring urgent ischaemia workup
+    - **Non-ischaemic cardiomyopathy:**
+        - <u>Cardiomyopathies</u> - likely causes monomorphic VTs due to fibrotic scars, esp. in infiltrative or inflammatory cardiomyopathies
+        - <u>Arrhythmogenic cardiomyopathies</u> - esp. Lamin A/C genetic cardiomyopathy, ARVD
+    - **Genetic arrhythmia syndromes:**
+        - <u>Long QT syndrome</u> - often w/ TdP VT
+        - <u>Brugada syndrome</u> - often noctural VF episodes
+        - <u>Catecholaminergic polymorphic VT</u> - polymorphic or bidirectional VT
+        - <u>Short QT and early repolarisation syndromes</u> - ventricular fibrillation
+    - **Others:**
+        - Idiopathic polymorphic VT (from recurrent PVCs)
+        - Repair of ToF
+
+  
+  ![](../img/causes_of_sustained_ventricular_arrhythmia.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - **Initial Mx** - as per ACLS protocol for a wide-complex tachycardia:
+            - <u>Haemodynamically unstable</u> - Tx as VT w/ synchronised VT cardioversion
+            - <u>Haemodynamically stable</u> - trial of adenosine to clarify a SVT w/ abberancy; followed by IV amiodarone
+        - **Subsequent workup and Mx:**
+            - <u>Evaluation of underlying heart disease</u> - for underlying MI, structural heart disease
+            - <u>Prevention of recurrence of VT</u> - consider catheter ablation or long-term anti-arrhythmic agents especially if frequent or incessant VT
+            - <u>Secondary prevention of SCD</u> - ICD implantation depending on 1) the presence of structural heart disease, or 2)
+    - **Workup for underlying cause:**
+        - <u>12-lead ECG</u> - for 1) prior MI, 2) acute ischaemic events, or 3) evidence of structural heart disease based on axis, transitional zone, and chamber enlargements
+        - <u>Cardiac markers</u> - Troponin or CK-MB:
+            - Often elevated in haemodynamically significant possibly due to hypotension and ischaemia from fixed coronary lesions during VT
+            - However, may reflect acute ischaemic event in a **polymorphic VT**
+
+## Sustsained Monomorphic VT in Specific Diseases
+
+- **VT and coronary artery disease** - sustained monomorphic VT is attributed to infarct scar rather than on-going ischaemia:
+    - **Pathophysiology of sustained monomorphic VT** - infarct scar:
+        - Scar-related re-entry providing a durable arrhythmia substrate
+        - Not typically responsive to ischaemia or other causes of automaticity
+        - Often associated w/ <u>marked ventricular remodelling</u> and <u>depressed LV function</u>
+    - **Clinical presentation:**
+        - A Hx of <u>remote prior large MI</u> years from the index event
+        - Often w/ a rather <u>long Hx of subsequent HFrEF</u> due to ventricular remodelling, which <u>increases risk of sudden cardiac death</u>
+        - Presentation may coincide w/ <u>acute myocardial ischaemia</u>, but revascularisation unlikely prevent the VT as that is not the principle cause
+    - **Mx:**
+        - **Principles of Mx:**
+            - <u>ICD implantation</u> - secondary prevention of SD for those w/ \>= 1y survival w/ acceptable functional status (demonstrated to reduce mortality \[12.3% to 8.8%\] and arrhythmic deaths \[\> 50%\])
+            - <u>Antiarrhythmic agents and catheter ablation</u> - for palliation of VT symptms and prevent shocks or ATP from ICDs, but does not improve survival
+            - <u>Mx of other cardiac commorbidities</u> - these patients are at particular risk of HF rehospitalisation, reurrent ischaemic events, and recurrent VT (5y mortality \> 30%):
+                - Ischaemic heart disease - consider revascularisation if persistent angina or if indicated for HF, but no effects on recurrent VT
+                - HFrEF - escalation of GDMT to reduce mortality and HF hospitalisations
+        - **Catheter-ablation vs anti-arrhythmic agents** - balance the increased procedural risk of catheter ablation and the increased rates of recurrence and toxicities of anti-arrhythmic agents:
+            - Catheter ablation is a/w significant procedural risk
+            - Anti-arrhythmic agents is less effective in preventing recurrent VT and is a/w undesireed S/E
+            - Ventricular Tachycardia Ablation versus Escalation of Anti-arrhythmic Drugs \[VANISH\] trial showed that those w/ catheter ablation fared better
+            - Recent concensus statement strongly recommends those for catheter ablation for those unable to tolerate escalation of doses, or when long-term toxicities not desired
+- **VT and non-ischaemic dilated cardiomyopathy** - sustained monomorphic VT is a/w scar formation that is not of ischaemic origin, but rather a <u>cardiomyopathic process</u>:
+    - **Forms of NICM most a/w monomorphic VT:**
+        - Cardiac sarcoidosis
+        - Chagas' disease
+        - Cardiomyopathy due to Lamin A/C mutations
+    - **Other causes of NICM a/w monomorphic VT:**
+        - <u>Genetic</u> - all DCM, esp. Lamin A/C cardiomyopathy
+        - <u>Inflammatory</u> - myocarditis (post-viral), cardiac sarcoidosis, Chagas' disease
+    - **MRI evidence on NICM:**
+        - Scars represented by delayed gandolinium enhancement
+        - Intramural (usually midmyocardial) or subepicardial in location (cf endocardial in ischaemic cardiomyopathy)
+        - Adjacent in valvular annulus and can be on either ventricles
+    - **Mx:**
+        - <u>ICD implantation</u> - for all patients w/ sustained VT, syncope, or NYHA class II-III HF Sx
+        - <u>Antiarrhythmic agents or catheter control</u> - for Sx control of recurrent VTs
+- **VT and arrhythmogenic right ventricular cardiomyopathy:**
+    - **Pathophysiology** - fibrofatty infiltration in RV myocardium serves as arrhythmogenic substrate
+    - **Clinical manifestations** - presentation at 2nd to 5th decade due to palpitations, syncope or cardiac arrest secondary to <u>sustained monomorphic VT</u>
+    - **ECG findings of ARVC:**
+        - <u>ECG in sinus rhythm</u> (suggestive of disease in \> 85%):
+            - Widen QRS in right pre-cordial leads (V1-3) and prolonged S-wave upstroke due to delayed RV activation
+            - Epsilon wave (30%), a positive notched deflection at the end of the QRS in V1-3
+            - TWI in V1-V3 reflecting RV strain
+        - <u>ECG in VT</u> - LBBB morphology due to delayed activation of LV
+    - **Mx:**
+        - <u>ICD implantation</u> - recommended for all patients for secondary prevention of ICD
+        - <u>Anti-arrhythmic agents</u> - sotalol, flecanide, and amiodarone used to reduce VAs
+- **VT and repaired Tetralogy of Fallot:**
+- **Bundle branch ren-entry VT:**
+    - **Pathophysiology** - re-entry through the Purkinje system in the presence of structural heart disease:
+        - <u>Anterograde pathway</u> - via right bundle
+        - <u>Retrograde pathway</u> - via left bundle
+    - **ECG findings of bundle branch re-entry VT** - QRS complexes during VT resemble that in sinus rhythm
+    - **Mx** - ablation of right bundle branch

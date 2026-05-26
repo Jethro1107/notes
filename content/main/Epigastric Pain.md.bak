@@ -1,0 +1,101 @@
+---
+id: 3BFE8176-330F-412B-A2EB-E1364D82FFFF
+roam_parent: 038344b7-fbba-417a-9bc1-3eddd3f4b81d
+title: Epigastric Pain
+---
+
+# Epigastric Pain
+
+- **Epigastric pain** - arises from visceral pain from foregut structures (esophagus to D1, hepatobiliary system and pancreas), as well as chest pathologies
+- **DDx of epigastric pain:**
+  - <u>Esophageal pathologies</u> - GERD, esophagitis, Mallory-Weiss Syndrome, Borhaeve's syndrome, Esophageal motility disorders (e.g. spastic achalasia), CA esophagus
+  - <u>Gastric pathologies</u> - Functional dyspepsia, Gastritis (H. pylori, NSAID, alcoholic), peptic ulcer disease (and related complications), gastroparesis, CA stomach
+  - <u>Duodenal pathologies</u> - Duodenal ulcers
+  - <u>Pancreatic pathologies</u> - acute pancreatitis, chronic pancreatitis, CA pancreas
+  - <u>Biliary pathologies</u> - Biliary colic, Choledolithiasis, acute cholecystitis, acute cholangitis, Sphincter of Oddi dysnfunction, CA gallbladder, Cholangiocarcinoma
+  - <u>Hepatic pathologies</u> (typically RUQ) - hepatitis, distending hepatomegaly, liver abscess, Budd-chiari syndrome, HCC
+  - <u>Cardiac pathologies</u> - Acute coronary syndrome, pericarditis, myocarditis
+  - <u>Thoracic pathologies</u> - pleurisy (pneumothorax, PE)
+  - Others:
+    - rAAA
+    - Haematological - acute leukaemia, haemolytic anaemia
+    - Metabolic - uraemia, DKA, porphyria, Addison's crisis
+    - Infections - Zoster reactivation
+    - Misc - toxins, contusions, narcotic withdrawal, psychiatric disorders, heat strokes etc.
+- **Alarm features elicited in clinical evaluation** - requires urgent workup:
+  - Demographic features - new onset at \>= 45y
+  - Alarming upper GI Sx - 1) Persistent N/V, 2) UGIB or anaemic Sx, 3) Dysphagia or odynophagia, 4) Anorexia, early satiety, unintentional weight loss
+  - Relavent PMH - 1) Documented ulcers, 2) Previous gastric surgery
+  - Relavent FHx - FHx of upper GI cancers
+  - Alarming physical signs - 1) Mass, 2) Lymphadenopathy, 3) Jaundice
+- **Salient point of Hx:**
+  - **HPI** - onset, progression, quality, radiation, severity, timing:
+    - **Onset** - is this acute abdomen or subacute abdominal pain? Is the abdominal pain sudden or gradual in onset?
+      - <u>Acute abdomen</u> - r/o sinister DDx of acute abdomen requiring urgent surgical admission (see section on acute abdomen)
+        - <u>Sudden onset</u> - typically occurs in pathologies resulting in perforation (e.g. PPU, rAAA, perforated bowel)
+        - <u>Gradual onset</u> - typically reflects inflammatory process
+      - <u>Subacute-to-chronic epigastric pain</u> - DDx for acute abdomen less likely, but Hx is aimed at ruling out malignancy
+    - **Progression** - Is there progression in site, quality and severity of abdominal pain?
+      - <u>Shifting pain</u> - especially classical for PPU
+    - **Quality** - Is it dull constant pain, burning pain, or colicky pain?
+      - <u>Dull constant pain</u> (reflects inflammatory lesions) - e.g. PUD, cholecystitis, cholangitis, pancreatitis, and various malignancies
+      - <u>Burning, gnawing pain</u> - GERD-related diseases
+      - <u>Colicky pain</u> - as in intestinal obstruction but rarely localised to epigastrium
+    - **Radiation** - Does the pain radiate to the back, the right scapulae tip or elsewhere in the abdomen?
+      - <u>Back</u> - cholecystitis, pancreatitis (watch out rAAA)
+      - <u>Right scapular tip or infrascapular region</u> - cholecystitis
+    - **Timing** - Is the pain precipitated or provocated by food, or posture?
+      - <u>Relationship w/ food</u>:
+        - Gallstones and related complications - typically pain onset within an hour of fatty meal
+        - Peptic ulcer disease - temporally related w/ food (exacerbated or relieved)
+      - <u>Relationship w/ posture</u>:
+        - Perforation and peritonitis - exacerbated by motion due to movement of peritoneal contents
+        - Pancreatitis - relieved by sitting up and leaning forward
+  - **Associated Sx** - all upper GI, HBP, constitutional Sx and systems review:
+    - **Fever** - suggests an infectious etiology (potentially septic), or a/w systemic inflammation (e.g. IBD, cholangitis, pancreatitis)
+    - **Chills and rigors** - reflective of septic condition
+    - **Upper GI Sx:**
+      - <u>Heartburn</u> - a/w GERD
+      - <u>UGIB</u> (e.g. coffee-ground vomitus, melena) - raises suspicion of PUD or upper GI malignancies
+      - <u>Vomiting</u> - a/w gastric outlet obstruction or motility disorders, but can also occur in HBP causes
+      - <u>Dysphagia</u> - suggestive of malignant strictures, or motility disorders
+    - **HBP Sx:**
+      - <u>Features of obstructive jaundice</u> (e.g. tea-coloured urine, pale coloured stool) - biliary obstruction arising from choledolithiasis or malignant biliary obstruction
+    - **Unintentional weight loss** - points towards malignancy
+  - **PMH:**
+    - **Is there a history suggestive of PUD?**
+      - <u>Prior OGD</u> - ask about indications and findings (is there known PUD?)
+      - <u>Known H. pylori infection</u> - assess eradication and follow-up for Tx-responsiveness
+      - <u>Episodic occurence of peptic ulcer pain</u> - 1) localisation to epigastrium, 2) relationship w/ food, 3) episodic recurrence
+    - **Is there history suggestive of gallstone disease?**
+      - <u>Prior TAUS</u> - is there any findings of gallstones?
+      - <u>Characteristic biliary colic</u> - is there RUQ or epigastric pain in relations w/ fatty meal?
+    - **Is there history suggestive of ACS?**
+      - <u>Known CCS</u>
+      - <u>Cardiovascular risk factors</u> - HTN, DM, Dyslipidaemia, FHx of CVD
+    - **Is there history of DM?**
+      - <u>Gastroparesis</u> - principally seen in diabetic patients
+    - **Relevant drug Hx** - aspirin, NSAID, antiplatlets, anticoagulants, corticosteroids, drug-induced esophagitis (K supplements, iron tablets, bisphosphonate)
+  - **SHx:**
+    - <u>Smoking</u> - RF for peptic ulcer complications and upper GI malignancy
+    - <u>Alcohol</u> - RF for upper GI malignancy, pancreatitis etc.
+  - **FHx:**
+    - <u>FHx of upper GI malignancy</u>
+- **P/E:**
+  - General - general appearance, vital signs, pallor, jaundice, cervical LN
+  - Abdominal examination - stigmata of liver disease, tenderness, peritoneal sign mass, Murphy's sign
+  - PR examination - GI bleeding
+- **Ix:**
+  - <u>CBC with differentials</u>:
+    - **Anaemia** - Iron-deficiency anaemia from occult UGIB, Anaemia of chronic disease
+    - **Leukocytosis** - suggestive of inflammation
+  - <u>LFT</u>:
+    - **Cholestatic pattern** - suggestive of biliary obstruction (e.g. cholangitis, biliary pancreatitis, choledolithiasis, MBO)
+    - **Hepatocellular pattern** - suggestive of hepatic origin (but watch out for <u>cholangiohepatitis pattern</u>)
+  - <u>RFT</u> - assessment for viability for contrast, dehydration, and electrolytes abnormalities from vomiting
+  - <u>Amylase</u> - r/o acute pancreatitis
+  - +/- <u>Imaging studies based on presentation</u>:
+    - Acute abdomen - routine erect CXR, AXR
+    - Suspected hepatobiliary cause - transabdominal US
+    - CT abdomen - if immediate Tx not required
+  - +/- <u>Endoscopy</u>

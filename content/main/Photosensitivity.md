@@ -1,0 +1,58 @@
+---
+type: main
+---
+# Photosensitivity
+- **Definition** - abnormal response of the skin to ultra-violet light (UVA and UVB) or visible light
+- **Sources of ultraviolet and visible radiation:**
+	- Natural sources - the sun (primarily composed of visible and UV radiation)
+	- Artificial sources - sunbeds, phototherapy
+- **Photosensitive diseases vs photo-aggravated diseases:**
+	- _Photosensitive diseases_ - skin manifestations are directly caused by a reaction to UV or visible radiation, usually in a combination of wavebands such as UVA, UVB or visible light
+	- _Phot-aggravated diseases_ - skin manifestations that are exacerbated by, but not caused by UV or visible radiation
+- **The electromagnetic spectrum:**
+	- **Visible light** - accounts for RGB (400-760 nm)
+	- **UVR** - divided into 3 wavebands:
+		- _UVC_ (280-300 nm) - component absorbed by ozone and does not reach the earth's surface
+		- _UVB_ (300-320 nm) - component which constitutes < 10% of UVR exposure but around 100x more biologically active and accounts for erythemal "sun-burning" effects of sunlight
+		- _UVA_ (320-400 nm) - component which is most abundant and accounts for most of the UVR exposure (but transmitted through window glasses)
+	- 
+	![[Pasted image 20260426115359.png]]
+- **DDx of photosensitivity and photoaggrevated disorders:**
+	- 
+	![[Pasted image 20260426120551.png]]
+- **Clinical assessment:**
+	- **Temporal pattern of rash:**
+		- _Seasonal pattern_ - Sx correlation w/ daylight exposure suggests a photosensitve condition
+		- _Perenial pattern_ - may be unaware of the relation to daylight exposure
+	- **Distribution of rash:**
+		- _Sun-exposed areas_ - face (particularly nose, cheeks, and foreheads), top of the ear, back of the neck, scalp, back of hands and forearms w/ sparring of the upper eyelids, distal digits, and area under the chin and nose
+		- _Cover-site involvement_ - possibly suggestive of photodermatosis related to UVA or visible radiation, which can pass through clothing (e.g. actinic prurigo); absence of habitualy exposed sites may further confuse the clinical picture (e.g. 'hardening phenomenon' of PLE)
+	- **Onset of rash:**
+		- _Rapid onset_ - certain conditions are a/w rapid onset after sunlight exposure (e.g. solar urticaria)
+		- _Slow onset_ - other conditions such as CLE can take several days to develop
+	- **Drug Hx** - drug phototoxicity, pseudoporphyria or photoallergy
+- **Ix:**
+	- **Bloods** - screening for lupus and the porphyrias
+	- **Dermatological Ix:**
+		- Monochromator phototesting (determine the waveband involvement)
+		- Photopatch testing
+- **Mx:**
+	- **Principles of Mx:**
+		- _Mx highly dependent on underlying causes_:
+			- Drug photosensitivity - stopping the phototoxic drug
+			- SLE - initiate Tx for SLE
+			- Solar urticaria - antihistamines (effective in 67% patients)
+			- Idiopathic photodermatosis - immunosuppression may be required
+		- _Photoprotection - sunscreen and sun avoidance essential for all photosensitive disorders
+		- _Phototherapy_ - may be indicated to induce hardening in PLE and solar urticaria
+		- _Mx of vitamin D deficiency_ - optimisation of dietary vitamin D and take calcichew if levels low
+	- **Sun avoidance:**
+		- Keeping out of direct sun in the middle of the day
+		- Covering up w/ clothing and wearing hats w/ wide brim
+	- **Sunscreens** - selection of sunscreen based on wavebands involved:
+		- **Mechanisms of sunscreen:**
+			- _Chemical sunscreen_ - absorption of specific wavelengths of UVR
+			- _Physical sunscreen_ - reflection of UVR and shorter physical wavebands
+		- **SPF and PA system** - however most commercial sunscreens protect against UVB and most UVA wavelengths:
+			- _SPF_ (sun protection factor) - ratio of dose of **UVB** required to produce skin erythema in the presence
+			- _PA system_ - determines the level of protection offered against **UVA**

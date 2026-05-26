@@ -1,0 +1,98 @@
+---
+id: 76c3688a-6980-44ec-ad11-719aa6d9aa7b
+title: Overactive Bladder
+---
+
+# Overactive Bladder
+
+- **Definition** - also known as detrusor overactivity, abnormal contractions of detrussor muscles during storage phase resulting in urge incontinence
+- **Etiology of OAB:**
+    - **Idiopathic detrusor overactivity** - unknown cause, more common in women
+    - **Non-neurogenic detrusor overactivity** - secondary to local bladder/ lower urinary tract pathologies:
+        - <u>Bladder outlet obstruction</u> - BPH, urethral strictures, bladder neck stenosis etc.
+        - <u>Local bladder irritation</u> - infective cystitis, bladder stones, bladder tumour (e.g. CIS), local inflammation of unknown cause (interstitial cystitis)
+    - **Neurogenic detrusor overactivity** - abnormal bladder contractions of neurogenic origin:
+        - <u>Cord pathologies</u> - e.g. SCI, cord compression, transverse myelitis etc.
+        - <u>Other CNS pathologies</u> - e.g. stroke, TBI, brain tumour, Parkisonism, MS
+- **Clinical features of OAB** - mainly causes storage Sx:
+    - <u>Urinary urgency</u> - frequent sudden urge to void due to involuntary detrusor contractions (may be affected by stress and anxiety)
+    - <u>Urge incontinence</u> - involuntary leakage of urine due to urgency ranging from few drops to completely soaked undergarments (usually in older or co-morbid patients, e.g. Sx worsen on diuretics)
+    - <u>Accompanying frequency and nocturia</u> - frequent daytime and night-time voids, but of a small volume
+- **Mx:**
+    - **Principles of Mx** - escalation of Tx ladder:
+        - <u>Conservative Mx</u> - lifestyle modification (e.g. smoking cessation, fluid Mx and weight loss), bladder-retraining, and pelvic floor muscle training
+        - <u>Pharmacological therapy</u> - often achieve symptomatic control in 70% of patients
+        - <u>Invasive techniques</u>:
+            - Intravesical instillation therapy
+            - Botulinum toxin A injection
+            - Neuromodulation
+            - Surgery - e.g. augmentation cystoplasy or urinary diversion
+    - **Conservative Mx:**
+        - **Lifestyle modification:**
+            - <u>Weight loss</u> - 40% reduction in urgency incontinence episode w/ mean weight loss of 8% in 6mo for women w/ BMI \> 25 (PRIDE study)
+            - <u>Fluid management</u> - decrease caffeinated drinks and alcohol intake, which reduces frequency, but not incontinence
+            - <u>Smoking cessation</u> - weak evidence for UI
+        - **Bladder retraining** - 6mo training protocol to enhance central control of voiding as in infancy:
+            - <u>Components</u>:
+                - **Time voiding** - urinate to a schedule rather than response to urge
+                - **Diverse attention during urge** - e.g. deep breathing, mental calculation, squeezing of pelvic floor muscles
+            - <u>Efficacy</u> - aimed to decrease urgency and frequency
+        - **Pelvic floor muscle training** (PFMT) - short course recommended especially if mixed incontinence (evidence based on a Cochrane review)
+    - **Pharmacological therapy** - primarily modulation of autonomic control:
+        - **Anti-cholinergics** - NICE guidelines recommend trying at least 2 types of anticholinergic before deemed pharmacological failure:
+            - **Selection:**
+                - <u>Non-selective</u> - oxybutynin (extended release, transdernal or rectal supository)
+                - <u>Selective</u> - tolterodine, solifenacin, darifenacin
+            - **MOA** - M3 antagonism within the bladder:
+                - Inhibition of PIP3 pathway, resulting in reduced Ca influx
+                - Reduced detrusor muscle contraction
+            - **Onset of action** - 3-4 weeks before maximal action
+            - **S/E:**
+                - <u>Effects of M1 antagonism</u> - cognitive impairment
+                - <u>Effects of M2 antagonism</u> - tachycardia, constipation (4%)
+                - <u>Effects of M3 antagonism</u> - dry mouth (25%), blurred vision, dizziness
+            - **C/I:**
+                - Uncontrolled acute close angle glaucoma
+                - Large bowel involvement in active IBD (risk of toxic megacolon)
+                - IO
+                - Myasthenia gravis
+            - **Efficacy** - meta-analysis (Chapple et al.) shows:
+                - 70% efficacy in decreased frequency, urgency, incontinence episode, and increased functional bladder capacity
+                - However \> 50% will stop agent within 3 mo due to ineffectiveness or adverse effects
+        - **Beta-3 agonists:**
+            - **Selection** - Mirabegron
+            - **MOA** - activation of AC for conversion of ATP to cAMP:
+                - Activation of PKA, resulting in reduced intracellular calcium
+                - Results in detrusor smooth muscle relaxation
+            - **Dosing** - intiate at 25 mg/d or 50 mg/d, up to 100 mg/d
+            - **S/E** - safe medications:
+                - HTN
+                - Headache
+                - UTI
+                - Nasopharyngitis
+            - **Precaution** - warning if severe HTN, CVA or cardiovascular disease
+            - **Effiacy** - same meta-analysis shows similar efficacy as anticholinergics
+        - **Combination therapy of beta-3 agonist and anticholinergics** - combination of solifenacin and mirabegron a/w better Sx control (2015 EU Symphony trial)
+        - **Estrogen local therapy** - for post-menopausal women
+    - **Augmentation cystoplasty** (Clam cystoplasty) - requires performing urodynamic study for identification of mixed incontinence:
+        - <u>Principles</u> - opening of the bladder like a clam down to the level of ureteral oriface, and defect patched by bowel segment, resulting in:
+            - Impaired bladder contraction (decreased amplitude of contraction)
+            - Increased capacity of the bladder (lower detrusor pressure)
+        - <u>C/I</u>:
+            - Renal impairment (CrCl \< 40ml/min)
+            - Liver impairment
+            - Other bowel pathology - e.g. short gut syndrome, IBD, RT to bowel
+            - Inability for clean intermittent self-catheterisation
+        - <u>Complications</u>:
+            - **Early complications:**
+                - <u>General surgical risks</u> - bleeding, infection, collection
+                - <u>Procedural-specific risks</u> - anastomotic leakage, ileus
+            - **Long-term complications:**
+                - <u>Mechanical</u> - need of CISC, spontaneous rupture, mucus perforation
+                - <u>Metabolic</u> - hyperchloraemic, hypokalaemic metabolic acidosis (mucus secretion in bladder), osteoporosis
+                - <u>Malabsorption</u> - B12 (anaemia), bile acid absorption etc.
+                - <u>Malignancy</u> - adenoCa
+    - **Other therapies:**
+        - Intravesical instillation of vanniloids
+        - Butulinum toxin injection
+        - Posterior tibial nerve stimulation or sacral neuromodulation

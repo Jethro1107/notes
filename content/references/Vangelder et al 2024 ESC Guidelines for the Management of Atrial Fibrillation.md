@@ -1,0 +1,122 @@
+---
+id: 661AAAFE-DDFB-4BD6-A71C-D7C29A66F8E1
+roam_refs: "\\[cite:@vangelder2024ESCGuidelines2024\\]"
+title: Vangelder et al 2024 ESC Guidelines for the Management of Atrial Fibrillation
+---
+
+# Definitions and Clinical Impact
+
+- **Definition** - a supraventricular arrhythmia with uncoordinated atrial activation resulting in loss of atrial contraction
+- **Classification of AF by temporal patterns:** 
+![](../img/esc_classification_of_af.png)
+- **Other clinical concepts relevant to AF:**
+- **Diagnostic of AF** - straightforward Dx based on ECG documentation, however duration for the rhythm is not clear cut (consensus opinion of \>= 30s):
+    - Standard 12-lead ECG
+    - Approved single- and multiple-lead devices
+    - Does not include non-ECG wearables or other devices using photoplethysmography
+- **Symptoms attributable to AF:**
+    - Most patients with AF are symptomatic (90%), but certain episodes can in fact be asymptomatic
+    - Asymptomatic AF has not been associated w/ lower risk of adverse events (e.g. stroke, thromboembolism, or mortality)
+    - Non-specific symptoms (e.g. fatigue) is far more common than cardiac-specific Sx (e.g. palpitations)
+    - Symptoms may be related to associated comorbidities, not just the AF component
+
+  
+  ![](../img/clinical_effects_and_outcomes_of_af.png)
+- **Diagnostic evaluation of new AF:**
+    - <u>Hx and PE</u> - determine AF pattern, Sx and functional impairments, relevant FHx of heart disease, comorbidities, and assess risk factors for thromboembolism and bleeding, and collect AF-specific outcome measures
+    - <u>12-lead ECG</u> - for confirmation of rhythm and assessment of ventricular rate, evidence of structurual heart disease, conduction defects, or associated ischaemia
+    - <u>Initial blood tests</u> - CBC, LRFT, serum electrolytes, HbA1c, TFT
+    - <u>Transthoracic echocardiography</u> (TTE) - best if in initial workup to guide subsequent AF-CARE Mx decisions (although do not delay anticoagulation if not available)
+    - <u>Additional Ix</u> - likely dependent on comorbidities
+
+  
+  ![](../img/diagnostic_evaluation_of_af.png)
+- **Adverse effects of AF** - two fold increased risk of all-cause mortality (RR 1.95) and cardiovascular mortality (RR 2.03) compared w/ sinus rhythm even in absence of thromboembolic event:
+    - <u>Heart failure</u> - occurs in 50% of AF patients over time (4-5x increase in RR compared to those w/o AF in two meta-analyses)
+    - <u>Ischaemic stroke</u> - second most common adverse event in AF (RR 2.3)
+    - <u>Ischaemic heart disease</u> - third most common adverse event in AF (RR 1.61)
+    - <u>Other thromboembolic events</u> - systemic thromboembolism mechanistically linked, but venous thromboembolism also a/w AF
+    - <u>Cognitive impairments</u> - increased risk of vascular dementia (RR 1.68) even after adjusting for stroke, comorbidities, and oral anticoagulants
+
+# Patient Pathways and Management of AF
+
+- **Principles of Mx** - AF-CARE model:
+    - <u>Comorbidities and risk factor control</u> - based on growing body of evidence that most downstream therapies for AF are only effective when associated conditions are addressed (?and that these risk factors are directly linked to outcomes in alternative pathways)
+    - <u>Avoidance of stroke and thromboembolism</u> - mainly via the decision for anticoagulation, and novel therapies such as LAAO
+    - <u>Reduce symptoms by Rate and Rhythm control</u> - various pharmacological and non-pharmacological approaches to rate and rhythm control, which may further reduce HF hospitalisations or improve prognosis
+    - <u>Evaluation and dynamic re-assessment</u> - due to changing pathophysiology of AF as age and comorbidities advances
+
+  
+  ![](../img/af_care_pathway_esc.png)
+
+# \[C\] Comorbidities and Risk Factors
+
+- **Comorbidities a/w recurrence and progression of AF:**
+    - Hypertension
+    - Heart Failure
+    - Diabetes
+    - Obesity
+    - Sleep apnoea
+    - Physical activity
+    - Alcohol intake
+
+# \[A\] Avoid Stroke and Thromboembolism
+
+## Oral Anticoagulation
+
+- **Decisions to initiate oral anticoagulation in clinical AF** - CHA2DS2-VA score w/ additional considerations:
+    - Simplification from CA2DS2-VASc score as previous guidelines had used different cutoffs for M and F to bypass the use of sex as a risk factor
+    - This is likely due to the female sex is an age-dependent strok risk modifier than a risk factor per se
+    - OAC is recommended for those w/ <u>score \>= 2</u> (level IC), and those w/ score of 1 through a personalised approach (level IIaC)
+    - <u>Anticoagulation irrespective of CHA2Ds2-VA score</u> for AF with **HCM** and **cardiac amyloidosis** (Class IB)
+
+  
+  ![](../img/updated_definitions_of_cha2ds2_va_score.png)
+- **Common drug interactions w/ oral anticoagulants:** 
+![](../img/drug_interactions_with_oral_anticoagulants.png)
+- **Selections of anticoagulants** - DOACs vs VKA:
+    - <u>DOACs generally preferred over warfarin</u> - as all 4 DOACs have demonstrated at least non-inferior efficacy compared w/ warfarin for the prevention of thromboembolism but w/ the added benefit of reduced risk of intracranial haemorrhage
+    - <u>DOACs should be avoided in certain scenarios</u> - 1) mechanical heart valves (as trials showed increased risk of thromboembolism), or 2) moderate-to-severe mitral stenosis (as these patients were avoided)
+- **Direct oral anticoagulant therapy** (DOAC):
+    - <u>Selection and dosing</u>: 
+    ![](../img/selections_and_dosing_for_doacs.png)
+- **Vitamin K antagonists**:
+    - <u>Clinical efficacy</u> - reduces stroke risk by 64% and mortality by 26% in patients w/ AF at elevated thromboembolic risks (compared w/ placebo)
+    - <u>Indications</u> - use sharply declined since advent of DOACs and is limited to:
+        - Mechanical heart valves
+        - Moderate-to-severe mitral valve stenosis
+    - <u>Dosing</u> - requires frequent dose-adjustment:
+        - Target INR 2.0-3.0
+        - If time in therapeutic range (TTR) is maintained for long periods (\> 70%), then it is effective for thromboembolic protection w/ acceptable safety profile
+    - <u>S/E</u> - still higher bleeding risks including higher rates of intracranial bleeding compared w/ DOACs
+- **Residual ischaemic stroke risk despite anticoagulation** - DDx of "anticoagulation failure":
+    - Non-adherence to therapy
+    - Non-AF related competing stroke mechanisms (large artery and small vessel diseases)
+    - Inappropriately low dose of anticoagulation
+    - Drug-drug interactions
+    - Thromboembolism despite sufficient anticoagulation
+- **Percutaneous left atrial appendage occlusion:**
+
+## Residual Ischaemic Stroke Risk despite Anticoagulation
+
+## Percutaneous Left Atrial Appendage Occlusion
+
+## Surgical Left Atrial Appendage Occlusion
+
+## Bleeding Risk
+
+- **Approach to assessment of bleeding risk:**
+    - Assessment aims at identifying modifiable bleeding risk factors to manage and improve safety
+    - Bleeding scores <u>should not</u> be used to guide decision for anticoagulation
+    - There are very few absolute C/I for OACs, including those w/ primary intracranial tumours, and ICH-related to cerebral amyloid angiopathy
+
+  
+  ![](../img/modifiable_rand_non_modifiable_risk_factors_of_bleeding_af.png)
+- **Approach to Mx of active bleeding in an anticoagulated patient:** 
+![](../img/mx_of_anticoagulant_related_bleeding.png)
+
+# \[R\] Reduce Symptoms by Rate and Rhythm Control
+
+# \[E\] Evaluation and Dynamic Reassessment
+
+# The AF-CARE pathway in specific clinical settings

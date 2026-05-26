@@ -1,0 +1,62 @@
+---
+id: 6e01f967-498d-4367-aad2-38e7343fc5dd
+title: Essential Thrombocythaemia
+---
+
+# Essential Thrombocythaemia
+
+- **Definition** - a form of chronic myeloproliferative neoplasm, characterised by excessive clonal platelet production with a tendancy for thrombosis and haemorrhage
+- **Epidemiology** - 1/3 of Philadelphia chromosome -ve MPN:
+    - <u>Incidence</u> - 1-2.5/100000/y
+    - <u>Demographic</u>:
+        - Age - increasing incidence w/ age (however as much as 20% are diagnosed at \< 40y)
+        - Sex - female preponderance (F:M = 2:1)
+- **Pathophysiology of essential thrombocythaemia:**
+    - <u>Acquired driver mutation</u> - 90% of cases have a somatically acquired driver mutation in JAK2, CALR, or MPL, resulting in <u>up-regulation of JAK-STAT pathway</u>
+- **Clinical features of essential thrombocythaemia** - may present w/ hyperviscosity Sx, or complications (i.e. thrombosis or haemorrhage):
+    - **Asymptomatic** - incidentally when thrombocytosis is noted on CBC for another indication
+    - **Hyperviscosity Sx** (13-40%) - constellation of Sx that are thought to be microvascular disturbances due to hyperviscosity, possibly a/w <u>thromboxane-dependent platelet activation and microvascular thrombosis</u>:
+        - <u>Decreased cerebral perfusion</u> - headache, lightheadedness, transient visual disturbances (e.g. amaurosis fugax, scintillating scotoma), syncope
+        - <u>Decreased coronary perfusion</u> - atypical chest pains
+        - <u>Decreased peripheral perfusion</u> - acral paresthesia, livedo reticularis, **erythromelagia** (burning sensation in distal parts of limbs associated w/ warmth)
+    - **Thrombosis** (9-22%) - increased risk of <u>arterial and venous thrombotic complications</u> (i.e. ischaemic stroke, MI, superficial thrombophlebitis, DVT and PE) likely due to qualitative and quantititative platelet alterations
+    - **Haemorrhage** (3-37%) - increased bleeding tendancy may be due to platelet dysfunction, but more importantly <u>Acquired Von Willebrand Syndrome</u> (AVWS), particularly in those w/ PLT \> 1000 x 10<sup>9</sup>/L
+    - **Pregnancy loss** - increased rates of spontaneous abortions, particularly occuring in the first trimester
+- **Signs of ET:**
+    - <u>Splenomegaly</u> - mild-to-moderate splenomegaly only in 25-48% patients
+- **Ix:**
+    - **CBC w/ differentials:**
+        - <u>Hb and MCV</u> - typically NcNc anaemia, presence of microcytosis may reflect underlying iron deficiency
+        - <u>HCT</u> - absence polycythamemia
+        - <u>WBC and differentials</u> - leukocyte normal (or slightly elevated); minimal eosinophils and basophils
+        - <u>PLT</u> - persistent thrombocytosis
+    - **Peripheral blood smear:**
+        - **Early ET changes:**
+            - <u>RBC</u> - normocytic, normochromic (hypochromic, microcytic RBCs suggest concomitant iron deficiency)
+            - <u>PLT</u> - marked thrombocytosis; varying size (platelet anisocytosis)
+        - **Late ET changes** (post-ET myelofibrosis) - leukoerythroblastic picture
+    - **Bone marrow aspiration:**
+        - <u>Cellularity</u> - normocellularity or moderate hypercellularity for age and <u>trilineage growth</u>
+        - <u>Megakaryocytes</u> - large-to-giant megakaryocytes w/ abundant mature cytoplasm, and deeply lobulated and hyperlobulated nuclei
+    - **Genetic testing:**
+        - <u>JAK2 mutation</u> (JAK2 V617F) - 60-65%; a/w higher incidence of thrombosis than those w/o this mutation
+        - <u>CALR mutation</u> - 20-25%; typically younger, more frequent male and higher platelet counts
+        - <u>MPL mutation</u> - 5%; lacks prognostic significance
+        - <u>Triple negative ET</u> - 10-15%
+- **WHO Dx criteria for ET** - a Dx by exclusion: 
+![](../img/who_dx_criteria_for_et.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Control of platelet counts</u> - cytotoxic therapy or other therapies may be indicated especially if high risk for vascular events
+        - <u>Low-dose aspirin</u> - as secondary prevention for vascular occlusive events
+    - **Low-dose aspirin** - indicated for most patients:
+        - Reduced risk of occlusive vascular events
+    - **Control of PLT count** (cytoreductive therapy):
+        - **Indications** - should be considered if high risk for thrombosis:
+            - Age \> 40y w/ JAKV617F
+            - Hx of thrombosis
+            - Presence for other risk factors for thrombosis (e.g. DM, HTN)
+        - **Selection of drugs:**
+            - Oral hydroxycarbamide
+            - Anagrelide (inhibitor of megakaryocyte maturation)
+            - IV radioactive phosphorus (for olde age)

@@ -1,0 +1,32 @@
+---
+id: a359b2ef-9417-4b6a-81b7-7df2334209b9
+title: Integrated Water and Electrolyte Balance and Distribution of Electrolytes
+---
+
+# Integrated Water and Electrolyte Balance and Distribution of Electrolytes
+
+- **Physiological water and electrolyte distribution:**
+    - **Total body water** (TBW) - roughly 60% of body weight (i.e. 42L in a 70kg M):
+        - **Distribution of TBW** - 60% resides intracellularly and 40% resides extracellularly:
+            - <u>Intracellular fluid</u> (ICF) - roughly 60% of TBW (i.e. 25 L in 70kg M)
+            - <u>Extracellular fluid</u> (ECF) - roughly 40% of TBW (i.e. 15 L in 70 kg M)
+        - **Distribution of ECF** - 75% resides extravascularly, and 25% resides intravascularly:
+            - <u>Intravascular volume</u> (Plasma) - roughly 25% if ECF (i.e. 3 L in 70 kg M)
+            - <u>Intesrstitial fluid</u> - roughly 75% of ECF (i.e. 12 L in 70 kg M)
+
+    
+    ![](../img/normal_distribution_of_water_and_electrolytes.png)
+    - **Composition of ECF:**
+        - <u>Cation</u> - dominant cation in ECF is Na (maintained by Na/K pump)
+        - <u>Anion</u> - dominant anion in ECF is Cl, and to a lesser extent HCO3
+    - **Composition of ICF:**
+        - <u>Cation</u> - dominant cation in ICF is K (maintained by Na/K pump)
+        - <u>Anion</u> - dominant anion in ICF is PO4 and -ve-charged proteins
+- **Effects of disordered water, electrolte and acid-base status, pathophysiology and clinical effects:** 
+![](../img/manifestations_of_disordered_water_electrolyte_and_acid_base_status.png)
+    - **Disturbances of sodium** - affects ECF volume, manifests as circulatory changes (minimal disturbances in measured biochemical parameters, i.e. normonatraemic)
+    - **Disturbances of water** - affects ECF osmolarity, manifests as cerebral changes
+    - **Disturbances of potassium** - affects actional potential, manifests as neuromuscular weakness and cardiac arrhythmas
+    - **Disturbances of hydrogen ion** - affects acid-base balance, manifest as altered tissue function, respiratory and renal compesnation, together with disorders of K
+    - **Disturbances of magnesium** - affects cell membrane stability, manifests as disorders of K and Ca
+    - **Disturbance of phopshate** - affects cellular energetics, with widespread tissue effects

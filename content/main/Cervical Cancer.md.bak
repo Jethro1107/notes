@@ -1,0 +1,114 @@
+---
+id: 5675a107-ddd6-4b41-a5ab-cec9963f70c0
+title: Cervical Cancer
+---
+
+# Cervical Cancer
+
+- **Definition** - cancer of the uterine cervix, often associated with chronic human papillomavirus (HPV) infection
+- **Epidemiology** - 3rd most common gynaecological cancer, and cause of death among gynaecological cancers in resource abundant regions w/ cervical cancer screening
+- **Risk factors of cervical cancer** - shared risk factors between SCC and AD:
+  - **HPV related** - 1) increased risk of HPV infection, and 2) inability to clear HPV infection:
+    - <u>Increased risk of acquiring HPV infection</u>:
+      - Early onset of sexual activity
+      - Multiple sexual partners
+      - High-risk sexual partners
+      - Hx of STIs
+    - <u>Reduced capacity of clearing the infection</u> - smoking (RR 1.50), various cause of immunosuppression (DM, HIV infections)
+  - **Other risk factors:**
+    - <u>Lower socioeconomic status</u> - likely due to limited access to healthcare and screening programmes
+    - <u>Estrogen</u> - exogenous esttrogen exposure via OC pills is a/w higher risk of invasive cervical cancer (RR 1.9 for \>= use), and increases w/ duration of use
+    - <u>+ve FHx</u> - possibly via genetics (possibily through inability to clear HPV infection) or rarely shared environmental exposures
+- **Pathogenesis of cervical cancer** - HPV infection is necessary, but does not fully acount for 99.7% of cervical cancer:
+  - <u>Oncogenic HPV infection</u> - infections of high-risk HPV (e.g. genotype 16 or 18 accounts for 70% of all cases) at the metaplastic epithelium in the cervical transformation zone
+  - <u>Persistence of HPV infections</u> - persistence of HPV infections in individuals who are unable to clear the infection, resulting in formation of pre-cancer lesions
+  - <u>Progression of pre-cancer lesions</u> - progression from LSIL to HSIL to frank invasive carcinoma classically over a course of 15-20 years
+- **Histopathology of cervical cancer** - most common histological subtypes include 1) SCC, and 2) AD, both of which can be either 1) HPV-associated, or 2) HPV-independent: 
+![](~/Documents/notes/img/cervical_cancer_histological_subtypes.png)
+- **Route of spread of cervical cancer:**
+  - **Direct invasion** - into adjacent structures, primarily:
+    - The uterine corpus and vagina
+    - The parametria
+    - The lateral pelvic wall
+    - The peritoneum
+    - The bladder or ureters (capable of causing hydronephrosis)
+    - The rectum
+  - **Lymphatic spread** - spread towards contiguously along pelvic side wall to pelvic (obturator, external iliac, common iliac) and para-aortic LN
+  - **Haematogenous spread** - to lungs, liver bones, bowel, adrenal glands, spleen and brain
+- **Clinical features of cervical cancer** - frequently asymptomatic in areas where screening is prevelant:
+  - **Asymptomatic** - incidental finding of pre-malignant or malignant lesions on pap smear or gynaecological examination for a different indication
+  - **Features of early disease:**
+    - **Abnormal uterine bleeding** - most common clinical presentation where pattern of bleeding includes:
+      - <u>Post-coital bleeding</u> - usually as a result of contact bleeding during intercourse
+      - <u>Irregular or heavy menstrual bleeding</u> - raised suspicion in a pre-menopausal patient, but is more likely a result of other benign etiologies
+      - <u>Post-menopausal bleeding</u> - suspected to be malignancy (endometrial or cervical) in a post-menopausal women
+    - **Abnormal vaginal discharge** - increased vaginal discharge which may be watery, mucoid, purulent and malodourous, which may be mistakened for gynaecological infections
+  - **Features of locally-advanced disease** - as a result of local invasion of the tumour:
+    - <u>Pelvic pain</u> - chronic pelvic pain w/ or w/o radiation to the back and the legs
+    - <u>Bowel Sx</u> - e.g. haematochezia, tenesmus, vaginal passage of stool due to bowel involvement of disease
+    - <u>Urinary Sx</u> - haematuria, urinary frequency and urgency, as a result of bowel involvement of bladder
+- **Signs:**
+  - **General examination** - pallor, cachexia, palpation of LN (left SCN, groin LN)
+  - **Abdominal examination** - detection of any abdominal mass
+  - **Examination of the external genitalia:**
+    - <u>Speculum examination</u> - visible cervical lesion, and Bx (even if previously -ve pap smear and HPV results):
+      - Exophytic ulcerative lesion of the exocervix
+      - Infiltrative growth of th endocervix which causes enlargement and induration of the cervix (barrel-shaped cervix)
+    - <u>Bimanual examination</u> - assessment of local uterine size, mobility, and presence of adnexal/ parametria involvement
+  - **PR examination** - assessment of POD for complete assessment of parametria
+- **Ix:**
+  - **Bx on speculum examination** - direct Bx of visible lesion on speculum examination to confirm histological diagnosis
+  - **Colposcopy and cervical Bx** - for those asymptomatic, abormal cervical cytology without a visible lesion for direct Bx
+- **Dx** - histological diagnosis
+- **Principles of staging** - staging can be performed 1) clinically, 2) radiologically, and 3) surgically:
+  - <u>Clinical stage</u> - initial impression of disease extent from P/E and simple, easily accessible investigations, such that staging can be performed in resource-limitted setting
+  - <u>Radiological staging</u> - detailed staging by combining clinical information with cross-sectional imaging (e.g. MRI abdomen and pelvis)
+  - <u>Surgicopathological staging</u> - typically only pursued in clinically early disease (e.g. \<= stage IB disease)
+- **Staging system** - 2018 FIGO staging: 
+![](img/figo_staging_ca_cervix.png)
+- **Initial clinical staging by physical examination** - PV examination, rectal examination and systems review:
+  - <u>Assessment of local tumour extent</u>:
+    - Tumour size assessed on speculum examination
+    - Vaginal examination on palpation for induration on vaginal wall
+    - Parametrial involvement by rectovaginal examination
+  - <u>Assessment of distant metastasis</u>:
+    - Left SCN LN and groin LN
+    - Palpate for hepatomegaly
+- **Approach to staging Ix** - dependent on whether patient is suspected to have <u>early disease</u> or <u>advanced disease</u>:
+  - <u>Early stage disease</u> (IA, IB1, IB2) - locoregional staging by MRI abdomen to determine resectability followed by surgical staging
+  - <u>Advanced stage disease</u> (IB3 and above) - full staging for LN and distant metastasis prior to chemoirradiation
+- **Staging Ix:**
+  - **Routine bloods** - CBC, LRFT, tumour markers (SCC, CA-125)
+  - **MRI abdomen and pelvis** (w/ or w/o contrast) - assess 1) tumour size, and 2) evaluation of local spread:
+    - <u>Evaluation of tumour size</u> - assess size of tumour to determine whether they are viable for surgical resection (\< 4cm) or chemoradiation
+    - <u>Evaluation of local spread</u> - for example:
+      - Evaluation of vaginal extension
+      - Evaluation of parametrial involvement
+      - LN involvement
+      - Spread to pelvic wall
+      - Involvement of bladder, ureters, rectum etc
+  - **CXR and CT T+A+P** - screen distant metastasis
+  - **18-FDG PET/CT** - detection of distant metastasis indicated if suspected advanced disease clinically or upon MRI
+  - **Additional Ix** - if local invasion into adjacent organs suspected:
+    - Cystoscopy - if suspected bladder invasion
+    - Renal USG, IV urogram or CT urogram - if suspected hydronephrosis
+    - Sigmoidoscopy - if suspected rectal involvement
+- **Mx:**
+  - **Definition of early, locally advanced or metastatic cervical cancer:**
+    - **Definition of early-stage cervical cancer** - early cervical cancer refers to stage IA, IB1 and IB2 disease:
+      - **Stage IA** - invasive carcinoma diagnoised only by microscopy, with maximum depth of invasion \< 5mm:
+        - <u>IA1</u> - measured stromal invasion \<= 3mm in depth
+        - <u>IA2</u> - measured stromal invasion \> 3mm and \<= 5mm in depth
+      - **Stage IB** - invasive carcinoma with measured deepest invasion \>5mm, but lesion limited to the cervix uteri:
+        - <u>IB1</u> - invasive carcinoma \> 5mm depth of stromal invasion, and \<= 2cm in greatest diameter
+        - <u>IB2</u> - invasive carcinoma \> 2cm and \<= 4cm in greatest dimension
+    - **Definition of locally-advanced cervical cancer** - locally advanced cervical cancer is defined as stage IB3, II or III or IVA disease:
+      - <u>Stage IB3 disease</u> - macroscopic tumour confined to the cervix \> 4cm in greatest dimension
+      - <u>Stage II disease</u> - invasion beyond the uterus into the parametria, but has not extended to the lower third of the pelvic side wall
+      - <u>Stage III disease</u> - tumour that 1) invades to pelvic side wall, 2) causes hydronephrosis, 3) invades to lower third of the vagina, or 4) involves pelvic or para-aortic LN
+      - <u>Stage IVA disease</u> - tumour that invades the mucosa of the bladder or adjacent pelvic organs
+    - **Definition of metastatic cervical cancer** - stage IVB disease
+  - **Principles of Mx:**
+    - <u>Early cervical cancer</u> (IA to 1B2) - surgery +/- adjuvant RT/ chemoradiation
+    - <u>Locally-advanced cervical cancer</u> (1B3 to IVA) - chemoradiation +/- immunotherapy (pembrolizumab)
+    - <u>Metastatic cervical cancer</u> (IVB) - systemic therapy w/ chemotherapy +/- targeted therapy or immunotherapy

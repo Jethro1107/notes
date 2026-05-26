@@ -1,0 +1,47 @@
+---
+id: 64bee10b-3a61-4de7-ba0a-5d22d21e4df4
+title: Obstructive Sleep Apnoea
+---
+
+# Obstructive Sleep Apnoea
+
+- **Definition** - obstructive sleep apnoea (hypopnoea syndrome) is a sleep-related breathing disorder caused by recurrent upper airway obstruction during sleep resulting in sleep fragmentation and daytime sleepiness
+- **Epimdeiology:**
+    - <u>Prevalence</u> - affects 2-4% of middle-aged population
+    - <u>Burden</u> - high impact on road safety:
+        - 3x increased risk of RTA
+        - 9x increased risk of single-vehicle accidents
+- **Pathophysiology of OSA:**
+    - **Anatomical narrow of the upper airway** - anatomical narrowing of the upper airway is often attributed to multiple factors:
+        - <u>Anatomically narrowing of the palatopharynx</u> - variable narrowing of the palatopharynx in different individuals
+        - <u>Recessed mandible</u> - results in reduced opening during sleep and thus narrowing of upper airway
+        - <u>Parapharyngeal soft tissue</u> - increased parapharyngeal soft tissue in obesity, or secondary to endocrine conditions (e.g. hypothyroidism, acromegaly)
+    - **Underactivity of dilating muscles** - during wakefulness, upper airway muscle (e.g. palatoglossus, genioglossus) dilates to maintain upper airway patency, but is lost during sleep, resulting in obstruction of the originally narrow airway
+    - **Sequelae of transient hypopnoea/ apnoea** - minor obstructions cause turbulent airflow and snoring, but severe episodes result in decreased ventilation, resulting in:
+        - <u>Awakening of patient</u> - transiently wakes up patient to dilate the upper airway, but lasts so short that patients have no recollection of them (results in severe sleep fragmentation and daytime sleepiness)
+        - <u>Increased sympathetic tone</u> - results in secondary HTN, and may predispose over time to cardiovascular diseases (particularly coronary events and stroke)
+- **Risk factors for OSA:**
+    - **Non-modifiable risk factors:**
+        - <u>Male sex</u> - 2x increased risk
+        - <u>FHx</u> - familial caused by anatomical variations such as receeding chin and maxilla
+    - **Modifiable risk factors:**
+        - <u>Obesity</u> - increased parapharyngeal soft tissue deposition, although <u>only found in \< 50% of patients w/ OSA</u>
+        - <u>Alcohol and sedatives</u> - due to relaxation of the upper airway dilating muscles
+- **Clinical features of OSA:**
+    - <u>Excessive daytime sleepiness</u> (100%) - the patient often feels that he or she has been asleep all night but wakes up unfresh, where bed partners report loud snoring, moving during sleep or even apnoeic episodes
+    - <u>Functional impmairment</u> - results in difficulties in concentration, impaired cognitive function and work performance
+    - <u>HTN</u> - often drug-resistant HTN and descovered to be secondary in nature
+- **Epworth sleepiness scale** - quantitative assessment of daytime sleepiness: 
+![](../img/epworth_sleepiness_scale.png)
+- **Sleep study** (polysomnography) - demonstration of excessive apnoea/hypopnoea episode during sleep:
+    - <u>Defintions of apnoea and hypopnea</u>:
+        - Apnoea - \> 10s where breathing is paused
+        - Hypopnoea - \> 10s where breathing is reduced by \> 50%
+    - <u>Threshold for OSA</u> - \> 15 apnoeas/hypopnoea per hour of sleep
+
+  
+  ![](../img/apnoea_hypopnoea_on_sleep_study.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Correction of anatomical defects</u> - e.g. nasal obstruction
+        - <u>Continuous positive airway pressure</u> - effects are often dramatic but 30-50% of patients ever tolerate CPAP

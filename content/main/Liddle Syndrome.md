@@ -1,0 +1,16 @@
+---
+id: 3abd7e85-d1b9-476d-ac43-3cf9e25cb5cc
+title: Liddle Syndrome
+---
+
+# Liddle Syndrome
+
+- **Definition** - rare AD disorder a/w GOF mutation of ENaC, manifesting as young hypokalaemic hypertension
+- **Pathophysiology** - GOF mutation of ENaC:
+    - Increased DCT Na reabsorption, and hence water reabsorption in Aldosterone-independent manner
+    - Increased K secretion
+- **Clinical features** - young hypokalaemic HTN
+- **Ix:**
+    - <u>PRA</u> - reduced
+    - <u>Aldosterone</u> - reduced
+- **Mx** - ENaC inhibitors (e.g. amiloride)

@@ -1,0 +1,47 @@
+---
+id: 8b3b9cda-49bd-4371-b677-cc88476ea83d
+title: Neuromuscular Blocking Agent
+---
+
+# Neuromuscular Blocking Agent
+
+- **Classes:**
+    - Depolarising - agonist of AChR (induce refractory period)
+    - Non-depolarising - competitive inhibition of AChR at post-synaptic membrane
+- **Depolarising NMB:**
+    - **Selection** - Suxamethonium (Succinylcholine)
+        - **Clinical utility of SUX:**
+            - <u>Rapid procedures</u> - e.g. rapid sequence intubation
+            - <u>Electro-convulsive therapy</u> - prevent self-harm during ECT
+    - **S/E:**
+        - <u>Parasympathetic effects</u>:
+            - Severe bradycardia or AV nodal rhythm after repeated dosing. Children are especially vulnerable
+            - Increased bronchial & salivary excretions
+            - Increased intra-gastric pressure
+        - <u>Tachyphylaxis</u> - rapid onset and rapid offset
+        - <u>Other side effects</u>:
+            - Hyperkalaemia
+            - Myalgia & muscle pains
+            - Raised intra-ocular pressure
+            - Prolonged paralysis
+            - Increased incidence of allergic reactions
+            - Malignant hyperthermia (C/I if +ve FHx of malignant hyperthermia)
+- **Non-depolarising NMB** - carries quaternary ammonium compound:
+    - **Selection of non-depolarising NMB** - classified by duration of action:
+        - <u>Short-acting</u> - mivacurium
+        - <u>Intermmediate acting</u> - atracurium, cis-atracurium, rocuronium
+        - <u>Long-acting</u> - pancuronium
+    - **MOA** - competitive antagonism of AChR
+    - **Pharmacokinetics:**
+        - <u>Hepatic metabolism and renal excretion</u> (for most) - prolonged duration of action in liver and renal failure
+        - <u>Hoffmann elimination</u> (atracurium) - i.e. spontaeous degradation of atracirium in specific temperature and pH conditions
+    - **S/E:**
+        - Bronchospasm (esp. Atracurium)
+        - Hypotension
+        - Allergic reaction
+    - **Reversal agents:**
+        - <u>AChE inhibitors</u> (e.g. neostigmine) - increased synaptic concentration of ACh to compete w/ non-depolarising NMB
+        - <u>Sugammadex</u> - chelating agent for rocuronium to enhance renal excretion
+- **Neuromuscular monitoring** - guides dosing of NMB:
+    - <u>Aim</u> - estimate time until full recovery of NMJ function to guide next dose of NMB
+    - <u>Procedure</u> - EMG to observe intensity of thumb adduction when ulnar nerve is stimulated

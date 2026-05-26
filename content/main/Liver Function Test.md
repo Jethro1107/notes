@@ -1,0 +1,53 @@
+---
+id: 5D0E9937-07C6-46ED-9FD6-1CAC3DADA5D1
+roam_parent: 038344b7-fbba-417a-9bc1-3eddd3f4b81d
+title: Liver Function Test
+---
+
+# Liver Function Test
+
+- **Components of LFTs:**
+    - Total bilirubin
+    - Transaminases (ALT, AST)
+    - Alkaline phosphatase
+    - Gamma-glutamyl transferase
+    - Albumin
+- **Bilurubin** - degree of elevation of bilirubin can reflect the degree of liver damage:
+    - <u>Haemolysis</u> - raised bilirubin despite normal liver and biliary system
+    - <u>Primary liver disease</u> - active inflammation of results in swelling of the liver within the capsule resulting in impaired bile flow
+    - <u>Biliary disease</u> - often early rise than disease of the liver parenchyma
+- **Serum transaminases** - marker of <u>hepatocellular injury</u>:
+    - **AST vs ALT** - normally ALT \> AST (De Reiter's ratio): 
+    ![](../img/ast_vs_alt.png)
+    - **DDx of reversed De-Reiter's Ratio:**
+        - <u>Ischaemic hepatitis</u> - due to hepatic necrosis and release of mitochondrial AST
+        - <u>HCC and secondary metastasis</u> - due to macromitochondria
+        - <u>Alcoholic hepatitis and steatohepatitis</u> - due to macromitochondria
+- **Alkaline phosphatase and gamma-glutamyl transferase** (ductal enzymes):
+    - **ALP** - collection of several different enzymes that hydrolyse phosphate esters at alkaline pH:
+        - <u>Physiology</u>:
+            - Expressed in various tissues, including liver, GI tract, bone, placenta, and kidneys
+            - In the liver, expressed in the hepatic sinusoids and biliary parenchyma
+            - Undergoes post-translational modification into different <u>isoforms</u>, which are expressed at different levels in different tissues
+            - These isoforms have different heat stability and may be differentiated by specific assays
+        - <u>DDx of elevated ALP</u>:
+            - Osteoblastic activity - e.g. fractures
+            - Pregnancy - increased production from placenta
+            - Liver and biliary disease:
+                - Infiltrative liver diseases (sinusoidal obstruction)
+                - Intrahepatic or extrahepatic biliary obstruction
+    - **GGT:**
+        - <u>Physiology</u>:
+            - Responsible for transfer of gamma-glytamyl peptide to other peptides and amino-acids
+            - Expressed in various cells but highest concentration in the liver
+            - Expression of GGT may be induced in ALD, MASLD, or microsomal enzyme-inducing drugs
+        - <u>DDx of elevated ALP</u>:
+            - Intrahepatic and extrahepatic biliary obstruction
+            - Alcoholism
+            - MASLD
+            - Microsomal enzyme inducing drugs
+
+      
+      ![](../img/drugs_inducing_ggt.png)
+- **Patterns of LFT:** 
+![](../img/patterns_of_lft.png)

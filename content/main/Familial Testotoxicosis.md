@@ -1,0 +1,28 @@
+---
+id: 959f6118-5638-4a82-b9c9-32be4695cc4c
+title: Familial Testotoxicosis
+---
+
+# Familial Testotoxicosis
+
+- **Definition** - rare familial disorder of gonadotropin-independent precocious puberty only in boys
+- **Mode of inheritance** - autosomal dominant inheritance only in males
+- **Pathophysiology of familial testotoxicosis**
+    - <u>Activating mutation of LH receptor</u> - as a result of a number of constitutively activating mutations of LH receptors, mostly in the transmembrane domain in the receptor
+    - <u>Premature Leydig cell maturation</u> - histologically characterised by Leydig cell hyperplasia which is the **presumed source of testosterone**
+- **Clinical features of familial testotoxicosis:** - presenting at <u>2-5y</u>:
+    - <u>Accelerated growth</u> - growth velocity much greater than children of same age
+    - <u>Precocious puberty</u> - development of secondary sexual characteristics:
+        - Accelerated increase in testicular volume to early-to-mid pubertal stage (smaller in relations to stage of penile growth)
+        - Hair growth along in androgen dependent manner (e.g. axilla, pubic hair)
+        - Penile growth appears accelerated in relations to testicular size
+    - <u>Low adult height potential</u> - will be shorter than peers despite early growth due to early epiphyseal fusion
+- **Ix of familial testotoxicosis:**
+    - **Hormone profile** - FSH, LH, testosterone, beta-HCG:
+        - Prepubertal FSH and LH
+        - Undetectable beta-HCG
+        - Extremely high testosterone
+    - **LHRH test** - minimal LH response to GnRH
+- **Mx:**
+    - Androgen receptor blockade (e.g. ketoconazole)
+    - Aromatase inhibitor

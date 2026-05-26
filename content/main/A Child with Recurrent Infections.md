@@ -1,0 +1,104 @@
+---
+id: f20a251d-e873-43bc-9349-a0e48ff83aeb
+title: A Child with Recurrent Infections
+---
+
+# A Child with Recurrent Infections
+
+- **Definition** - refers to infections in a child that is subjectively deemed 1) too frequent, 2) too prolonged, 3) too severe, 4) a/w unusual complications, and 5) failed to resolve w/ standard therapy
+- **Clinical presentation of IEI:**
+    - Recurrent infection
+    - Autoimmunity
+    - Inflammatory
+    - Atopy
+    - Neoplastic disease
+- **Infections in children** - common in children and deemed normal if episodes are 1) not exceedingly frequent, 2) not prolonged, 3) self-limiting, and 4) uncomplicated:
+    - **Normal rate of infections in a child** - 8-10 URTIs in a year, even more if:
+        - Just started to go to nursery
+        - Many siblings at home resulting in increased exposure
+    - **Jeffrey Mondell Foundation 10 warning signs of IEI** - covers different presentations of recurrent infections but should not be treated as an exhaustive list:
+        - \>= 8 new ear infections within 1y
+        - \>= 2 serious sinus infections within 1y
+        - \>= 2mo on ABx with little effect
+        - \>= 2 pneumonias within 1y
+        - Failure of an infant to gain weight or grow normally
+        - Recurrent deep skin or organ abscesses
+        - Persistent thrush in mouth or elsewhere on skin after 1y/o
+        - Need for IV ABx to clear infections
+        - Two or more deep-seated infections
+        - A family history of IEI
+- **DDx of recurrent infections:**
+    - **The "normal" child** - accounts for ~50% of cases w/ apparent recurrent infections:
+        - <u>Idiopathic</u> - more than frequent infections relative to peers, but are typically self-limiting and responsive to Gx, with normal growth, development and usually subsides w/ age
+        - <u>Muncahusen syndrome by proxy</u> - medical child abuse by inducing infections in a child, a/w abnormal attention seeking behaviour in the carer
+    - **The child with atopic disease** - 30% of children w/ recurrent infections, where clinical manifestations of atopic illness mimics an infection and thus poorly responds to ABx:
+        - <u>Allergic rhinitis</u> - runny nose and cough (due to post-nasal drip) may be mistakened as chronic or recurrent URTI
+        - <u>Asthma</u> - appearing as more prolonged course of disease after viral URTI due to airway hypersensitivity, whereas more severe asthatic attacks may be misdiagnosed as pnemonia
+    - **The child with chronic disease** - more susceptible to infections due to various factors:
+        - <u>Physical barrier failure</u> - anatomical deficits resulting in increased risk of colonisation by organisms (e.g. skin abnormalities, sinus tracts, fistulaes, congenital urological defects)
+        - <u>Impaired clearance of secretions</u> - e.g. abnormal mucus production, abnormal cilia structure or function (e.g. cystic fibrosis, Kartegener's syndrome)
+        - <u>Congenital heart disease</u> - increased pulmonary blood flow predisposing to chest infections; abnormal valvular structures predisposing to IE
+        - <u>Neurological disorders</u> - hypotonia or CNS abnormalities resulting in **bulbar dysfunction** results in increased risk of aspiration
+    - **The child with secondary immunodeficiencies** (more common than IEI) - e.g. HIV/AIDs, immunosuppressive drugs (e.g. corticosteroids), childhood malignancies, DM
+    - **The child with inborn errors of immunity** - heterogenous group of disorders a/w a specific defect in the immune system
+- **Salient points of Hx:**
+    - **Birth Hx:**
+        - <u>Maternal infections</u> - HIV, CMV, risky behaviour
+        - <u>Risky maternal behaviour</u> - e.g. use of illicit drugs, tobacco and alcohol
+        - <u>Other peripartum complications</u> - e.g. NNJ, repsiratory distress, neonatal sepsis, neonatal hypocalcaemia
+        - <u>Detatchment of umbilical cord</u> - \> 30d suggestive of leukocyte adhesion defect
+        - <u>Newborn screening</u> - for certain IEIs (e.g. TREC for SCID, KREC for XLA)
+    - **Growth and developmental Hx:**
+        - <u>Growth</u> - Poor growth velocity commonly seen in children w/ chronic disease and immunodeficiency
+        - <u>Development</u> - Syndromic immunodeficiencies may lead to a delay in attaining developmental milstones (e.g. ataxia-telangiectasia, DiGeorge syndrome)
+    - **Immunization Hx:**
+        - <u>Immunization record</u> - confirm that child is up-to-date
+        - <u>Adverse reactions to vaccines</u> - e.g. vaccine-failure or vaccine-strain related infections (e.g. BCG, chickenpox)
+    - **Drug Hx** - use of immunosuppressive medications including glucocorticosteroids, pooled IG
+    - **Infection Hx** - includes age of onset, duration, frequency, site, organism and related Tx:
+        - **Onset** - most IEIs will present early within first few years of life but suspicion raised if \< 18y
+        - **Duration and frequency** - differentiate self-limiting from severe infections
+        - **Site of infection:**
+            - <u>Upper respiratory tract</u> - note may be an atopic illness; repeated candidiasis (\> 3mo) should raise suspicion of T cell or phagocytic deficit
+            - <u>Lower respiratory tract</u> - may be an atopic condition, congenital cardiopulmonary disease, repeated aspiration
+            - <u>Blood and brain</u> - repeated bacterial meningitis and bacteraemia is a/w Ab or complement defect
+            - <u>Other sites</u> - consider a phagocytic or Ab deficiency, however recurrent abscess formation over the same site should raise suspicion of an underlying anatomical deficit
+        - **Pathogen** - consider pathogen-immunophenotype-genotype correlation:
+            - <u>Sinopulmonary infections by capsulated organisms</u> - suggestive of a defect in adative humoral immunity
+            - <u>Invasive infection by Neisseria spp</u> - late complement deficiency
+            - <u>Prolonged and severe candidiasis</u> - may be related to cellular immunodeficiency
+            - <u>Varicella-vaccine failure</u> - may be related to cellular immunodeficiency
+    - **PMH:**
+        - Past hospitalisations or prolonged absenteeism
+        - Past surgical Hx
+        - Hx of blood product transfusions
+        - System review (including other manifestations of IEI, e.g. allergy, autoimmunity, arthritis)
+    - **FHx** - look for +ve FHx and pattern of inheritence:
+        - Early unexplained death
+        - Autoimmune disease
+        - Malignancies
+        - Family w/ similar diseases
+    - **SHx** - to assess potential exposures
+- **P/E:**
+    - <u>Growth</u> - failure to thrive
+    - <u>Mucocutaneous surfaces</u> - candidiasis
+    - <u>Abdomen</u> - hepatosplenomegaly
+    - <u>Chest</u> - bronchiectasis
+    - <u>Neurological</u> - ataxia
+    - <u>Skin</u> - poor wound healing or scars
+- **Ix:**
+    - **Routine Ix** - urinalysis, CBC, LRFT, ESR/CRP:
+        - **CBC:**
+            - <u>Anaemia, thrombocytopenia leukocytosis</u> - should be independently investigated
+            - <u>Absolute lymphocyte count</u> - \< 2500/ ml in young children suggestive of T cell deficiency
+        - **LRFT:**
+            - <u>Albumin</u> - protein loss or malnutrition
+            - <u>SCr</u> - reanl disease
+        - **ESR/CRP** - chronic infection/ autoimmune disease (septic workup if active infection suspected)
+    - **Immunoglobulin pattern** - IgGAM + IgE:
+        - <u>IgG</u> - IgG \< 300 mg/dL or total Ig (IgG, IgM, IgA) \< 500 mg/dL suggestive of Ab or combined immunodeficiency
+        - <u>IgE</u> - very elevated levels may be due to hyper-IgE syndrome
+    - **Additional Ix:**
+        - Total complement measurement (CH50)
+        - Lymphocyte subsets
+        - HIV

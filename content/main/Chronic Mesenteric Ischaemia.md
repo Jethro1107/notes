@@ -1,0 +1,26 @@
+---
+id: 381C3B51-8A70-4D05-BF46-DB1C48C8824E
+roam_parent: 1A9382BA-7D27-42A4-8B56-982EF9C9AD76
+title: Chronic Mesenteric Ischaemia
+---
+
+# Chronic Mesenteric Ischaemia
+
+- **Definition** - atherosclerotic disease of the major arterial branches resulting in an imbalance of mesenteric arterial supply and metabolic demand
+- **Pathophysiology of chronic mesenteric ischaemia:**
+    - <u>Atherosclerotic stenosis of major vasculature</u> - **\>= 2/3** of coeliac axis, superior mesenteric artery and inferior mesenteric artery must be affected for Sx to develop
+    - <u>Imbalance between mesenteric supply and metabolic demand</u>:
+        - Increased metabolic demand - required during digestion and absorption roughly 30 min after a meal
+        - Decreased mesenteric supply - may occur w/ plaque rupture resulting in acute mesenteric ischaemia
+- **Clinical features of chronic mesenteric ischaemia:**
+    - <u>Abdominal pain</u> - often non-specific, dull, but severe upper or mid-abdominal pain developing about 30-minutes post-prandial
+    - <u>Diarrhoea</u> - likely due to malabsorptive states
+    - <u>Weight loss</u> - common as patients are reluctant to eat
+- **Signs:**
+    - <u>Generalised atherosclerotic disease</u> - e.g. deminished peripheral pulses
+    - <u>Abdominal bruit</u> - may be heard but is a non-specific sign
+- **Dx** - by mesenteric angiography
+- **Mx:**
+    - Vascular reconstruction
+    - Percutaneous mesenteric angioplasty
+- **Prognosis** - will eventually develop intestinal infarction if left untreated

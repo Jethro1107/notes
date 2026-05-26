@@ -1,0 +1,127 @@
+---
+id: 3e985c50-1f1b-4d71-9d3d-fd50f61c102a
+title: Thyrotoxicosis
+---
+
+# Thyrotoxicosis
+
+- **Definition** - Constellation of S/S arising from elevated circulating levels of thyroid hormone
+- **Etiology of thyrotoxicosis:** 
+![](../img/etiology_of_thyrotoxicosis.png)
+    - **Primary hyperthyroidism:**
+        - <u>Autoimmune thyroid disease</u> - e.g. Graves' disease (76%), Hashimoto Thyroiditis
+        - <u>Simple or multinodular goitre</u> - Toxic multinodular goitre (14%), solitary functioning thyroid adenoma (5%)
+        - <u>Thyroiditis</u> - subacute thyroiditis, post-partum thyroiditis, drug-induced thyroiditis (ICI)
+        - <u>Iodine-related thyroid disease</u> - amiodarone, radiographic contrast media, iodine prophylaxis prgramme
+        - <u>Extra-thyroid source of T3/4</u> - factituous thyroiditis, ovarian teratoma (struma ovarii)
+        - <u>Thyroid neoplasm</u> - follicular thyroid carcinoma +/- metastasis
+    - **Secondary hyperthyroidism:**
+        - <u>Pituitary adenoma</u> - TSH-secreting pituitary tumours (e.g. choriocarcinoma and hydatidform mole)
+- **Clinical features of thyrotoxicosis** - variable, but all atributed to an increased sympathetic drive; common Sx include:
+    - **Classical Sx of thyrotoxicosis:**
+        - <u>Weight loss</u> - unintential weight loss despite a normal or increased appetite
+        - <u>Hunger</u> - reflects an increased metabolic demand where increased appetite may be perceived as constant hunger
+        - <u>Heat intolerance and sweating</u> - intolerance to heat and excessive sweating (even in cool environments)
+        - <u>Tremors</u> - fine tremors on motion, a form of kinetic tremor
+        - <u>Irritability</u> - anxiety, agitated state, or emotional lability
+    - **Complications of thyrotoxicosis:**
+        - <u>Atrial fibrillation</u> - manifests as 1) palpitations, 2) heart failure, or 3) thromboembolic complications
+        - <u>Heart failure</u> - manifests as SOBOE, reduced exercise tolerance
+        - <u>Thyrotoxic perioidic paralysis</u> - manifests as an acquired metabolic myopathy w/ proximal muscle weakness a/w profound hypoK due to redistribution
+        - <u>Thyroid storm</u> -
+
+    
+    ![](../img/clinical_features_of_thyrotoxicosis.png)
+- **Signs of thyrotoxicosis:**
+    - **General examination** - anxious looking, sweaty palms, tachycardia
+    - **Neck examination:**
+        - <u>Inspection</u> - goitre may or may not be present
+        - <u>Palpation</u> - tracheal deviation; diffuse vs nodular enlargement; assess for retrosternal extension
+        - <u>Auscultation</u> - thyroid bruits may be heard for Graves' disease
+    - **Assessment of thyroid status:**
+        - <u>Lid lag/ lid retraction</u> - due to potentiation of sympathetic innervation to levator palpebrae muscle and occurs in **all forms of thyrotoxicosis**
+        - <u>Exophthalmosis and related signs</u> (e.g. conjunctival irritation, diplopia on EOM) - only occurs in Graves' disease due to retro-orbital fatty infiltration as a result of **Graves' opthalmopathy**
+- **Salient points of Hx:**
+    - **HPI** - onset, progression,severity of thyrotoxicosis, symptoms of GO, related complications and associated Sx
+    - **PMH** - associated conditions of Graves', concomittent cardiac diseases, previous use of amiodarone, or radiographic contrast media
+    - **FHx** - endocrine disease
+- **P/E** - examination of thyroid, thyroid eye, and assessment of thyroid status (see above)
+- **Ix:**
+    - **ECG** - detect sinus tachycardia, or atrial fibrillation
+    - **TFT** - differentiate between primary or secondary hyperthyroidism:
+        - <u>Primary hyperthyroidism</u> - T3/4 raised, TSH undetectable
+        - <u>Secondary hyperthyroidism</u> - T3/4 raised, TSH **raised or inappropriately normal**
+    - **Thyroid Ab** - TSH receptor antibodies (TRAb), Anti-thyroglobulin (Anti-TG), Anti-thyroid peroxidase (Anti-TPO):
+        - <u>Anti-TSHR</u> (TRAb) - elevated in Graves disease
+        - <u>Anti-TPO, Anti-TG</u> - represents autoimmunity to thyroid (e.g. Graves disease, autoimmune hypothyroidism)
+
+    
+    ![](../img/prevalence_of_thyroid_autoantibodies.png)
+    - **Thyroid US** +/- FNAC - indicated if thyroid nodule suspected
+    - **Radio-iodine scan or 99m-technetium scintigraphy** - reperesents proportion of iodine trapping within the thyroid:
+        - <u>Low-uptake levels</u> - represents transient reduction in iodine-trapping functions (e.g. transient thyroiditis, or patient-induced factitious thyroiditis)
+        - <u>Diffuse high-uptake levels</u> - often diagnostic of Graves' disease
+        - <u>Focal high-uptake levels</u> - TNG or solitary toxic adenoma
+
+    
+    ![](../img/establishing_ddx_for_thyrotoxicosis.png)
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Dx and Tx of underlying condition</u> - indications for antithyroid drugs, radioactive iodine or surgery differ for different thyroid condition
+        - <u>Symptomatic relief</u> - non-selective beta-blockers, lugol's soultion
+        - <u>Mx of co-morbidities related to thyrotoxicosis</u> - e.g. Mx of AF by rate control w/ beta-blocker, and anti-coagulation w/ warfarin
+    - **Ant-thyroid drugs** - see section on Graves' disease
+    - **Beta-blockers** - for Sx relief awaiting hospital consultation or following radioiodine I-131 therapy:
+        - <u>Indications</u>:
+            - Symptomatic relief - alleviate but not abolish Sx of thyrotoxicosis within 24-48h
+            - Rate control for AF
+        - <u>Selection</u> - non-selective beta-blockers preferred:
+            - Propanolol 160 mg/d
+            - Nadolol 40-80 mg/d
+    - **Considerations for AF in thyrotoxicosis** - occurs in 10% of patients w/ thyrotoxicosis and incidence increases w/ age (\> 50% of M \> 60y w/ thyrotoxicosis):
+        - <u>Rate control</u> - **beta blockers**; ventricular rate little influenced by digoxin
+        - <u>Anticoagulation</u> - **warfarin** to reduce thromboembolic complications unless contraindicated
+        - <u>Restoration of sinus rhythm</u>:
+            - 50% will return to sinus rhythm after rendered euthyroid
+            - Pharmacological or electrical cardioversion may be required in some patients if persistent
+
+## Thyroid storm
+
+- **Definition** - rare, but life-threatening edical emergency caused by extreme thyrotoxicosis, typically precipitated by infection (10% mortality)
+- **Clinical features:**
+    - <u>Prior inciting event</u>:
+        - Infection in previously undetected or inadequately treated thyrotoxicosis
+        - Immediately post-thyroidectomy (esp. if poorly prepared)
+        - Within few days of RAI
+    - <u>Prominent features of complicated thyrotoxicosis</u>:
+        - Fever
+        - Severe agitation
+        - Atrial fibrillation
+        - Heart failure
+- **Mx:**
+    - Mx of HF - rehydration and propananlol (80mg PO qid or IV 1-5mg q6h)
+    - Suppression of thyroid hormone secretion - PO Sodium ipodate 500mg od (more effective than Lugol's solution)
+    - Suppression of thyroid hormone synthesis - PO/ rectal carbimazole 40-60 od
+
+## Thyrotoxic periodic paralysis
+
+- **Definition** - a complication of hyperthyroidism, classically manifest as hypoK-mediated muscle weakness, resulting in paralysis
+- **Epidemiology of TPP:**
+    - **Oriental men with hyperthyroidism** - M vs F ~ 25% vs 0.8%
+- **Pathophysiology of TPP:**
+    - **Predisposition** - Increased Na/K ATPase activity due to hyperthyroidism (typically Graves' Disease)
+    - **Trigger** - 1) **Insulin response** to high carbohydrate diet, causing excessive intracellular shift of K, 2) Events associated with **adrenaline release** , such as exercise, stress, SABA use
+        - **Consequence** - HypoK and paralysis
+- **Clinical features of TPP:**
+    - Always preceded by thyrotoxic S/S
+    - **Attacks of paralysis** - Proximal \> distal, LL \> UL, seldom respiratory muscles
+        - **Neurological examination** - Hypotonic and hypo-/areflexia
+        - **Duration** - **minutes to days**, <u><u>spontaneous recovery after redistribution of K</u></u>
+        - Precipitants:
+            - **Events associated with adrenaline release** - e.g. exercise, stress, SABA use
+            - **Events associated with insulin release** - high carbohydrate load
+    - **Arrhythmias** due to severe hypoK.
+- **Mx:**
+    - Usually spontaneous recovery - accelerated by **K supplement** (watch out for **rebound hyperK** due to extracellular shift)
+    - Work-up and manage hyperthyrodism accordingly.
+    - **General measures** - low salt diet, reduced carbohydrate intake, Spironolactone, Propanolol

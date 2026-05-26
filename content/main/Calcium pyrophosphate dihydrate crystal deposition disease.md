@@ -1,0 +1,186 @@
+---
+id: c7546246-77b2-4d50-b1f5-b25499e9b9f7
+title: Crystal-induced Arthritis
+---
+
+# Crystal-induced arthritis
+
+- **Definition** - crystal deposition in and around the joints, manifesting as acute inflammatory arthritis, or chronic arthritis with progressive joint damage
+- **Types of crystal-induced arthritis:**
+    - **Gout** - acute and chronic gouty arthritis caused by deposition of <u>monosodium urate</u>
+    - **Pseudogout** (CPDD) - arthritis caused by deposition of calcium pyrophosphate (typically in pathological joints)
+    - Calficic periarthritis/ calcinosis - arthritis caused by deposition of basic calcium phosphate
+    - Others - e.g. cholesterol, calcium oxalate, extrinsic crystals
+
+  
+  ![](../img/crystal_associated_arthritis.png)
+- **General pathophysiology of crystal-induced arthritis** - crystals may be the primary pathology (gout), or a precipitating factor on top of pathological joint (CPDD):
+    - **Sufficient substrate concentration** - substrate concentration needs to be sufficient, but does <u>not necessarily be elevated</u> for crystals to be formed
+    - **Formation of crystals** - balance of promoting or inhibitory tissue factors +/- physical factors (temp, pH):
+        - Physiological joints are typically super-saturated w/ solutes, but depend on natural inhibitors to prevent crystal formation
+    - **Inflammation** - typically related to a trigger:
+        - Trauma - causing the release of crystals to trigger inflammation
+        - Changes in substrate concentration - affects equilibrium of the reaction
+        - Overlying inflammation - e.g. acute phase response in critical illness
+
+  
+  ![](../img/crystal_arthritis_pathophysiology.png)
+
+## Gout
+
+- **Definition** - <u>inflammatory arthritis</u> caused by deposition of <u>monosodium urate monohydrate crystals</u> in and around synovial joints
+- **Epidemiology** - most common inflammatory arthritis in M and older F:
+    - Prevalence - 1-2% (varies between populations)
+    - Demographic - common in 30-60y, incidence increases w/ age, with male preponderance (M:F = 8:1)
+- **Normal uric acid metabolism:**
+    - Uric acid pool -1/3 from dietary source, 2/3 from purine metabolism:
+        - Dietary purines - red meat, seafood, beer (guanosine)
+        - Purine metabolism - <u>xanthine oxidase</u> degrades hypoxanthine to xanthines to uric acid
+    - Uric acid excretion - 2/3 via renal excretion (filtration, and active secretion), 1/3 via biliary excretion
+- **Pathophysiology of gout** - caused by reduced excretion, over-production or increased dietary intake:
+    - **Reduced renal excretion** - increased renal tubular reabsorption (genetically predetermined, SLC2A9), chronic kidney disease, thiazide and loop diuretics
+    - **Over-production** - tumour lysis syndrome (Myeloproliferative and lymphoproliferative diseases), psoriasis, rare inherited disorders (e.g. Lesch-Nyhan syndrome)
+    - **Miscellaneous risk factors:**
+        - Osteoarthritis - reduction in levels of proteoglycans and tissue inhibitors of crystal formation
+        - Metabolic syndrome
+
+  
+  ![](../img/gout_pathophysiology.png)
+- **Clinical spectrum of gout:**
+    - Asymptomatic hyperuricaemia - much of individuals w/ hyperuricaemia develop clinical gout
+    - Acute gouty arthritis - classical presentation of acute inflammatory monoarthritis +/- systemic illness
+    - Intercritical gout - completely asymptomatic between attacks, but attacks become more frequent, and may become polyarticular
+    - Chronic tophaceous gout - chronic gouty tophi with persistent joint pain and joint damage
+- **Clinical features of gout:**
+    - **Acute gouty arthritis** - classical presentation of acute inflammatory monoarthritis, but is self-limiting with complete resolution within 5-14 d:
+        - **Acute onset of joint pain:**
+            - <u>Site</u> - first MTP joint (50%), ankle, midfoot, knee, small hand joints, wrists, elbow (proximal and axial joints typically spared)
+            - <u>Onset</u> - rapid, reaches maximal intensity within 2-6 h (typically wakes up patient in the morning)
+            - <u>Character</u> - persistent, inflammatory pain
+            - <u>Associated features</u> - signs of marked synovitis (erythema, swelling, heat, tenderness), and systemic illness (fever, malaise, confusion)
+            - <u>Severity</u> - extremely severe, worst pain ever, can wake up individuals from sleep, unable to wear socks
+        - **Pruritis and desquamation** - typically manifests as the <u>acute attack subsides</u>
+    - **Intercritical gout** - most do not have a second attack, but repeated attacks typically occur in years
+    - **Chronic tophaceous gout** (60% patients after 10y) - especially after frequent (\< 1y) repeated attacks:
+        - **Chronic pain** - due to chronic inflammation over gouti tophi deposition
+        - **Deformity and functional impairments** - due to joint damage and gouty tophi deposition
+        - **Tophi deposition** - irregular firm nodules in periarticular tissues, helix of ears, tendon, extensor surface of fingers, hands, forearm and elbow, and rarely in the larynx, tongue and heart
+- **DDx of gout:**
+    - Septic arthritis - must r/o
+    - Infective cellulitis
+    - Reactive arthritis
+- **Ix and Dx of gout:**
+    - **Joint aspiration** - demonstration of MSU crystals (-ve birefringent) is diagnostic:
+        - Appearance - turbid
+        - WBC and differentials - 2000-75000 (90% neutrophils)
+    - **Routine bloods** - demonstrate inflammation, etiology and associated conditions:
+        - <u>CBC</u> - neutrophilia
+        - <u>ESR and CRP</u> - non-specifically elevated
+        - <u>RFT</u> - look for chronic renal failure as cause
+        - <u>BG, lipid profile</u> - assessment of associated metabolic syndrome
+    - **Uric acid** - helpful but non-diagnostic (elevation not diagnostic of gout, normal levels does not r/o gout)
+    - Ultrasound - double-contour sign
+    - Radiographs:
+        - Acute gout - typically normal
+        - Chronic tophaceous gout - well-demarcated erosions and soft tissue swellings
+
+### Management of gout
+
+- **Principles of Mx:**
+    - Acute attacks - symptomatic relief by anti-inflammatory drugs
+    - Intercritical gout - preevnt attacks from occuring by urate-lowering therapy
+- **Mx of acute gout:**
+    - **Oral NSAIDs** - **indomethacin** preferred as <u>standard of Tx</u> (efficacy and S/E profile), aspirin or other salicylates avoided
+    - **COX-2 inhibitor** - celocoxib as effective as indomethacin
+    - **Colchicine:**
+        - <u>MOA</u> - Inhibition of microtubule polymerisation in neutrophils +/- leukotriene B4-mediated neutrophil chemotaxis –\> prevent phagocytosis of urate crystals and inflammatory sequelae
+        - <u>Dosage</u> - 0.5 mg bid or tid
+        - <u>S/E</u> - nausea, vomiting, diarrhoea (narrow therapeutic index)
+    - **Steroids** - administered only when diagnostic clear and septic arthritis is excluded
+        - <u>RoA</u> - intra-articular injections, oral, intra-muscular, perenteral
+    - **Anti-IL agents** - Anakinra, canakinumab
+- **Mx of intercritical gout:**
+    - **Principles of Tx:**
+        - Indefinent urate lowering agent + prophylactic NSAID or colchicine (prevention of breakthrough attacks) in initial 3-6 mo
+        - Correction of predisposing factors:
+            - Dietary modification - avoid large amounts of red meat, seafood, offals
+            - Reduction of alcohol intake, especially beer
+            - Substitution of thiazine diuretics w/ ACEi (mild uricosuric effects)
+    - **Treatment target** - aims at serum uric acid (SUA) levels below that at which urate crystals can deposit:
+        - British Society of Rheumatology - SUA \< 360 micromol/L
+        - European League Against Rheumatism - SUA \< 300 micromol/L
+    - **Types of urate-lowering agents:**
+        - Xanthine oxidase inhibitors - Allopurinol, Febuxostat
+        - Uricosuric agents - probenecid, sulphinpyrazone
+        - Uricaase analogs - pegloticase, (rasburicase)
+    - **Allopurinol** - 1st line Tx:
+        - <u>MOA</u> - Xanthine oxidase inhibitor (inhibits synthesis of uric acid)
+        - <u>Dosing</u> - Starting dose 100 mg (50 mg in renal impairments or elderly) with stepwise increase in dosage by 100/50 mg (same as above) until 1) treatment target reached, 2) maximal dose reached (900 mg), or 3) maximally tolerable dose reached
+        - <u>C/I</u> - HLAB\*5801 haplotype (**genetic testing required**), pregnancy, nursing mothers, children
+        - <u>S/E</u>:
+            - Xanthine stones - maintain high urine output +/- urine pH (sodium bicarbonate or potassium citrate tablets)
+            - Acute flares - warmed about and told to continue therapy even if attack occurs
+            - Allopurinol-related S/E - GI disturbances, Hypersensitivity reaction (HLA-B\*5801), teratogenicity
+    - **Febuxostat** (more potent than allopurinol) - indicated if insufficient lowering by allopurinol, allopurinol contraindicated, or poorly tolerated:
+        - <u>MOA</u> - Xanthine oxidase inhibitor
+        - <u>Dosing</u> - starting dose 80mg
+        - <u>S/E</u>:
+            - Xanthine stones
+            - Acute flares - more likely than allopurnol, requires a longer duration of prophylactic anti-inflammatory drugs (6 mo)
+            - Febuxostat related S/E - dLFT (requires monitoring), CVS risk (periodic monitoring of CVS risk factors), nausea, joint pain, rash
+    - **Uricosuric agents:**
+        - <u>MOA</u> - inhibiion of UAT1 –\> increased renal excretion
+        - <u>S/E</u>:
+            - Uric stones - avoided by adequate hydration
+            - Acute flares
+        - <u>C/I</u>:
+            - Over-producers
+            - Chronic kidney disease
+            - Urolithiasis
+    - **Pegloticase:**
+        - <u>MOA</u> - recombinant uricase conjugated to monomethoxypolyethylene glycol to increase half life
+        - <u>Indications</u> - for refractory gout to standard therapy
+        - <u>Dosage</u> - IV q2w for up to 6mo (due to tachyphylaxis)
+        - <u>S/E</u>:
+            - Infusion reactions - treated with anti-histamines or steroids
+            - Acute flares
+
+## Calcium pyrophosphate dihydrate crystal deposition disease
+
+- **Definition** - deposition of calcium pyrophosphate dihydrate (CPPD) within articular or hyaline cartilage, and is sometimes known as pseudogout
+- **Epidemiology:**
+    - Prevalence -
+    - Demographic:
+        - Age - increasing incidence w/ age (10-15% in 65-75y, 30-60% in \> 85y)
+        - Gender - no sex predisposition
+- **Risk factors:**
+    - Age
+    - Osteoarthritis
+    - PrimaryPTH
+    - Rare risk factors - familil, haemochromatosis, Wilson's disease, hypophosphatasia, hypomagnesemia
+- **Sites of CPPD disease:**
+    - Knee (most common) - hyaline cartilage and menisci
+    - Wrist - triangular fibrocartilage
+    - Pubic symphysis
+- **Pathophysiology of pseudogout** - poorly understood
+- **Clinical features of pseudogout:**
+    - Asymptomatic - most patients with chondrocalcinosis are asymptomatic w/ incidental finding on X-ray
+    - **Acute inflammatory monoarthritis** - clinically similar as gout with inflammed joint (erythema, and signs of large effusion) and systemically ill (fever, confusion)
+    - **Chronic inflammatory arthropathy** - typically on a background of OA:
+        - <u>Chronic pain</u> - ?inflammatory type rest pain
+        - <u>Effects of effusion and synovial thickening</u>:
+            - Early morning stiffness and inactive gelling
+            - Swelling - especially apparent at knees and legs
+            - Carpel tunnel syndrome - in wrist involvement
+- **Ix of pseudogout:**
+    - Joint aspiration (diagnostic) - demonstration of +ve birefringent CPPD crystals (permit distinction from gout)
+        - Appearence - turbid to blood stained (dependent of degree of inflammation)
+        - WBC and differentials - Neutrophilic leukocytosis
+        - Microbiology - r/o concurrent septic arthritis
+    - X-Rays - demonstrate calcification of cartilage +/- OA changes
+
+  
+  ![](../img/knee_chondrocalcinosis.png)
+- **Mx of pseudogout:**
+    - Acute attack - pain relief (NSAID with caution especially in elderly)
+    - Chronic arthropathy - manage as OA

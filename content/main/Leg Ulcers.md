@@ -1,0 +1,124 @@
+---
+id: f5bf8513-6fc1-41f0-84f8-fb6a1a222f88
+title: Leg Ulcers
+---
+
+# Leg Ulcers
+
+- **Definition** - destruction of epidermis that extends into the dermis and may reach subcutaneous fat or deeper tissues over the lower limb
+- **Etiology of leg ulcers** - venous, arterial, and neuropathic ulcers account for 90%:
+    - **Common causes** (90%):
+        - <u>Chronic venous insufficiency</u> (48%) - venous ulcer development over the gaiter area of the leg due to ambulatory venous hypertension
+        - <u>Chronic arterial insufficiency</u> (15%) - arterial ulcers typically over distal areas and bony prominences as a result of critical limb ischaemia
+        - <u>Neuropathic ulcers</u> - pressure ulcers, caused by peripheral neuropathy, most commonly diabetic neuropathy
+    - **Less common causes:**
+        - <u>Trauma</u>
+        - <u>Infection</u> - bacterial, fungal, spirochete, or protozoal skin infections
+        - <u>Other small-vessel diseases</u> - small vessel vasculitis, Livedoid vasculopathy, Buerger's disease (Thromboangiitis obliterens), Microvascular occlusion disorders, Sickle cell disease
+        - <u>Pyoderma gangrenosum</u> - neutrophilic dermatosis a/w underlying systemic disorders (e.g. inflammatory bowel disease, haematological malignancies)
+        - <u>Panniculitis</u> - inflammation of subcutaneous fats secondary to nodular vasculitis, alpha-1-anti-trypsin deficiency, or malignant pancreatic disease
+        - <u>Malignancy</u> - Basal cell carcinoma, squamous cell carcinoma, malignant melaenoma, Kaposi's sarcoma
+        - <u>Medications</u> - warfarin, heparin, hydroxyurea
+        - <u>Brown recluse spider bite</u>
+- **Leg ulcers due to venous disease:**
+    - **Pathophysiology of venous ulcers:**
+        - <u>Ambulatory venous hypertension</u> - results in a rise in capillary pressure, resulting in peri-capillary fibrin cuffing and impairment of **local tissue oxygenation**
+    - **Clinical features of venous ulcers** - typically a sequence of events following CEAP classification before venous ulcers occur:
+        - <u>Varicose veins</u> (C2) - initial Sx of chronic venous insufficiency is sense of heaviness exacerbated after prolonged standing (prior to onset of visible oedema)
+        - <u>Oedema</u> (C3) - subsequently visible leg swelling develops due to a rise in capillary hydrostatic pressure
+        - <u>Skin changes</u> (C4) - venous staining (haemsiderin deposition), gravitational eczema, and progression into lipodermatosclerosis (sclerosis of the dermis and subcutis)
+        - <u>Venous ulcers</u> (C5-6) - often **precipitated by trauma or infections** occuring over gaiter's area, especiallly the medial aspect of the lower leg:
+            - **Location** - gaiter's area (lower leg and ankle), more commonly over medial malleolus
+            - **Morphology** - irregular, shallow lesions
+            - **Base** - pink granulation tissue and white fibrotic tissue
+            - **Pain** - mildly painful
+            - **Surrounding skin** - chronic venous signs
+            - **Pulses** - present
+    - **Complications of venous ulcers:**
+        - <u>Infectious ulcers</u> - due to bacterial colonisation over the ulcer
+        - <u>Contact allergic dermatitis</u> - new contact dermatitis to topical medicaments, dressings, and bandages
+        - <u>Complications of lipodermatosclerosis</u> - lymphoedema and hyperkeratosis
+        - <u>Squamous cell carcinoma</u> (SCC) - develop from a long-standing venous ulcer (Marjolin's uler)
+- **Leg ulcers due to arterial disease:**
+    - **Pathophysiology of arterial ulcers** - critical limb ischaemia (Rutherford 4+) resulting in cutaneous and subcutaneous ischaemia and necrosis
+    - **Clinical features of arterial ulcers:**
+        - <u>Arterial ulcer</u> - ulcers developed due to subcutaneous ischaemia:
+            - **Location** - distal parts (e.g. in between toes), pressure sites, and shin
+            - **Morphology** - regular borders, deep, punched-out lesions
+            - **Base** - clean and absence of granulation tissue (since no blood flow)
+            - **Pain** - extremely painful
+            - **Surrounding skin** - shiny, atrophic changes
+            - **Pulses** - absent
+        - <u>Context of chronic arterial insufficiency</u> - report Sx of intermittent claudication +/- progression to rest pain
+        - <u>Relevant risk factors</u> - smoking, HTN, DM, hyperlipidaemia
+- **Leg ulcers due to neuropathy:**
+    - **Pathophysiology** - excessive pressure due to reduced sensation resulting in trauma and ulcerations
+    - **Clinical features of neuropathic ulcers:**
+        - <u>Neuropathic ulcers</u> - ulcers developing over pressure sites:
+            - **Location** - pressure sites
+            - **Morphology** - regular, punched-out lesions
+            - **Base** - often exposes bone
+            - **Surrounding skin** - often normal
+            - **Pain** - <u>painless</u> due to neuropathy
+            - **Pulses** - usually present
+        - <u>Relevant Hx revealing neuropathy</u> - distal numbness or parasthesia, +ve Hx of DM
+    - +/- **Ulcer biopsy** (edge of ulcer) - if non-healing ulcer failing to respond to initial therapy
+- **Salient points of Hx:**
+    - **HPI** - onset, progression, previous episodes, precipitating events, associated w/ pain:
+        - <u>Onset</u> - acute vs chronic leg ulcers
+        - <u>Progression</u> - rapid progression suggestive of uncommon causes such as infectious ulcers, PG, or spider bites
+        - <u>Previous episodes</u> - ask about cause of previous episodes
+        - <u>Precipitating events</u> - note any Hx of trauma over ulcer site (suggestive of traumatic ulcers or PG)
+        - <u>Association w/ pain</u> - arterial ulcers, PG, or microvascular occlusion disorders cause severe pain, while absent of pain is suggestive of neuropathic ulcers
+    - **Associated Sx** - assess for Sx of the 3 most common causes of leg ulcers:
+        - **Sx of chronic venous insufficiency** - varicose veins, pain over varicosities upon prolonged standing, leg swelling
+        - **Sx of chronic arterial insufficiency** - intermittent claudication, rest pain
+        - **Sx of peripheral neuropathy** - numbness or parasthesia in distal parts of limbs
+        - **Systemic features** - fever, weight loss
+    - **PMH:**
+        - <u>Salient PMH for chronic venous insufficiency</u> - prior DVT, stroke, miscarriages
+        - <u>Salient PMH for chronic arterial insufficiency</u> - HTN, DM, dyslipidaemia, concommitent CAD
+        - <u>Salient PMH for neuropathic ulcers</u> - DM, other causes of peripheral neuropathy
+        - <u>Medications</u> - warfarin-, heparin- or hydroxyurea-induced ulcers
+    - **SHx** - smoking, alcohol, poor mobility (pressure ulcers)
+    - **Relevant FHx**
+- **P/E** - description of the ulcer, and examination of the venous and arterial systems +/- targeted neurological exam:
+    - **Description of the ulcer:** 
+    ![](img/comparison_of_3_types_of_ulcers.png)
+    - **General inspection:**
+        - <u>Palpable purpura</u> - due to small-vessel vasculitides
+        - <u>Retiform purpura</u> - due to microvascular occlusion disorders
+        - <u>Livedo reticularis</u> - due to microvascular occlusion disorders
+        - <u>Oily drainage</u> - due to panniculitis (e.g. pancreatic, alpha-1 anti-trypsin panniculitis)
+    - **Examination of the venous system** - CEAP classification of venous disease (automatically C6 disease if active)
+    - **Examination of the arterial system** - palpation of peripheral pulses is prudent
+    - **Targeted neurological examination** - demonstration of glove-and-stocking distribution of sensory loss
+- **Initial Ix** - guided by presumptive diagnosis:
+    - **Routine bloods** - CBC, A1c, FBG:
+        - <u>CBC</u> - anaemia or other haematological diseases
+        - <u>A1c, FBG</u> - assessment of DM control (RF for arterial and neuropathic ulcers)
+    - **Urine** - urinalysis for glycosuria
+    - **Microbiology** - bacerial swab +/- blood culture if infection suspected
+    - **Doppler US** (+/- ABPI) - assessment of arterial circulation
+- **Mx** - dependent on underlying cause:
+    - **Principles of Mx:**
+        - <u>Genral lifestyle modifications</u> - smoking cessation, weight loss, excercise advised for all afater discharge
+        - <u>Correction of underlying factors</u> - e.g. DM, anaemia
+        - <u>General ulcer care</u> - dressings, irrigation, and Mx of surrounding eczema
+        - <u>Mx of venous disease</u> - leg elevation and compressive bandaging to improve venous return, in absence of arterial disease
+        - <u>Pain management</u> - oral analgesics
+        - <u>Systemic ABx</u> - only if evidence of infection of ulcers as opposed to colonisation
+    - **General ulcer care:**
+        - **Dressings:**
+            - <u>Clinical effects</u> - no role in healing, but may reduce discomfort, odour, and reducing colonisation and secondary infection
+            - <u>Types of dressings used</u>:
+                - Non-adherent type
+                - Absorbent type - alginates, hydrogels, hydrocolloids
+            - <u>Frequency of dressing change</u> - dependent on purulence (ranging from daily to weekly change)
+        - **Irrigation** - for purulent ulcers:
+            - <u>KMNO4 soaks</u> - as mild anti-septic for purulent ulcers
+            - <u>NS or clean water irrigation</u> - to remove exudates and slough
+        - **Treatment of surrounding eczema** - topical corticosteroids for surrounding gravitational eczema in venous disease
+    - **Mx of venous disease** - C/I if documented arterial disease based on ABPI (i.e. ABPI \< 0.8):
+        - **Leg elevation** - reduce oedema by promoting venous return
+        - **Graduated compression bandaging** - improve healing of ulcers by enhancing venous return

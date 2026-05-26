@@ -1,0 +1,50 @@
+---
+id: d1a26be0-d717-42f2-b21f-74ad269ac8ae
+title: G6PD Deficiency
+---
+
+# G6PD Deficiency
+
+- **Epidemiology** - 4.5% in M, 0.5% in F
+- **Heterogenous** - \> 100 variants with varying enzyme activity
+    - Classified by residual G6PD activity - dependent on variant of mutations
+        - Class I - Severe (\< 2%), a/w chronic haemolytic anaemia
+        - Class II, \< 10%, a/w with intermittent haemolysis precipitated by increased oxidative stress
+        - Class III - 10-60% activity
+        - Class IV - \> 60% activity, clinically insignificant
+
+    
+    ![](../img/g6pd_classification.png)
+- **Pathophysiology of G6PD deficiency:**
+    - Inheritence pattern - X-linked recessive
+    - Genetics and insufficient Pentose phosphate shunt - Clinically significant mutations cause unstable G6PD enzymes, resulting in premature breakdown and reduced red cell survival due to insufficient pentose phosphate shunt
+    - Haemolysis - associated with a trigger
+        - Triggers - increased oxidative stress
+            - Acute medical illness/ Infection
+            - Drugs - Rasburicase, Sulphonamides, Antimalarials (particularly primaquine)
+            - Flava beans (Flavism)
+        - Oxidant accumulation in RBC - causing formation of methaemaglobin, Heiz bodies, and bite cells as they are removed by reticuloendothelial system, subsequently increased extravascular haemolysis.
+    - Reticulocytosis - Newly formed reticulocytes have normal G6PD activity, hence haemolysis is typically self-limiting
+- **Clinical features of G6PD deficiency:**
+    - Asymptomatic between attacks
+    - Attacks typically manifest as acute non-spherocytic intravascular haemolysis (rapid onset):
+        - S/S of anaemia - SOBOE, palpitations, pallor (rapid reduction of Hb by 3-4 g/dL)
+        - S*S of intravascular haemolysis - Marked jaundice, dark-coloured urine (haemaglobinuria) +*- AKI
+- **Ix in G6PD deficiency:**
+    - CBC + Biochemistries - Intravascular haemolysis
+        - Macrocytic anaemia w/ reticulocytosis
+        - Increased LDH, indirect bilirubin
+        - Reduced haptoglobin
+        - Increased methaemalbumin
+        - +/- Haemaglobinuria
+    - PBS - non-spherocytic intravascular heaemolysis
+        - Polychromasia
+        - Ghost cells, Hemi-ghost cells w/ Heiz bodies
+        - Bite cells - bites of membrane missing (removal of Heiz bodies by RES)
+    - +/- G6PD assay - often used as screening rather diagnostic test during acute attack, retrospective diagnosis (after 3mo of attack)
+        - Note - False positive in acute attacks because newly born reticulocytes have normal G6PD activity
+- **Tx of G6PD deficiency:**
+    - Supportive Tx
+    - Stop and avoid offending agents - drugs
+    - Folate replaceement
+    - Transfusion +/- aggressive hydration for acute intravacular haemolysis

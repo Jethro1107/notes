@@ -1,0 +1,95 @@
+---
+id: e4b7ff83-b912-450c-a905-5deaef7582ac
+title: Thalassaemia
+---
+
+# Thalassaemia
+
+- **Definition** - a familial anaemia that manifests as quantitative defects of haemoglobin, resulting from globin-chain imabalance
+- **Epidemiology:**
+    - **Local incidence:**
+        - <u>Alpha-thalassaemia</u> - 5% of those w/ McHc anaemia, 3% in NcNc anaemia
+        - <u>Beta-thalassaemia</u> - 3% with McHc anaemia
+    - **Geographically variable** - beta-thalassaemia more common in mediterranean region while alpha-thalassaemia more common in far east
+- **Goblin gene anatomy and physiology:**
+    - **Goblin gene clusters** - alpha globin gene clusters are found on chromosome 16, while beta globin gene clusters are found on chromosome 11: 
+    ![](../img/schematic_diagram_of_globin_gene_clusters.png)
+        - <u>Beta gene clusters</u> - contains epsilon (embryonic), Agamma and Ggamma (fetal), delta and beta (adult) globin genes that encode for the non-alpha subunit components
+        - <u>Alpha gene clusters</u> - contains zeta (embryonic), alpha-2 and alpha-1 (fetal and adult) globin genes that encode for the alpha subunit component
+- **Molecular lesions causing thalassaemia** - principally occurs when pathogenic variants in globin genes cause <u>selective deficiencies</u> in synthesis of alpha-like or beta-like globins, resulting in <u>globin-chain imbalance</u> that leads to the formation of inclusion bodies:
+    - **Gene deletion** - typically implicated through <u>deletion of one or more alpha globin genes</u> accounting for alpha-thalassaemia in Asian or Mediterranean regions
+    - **Gene rearrangement** - arising from unequal crossover and recombination between two chromosomes resulting in abnormal globin chains
+- **Disease classification** - thalassemia refers to a spectrum of disease characterised by reduced or absent production of one or more globin chains:
+    - **Beta-thalassemia** - caused by variants in haemoglobin beta gene clusters, resulting in impaired production of beta-globin chains, resulting in excess alpha chains, subsequently classified into <u>transfusion-dependent</u> and <u>non-transfusion dependent</u>:
+        - <u>Transfusion-dependent beta-thalasemia</u> - referred to individuals who require regulation transfusion to mitigate severe anaemia and extramedullary haematopoiesis, are are those w/ beta-thalassaemia major in old terminology
+        - <u>Transfusion-independent beta-thalassemia</u> - referred to individuals who do not require regular transfusions, or only periodic transfusions (e.g. during pregnancy or infection), encompassing beta-thalassemia intermedia, and minor in old conventions
+    - **Alpha-thalassemia** - caused by pathogenic variants in haemoglobin alpha gene clusters, resulting in impaired production of alpha-globin chains, resulting in excess beta and beta-like chains, classified into:
+        - <u>Hydrops fetalis</u> (– / –) - most severe form of alpha thalassemia due to deletion or inactivation of all four alpha globin genes, considered incompatible w/ live birth due to lack of alpha chains that normally appear in the 5-6th week of life
+        - <u>HbH disease</u> (a- / –) - deletion of 3 alpha globin genes, resulting in accumulation of Hb Barts (gamma-chain tetramer) during fetal development, and HbH (beta-chain tetramer) during adulthood
+        - <u>Alpha thalassemia minor/ trait</u> (aa / – or a- / a-) - deletion of two alpha genes, where individuals have minimal or no anaemia, but presence of microcytosis
+        - <u>Alpha thalassemia minima/ carrier</u> (aa / a-) - deletion of one alpha gene, and are silent carriers with no clinical or haematological abnormalities
+- **Pathophysiology of thalassemia:**
+    - **Globin chain imbalance** - gene variants disrupts normal ratio of alpha- to beta-like globin chains by reducing levels of one of the types of globin chains, resulting in <u>relative excess of the unaffected globin chain</u>, which cannot be incorporated into normal HbA:
+        - <u>Excess alpha chain in beta-thalassaemia</u> - excessive alpha chains cannot form soluble homotetramers, and begin aggregating as soon as they accumulate in erythroid precursors, accelerating apoptosis and causing intra-medullary haemolysis (ineffective erythropoiesis)
+        - <u>Excess beta-like chains in alpha-thalassaemia</u> - excessive gamma chains during fetal development, and excessive beta chains post-natally result in formation of HbBarts and HbH respectively, but are somewhat soluble, such that ineffective haematopoesis is less marked
+    - **Varying mechanisms of anaemia in thalassaemia** - caused by intramedullary haemolysis resulting in ineffective erythropoiesis, and increased haemolysis in circulation, but contributions of each mechanism may differ between thalassaemia:
+        - **Ineffective erythropoiesis** (predominant mechanism in beta-thalassaemia) - precipitation of excessive globin chains results in accelerated apoptosis in erythroid precursors before reticulocytes or erythrocytes are formed, resulting in:
+            - <u>Erythroid expansion</u> - driven by compensatory increase in erythropoietin levels, a/w **extramedullary haematopoiesis** in the liver and spleen
+            - <u>Iron overload</u> - ineffective erythropoiesis increases iron absorption and leads to increased total body iron
+        - **Haemolysis** - accelerated senescence due to increased membrane damage and alterations of membrane properties (e.g. rigidity, deformibility) which results in slower passage within the splenic microcirculation increasing likelihood of phagocytosis by reticuloendothelial cells
+    - **Iron overload** - iron-loading arising from 1) blood transfusion, and 2) ineffective erythropoiesis from severe beta-thalassaemia will results in iron-overload, and complications of haemosiderosis (in heart, kidneys, liver, pituitary, thyroid, parathyroid)
+- **Ix:**
+    - **CBC:**
+        - <u>Hb and MCV</u> - McHc anaemia w/ marked microcytosis
+        - <u>RBC</u> - increased RBC reflecting erythroid expansion
+        - <u>WBC, PLT</u> - mild cytopenia may occur reflecting hypersplenism
+    - **Bilirubin, LDH** - elevated reflecting intramedullary and extravascular haemolysis
+    - **Iron studies** - may reflect <u>iron-loading</u>:
+        - Increased ferritin
+        - Increased serum iron
+        - Increased %Tf
+    - **Coomb's test** - -ve to r/o immune-mediated haemolytic anaemia
+    - **PBS:**
+        - Microcytic, hypochromic anaemia w/ bizzare red cell morphology
+    - **Haemoglobin studies** (diagnostic):
+        - **Supravital staining for HbH** - Dx for alphathalassaemia:
+            - <u>Principles</u> - prescription of HbH result in formation of HbH inclusion bodies causing RBC assume a golf-ball appearance
+            - <u>Interpretation</u>:
+                - 1*1000 RBC w* inclusion bodies - alpha-thalassaemia minor
+                - \> 1/1000 RBC w/ inclusion bodies - HbH disease
+        - **High performance liquid chromatography** - Dx of beta-thalassaemia:
+            - <u>Principles</u> - compensatory synthesis of HbF and HbA2
+            - <u>Interpretation</u>:
+                - Major - HbA2 \>= 5%, HbF up to 95%
+                - Intermedia - HbA2 \>= 4%, HbF up to 50%
+                - Minor - HbA2 \>= 4%, HbF up to 5%
+- **Mx:**
+    - **Principles of Mx:**
+        - <u>Mx of anaemia</u> - folate acid supplementation for all w/ thalassemia major +/- chronic regular transfusion and medical therapy for selected phenotypes
+        - <u>Splenectomy</u> - may be appropriate for selected patients typically w/ beta thalassaemia
+        - <u>Monitoring and Mx of disease complications</u> - routine evaluation and monitoring for complication
+    - **Mx of anaemia** - for symptomatic relief, reducing morbidity, and preventing S/E of ineffective haematopoiesis (e.g. extramedullary haematopoiesis):
+        - **General measures:**
+            - Folic acid supplementation for all with thalassaemia major or thalassemia intermedia w/ evidence of chronic haemolysis
+            - Avoid taking iron-containing supplements (e.g. vitamin plus iron) unless documented iron deficiency as to avoid complications of overload
+        - **Blood transfusion:**
+            - <u>Regular chronic transfusion regimen</u> (hypertransfusion) may be initiated in patients w/ transfusion-dependent thalassaemia to maintain a pretransfusion haemoglobin target on a regular basis (many patients w/ thalassaemia intermedia may subsequently become transfusion-dependent)
+            - <u>As needed blood transfusion</u> - initiated in thalassemia intermedia that are not transfusion-dependent during periods of erythropoietic stress such as acute infections, periods of rapid growth, surgery or pregnancy
+    - **Chronic transfusion regimens** - maintain a relatively stable haemoglobin level to 1) maintain good cardiovascular status and ET, 2) partially suppress ineffective erythropoiesis:
+        - <u>Indications</u>:
+            - Thalassemia major (by definition transfusion-dependent thalassemia)
+            - Selected patients w/ thalassemia intermedia (decision is often individualised to balance disease complications and burden of regular transfusion)
+        - <u>Pretransfusion haemoglobin level</u> - target range of 9.5-10.5 g/dL to suppress extramedullary haematopoiesis and minimizing volume overload
+        - <u>Dosing</u> - \> 10 ml/kg/d dosing until Hb reaches desired level, followed by individualised titration to maintain Hb level (e.g. 8-10 ml/kg every 2-3 weeks)
+    - **Luspatercept** (BELIEVE trial):
+        - <u>MOA</u> - **erythroid maturation agent** through activin A traps:
+            - Improvd RBC maturation to reduce ineffective erythropoiesis through effects on TGF-beta signalling
+            - Action independent of Epo, heppcidin, and GDF11
+        - <u>Indications</u> - adults w/ transfusion-dependent beta-thalssemia who desire reduced transfusion burden
+        - <u>Regimen</u> - 1mg/kg SC every 3 weeks
+        - <u>S/E</u>:
+            - Arterial and venous thromboembolic eevnts
+            - Bone pain and arthralgia
+            - Dizziness
+            - Hypertension
+            - Hyperuricaemia

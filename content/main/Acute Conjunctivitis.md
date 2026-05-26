@@ -1,0 +1,70 @@
+---
+type: main
+---
+# Acute Conjunctivitis
+
+- **Definition** - conjunctival inflammation lasting < 3 weeks
+- **Classification conjunctivitis:**
+	- _Infectious - bacterial conjunctivitis, viral conjunctivitis
+	- _Allergic/ toxic_- allergic conjunctivitis, contact hypersensitivity (dermato-conjunctivitis)
+- **Clinical features of conjunctivitis** - generally characterised by 1) red eye, and 2) normal vision and absence of eye pain, but slightly differs based on the underlying cause:
+	- _Red eye_ - diffuse hyperaemia of tarsal or bulbar conjunctivae
+	- _Foreign body sensation_ - often a gritty, sandy discomfort, in the absence of eye pain
+	- _Normal vision_ - vision is preserved w/ normal cornea
+	- _Discharge_ - key difference based on the likely etiology
+	- 
+	![[Pasted image 20260503173850.png]]
+- **Bacterial conjunctivitis:**
+	- **Etiological agents** - usually from contaminated fingers, towels, or face clothes:
+		- Streptococcus pneumoniae
+		- Haemophilus influenzae
+		- Staphylococcus aureus
+		- Streptococcus pyogenes
+		- Neisseria gonorrhoea (hyperacute onset)
+		- Pseudomonas aeruginosa
+	- **Clinical features:**
+		- Gritty red eye w/ clear cornea
+		- Purulent discharge
+	- **Associated features in Hx supportive of Dx:**
+		- Purulent discharge w/ sticking together of eyelashes in the morning
+		- Typically involves one eye and spread to the other
+		- Often a/w Hx of contact w/ person w/ similar symptoms
+	- **Signs:**
+		- Diffuse conjunctival injections and a non-specific papillary response
+		- -ve Fluorescein staining
+		- 
+		![[Pasted image 20260503174605.png]]
+	- **Ix** - consider swab for S/CT if:
+		- Neonates
+		- Hyperacute or severely purulent conjunctivitis
+		- Prolonged infection
+	- **Mx:**
+		- **Principles of Mx:**
+			- _General advices_ - limit spread by 1) maintaining good occular hygiene, 2) use of separate towels, and 3) avoiding close contact w/ others
+			- _Pharmacological Tx_ - saline irrigation, topical/ systemic ABx
+		- **Topical ABx** - theoretically mild cases can resolve on its own but may take up to 14d:
+			- Chloramphenicol 0.5% eye drops q1-2h for 2d, followed by qid for 7d
+			- Chloramphenicol 1% eye ointment od nocte until discharge resolves for up to 7d
+			- Framycetin 0.5% eye drops 1-2 drops q1-2h for 1d, followed by q8h until discharge resolves for up to 7d
+			- Topical gentamicin or tobramycin (Pseudomonas infections)
+		- **Systemic ABx** - required for N. gonorrhoea or chlamydia conjunctivitis
+- **Viral conjunctivitis:**
+	- **Etiological agent** - adenovirus
+	- **Clinical features** - almost always a 2-3 week course initially unilateral but w/ cross-infection ocurring in the other eye:
+		- Gritty red eye, extremely irritable
+		- Copious amounts of watery discharge
+	- **Associated features in Hx supportive of Dx:**
+		- a/w epidemics and a Hx of contact w/ person w/ similar symptoms
+		- Often accompanied by a prodrome of URTI
+	- **Signs:**
+		- Diffuse conjunctival injections
+		- Follicular response in the tarsal conjunctivae (tiny pale lymphoid follicles)
+		- Pre-auricular LN
+	- **Mx:**
+		- **Principles of Mx:**
+			- _General advices_ - limit spread by 1) maintaining good occular hygiene, 2) use of separate towels, and 3) avoiding close contact w/ others
+			- _Pharmacological Tx_ - supportive Tx
+		- **Pharmacological Tx:**
+			- Cool compress
+			- Topical lubricants (artificial tear preparations)
+			- Topical vasoconstrictors (e.g. phenylephrine)
