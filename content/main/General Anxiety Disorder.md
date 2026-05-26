@@ -2,7 +2,6 @@
 id: b87a0762-4f15-416a-8f8c-177a45b85b80
 title: General Anxiety Disorder
 ---
-
 # General Anxiety Disorder
 
 - **Definition** - form of anxiety disorder where symptoms of anxiety are persistent, and are not restricted to, or markedly increased in particular set of circumstances (cf phobic anxiety disorders)
@@ -13,7 +12,7 @@ title: General Anxiety Disorder
         - Sex - female preponderance (F:M = 2:1)
         - Social disadvantages - a/w lower household income, unemployment, divorce, and separation
 - **DSM-V diagnostic criteria of Generalized Anxiety Disorder:** 
-![](../img/dsm-v_generalized_anxiety_disorder_diagnostic_criteria.png)
+	![](../img/dsm-v_generalized_anxiety_disorder_diagnostic_criteria.png)
 - **Clinical picture of GAD** - all symptoms of anxiety can occur in GAD but <u>it is the pattern that is diagnostic</u>:
     - **Free-floating anxiety** (worries and anxiety) - more prolonged than in healthy people, often wide spread and not focused on a specific issue as they are in panic disorders, social phobias, or OCD, and are often very difficult to control, often out-of-proportion to the actual likelihood or impact of the anticipated event:
         - **Nature of anxiety in GAD** - differences from non-pathological anxiety:
@@ -22,7 +21,7 @@ title: General Anxiety Disorder
             - <u>Range</u> - greater range of life circumstances about which the person worries, and the focus of worry may **shift from one concern to another**
             - <u>Out-of-proportion</u> - the intensity, duration, and frequency of anxiety is usually out of proportion to the actual likelihood or impact of the anticipated event
             - <u>Accompanied by physical symptoms</u> (Criteria C) - presence of physical symptoms accompanying anxiety (e.g. being keyed up) is often present w/ GAD and never present in everyday worries
-        - **Contents of worries** - dependent on age, and also life circumstances, but acharacteristically free-floating and shifting:
+        - **Contents of worries** - dependent on age, and also life circumstances, but characteristically free-floating and shifting:
             - <u>Adults</u> - worry about everyday routine life circumstance, such as job responsibilities, personal health and finances, well-being of family members, misfortunes to children, or otherwise minor matters
             - <u>Children</u> - worries about competence and the quality of their performance (e.g. musical, sporting, schooling)
     - **Psychological arousal** - may manifest as:
@@ -143,9 +142,7 @@ title: General Anxiety Disorder
     - Offer structured psychological treatment
     - Consider use of medications
     - Discuss plans with the patient, the general practitioner, and the community
-
-  
-  ![](../img/stepped_care_approach_to_gad.png)
+	  ![](../img/stepped_care_approach_to_gad.png)
 - **Prognosis** - generally poor (anxiety disorders that last for \> 6mo generally have poorer prognosis hence the cutoff in Dx criteria):
     - <u>Remission</u> - low rates of remission over short and medium term
     - <u>Course</u> - chronic and fluctuating illness in many clinically identified patients
